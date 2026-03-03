@@ -1,0 +1,859 @@
+---
+import Base from "../../layouts/Base.astro";
+import Header from "../../components/Header.astro";
+import { getCollection, type CollectionEntry } from "astro:content";
+import type { GetStaticPaths } from "astro";
+
+export const getStaticPaths: GetStaticPaths = async () => {
+    const collisions = await getCollection("collisions");
+    return collisions.map((c: CollectionEntry<"collisions">) => ({
+        params: { slug: c.id.replace(/\.md$/, "") },
+        props: { collision: c },
+    }));
+};
+
+interface Props {
+    collision: CollectionEntry<"collisions">;
+}
+
+const { collision } = Astro.props;
+const { Content } = await collision.render();
+const {
+    title,
+    display_title,
+    display_subtitle,
+    date,
+    categories,
+    tags,
+    description,
+    collision_nool,
+    collision_point,
+} = collision.data;
+
+const visualTitle = display_title || title;
+const visualSubtitle = display_subtitle || "";
+
+const collisionIdeas: string[] = (collision_point?.ideas ||
+    [collision_point?.idea_a, collision_point?.idea_b].filter(
+        Boolean,
+    )) as string[];
+
+const categoryLabels: Record<string, string> = {
+    "ai-emergence": "AI & Emergence",
+    "living-orgs": "Living Organisations",
+    spar: "SPAR Methodology",
+    pattern: "Pattern Connections",
+};
+const cat = categories?.[0] || "";
+const catLabel = categoryLabels[cat] || cat;
+
+// Split raw markdown body at ## headings for server-side panel rendering
+const rawBody = collision.body || "";
+const sections: { heading: string; body: string; isCollisionPoint: boolean }[] =
+    [];
+const sectionParts = rawBody.split(/^## /m);
+
+// First part is content before first ## (intro after h1)
+if (sectionParts[0]) {
+    const intro = sectionParts[0].replace(/^#\s+.+$/m, "").trim();
+    if (intro.length > 20) {
+        sections.push({ heading: "", body: intro, isCollisionPoint: false });
+    }
+}
+
+// Remaining parts are ## sections
+for (let i = 1; i < sectionParts.length; i++) {
+    const part = sectionParts[i];
+    const nlIndex = part.indexOf("\n");
+    const heading = nlIndex > -1 ? part.slice(0, nlIndex).trim() : part.trim();
+    const body = nlIndex > -1 ? part.slice(nlIndex + 1).trim() : "";
+    const isCP =
+        heading.toLowerCase().includes("insight") ||
+        heading.toLowerCase().includes("collision");
+    sections.push({ heading, body, isCollisionPoint: isCP });
+}
+
+// MBS glow presets
+const glows = [
+    "radial-gradient(ellipse at 20% 40%, rgba(40,116,166,0.15) 0%, transparent 55%), radial-gradient(ellipse at 80% 70%, rgba(212,168,67,0.08) 0%, transparent 50%)",
+    "radial-gradient(ellipse at 70% 30%, rgba(212,168,67,0.15) 0%, transparent 55%), radial-gradient(ellipse at 20% 80%, rgba(39,174,96,0.08) 0%, transparent 50%)",
+    "radial-gradient(ellipse at 40% 50%, rgba(39,174,96,0.12) 0%, transparent 55%), radial-gradient(ellipse at 80% 20%, rgba(40,116,166,0.1) 0%, transparent 50%)",
+    "radial-gradient(ellipse at 60% 60%, rgba(40,116,166,0.12) 0%, transparent 50%), radial-gradient(ellipse at 30% 30%, rgba(212,168,67,0.12) 0%, transparent 50%)",
+    "radial-gradient(ellipse at 50% 40%, rgba(212,168,67,0.18) 0%, transparent 55%)",
+];
+
+const totalPanels = 1 + sections.length + (collision_nool ? 1 : 0);
+---
+
+<Base
+    title={title}
+    description={description}
+    bodyClass="section-think collision-keynote"
+>
+    <Header activeNav="collisions" />
+
+    <div class="kn-scroll" id="kn-scroll">
+        <!-- ── PANEL 0: TITLE CARD ── -->
+        <section class="kn-panel kn-panel--title">
+            <div
+                class="kn-glow"
+                style={`background: radial-gradient(ellipse at 25% 35%, rgba(40,116,166,0.2) 0%, transparent 50%), radial-gradient(ellipse at 75% 65%, rgba(212,168,67,0.15) 0%, transparent 50%)`}
+            >
+            </div>
+            <div class="kn-inner kn-inner--title">
+                <a href="/collisions/" class="kn-back">&larr; All Collisions</a>
+                <div class="kn-title-meta">
+                    <span class="kn-cat">{catLabel}</span>
+                    <time datetime={date.toISOString()}>
+                        {
+                            date.toLocaleDateString("en-AU", {
+                                year: "numeric",
+                                month: "long",
+                                day: "numeric",
+                            })
+                        }
+                    </time>
+                </div>
+                <h1 class="kn-h1">{visualTitle}</h1>
+                {visualSubtitle && <p class="kn-subtitle">{visualSubtitle}</p>}
+                {
+                    collisionIdeas.length > 0 && (
+                        <div class="kn-cp-box">
+                            <span class="kn-cp-label">💥 Collision Point</span>
+                            <div class="kn-cp-ideas">
+                                {collisionIdeas.map((idea, i) => (
+                                    <>
+                                        <span class="kn-cp-idea">{idea}</span>
+                                        {i < collisionIdeas.length - 1 && (
+                                            <span class="kn-cp-x">×</span>
+                                        )}
+                                    </>
+                                ))}
+                            </div>
+                        </div>
+                    )
+                }
+                {
+                    tags && (
+                        <div class="kn-tags">
+                            {tags.map((tag: string) => (
+                                <span class="kn-tag">{tag}</span>
+                            ))}
+                        </div>
+                    )
+                }
+                <div class="kn-scroll-cue">
+                    <span class="kn-cue-text">Scroll to begin</span>
+                    <span class="kn-cue-arrow">↓</span>
+                </div>
+            </div>
+            <div class="kn-counter">{`1 / ${totalPanels}`}</div>
+        </section>
+
+        <!-- ── CONTENT PANELS ── -->
+        <div class="kn-content-source" style="display:none"><Content /></div>
+
+        {
+            sections.map((sec, idx) => (
+                <section
+                    class={`kn-panel kn-panel--content ${sec.isCollisionPoint ? "kn-panel--collision-point" : ""}`}
+                    data-panel={idx + 1}
+                    data-heading={sec.heading}
+                >
+                    <div
+                        class="kn-glow"
+                        style={`background: ${
+                            sec.isCollisionPoint
+                                ? "radial-gradient(ellipse at 50% 50%, rgba(212,168,67,0.2) 0%, transparent 45%), radial-gradient(ellipse at 20% 80%, rgba(231,76,60,0.08) 0%, transparent 50%)"
+                                : glows[idx % glows.length]
+                        }`}
+                    />
+                    <div class="kn-inner">
+                        <div class="kn-section-marker">
+                            <span class="kn-marker-line" />
+                            <span class="kn-marker-num">
+                                {String(idx + 1).padStart(2, "0")}
+                            </span>
+                        </div>
+                        <div class="kn-prose" id={`prose-${idx}`}>
+                            {/* Content injected via JS from rendered markdown */}
+                        </div>
+                    </div>
+                    <div class="kn-counter">{`${idx + 2} / ${totalPanels}`}</div>
+                </section>
+            ))
+        }
+
+        <!-- ── FINAL PANEL: NOOL ── -->
+        {
+            collision_nool && (
+                <section class="kn-panel kn-panel--nool">
+                    <div
+                        class="kn-glow"
+                        style="background: radial-gradient(ellipse at 50% 40%, rgba(212,168,67,0.2) 0%, transparent 50%), radial-gradient(ellipse at 30% 80%, rgba(39,174,96,0.1) 0%, transparent 50%)"
+                    />
+                    <div class="kn-inner kn-inner--center">
+                        <div class="kn-nool-card">
+                            <span class="kn-nool-title">நூல் (NOOL) Scope</span>
+                            <div class="kn-nool-grid">
+                                <div class="kn-nool-item">
+                                    <span class="kn-nool-dt">
+                                        நோக்கம் (Why)
+                                    </span>
+                                    <p class="kn-nool-dd">
+                                        {collision_nool.nokkam}
+                                    </p>
+                                </div>
+                                <div class="kn-nool-item">
+                                    <span class="kn-nool-dt">
+                                        வடிவம் (What Type)
+                                    </span>
+                                    <p class="kn-nool-dd">
+                                        {collision_nool.vadivam}
+                                    </p>
+                                </div>
+                                <div class="kn-nool-item">
+                                    <span class="kn-nool-dt">
+                                        சங்கிலி (Success Signal)
+                                    </span>
+                                    <p class="kn-nool-dd">
+                                        {collision_nool.sangilai}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="/collisions/" class="kn-btn-back">
+                            &larr; All Collisions
+                        </a>
+                    </div>
+                    <div class="kn-counter">{`${totalPanels} / ${totalPanels}`}</div>
+                </section>
+            )
+        }
+    </div>
+</Base>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        // Extract rendered HTML from Content component and inject into panels
+        const source = document.querySelector(".kn-content-source");
+        if (!source) return;
+
+        const html = source.innerHTML;
+        // Remove redundant h1
+        const cleaned = html.replace(/<h1[^>]*>[\s\S]*?<\/h1>/, "");
+
+        // Split at <h2> tags
+        const parts = cleaned.split(/(?=<h2)/);
+
+        // Find all prose containers
+        const proseContainers = document.querySelectorAll(".kn-prose");
+
+        let partIdx = 0;
+        // Check if first part has no h2 (intro text)
+        if (parts[0] && !parts[0].trim().startsWith("<h2")) {
+            const introContent = parts[0].trim();
+            if (introContent.length > 20 && proseContainers[0]) {
+                proseContainers[0].innerHTML = introContent;
+                partIdx = 1;
+            } else {
+                partIdx = 1; // skip empty intro
+            }
+        }
+
+        // Map remaining parts to panels
+        for (
+            let i = partIdx;
+            i < parts.length && i - partIdx < proseContainers.length;
+            i++
+        ) {
+            const target =
+                proseContainers[
+                    i -
+                        partIdx +
+                        (partIdx === 1 && parts[0].trim().length > 20 ? 1 : 0)
+                ];
+            if (target && parts[i].trim().length > 10) {
+                target.innerHTML = parts[i].trim();
+            }
+        }
+
+        // Simpler: just assign parts to containers in order
+        // Reset and do a clean pass
+        const h2Parts = cleaned
+            .split(/(?=<h2)/)
+            .filter((p) => p.trim().length > 10);
+        proseContainers.forEach((el, i) => {
+            if (h2Parts[i]) {
+                el.innerHTML = h2Parts[i].trim();
+            }
+        });
+
+        source.remove();
+
+        // IntersectionObserver for fade-in + counter updates
+        const panels = document.querySelectorAll(".kn-panel");
+        const observer = new IntersectionObserver(
+            (entries) => {
+                entries.forEach((entry) => {
+                    if (entry.isIntersecting && entry.intersectionRatio > 0.3) {
+                        entry.target.classList.add("kn-visible");
+                    }
+                });
+            },
+            { threshold: [0.3] },
+        );
+        panels.forEach((p) => observer.observe(p));
+
+        // Progress bar
+        const scrollEl = document.getElementById("kn-scroll");
+        const progressBar = document.getElementById("kn-progress-fill");
+        if (scrollEl && progressBar) {
+            scrollEl.addEventListener("scroll", () => {
+                const pct =
+                    scrollEl.scrollTop /
+                    (scrollEl.scrollHeight - scrollEl.clientHeight);
+                progressBar.style.width = `${Math.min(pct * 100, 100)}%`;
+            });
+        }
+    });
+</script>
+
+<!-- Global styles so they apply to JS-injected content -->
+<style is:global>
+    /* ─── SCROLL CONTAINER ─── */
+    .collision-keynote .kn-scroll {
+        scroll-snap-type: y mandatory;
+        overflow-y: auto;
+        height: 100vh;
+        scroll-behavior: smooth;
+        position: relative;
+    }
+
+    @media (pointer: coarse) {
+        .collision-keynote .kn-scroll {
+            scroll-snap-type: y proximity;
+        }
+    }
+
+    /* ─── PROGRESS BAR ─── */
+    .collision-keynote .kn-progress {
+        position: fixed;
+        top: 64px;
+        left: 0;
+        right: 0;
+        height: 2px;
+        background: rgba(255, 255, 255, 0.04);
+        z-index: 100;
+    }
+
+    .collision-keynote .kn-progress-fill {
+        height: 100%;
+        background: linear-gradient(
+            90deg,
+            var(--mind-color),
+            var(--soul-color),
+            var(--body-color)
+        );
+        width: 0%;
+        transition: width 0.15s ease;
+    }
+
+    /* ─── PANEL BASE ─── */
+    .collision-keynote .kn-panel {
+        min-height: 100vh;
+        scroll-snap-align: start;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    }
+
+    .collision-keynote .kn-panel--content,
+    .collision-keynote .kn-panel--nool {
+        opacity: 0;
+        transform: translateY(30px);
+        transition:
+            opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1),
+            transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .collision-keynote .kn-panel.kn-visible {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    .collision-keynote .kn-panel--title {
+        opacity: 1;
+        transform: none;
+    }
+
+    .collision-keynote .kn-glow {
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        z-index: 0;
+    }
+
+    .collision-keynote .kn-inner {
+        position: relative;
+        z-index: 1;
+        width: 100%;
+        max-width: 780px;
+        padding: 80px 32px;
+        margin: 0 auto;
+    }
+
+    .collision-keynote .kn-inner--title {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-height: calc(100vh - 80px);
+        max-width: 860px;
+    }
+
+    .collision-keynote .kn-inner--center {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: calc(100vh - 80px);
+    }
+
+    /* ─── SECTION MARKER ─── */
+    .collision-keynote .kn-section-marker {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 32px;
+    }
+
+    .collision-keynote .kn-marker-line {
+        width: 40px;
+        height: 2px;
+        background: linear-gradient(90deg, var(--soul-color), transparent);
+        display: block;
+    }
+
+    .collision-keynote .kn-marker-num {
+        font-family: var(--font-heading);
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        color: var(--soul-color);
+        opacity: 0.6;
+    }
+
+    /* ─── PANEL COUNTER ─── */
+    .collision-keynote .kn-counter {
+        position: absolute;
+        bottom: 24px;
+        right: 32px;
+        font-family: var(--font-heading);
+        font-size: 0.65rem;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        color: var(--text-dim);
+        opacity: 0.5;
+    }
+
+    /* ─── TITLE CARD ─── */
+    .collision-keynote .kn-back {
+        font-family: var(--font-heading);
+        font-size: 0.78rem;
+        font-weight: 600;
+        color: var(--mind-color);
+        text-decoration: none;
+        letter-spacing: 0.03em;
+        margin-bottom: 40px;
+        display: inline-block;
+        transition: color 0.15s ease;
+    }
+
+    .collision-keynote .kn-back:hover {
+        color: var(--accent);
+    }
+
+    .collision-keynote .kn-title-meta {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        margin-bottom: 24px;
+    }
+
+    .collision-keynote .kn-cat {
+        font-family: var(--font-heading);
+        font-size: 0.68rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        padding: 4px 14px;
+        border-radius: 20px;
+        color: var(--mind-color);
+        background: rgba(40, 116, 166, 0.12);
+        border: 1px solid rgba(40, 116, 166, 0.25);
+    }
+
+    .collision-keynote .kn-title-meta time {
+        font-size: 0.72rem;
+        color: var(--text-dim);
+        font-family: var(--font-heading);
+    }
+
+    .collision-keynote .kn-h1 {
+        font-size: clamp(2rem, 5vw, 3.2rem) !important;
+        line-height: 1.12;
+        margin-bottom: 32px;
+        letter-spacing: -0.02em;
+        max-width: 800px;
+        background: linear-gradient(
+            135deg,
+            var(--text-primary) 40%,
+            var(--accent-light)
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+
+    .collision-keynote .kn-subtitle {
+        font-size: clamp(1rem, 2vw, 1.3rem);
+        line-height: 1.5;
+        color: var(--text-muted);
+        max-width: 700px;
+        margin-bottom: 32px;
+        font-weight: 400;
+    }
+
+    /* Collision point box */
+    .collision-keynote .kn-cp-box {
+        padding: 20px 24px;
+        background: rgba(212, 168, 67, 0.06);
+        border: 1px solid rgba(212, 168, 67, 0.15);
+        border-left: 3px solid var(--soul-color);
+        border-radius: 12px;
+        margin-bottom: 24px;
+        max-width: 700px;
+        backdrop-filter: blur(4px);
+    }
+
+    .collision-keynote .kn-cp-label {
+        display: block;
+        font-family: var(--font-heading);
+        font-size: 0.68rem;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--soul-color);
+        margin-bottom: 8px;
+    }
+
+    .collision-keynote .kn-cp-ideas {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+    .collision-keynote .kn-cp-idea {
+        font-size: 0.9rem;
+        color: var(--text-secondary);
+        font-family: var(--font-heading);
+        font-weight: 500;
+    }
+
+    .collision-keynote .kn-cp-x {
+        font-size: 1.1rem;
+        color: var(--soul-color);
+        font-weight: 700;
+    }
+
+    .collision-keynote .kn-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-bottom: 40px;
+    }
+
+    .collision-keynote .kn-tag {
+        font-size: 0.68rem;
+        color: var(--text-dim);
+        padding: 3px 10px;
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid rgba(255, 255, 255, 0.06);
+        font-family: var(--font-heading);
+        letter-spacing: 0.02em;
+    }
+
+    /* Scroll hint */
+    .collision-keynote .kn-scroll-cue {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 4px;
+        margin-top: auto;
+        padding-top: 48px;
+        animation: knPulse 2.5s ease-in-out infinite;
+    }
+
+    .collision-keynote .kn-cue-text {
+        font-family: var(--font-heading);
+        font-size: 0.65rem;
+        font-weight: 600;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--text-dim);
+    }
+
+    .collision-keynote .kn-cue-arrow {
+        font-size: 1.4rem;
+        color: var(--soul-color);
+        opacity: 0.7;
+    }
+
+    @keyframes knPulse {
+        0%,
+        100% {
+            opacity: 0.3;
+            transform: translateY(0);
+        }
+        50% {
+            opacity: 1;
+            transform: translateY(8px);
+        }
+    }
+
+    /* ─── CONTENT PANELS ─── */
+    .collision-keynote .kn-panel--collision-point {
+        border-left: 3px solid var(--soul-color);
+    }
+
+    /* ─── PROSE (global for JS-injected HTML) ─── */
+    .collision-keynote .kn-prose {
+        max-width: 720px;
+    }
+
+    .collision-keynote .kn-prose h2 {
+        font-size: clamp(1.5rem, 3.5vw, 2rem);
+        font-weight: 700;
+        margin-bottom: 24px;
+        color: var(--text-primary);
+        line-height: 1.2;
+        letter-spacing: -0.01em;
+    }
+
+    .collision-keynote .kn-prose p {
+        font-size: 1.1rem;
+        line-height: 1.85;
+        color: var(--text-secondary);
+        margin-bottom: 16px;
+    }
+
+    .collision-keynote .kn-prose strong {
+        color: var(--text-primary);
+        font-weight: 600;
+    }
+
+    .collision-keynote .kn-prose em {
+        color: var(--accent-light);
+        font-style: italic;
+    }
+
+    .collision-keynote .kn-prose a {
+        color: var(--mind-color);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+        text-decoration-thickness: 1.5px;
+        transition: color 0.15s ease;
+    }
+
+    .collision-keynote .kn-prose a:hover {
+        color: var(--accent);
+    }
+
+    /* Tables */
+    .collision-keynote .kn-prose table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 24px 0;
+        font-size: 0.9rem;
+        border-radius: 8px;
+        overflow: hidden;
+        background: rgba(255, 255, 255, 0.02);
+    }
+
+    .collision-keynote .kn-prose th {
+        text-align: left;
+        padding: 12px 16px;
+        border-bottom: 2px solid rgba(255, 255, 255, 0.08);
+        color: var(--text-primary);
+        font-family: var(--font-heading);
+        font-weight: 600;
+        font-size: 0.8rem;
+        letter-spacing: 0.03em;
+        background: rgba(255, 255, 255, 0.03);
+    }
+
+    .collision-keynote .kn-prose td {
+        padding: 10px 16px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+        color: var(--text-muted);
+        vertical-align: top;
+        line-height: 1.6;
+    }
+
+    .collision-keynote .kn-prose tr:hover td {
+        background: rgba(255, 255, 255, 0.02);
+    }
+
+    /* Blockquotes */
+    .collision-keynote .kn-prose blockquote {
+        border-left: 3px solid var(--soul-color);
+        padding: 16px 24px;
+        margin: 24px 0;
+        color: var(--text-muted);
+        font-style: italic;
+        background: rgba(212, 168, 67, 0.04);
+        border-radius: 0 8px 8px 0;
+    }
+
+    /* Lists */
+    .collision-keynote .kn-prose ul,
+    .collision-keynote .kn-prose ol {
+        margin: 16px 0;
+        padding-left: 24px;
+    }
+
+    .collision-keynote .kn-prose li {
+        margin-bottom: 6px;
+        font-size: 1.05rem;
+        line-height: 1.7;
+        color: var(--text-secondary);
+    }
+
+    /* Code */
+    .collision-keynote .kn-prose code {
+        font-size: 0.85em;
+        background: rgba(255, 255, 255, 0.06);
+        padding: 2px 6px;
+        border-radius: 4px;
+        color: var(--accent-light);
+    }
+
+    /* SVG: breakout and breathe */
+    .collision-keynote .kn-prose svg {
+        display: block;
+        width: min(900px, calc(100vw - 64px));
+        max-width: none;
+        margin: 40px auto;
+        border-radius: 16px;
+        filter: drop-shadow(0 8px 32px rgba(0, 0, 0, 0.4));
+    }
+
+    /* Panels with SVGs get wider prose area */
+    .collision-keynote .kn-panel--collision-point .kn-prose,
+    .collision-keynote .kn-panel--content:has(svg) .kn-prose {
+        max-width: 900px;
+    }
+
+    /* ─── NOOL CARD ─── */
+    .collision-keynote .kn-nool-card {
+        padding: 40px 48px;
+        background: rgba(26, 23, 20, 0.8);
+        border: 1px solid rgba(255, 255, 255, 0.06);
+        border-radius: 20px;
+        max-width: 700px;
+        width: 100%;
+        backdrop-filter: blur(12px);
+        box-shadow: 0 8px 40px rgba(0, 0, 0, 0.3);
+    }
+
+    .collision-keynote .kn-nool-title {
+        display: block;
+        font-family: var(--font-heading);
+        font-size: 0.8rem;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--soul-color);
+        text-align: center;
+        margin-bottom: 32px;
+    }
+
+    .collision-keynote .kn-nool-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .collision-keynote .kn-nool-item {
+        padding-bottom: 20px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    }
+
+    .collision-keynote .kn-nool-item:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+
+    .collision-keynote .kn-nool-dt {
+        font-family: var(--font-heading);
+        font-size: 0.72rem;
+        font-weight: 600;
+        color: var(--mind-color);
+        margin-bottom: 6px;
+        display: block;
+        letter-spacing: 0.03em;
+    }
+
+    .collision-keynote .kn-nool-dd {
+        font-size: 0.95rem;
+        color: var(--text-muted);
+        line-height: 1.65;
+        margin: 0;
+    }
+
+    .collision-keynote .kn-btn-back {
+        display: inline-flex;
+        align-items: center;
+        padding: 10px 28px;
+        font-family: var(--font-heading);
+        font-size: 0.85rem;
+        font-weight: 600;
+        border-radius: 24px;
+        border: 1px solid rgba(40, 116, 166, 0.4);
+        color: var(--mind-color);
+        background: rgba(40, 116, 166, 0.06);
+        text-decoration: none;
+        margin-top: 32px;
+        transition: all 0.25s ease;
+    }
+
+    .collision-keynote .kn-btn-back:hover {
+        background: rgba(40, 116, 166, 0.15);
+        border-color: var(--mind-color);
+        box-shadow: 0 4px 24px rgba(40, 116, 166, 0.15);
+    }
+
+    /* ─── RESPONSIVE ─── */
+    @media (max-width: 768px) {
+        .collision-keynote .kn-inner {
+            padding: 48px 20px;
+        }
+
+        .collision-keynote .kn-h1 {
+            font-size: 1.6rem !important;
+        }
+
+        .collision-keynote .kn-prose p {
+            font-size: 1rem;
+        }
+
+        .collision-keynote .kn-nool-card {
+            padding: 24px;
+        }
+    }
+</style>

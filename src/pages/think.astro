@@ -1,0 +1,173 @@
+---
+import Page from "../layouts/Page.astro";
+import PatternCard from "../components/PatternCard.astro";
+import TamilRoot from "../components/TamilRoot.astro";
+---
+
+<Page
+  title="Think"
+  description="How Naveen thinks. Dialectic reasoning, pattern-connecting, and the frameworks behind every decision."
+  activeNav="think"
+>
+  <section class="dimension-hero dimension-hero--think">
+    <div class="container">
+      <div class="orientation" aria-label="You are in Think">
+        <span class="ori-dot ori-dot--active" title="Think"></span>
+        <span class="ori-dot ori-dot--dim" title="Work"></span>
+        <span class="ori-dot ori-dot--dim" title="Play"></span>
+      </div>
+      <span class="dimension-label"
+        >Think <span class="personality-dot">·</span>
+        <span class="personality-type">Introvert</span></span
+      >
+      <h1>How I Think</h1>
+      <p class="dimension-desc">
+        I think through friction. Opposing perspectives arguing in structured
+        dialectic. Pattern-connecting across domains. Recursive self-correction.
+        These are the reasoning tools I use daily, and why I trust them.
+      </p>
+    </div>
+  </section>
+
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <TamilRoot
+        tamil="சிந்தனை"
+        transliteration="Sinthanai"
+        meaning="Thought. The disciplined act of examining ideas through friction, not passive reflection, but active interrogation until clarity emerges."
+        tamilMeaning="கருத்துக்களை உராய்வின் வழியாக ஆராயும் ஒழுங்கான செயல். செயலற்ற சிந்தனை அல்ல, தெளிவு தோன்றும்வரை செயலூக்கமான விசாரணை."
+        kural="அறிவற்றங் காக்குங் கருவி செறுவார்க்கும் உள்ளழிக்க லாகா அரண்."
+        kuralNumber={421}
+        kuralTranslation="Intelligence is the fortress that guards you. No enemy can destroy what it protects."
+      />
+    </div>
+  </section>
+
+  <section class="section--tight">
+    <div class="container">
+      <div class="grid-2">
+        <PatternCard
+          title="Dialectic Reasoning (SPAR)"
+          description="I make better decisions by arguing with myself. A structured protocol where multiple perspectives attack a question until the strongest synthesis emerges."
+          href="/think/spar/"
+          dimension="mind"
+          tags={["Reasoning", "Dialectics", "Daily Practice"]}
+        />
+        <PatternCard
+          title="The 6R Loop"
+          description="Reduce, Reflect, Reweave, Recite, Review, Rethink. My recursive process for turning raw information into lasting understanding."
+          href="/think/codex/"
+          dimension="mind"
+          tags={["Learning", "Self-Engineering", "Cognition"]}
+        />
+        <PatternCard
+          title="Intent of Thought"
+          description="My published research on a three-layer reasoning architecture: Intent (why), Abstraction (what type), Chain (how). A GPS for thinking clearly."
+          href="/think/codex/"
+          dimension="mind"
+          tags={["Published Research", "AI Reasoning", "Paper"]}
+          status="Published"
+        />
+        <PatternCard
+          title="Pattern Connecting"
+          description="The Transmuter's core skill. I find structural parallels between supposedly unrelated domains: neuroscience and org design, Tamil poetry and decision theory."
+          href="/think/steal/"
+          dimension="mind"
+          tags={["Cross-Domain", "Patterns", "Synthesis"]}
+        />
+        <PatternCard
+          title="Decision Architecture"
+          description="Every decision has a shape. I map decisions through 8 stages: from sensing the moment to reflecting on the outcome. The Octagon protocol."
+          href="/think/codex/"
+          dimension="mind"
+          tags={["Decisions", "Governance", "Protocol"]}
+        />
+        <PatternCard
+          title="The GRACE Posture"
+          description="Ground yourself. Reveal biases. Approach the edge. Court the opposite. Expose limits. Five postures I practise before any serious thinking."
+          href="#"
+          dimension="mind"
+          tags={["Mindset", "Dialectics", "Honesty"]}
+        />
+      </div>
+    </div>
+  </section>
+</Page>
+
+<style>
+  .dimension-hero {
+    padding: var(--space-4xl) 0 var(--space-2xl);
+    position: relative;
+  }
+
+  .dimension-hero--think::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(
+      ellipse at 30% 50%,
+      var(--mind-glow) 0%,
+      transparent 60%
+    );
+    pointer-events: none;
+  }
+
+  .dimension-label {
+    font-family: var(--font-heading);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--mind-color);
+    display: block;
+    margin-bottom: var(--space-sm);
+  }
+
+  .personality-dot {
+    opacity: 0.3;
+    margin: 0 2px;
+  }
+
+  .personality-type {
+    font-weight: 400;
+    opacity: 0.5;
+    letter-spacing: 0.06em;
+    font-size: 0.65rem;
+  }
+
+  .dimension-hero h1 {
+    position: relative;
+    z-index: 1;
+  }
+
+  .dimension-desc {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    max-width: 560px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .orientation {
+    display: flex;
+    gap: 8px;
+    margin-bottom: var(--space-md);
+    position: relative;
+    z-index: 1;
+  }
+
+  .ori-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+  }
+
+  .ori-dot--active {
+    background: var(--mind-color);
+    box-shadow: 0 0 8px var(--mind-glow);
+  }
+
+  .ori-dot--dim {
+    background: rgba(255, 255, 255, 0.12);
+  }
+</style>

@@ -1,0 +1,432 @@
+---
+/**
+ * WORK — Proof of Work
+ * Three-layer MBS architecture:
+ *   Soul = What I want to do (aspirations, vision)
+ *   Mind = What my mind is cooking (active development)
+ *   Body = What has been delivered (shipped, published)
+ * Each item shows its phase: Discover → Decide → Deliver
+ */
+import Page from "../layouts/Page.astro";
+import PatternCard from "../components/PatternCard.astro";
+import TamilRoot from "../components/TamilRoot.astro";
+---
+
+<Page
+  title="Work"
+  description="Proof of Work. Three layers of creation: what I aspire to build, what my mind is cooking, and what has shipped."
+  activeNav="work"
+>
+  <section class="dimension-hero dimension-hero--work">
+    <div class="container">
+      <div class="orientation" aria-label="You are in Work">
+        <span class="ori-dot ori-dot--dim" title="Think"></span>
+        <span class="ori-dot ori-dot--active" title="Work"></span>
+        <span class="ori-dot ori-dot--dim" title="Play"></span>
+      </div>
+      <span class="dimension-label"
+        >Work <span class="personality-dot">·</span>
+        <span class="personality-type">Proof of Work</span></span
+      >
+      <h1>What I Build</h1>
+      <p class="dimension-desc">
+        Three layers. Soul holds what I want to create. Mind holds what I'm
+        actively cooking. Body holds what has shipped. Every item sits on a
+        path: Discover, Decide, or Deliver.
+      </p>
+    </div>
+  </section>
+
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <TamilRoot
+        tamil="செயல்"
+        transliteration="Seyal"
+        meaning="Action. Thinking without shipping is philosophy. True work is the bridge between insight and impact."
+        tamilMeaning="சிந்தனையை செயலாக்காமல் விடுவது வெறும் தத்துவம். உண்மையான வேலை, நுண்ணறிவுக்கும் தாக்கத்திற்கும் இடையிலான பாலம்."
+        kural="ஆக்கம் கருதி முதலிழக்கும் செய்வினை ஊக்கார் அறிவுடை யார்."
+        kuralNumber={676}
+        kuralTranslation="The wise do not ruin what they have in the hope of uncertain gain."
+      />
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- SOUL — What I Want To Do                       -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <section class="section--tight layer layer--soul">
+    <div class="container">
+      <div class="layer-header">
+        <div class="layer-icon">🔥</div>
+        <div>
+          <h2 class="layer-title layer-title--soul">Soul</h2>
+          <p class="layer-subtitle">
+            What I want to do. The aspirations. The unrealized pull.
+          </p>
+        </div>
+      </div>
+      <div class="grid-2">
+        <PatternCard
+          title="SYNTHAI Platform"
+          description="The living organization operating system. A platform where organisations diagnose their health across Mind, Body, and Soul dimensions."
+          href="/map/"
+          dimension="soul"
+          phase="discover"
+          tags={["Platform", "Living Systems", "MBS"]}
+        />
+        <PatternCard
+          title="ARANGAM"
+          description="The wisdom network. A portal where AI Twin personas debate, teach, and challenge each other in structured dialectic arenas."
+          href="/map/"
+          dimension="soul"
+          phase="discover"
+          tags={["Wisdom Network", "C2C", "AI Twins"]}
+        />
+        <PatternCard
+          title="VOW Series"
+          description="Four books mapping ancient Tamil wisdom to modern domains: Mind-Body-Soul, Human Design, Org Design, and SYNTHAI itself."
+          href="/core/"
+          dimension="soul"
+          phase="discover"
+          tags={["Books", "Tamil Wisdom", "4-Book Series"]}
+        />
+        <PatternCard
+          title="Neural Canvas"
+          description="Identity-grounded visual cognition. An engine that creates visual profiles anchored in who you are, not just what you ask for."
+          href="/aura/"
+          dimension="soul"
+          phase="discover"
+          tags={["Visual AI", "Identity", "Profiling"]}
+        />
+        <PatternCard
+          title="SANGAM"
+          description="Community convergence. Where practitioners, leaders, and thinkers meet at the intersection of ancient wisdom and modern systems."
+          href="/map/"
+          dimension="soul"
+          phase="discover"
+          tags={["Community", "Convergence", "Network"]}
+        />
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- MIND — What My Mind Is Cooking                 -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <section class="section--tight layer layer--mind">
+    <div class="container">
+      <div class="layer-header">
+        <div class="layer-icon">🧠</div>
+        <div>
+          <h2 class="layer-title layer-title--mind">Mind</h2>
+          <p class="layer-subtitle">
+            What my mind is cooking. Research in motion. Decisions being shaped.
+          </p>
+        </div>
+      </div>
+      <div class="grid-2">
+        <PatternCard
+          title="The SHIFT Series"
+          description="A 13-book transformation library across four waves: Soul, Body, Mind, and SYNTHAI. Personal growth to systemic consciousness."
+          href="#"
+          dimension="mind"
+          phase="decide"
+          tags={["13 Books", "Transformation", "4 Waves"]}
+          status="Architecture Complete"
+        />
+        <PatternCard
+          title="Intent of Thought (Paper)"
+          description="A three-layer GPS for AI reasoning: Intent (why), Abstraction (what type), Chain (how). Published on arXiv, now being extended."
+          href="/codex/"
+          dimension="mind"
+          phase="decide"
+          tags={["Research Paper", "AI Reasoning", "arXiv"]}
+          status="Published, Extending"
+        />
+        <PatternCard
+          title="AI Gym: 21 Reps"
+          description="An ebook for the thinking professional. 21 structured exercises that build AI fluency through practice, not theory."
+          href="/gym/"
+          dimension="mind"
+          phase="decide"
+          tags={["Ebook", "AI Literacy", "Practice"]}
+          status="In Production"
+        />
+        <PatternCard
+          title="STEAL Intelligence Pipeline"
+          description="Scan, Translate, Evaluate, Abstract, Leverage. A protocol for capturing external intelligence and integrating it into the ecosystem."
+          href="/steal/"
+          dimension="mind"
+          phase="decide"
+          tags={["Intelligence", "Protocol", "Capture"]}
+          status="Active"
+        />
+        <PatternCard
+          title="Decision Moment Graph"
+          description="Auditable decision architecture. An 8-step Octagon protocol that maps every decision from sensing to reflection."
+          href="/codex/"
+          dimension="mind"
+          phase="decide"
+          tags={["Decisions", "Governance", "Octagon"]}
+          status="In Development"
+        />
+        <PatternCard
+          title="Thirukkural Mapping"
+          description="Bridging 2000-year-old Tamil couplets to modern leadership and organizational challenges. VOW Book 1 in active writing."
+          href="/core/"
+          dimension="mind"
+          phase="discover"
+          tags={["Tamil", "Wisdom", "VOW Book 1"]}
+          status="Writing"
+        />
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- BODY — What Has Been Delivered                 -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <section class="section--tight layer layer--body">
+    <div class="container">
+      <div class="layer-header">
+        <div class="layer-icon">💪</div>
+        <div>
+          <h2 class="layer-title layer-title--body">Body</h2>
+          <p class="layer-subtitle">
+            What has shipped. Published. Live. Materialised.
+          </p>
+        </div>
+      </div>
+      <div class="grid-2">
+        <PatternCard
+          title="Let's SPAR (Book)"
+          description="My first book. A practical guide to structured dialectic thinking. How to disagree productively, challenge assumptions, and arrive at better answers."
+          href="/spar/"
+          dimension="body"
+          phase="deliver"
+          tags={["Book", "Dialectics", "Practical Guide"]}
+          status="Publication-Ready"
+        />
+        <PatternCard
+          title="SPAR-Kit (Open Source)"
+          description="CLI tools for structured debates and decision governance. 14,000+ files. Built to prove dialectic thinking can be programmed."
+          href="https://github.com/synthanai"
+          dimension="body"
+          phase="deliver"
+          tags={["Open Source", "CLI", "14k+ Files"]}
+          status="Live"
+        />
+        <PatternCard
+          title="This Website"
+          description="naveenriaz.com, a living site that reads 22 repositories, extracts metrics, and rebuilds itself. The site is the work."
+          href="/pulse/"
+          dimension="body"
+          phase="deliver"
+          tags={["Astro", "Living Site", "Self-Updating"]}
+          status="Live"
+        />
+        <PatternCard
+          title="Neural Canvas Blog"
+          description="20 published articles across five series: Living Organizations, SPAR Methodology, Pattern Connections, Personal, and AI & Emergence."
+          href="/pic/"
+          dimension="body"
+          phase="deliver"
+          tags={["Blog", "20 Articles", "5 Series"]}
+          status="Live"
+        />
+        <PatternCard
+          title="Agentic-Kit"
+          description="Brain infrastructure for AI agent orchestration. The Three Hands of Miller agency model, GAUGE Event Bus, and 6R Think Loop."
+          href="/map/"
+          dimension="body"
+          phase="deliver"
+          tags={["Infrastructure", "AI Agents", "2.8k Files"]}
+          status="Production"
+        />
+        <PatternCard
+          title="VAULT-KIT"
+          description="Privacy-first audit architecture. Verified, Auditable, Unleakable, Limited, Traceable. ZK-Dissent integration for anonymous governance."
+          href="/map/"
+          dimension="body"
+          phase="deliver"
+          tags={["Privacy", "Audit", "5.7k Files"]}
+          status="Production"
+        />
+        <PatternCard
+          title="Resonance-Kit"
+          description="Code resonance and pattern consistency audits across the entire ecosystem. The immune system that keeps architecture healthy."
+          href="/map/"
+          dimension="body"
+          phase="deliver"
+          tags={["Audit", "Health", "2k Files"]}
+          status="Production"
+        />
+      </div>
+    </div>
+  </section>
+</Page>
+
+<style>
+  .dimension-hero {
+    padding: var(--space-4xl) 0 var(--space-2xl);
+    position: relative;
+    text-align: center;
+  }
+
+  .dimension-hero--work::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(
+      ellipse at 50% 40%,
+      var(--body-glow) 0%,
+      transparent 60%
+    );
+    pointer-events: none;
+  }
+
+  .dimension-label {
+    font-family: var(--font-heading);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--body-color);
+    display: block;
+    margin-bottom: var(--space-sm);
+  }
+
+  .personality-dot {
+    opacity: 0.3;
+    margin: 0 2px;
+  }
+
+  .personality-type {
+    font-weight: 400;
+    opacity: 0.5;
+    letter-spacing: 0.06em;
+    font-size: 0.65rem;
+  }
+
+  .dimension-hero h1 {
+    position: relative;
+    z-index: 1;
+  }
+
+  .dimension-desc {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    max-width: 560px;
+    margin-inline: auto;
+    position: relative;
+    z-index: 1;
+  }
+
+  .orientation {
+    display: flex;
+    gap: 8px;
+    margin-bottom: var(--space-md);
+    position: relative;
+    z-index: 1;
+  }
+
+  .ori-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+  }
+
+  .ori-dot--active {
+    background: var(--body-color);
+    box-shadow: 0 0 8px var(--body-glow);
+  }
+
+  .ori-dot--dim {
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  /* ─── Layer Sections ─── */
+  .layer {
+    position: relative;
+  }
+
+  .layer::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.06) 20%,
+      rgba(255, 255, 255, 0.06) 80%,
+      transparent 100%
+    );
+  }
+
+  .layer-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+    margin-bottom: var(--space-xl);
+    padding-top: var(--space-md);
+  }
+
+  .layer-icon {
+    font-size: 2rem;
+    flex-shrink: 0;
+  }
+
+  .layer-title {
+    font-family: var(--font-heading);
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .layer-title--soul {
+    color: var(--soul-color);
+  }
+
+  .layer-title--mind {
+    color: var(--mind-color);
+  }
+
+  .layer-title--body {
+    color: var(--body-color);
+  }
+
+  .layer-subtitle {
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    margin: 2px 0 0;
+  }
+
+  /* Subtle glow behind each layer */
+  .layer--soul {
+    background: linear-gradient(
+      180deg,
+      rgba(212, 168, 67, 0.03) 0%,
+      transparent 60%
+    );
+  }
+
+  .layer--mind {
+    background: linear-gradient(
+      180deg,
+      rgba(40, 116, 166, 0.03) 0%,
+      transparent 60%
+    );
+  }
+
+  .layer--body {
+    background: linear-gradient(
+      180deg,
+      rgba(39, 174, 96, 0.03) 0%,
+      transparent 60%
+    );
+  }
+</style>

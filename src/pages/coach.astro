@@ -1,0 +1,83 @@
+---
+/**
+ * Coach — Leadership Development & Mentoring
+ * Vibe sub-page scaffold
+ */
+import Page from "../layouts/Page.astro";
+import TamilRoot from "../components/TamilRoot.astro";
+---
+
+<Page
+    title="Coach"
+    description="1:1 leadership development for professionals navigating the AI era. Not advice, practice. Not theory, repetition."
+    activeNav="coach"
+>
+    <section class="scaffold-hero">
+        <div
+            class="orb"
+            style="width:400px;height:400px;background:var(--body-color);top:-160px;left:50%;transform:translateX(-50%);opacity:0.1;"
+        >
+        </div>
+        <div class="container" style="text-align:center;">
+            <span class="scaffold-label">Coach & Mentor</span>
+            <h1>Leadership Through <span class="gt">Practice</span></h1>
+            <p class="scaffold-desc">
+                1:1 development for professionals navigating the AI era. Not
+                advice, practice. Not theory, repetition. The gym, not the
+                lecture hall.
+            </p>
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <TamilRoot
+                tamil="பயிற்சியாளர்"
+                transliteration="Payirchiyaalar"
+                meaning="Trainer. One who builds capacity through repetition, not instruction."
+                tamilMeaning="அறிவுறுத்தல் மூலம் அல்ல, மீண்டும் மீண்டும் செய்வதன் மூலம் திறனை உருவாக்குபவர்."
+                kural="உடையர் எனப்படுவது ஊக்கம் அஃதில்லார் உடையதுஉடை யரோ மற்று."
+                kuralNumber={591}
+                kuralTranslation="True possession is perseverance. Without it, what do you really own?"
+            />
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <div class="manifesto">
+                <h2>Coming <span class="gt">Soon</span></h2>
+                <p>
+                    Coaching formats, testimonials, and engagement details are
+                    being assembled. Connect through the Vibe page.
+                </p>
+            </div>
+        </div>
+    </section>
+</Page>
+
+<style>
+    .scaffold-hero {
+        padding: var(--space-4xl) 0 var(--space-2xl);
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+    }
+    .scaffold-label {
+        font-family: var(--font-label);
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: var(--space-sm);
+        display: block;
+    }
+    .scaffold-desc {
+        max-width: 600px;
+        margin: var(--space-md) auto 0;
+        color: var(--text-secondary);
+        font-size: 1.05rem;
+        line-height: 1.7;
+    }
+</style>

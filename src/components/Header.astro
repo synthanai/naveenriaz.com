@@ -1,0 +1,736 @@
+---
+interface Props {
+  activeNav?: string;
+}
+
+const { activeNav } = Astro.props;
+const currentPath = Astro.url.pathname;
+
+// Map child pages to parent nav items for active state
+const parentMap: Record<string, string> = {
+  spar: "think",
+  steal: "think",
+  codex: "think",
+  collisions: "think",
+  pulse: "work",
+  map: "work",
+  gym: "work",
+  clarity: "work",
+  core: "play",
+  pic: "play",
+  aura: "play",
+  speaker: "vibe",
+  consultant: "vibe",
+  coach: "vibe",
+  author: "vibe",
+  architect: "vibe",
+};
+
+const resolvedNav = parentMap[activeNav ?? ""] ?? activeNav;
+
+const navItems = [
+  {
+    label: "Think",
+    href: "/think/",
+    id: "think",
+    overviewLabel: "How I Think",
+    children: [
+      { label: "SPAR", href: "/think/spar/" },
+      { label: "STEAL", href: "/think/steal/" },
+      { label: "CODEX", href: "/think/codex/" },
+      { label: "Collisions", href: "/collisions/" },
+    ],
+  },
+  {
+    label: "Work",
+    href: "/work/",
+    id: "work",
+    overviewLabel: "What I Build",
+    children: [
+      { label: "AI Gym", href: "/gym/" },
+      { label: "Clarity", href: "/clarity/" },
+    ],
+  },
+  {
+    label: "Play",
+    href: "/play/",
+    id: "play",
+    overviewLabel: "Why I Live",
+    children: [
+      { label: "CORE", href: "/play/core/" },
+      { label: "AURA", href: "/play/aura/" },
+      { label: "PIC", href: "/play/pic/" },
+    ],
+  },
+  {
+    label: "Vibe",
+    href: "/vibe/",
+    id: "vibe",
+    overviewLabel: "Let's Connect",
+    children: [
+      { label: "Speaker", href: "/speaker/" },
+      { label: "Consultant", href: "/consultant/" },
+      { label: "Coach", href: "/coach/" },
+      { label: "Author", href: "/author/" },
+      { label: "Architect", href: "/architect/" },
+      { label: "Challenge", href: "/challenge/" },
+    ],
+  },
+];
+---
+
+<header class="site-header" id="site-header">
+  <div class="container header-inner">
+    <a href="/" class="logo" aria-label="Home">
+      <img
+        src="/logo.svg"
+        class="logo-svg"
+        width="33"
+        height="33"
+        alt=""
+        aria-hidden="true"
+      />
+      <span class="logo-text">Naveen Riaz</span>
+      <span class="logo-tamil-name">நவீன் ரியாஸ்</span>
+    </a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <ul class="nav-list">
+        {
+          navItems.map((item) => (
+            <li class={item.children.length ? "has-dropdown" : ""}>
+              {item.children.length > 0 ? (
+                <span
+                  class:list={[
+                    "nav-link",
+                    "nav-link--trigger",
+                    `nav-link--${item.id}`,
+                    {
+                      active: resolvedNav === item.id,
+                    },
+                  ]}
+                  role="button"
+                  tabindex="0"
+                >
+                  {item.label}
+                  <svg
+                    class="nav-caret"
+                    width="10"
+                    height="6"
+                    viewBox="0 0 10 6"
+                    fill="none"
+                  >
+                    <path
+                      d="M1 1L5 5L9 1"
+                      stroke="currentColor"
+                      stroke-width="1.5"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </span>
+              ) : (
+                <a
+                  href={item.href}
+                  class:list={[
+                    "nav-link",
+                    `nav-link--${item.id}`,
+                    {
+                      active: resolvedNav === item.id,
+                    },
+                  ]}
+                >
+                  {item.label}
+                </a>
+              )}
+              {item.children.length > 0 && (
+                <ul class="dropdown">
+                  <li>
+                    <a
+                      href={item.href}
+                      class:list={[
+                        "dropdown-link",
+                        "dropdown-link--overview",
+                        { active: currentPath === item.href },
+                      ]}
+                    >
+                      {item.overviewLabel}
+                    </a>
+                  </li>
+                  {item.children.map((child) => (
+                    <li>
+                      <a
+                        href={child.href}
+                        class:list={[
+                          "dropdown-link",
+                          { active: currentPath === child.href },
+                        ]}
+                      >
+                        {child.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
+    <!-- About avatar menu -->
+    <div class="avatar-menu">
+      <button
+        class:list={["about-avatar", { active: resolvedNav === "about" }]}
+        aria-label="About & Meta"
+        aria-expanded="false"
+      >
+        <span class="avatar-initials">NR</span>
+      </button>
+      <ul class="avatar-dropdown">
+        <li>
+          <a href="/about/" class:list={[{ active: currentPath === "/about/" }]}
+            >Who is Naveen Riaz?</a
+          >
+        </li>
+        <li>
+          <a
+            href="/work/alive/"
+            class:list={[{ active: currentPath === "/work/alive/" }]}
+            >How is the Site Alive?</a
+          >
+        </li>
+        <li class="avatar-divider"></li>
+        <li>
+          <a
+            href="/newsletter/"
+            class:list={[{ active: currentPath === "/newsletter/" }]}
+            >Newsletter</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <button
+      class="mobile-menu-btn"
+      aria-label="Toggle menu"
+      aria-expanded="false"
+      id="mobile-menu-toggle"
+    >
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+
+  <!-- Mobile nav overlay -->
+  <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
+    <ul class="mobile-nav-list">
+      {
+        navItems.map((item) => (
+          <li>
+            <a
+              href={item.href}
+              class:list={[
+                "mobile-nav-link",
+                `mobile-nav-link--${item.id}`,
+                { active: resolvedNav === item.id },
+              ]}
+            >
+              {item.label}
+            </a>
+            {item.children.length > 0 && (
+              <ul class="mobile-subnav">
+                {item.children.map((child) => (
+                  <li>
+                    <a
+                      href={child.href}
+                      class:list={[
+                        "mobile-subnav-link",
+                        { active: currentPath === child.href },
+                      ]}
+                    >
+                      {child.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </li>
+        ))
+      }
+      <li>
+        <a
+          href="/about/"
+          class:list={["mobile-nav-link", { active: resolvedNav === "about" }]}
+        >
+          About
+        </a>
+        <ul class="mobile-subnav">
+          <li>
+            <a
+              href="/about/"
+              class:list={[
+                "mobile-subnav-link",
+                { active: currentPath === "/about/" },
+              ]}
+            >
+              Who is Naveen Riaz?
+            </a>
+          </li>
+          <li>
+            <a
+              href="/work/alive/"
+              class:list={[
+                "mobile-subnav-link",
+                { active: currentPath === "/work/alive/" },
+              ]}
+            >
+              How is the Site Alive?
+            </a>
+          </li>
+          <li>
+            <a
+              href="/newsletter/"
+              class:list={[
+                "mobile-subnav-link",
+                { active: currentPath === "/newsletter/" },
+              ]}
+            >
+              Newsletter
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>
+
+<script>
+  const toggle = document.getElementById("mobile-menu-toggle");
+  const nav = document.getElementById("mobile-nav");
+  const header = document.getElementById("site-header");
+
+  toggle?.addEventListener("click", () => {
+    const expanded = toggle.getAttribute("aria-expanded") === "true";
+    toggle.setAttribute("aria-expanded", String(!expanded));
+    nav?.classList.toggle("open");
+    header?.classList.toggle("menu-open");
+  });
+
+  // Avatar dropdown click-toggle
+  const avatarBtn = document.querySelector(".about-avatar");
+  const avatarMenu = document.querySelector(".avatar-menu");
+
+  avatarBtn?.addEventListener("click", (e) => {
+    e.stopPropagation();
+    const isOpen = avatarMenu?.classList.contains("open");
+    closeAllDropdowns();
+    if (!isOpen) avatarMenu?.classList.add("open");
+    avatarBtn.setAttribute("aria-expanded", String(!isOpen));
+  });
+
+  // Nav dropdown click-toggle
+  document.querySelectorAll(".nav-link--trigger").forEach((trigger) => {
+    trigger.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const parent = trigger.closest(".has-dropdown");
+      const isOpen = parent?.classList.contains("open");
+      closeAllDropdowns();
+      if (!isOpen) parent?.classList.add("open");
+    });
+  });
+
+  // Close all dropdowns
+  function closeAllDropdowns() {
+    document
+      .querySelectorAll(".has-dropdown.open")
+      .forEach((el) => el.classList.remove("open"));
+    avatarMenu?.classList.remove("open");
+    avatarBtn?.setAttribute("aria-expanded", "false");
+  }
+
+  // Click outside to close
+  document.addEventListener("click", closeAllDropdowns);
+
+  // Prevent dropdown click from closing
+  document.querySelectorAll(".dropdown, .avatar-dropdown").forEach((dd) => {
+    dd.addEventListener("click", (e) => e.stopPropagation());
+  });
+</script>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(19, 17, 16, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+  }
+
+  /* Logo */
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    text-decoration: none;
+    color: var(--text-primary);
+  }
+
+  .logo-text {
+    font-family: var(--font-heading);
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+
+  .logo-tamil-name {
+    font-family: var(--font-tamil);
+    font-size: 1.2rem;
+    color: var(--soul-color);
+    font-weight: 500;
+  }
+
+  @media (max-width: 768px) {
+    .logo-tamil-name {
+      display: none;
+    }
+  }
+
+  /* Desktop Nav */
+  .main-nav {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+  .nav-list {
+    display: flex;
+    list-style: none;
+    gap: 0.25rem;
+  }
+
+  .has-dropdown {
+    position: relative;
+  }
+
+  .nav-link {
+    display: block;
+    padding: 0.4rem 0.85rem;
+    font-family: var(--font-heading);
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    border-radius: 8px;
+    transition: all var(--transition-fast);
+    letter-spacing: 0.02em;
+  }
+
+  .nav-link:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.04);
+  }
+
+  .nav-link--trigger {
+    cursor: default;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .nav-caret {
+    opacity: 0.4;
+    transition:
+      transform var(--transition-fast),
+      opacity var(--transition-fast);
+  }
+
+  .has-dropdown:hover .nav-caret {
+    transform: rotate(180deg);
+    opacity: 0.7;
+  }
+
+  .dropdown-link--overview {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    margin-bottom: 2px;
+    padding-bottom: 0.55rem;
+    font-weight: 600 !important;
+    color: var(--text-secondary) !important;
+  }
+
+  .nav-link.active {
+    color: var(--accent);
+  }
+
+  /* Dimension-colored active states */
+  .nav-link--think.active {
+    color: var(--mind-color);
+  }
+  .nav-link--work.active {
+    color: var(--body-color);
+  }
+  .nav-link--play.active {
+    color: var(--soul-color);
+  }
+
+  /* Dropdown */
+  .dropdown {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 50%;
+    transform: translateX(-50%);
+    min-width: 140px;
+    background: rgba(19, 17, 16, 0.95);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 10px;
+    padding: 6px;
+    list-style: none;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  }
+
+  .has-dropdown:hover .dropdown,
+  .has-dropdown.open .dropdown {
+    display: block;
+  }
+
+  .dropdown-link {
+    display: block;
+    padding: 0.45rem 0.75rem;
+    font-family: var(--font-heading);
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    border-radius: 6px;
+    transition: all var(--transition-fast);
+    white-space: nowrap;
+  }
+
+  .dropdown-link:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.06);
+  }
+
+  .dropdown-link.active {
+    color: var(--accent);
+  }
+
+  /* About avatar */
+  .about-avatar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1.5px solid rgba(255, 255, 255, 0.1);
+    text-decoration: none;
+    transition:
+      border-color var(--transition-fast),
+      box-shadow var(--transition-fast);
+    flex-shrink: 0;
+  }
+
+  .about-avatar:hover {
+    border-color: var(--accent);
+    box-shadow: 0 0 12px var(--accent-glow);
+  }
+
+  .about-avatar.active {
+    border-color: var(--accent);
+  }
+
+  .avatar-initials {
+    font-family: var(--font-heading);
+    font-size: 0.55rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    letter-spacing: 0.02em;
+  }
+
+  .about-avatar:hover .avatar-initials,
+  .about-avatar.active .avatar-initials {
+    color: var(--accent);
+  }
+
+  /* Avatar dropdown menu */
+  .avatar-menu {
+    position: relative;
+  }
+
+  .avatar-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 8px;
+    min-width: 200px;
+    background: rgba(19, 17, 16, 0.95);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 10px;
+    padding: 6px;
+    list-style: none;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    z-index: 100;
+  }
+
+  .avatar-menu:hover .avatar-dropdown,
+  .avatar-menu.open .avatar-dropdown {
+    display: block;
+  }
+
+  .avatar-dropdown li a {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    font-family: var(--font-heading);
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    border-radius: 6px;
+    transition: all var(--transition-fast);
+    white-space: nowrap;
+    text-decoration: none;
+  }
+
+  .avatar-dropdown li a:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.06);
+  }
+
+  .avatar-dropdown li a.active {
+    color: var(--accent);
+  }
+
+  .avatar-divider {
+    height: 1px;
+    background: rgba(255, 255, 255, 0.06);
+    margin: 4px 8px;
+  }
+  .mobile-menu-btn {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    padding: 4px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  .mobile-menu-btn span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    transition: all var(--transition-fast);
+  }
+
+  .mobile-menu-btn span:nth-child(1) {
+    background: var(--mind-color);
+  }
+  .mobile-menu-btn span:nth-child(2) {
+    background: var(--body-color);
+  }
+  .mobile-menu-btn span:nth-child(3) {
+    background: var(--soul-color);
+  }
+
+  .site-header.menu-open .mobile-menu-btn span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+
+  .site-header.menu-open .mobile-menu-btn span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .site-header.menu-open .mobile-menu-btn span:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -5px);
+  }
+
+  /* Mobile nav */
+  .mobile-nav {
+    display: none;
+    background: var(--bg-secondary);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  }
+
+  .mobile-nav.open {
+    display: block;
+  }
+
+  .mobile-nav-list {
+    list-style: none;
+    padding: var(--space-md) var(--space-xl);
+  }
+
+  .mobile-nav-link {
+    display: block;
+    padding: var(--space-sm) 0;
+    font-family: var(--font-heading);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    transition: color var(--transition-fast);
+  }
+
+  .mobile-nav-link:hover,
+  .mobile-nav-link.active {
+    color: var(--accent);
+  }
+
+  .mobile-nav-link--think.active {
+    color: var(--mind-color);
+  }
+  .mobile-nav-link--work.active {
+    color: var(--body-color);
+  }
+  .mobile-nav-link--play.active {
+    color: var(--soul-color);
+  }
+
+  /* Mobile subnav */
+  .mobile-subnav {
+    list-style: none;
+    padding-left: var(--space-lg);
+  }
+
+  .mobile-subnav-link {
+    display: block;
+    padding: var(--space-xs) 0;
+    font-family: var(--font-heading);
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: var(--text-dim);
+    transition: color var(--transition-fast);
+  }
+
+  .mobile-subnav-link:hover,
+  .mobile-subnav-link.active {
+    color: var(--accent);
+  }
+
+  @media (max-width: 768px) {
+    .main-nav {
+      display: none;
+    }
+    .about-avatar {
+      display: none;
+    }
+    .mobile-menu-btn {
+      display: flex;
+    }
+  }
+</style>

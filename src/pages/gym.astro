@@ -1,0 +1,324 @@
+---
+/**
+ * AI GYM — The 21-Rep AI Gym (product showcase)
+ * Pattern: methodology-hero (centered) + training blocks + rep samples
+ * Source: 5-text/ebooks/21-rep-ai-gym/
+ */
+import Page from "../layouts/Page.astro";
+import TamilRoot from "../components/TamilRoot.astro";
+
+const blocks = [
+    {
+        number: "01",
+        name: "The Workout",
+        color: "body",
+        reps: "7 Reps",
+        desc: "The practical layer. Audit your tasks, build your AI toolkit, learn your default patterns. What you do with AI every day.",
+        sample: "Map every task you did this week. Sort: Automate / Augment / Protect / Never.",
+    },
+    {
+        number: "02",
+        name: "The Strategy",
+        color: "mind",
+        reps: "7 Reps",
+        desc: "The thinking layer. Read the market, anticipate shifts, position yourself where AI creates demand, not where it destroys it.",
+        sample: "Find one job that did not exist 3 years ago. What pattern made it inevitable?",
+    },
+    {
+        number: "03",
+        name: "The Purpose",
+        color: "soul",
+        reps: "7 Reps",
+        desc: "The identity layer. The work AI cannot replicate: your origin story, your convictions, the reason you show up differently.",
+        sample: "Name the one thing you believe about work that almost nobody agrees with. That is your moat.",
+    },
+];
+---
+
+<Page
+    title="AI GYM"
+    description="The 21-Rep AI Gym. Three training blocks. One career resilience framework. You are already adapting, this channels it."
+    activeNav="gym"
+>
+    <section class="gym-hero">
+        <div
+            class="orb"
+            style="width:600px;height:600px;background:var(--accent);top:-200px;left:50%;transform:translateX(-50%);opacity:0.12;"
+        >
+        </div>
+
+        <div class="container" style="text-align:center;">
+            <span class="gym-label">AI GYM</span>
+            <h1>The 21-Rep <span class="gt">AI Gym</span></h1>
+            <p class="gym-tagline">Not a survival guide.</p>
+            <p class="gym-desc">
+                You are already adapting. 21 reps across 3 training blocks to
+                channel it. A keynote-format guide to AI-era career resilience.
+            </p>
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <TamilRoot
+                tamil="பயிற்சி"
+                transliteration="Payirchi"
+                meaning="Practice. Not theory. Not survival. Repeated, deliberate action that builds the muscle of adaptation."
+                tamilMeaning="கோட்பாடு அல்ல. உயிர்பிழைப்பு அல்ல. தகவமைப்பின் தசையை உருவாக்கும் மீண்டும் மீண்டும் செய்யும் வேண்டுமென்றே செயல்."
+                kural="கற்றதனால் ஆய பயனென்கொல் வாலறிவன் நற்றாள் தொழாஅர் எனின்."
+                kuralNumber={2}
+                kuralTranslation="What is the use of learning, if it does not lead you to worship the pure feet of understanding?"
+            />
+        </div>
+    </section>
+
+    <!-- Training Blocks -->
+    <section class="section--tight">
+        <div class="container">
+            <h2 class="section-label">Three Training Blocks</h2>
+            <p class="section-sub">
+                Body (what you do), Mind (how you think), Soul (why you matter).
+                Each block has 7 reps. Each rep is one page, one exercise, one
+                shift.
+            </p>
+
+            <div class="blocks-grid">
+                {
+                    blocks.map((block) => (
+                        <div class={`training-block block--${block.color}`}>
+                            <div class="block-header">
+                                <span class="block-number">
+                                    Block {block.number}
+                                </span>
+                                <span class="block-reps">{block.reps}</span>
+                            </div>
+                            <h3>{block.name}</h3>
+                            <p class="block-desc">{block.desc}</p>
+                            <div class="sample-rep">
+                                <span class="sample-label">Sample Rep</span>
+                                <p>{block.sample}</p>
+                            </div>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+    </section>
+
+    <!-- Core Thesis -->
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <div class="manifesto">
+                <h2>The <span class="gt">Reframe</span></h2>
+                <p>
+                    Every AI survival guide starts with fear. This one starts
+                    with a fact: <strong>you are already adapting</strong>.
+                    Every time you chose which AI tool to use, questioned its
+                    output, or decided NOT to automate something, you were
+                    training.
+                </p>
+                <p>
+                    The 21-Rep AI Gym makes that training deliberate. Not
+                    survival. Not panic. Practice.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats -->
+    <section class="section--tight">
+        <div class="container">
+            <div class="gym-stats">
+                <div class="stat">
+                    <span class="stat-number">21</span>
+                    <span class="stat-label">Reps</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">3</span>
+                    <span class="stat-label">Training Blocks</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">1</span>
+                    <span class="stat-label">Career Resilience Framework</span>
+                </div>
+            </div>
+        </div>
+    </section>
+</Page>
+
+<style>
+    .gym-hero {
+        padding: var(--space-4xl) 0 var(--space-2xl);
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .gym-label {
+        font-family: var(--font-label);
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: var(--space-sm);
+        display: block;
+    }
+
+    .gym-tagline {
+        font-family: var(--font-heading);
+        font-size: 1.15rem;
+        font-weight: 600;
+        color: var(--text-muted);
+        margin-top: var(--space-sm);
+        font-style: italic;
+    }
+
+    .gym-desc {
+        max-width: 600px;
+        margin: var(--space-sm) auto 0;
+        color: var(--text-dim);
+        font-size: 0.95rem;
+        line-height: 1.7;
+    }
+
+    .section-label {
+        font-family: var(--font-label);
+        font-size: 1rem;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+        margin-bottom: var(--space-xs);
+    }
+
+    .section-sub {
+        font-size: 0.9rem;
+        color: var(--text-dim);
+        margin-bottom: var(--space-xl);
+        max-width: 560px;
+    }
+
+    /* ── Training Blocks ───────────────────────── */
+    .blocks-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: var(--space-lg);
+    }
+
+    .training-block {
+        background: var(--bg-card);
+        border: 1px solid rgba(255, 255, 255, 0.04);
+        border-radius: var(--border-radius);
+        padding: var(--space-xl);
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-sm);
+    }
+
+    .block--body {
+        border-top: 3px solid var(--body-color);
+    }
+    .block--mind {
+        border-top: 3px solid var(--mind-color);
+    }
+    .block--soul {
+        border-top: 3px solid var(--soul-color);
+    }
+
+    .block-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .block-number {
+        font-family: var(--font-heading);
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--text-dim);
+    }
+
+    .block-reps {
+        font-size: 0.65rem;
+        font-weight: 600;
+        color: var(--text-dim);
+        letter-spacing: 0.06em;
+    }
+
+    .block--body h3 {
+        color: var(--body-color);
+    }
+    .block--mind h3 {
+        color: var(--mind-color);
+    }
+    .block--soul h3 {
+        color: var(--soul-color);
+    }
+
+    .block-desc {
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        line-height: 1.5;
+        flex: 1;
+    }
+
+    .sample-rep {
+        margin-top: var(--space-sm);
+        padding: var(--space-md);
+        background: rgba(255, 255, 255, 0.02);
+        border-radius: 6px;
+        border-left: 2px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .sample-label {
+        font-size: 0.6rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--text-dim);
+        display: block;
+        margin-bottom: var(--space-xs);
+    }
+
+    .sample-rep p {
+        font-size: 0.82rem;
+        color: var(--text-secondary);
+        line-height: 1.5;
+        font-style: italic;
+        margin: 0;
+    }
+
+    /* ── Stats ───────────────────────────────── */
+    .gym-stats {
+        display: flex;
+        justify-content: center;
+        gap: var(--space-2xl);
+        flex-wrap: wrap;
+    }
+
+    .stat {
+        text-align: center;
+    }
+
+    .stat-number {
+        display: block;
+        font-family: var(--font-heading);
+        font-size: 2.5rem;
+        font-weight: 800;
+        color: var(--accent);
+        line-height: 1;
+    }
+
+    .stat-label {
+        font-size: 0.7rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--text-dim);
+        margin-top: var(--space-xs);
+        display: block;
+    }
+</style>

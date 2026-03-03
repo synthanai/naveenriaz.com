@@ -1,0 +1,295 @@
+---
+/**
+ * Alive — How is this site alive?
+ * Pattern: centered methodology-hero + living system philosophy
+ * The meta-page explaining how the site works as a living organism
+ */
+import Page from "../../layouts/Page.astro";
+import TamilRoot from "../../components/TamilRoot.astro";
+
+const layers = [
+    {
+        name: "Think",
+        color: "mind",
+        desc: "Methodologies that sharpen reasoning: SPAR (structured debate), STEAL (intelligence capture), CODEX (cognitive skill architecture).",
+        analogy: "The nervous system. How the organism processes information.",
+    },
+    {
+        name: "Work",
+        color: "body",
+        desc: "Published outputs that prove the methods: AI Gym, STEAL Your Clarity, Pulse metrics, and the living Map of everything.",
+        analogy: "The musculature. What the organism produces and delivers.",
+    },
+    {
+        name: "Play",
+        color: "soul",
+        desc: "Identity foundations that anchor everything: CORE (who I am), AURA (how I show up), PIC (how AI knows me).",
+        analogy:
+            "The heart. What keeps the organism alive when everything else stops.",
+    },
+    {
+        name: "Vibe",
+        color: "accent",
+        desc: "The invitation to connect: speaking, workshops, collaboration. Where the organism meets the world.",
+        analogy: "The voice. How the organism reaches out and engages.",
+    },
+];
+
+const techStack = [
+    { name: "Astro", role: "Static site generator" },
+    { name: "Zero JavaScript", role: "No client-side JS shipped" },
+    { name: "CSS Custom Properties", role: "MBS color system" },
+    { name: "Git", role: "Every change tracked, every decision versioned" },
+    { name: "Markdown + JSON", role: "Content as data, not decoration" },
+];
+---
+
+<Page
+    title="How is the Site Alive?"
+    description="This site is a living system. Four dimensions, one organism. Here is how it works, what powers it, and why it matters."
+    activeNav="alive"
+>
+    <section class="alive-hero">
+        <div
+            class="orb"
+            style="width:500px;height:500px;background:var(--accent);top:-180px;left:50%;transform:translateX(-50%);opacity:0.12;"
+        >
+        </div>
+
+        <div class="container" style="text-align:center;">
+            <span class="alive-label">Living System</span>
+            <h1>This Site Is <span class="gt">Alive</span></h1>
+            <p class="alive-desc">
+                Not a portfolio. Not a blog. A living organism with four
+                dimensions, each one feeding the others. When one grows, all
+                grow.
+            </p>
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <TamilRoot
+                tamil="உயிர்"
+                transliteration="Uyir"
+                meaning="Life force. The animating principle that makes something more than the sum of its parts. A site becomes alive when its parts breathe together."
+                tamilMeaning="ஒன்றை அதன் பகுதிகளின் கூட்டுத்தொகையை விட அதிகமாக்கும் உயிரூட்டும் கொள்கை."
+                kural="உயிர்நிலை யாதெனின் நின்ற மருங்கின் செயிர்இலை யாக உணர்."
+                kuralNumber={335}
+                kuralTranslation="To know where life resides, observe where awareness is flawless."
+            />
+        </div>
+    </section>
+
+    <!-- Four Dimensions -->
+    <section class="section--tight">
+        <div class="container">
+            <h2 class="section-label">Four Dimensions</h2>
+            <p class="section-sub">
+                Think. Work. Play. Vibe. Each one is an organ. Together, they
+                form the organism.
+            </p>
+
+            <div class="layers-grid">
+                {
+                    layers.map((layer) => (
+                        <div class={`layer-card layer--${layer.color}`}>
+                            <h3>{layer.name}</h3>
+                            <p class="layer-desc">{layer.desc}</p>
+                            <div class="layer-analogy">
+                                <span class="analogy-tag">Analogy</span>
+                                {layer.analogy}
+                            </div>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+    </section>
+
+    <!-- How it's built -->
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <h2 class="section-label">How It's Built</h2>
+            <p class="section-sub">
+                No frameworks heavier than necessary. No JavaScript shipped to
+                your browser. Content as structured data.
+            </p>
+
+            <div class="tech-list">
+                {
+                    techStack.map((t) => (
+                        <div class="tech-row">
+                            <span class="tech-name">{t.name}</span>
+                            <span class="tech-role">{t.role}</span>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+    </section>
+
+    <!-- Philosophy -->
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <div class="manifesto">
+                <h2>Why <span class="gt">Alive</span></h2>
+                <p>
+                    A static portfolio is a photograph. This site is a pulse. It
+                    changes when I change. New pages appear when new thinking
+                    emerges. Old pages deepen when old ideas mature.
+                </p>
+                <p>
+                    The navigation encodes intention: Think pages are
+                    left-aligned (Mind, input), Work pages are centered (Body,
+                    balance), Play pages are right-aligned (Soul, expression).
+                    Nothing is accidental.
+                </p>
+            </div>
+        </div>
+    </section>
+</Page>
+
+<style>
+    .alive-hero {
+        padding: var(--space-4xl) 0 var(--space-2xl);
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .alive-label {
+        font-family: var(--font-label);
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: var(--space-sm);
+        display: block;
+    }
+
+    .alive-desc {
+        max-width: 600px;
+        margin: var(--space-md) auto 0;
+        color: var(--text-secondary);
+        font-size: 1.05rem;
+        line-height: 1.7;
+    }
+
+    .section-label {
+        font-family: var(--font-label);
+        font-size: 1rem;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+        margin-bottom: var(--space-xs);
+    }
+
+    .section-sub {
+        font-size: 0.9rem;
+        color: var(--text-dim);
+        margin-bottom: var(--space-xl);
+        max-width: 560px;
+    }
+
+    /* ── Layers Grid ───────────────────────── */
+    .layers-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--space-md);
+    }
+
+    .layer-card {
+        background: var(--bg-card);
+        border: 1px solid rgba(255, 255, 255, 0.04);
+        border-radius: var(--border-radius);
+        padding: var(--space-xl);
+    }
+
+    .layer--mind {
+        border-top: 3px solid var(--mind-color);
+    }
+    .layer--body {
+        border-top: 3px solid var(--body-color);
+    }
+    .layer--soul {
+        border-top: 3px solid var(--soul-color);
+    }
+    .layer--accent {
+        border-top: 3px solid var(--accent);
+    }
+
+    .layer--mind h3 {
+        color: var(--mind-color);
+    }
+    .layer--body h3 {
+        color: var(--body-color);
+    }
+    .layer--soul h3 {
+        color: var(--soul-color);
+    }
+    .layer--accent h3 {
+        color: var(--accent);
+    }
+
+    .layer-desc {
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        line-height: 1.5;
+        margin-bottom: var(--space-sm);
+    }
+
+    .layer-analogy {
+        font-size: 0.75rem;
+        color: var(--text-dim);
+        font-style: italic;
+        line-height: 1.4;
+    }
+
+    .analogy-tag {
+        font-size: 0.55rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--accent);
+        margin-right: var(--space-xs);
+        font-style: normal;
+    }
+
+    /* ── Tech Stack ───────────────────────── */
+    .tech-list {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+    }
+
+    .tech-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: var(--space-sm) var(--space-md);
+        background: var(--bg-card);
+        border: 1px solid rgba(255, 255, 255, 0.03);
+        border-radius: var(--border-radius);
+    }
+
+    .tech-name {
+        font-family: var(--font-heading);
+        font-size: 0.85rem;
+        font-weight: 600;
+        color: var(--text-primary);
+    }
+
+    .tech-role {
+        font-size: 0.75rem;
+        color: var(--text-dim);
+    }
+
+    @media (max-width: 768px) {
+        .layers-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>

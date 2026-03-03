@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="32 32 136 136">
+  <!-- Top: Play (Gold) -->
+  <circle cx="100" cy="65" r="21" fill="none" stroke="#D4A843" stroke-width="3"/>
+  <circle cx="100" cy="65" r="11" fill="#D4A843"/>
+
+  <!-- Bottom-left: Think (Blue) -->
+  <circle cx="59.5" cy="135" r="21" fill="none" stroke="#2874A6" stroke-width="3"/>
+  <circle cx="59.5" cy="135" r="11" fill="#2874A6"/>
+
+  <!-- Bottom-right: Work (Green) -->
+  <circle cx="140.5" cy="135" r="21" fill="none" stroke="#27ae60" stroke-width="3"/>
+  <circle cx="140.5" cy="135" r="11" fill="#27ae60"/>
+</svg>

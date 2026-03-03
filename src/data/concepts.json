@@ -1,0 +1,226 @@
+{
+  "nodes": [
+    {
+      "id": "spar",
+      "label": "SPAR",
+      "dimension": "think",
+      "description": "Structured Persona-Argumentation for Reasoning",
+      "repo": "spar-kit",
+      "fileCount": 14195,
+      "firstSeen": "2026-01-14T09:37:15+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "dmg",
+      "label": "Decision Moment Graph",
+      "dimension": "think",
+      "description": "Auditable decision architecture",
+      "repo": "decision-moment-graph",
+      "fileCount": 359,
+      "firstSeen": "2026-01-26T17:21:24+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "ramp",
+      "label": "RAMP",
+      "dimension": "work",
+      "description": "Risk calibration for decision velocity",
+      "repo": "ramp-kit",
+      "fileCount": 29,
+      "firstSeen": "2026-01-17T08:09:33+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "steal",
+      "label": "STEAL",
+      "dimension": "think",
+      "description": "Intelligence capture protocol",
+      "repo": "steal-kit",
+      "fileCount": 4,
+      "firstSeen": "2026-02-27T19:15:55+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "vault",
+      "label": "VAULT-KIT",
+      "dimension": "work",
+      "description": "Privacy-first audit architecture",
+      "repo": "vault-kit",
+      "fileCount": 5710,
+      "firstSeen": "2026-01-26T12:33:57+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "kural",
+      "label": "Ancient Wisdom",
+      "dimension": "play",
+      "description": "2000-year-old Tamil couplets grounding modern reasoning",
+      "repo": "kural",
+      "fileCount": 90,
+      "firstSeen": "2026-01-19T19:57:35+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "agentic",
+      "label": "Agentic Kit",
+      "dimension": "work",
+      "description": "Brain infrastructure for AI agent orchestration",
+      "repo": "agentic-kit",
+      "fileCount": 2842,
+      "firstSeen": "2026-01-26T17:21:24+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "resonance",
+      "label": "Resonance Kit",
+      "dimension": "work",
+      "description": "Code resonance and pattern consistency audit",
+      "repo": "resonance-kit",
+      "fileCount": 2049,
+      "firstSeen": "2026-01-27T12:32:03+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "vow",
+      "label": "Voice of Wisdom",
+      "dimension": "play",
+      "description": "Literature dialogue engine",
+      "repo": "vow-engine",
+      "fileCount": 1,
+      "firstSeen": "2026-01-27T12:32:03+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "iot-paper",
+      "label": "Intent of Thought",
+      "dimension": "think",
+      "description": "GPS for AI Reasoning (arXiv published)",
+      "repo": "intent-of-thought",
+      "fileCount": 9,
+      "firstSeen": "2026-03-03T04:57:16+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "spar-arena",
+      "label": "SPAR Arena",
+      "dimension": "work",
+      "description": "Interactive debate visualization platform",
+      "repo": "spar-arena",
+      "fileCount": 2557,
+      "firstSeen": "2026-01-21T22:36:26+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "books",
+      "label": "The Book Series",
+      "dimension": "play",
+      "description": "13-book SHIFT series on organizational consciousness",
+      "repo": null,
+      "fileCount": 0,
+      "firstSeen": null,
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    },
+    {
+      "id": "student",
+      "label": "Student Kit",
+      "dimension": "play",
+      "description": "Learning and pedagogy toolkit",
+      "repo": "student-kit",
+      "fileCount": 242,
+      "firstSeen": "2026-02-18T04:44:13+11:00",
+      "lastModified": "2026-03-11T18:23:36+11:00"
+    }
+  ],
+  "edges": [
+    {
+      "source": "spar",
+      "target": "dmg",
+      "type": "REQUIRES",
+      "label": "decisions feed graphs"
+    },
+    {
+      "source": "spar",
+      "target": "kural",
+      "type": "AMPLIFIES",
+      "label": "wisdom grounds deliberation"
+    },
+    {
+      "source": "spar",
+      "target": "ramp",
+      "type": "ENABLES",
+      "label": "risk calibrates depth"
+    },
+    {
+      "source": "dmg",
+      "target": "vault",
+      "type": "REQUIRES",
+      "label": "decisions need privacy"
+    },
+    {
+      "source": "dmg",
+      "target": "ramp",
+      "type": "ENABLES",
+      "label": "graphs enable risk tracking"
+    },
+    {
+      "source": "steal",
+      "target": "spar",
+      "type": "ENABLES",
+      "label": "intelligence feeds deliberation"
+    },
+    {
+      "source": "kural",
+      "target": "vow",
+      "type": "AMPLIFIES",
+      "label": "wisdom flows through voice"
+    },
+    {
+      "source": "iot-paper",
+      "target": "spar",
+      "type": "SUPPORTS",
+      "label": "theory validates practice"
+    },
+    {
+      "source": "iot-paper",
+      "target": "dmg",
+      "type": "SUPPORTS",
+      "label": "intent grounds decisions"
+    },
+    {
+      "source": "agentic",
+      "target": "spar",
+      "type": "ENABLES",
+      "label": "infrastructure powers agents"
+    },
+    {
+      "source": "spar-arena",
+      "target": "spar",
+      "type": "REQUIRES",
+      "label": "arena hosts debates"
+    },
+    {
+      "source": "books",
+      "target": "spar",
+      "type": "AMPLIFIES",
+      "label": "books teach methodology"
+    },
+    {
+      "source": "books",
+      "target": "kural",
+      "type": "AMPLIFIES",
+      "label": "books carry wisdom"
+    },
+    {
+      "source": "student",
+      "target": "books",
+      "type": "REQUIRES",
+      "label": "learning needs content"
+    },
+    {
+      "source": "resonance",
+      "target": "agentic",
+      "type": "SUPPORTS",
+      "label": "audits verify health"
+    }
+  ]
+}

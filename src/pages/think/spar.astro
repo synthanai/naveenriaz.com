@@ -1,0 +1,227 @@
+---
+import Page from "../../layouts/Page.astro";
+import arenaData from "../../data/arena.json";
+import TamilRoot from "../../components/TamilRoot.astro";
+
+const spars = arenaData.spars.filter((s) => s.visibility === "public");
+
+const dimClass = (dim: string) =>
+  dim === "think" ? "mind" : dim === "work" ? "body" : "soul";
+---
+
+<Page
+  title="SPAR"
+  description="Where ideas collide. Structured debates on strategy, architecture, and the future of thinking."
+  activeNav="spar"
+>
+  <section class="arena-hero">
+    <!-- Ambient orb glow -->
+    <div
+      class="orb"
+      style="width:400px;height:400px;background:var(--mind-color);top:-120px;right:-100px;"
+    >
+    </div>
+    <div
+      class="orb"
+      style="width:300px;height:300px;background:var(--mind-color);bottom:-80px;left:-80px;"
+    >
+    </div>
+
+    <div class="container">
+      <span class="arena-label">SPAR</span>
+      <h1>Where Ideas <span class="gt">Collide</span></h1>
+      <p class="arena-desc">
+        Every framework, every strategy, every decision passes through
+        structured dialectic debate. Multiple agents argue. One verdict emerges.
+        Nothing ships without being challenged first.
+      </p>
+    </div>
+  </section>
+
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <TamilRoot
+        tamil="அரங்கம்"
+        transliteration="Arangam"
+        meaning="The Arena. A stage where ideas are tested through collision. Nothing ships without being challenged first."
+        tamilMeaning="கருத்துக்கள் மோதலின் வழியாக சோதிக்கப்படும் மேடை. முதலில் சவால் செய்யப்படாமல் எதுவும் வெளியிடப்படாது."
+        kural="அறன்அறிந்து மூத்த அறிவுடையார் கேண்மை திறன்அறிந்து தேர்ந்து கொளல்."
+        kuralNumber={725}
+        kuralTranslation="Choose the company of the wise only after testing their capability."
+      />
+    </div>
+  </section>
+
+  <section class="section--tight">
+    <div class="container">
+      <h2 class="section-label">Completed Debates</h2>
+      <div class="grid-2">
+        {
+          spars.map((spar) => (
+            <a
+              href={`/arena/${spar.id}/`}
+              class={`card card--${dimClass(spar.dimension)} card--link`}
+            >
+              <span class="spar-id">
+                SPAR #{spar.number.toString().padStart(3, "0")}
+              </span>
+              <h3>{spar.title}</h3>
+              <p>{spar.question}</p>
+              <div class="spar-meta">
+                <span class="spar-verdict">
+                  Verdict: <strong>{spar.verdict}</strong>
+                </span>
+                <span
+                  class="spar-confidence"
+                  style={`color:var(--${dimClass(spar.dimension)}-color);`}
+                >
+                  {spar.confidence}% confidence
+                </span>
+                <span class="spar-ramp">{spar.ramp}</span>
+              </div>
+              <p class="spar-synthesis">
+                {spar.synthesis.length > 200
+                  ? spar.synthesis.slice(0, 200) + "..."
+                  : spar.synthesis}
+              </p>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- How It Works -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <div class="manifesto">
+        <h2>How a <span class="gt">SPAR</span> Works</h2>
+        <p>
+          Every debate uses the <strong>SPAR protocol</strong>: Structured
+          Persona-Argumentation for Reasoning. Multiple AI agents with distinct
+          perspectives (Visionary, Challenger, Pragmatist, Sage, and more) argue
+          a question through structured rounds.
+        </p>
+        <p>
+          A PROBE agent watches for bias. Tensions are mapped. A synthesis
+          emerges. The verdict is delivered with a confidence score, a
+          reversibility assessment, and a preserved dissent record. Nothing is
+          silenced.
+        </p>
+        <a href="/challenge/" class="challenge-link">Challenge This →</a>
+      </div>
+    </div>
+  </section>
+</Page>
+
+<style>
+  .arena-hero {
+    padding: var(--space-4xl) 0 var(--space-2xl);
+    text-align: left;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .arena-label {
+    font-family: var(--font-label);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--mind-color);
+    margin-bottom: var(--space-sm);
+    display: block;
+  }
+
+  .arena-desc {
+    max-width: 600px;
+    margin: var(--space-md) 0 0;
+    color: var(--text-secondary);
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
+
+  .section-label {
+    font-family: var(--font-label);
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: var(--space-lg);
+  }
+
+  /* Clickable card link */
+  .card--link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition:
+      transform var(--transition-base),
+      border-color var(--transition-base);
+    cursor: pointer;
+  }
+
+  .card--link:hover {
+    transform: translateY(-2px);
+    border-color: rgba(255, 255, 255, 0.12);
+  }
+
+  .spar-id {
+    font-family: var(--font-heading);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    display: block;
+    margin-bottom: var(--space-xs);
+  }
+
+  .card h3 {
+    margin-bottom: var(--space-sm);
+  }
+
+  .card > p {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin-bottom: var(--space-md);
+  }
+
+  .spar-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-md);
+    margin-bottom: var(--space-sm);
+    font-size: 0.8rem;
+  }
+
+  .spar-verdict {
+    color: var(--text-secondary);
+  }
+
+  .spar-confidence {
+    font-weight: 600;
+  }
+
+  .spar-ramp {
+    color: var(--text-dim);
+    font-family: var(--font-heading);
+    letter-spacing: 0.05em;
+  }
+
+  .spar-synthesis {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    border-left: 2px solid var(--accent-border);
+    padding-left: var(--space-md);
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 768px) {
+    .spar-meta {
+      flex-direction: column;
+      gap: var(--space-xs);
+    }
+  }
+</style>

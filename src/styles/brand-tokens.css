@@ -1,0 +1,162 @@
+/* ═══════════════════════════════════════════════════════════════
+   BRAND TOKENS — Tier 1 Invariants
+   Shared across ALL media: website, digital ebooks, future formats.
+   Source of truth for the naveenriaz brand system.
+   ═══════════════════════════════════════════════════════════════ */
+
+:root {
+    /* ── MBS Color Triad (Think / Work / Play) ─────────────── */
+    --mind-color: #2874A6;
+    --mind-glow: rgba(40, 116, 166, 0.15);
+    --body-color: #27ae60;
+    --body-glow: rgba(39, 174, 96, 0.15);
+    --soul-color: #D4A843;
+    --soul-glow: rgba(212, 168, 67, 0.15);
+
+    /* ── Brand Gradients ───────────────────────────────────── */
+    --gradient-mbs: linear-gradient(135deg, var(--body-color), var(--mind-color), var(--soul-color));
+    --gradient-progress: linear-gradient(90deg, var(--body-color), var(--mind-color), var(--soul-color));
+
+    /* ── Tamil ─────────────────────────────────────────────── */
+    --tamil-accent: #d4a574;
+    --tamil-glow: rgba(212, 165, 116, 0.08);
+
+    /* ── Typography (invariant across digital) ──────────────── */
+    --font-body: 'Inter', system-ui, sans-serif;
+    --font-tamil: 'Noto Sans Tamil', sans-serif;
+
+    /* ── Shared Patterns ───────────────────────────────────── */
+    --border-radius: 12px;
+    --border-radius-lg: 16px;
+    --border-subtle: rgba(255, 255, 255, 0.06);
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   THREE ROOMS — Section-scoped thermal gradient
+   Same house (header/nav/footer), different room temperatures.
+   Think=cool/electric, Work=neutral, Play=warm, Vibe=warmest.
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Think: Cool, electric, focused (Mind) */
+body.section-think {
+    --bg-primary: #0d1117;
+    --bg-secondary: #0f1319;
+    --bg-card: rgba(13, 17, 23, 0.6);
+    --bg-card-hover: rgba(13, 17, 23, 0.8);
+    --section-radius: 12px;
+    --section-accent: var(--mind-color);
+    --section-glow: var(--mind-glow);
+}
+
+/* Work: Grounded, neutral, workshop (Body) */
+body.section-work {
+    --bg-primary: #131110;
+    --bg-secondary: #171412;
+    --bg-card: rgba(19, 17, 16, 0.6);
+    --bg-card-hover: rgba(19, 17, 16, 0.8);
+    --section-radius: 12px;
+    --section-accent: var(--body-color);
+    --section-glow: var(--body-glow);
+}
+
+/* Play: Warm, alive, soul-fire (Soul) */
+body.section-play {
+    --bg-primary: #1a1410;
+    --bg-secondary: #1e1814;
+    --bg-card: rgba(26, 20, 16, 0.6);
+    --bg-card-hover: rgba(26, 20, 16, 0.8);
+    --section-radius: 20px;
+    --section-accent: var(--soul-color);
+    --section-glow: var(--soul-glow);
+}
+
+/* Vibe: Warmest, inviting, human (Integration) */
+body.section-vibe {
+    --bg-primary: #1a1614;
+    --bg-secondary: #1e1a18;
+    --bg-card: rgba(26, 22, 20, 0.6);
+    --bg-card-hover: rgba(26, 22, 20, 0.8);
+    --section-radius: 24px;
+    --section-accent: var(--soul-color);
+    --section-glow: var(--soul-glow);
+}
+
+/* ── Gradient Text (ported from SURGE ebook) ─────────────── */
+.gt {
+    background: var(--gradient-mbs);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.gg {
+    background: linear-gradient(135deg, var(--body-color), var(--mind-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* ── Ambient Orb Glow (ported from SURGE ebook) ──────────── */
+@keyframes nebula-breathe {
+
+    0%,
+    100% {
+        transform: scale(1);
+        opacity: 0.4;
+    }
+
+    50% {
+        transform: scale(1.08);
+        opacity: 0.5;
+    }
+}
+
+.orb {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(80px);
+    opacity: 0.4;
+    pointer-events: none;
+    z-index: 0;
+    animation: nebula-breathe 8s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .orb {
+        animation: none;
+    }
+}
+
+/* ── Orbital Mark (The Nebula's visual primitive) ────────── */
+
+/* ≥10px dots: crisp ring */
+.orbital {
+    position: relative;
+    border-radius: 50%;
+}
+
+.orbital::after {
+    content: '';
+    position: absolute;
+    inset: -4px;
+    border-radius: 50%;
+    border: 1.5px solid currentColor;
+    opacity: 0.5;
+}
+
+/* 6-8px dots: glow ring */
+.orbital-sm {
+    border-radius: 50%;
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.06), 0 0 6px currentColor;
+}
+
+/* ── Progress Bar (green→blue→gold) ──────────────────────── */
+.progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    background: var(--gradient-progress);
+    z-index: 200;
+    transition: width 0.2s ease;
+}

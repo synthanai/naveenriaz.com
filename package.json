@@ -1,0 +1,17 @@
+{
+    "name": "naveenriaz-com",
+    "type": "module",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "pulse": "node scripts/pulse-scanner.mjs",
+        "dev": "npm run pulse && astro dev",
+        "start": "npm run pulse && astro dev",
+        "build": "npm run pulse && astro build",
+        "preview": "astro preview",
+        "astro": "astro"
+    },
+    "dependencies": {
+        "astro": "^5.5.0"
+    }
+}

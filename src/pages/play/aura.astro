@@ -1,0 +1,317 @@
+---
+/**
+ * AURA Profile — Living self-assessment across six dimensions of impact
+ * Extracted from CORE page. Radar chart + dimension bars + explanation.
+ * Source: creator.json aura data
+ */
+import Page from "../../layouts/Page.astro";
+import TamilRoot from "../../components/TamilRoot.astro";
+import creator from "../../data/creator.json";
+---
+
+<Page
+    title="AURA"
+    description="A living self-assessment across six dimensions of impact. The shape of how Naveen shows up in the world."
+    activeNav="aura"
+>
+    <section class="aura-hero">
+        <div
+            class="orb"
+            style="width:500px;height:500px;background:var(--soul-color);top:-180px;left:50%;transform:translateX(-50%);opacity:0.1;"
+        >
+        </div>
+
+        <div class="container" style="text-align:right;">
+            <span class="aura-label">AURA</span>
+            <h1>The Shape of <span class="gt">Impact</span></h1>
+            <p class="aura-desc">
+                A living self-assessment across six dimensions. Not a score. Not
+                a rank. A shape, always shifting, always honest.
+            </p>
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <TamilRoot
+                tamil="ஒளி"
+                transliteration="Oli"
+                meaning="Light. The radiance that emanates from a person when they are aligned with their purpose. Not brightness, but presence."
+                tamilMeaning="ஒரு நபர் தன் நோக்கத்துடன் இணைந்திருக்கும்போது வெளிப்படும் பிரகாசம்."
+                kural="ஒளிஒருவற்கு உள்ள வெறுக்கை இளிஒருவற்கு அஃதிறந்து வாழ்தும் எனல்."
+                kuralNumber={971}
+                kuralTranslation="Light within is courage. Shame is saying 'I will live without it.'"
+            />
+        </div>
+    </section>
+
+    <!-- AURA Hexagon -->
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <h2 class="section-title">AURA Profile</h2>
+            <p class="section-subtitle">
+                Six dimensions. Each one self-assessed. The shape reveals where
+                presence is strongest and where growth is needed.
+            </p>
+            <div class="aura-hex-container">
+                <svg
+                    class="aura-hex"
+                    viewBox="0 0 400 380"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                >
+                    <!-- Hexagon outline -->
+                    <polygon
+                        points="200,30 360,120 360,260 200,350 40,260 40,120"
+                        fill="none"
+                        stroke="rgba(255,255,255,0.06)"
+                        stroke-width="1"></polygon>
+                    <!-- Inner web -->
+                    <polygon
+                        points="200,80 320,140 320,240 200,300 80,240 80,140"
+                        fill="none"
+                        stroke="rgba(255,255,255,0.04)"
+                        stroke-width="1"></polygon>
+                    <polygon
+                        points="200,130 280,160 280,220 200,250 120,220 120,160"
+                        fill="none"
+                        stroke="rgba(255,255,255,0.03)"
+                        stroke-width="1"></polygon>
+                    <!-- CORE center -->
+                    <circle
+                        cx="200"
+                        cy="190"
+                        r="6"
+                        fill="var(--accent)"
+                        opacity="0.6"></circle>
+                    <!-- Data shape -->
+                    {
+                        (() => {
+                            const dims = creator.aura.dimensions;
+                            const cx = 200,
+                                cy = 190,
+                                maxR = 150;
+                            const angles = dims.map(
+                                (_, i) =>
+                                    (Math.PI * 2 * i) / dims.length -
+                                    Math.PI / 2,
+                            );
+                            const points = dims
+                                .map((d, i) => {
+                                    const r = (d.rating / 100) * maxR;
+                                    const x = cx + r * Math.cos(angles[i]);
+                                    const y = cy + r * Math.sin(angles[i]);
+                                    return `${x.toFixed(0)},${y.toFixed(0)}`;
+                                })
+                                .join(" ");
+                            return (
+                                <polygon
+                                    points={points}
+                                    fill="rgba(196,149,106,0.08)"
+                                    stroke="var(--accent)"
+                                    stroke-width="1.5"
+                                />
+                            );
+                        })()
+                    }
+                    <!-- Dimension labels -->
+                    {
+                        creator.aura.dimensions.map((d, i) => {
+                            const angles = [
+                                { x: 200, y: 18 },
+                                { x: 375, y: 115 },
+                                { x: 375, y: 268 },
+                                { x: 200, y: 370 },
+                                { x: 25, y: 268 },
+                                { x: 25, y: 115 },
+                            ];
+                            const pos = angles[i];
+                            return (
+                                <text
+                                    x={pos.x}
+                                    y={pos.y}
+                                    text-anchor="middle"
+                                    fill="var(--text-muted)"
+                                    font-size="11"
+                                    font-family="var(--font-heading)"
+                                    font-weight="600"
+                                >
+                                    {d.label}
+                                </text>
+                            );
+                        })
+                    }
+                </svg>
+            </div>
+            <div class="aura-details">
+                {
+                    creator.aura.dimensions.map((d) => (
+                        <div class="aura-dim">
+                            <span class="aura-dim-name">{d.label}</span>
+                            <div class="aura-bar-track">
+                                <div
+                                    class="aura-bar-fill"
+                                    style={`width: ${d.rating}%`}
+                                />
+                            </div>
+                            <span class="aura-dim-rating">{d.rating}%</span>
+                            <span class="aura-dim-desc">{d.desc}</span>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+    </section>
+
+    <!-- What is AURA -->
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <div class="manifesto">
+                <h2>What Is <span class="gt">AURA</span></h2>
+                <p>
+                    AURA is not a personality test. It is not a certification.
+                    It is a mirror: a self-assessment that changes as you
+                    change.
+                </p>
+                <p>
+                    The six dimensions capture how you show up: how deeply you
+                    think, how honestly you lead, how much you give, how far you
+                    reach, how clearly you see yourself, and how deliberately
+                    you grow.
+                </p>
+                <p>
+                    The shape is never "done." It shifts with each chapter of
+                    your life. That is the point.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cross-link -->
+    <section class="section--tight">
+        <div class="container container--narrow" style="text-align:center;">
+            <p
+                style="font-size:0.85rem;color:var(--text-dim);margin-bottom:var(--space-sm);"
+            >
+                Curious about the identity behind this shape?
+            </p>
+            <a href="/play/core/" class="challenge-link">See The Creator →</a>
+        </div>
+    </section>
+</Page>
+
+<style>
+    .aura-hero {
+        padding: var(--space-4xl) 0 var(--space-2xl);
+        text-align: right;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .aura-label {
+        font-family: var(--font-label);
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--soul-color);
+        margin-bottom: var(--space-sm);
+        display: block;
+    }
+
+    .aura-desc {
+        max-width: 560px;
+        margin-left: auto;
+        color: var(--text-secondary);
+        font-size: 1.05rem;
+        line-height: 1.7;
+    }
+
+    .section-title {
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+        margin-bottom: var(--space-lg);
+        padding-bottom: var(--space-sm);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .section-subtitle {
+        font-size: 0.78rem;
+        color: var(--text-dim);
+        margin-top: calc(var(--space-sm) * -1);
+        margin-bottom: var(--space-lg);
+    }
+
+    /* ─── AURA HEXAGON ─── */
+    .aura-hex-container {
+        max-width: 360px;
+        margin: 0 auto var(--space-lg);
+    }
+
+    .aura-hex {
+        width: 100%;
+        height: auto;
+    }
+
+    .aura-details {
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-sm);
+    }
+
+    .aura-dim {
+        display: grid;
+        grid-template-columns: 100px 1fr 40px;
+        align-items: center;
+        gap: var(--space-sm);
+    }
+
+    .aura-dim-name {
+        font-family: var(--font-heading);
+        font-size: 0.78rem;
+        font-weight: 600;
+        color: var(--text-secondary);
+    }
+
+    .aura-bar-track {
+        height: 4px;
+        background: rgba(255, 255, 255, 0.04);
+        border-radius: 2px;
+        overflow: hidden;
+    }
+
+    .aura-bar-fill {
+        height: 100%;
+        background: linear-gradient(90deg, var(--accent), var(--accent-light));
+        border-radius: 2px;
+        transition: width 1s ease;
+    }
+
+    .aura-dim-rating {
+        font-family: var(--font-heading);
+        font-size: 0.7rem;
+        font-weight: 700;
+        color: var(--accent);
+        text-align: right;
+    }
+
+    .aura-dim-desc {
+        grid-column: 1 / -1;
+        font-size: 0.72rem;
+        color: var(--text-dim);
+        margin: -4px 0 4px 0;
+        padding-left: 100px;
+    }
+
+    @media (max-width: 768px) {
+        .aura-dim {
+            grid-template-columns: 80px 1fr 40px;
+        }
+        .aura-dim-desc {
+            padding-left: 0;
+        }
+    }
+</style>

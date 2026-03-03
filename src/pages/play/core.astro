@@ -1,0 +1,639 @@
+---
+/**
+ * Creator AURA Page
+ * The anchor page: Human Design + CliftonStrengths + CORE convergence
+ */
+import Page from "../../layouts/Page.astro";
+import TamilRoot from "../../components/TamilRoot.astro";
+import creator from "../../data/creator.json";
+---
+
+<Page title="The Creator" activeNav="core">
+  <!-- Identity Header -->
+  <section class="creator-hero">
+    <div class="container container--narrow">
+      <div class="creator-badge">The Architect</div>
+      <h1 class="creator-name">{creator.name}</h1>
+      <p class="creator-tagline">{creator.tagline}</p>
+      <div class="creator-dots" aria-hidden="true">
+        <img src="/logo.svg" width="28" height="28" alt="" />
+      </div>
+    </div>
+  </section>
+
+  <!-- Vision -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <blockquote class="creator-vision">
+        <p>{creator.vision}</p>
+      </blockquote>
+    </div>
+  </section>
+
+  <!-- CORE Identity -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <h2 class="section-title">CORE Identity</h2>
+      <div class="core-grid">
+        <div class="core-card core-card--calling">
+          <span class="core-letter">C</span>
+          <h3>Calling</h3>
+          <p class="core-title">{creator.core.calling.title}</p>
+          <p class="core-desc">{creator.core.calling.desc}</p>
+        </div>
+        <div class="core-card core-card--origin">
+          <span class="core-letter">O</span>
+          <h3>Origin</h3>
+          <p class="core-title">{creator.core.origin.title}</p>
+          <p class="core-desc">{creator.core.origin.desc}</p>
+        </div>
+        <div class="core-card core-card--reason">
+          <span class="core-letter">R</span>
+          <h3>Reason</h3>
+          <p class="core-title">{creator.core.reason.title}</p>
+          <p class="core-desc">{creator.core.reason.desc}</p>
+        </div>
+        <div class="core-card core-card--endurance">
+          <span class="core-letter">E</span>
+          <h3>Endurance</h3>
+          <p class="core-title">{creator.core.endurance.title}</p>
+          <p class="core-desc">{creator.core.endurance.desc}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tamil Root -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <TamilRoot
+        tamil="அறிவன்"
+        transliteration="Arivan"
+        meaning="The Wise One. One who connects patterns from unrelated domains and builds frameworks that shift perceptions."
+        tamilMeaning="தொடர்பற்ற துறைகளிலிருந்து முறைகளை இணைத்து, புரிதலை மாற்றும் கட்டமைப்புகளை உருவாக்குபவர்."
+        kural="கற்க கசடறக் கற்பவை கற்றபின் நிற்க அதற்குத் தக."
+        kuralNumber={391}
+        kuralTranslation="Learn flawlessly. Then live by what you learned."
+      />
+    </div>
+  </section>
+
+  <!-- Human Design -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <h2 class="section-title">Human Design</h2>
+      <div class="hd-grid">
+        <div class="hd-card hd-card--primary">
+          <span class="hd-label">Type</span>
+          <h3 class="hd-value">{creator.humanDesign.type}</h3>
+          <p class="hd-desc">{creator.humanDesign.typeDesc}</p>
+        </div>
+        <div class="hd-card">
+          <span class="hd-label">Authority</span>
+          <h3 class="hd-value">{creator.humanDesign.authority}</h3>
+          <p class="hd-desc">{creator.humanDesign.authorityDesc}</p>
+        </div>
+        <div class="hd-card">
+          <span class="hd-label">Profile</span>
+          <h3 class="hd-value">{creator.humanDesign.profile}</h3>
+          <p class="hd-desc">{creator.humanDesign.profileDesc}</p>
+        </div>
+      </div>
+
+      <div class="gates-section">
+        <h3 class="gates-title">Active Gates</h3>
+        <div class="gates-grid">
+          {
+            creator.humanDesign.gates.map((g) => (
+              <div class="gate-card">
+                <div class="gate-number">{g.gate}</div>
+                <div class="gate-info">
+                  <span class="gate-name">{g.name}</span>
+                  <span class="gate-position">{g.position}</span>
+                  <p class="gate-meaning">{g.meaning}</p>
+                </div>
+              </div>
+            ))
+          }
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CliftonStrengths -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <h2 class="section-title">CliftonStrengths</h2>
+      <div class="strengths-list">
+        {
+          creator.cliftonStrengths.themes.map((s) => (
+            <div class="strength-row">
+              <span class="strength-rank">#{s.rank}</span>
+              <div class="strength-info">
+                <span class="strength-theme">{s.theme}</span>
+                <span class="strength-domain">{s.domain}</span>
+              </div>
+              <span class="strength-expression">{s.expression}</span>
+            </div>
+          ))
+        }
+      </div>
+      <p class="strengths-pattern">{creator.cliftonStrengths.pattern}</p>
+    </div>
+  </section>
+
+  <!-- Core Belief -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <blockquote class="creator-belief">
+        <p>"{creator.belief}"</p>
+      </blockquote>
+    </div>
+  </section>
+
+  <!-- Journey Numbers -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <div class="journey-grid">
+        <div class="journey-stat">
+          <span class="journey-number">{creator.journey.countries}</span>
+          <span class="journey-label">Countries</span>
+        </div>
+        <div class="journey-stat">
+          <span class="journey-number">{creator.journey.turningPoints}</span>
+          <span class="journey-label">Turning Points</span>
+        </div>
+        <div class="journey-stat">
+          <span class="journey-number">{creator.journey.books}</span>
+          <span class="journey-label">Books Planned</span>
+        </div>
+        <div class="journey-stat">
+          <span class="journey-number">{creator.journey.repos}</span>
+          <span class="journey-label">Repositories</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Cross-link -->
+  <section class="section--tight">
+    <div class="container container--narrow" style="text-align:center;">
+      <p
+        style="font-size:0.85rem;color:var(--text-dim);margin-bottom:var(--space-sm);"
+      >
+        This is who I am. Now see how it shows up.
+      </p>
+      <a href="/play/aura/" class="challenge-link">See My AURA →</a>
+    </div>
+  </section>
+</Page>
+
+<style>
+  /* ─── HERO ─── */
+  .creator-hero {
+    text-align: center;
+    padding: var(--space-3xl) 0 var(--space-xl);
+  }
+
+  .creator-badge {
+    display: inline-block;
+    font-family: var(--font-heading);
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid var(--accent-border);
+    border-radius: 20px;
+    padding: 4px 16px;
+    margin-bottom: var(--space-md);
+  }
+
+  .creator-name {
+    font-size: clamp(1.8rem, 4vw, 2.8rem);
+    margin-bottom: var(--space-sm);
+  }
+
+  .creator-tagline {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .creator-dots {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: var(--space-lg);
+  }
+
+  .c-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+  }
+
+  .c-dot--think {
+    background: var(--mind-color);
+  }
+  .c-dot--work {
+    background: var(--body-color);
+  }
+  .c-dot--play {
+    background: var(--soul-color);
+  }
+
+  /* ─── VISION ─── */
+  .creator-vision {
+    text-align: center;
+    border: none;
+    padding: var(--space-xl);
+    background: var(--bg-card);
+    border-radius: var(--border-radius-lg);
+    border-left: 3px solid var(--soul-color);
+  }
+
+  .creator-vision p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--text-secondary);
+    margin: 0;
+    font-style: italic;
+  }
+
+  /* ─── SECTION TITLE ─── */
+  .section-title {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: var(--space-lg);
+    padding-bottom: var(--space-sm);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  }
+
+  .section-subtitle {
+    font-size: 0.78rem;
+    color: var(--text-dim);
+    margin-top: calc(var(--space-sm) * -1);
+    margin-bottom: var(--space-lg);
+  }
+
+  /* ─── CORE GRID ─── */
+  .core-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-md);
+  }
+
+  .core-card {
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: var(--border-radius);
+    padding: var(--space-lg);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .core-letter {
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    font-family: var(--font-heading);
+    font-size: 4rem;
+    font-weight: 800;
+    opacity: 0.04;
+    line-height: 1;
+  }
+
+  .core-card h3 {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: var(--space-xs);
+  }
+
+  .core-title {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--text-primary);
+    margin-bottom: var(--space-xs);
+  }
+
+  .core-desc {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin: 0;
+  }
+
+  .core-card--calling {
+    border-top: 2px solid var(--soul-color);
+  }
+  .core-card--origin {
+    border-top: 2px solid var(--text-muted);
+  }
+  .core-card--reason {
+    border-top: 2px solid var(--body-color);
+  }
+  .core-card--endurance {
+    border-top: 2px solid var(--mind-color);
+  }
+
+  /* ─── HUMAN DESIGN ─── */
+  .hd-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-md);
+    margin-bottom: var(--space-xl);
+  }
+
+  .hd-card {
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: var(--border-radius);
+    padding: var(--space-lg);
+    text-align: center;
+  }
+
+  .hd-card--primary {
+    border-color: var(--accent-border);
+    background: linear-gradient(
+      135deg,
+      var(--bg-card),
+      rgba(196, 149, 106, 0.04)
+    );
+  }
+
+  .hd-label {
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+
+  .hd-value {
+    font-size: 1.4rem;
+    color: var(--text-primary);
+    margin: var(--space-xs) 0;
+  }
+
+  .hd-desc {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  .gates-title {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: var(--space-md);
+  }
+
+  .gates-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-md);
+  }
+
+  .gate-card {
+    display: flex;
+    gap: var(--space-md);
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: var(--border-radius);
+    padding: var(--space-md);
+  }
+
+  .gate-number {
+    font-family: var(--font-heading);
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--accent);
+    opacity: 0.6;
+    min-width: 40px;
+    text-align: center;
+    line-height: 1;
+    padding-top: 4px;
+  }
+
+  .gate-info {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .gate-name {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: var(--text-primary);
+  }
+
+  .gate-position {
+    font-size: 0.68rem;
+    color: var(--text-dim);
+    letter-spacing: 0.04em;
+  }
+
+  .gate-meaning {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    margin: 2px 0 0;
+    line-height: 1.4;
+  }
+
+  /* ─── CLIFTONSTRENGTHS ─── */
+  .strengths-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .strength-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: var(--border-radius);
+    padding: var(--space-sm) var(--space-md);
+  }
+
+  .strength-rank {
+    font-family: var(--font-heading);
+    font-weight: 800;
+    font-size: 0.9rem;
+    color: var(--accent);
+    min-width: 28px;
+  }
+
+  .strength-info {
+    display: flex;
+    flex-direction: column;
+    min-width: 120px;
+  }
+
+  .strength-theme {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: var(--text-primary);
+  }
+
+  .strength-domain {
+    font-size: 0.68rem;
+    color: var(--text-dim);
+  }
+
+  .strength-expression {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    margin-left: auto;
+  }
+
+  .strengths-pattern {
+    margin-top: var(--space-md);
+    font-size: 0.85rem;
+    color: var(--accent);
+    font-weight: 600;
+    text-align: center;
+  }
+
+  /* ─── AURA HEXAGON ─── */
+  .aura-hex-container {
+    max-width: 360px;
+    margin: 0 auto var(--space-lg);
+  }
+
+  .aura-hex {
+    width: 100%;
+    height: auto;
+  }
+
+  .aura-details {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .aura-dim {
+    display: grid;
+    grid-template-columns: 100px 1fr auto;
+    align-items: center;
+    gap: var(--space-sm);
+  }
+
+  .aura-dim-name {
+    font-family: var(--font-heading);
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+  }
+
+  .aura-bar-track {
+    height: 4px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .aura-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--accent-light));
+    border-radius: 2px;
+    transition: width 1s ease;
+  }
+
+  .aura-dim-desc {
+    font-size: 0.72rem;
+    color: var(--text-dim);
+    margin: 0;
+    text-align: right;
+  }
+
+  /* ─── BELIEF ─── */
+  .creator-belief {
+    text-align: center;
+    border: none;
+    padding: var(--space-xl);
+  }
+
+  .creator-belief p {
+    font-family: var(--font-heading);
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  /* ─── JOURNEY ─── */
+  .journey-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-md);
+    text-align: center;
+  }
+
+  .journey-stat {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .journey-number {
+    font-family: var(--font-heading);
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: var(--accent);
+    line-height: 1;
+  }
+
+  .journey-label {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  /* ─── RESPONSIVE ─── */
+  @media (max-width: 768px) {
+    .core-grid {
+      grid-template-columns: 1fr;
+    }
+    .hd-grid {
+      grid-template-columns: 1fr;
+    }
+    .gates-grid {
+      grid-template-columns: 1fr;
+    }
+    .journey-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .aura-dim {
+      grid-template-columns: 80px 1fr;
+    }
+    .aura-dim-desc {
+      display: none;
+    }
+
+    .strength-row {
+      flex-wrap: wrap;
+    }
+    .strength-expression {
+      margin-left: 0;
+      font-size: 0.75rem;
+      width: 100%;
+      padding-left: 42px;
+    }
+  }
+</style>

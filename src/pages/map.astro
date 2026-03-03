@@ -1,0 +1,372 @@
+---
+import Page from "../layouts/Page.astro";
+import ConstellationGraph from "../components/ConstellationGraph.astro";
+import TamilRoot from "../components/TamilRoot.astro";
+---
+
+<Page
+  title="The Map"
+  description="How everything connects. The bigger picture behind the thinking, building, and playing."
+  activeNav="map"
+>
+  <section class="map-hero">
+    <!-- Ambient orb glow -->
+    <div
+      class="orb"
+      style="width:350px;height:350px;background:var(--body-color);top:-80px;left:-80px;"
+    >
+    </div>
+    <div
+      class="orb"
+      style="width:300px;height:300px;background:var(--mind-color);bottom:-60px;right:-80px;"
+    >
+    </div>
+
+    <div class="container">
+      <span class="map-label">The Bigger Picture</span>
+      <h1>How Everything <span class="gt">Connects</span></h1>
+      <p class="map-desc">
+        Nothing I do exists in isolation. Every framework informs the books.
+        Every book tests the framework. Every question reshapes both. This is
+        the map of how it all fits together.
+      </p>
+    </div>
+  </section>
+
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <TamilRoot
+        tamil="வரைபடம்"
+        transliteration="Varaipadam"
+        meaning="The Map. A blueprint showing how every concept, tool, and idea connects into a living constellation."
+        tamilMeaning="ஒவ்வொரு கருத்தாக்கம், கருவி மற்றும் யோசனை எவ்வாறு ஒரு உயிர்ப்பான விண்மீன் கூட்டமாக இணைகிறது என்பதைக் காட்டும் வரைபடம்."
+        kural="பொருள்கருவி காலம் வினையிடனொடு ஐந்தும் இருள்தீர எண்ணிச் செயல்."
+        kuralNumber={541}
+        kuralTranslation="Consider the means, the instrument, the time, the task, and the place, then act clearly."
+      />
+    </div>
+  </section>
+
+  <!-- Constellation Graph -->
+  <section class="section--tight">
+    <div class="container">
+      <ConstellationGraph />
+    </div>
+  </section>
+
+  <section class="section--tight">
+    <div class="container">
+      <!-- Three Pillars Diagram -->
+      <div class="pillars-diagram">
+        <div class="pillar-center">
+          <span class="tamil-mark">ஃ</span>
+          <span class="pillar-center-label">The Nebula</span>
+          <span class="pillar-center-sub">Connect. Build. Ignite.</span>
+        </div>
+
+        <div class="pillars-ring">
+          <div class="pillar-node pillar-node--think">
+            <h4>Think</h4>
+            <ul>
+              <li>Dialectic reasoning</li>
+              <li>Decision architecture</li>
+              <li>Recursive learning</li>
+              <li>AI reasoning research</li>
+              <li>The GRACE posture</li>
+            </ul>
+          </div>
+
+          <div class="pillar-node pillar-node--work">
+            <h4>Work</h4>
+            <ul>
+              <li>Books (13-book series)</li>
+              <li>Published research</li>
+              <li>Open-source tools</li>
+              <li>AI-assisted authorship</li>
+              <li>Wisdom engine</li>
+            </ul>
+          </div>
+
+          <div class="pillar-node pillar-node--play">
+            <h4>Play</h4>
+            <ul>
+              <li>Tamil roots &amp; Thirukkural</li>
+              <li>Identity (CORE)</li>
+              <li>Living systems conviction</li>
+              <li>Emergence philosophy</li>
+              <li>Transformation coaching</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <!-- The Connections -->
+      <div class="connections">
+        <h2>The Threads Between</h2>
+        <div class="connection-list">
+          <div class="connection">
+            <span class="connection-dots">
+              <span class="dot dot--think"></span>
+              <span class="dot-line"></span>
+              <span class="dot dot--work"></span>
+            </span>
+            <div>
+              <h4>Think → Work</h4>
+              <p>
+                Every framework I develop gets tested in a book or tool. If it
+                survives the pressure of practical application, it's real.
+              </p>
+            </div>
+          </div>
+
+          <div class="connection">
+            <span class="connection-dots">
+              <span class="dot dot--work"></span>
+              <span class="dot-line"></span>
+              <span class="dot dot--play"></span>
+            </span>
+            <div>
+              <h4>Work → Play</h4>
+              <p>
+                Building things surfaces the deeper questions. Why does this
+                matter? Who is it for? The answers live in Play.
+              </p>
+            </div>
+          </div>
+
+          <div class="connection">
+            <span class="connection-dots">
+              <span class="dot dot--play"></span>
+              <span class="dot-line"></span>
+              <span class="dot dot--think"></span>
+            </span>
+            <div>
+              <h4>Play → Think</h4>
+              <p>
+                Tamil wisdom, personal stories, and curious detours constantly
+                reshape how I reason. The fire feeds the frameworks.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <!-- Core Belief -->
+      <blockquote class="core-belief">
+        <p>
+          "The delay is the curriculum. The outsider perspective is not a bug,
+          it is the advantage."
+        </p>
+      </blockquote>
+    </div>
+  </section>
+</Page>
+
+<style>
+  .map-hero {
+    padding: var(--space-4xl) 0 var(--space-2xl);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .map-label {
+    font-family: var(--font-label);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  .map-desc {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    max-width: 560px;
+    margin: 0 auto;
+  }
+
+  /* Pillars Diagram */
+  .pillars-diagram {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-2xl);
+    margin: var(--space-2xl) 0;
+  }
+
+  .pillar-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+
+  .pillar-center .tamil-mark {
+    font-size: 2.5rem;
+  }
+
+  .pillar-center-label {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: var(--text-primary);
+  }
+
+  .pillar-center-sub {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+  }
+
+  .pillars-ring {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-lg);
+    width: 100%;
+    max-width: 900px;
+  }
+
+  .pillar-node {
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: var(--border-radius);
+    padding: var(--space-lg);
+    text-align: center;
+  }
+
+  .pillar-node h4 {
+    font-size: 1rem;
+    margin-bottom: var(--space-sm);
+  }
+
+  .pillar-node--think {
+    border-top: 3px solid var(--mind-color);
+  }
+  .pillar-node--think h4 {
+    color: var(--mind-color);
+  }
+  .pillar-node--work {
+    border-top: 3px solid var(--body-color);
+  }
+  .pillar-node--work h4 {
+    color: var(--body-color);
+  }
+  .pillar-node--play {
+    border-top: 3px solid var(--soul-color);
+  }
+  .pillar-node--play h4 {
+    color: var(--soul-color);
+  }
+
+  .pillar-node ul {
+    list-style: none;
+    text-align: left;
+  }
+
+  .pillar-node li {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    padding: 4px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+  }
+
+  .pillar-node li:last-child {
+    border-bottom: none;
+  }
+
+  /* Connections */
+  .connections {
+    margin: var(--space-xl) 0;
+  }
+
+  .connections h2 {
+    margin-bottom: var(--space-xl);
+    text-align: center;
+  }
+
+  .connection-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .connection {
+    display: flex;
+    gap: var(--space-lg);
+    align-items: flex-start;
+  }
+
+  .connection-dots {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    min-width: 20px;
+    padding-top: 4px;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+
+  .dot--think {
+    background: var(--mind-color);
+  }
+  .dot--work {
+    background: var(--body-color);
+  }
+  .dot--play {
+    background: var(--soul-color);
+  }
+
+  .dot-line {
+    width: 2px;
+    height: 16px;
+    background: rgba(255, 255, 255, 0.08);
+  }
+
+  .connection h4 {
+    color: var(--accent-light);
+    margin-bottom: var(--space-xs);
+    font-size: 0.95rem;
+  }
+
+  .connection p {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  /* Core Belief */
+  .core-belief {
+    text-align: center;
+    padding: var(--space-xl);
+    margin: var(--space-xl) 0;
+  }
+
+  .core-belief p {
+    font-size: 1.2rem;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 1.7;
+    color: var(--accent-light);
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    .pillars-ring {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

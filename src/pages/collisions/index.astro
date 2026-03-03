@@ -1,0 +1,372 @@
+---
+import Page from "../../layouts/Page.astro";
+import TamilRoot from "../../components/TamilRoot.astro";
+import { getCollection } from "astro:content";
+
+const collisions = await getCollection("collisions");
+const sorted = collisions.sort(
+    (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime(),
+);
+
+// Category labels
+const categoryLabels: Record<string, string> = {
+    "ai-emergence": "AI & Emergence",
+    "living-orgs": "Living Organisations",
+    spar: "SPAR Methodology",
+    pattern: "Pattern Connections",
+    personal: "Personal",
+};
+---
+
+<Page
+    title="Collisions"
+    description="Where ideas from unrelated domains crash into each other and produce new patterns."
+    activeNav="collisions"
+>
+    <section class="dimension-hero dimension-hero--collisions">
+        <div class="container">
+            <div class="orientation" aria-label="You are in Collisions">
+                <span class="ori-dot ori-dot--mind"></span>
+                <span class="ori-dot ori-dot--soul"></span>
+                <span class="ori-dot ori-dot--body"></span>
+            </div>
+            <span class="dimension-label">Collisions</span>
+            <h1>Where Ideas <span class="gt">Crash</span></h1>
+            <p class="dimension-desc">
+                Two ideas from different domains collide. Something new emerges
+                at the impact site. These are not blog posts. They are
+                intellectual events.
+            </p>
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <TamilRoot
+                tamil="மோதல்"
+                transliteration="Mothal"
+                meaning="Collision. The generative violence of two ideas from unrelated domains crashing into each other, producing a pattern neither could create alone."
+                tamilMeaning="தொடர்பற்ற துறைகளின் கருத்துக்கள் மோதி, தனியாக உருவாக்க இயலாத ஒரு புதிய வடிவத்தை உருவாக்குகின்றன."
+                kural="தொட்டனைத்தூறும் மணற்கேணி மாந்தர்க்குக் கற்றனைத்தூறும் அறிவு."
+                kuralNumber={396}
+                kuralTranslation="Like a well that springs as you dig, knowledge springs as you learn."
+            />
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container">
+            <div class="collisions-grid">
+                {
+                    sorted.map((collision) => {
+                        const cat = collision.data.categories?.[0] || "";
+                        const catLabel = categoryLabels[cat] || cat;
+                        const collisionIdeas =
+                            collision.data.collision_point?.ideas ||
+                            [
+                                collision.data.collision_point?.idea_a,
+                                collision.data.collision_point?.idea_b,
+                            ].filter(Boolean);
+
+                        return (
+                            <a
+                                href={`/collisions/${collision.id.replace(/\.md$/, "")}/`}
+                                class="collision-card card card--mind"
+                            >
+                                <div class="collision-card-header">
+                                    <span class="dimension-badge badge--mind">
+                                        {catLabel}
+                                    </span>
+                                    <time
+                                        class="collision-date"
+                                        datetime={collision.data.date.toISOString()}
+                                    >
+                                        {collision.data.date.toLocaleDateString(
+                                            "en-AU",
+                                            {
+                                                year: "numeric",
+                                                month: "short",
+                                                day: "numeric",
+                                            },
+                                        )}
+                                    </time>
+                                </div>
+                                <h3 class="collision-card-title">
+                                    {collision.data.title}
+                                </h3>
+                                <p class="collision-card-desc">
+                                    {collision.data.description}
+                                </p>
+                                {collisionIdeas.length > 0 && (
+                                    <div class="collision-ideas">
+                                        <span class="collision-x">💥</span>
+                                        {collisionIdeas.map((idea, i) => (
+                                            <>
+                                                <span class="collision-idea">
+                                                    {idea}
+                                                </span>
+                                                {i <
+                                                    collisionIdeas.length -
+                                                        1 && (
+                                                    <span class="collision-x">
+                                                        ×
+                                                    </span>
+                                                )}
+                                            </>
+                                        ))}
+                                    </div>
+                                )}
+                                {collision.data.tags && (
+                                    <div class="collision-tags">
+                                        {collision.data.tags.map(
+                                            (tag: string) => (
+                                                <span class="tag">{tag}</span>
+                                            ),
+                                        )}
+                                    </div>
+                                )}
+                                <span
+                                    class="collision-arrow"
+                                    aria-hidden="true"
+                                >
+                                    &rarr;
+                                </span>
+                            </a>
+                        );
+                    })
+                }
+            </div>
+
+            {
+                sorted.length === 0 && (
+                    <div class="empty-state">
+                        <p>No collisions yet. The nebula is forming.</p>
+                    </div>
+                )
+            }
+        </div>
+    </section>
+</Page>
+
+<style>
+    /* ─── HERO ─── */
+    .dimension-hero--collisions {
+        padding: var(--space-4xl) 0 var(--space-2xl);
+        position: relative;
+    }
+
+    .dimension-hero--collisions::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background:
+            radial-gradient(
+                ellipse at 20% 40%,
+                var(--mind-glow) 0%,
+                transparent 50%
+            ),
+            radial-gradient(
+                ellipse at 80% 60%,
+                var(--soul-glow) 0%,
+                transparent 50%
+            );
+        pointer-events: none;
+    }
+
+    .dimension-label {
+        font-family: var(--font-heading);
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--mind-color);
+        display: block;
+        margin-bottom: var(--space-sm);
+    }
+
+    .dimension-desc {
+        font-size: 1.1rem;
+        color: var(--text-muted);
+        max-width: 560px;
+        position: relative;
+        z-index: 1;
+    }
+
+    .orientation {
+        display: flex;
+        gap: 8px;
+        margin-bottom: var(--space-md);
+        position: relative;
+        z-index: 1;
+    }
+
+    .ori-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+    }
+
+    .ori-dot--mind {
+        background: var(--mind-color);
+        box-shadow: 0 0 8px var(--mind-glow);
+    }
+
+    .ori-dot--soul {
+        background: var(--soul-color);
+        box-shadow: 0 0 8px var(--soul-glow);
+        opacity: 0.5;
+    }
+
+    .ori-dot--body {
+        background: var(--body-color);
+        box-shadow: 0 0 8px var(--body-glow);
+        opacity: 0.5;
+    }
+
+    h1 {
+        position: relative;
+        z-index: 1;
+    }
+
+    /* ─── GRID ─── */
+    .collisions-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: var(--space-lg);
+    }
+
+    /* ─── CARD ─── */
+    .collision-card {
+        display: block;
+        position: relative;
+        text-decoration: none;
+        color: inherit;
+        padding: var(--space-lg) var(--space-xl) var(--space-xl);
+        border-left: 3px solid var(--mind-color);
+        transition: all var(--transition-base);
+    }
+
+    .collision-card:hover {
+        border-left-color: var(--soul-color);
+        transform: translateX(4px);
+    }
+
+    .collision-card-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: var(--space-sm);
+    }
+
+    .dimension-badge {
+        font-family: var(--font-heading);
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        padding: 2px 10px;
+        border-radius: 20px;
+    }
+
+    .badge--mind {
+        color: var(--mind-color);
+        background: var(--mind-glow);
+        border: 1px solid rgba(40, 116, 166, 0.25);
+    }
+
+    .collision-date {
+        font-size: 0.72rem;
+        color: var(--text-dim);
+        font-family: var(--font-heading);
+        letter-spacing: 0.03em;
+    }
+
+    .collision-card-title {
+        font-size: 1.2rem;
+        font-weight: 700;
+        margin-bottom: var(--space-sm);
+        line-height: 1.35;
+        transition: color var(--transition-fast);
+    }
+
+    .collision-card:hover .collision-card-title {
+        color: var(--accent);
+    }
+
+    .collision-card-desc {
+        font-size: 0.88rem;
+        line-height: 1.6;
+        color: var(--text-muted);
+        margin-bottom: var(--space-md);
+    }
+
+    /* Collision ideas display */
+    .collision-ideas {
+        display: flex;
+        align-items: center;
+        gap: var(--space-xs);
+        flex-wrap: wrap;
+        margin-bottom: var(--space-sm);
+        padding: var(--space-sm) var(--space-md);
+        background: rgba(40, 116, 166, 0.06);
+        border-radius: 8px;
+        border: 1px solid rgba(40, 116, 166, 0.1);
+    }
+
+    .collision-idea {
+        font-size: 0.75rem;
+        color: var(--text-secondary);
+        font-family: var(--font-heading);
+        font-weight: 500;
+    }
+
+    .collision-x {
+        font-size: 0.75rem;
+        color: var(--soul-color);
+        opacity: 0.7;
+    }
+
+    .collision-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--space-xs);
+    }
+
+    .tag {
+        font-size: 0.7rem;
+        color: var(--text-dim);
+        padding: 2px 8px;
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.03);
+    }
+
+    .collision-arrow {
+        position: absolute;
+        right: var(--space-lg);
+        bottom: var(--space-md);
+        font-size: 1.1rem;
+        color: var(--text-dim);
+        transition: all var(--transition-fast);
+    }
+
+    .collision-card:hover .collision-arrow {
+        color: var(--accent);
+        transform: translateX(4px);
+    }
+
+    .empty-state {
+        text-align: center;
+        padding: var(--space-4xl) 0;
+        color: var(--text-dim);
+    }
+
+    @media (max-width: 600px) {
+        .collision-card {
+            padding: var(--space-md) var(--space-lg) var(--space-lg);
+        }
+
+        .collision-card-title {
+            font-size: 1.05rem;
+        }
+    }
+</style>

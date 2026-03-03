@@ -1,0 +1,325 @@
+---
+import Page from "../layouts/Page.astro";
+import PatternCard from "../components/PatternCard.astro";
+import TamilRoot from "../components/TamilRoot.astro";
+---
+
+<Page
+  title="Play"
+  description="What moves Naveen. Tamil roots, curious detours, stories, and the fire beneath everything else."
+  activeNav="play"
+>
+  <section class="dimension-hero dimension-hero--play">
+    <div class="container">
+      <div class="orientation" aria-label="You are in Play">
+        <span class="ori-dot ori-dot--dim" title="Think"></span>
+        <span class="ori-dot ori-dot--dim" title="Work"></span>
+        <span class="ori-dot ori-dot--active" title="Play"></span>
+      </div>
+      <span class="dimension-label"
+        >Play <span class="personality-dot">·</span>
+        <span class="personality-type">Extravert</span></span
+      >
+      <h1>Why I Live</h1>
+      <p class="dimension-desc">
+        Curiosity is play. Tamil roots, philosophical detours, origin stories,
+        and the questions I cannot stop asking. This is the fire beneath
+        everything else.
+      </p>
+    </div>
+  </section>
+
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <TamilRoot
+        tamil="ஆன்மா"
+        transliteration="Aanma"
+        meaning="Soul. The uncodifiable remainder: purpose, identity, the thing that makes a person or an organization alive rather than merely functional."
+        tamilMeaning="குறியீடாக்க முடியாத மீதி: நோக்கம், அடையாளம், ஒரு நபரையோ நிறுவனத்தையோ வெறும் செயல்பாட்டுக்கு அப்பால் உயிருள்ளதாக்குவது."
+        kural="அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு."
+        kuralNumber={1}
+        kuralTranslation="As 'A' is the first of all letters, so is the Eternal God the first of the world."
+      />
+    </div>
+  </section>
+
+  <section class="section--tight">
+    <div class="container">
+      <div class="grid-2">
+        <PatternCard
+          title="Tamil Roots"
+          description="My heritage is not decoration. The Thirukkural, 2000-year-old Tamil couplets on virtue, wealth, and love, shaped how I think about leadership and meaning."
+          href="/play/core/"
+          dimension="soul"
+          tags={["Tamil", "Thirukkural", "Heritage"]}
+        />
+        <PatternCard
+          title="From Outcast to Transmuter"
+          description="A late start, an outsider trajectory. How the delay became the curriculum and the exclusion became the pattern-connecting advantage."
+          href="/about/"
+          dimension="soul"
+          tags={["Origin Story", "Identity", "Personal"]}
+        />
+        <PatternCard
+          title="Collision over Transfer"
+          description="Why I believe growth occurs through collision, not transfer. True learning happens when what you know crashes into what you don't."
+          href="/challenge/"
+          dimension="soul"
+          tags={["Philosophy", "Growth", "Conviction"]}
+        />
+        <PatternCard
+          title="The Honest Conversation"
+          description="The compound cost of avoiding a difficult conversation is always higher than the immediate cost of having it. A lesson I keep relearning."
+          href="/think/spar/"
+          dimension="soul"
+          tags={["Honesty", "Leadership", "Hard Lessons"]}
+        />
+        <PatternCard
+          title="Organizations Are Alive"
+          description="My deepest conviction: an organization is a living system, not a machine. It has a mind, a body, and a soul. We must nurture all three."
+          href="/work/alive/"
+          dimension="soul"
+          tags={["Living Systems", "Conviction", "Purpose"]}
+        />
+        <PatternCard
+          title="Questions That Changed Me"
+          description="The questions I carry: What if the delay is the curriculum? What if dissent is the immune system? What if the soul of an organization is real?"
+          href="/about/"
+          dimension="soul"
+          tags={["Questions", "Transformation", "Depth"]}
+        />
+      </div>
+    </div>
+  </section>
+
+  <!-- Kural Oracle -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <div class="oracle-card">
+        <span class="oracle-label">🟡 Ask the Kural</span>
+        <p class="oracle-tamil" id="oracle-tamil"></p>
+        <p class="oracle-translation" id="oracle-translation"></p>
+        <span class="oracle-number" id="oracle-number"></span>
+        <button class="oracle-btn" id="oracle-btn">Ask Again</button>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    const kurals = [
+      {
+        n: 391,
+        ta: "கற்க கசடறக் கற்பவை கற்றபின் நிற்க அதற்குத் தக.",
+        en: "Learn flawlessly. Then live by what you learned.",
+      },
+      {
+        n: 421,
+        ta: "அறிவற்றங் காக்குங் கருவி செறுவார்க்கும் உள்ளழிக்க லாகா அரண்.",
+        en: "Intelligence is the fortress no enemy can destroy.",
+      },
+      {
+        n: 396,
+        ta: "தொட்டனைத்தூறும் மணற்கேணி மாந்தர்க்குக் கற்றனைத்தூறும் அறிவு.",
+        en: "Like a well that springs as you dig, knowledge springs as you learn.",
+      },
+      {
+        n: 55,
+        ta: "அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை பண்பும் பயனும் அது.",
+        en: "A life grounded in love and virtue has both character and purpose.",
+      },
+      {
+        n: 981,
+        ta: "பெருமை உடையவர் ஆற்றுவார் ஆற்றின் அருமை உடைய செயல்.",
+        en: "The truly great accomplish the hardest deeds.",
+      },
+      {
+        n: 1,
+        ta: "அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு.",
+        en: "As the letter A begins all words, the primal being begins the world.",
+      },
+      {
+        n: 423,
+        ta: "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள் மெய்ப்பொருள் காண்பது அறிவு.",
+        en: "True wisdom: discerning truth in whatever anyone says.",
+      },
+      {
+        n: 595,
+        ta: "பொறியின்மை யார்க்கும் பழியன்று அறிவறிந்து ஆள்வினை இன்மை பழி.",
+        en: "Having no gift is no fault. Not striving when you know the way, that is.",
+      },
+      {
+        n: 971,
+        ta: "ஒளிஒருவற்கு உள்ள வெறுக்கை இளிஒருவற்கு அஃதிறந்து வாழ்தும் எனல்.",
+        en: "Light within is courage. Shame is choosing to live without it.",
+      },
+      {
+        n: 725,
+        ta: "அறன்அறிந்து மூத்த அறிவுடையார் கேண்மை திறன்அறிந்து தேர்ந்து கொளல்.",
+        en: "Choose the company of the wise only after testing their capability.",
+      },
+    ];
+    function showKural() {
+      const k = kurals[Math.floor(Math.random() * kurals.length)];
+      document.getElementById("oracle-tamil").textContent = k.ta;
+      document.getElementById("oracle-translation").textContent = k.en;
+      document.getElementById("oracle-number").textContent = "Kural #" + k.n;
+    }
+    showKural();
+    document.getElementById("oracle-btn").addEventListener("click", showKural);
+  </script>
+</Page>
+
+<style>
+  .dimension-hero {
+    padding: var(--space-4xl) 0 var(--space-2xl);
+    position: relative;
+    text-align: right;
+  }
+
+  .dimension-hero--play::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(
+        ellipse at 70% 50%,
+        rgba(212, 168, 67, 0.08) 0%,
+        transparent 50%
+      ),
+      radial-gradient(
+        ellipse at 30% 60%,
+        rgba(196, 149, 106, 0.05) 0%,
+        transparent 40%
+      );
+    pointer-events: none;
+  }
+
+  .dimension-label {
+    font-family: var(--font-heading);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--soul-color);
+    display: block;
+    margin-bottom: var(--space-sm);
+  }
+
+  .personality-dot {
+    opacity: 0.3;
+    margin: 0 2px;
+  }
+
+  .personality-type {
+    font-weight: 400;
+    opacity: 0.5;
+    letter-spacing: 0.06em;
+    font-size: 0.65rem;
+  }
+
+  .dimension-hero h1 {
+    position: relative;
+    z-index: 1;
+  }
+
+  .dimension-desc {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    max-width: 560px;
+    margin-left: auto;
+    position: relative;
+    z-index: 1;
+  }
+
+  .orientation {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-bottom: var(--space-md);
+    position: relative;
+    z-index: 1;
+  }
+
+  .ori-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+  }
+
+  .ori-dot--active {
+    background: var(--soul-color);
+    box-shadow: 0 0 8px var(--soul-glow);
+  }
+
+  .ori-dot--dim {
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  /* ── Kural Oracle ──────────────────────── */
+  .oracle-card {
+    text-align: center;
+    padding: var(--space-2xl);
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: var(--section-radius, 24px);
+    border-top: 3px solid var(--soul-color);
+  }
+
+  .oracle-label {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--soul-color);
+    display: block;
+    margin-bottom: var(--space-lg);
+  }
+
+  .oracle-tamil {
+    font-size: 1.15rem;
+    line-height: 1.9;
+    color: var(--accent-light);
+    margin-bottom: var(--space-md);
+    min-height: 3.4em;
+  }
+
+  .oracle-translation {
+    font-size: 0.95rem;
+    font-style: italic;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    max-width: 500px;
+    margin: 0 auto var(--space-md);
+    min-height: 2em;
+  }
+
+  .oracle-number {
+    font-family: var(--font-label);
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: var(--text-dim);
+    display: block;
+    margin-bottom: var(--space-lg);
+  }
+
+  .oracle-btn {
+    font-family: var(--font-heading);
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: var(--space-xs) var(--space-lg);
+    border-radius: 20px;
+    border: 1px solid var(--soul-color);
+    color: var(--soul-color);
+    background: rgba(212, 168, 67, 0.06);
+    cursor: pointer;
+    transition: all var(--transition-base);
+  }
+
+  .oracle-btn:hover {
+    background: rgba(212, 168, 67, 0.15);
+    color: var(--accent-light);
+    box-shadow: 0 4px 16px var(--soul-glow);
+  }
+</style>

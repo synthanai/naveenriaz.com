@@ -1,0 +1,778 @@
+---
+import Page from "../../layouts/Page.astro";
+import TamilRoot from "../../components/TamilRoot.astro";
+
+const skills = [
+    {
+        num: 1,
+        name: "EXPLORE",
+        verb: "Discover",
+        quadrant: "discover",
+        color: "mind",
+        desc: "Gather raw intelligence from external sources.",
+        workflow: "/steal",
+    },
+    {
+        num: 2,
+        name: "RECALL",
+        verb: "Retrieve",
+        quadrant: "discover",
+        color: "mind",
+        desc: "Pull from internal memory, refresh what you know.",
+        workflow: "/recall",
+    },
+    {
+        num: 3,
+        name: "DISTILL",
+        verb: "Compress",
+        quadrant: "decide",
+        color: "soul",
+        desc: "Reduce complexity into portable abstractions.",
+        workflow: "/distill",
+    },
+    {
+        num: 4,
+        name: "SPAR",
+        verb: "Decide",
+        quadrant: "decide",
+        color: "soul",
+        desc: "Adversarial deliberation to reach a verdict.",
+        workflow: "/spar",
+    },
+    {
+        num: 5,
+        name: "FORGE",
+        verb: "Compose",
+        quadrant: "deliver",
+        color: "body",
+        desc: "Synthesise inputs into canonical artifacts.",
+        workflow: "/work",
+    },
+    {
+        num: 6,
+        name: "FRAME",
+        verb: "Communicate",
+        quadrant: "deliver",
+        color: "body",
+        desc: "Translate a concept for a specific audience.",
+        workflow: "/frame",
+    },
+    {
+        num: 7,
+        name: "LEARN",
+        verb: "Reflect",
+        quadrant: "evolve",
+        color: "mind",
+        desc: "Integrate feedback, update the system's rules.",
+        workflow: "/learn",
+    },
+    {
+        num: 8,
+        name: "AUDIT",
+        verb: "Govern",
+        quadrant: "evolve",
+        color: "soul",
+        desc: "Check compliance with governance standards.",
+        workflow: "/pulse",
+    },
+];
+
+const quadrants = [
+    {
+        direction: "⬆️",
+        name: "DISCOVER",
+        position: "North",
+        posture: "Exploration",
+        skills: "EXPLORE + RECALL",
+        color: "mind",
+    },
+    {
+        direction: "➡️",
+        name: "DECIDE",
+        position: "East",
+        posture: "Deliberation",
+        skills: "DISTILL + SPAR",
+        color: "soul",
+    },
+    {
+        direction: "⬇️",
+        name: "DELIVER",
+        position: "South",
+        posture: "Production",
+        skills: "FORGE + FRAME",
+        color: "body",
+    },
+    {
+        direction: "⬅️",
+        name: "EVOLVE",
+        position: "West",
+        posture: "Adaptation",
+        skills: "LEARN + AUDIT",
+        color: "mind",
+    },
+];
+
+const flows = [
+    {
+        name: "INGRESS",
+        latin: "in + gradi",
+        meaning: "Step In",
+        direction: "North",
+        desc: "Pulling raw material into the system",
+    },
+    {
+        name: "PROCESS",
+        latin: "pro + cedere",
+        meaning: "Yield Forward",
+        direction: "East",
+        desc: "Transforming inputs through deliberation",
+    },
+    {
+        name: "EGRESS",
+        latin: "ex + gradi",
+        meaning: "Step Out",
+        direction: "South",
+        desc: "Releasing finished artifacts into the world",
+    },
+    {
+        name: "REGRESS",
+        latin: "re + gradi",
+        meaning: "Step Back",
+        direction: "West",
+        desc: "Returning to learn and close the loop",
+    },
+];
+---
+
+<Page
+    title="CODEX"
+    description="Cognitive Skill Architecture. Eight skills. Four directions. Three depths. One compass."
+    activeNav="codex"
+>
+    <section class="codex-hero">
+        <div
+            class="orb"
+            style="width:500px;height:500px;background:var(--accent);top:-180px;left:50%;transform:translateX(-50%);opacity:0.15;"
+        >
+        </div>
+
+        <div class="container">
+            <span class="codex-label">CODEX</span>
+            <h1>Cognitive Skill <span class="gt">Architecture</span></h1>
+            <p class="codex-desc">
+                One compass. Three layers. Eight skills. Six movements. This is
+                the architecture behind every framework, every book, and every
+                decision on this site.
+            </p>
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <TamilRoot
+                tamil="நெறிமுறை"
+                transliteration="Nerimurai"
+                meaning="The Method. A structured system for turning raw ideas into finished, governed work through composable cognitive skills."
+                tamilMeaning="கச்சா கருத்துக்களை முடிக்கப்பட்ட, நிர்வகிக்கப்பட்ட வேலையாக மாற்றுவதற்கான ஒரு கட்டமைக்கப்பட்ட முறை."
+                kural="எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள் மெய்ப்பொருள் காண்பது அறிவு."
+                kuralNumber={423}
+                kuralTranslation="True wisdom is the ability to discern the truth in whatever anyone says."
+            />
+        </div>
+    </section>
+
+    <!-- The Compass -->
+    <section class="section--tight">
+        <div class="container">
+            <h2 class="section-label">The Compass</h2>
+            <p class="section-sub">
+                Four directions. Four modes of thinking. Not sequential stages,
+                but modes you can be in at any time.
+            </p>
+
+            <div class="compass-container">
+                <div class="compass">
+                    <!-- Center -->
+                    <div class="compass-center">
+                        <span class="compass-icon">✦</span>
+                        <span class="compass-text">CODEX</span>
+                    </div>
+
+                    <!-- Quadrants -->
+                    {
+                        quadrants.map((q) => (
+                            <div
+                                class={`compass-quad compass-quad--${q.position.toLowerCase()}`}
+                            >
+                                <span class="quad-direction">
+                                    {q.direction}
+                                </span>
+                                <span
+                                    class="quad-name"
+                                    style={`color:var(--${q.color}-color)`}
+                                >
+                                    {q.name}
+                                </span>
+                                <span class="quad-posture">{q.posture}</span>
+                                <span class="quad-skills">{q.skills}</span>
+                            </div>
+                        ))
+                    }
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- The 8 Skills -->
+    <section class="section--tight">
+        <div class="container">
+            <h2 class="section-label">The 8 Skills</h2>
+            <p class="section-sub">
+                Each skill is a verb. Say it, do it, done. Two per compass
+                direction, perfectly balanced.
+            </p>
+
+            <div class="skills-grid">
+                {
+                    skills.map((s) => (
+                        <div class={`skill-card skill-card--${s.color}`}>
+                            <div class="skill-header">
+                                <span class="skill-num">{s.num}</span>
+                                <span class="skill-name">{s.name}</span>
+                            </div>
+                            <span class="skill-verb">{s.verb}</span>
+                            <p class="skill-desc">{s.desc}</p>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+    </section>
+
+    <!-- MBS Depth -->
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <h2 class="section-label">MBS Depth</h2>
+            <p class="section-sub">
+                At any compass point, you are operating at one of three depths.
+            </p>
+
+            <div class="mbs-stack">
+                <div class="mbs-layer mbs-layer--mind">
+                    <div class="mbs-content">
+                        <h3>Mind <span class="mbs-tag">The Skills</span></h3>
+                        <p>
+                            "What can I do?" The 8 cognitive verbs, stateless
+                            and composable.
+                        </p>
+                    </div>
+                </div>
+                <div class="mbs-layer mbs-layer--body">
+                    <div class="mbs-content">
+                        <h3>Body <span class="mbs-tag">The Objects</span></h3>
+                        <p>
+                            "What am I holding?" Typed cognitive objects passed
+                            between skills: Sources, Claims, Decisions,
+                            Artifacts.
+                        </p>
+                    </div>
+                </div>
+                <div class="mbs-layer mbs-layer--soul">
+                    <div class="mbs-content">
+                        <h3>Soul <span class="mbs-tag">The Gates</span></h3>
+                        <p>
+                            "What is allowed?" Governance gates, feedback loops,
+                            drift detection. The conscience of the system.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- The Flow -->
+    <section class="section--tight">
+        <div class="container">
+            <h2 class="section-label">The Flow</h2>
+            <p class="section-sub">
+                Six Latin words that name how work moves through the compass.
+                Four strides, two pauses.
+            </p>
+
+            <div class="flow-grid">
+                {
+                    flows.map((f) => (
+                        <div class="flow-card">
+                            <span class="flow-name">{f.name}</span>
+                            <span class="flow-latin">{f.latin}</span>
+                            <span class="flow-meaning">{f.meaning}</span>
+                            <p class="flow-desc">{f.desc}</p>
+                        </div>
+                    ))
+                }
+            </div>
+
+            <div class="flow-meta">
+                <div class="flow-breath">
+                    <div class="breath-item breath-item--exhale">
+                        <span class="breath-arrow">↗️</span>
+                        <div>
+                            <strong>PROGRESS</strong>
+                            <span>The exhale. Ship the work forward.</span>
+                        </div>
+                    </div>
+                    <div class="breath-item breath-item--inhale">
+                        <span class="breath-arrow">↙️</span>
+                        <div>
+                            <strong>RECESS</strong>
+                            <span>The inhale. Check the work, govern.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Closing -->
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <div class="manifesto">
+                <h2>The <span class="gt">Architecture</span></h2>
+                <p>
+                    CODEX is not a product. It is the cognitive skeleton beneath
+                    everything on this site. SPAR powers the DECIDE quadrant.
+                    STEAL powers EXPLORE. Every book, every framework, every
+                    debate follows the same compass, the same depth model, the
+                    same governance gates.
+                </p>
+                <p>
+                    The architecture is open. The skills are composable. The
+                    compass is universal. What changes is the domain: authoring,
+                    engineering, personal growth, organizational design. The
+                    pattern stays the same.
+                </p>
+                <a href="/challenge/" class="challenge-link">Challenge This →</a
+                >
+            </div>
+        </div>
+    </section>
+</Page>
+
+<style>
+    .codex-hero {
+        padding: var(--space-4xl) 0 var(--space-2xl);
+        text-align: left;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .codex-label {
+        font-family: var(--font-label);
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: var(--space-sm);
+        display: block;
+    }
+
+    .codex-desc {
+        max-width: 600px;
+        margin: var(--space-md) auto 0;
+        color: var(--text-secondary);
+        font-size: 1.05rem;
+        line-height: 1.7;
+    }
+
+    .section-label {
+        font-family: var(--font-label);
+        font-size: 1rem;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+        margin-bottom: var(--space-xs);
+    }
+
+    .section-sub {
+        font-size: 0.9rem;
+        color: var(--text-dim);
+        margin-bottom: var(--space-xl);
+        max-width: 560px;
+    }
+
+    /* ── Compass ───────────────────────────────── */
+    .compass-container {
+        display: flex;
+        justify-content: center;
+        padding: var(--space-xl) 0;
+    }
+
+    .compass {
+        position: relative;
+        width: 380px;
+        height: 380px;
+    }
+
+    .compass-center {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 4px;
+        z-index: 2;
+    }
+
+    .compass-icon {
+        font-size: 1.8rem;
+        color: var(--accent);
+    }
+
+    .compass-text {
+        font-family: var(--font-heading);
+        font-size: 0.65rem;
+        font-weight: 800;
+        letter-spacing: 0.15em;
+        color: var(--text-muted);
+        text-transform: uppercase;
+    }
+
+    .compass-quad {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2px;
+        background: var(--bg-card);
+        border: 1px solid rgba(255, 255, 255, 0.04);
+        border-radius: var(--border-radius);
+        padding: var(--space-md) var(--space-lg);
+        min-width: 140px;
+        text-align: center;
+        transition:
+            transform var(--transition-base),
+            box-shadow var(--transition-base);
+    }
+
+    .compass-quad:hover {
+        transform: scale(1.04);
+        box-shadow: 0 4px 20px rgba(255, 255, 255, 0.04);
+    }
+
+    .compass-quad--north {
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .compass-quad--north:hover {
+        transform: translateX(-50%) scale(1.04);
+    }
+    .compass-quad--east {
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .compass-quad--east:hover {
+        transform: translateY(-50%) scale(1.04);
+    }
+    .compass-quad--south {
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .compass-quad--south:hover {
+        transform: translateX(-50%) scale(1.04);
+    }
+    .compass-quad--west {
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .compass-quad--west:hover {
+        transform: translateY(-50%) scale(1.04);
+    }
+
+    .quad-direction {
+        font-size: 1.2rem;
+    }
+    .quad-name {
+        font-family: var(--font-heading);
+        font-size: 0.85rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+    }
+    .quad-posture {
+        font-size: 0.72rem;
+        color: var(--text-muted);
+        font-style: italic;
+    }
+    .quad-skills {
+        font-size: 0.65rem;
+        color: var(--text-dim);
+        letter-spacing: 0.04em;
+        margin-top: 4px;
+    }
+
+    /* ── Skills Grid ───────────────────────────── */
+    .skills-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: var(--space-md);
+    }
+
+    .skill-card {
+        background: var(--bg-card);
+        border: 1px solid rgba(255, 255, 255, 0.04);
+        border-radius: var(--border-radius);
+        padding: var(--space-lg);
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        transition:
+            transform var(--transition-base),
+            box-shadow var(--transition-base);
+    }
+
+    .skill-card:hover {
+        transform: translateY(-3px);
+    }
+
+    .skill-card--mind {
+        border-top: 3px solid var(--mind-color);
+    }
+    .skill-card--mind:hover {
+        box-shadow: 0 4px 20px var(--mind-glow);
+    }
+    .skill-card--body {
+        border-top: 3px solid var(--body-color);
+    }
+    .skill-card--body:hover {
+        box-shadow: 0 4px 20px var(--body-glow);
+    }
+    .skill-card--soul {
+        border-top: 3px solid var(--soul-color);
+    }
+    .skill-card--soul:hover {
+        box-shadow: 0 4px 20px var(--soul-glow);
+    }
+
+    .skill-header {
+        display: flex;
+        align-items: baseline;
+        gap: var(--space-sm);
+    }
+
+    .skill-num {
+        font-family: var(--font-heading);
+        font-size: 0.65rem;
+        font-weight: 700;
+        color: var(--text-dim);
+    }
+
+    .skill-name {
+        font-family: var(--font-heading);
+        font-size: 1rem;
+        font-weight: 800;
+        color: var(--text-primary);
+        letter-spacing: 0.04em;
+    }
+
+    .skill-verb {
+        font-size: 0.72rem;
+        color: var(--accent-light);
+        font-style: italic;
+        letter-spacing: 0.03em;
+    }
+
+    .skill-desc {
+        font-size: 0.82rem;
+        color: var(--text-muted);
+        line-height: 1.4;
+        margin: 4px 0 0;
+    }
+
+    /* ── MBS Stack ─────────────────────────────── */
+    .mbs-stack {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .mbs-layer {
+        padding: var(--space-lg) var(--space-xl);
+        border: 1px solid rgba(255, 255, 255, 0.04);
+    }
+
+    .mbs-layer--mind {
+        border-radius: var(--border-radius) var(--border-radius) 0 0;
+        border-left: 4px solid var(--mind-color);
+        border-bottom: none;
+    }
+
+    .mbs-layer--body {
+        border-left: 4px solid var(--body-color);
+        border-bottom: none;
+    }
+
+    .mbs-layer--soul {
+        border-radius: 0 0 var(--border-radius) var(--border-radius);
+        border-left: 4px solid var(--soul-color);
+    }
+
+    .mbs-content h3 {
+        font-size: 1rem;
+        margin-bottom: var(--space-xs);
+    }
+
+    .mbs-layer--mind h3 {
+        color: var(--mind-color);
+    }
+    .mbs-layer--body h3 {
+        color: var(--body-color);
+    }
+    .mbs-layer--soul h3 {
+        color: var(--soul-color);
+    }
+
+    .mbs-tag {
+        font-size: 0.7rem;
+        font-weight: 400;
+        color: var(--text-dim);
+        margin-left: var(--space-sm);
+        font-style: italic;
+    }
+
+    .mbs-content p {
+        font-size: 0.88rem;
+        color: var(--text-muted);
+        line-height: 1.5;
+        margin: 0;
+    }
+
+    /* ── Flow Grid ─────────────────────────────── */
+    .flow-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: var(--space-md);
+        margin-bottom: var(--space-xl);
+    }
+
+    .flow-card {
+        background: var(--bg-card);
+        border: 1px solid rgba(255, 255, 255, 0.04);
+        border-radius: var(--border-radius);
+        padding: var(--space-lg);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 4px;
+        text-align: center;
+        transition: transform var(--transition-base);
+    }
+
+    .flow-card:hover {
+        transform: translateY(-2px);
+    }
+
+    .flow-name {
+        font-family: var(--font-heading);
+        font-size: 0.95rem;
+        font-weight: 800;
+        color: var(--accent-light);
+        letter-spacing: 0.06em;
+    }
+
+    .flow-latin {
+        font-size: 0.7rem;
+        color: var(--text-dim);
+        font-style: italic;
+    }
+
+    .flow-meaning {
+        font-size: 0.72rem;
+        color: var(--text-muted);
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+
+    .flow-desc {
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        margin: 4px 0 0;
+        line-height: 1.4;
+    }
+
+    /* ── Progress/Recess ────────────────────────── */
+    .flow-meta {
+        display: flex;
+        justify-content: center;
+    }
+
+    .flow-breath {
+        display: flex;
+        gap: var(--space-2xl);
+    }
+
+    .breath-item {
+        display: flex;
+        gap: var(--space-sm);
+        align-items: center;
+    }
+
+    .breath-arrow {
+        font-size: 1.4rem;
+    }
+
+    .breath-item strong {
+        font-family: var(--font-heading);
+        font-size: 0.85rem;
+        letter-spacing: 0.04em;
+        display: block;
+        color: var(--accent-light);
+    }
+
+    .breath-item span {
+        font-size: 0.78rem;
+        color: var(--text-dim);
+    }
+
+    /* ── Responsive ────────────────────────────── */
+    @media (max-width: 768px) {
+        .skills-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .flow-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .compass {
+            width: 300px;
+            height: 300px;
+        }
+        .compass-quad {
+            min-width: 110px;
+            padding: var(--space-sm) var(--space-md);
+        }
+        .flow-breath {
+            flex-direction: column;
+            gap: var(--space-md);
+        }
+    }
+
+    @media (max-width: 480px) {
+        .skills-grid {
+            grid-template-columns: 1fr;
+        }
+        .flow-grid {
+            grid-template-columns: 1fr;
+        }
+        .compass {
+            width: 260px;
+            height: 260px;
+        }
+    }
+</style>

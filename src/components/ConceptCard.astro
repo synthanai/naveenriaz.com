@@ -1,0 +1,147 @@
+---
+/**
+ * ConceptCard — Respects reveal gate
+ * stealth = not rendered | teaser = veiled | reveal = full
+ */
+interface Props {
+  id: string;
+  status: 'stealth' | 'teaser' | 'reveal';
+  publicName?: string;
+  teaserText?: string;
+  revealText?: string;
+  description?: string;
+  dimension: 'think' | 'work' | 'play';
+  fileCount?: number;
+}
+
+const { id, status, publicName, teaserText, revealText, description, dimension, fileCount } = Astro.props;
+
+if (status === 'stealth') return; // Don't render stealth concepts
+
+const dimClass = dimension === 'think' ? 'mind' : dimension === 'work' ? 'body' : 'soul';
+const displayName = status === 'reveal' ? publicName : publicName;
+const displayText = status === 'reveal' ? (revealText || description) : teaserText;
+const href = status === 'reveal' ? `/concept/${id}/` : undefined;
+---
+
+<div class={`concept-card concept-card--${dimClass} concept-card--${status}`}>
+  {status === 'teaser' && <div class="concept-veil" aria-hidden="true"></div>}
+  <div class="concept-content">
+    <div class="concept-header">
+      <span class={`concept-dot concept-dot--${dimClass}`}></span>
+      <h3 class="concept-name">
+        {href ? <a href={href}>{displayName}</a> : displayName}
+      </h3>
+    </div>
+    <p class="concept-text">{displayText}</p>
+    {status === 'reveal' && fileCount && (
+      <div class="concept-meta">
+        <span class="concept-files">{fileCount} files</span>
+      </div>
+    )}
+    {status === 'teaser' && (
+      <span class="concept-coming">emerging</span>
+    )}
+  </div>
+</div>
+
+<style>
+  .concept-card {
+    position: relative;
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: var(--border-radius);
+    padding: var(--space-lg);
+    transition: transform var(--transition-base), box-shadow var(--transition-base);
+    overflow: hidden;
+  }
+
+  .concept-card:hover {
+    transform: translateY(-2px);
+  }
+
+  .concept-card--mind { border-left: 3px solid var(--mind-color); }
+  .concept-card--mind:hover { box-shadow: 0 8px 32px var(--mind-glow); }
+  .concept-card--body { border-left: 3px solid var(--body-color); }
+  .concept-card--body:hover { box-shadow: 0 8px 32px var(--body-glow); }
+  .concept-card--soul { border-left: 3px solid var(--soul-color); }
+  .concept-card--soul:hover { box-shadow: 0 8px 32px var(--soul-glow); }
+
+  .concept-veil {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, transparent 60%, rgba(0, 0, 0, 0.3));
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .concept-content {
+    position: relative;
+    z-index: 2;
+  }
+
+  .concept-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-sm);
+  }
+
+  .concept-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .concept-dot--mind { background: var(--mind-color); box-shadow: 0 0 0 3px rgba(40,116,166,0.2), 0 0 6px var(--mind-color); }
+  .concept-dot--body { background: var(--body-color); box-shadow: 0 0 0 3px rgba(39,174,96,0.2), 0 0 6px var(--body-color); }
+  .concept-dot--soul { background: var(--soul-color); box-shadow: 0 0 0 3px rgba(212,168,67,0.2), 0 0 6px var(--soul-color); }
+
+  .concept-name {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .concept-name a {
+    color: var(--text-primary);
+    text-decoration: none;
+  }
+
+  .concept-name a:hover {
+    color: var(--accent);
+  }
+
+  .concept-text {
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .concept-card--teaser .concept-text {
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .concept-meta {
+    margin-top: var(--space-sm);
+    font-size: 0.72rem;
+    color: var(--text-dim);
+  }
+
+  .concept-coming {
+    display: inline-block;
+    margin-top: var(--space-sm);
+    font-family: var(--font-heading);
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 12px;
+    padding: 2px 10px;
+  }
+</style>

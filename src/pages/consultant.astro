@@ -1,0 +1,82 @@
+---
+/**
+ * Consultant — Organizational Transformation
+ * Vibe sub-page scaffold
+ */
+import Page from "../layouts/Page.astro";
+import TamilRoot from "../components/TamilRoot.astro";
+---
+
+<Page
+    title="Consultant"
+    description="Organizational transformation through living systems thinking. Strategic advisory for leaders who want their organizations to think, not just execute."
+    activeNav="consultant"
+>
+    <section class="scaffold-hero">
+        <div
+            class="orb"
+            style="width:400px;height:400px;background:var(--mind-color);top:-160px;left:50%;transform:translateX(-50%);opacity:0.1;"
+        >
+        </div>
+        <div class="container" style="text-align:center;">
+            <span class="scaffold-label">Consultant</span>
+            <h1>Organizations That <span class="gt">Think</span></h1>
+            <p class="scaffold-desc">
+                Strategic advisory for leaders who want their organizations to
+                become living systems, not just executing machines.
+            </p>
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <TamilRoot
+                tamil="ஆலோசகர்"
+                transliteration="Aalosagar"
+                meaning="Advisor. One who sees the pattern before the problem, and the system before the symptom."
+                tamilMeaning="பிரச்சினைக்கு முன் வடிவத்தையும், அறிகுறிக்கு முன் அமைப்பையும் பார்ப்பவர்."
+                kural="அறிவுடையார் ஆவ தறிவார் அறிவிலார் அஃதறி கல்லா தவர்."
+                kuralNumber={427}
+                kuralTranslation="The wise foresee what will happen. The unwise cannot even see what has happened."
+            />
+        </div>
+    </section>
+
+    <section class="section--tight">
+        <div class="container container--narrow">
+            <div class="manifesto">
+                <h2>Coming <span class="gt">Soon</span></h2>
+                <p>
+                    Engagement models, case studies, and advisory frameworks are
+                    being assembled. Connect through the Vibe page.
+                </p>
+            </div>
+        </div>
+    </section>
+</Page>
+
+<style>
+    .scaffold-hero {
+        padding: var(--space-4xl) 0 var(--space-2xl);
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+    }
+    .scaffold-label {
+        font-family: var(--font-label);
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: var(--space-sm);
+        display: block;
+    }
+    .scaffold-desc {
+        max-width: 600px;
+        margin: var(--space-md) auto 0;
+        color: var(--text-secondary);
+        font-size: 1.05rem;
+        line-height: 1.7;
+    }
+</style>

@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-03-11T09:53:46.366Z",
+  "pulse": {
+    "repos": 24,
+    "researchFiles": 9652,
+    "bookChapters": 22,
+    "booksCount": 11,
+    "papers": 5,
+    "workflows": 76,
+    "skills": 17,
+    "knowledgeItems": 19,
+    "publications": 9,
+    "totalCommits": 1004,
+    "lastActivity": "2026-03-11T18:23:36+11:00"
+  },
+  "ki": [
+    {
+      "id": "agentic_kit_infrastructure",
+      "title": "Agentic-Kit: Foundational Infrastructure & Orchestration (v2.2)",
+      "summary": "The master reference for agentic-kit, providing the 'Brain' infrastructure for the SYNTHAI ecosystem. v3.0 formalizes the OpenClaw implementation patterns: Unified Configuration, Graceful Degradation ",
+      "lastAccessed": null
+    },
+    {
+      "id": "ai_era_developer_paradigm",
+      "title": "AI-Era Developer Paradigm: From Execution to Judgment",
+      "summary": "Consolidated research on the systemic shift in software engineering roles during the AI era. v2.5 (Mar 2026) integrates focus on 'Human-Optimized' code (Emmanuel Cousin) and the evolution of agent gov",
+      "lastAccessed": null
+    },
+    {
+      "id": "arivar_dialectic_engine",
+      "title": "ARIVAR Dialectic Engine & Orchestration (v9.40)",
+      "summary": "The definitive specification for the ARIVAR Dialectic Engine. v9.4x focuses on the identity-grounded visual cognition capabilities (Neural Canvas) and the broader OpenClaw architectural transition—Ser",
+      "lastAccessed": null
+    },
+    {
+      "id": "arivar_profiling_and_identity_systems",
+      "title": "ARIVAR Profiling & Identity Systems",
+      "summary": "The definitive specification for ARIVAR's multi-dimensional profiling framework. v1.3 (Jan 2026) adds MBS-LIFE-CORE visualization architecture with L.I.F.E. wheel (Legacy, Identity, Frontier, Evolutio",
+      "lastAccessed": null
+    },
+    {
+      "id": "author_identity_naveen",
+      "title": "Author Identity: Naveen Riaz Mohamed Kani",
+      "summary": "The definitive author persona profile for Naveen Riaz Mohamed Kani, SYNTHAI founder. v1.1 (Jan 2026) adds Profile Tesseract v0.8: a 200-parameter digital twin profile at 62% confidence with full ENCOR",
+      "lastAccessed": null
+    },
+    {
+      "id": "codex_cognitive_architecture",
+      "title": "CODEX Cognitive Architecture (v1.1)",
+      "summary": "The universal cognitive architectural framework for the SYNTHAI ecosystem. CODEX (Cognitive Object-Driven Execution) defines the four-quadrant thinking modes (Compass), the three-layer depth (Mind-Bod",
+      "lastAccessed": null
+    },
+    {
+      "id": "decision_moment_graph_dmg",
+      "title": "Decision Moment Standard (DMS) & DMG Ecosystem (v3.2)",
+      "summary": "DMS documents the normative protocol for auditable decision governance. v3.2 evolves the lifecycle from a 7-step Heptagon to an 8-step Octagon, incorporating the 'RETRO' phase for continuous reflectio",
+      "lastAccessed": null
+    },
+    {
+      "id": "market_intelligence_ahmad_hijazi",
+      "title": "Market Intelligence: Ahmad Hijazi's Intellectual Platform",
+      "summary": "This Knowledge Item contains a deep-dive analysis of ahijazi.website, including a 5-level STEAL (Scan, Translate, Evaluate, Abstract, Leverage) report. It explores Dr. Ahmad Hijazi's 'Portal Pattern' ",
+      "lastAccessed": null
+    },
+    {
+      "id": "market_intelligence_and_skills",
+      "title": "Market Intelligence & Skills Strategy",
+      "summary": "Consolidated research and strategic analysis of external AI ecosystems, market signaling platforms, and pioneering AI methodologies. v2.3 (Mar 2026) expands beyond platform teardowns to include system",
+      "lastAccessed": null
+    },
+    {
+      "id": "naveen_personal_platform",
+      "title": "Naveen's Neural Canvas: Public Exhibition Layer",
+      "summary": "The flagship public exhibition platform (mnaveenriaz.github.io) for the SYNTHAI ecosystem. Branded as 'Naveen's Neural Canvas,' it hosts a library of identity-grounded articles (20 currently) across f",
+      "lastAccessed": null
+    },
+    {
+      "id": "production_agentic_rag_intelligence",
+      "title": "Production Agentic RAG Intelligence",
+      "summary": "Comprehensive intelligence on the Production Agentic RAG Course and its 'Foundation-First' methodology. Codifies the 7-week progressive build approach, the priority of infrastructure and BM25 search o",
+      "lastAccessed": null
+    },
+    {
+      "id": "spar_kit_protocol",
+      "title": "SPAR-Kit: Structured Persona-Argumentation for Reasoning (v7.4.4)",
+      "summary": "Technical and methodological standard for SPAR. v7.4.4 aligns the protocol with the final A-H appendix mapping for physical production and codifies the 'Adjudicator Audit' standard for 100% visual/str",
+      "lastAccessed": null
+    },
+    {
+      "id": "synthai_content_distribution_architecture",
+      "title": "SYNTHAI Content Distribution Architecture",
+      "summary": "Strategic architecture for moving research ideas into multiple high-fidelity output formats. Codifies the '3-Layer Content Stack' and the '3-Tier Image Strategy' (Daily/Moment/Article) for social medi",
+      "lastAccessed": null
+    },
+    {
+      "id": "synthai_design_system",
+      "title": "SYNTHAI Unified Design System",
+      "summary": "Master design standard for the SYNTHAI ecosystem. Codifies the v1.3 logo sequence (Blue-Gold-Green) with the 'Soul as Bridge' rationale, and the v3 branded URL spec. Establishes the 'brand/' directory",
+      "lastAccessed": null
+    },
+    {
+      "id": "synthai_ecosystem_portfolio",
+      "title": "SYNTHAI Ecosystem Portfolio (v4.6): Component Triad",
+      "summary": "The master architectural portfolio for the SYNTHAI ecosystem. v4.6 codifies the ARIVAR-ARANGAM-SANGAM triad and the strategic focus on ARIVAR-assisted book production as the primary engine for credibi",
+      "lastAccessed": null
+    },
+    {
+      "id": "synthai_publication_strategy",
+      "title": "SYNTHAI Publication Strategy (v7.6.3)",
+      "summary": "Strategized roadmap for the 13-book SHIFT series (SOUL-BODY-MIND-SYNTHAI waves) and technical/editorial standards for high-fidelity production. v7.6.3 marks the 100% completion of the 'Let's SPAR' PDF",
+      "lastAccessed": null
+    },
+    {
+      "id": "synthai_unified_philosophy",
+      "title": "SYNTHAI Unified Philosophy (v2.8): Cognitive Turn & Self-Awareness",
+      "summary": "The master manifesto and ontological reference for the SYNTHAI ecosystem. v2.8 codifies the 'Cognitive Turn + Self-Awareness' (v9.0) evolution, integrating the 20 major additions (CODEX, NOOL, Octagon",
+      "lastAccessed": null
+    },
+    {
+      "id": "thirukkural_wisdom_system",
+      "title": "Thirukkural Wisdom System (Voice of Wisdom) (v2.4)",
+      "summary": "The definitive wisdom grounding system for the SYNTHAI ecosystem. v2.4 formalizes the 'VOW' (Voice of Wisdom) brand and the 4-book 'VOW Series' roadmap (Mind-Body-Soul, Human Design, Org Design, SYNTH",
+      "lastAccessed": null
+    },
+    {
+      "id": "vault_kit",
+      "title": "VAULT-KIT: Verified · Auditable · Unleakable · Limited · Traceable (v1.6)",
+      "summary": "The definitive specification for VAULT-KIT. v1.6 formalizes the 'ZK-Dissent' integration pattern, introduces ZK-Dissent extensions (threshold revelation, anonymous voting), and implements the GAUGE ph",
+      "lastAccessed": null
+    }
+  ]
+}

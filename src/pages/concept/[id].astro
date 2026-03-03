@@ -1,0 +1,414 @@
+---
+/**
+ * Concept Detail Page — AURA Tier 1 (auto vitals) + Tier 2 (manual narrative)
+ * Dynamic route: /concept/[id]/
+ */
+import Page from '../../layouts/Page.astro';
+import PulseMetrics from '../../components/PulseMetrics.astro';
+import conceptsData from '../../data/concepts.json';
+import revealData from '../../data/reveal.json';
+import { readFileSync, existsSync } from 'fs';
+import { join } from 'path';
+
+export function getStaticPaths() {
+  const revealMap = new Map(revealData.map(r => [r.id, r]));
+
+  return conceptsData.nodes
+    .filter(n => {
+      const reveal = revealMap.get(n.id);
+      return reveal && reveal.status === 'reveal';
+    })
+    .map(n => {
+      const reveal = revealMap.get(n.id)!;
+      return {
+        params: { id: n.id },
+        props: { node: n, reveal }
+      };
+    });
+}
+
+const { node, reveal } = Astro.props;
+
+// Try to load Tier 2 AURA data (JSON version)
+let aura = null;
+const auraPath = join(process.cwd(), 'src', 'data', 'aura', `${node.id}.json`);
+if (existsSync(auraPath)) {
+  try {
+    aura = JSON.parse(readFileSync(auraPath, 'utf-8'));
+  } catch {}
+}
+
+// Also try YAML version parsed manually (simple key-value)
+if (!aura) {
+  const yamlPath = join(process.cwd(), 'src', 'data', 'aura', `${node.id}.yaml`);
+  if (existsSync(yamlPath)) {
+    // Mark as having YAML data but don't parse (no yaml lib)
+    aura = { hasYaml: true };
+  }
+}
+
+// Find connections
+const connections = conceptsData.edges
+  .filter(e => e.source === node.id || e.target === node.id)
+  .map(e => {
+    const otherId = e.source === node.id ? e.target : e.source;
+    const otherNode = conceptsData.nodes.find(n => n.id === otherId);
+    const otherReveal = revealData.find(r => r.id === otherId);
+    return {
+      id: otherId,
+      label: otherReveal?.publicName || otherNode?.label || otherId,
+      type: e.type,
+      relLabel: e.label,
+      status: otherReveal?.status || 'stealth',
+      dimension: otherNode?.dimension || 'think'
+    };
+  })
+  .filter(c => c.status !== 'stealth');
+
+const dimLabel = node.dimension === 'think' ? 'Think' : node.dimension === 'work' ? 'Work' : 'Play';
+const dimClass = node.dimension === 'think' ? 'mind' : node.dimension === 'work' ? 'body' : 'soul';
+---
+
+<Page title={reveal.publicName} activeNav="">
+
+  <section class="concept-hero">
+    <div class="container container--narrow">
+      <div class={`concept-dim-badge concept-dim-badge--${dimClass}`}>{dimLabel}</div>
+      <h1>{reveal.publicName}</h1>
+      <p class="concept-desc">{reveal.revealText || node.description}</p>
+    </div>
+  </section>
+
+  <!-- Vital Signs (Tier 1 Auto) -->
+  <section class="section--tight">
+    <div class="container container--narrow">
+      <h2 class="section-label">Vital Signs</h2>
+      <div class="vitals-grid">
+        <div class="vital">
+          <span class="vital-value">{node.fileCount}</span>
+          <span class="vital-label">Files</span>
+        </div>
+        {node.firstSeen && (
+          <div class="vital">
+            <span class="vital-value">{new Date(node.firstSeen).getFullYear()}</span>
+            <span class="vital-label">First Seen</span>
+          </div>
+        )}
+        <div class="vital">
+          <span class="vital-value">{connections.length}</span>
+          <span class="vital-label">Connections</span>
+        </div>
+        {node.repo && (
+          <div class="vital">
+            <span class="vital-value vital-value--mono">{node.repo}</span>
+            <span class="vital-label">Repository</span>
+          </div>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <!-- Connections -->
+  {connections.length > 0 && (
+    <section class="section--tight">
+      <div class="container container--narrow">
+        <h2 class="section-label">Connections</h2>
+        <div class="connections-list">
+          {connections.map(c => {
+            const cDimClass = c.dimension === 'think' ? 'mind' : c.dimension === 'work' ? 'body' : 'soul';
+            return (
+              <div class="conn-row">
+                <span class={`conn-dot conn-dot--${cDimClass}`}></span>
+                <div class="conn-info">
+                  {c.status === 'reveal' ? (
+                    <a href={`/concept/${c.id}/`} class="conn-name">{c.label}</a>
+                  ) : (
+                    <span class="conn-name conn-name--teaser">{c.label}</span>
+                  )}
+                  <span class="conn-rel">{c.type} · {c.relLabel}</span>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- AURA Tier 2 (if exists) -->
+  {aura && !aura.hasYaml && (
+    <section class="section--tight">
+      <div class="container container--narrow">
+        <h2 class="section-label">AURA</h2>
+        <div class="aura-narrative">
+          <p class="aura-origin">{aura.origin}</p>
+          {aura.shadowIntegration && (
+            <div class="aura-shadows">
+              <h3>Shadow Integration</h3>
+              {aura.shadowIntegration.map(s => (
+                <div class="shadow-row">
+                  <span class="shadow-from">{s.shadow}</span>
+                  <span class="shadow-arrow">→</span>
+                  <span class="shadow-to">{s.transmutation}</span>
+                </div>
+              ))}
+            </div>
+          )}
+          {aura.question && (
+            <blockquote class="aura-question">
+              <p>{aura.question}</p>
+            </blockquote>
+          )}
+          {aura.essence && (
+            <p class="aura-essence">{aura.essence}</p>
+          )}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Back link -->
+  <section class="section--tight">
+    <div class="container container--narrow" style="text-align: center;">
+      <a href="/map/" class="back-link">← Back to the Map</a>
+    </div>
+  </section>
+
+</Page>
+
+<style>
+  .concept-hero {
+    padding: var(--space-3xl) 0 var(--space-xl);
+    text-align: center;
+  }
+
+  .concept-dim-badge {
+    display: inline-block;
+    font-family: var(--font-heading);
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 3px 14px;
+    margin-bottom: var(--space-md);
+  }
+
+  .concept-dim-badge--mind { color: var(--mind-color); border-color: var(--mind-color); }
+  .concept-dim-badge--body { color: var(--body-color); border-color: var(--body-color); }
+  .concept-dim-badge--soul { color: var(--soul-color); border-color: var(--soul-color); }
+
+  .concept-desc {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    max-width: 520px;
+    margin: 0 auto;
+  }
+
+  .section-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: var(--space-lg);
+    padding-bottom: var(--space-xs);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  }
+
+  /* Vitals */
+  .vitals-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: var(--space-md);
+  }
+
+  .vital {
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: var(--border-radius);
+    padding: var(--space-md);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .vital-value {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--text-primary);
+    line-height: 1;
+  }
+
+  .vital-value--mono {
+    font-size: 0.85rem;
+    font-weight: 600;
+    font-family: monospace;
+    color: var(--accent);
+  }
+
+  .vital-label {
+    font-size: 0.68rem;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  /* Connections */
+  .connections-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .conn-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+    padding: var(--space-sm) var(--space-md);
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: var(--border-radius);
+  }
+
+  .conn-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .conn-dot--mind { background: var(--mind-color); box-shadow: 0 0 0 3px rgba(40,116,166,0.2), 0 0 6px var(--mind-color); }
+  .conn-dot--body { background: var(--body-color); box-shadow: 0 0 0 3px rgba(39,174,96,0.2), 0 0 6px var(--body-color); }
+  .conn-dot--soul { background: var(--soul-color); box-shadow: 0 0 0 3px rgba(212,168,67,0.2), 0 0 6px var(--soul-color); }
+
+  .conn-info {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .conn-name {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--text-primary);
+    text-decoration: none;
+  }
+
+  .conn-name:hover {
+    color: var(--accent);
+  }
+
+  .conn-name--teaser {
+    color: var(--text-dim);
+    font-style: italic;
+  }
+
+  .conn-rel {
+    font-size: 0.7rem;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  /* AURA Tier 2 */
+  .aura-narrative {
+    padding: var(--space-lg);
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: var(--border-radius-lg);
+    border-left: 3px solid var(--accent);
+  }
+
+  .aura-origin {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    font-style: italic;
+    line-height: 1.7;
+    margin-bottom: var(--space-lg);
+  }
+
+  .aura-shadows h3 {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: var(--space-sm);
+  }
+
+  .shadow-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: var(--space-xs) 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    font-size: 0.85rem;
+  }
+
+  .shadow-row:last-child { border-bottom: none; }
+
+  .shadow-from {
+    color: var(--text-muted);
+    min-width: 120px;
+  }
+
+  .shadow-arrow {
+    color: var(--accent);
+    font-weight: 700;
+  }
+
+  .shadow-to {
+    color: var(--text-secondary);
+  }
+
+  .aura-question {
+    margin: var(--space-lg) 0;
+    text-align: center;
+    border: none;
+    padding: var(--space-md);
+  }
+
+  .aura-question p {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--accent-light);
+    font-style: italic;
+    margin: 0;
+  }
+
+  .aura-essence {
+    text-align: center;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--text-primary);
+    margin: 0;
+  }
+
+  .back-link {
+    display: inline-block;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    text-decoration: none;
+    padding: var(--space-sm) var(--space-md);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: var(--border-radius);
+    transition: all var(--transition-base);
+  }
+
+  .back-link:hover {
+    color: var(--accent);
+    border-color: var(--accent-border);
+  }
+
+  @media (max-width: 600px) {
+    .shadow-row { flex-wrap: wrap; }
+    .shadow-from { min-width: auto; }
+  }
+</style>

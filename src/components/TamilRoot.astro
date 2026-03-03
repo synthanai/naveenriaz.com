@@ -1,0 +1,302 @@
+---
+interface Props {
+  tamil: string;
+  transliteration: string;
+  meaning: string;
+  tamilMeaning?: string;
+  kural?: string;
+  kuralNumber?: number;
+  kuralTranslation?: string;
+}
+
+const {
+  tamil,
+  transliteration,
+  meaning,
+  tamilMeaning,
+  kural,
+  kuralNumber,
+  kuralTranslation,
+} = Astro.props;
+---
+
+<aside class="palm-manuscript" role="complementary" aria-label="Tamil Root">
+  <!-- Leaf 1: Kural (Soul / Gold) -->
+  {
+    kural && (
+      <div class="ola-leaf ola-leaf--soul">
+        <span class="leaf-hole" aria-hidden="true" />
+        <span class="leaf-hole leaf-hole--r" aria-hidden="true" />
+        <div class="leaf-content">
+          <div class="leaf-header">
+            <span class="leaf-icon" aria-hidden="true">
+              ஃ
+            </span>
+            <span class="leaf-label">Tamil Root</span>
+          </div>
+          <blockquote class="kural-quote">
+            <p class="tamil">{kural}</p>
+            {kuralTranslation && (
+              <p class="kural-english">{kuralTranslation}</p>
+            )}
+            {kuralNumber && <cite>Thirukkural #{kuralNumber}</cite>}
+          </blockquote>
+        </div>
+      </div>
+    )
+  }
+
+  <!-- Binding cord -->
+  {
+    kural && (
+      <div class="binding-cord" aria-hidden="true">
+        <span class="cord-thread" />
+        <span class="cord-thread" />
+      </div>
+    )
+  }
+
+  <!-- Leaf 2: Tamil Term + Tamil Explanation (Mind / Blue) -->
+  <div class="ola-leaf ola-leaf--mind">
+    <span class="leaf-hole" aria-hidden="true"></span>
+    <span class="leaf-hole leaf-hole--r" aria-hidden="true"></span>
+    <div class="leaf-content">
+      {
+        !kural && (
+          <div class="leaf-header">
+            <span class="leaf-icon" aria-hidden="true">
+              ஃ
+            </span>
+            <span class="leaf-label">Tamil Root</span>
+          </div>
+        )
+      }
+      <div class="tamil-word">
+        <span class="tamil">{tamil}</span>
+        <span class="transliteration">({transliteration})</span>
+      </div>
+      {tamilMeaning && <p class="tamil-explanation tamil">{tamilMeaning}</p>}
+    </div>
+  </div>
+
+  <!-- Binding cord -->
+  <div class="binding-cord" aria-hidden="true">
+    <span class="cord-thread"></span>
+    <span class="cord-thread"></span>
+  </div>
+
+  <!-- Leaf 3: English Explanation (Body / Green) -->
+  <div class="ola-leaf ola-leaf--body">
+    <span class="leaf-hole" aria-hidden="true"></span>
+    <span class="leaf-hole leaf-hole--r" aria-hidden="true"></span>
+    <div class="leaf-content">
+      <p class="leaf-meaning">{meaning}</p>
+    </div>
+  </div>
+</aside>
+
+<style>
+  /* ── Palm Leaf Manuscript (Ola Chuvadi) ────────────────────── */
+  .palm-manuscript {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    margin: var(--space-xl) 0;
+  }
+
+  /* ── Ola Leaf Base ────────────────────────────────────────── */
+  .ola-leaf {
+    position: relative;
+    border-radius: 3px;
+    padding: var(--space-md) var(--space-lg);
+    padding-left: calc(var(--space-lg) + 24px);
+    border: 1px solid rgba(212, 165, 116, 0.12);
+
+    /* Palm leaf grain (horizontal fiber lines) */
+    background:
+      repeating-linear-gradient(
+        0deg,
+        transparent 0px,
+        transparent 4px,
+        rgba(212, 165, 116, 0.025) 4px,
+        rgba(212, 165, 116, 0.025) 5px
+      ),
+      linear-gradient(
+        90deg,
+        rgba(212, 165, 116, 0.03) 0%,
+        rgba(212, 165, 116, 0.08) 10%,
+        rgba(212, 165, 116, 0.1) 50%,
+        rgba(212, 165, 116, 0.08) 90%,
+        rgba(212, 165, 116, 0.03) 100%
+      );
+  }
+
+  /* ── Leaf Position Styling ──────────────────────────────────── */
+  .ola-leaf--soul {
+    border-radius: 3px 3px 0 0;
+    border-bottom: none;
+  }
+
+  .ola-leaf--mind {
+    border-radius: 0;
+    border-bottom: none;
+  }
+
+  .ola-leaf--body {
+    border-radius: 0 0 3px 3px;
+  }
+
+  /* When no kural, mind leaf is first */
+  .ola-leaf--mind:first-child {
+    border-radius: 3px 3px 0 0;
+  }
+
+  /* ── Binding Holes ────────────────────────────────────────── */
+  .leaf-hole {
+    position: absolute;
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--bg-primary, #0d0c0a);
+    border: 1px solid rgba(212, 165, 116, 0.2);
+    top: 50%;
+    left: 28%;
+    transform: translateY(-50%);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.6);
+  }
+
+  .leaf-hole--r {
+    left: auto;
+    right: 28%;
+  }
+
+  /* ── Binding Cord ─────────────────────────────────────────── */
+  .binding-cord {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 calc(28% + 3px);
+    height: 8px;
+    position: relative;
+  }
+
+  .cord-thread {
+    display: block;
+    width: 2px;
+    height: 100%;
+    background: rgba(212, 165, 116, 0.3);
+  }
+
+  /* ── Leaf Content ─────────────────────────────────────────── */
+  .leaf-content {
+    position: relative;
+    z-index: 1;
+  }
+
+  .leaf-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    margin-bottom: var(--space-sm);
+  }
+
+  .leaf-icon {
+    font-family: var(--font-tamil);
+    font-size: 0.9rem;
+    color: var(--soul-color);
+  }
+
+  .leaf-label {
+    font-family: var(--font-heading);
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--soul-color);
+  }
+
+  /* ── Kural (Leaf 1) ───────────────────────────────────────── */
+  .kural-quote {
+    margin: 0;
+  }
+
+  .kural-quote .tamil {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--soul-color);
+    opacity: 0.9;
+  }
+
+  .kural-quote cite {
+    display: block;
+    font-size: 0.7rem;
+    color: var(--soul-color);
+    opacity: 0.6;
+    margin-top: var(--space-xs);
+    font-style: normal;
+    letter-spacing: 0.03em;
+  }
+
+  .kural-english {
+    font-size: 0.82rem;
+    font-style: italic;
+    color: var(--text-muted);
+    opacity: 0.7;
+    margin: var(--space-xs) 0 0;
+    line-height: 1.5;
+  }
+
+  /* ── Tamil Term (Leaf 2) ──────────────────────────────────── */
+  .tamil-word {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-xs);
+  }
+
+  .tamil-word .tamil {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--mind-color);
+  }
+
+  .transliteration {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .tamil-explanation {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: var(--mind-color);
+    margin: var(--space-xs) 0 0;
+    opacity: 0.7;
+  }
+
+  /* ── English Meaning (Leaf 3) ─────────────────────────────── */
+  .leaf-meaning {
+    font-size: 0.88rem;
+    color: var(--body-color);
+    margin: 0;
+    line-height: 1.7;
+    opacity: 0.85;
+  }
+
+  /* ── Responsive ───────────────────────────────────────────── */
+  @media (max-width: 600px) {
+    .leaf-hole {
+      left: 15%;
+    }
+    .leaf-hole--r {
+      left: auto;
+      right: 15%;
+    }
+    .binding-cord {
+      padding: 0 calc(15% + 3px);
+    }
+    .tamil-word .tamil {
+      font-size: 1.2rem;
+    }
+  }
+</style>

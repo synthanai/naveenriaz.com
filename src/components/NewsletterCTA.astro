@@ -1,0 +1,180 @@
+---
+/**
+ * NewsletterCTA — Email capture with Nebula language
+ * Soul-gold CTA button. Wired to mnaveenriaz.substack.com.
+ * Source: STEAL sudharsananganapathy.com (E85)
+ */
+---
+
+<section class="newsletter-cta" id="newsletter-cta">
+  <div class="container">
+    <div class="newsletter-card">
+      <div class="newsletter-content">
+        <span class="newsletter-label">Collision Dispatches</span>
+        <h3 class="newsletter-title">
+          When ancient patterns collide with AI,<br />I write about what
+          emerges.
+        </h3>
+        <p class="newsletter-desc">
+          Books, frameworks, research papers, and lessons from building an
+          ecosystem. No spam. No fluff. Just collisions.
+        </p>
+      </div>
+      <form
+        class="newsletter-form"
+        action="https://mnaveenriaz.substack.com/subscribe"
+        method="get"
+        target="_blank"
+        id="newsletter-form"
+      >
+        <div class="form-row">
+          <input
+            type="email"
+            name="email"
+            placeholder="your@email.com"
+            required
+            class="newsletter-input"
+            id="newsletter-email"
+            aria-label="Email address"
+          />
+          <button
+            type="submit"
+            class="btn btn--primary newsletter-btn"
+            id="newsletter-submit"
+          >
+            Subscribe
+          </button>
+        </div>
+        <span class="newsletter-note"
+          >Join the collision. Unsubscribe anytime.</span
+        >
+      </form>
+    </div>
+  </div>
+</section>
+
+<style>
+  .newsletter-cta {
+    padding: var(--space-2xl) 0;
+  }
+
+  .newsletter-card {
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: var(--border-radius-lg);
+    padding: var(--space-2xl) var(--space-xl);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .newsletter-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(
+      90deg,
+      var(--mind-color),
+      var(--body-color),
+      var(--soul-color)
+    );
+  }
+
+  .newsletter-label {
+    font-family: var(--font-heading);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--soul-color);
+    display: block;
+    margin-bottom: var(--space-sm);
+  }
+
+  .newsletter-title {
+    font-family: var(--font-heading);
+    font-size: clamp(1.2rem, 2.5vw, 1.5rem);
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.4;
+    margin-bottom: var(--space-sm);
+  }
+
+  .newsletter-desc {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    max-width: 480px;
+    margin: 0 auto var(--space-xl);
+    line-height: 1.6;
+  }
+
+  .newsletter-form {
+    max-width: 420px;
+    margin: 0 auto;
+  }
+
+  .form-row {
+    display: flex;
+    gap: var(--space-sm);
+  }
+
+  .newsletter-input {
+    flex: 1;
+    padding: var(--space-sm) var(--space-md);
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    color: var(--text-primary);
+    background: var(--bg-secondary);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: var(--border-radius);
+    outline: none;
+    transition: border-color var(--transition-fast);
+  }
+
+  .newsletter-input::placeholder {
+    color: var(--text-dim);
+  }
+
+  .newsletter-input:focus {
+    border-color: var(--soul-color);
+    box-shadow: 0 0 0 3px var(--soul-glow);
+  }
+
+  .newsletter-btn {
+    white-space: nowrap;
+    background: var(--soul-color);
+    border-color: var(--soul-color);
+    color: var(--bg-primary);
+    font-weight: 700;
+  }
+
+  .newsletter-btn:hover {
+    background: #e0b84d;
+    border-color: #e0b84d;
+  }
+
+  .newsletter-note {
+    display: block;
+    margin-top: var(--space-sm);
+    font-size: 0.7rem;
+    color: var(--text-dim);
+  }
+
+  @media (max-width: 480px) {
+    .newsletter-card {
+      padding: var(--space-xl) var(--space-md);
+    }
+
+    .form-row {
+      flex-direction: column;
+    }
+
+    .newsletter-btn {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>

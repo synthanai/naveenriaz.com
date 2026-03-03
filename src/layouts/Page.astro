@@ -1,0 +1,46 @@
+---
+import Base from "./Base.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+interface Props {
+  title: string;
+  description?: string;
+  activeNav?: string;
+}
+
+const { title, description, activeNav } = Astro.props;
+
+// Resolve section for body class (Three Rooms pattern)
+const sectionMap: Record<string, string> = {
+  spar: "think",
+  steal: "think",
+  codex: "think",
+  collisions: "think",
+  think: "think",
+  pulse: "work",
+  map: "work",
+  gym: "work",
+  clarity: "work",
+  work: "work",
+  core: "play",
+  pic: "play",
+  aura: "play",
+  play: "play",
+  speaker: "vibe",
+  consultant: "vibe",
+  coach: "vibe",
+  author: "vibe",
+  architect: "vibe",
+  vibe: "vibe",
+};
+const section = sectionMap[activeNav ?? ""] ?? "home";
+---
+
+<Base title={title} description={description} bodyClass={`section-${section}`}>
+  <Header activeNav={activeNav} />
+  <main>
+    <slot />
+  </main>
+  <Footer />
+</Base>
