@@ -1,759 +1,484 @@
 ---
-import Page from "../layouts/Page.astro";
-import CollisionGate from "../components/CollisionGate.astro";
-import TamilRoot from "../components/TamilRoot.astro";
-import PulseMetrics from "../components/PulseMetrics.astro";
-import AuthorityMetrics from "../components/AuthorityMetrics.astro";
-import SocialProof from "../components/SocialProof.astro";
-import NewsletterCTA from "../components/NewsletterCTA.astro";
-import ConceptCard from "../components/ConceptCard.astro";
-import revealData from "../data/reveal.json";
-import conceptsData from "../data/concepts.json";
-
-// Merge reveal data with concept file counts
-const concepts = revealData.map((r) => {
-  const node = conceptsData.nodes.find((n) => n.id === r.id);
-  return {
-    ...r,
-    fileCount: node?.fileCount || 0,
-    description: node?.description || "",
-  };
-});
+/**
+ * Landing Page — Single-page showcase
+ * Clean, verified, zero broken links.
+ * Full site coming soon.
+ */
+import "../styles/global.css";
 ---
 
-<Page title="Naveen Riaz" activeNav="home">
-  <!-- Scroll Progress Bar -->
-  <div class="progress-bar" id="progress-bar"></div>
-
-  <!-- ஃ Constellation Hero -->
-  <section class="constellation-hero">
-    <!-- Ambient orb glow (ported from STEAL ebook) -->
-    <div
-      class="orb"
-      style="width:400px;height:400px;background:var(--mind-color);top:-100px;right:-100px;"
-    >
-    </div>
-    <div
-      class="orb"
-      style="width:300px;height:300px;background:var(--soul-color);bottom:-50px;left:-100px;"
-    >
-    </div>
-
-    <div class="constellation-container">
-      <!-- The ஃ Triangle -->
-      <div class="ahenam" role="navigation" aria-label="Explore dimensions">
-        <!-- SVG connection lines -->
-        <svg
-          class="ahenam-lines"
-          viewBox="0 0 600 520"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-          aria-hidden="true"
-        >
-          <line x1="300" y1="60" x2="80" y2="440" class="line line--play-think"
-          ></line>
-          <line x1="300" y1="60" x2="520" y2="440" class="line line--play-work"
-          ></line>
-          <line x1="80" y1="440" x2="520" y2="440" class="line line--think-work"
-          ></line>
-        </svg>
-
-        <!-- Top dot: Play (Soul/Gold) -->
-        <a
-          href="/play/"
-          class="ahenam-dot ahenam-dot--play"
-          aria-label="Play: Why I Live"
-        >
-          <span class="dot-circle"></span>
-          <span class="dot-label">Play</span>
-          <span class="dot-sub">Why I Live</span>
-        </a>
-
-        <!-- Bottom-left dot: Think (Mind/Navy) -->
-        <a
-          href="/think/"
-          class="ahenam-dot ahenam-dot--think"
-          aria-label="Think: How I Think"
-        >
-          <span class="dot-circle"></span>
-          <span class="dot-label">Think</span>
-          <span class="dot-sub">How I Think</span>
-        </a>
-
-        <!-- Bottom-right dot: Work (Body/Green) -->
-        <a
-          href="/work/"
-          class="ahenam-dot ahenam-dot--work"
-          aria-label="Work: What I Build"
-        >
-          <span class="dot-circle"></span>
-          <span class="dot-label">Work</span>
-          <span class="dot-sub">What I Build</span>
-        </a>
-
-        <!-- Center: Collision Gate -->
-        <div class="ahenam-center">
-          <span class="collision-badge">A Question Worth Asking</span>
-          <h2 class="collision-question" id="collision-q">
-            What assumption about your organization are you holding right now
-            that might be completely wrong?
-          </h2>
-          <span class="collision-pulse"></span>
-        </div>
-
-        <script>
-          const questions = [
-            "What assumption about your organization are you holding right now that might be completely wrong?",
-            "If your team stopped all meetings tomorrow, what would actually break?",
-            "What would happen if you treated disagreement as a feature, not a threat?",
-            "Which of your 'best practices' would a newcomer question on day one?",
-            "If AI could replace 30% of what you do tomorrow, which 30% would you protect?",
-            "What is the one conversation your leadership team keeps avoiding?",
-            "If your organization were a living system, what organ would be failing?",
-          ];
-          const el = document.getElementById("collision-q");
-          if (el)
-            el.textContent =
-              questions[Math.floor(Math.random() * questions.length)];
-        </script>
-      </div>
-    </div>
-  </section>
-
-  <!-- ஃ Divider -->
-  <div class="ahenam-divider" aria-hidden="true">
-    <img src="/logo-h.svg" class="divider-logo" width="48" height="14" alt="" />
-  </div>
-
-  <!-- Ecosystem Pulse -->
-  <section class="section--tight">
-    <div class="container">
-      <PulseMetrics />
-    </div>
-  </section>
-
-  <!-- Tamil Root -->
-  <section class="section--tight">
-    <div class="container container--narrow">
-      <TamilRoot
-        tamil="தோற்றம்"
-        transliteration="Thottram"
-        meaning="Emergence. New understanding is born when ideas from unrelated domains collide, compress, and ignite, like stars forming inside a nebula."
-        tamilMeaning="தொடர்பற்ற துறைகளின் கருத்துக்கள் மோதி, அழுத்தி, பற்றவைக்கும்போது புதிய புரிதல் பிறக்கிறது."
-        kural={`தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்
-கற்றனைத் தூறும் அறிவு.`}
-        kuralNumber={396}
-        kuralTranslation="Like a well that springs as you dig, knowledge springs as you learn."
-      />
-    </div>
-  </section>
-
-  <!-- ஃ Divider -->
-  <div class="ahenam-divider" aria-hidden="true">
-    <img src="/logo-h.svg" class="divider-logo" width="48" height="14" alt="" />
-  </div>
-
-  <!-- Manifesto -->
-  <section class="section--tight">
-    <div class="container container--narrow">
-      <div class="manifesto">
-        <h2>What is <span class="gt">The Nebula</span>?</h2>
-        <p>
-          This is not a blog. It is not a portfolio. It is a <strong
-            >living cloud of ideas</strong
-          >
-          where patterns from unrelated domains collide, compress, and ignite into
-          new stars.
-        </p>
-        <p>
-          Ancient Tamil wisdom meets AI reasoning. Organizational consciousness
-          meets neuroscience. Dialectic argumentation meets personal
-          transformation. Each collision births something new. Each new star has
-          its own <strong>AURA</strong>.
-        </p>
-        <p class="manifesto-signature">
-          <img
-            src="/logo-h.svg"
-            class="sig-logo"
-            width="48"
-            height="14"
-            alt=""
-            aria-hidden="true"
-          />
-          Naveen Riaz Mohamed Kani
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Naveen Riaz | நவீன் ரியாஸ்</title>
+    <meta
+      name="description"
+      content="Every organisation is alive. Nurture its Mind, Body & Soul. Watch it thrive."
+    />
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+  </head>
+  <body>
+    <!-- ═══ Hero ═══ -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-symbol" aria-hidden="true">ஃ</div>
+        <h1 class="animate-in">Naveen Riaz</h1>
+        <p class="hero-tamil animate-in animate-delay-1">நவீன் ரியாஸ் மொஹமத் கனி</p>
+        <p class="hero-tagline animate-in animate-delay-2">
+          Every organisation is alive.<br />
+          Nurture its <span class="c-mind">Mind</span>,
+          <span class="c-body">Body</span> &amp;
+          <span class="c-soul">Soul</span>.<br />
+          Watch it thrive.
         </p>
       </div>
-    </div>
-  </section>
+    </header>
 
-  <!-- Authority Metrics -->
-  <section class="section--tight">
-    <div class="container">
-      <AuthorityMetrics />
-    </div>
-  </section>
-
-  <!-- Social Proof -->
-  <section class="section--tight">
-    <div class="container">
-      <SocialProof />
-    </div>
-  </section>
-
-  <!-- ஃ Divider -->
-  <div class="ahenam-divider" aria-hidden="true">
-    <img src="/logo-h.svg" class="divider-logo" width="48" height="14" alt="" />
-  </div>
-
-  <!-- Newsletter CTA -->
-  <section class="section--tight">
-    <div class="container">
-      <NewsletterCTA />
-    </div>
-  </section>
-
-  <!-- ஃ Divider -->
-  <div class="ahenam-divider" aria-hidden="true">
-    <img src="/logo-h.svg" class="divider-logo" width="48" height="14" alt="" />
-  </div>
-
-  <!-- Vibe CTA -->
-  <section class="section--tight">
-    <div class="container container--narrow">
-      <div class="vibe-cta">
-        <span class="vibe-cta-label">Vibe</span>
-        <h2>Let's <span class="gt">Build</span> Something</h2>
-        <p>
-          Speaking. Consulting. Coaching. Every engagement starts with a
-          conversation, not a pitch deck.
-        </p>
-        <div class="vibe-cta-actions">
-          <a href="/vibe/" class="btn btn--vibe">Let's Connect →</a>
-          <a href="/challenge/" class="vibe-cta-link">or Challenge a Claim</a>
+    <!-- ═══ Dimensions ═══ -->
+    <section class="dimensions">
+      <div class="container">
+        <div class="dim-grid">
+          <div class="dim-card dim-card--mind animate-in animate-delay-1">
+            <div class="dim-dot" style="background: var(--mind-color);"></div>
+            <h3>Think</h3>
+            <p class="dim-tamil">சிந்தனை (Sinthanai)</p>
+            <p>Frameworks for structured reasoning. SPAR deliberation protocol. STEAL intelligence capture. A cognitive architecture for the AI era.</p>
+          </div>
+          <div class="dim-card dim-card--body animate-in animate-delay-2">
+            <div class="dim-dot" style="background: var(--body-color);"></div>
+            <h3>Work</h3>
+            <p class="dim-tamil">செயல் (Seyal)</p>
+            <p>Proof of work across three layers. What I aspire to build (Soul). What my mind is cooking (Mind). What has shipped (Body).</p>
+          </div>
+          <div class="dim-card dim-card--soul animate-in animate-delay-3">
+            <div class="dim-dot" style="background: var(--soul-color);"></div>
+            <h3>Play</h3>
+            <p class="dim-tamil">ஆன்மா (Aanma)</p>
+            <p>Tamil roots, philosophical detours, origin stories. The fire underneath everything. Identity: Calling, Origin, Reason, Endurance.</p>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- Concepts: The Constellation -->
-  <section class="section--tight">
-    <div class="container">
-      <h2 class="concepts-title">The <span class="gt">Constellation</span></h2>
-      <p class="concepts-subtitle">
-        Patterns connecting across domains. Each a living framework, evolving
-        with every pulse.
-      </p>
-      <div class="grid-3">
-        {
-          concepts.map((c) => (
-            <ConceptCard
-              id={c.id}
-              status={c.status}
-              publicName={c.publicName}
-              teaserText={c.teaserText}
-              revealText={c.revealText}
-              description={c.description}
-              dimension={c.dimension}
-              fileCount={c.fileCount}
-            />
-          ))
-        }
+    <!-- ═══ Kural ═══ -->
+    <section class="kural-section">
+      <div class="container container--narrow">
+        <blockquote class="kural">
+          <p class="kural-tamil">
+            தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்<br />
+            கற்றனைத் தூறும் அறிவு.
+          </p>
+          <p class="kural-en">Like a well that springs as you dig, knowledge springs as you learn.</p>
+          <cite>Thirukkural #396</cite>
+        </blockquote>
       </div>
-    </div>
-  </section>
-</Page>
+    </section>
 
-<style>
-  /* ─── ஃ CONSTELLATION HERO ─── */
-  .constellation-hero {
-    padding: var(--space-2xl) 0 var(--space-xl);
-    position: relative;
-    overflow: hidden;
-    min-height: 70vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+    <!-- ═══ What I'm Building ═══ -->
+    <section class="building">
+      <div class="container container--narrow">
+        <h2>What I'm <span class="gt">Building</span></h2>
 
-  .constellation-hero::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background:
-      radial-gradient(
-        ellipse at 50% 20%,
-        rgba(196, 149, 106, 0.06) 0%,
-        transparent 50%
-      ),
-      radial-gradient(
-        ellipse at 20% 80%,
-        rgba(26, 82, 118, 0.06) 0%,
-        transparent 50%
-      ),
-      radial-gradient(
-        ellipse at 80% 80%,
-        rgba(39, 174, 96, 0.05) 0%,
-        transparent 50%
-      );
-    pointer-events: none;
-  }
+        <div class="build-list">
+          <div class="build-item">
+            <span class="build-status build-status--live">Live</span>
+            <div>
+              <strong>SPAR-Kit</strong> — Open source CLI for structured multi-persona deliberation.
+              <a href="https://github.com/synthanai/spar-kit" target="_blank" rel="noopener">GitHub →</a>
+            </div>
+          </div>
 
-  .constellation-container {
-    width: 100%;
-    max-width: 640px;
-    margin: 0 auto;
-    padding: 0 var(--space-lg);
-  }
+          <div class="build-item">
+            <span class="build-status build-status--live">Live</span>
+            <div>
+              <strong>Intent of Thought</strong> — GPS for AI reasoning. Published on arXiv.
+              <a href="https://arxiv.org/abs/2503.02896" target="_blank" rel="noopener">Paper →</a>
+            </div>
+          </div>
 
-  /* The ஃ Formation */
-  .ahenam {
-    position: relative;
-    width: 100%;
-    height: 480px;
-  }
+          <div class="build-item">
+            <span class="build-status build-status--live">Live</span>
+            <div>
+              <strong>Neural Canvas</strong> — 20 articles across five series on living organisations, AI, and pattern connections.
+              <a href="https://mnaveenriaz.github.io" target="_blank" rel="noopener">Blog →</a>
+            </div>
+          </div>
 
-  /* SVG Connection Lines */
-  .ahenam-lines {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-  }
+          <div class="build-item">
+            <span class="build-status build-status--cooking">Cooking</span>
+            <div>
+              <strong>Let's SPAR</strong> — My first book. 33 chapters on structured dialectic thinking. Publication-ready.
+            </div>
+          </div>
 
-  .line {
-    stroke: rgba(255, 255, 255, 0.06);
-    stroke-width: 1;
-    stroke-dasharray: 6 4;
-    transition: all 0.6s ease;
-  }
+          <div class="build-item">
+            <span class="build-status build-status--cooking">Cooking</span>
+            <div>
+              <strong>SYNTHAI Ecosystem</strong> — 24 repositories, 19 knowledge items, 1000+ commits. A living organisation operating system.
+              <a href="https://github.com/synthanai" target="_blank" rel="noopener">GitHub →</a>
+            </div>
+          </div>
 
-  .ahenam:hover .line {
-    stroke: rgba(255, 255, 255, 0.12);
-  }
+          <div class="build-item">
+            <span class="build-status build-status--cooking">Cooking</span>
+            <div>
+              <strong>Thirukkural Mapping</strong> — Bridging 2000-year-old Tamil wisdom to modern leadership. VOW Book 1 in active writing.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-  .ahenam:hover .line--play-think {
-    stroke: rgba(196, 149, 106, 0.15);
-  }
-  .ahenam:hover .line--play-work {
-    stroke: rgba(196, 149, 106, 0.12);
-  }
-  .ahenam:hover .line--think-work {
-    stroke: rgba(26, 82, 118, 0.12);
-  }
+    <!-- ═══ Collision ═══ -->
+    <section class="collision-section">
+      <div class="container container--narrow">
+        <h2>Collisions</h2>
+        <p class="collision-desc">
+          A <strong>Collision</strong> is an intellectual event, not a blog post.
+          Two ideas from different domains crash into each other and produce a new pattern.
+          If there is no crash, it is not a collision.
+        </p>
+        <div class="collision-list">
+          <a class="collision-item" href="https://mnaveenriaz.github.io" target="_blank" rel="noopener">
+            <span class="collision-title">The $1 Notebook</span>
+            <span class="collision-sub">Handwriting × SPAR × Purpose Amnesia → PENA synthesis</span>
+          </a>
+          <a class="collision-item" href="https://mnaveenriaz.github.io" target="_blank" rel="noopener">
+            <span class="collision-title">Architecture Is the Moat</span>
+            <span class="collision-sub">Three practitioners, three domains, one conclusion: your AI model doesn't matter</span>
+          </a>
+          <a class="collision-item" href="https://mnaveenriaz.github.io" target="_blank" rel="noopener">
+            <span class="collision-title">The Three Fatigues</span>
+            <span class="collision-sub">AI Fatigue × Decision Fatigue × Judgement Fatigue (MBS spiral)</span>
+          </a>
+        </div>
+      </div>
+    </section>
 
-  /* Dots */
-  .ahenam-dot {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 6px;
-    text-decoration: none;
-    color: inherit;
-    z-index: 2;
-    transition: transform 0.3s ease;
-  }
+    <!-- ═══ Connect ═══ -->
+    <section class="connect">
+      <div class="container container--narrow" style="text-align: center;">
+        <h2>Vibe</h2>
+        <p class="dim-tamil" style="margin-bottom: var(--space-lg);">ஒலுக்கம் (Olukkam) — Resonance</p>
+        <p>Every engagement starts the same way: a conversation.</p>
+        <div class="connect-links">
+          <a href="https://www.linkedin.com/in/mnaveenriaz/" target="_blank" rel="noopener" class="btn">LinkedIn</a>
+          <a href="https://github.com/synthanai" target="_blank" rel="noopener" class="btn">GitHub</a>
+          <a href="https://mnaveenriaz.github.io" target="_blank" rel="noopener" class="btn">Blog</a>
+        </div>
+      </div>
+    </section>
 
-  .ahenam-dot:hover {
-    transform: scale(1.08);
-  }
+    <!-- ═══ Footer ═══ -->
+    <footer class="footer">
+      <div class="container" style="text-align: center;">
+        <p class="footer-symbol">ஃ</p>
+        <p class="footer-copy">&copy; 2026 Naveen Riaz Mohamed Kani</p>
+        <p class="footer-note">Built with Astro. Powered by the SYNTHAI ecosystem.</p>
+      </div>
+    </footer>
 
-  /* Positions: Play top, Think bottom-left, Work bottom-right */
-  .ahenam-dot--play {
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-  .ahenam-dot--play:hover {
-    transform: translateX(-50%) scale(1.08);
-  }
+    <style>
+      /* ── Hero ── */
+      .hero {
+        min-height: 80vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        position: relative;
+        padding: var(--space-4xl) var(--space-xl);
+      }
 
-  .ahenam-dot--think {
-    bottom: 0;
-    left: 8%;
-  }
+      .hero-inner {
+        position: relative;
+        z-index: 1;
+      }
 
-  .ahenam-dot--work {
-    bottom: 0;
-    right: 8%;
-  }
+      .hero-symbol {
+        font-family: var(--font-tamil);
+        font-size: 3rem;
+        color: var(--soul-color);
+        margin-bottom: var(--space-md);
+        opacity: 0.6;
+        animation: pulseGlow 4s ease-in-out infinite;
+      }
 
-  .dot-circle {
-    width: 28px;
-    height: 28px;
-    border-radius: 50%;
-    border: 2px solid;
-    position: relative;
-    transition: all 0.4s ease;
-  }
+      .hero h1 {
+        font-size: clamp(2.5rem, 6vw, 4rem);
+        font-weight: 800;
+        letter-spacing: -0.03em;
+        margin-bottom: var(--space-xs);
+      }
 
-  .dot-circle::after {
-    content: "";
-    position: absolute;
-    inset: 5px;
-    border-radius: 50%;
-    transition: all 0.4s ease;
-  }
+      .hero-tamil {
+        font-family: var(--font-tamil);
+        font-size: 1.1rem;
+        color: var(--tamil-accent);
+        opacity: 0.7;
+        margin-bottom: var(--space-xl);
+      }
 
-  .ahenam-dot--think .dot-circle {
-    border-color: var(--mind-color);
-  }
-  .ahenam-dot--think .dot-circle::after {
-    background: var(--mind-color);
-  }
-  .ahenam-dot--think:hover .dot-circle {
-    box-shadow:
-      0 0 20px var(--mind-glow),
-      0 0 40px var(--mind-glow);
-  }
+      .hero-tagline {
+        font-size: 1.15rem;
+        line-height: 1.8;
+        color: var(--text-secondary);
+        max-width: 500px;
+        margin: 0 auto;
+      }
 
-  .ahenam-dot--work .dot-circle {
-    border-color: var(--body-color);
-  }
-  .ahenam-dot--work .dot-circle::after {
-    background: var(--body-color);
-  }
-  .ahenam-dot--work:hover .dot-circle {
-    box-shadow:
-      0 0 20px var(--body-glow),
-      0 0 40px var(--body-glow);
-  }
+      .c-mind { color: var(--mind-color); font-weight: 600; }
+      .c-body { color: var(--body-color); font-weight: 600; }
+      .c-soul { color: var(--soul-color); font-weight: 600; }
+      .gt { color: var(--soul-color); }
 
-  .ahenam-dot--play .dot-circle {
-    border-color: var(--soul-color);
-  }
-  .ahenam-dot--play .dot-circle::after {
-    background: var(--soul-color);
-  }
-  .ahenam-dot--play:hover .dot-circle {
-    box-shadow:
-      0 0 20px var(--soul-glow),
-      0 0 40px var(--soul-glow);
-  }
+      /* ── Dimensions ── */
+      .dimensions {
+        padding: var(--space-3xl) 0;
+      }
 
-  .dot-label {
-    font-family: var(--font-heading);
-    font-weight: 800;
-    font-size: 0.95rem;
-    letter-spacing: 0.02em;
-  }
+      .dim-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: var(--space-lg);
+      }
 
-  .ahenam-dot--think .dot-label {
-    color: var(--mind-color);
-  }
-  .ahenam-dot--work .dot-label {
-    color: var(--body-color);
-  }
-  .ahenam-dot--play .dot-label {
-    color: var(--soul-color);
-  }
+      .dim-card {
+        background: var(--bg-card);
+        border: 1px solid rgba(255, 255, 255, 0.04);
+        border-radius: var(--border-radius);
+        padding: var(--space-xl);
+        transition: transform var(--transition-base), box-shadow var(--transition-base);
+      }
 
-  .dot-sub {
-    font-size: 0.72rem;
-    color: var(--text-dim);
-    letter-spacing: 0.03em;
-  }
+      .dim-card:hover {
+        transform: translateY(-3px);
+      }
 
-  /* Center: Collision Gate */
-  .ahenam-center {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -42%);
-    text-align: center;
-    max-width: 380px;
-    z-index: 1;
-  }
+      .dim-card--mind { border-top: 3px solid var(--mind-color); }
+      .dim-card--mind:hover { box-shadow: 0 8px 32px var(--mind-glow); }
+      .dim-card--body { border-top: 3px solid var(--body-color); }
+      .dim-card--body:hover { box-shadow: 0 8px 32px var(--body-glow); }
+      .dim-card--soul { border-top: 3px solid var(--soul-color); }
+      .dim-card--soul:hover { box-shadow: 0 8px 32px var(--soul-glow); }
 
-  .collision-badge {
-    display: inline-block;
-    font-family: var(--font-heading);
-    font-size: 0.65rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--accent);
-    border: 1px solid var(--accent-border);
-    border-radius: 20px;
-    padding: 4px 14px;
-    margin-bottom: var(--space-md);
-  }
+      .dim-dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-bottom: var(--space-sm);
+        box-shadow: 0 0 8px currentColor;
+      }
 
-  .collision-question {
-    font-size: clamp(1.1rem, 2.5vw, 1.5rem);
-    font-weight: 700;
-    line-height: 1.35;
-    color: var(--text-primary);
-  }
+      .dim-card h3 {
+        font-size: 1.3rem;
+        margin-bottom: var(--space-xs);
+      }
 
-  .collision-pulse {
-    display: block;
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: var(--accent);
-    margin: var(--space-md) auto 0;
-    animation: pulse 3s ease-in-out infinite;
-  }
+      .dim-tamil {
+        font-family: var(--font-tamil);
+        font-size: 0.85rem;
+        color: var(--tamil-accent);
+        opacity: 0.7;
+        margin-bottom: var(--space-sm);
+      }
 
-  @keyframes pulse {
-    0%,
-    100% {
-      opacity: 0.4;
-      box-shadow: 0 0 0 0 var(--accent);
-    }
-    50% {
-      opacity: 1;
-      box-shadow: 0 0 12px 4px var(--accent);
-    }
-  }
+      .dim-card p:last-child {
+        font-size: 0.9rem;
+        color: var(--text-muted);
+        line-height: 1.6;
+        margin: 0;
+      }
 
-  /* ─── ஃ DIVIDER ─── */
-  .ahenam-divider {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    padding: var(--space-lg) 0;
-  }
+      /* ── Kural ── */
+      .kural-section {
+        padding: var(--space-3xl) 0;
+      }
 
-  .div-dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    opacity: 0.6;
-  }
+      .kural {
+        text-align: center;
+        margin: 0;
+        padding: var(--space-xl);
+        border: 1px solid rgba(212, 168, 67, 0.12);
+        border-radius: var(--border-radius);
+        background: linear-gradient(180deg, rgba(212, 168, 67, 0.03) 0%, transparent 100%);
+      }
 
-  .div-dot--think {
-    background: var(--mind-color);
-    box-shadow:
-      0 0 0 2px rgba(40, 116, 166, 0.15),
-      0 0 5px var(--mind-color);
-  }
-  .div-dot--work {
-    background: var(--body-color);
-    box-shadow:
-      0 0 0 2px rgba(39, 174, 96, 0.15),
-      0 0 5px var(--body-color);
-  }
-  .div-dot--play {
-    background: var(--soul-color);
-    box-shadow:
-      0 0 0 2px rgba(212, 168, 67, 0.15),
-      0 0 5px var(--soul-color);
-  }
+      .kural-tamil {
+        font-family: var(--font-tamil);
+        font-size: 1.15rem;
+        color: var(--soul-color);
+        line-height: 2;
+        margin-bottom: var(--space-md);
+      }
 
-  /* ─── MANIFESTO ─── */
-  .manifesto {
-    text-align: center;
-    padding: var(--space-2xl) 0;
-  }
+      .kural-en {
+        font-style: italic;
+        color: var(--text-muted);
+        font-size: 0.9rem;
+        margin-bottom: var(--space-sm);
+      }
 
-  .manifesto h2 {
-    margin-bottom: var(--space-lg);
-  }
+      .kural cite {
+        font-size: 0.75rem;
+        color: var(--soul-color);
+        opacity: 0.5;
+        font-style: normal;
+        letter-spacing: 0.05em;
+      }
 
-  .manifesto p {
-    font-size: 1.05rem;
-    line-height: 1.8;
-  }
+      /* ── Building ── */
+      .building {
+        padding: var(--space-3xl) 0;
+      }
 
-  .manifesto-signature {
-    margin-top: var(--space-xl);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: var(--space-sm);
-    font-family: var(--font-heading);
-    font-weight: 600;
-    color: var(--text-primary);
-    font-size: 0.95rem;
-  }
+      .building h2 {
+        text-align: center;
+        margin-bottom: var(--space-xl);
+      }
 
-  .sig-dots {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 36px;
-    justify-content: center;
-    gap: 2px;
-  }
+      .build-list {
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-md);
+      }
 
-  .sig-dots::before {
-    content: "";
-    display: block;
-  }
+      .build-item {
+        display: flex;
+        align-items: flex-start;
+        gap: var(--space-md);
+        padding: var(--space-md) var(--space-lg);
+        background: var(--bg-card);
+        border: 1px solid rgba(255, 255, 255, 0.04);
+        border-radius: var(--border-radius);
+        font-size: 0.92rem;
+        color: var(--text-secondary);
+        line-height: 1.6;
+      }
 
-  .sig-dot {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    border: 1.5px solid;
-    position: relative;
-    background: transparent;
-  }
+      .build-status {
+        font-family: var(--font-label);
+        font-size: 0.65rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        padding: 3px 10px;
+        border-radius: 20px;
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 2px;
+      }
 
-  .sig-dot::after {
-    content: "";
-    position: absolute;
-    inset: 2px;
-    border-radius: 50%;
-  }
+      .build-status--live {
+        color: var(--body-color);
+        border: 1px solid var(--body-color);
+        box-shadow: 0 0 8px var(--body-glow);
+      }
 
-  .sig-dot--play {
-    border-color: var(--soul-color);
-  }
-  .sig-dot--play::after {
-    background: var(--soul-color);
-  }
+      .build-status--cooking {
+        color: var(--mind-color);
+        border: 1px solid var(--mind-color);
+        box-shadow: 0 0 8px var(--mind-glow);
+      }
 
-  .sig-dot--think {
-    border-color: var(--mind-color);
-    flex-basis: 100%;
-    margin: 0 auto;
-    width: 12px;
-  }
-  .sig-dot--think::after {
-    background: var(--mind-color);
-  }
+      /* ── Collisions ── */
+      .collision-section {
+        padding: var(--space-3xl) 0;
+      }
 
-  .sig-dot--work {
-    border-color: var(--body-color);
-  }
-  .sig-dot--work::after {
-    background: var(--body-color);
-  }
+      .collision-section h2 {
+        text-align: center;
+        margin-bottom: var(--space-sm);
+      }
 
-  /* ─── RESPONSIVE ─── */
-  @media (max-width: 600px) {
-    .constellation-hero {
-      min-height: 60vh;
-    }
+      .collision-desc {
+        text-align: center;
+        color: var(--text-muted);
+        font-size: 0.9rem;
+        max-width: 500px;
+        margin: 0 auto var(--space-xl);
+      }
 
-    .collision-question {
-      font-size: 1rem;
-    }
+      .collision-list {
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-sm);
+      }
 
-    .dot-circle {
-      width: 22px;
-      height: 22px;
-    }
+      .collision-item {
+        display: block;
+        padding: var(--space-md) var(--space-lg);
+        background: var(--bg-card);
+        border: 1px solid rgba(255, 255, 255, 0.04);
+        border-left: 3px solid var(--soul-color);
+        border-radius: var(--border-radius);
+        text-decoration: none;
+        transition: transform var(--transition-base), box-shadow var(--transition-base);
+      }
 
-    .dot-label {
-      font-size: 0.8rem;
-    }
+      .collision-item:hover {
+        transform: translateX(4px);
+        box-shadow: 0 4px 20px var(--soul-glow);
+        text-decoration: none;
+      }
 
-    .dot-sub {
-      font-size: 0.65rem;
-    }
+      .collision-title {
+        display: block;
+        font-family: var(--font-heading);
+        font-weight: 600;
+        font-size: 1rem;
+        color: var(--text-primary);
+        margin-bottom: 2px;
+      }
 
-    .ahenam-center {
-      max-width: 260px;
-    }
-  }
+      .collision-sub {
+        font-size: 0.82rem;
+        color: var(--text-muted);
+      }
 
-  /* ─── CONCEPTS SECTION ─── */
-  .concepts-title {
-    font-family: var(--font-label);
-    font-size: 1.1rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--text-muted);
-    margin-bottom: var(--space-xs);
-  }
+      /* ── Connect ── */
+      .connect {
+        padding: var(--space-3xl) 0;
+      }
 
-  .concepts-subtitle {
-    font-size: 0.88rem;
-    color: var(--text-dim);
-    margin-bottom: var(--space-xl);
-  }
+      .connect h2 {
+        margin-bottom: var(--space-xs);
+      }
 
-  .grid-3 {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: var(--space-md);
-  }
+      .connect-links {
+        display: flex;
+        gap: var(--space-md);
+        justify-content: center;
+        margin-top: var(--space-lg);
+        flex-wrap: wrap;
+      }
 
-  /* ── Vibe CTA ───────────────────────────────── */
-  .vibe-cta {
-    text-align: center;
-    padding: var(--space-2xl) var(--space-xl);
-    background: var(--bg-card);
-    border: 1px solid rgba(255, 255, 255, 0.06);
-    border-radius: var(--section-radius, 24px);
-    border-top: 3px solid var(--soul-color);
-  }
+      /* ── Footer ── */
+      .footer {
+        padding: var(--space-2xl) 0;
+        border-top: 1px solid rgba(255, 255, 255, 0.04);
+      }
 
-  .vibe-cta-label {
-    font-family: var(--font-label);
-    font-size: 0.7rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--soul-color);
-    display: block;
-    margin-bottom: var(--space-sm);
-  }
+      .footer-symbol {
+        font-family: var(--font-tamil);
+        font-size: 1.5rem;
+        color: var(--soul-color);
+        opacity: 0.4;
+        margin-bottom: var(--space-sm);
+      }
 
-  .vibe-cta p {
-    max-width: 420px;
-    margin: var(--space-sm) auto var(--space-lg);
-    font-size: 0.95rem;
-    color: var(--text-muted);
-    line-height: 1.7;
-  }
+      .footer-copy {
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        margin-bottom: var(--space-xs);
+      }
 
-  .vibe-cta-actions {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: var(--space-lg);
-    flex-wrap: wrap;
-  }
-
-  .btn--vibe {
-    display: inline-flex;
-    align-items: center;
-    padding: var(--space-sm) var(--space-xl);
-    font-family: var(--font-heading);
-    font-size: 0.9rem;
-    font-weight: 600;
-    border-radius: 20px;
-    border: 1px solid var(--soul-color);
-    color: var(--soul-color);
-    background: rgba(212, 168, 67, 0.06);
-    text-decoration: none;
-    transition: all var(--transition-base);
-  }
-
-  .btn--vibe:hover {
-    background: rgba(212, 168, 67, 0.15);
-    color: var(--accent-light);
-    box-shadow: 0 4px 20px var(--soul-glow);
-  }
-
-  .vibe-cta-link {
-    font-size: 0.78rem;
-    color: var(--text-dim);
-    text-decoration: none;
-    transition: color var(--transition-base);
-  }
-
-  .vibe-cta-link:hover {
-    color: var(--mind-color);
-  }
-</style>
-
-<script>
-  const pb = document.getElementById("progress-bar");
-  if (pb) {
-    window.addEventListener("scroll", () => {
-      const pct =
-        (window.scrollY /
-          (document.documentElement.scrollHeight - window.innerHeight)) *
-        100;
-      pb.style.width = pct + "%";
-    });
-  }
-</script>
+      .footer-note {
+        font-size: 0.72rem;
+        color: var(--text-dim);
+      }
+    </style>
+  </body>
+</html>
