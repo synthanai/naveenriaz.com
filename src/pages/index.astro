@@ -13,7 +13,7 @@ import "../styles/global.css";
   </head>
   <body>
     <main class="coming-soon">
-      <div class="symbol">ஃ</div>
+      <img src="/logo.svg" alt="Naveen Riaz" class="logo" />
       <h1>Naveen Riaz</h1>
       <p class="tamil">நவீன் ரியாஸ் மொஹமத் கனி</p>
       <p class="tagline">Coming soon.</p>
@@ -35,12 +35,10 @@ import "../styles/global.css";
         padding: var(--space-xl);
       }
 
-      .symbol {
-        font-family: var(--font-tamil);
-        font-size: 3.5rem;
-        color: var(--soul-color);
+      .logo {
+        width: 80px;
+        height: 80px;
         margin-bottom: var(--space-lg);
-        opacity: 0.6;
         animation: pulseGlow 4s ease-in-out infinite;
       }
 
