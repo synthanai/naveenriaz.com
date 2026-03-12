@@ -275,15 +275,15 @@ strong {
 }
 
 .card--mind {
-  border-left: 3px solid var(--mind-color);
+  border-left: 4px solid var(--mind-color);
 }
 
 .card--body {
-  border-left: 3px solid var(--body-color);
+  border-left: 4px solid var(--body-color);
 }
 
 .card--soul {
-  border-left: 3px solid var(--soul-color);
+  border-left: 4px solid var(--soul-color);
 }
 
 .card--mind:hover {
@@ -358,13 +358,13 @@ strong {
 /* ── Grid Systems ───────────────────────────────────────────── */
 .grid-3 {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: 1fr 1fr;
   gap: var(--space-lg);
 }
 
 .grid-2 {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: 1fr 1fr;
   gap: var(--space-lg);
 }
 
@@ -386,7 +386,16 @@ strong {
 @media (max-width: 480px) {
 
   .grid-3,
-  .grid-2 {
+  .grid-2,
+  .shipped-grid,
+  .connect-grid,
+  .soul-grid,
+  .ebook-grid,
+  .hero-grid,
+  .core-grid,
+  .dim-grid,
+  .work-grid,
+  .topic-list {
     grid-template-columns: 1fr;
   }
 }
@@ -498,6 +507,16 @@ strong {
   text-align: right;
 }
 
+.section-work .layer-header {
+  justify-content: flex-end;
+}
+
+.section-work .shipped-grid,
+.section-work .ebook-grid,
+.section-work .hero-grid {
+  justify-content: flex-end;
+}
+
 /* ══════════════════════════════════════════════════════════════
    PAGE STYLES — Consolidated from per-page <style> blocks
    ══════════════════════════════════════════════════════════════ */
@@ -507,20 +526,40 @@ strong {
   margin-bottom: var(--space-xs);
 }
 
-/* Per-page h1 color via body class */
-.section-think .page-hero h1 {
+/* Per-page heading + subtitle colors via body class */
+.section-think h1,
+.section-think h2,
+.section-think h3,
+.section-think h4,
+.section-think .page-subtitle,
+.section-think .section-hook {
   color: var(--mind-color);
 }
 
-.section-play .page-hero h1 {
+.section-play h1,
+.section-play h2,
+.section-play h3,
+.section-play h4,
+.section-play .page-subtitle,
+.section-play .section-hook {
   color: var(--soul-color);
 }
 
-.section-work .page-hero h1 {
+.section-work h1,
+.section-work h2,
+.section-work h3,
+.section-work h4,
+.section-work .page-subtitle,
+.section-work .section-hook {
   color: var(--body-color);
 }
 
-.section-vibe .page-hero h1 {
+.section-vibe h1,
+.section-vibe h2,
+.section-vibe h3,
+.section-vibe h4,
+.section-vibe .page-subtitle,
+.section-vibe .section-hook {
   color: var(--vibe-color);
 }
 
@@ -573,8 +612,8 @@ strong {
 }
 
 .hero-logo {
-  width: 72px;
-  height: 72px;
+  width: 144px;
+  height: 144px;
   margin-bottom: var(--space-lg);
   animation: pulseGlow 4s ease-in-out infinite;
 }
@@ -587,24 +626,24 @@ strong {
 }
 
 .hero-name {
-  font-size: clamp(2.5rem, 6vw, 3.8rem);
+  font-size: clamp(3rem, 8vw, 5rem);
   font-weight: 800;
   letter-spacing: -0.03em;
 }
 
 .hero-tamil {
   font-family: var(--font-tamil);
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   color: var(--tamil-accent);
   opacity: 0.6;
   font-weight: 400;
 }
 
 .hero-tagline {
-  font-size: 1.15rem;
+  font-size: 1.35rem;
   line-height: 1.9;
   color: var(--text-secondary);
-  max-width: 480px;
+  max-width: 540px;
 }
 
 /* Home: Dimension grid */
@@ -633,7 +672,7 @@ strong {
 
 .dim-card--mind {
   border: 1px solid rgba(40, 116, 166, 0.3);
-  border-left: 3px solid var(--mind-color);
+  border-left: 4px solid var(--mind-color);
   background: var(--bg-card);
 }
 
@@ -648,7 +687,7 @@ strong {
 
 .dim-card--soul {
   border: 1px solid rgba(212, 168, 67, 0.3);
-  border-top: 3px solid var(--soul-color);
+  border-top: 4px solid var(--soul-color);
   background: var(--bg-card);
 }
 
@@ -663,7 +702,7 @@ strong {
 
 .dim-card--body {
   border: 1px solid rgba(39, 174, 96, 0.3);
-  border-right: 3px solid var(--body-color);
+  border-right: 4px solid var(--body-color);
   background: var(--bg-card);
 }
 
@@ -678,7 +717,7 @@ strong {
 
 .dim-card--vibe {
   border: 1px solid rgba(255, 255, 255, 0.25);
-  border-bottom: 3px solid var(--vibe-color);
+  border-bottom: 4px solid var(--vibe-color);
   background: var(--bg-card);
 }
 
@@ -790,7 +829,7 @@ strong {
   padding: var(--space-md) var(--space-lg);
   background: var(--bg-card);
   border: 1px solid rgba(40, 116, 166, 0.2);
-  border-left: 3px solid var(--mind-color);
+  border-left: 4px solid var(--mind-color);
   border-radius: var(--border-radius);
   transition: transform var(--transition-base);
 }
@@ -826,7 +865,7 @@ strong {
   padding: var(--space-md) var(--space-lg);
   background: var(--bg-card);
   border: 1px solid rgba(212, 168, 67, 0.2);
-  border-top: 3px solid var(--soul-color);
+  border-top: 4px solid var(--soul-color);
   border-radius: var(--border-radius);
   transition: transform var(--transition-base);
 }
@@ -871,7 +910,7 @@ strong {
   padding: var(--space-sm) var(--space-md);
   background: var(--bg-card);
   border: 1px solid rgba(255, 255, 255, 0.04);
-  border-top: 3px solid var(--soul-color);
+  border-top: 4px solid var(--soul-color);
   border-radius: var(--border-radius);
   flex: 1;
   min-width: 120px;
@@ -953,6 +992,7 @@ strong {
 }
 
 .layer-label {
+  display: block;
   font-family: var(--font-label);
   font-size: 0.65rem;
   font-weight: 600;
@@ -973,7 +1013,7 @@ strong {
   padding: var(--space-lg) var(--space-xl);
   background: var(--bg-card);
   border: 1px solid rgba(39, 174, 96, 0.2);
-  border-right: 3px solid var(--body-color);
+  border-right: 4px solid var(--body-color);
   border-radius: var(--border-radius);
   transition: transform var(--transition-base), box-shadow var(--transition-base);
 }
@@ -1000,7 +1040,7 @@ strong {
 
 .shipped-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-template-columns: 1fr 1fr;
   gap: var(--space-md);
   margin-bottom: var(--space-md);
 }
@@ -1010,7 +1050,7 @@ strong {
   padding: var(--space-md);
   background: var(--bg-card);
   border: 1px solid rgba(39, 174, 96, 0.15);
-  border-right: 3px solid var(--body-color);
+  border-right: 4px solid var(--body-color);
   border-radius: var(--border-radius);
   text-decoration: none;
   transition: transform var(--transition-base), border-color var(--transition-base);
@@ -1039,8 +1079,14 @@ strong {
   padding: var(--space-md) var(--space-lg);
   background: var(--bg-card);
   border: 1px solid rgba(255, 255, 255, 0.04);
-  border-right: 3px solid var(--body-color);
+  border-right: 4px solid var(--body-color);
   border-radius: var(--border-radius);
+}
+
+.work-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-md);
   margin-bottom: var(--space-md);
 }
 
@@ -1119,13 +1165,13 @@ strong {
 .soul-card {
   padding: var(--space-md) var(--space-lg);
   background: var(--bg-card);
-  border: 1px solid rgba(212, 168, 67, 0.1);
-  border-top: 3px solid var(--soul-color);
+  border: 1px solid rgba(39, 174, 96, 0.15);
+  border-right: 4px solid var(--body-color);
   border-radius: var(--border-radius);
 }
 
 .soul-card h4 {
-  color: var(--soul-color);
+  color: var(--body-color);
   font-size: 0.95rem;
   margin-bottom: var(--space-xs);
 }
@@ -1139,8 +1185,8 @@ strong {
 
 /* ── Vibe Page ─────────────────────────────────────────────── */
 .topic-list {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: var(--space-md);
 }
 
@@ -1148,7 +1194,7 @@ strong {
   padding: var(--space-md) var(--space-lg);
   background: var(--bg-card);
   border: 1px solid rgba(255, 255, 255, 0.08);
-  border-bottom: 3px solid var(--vibe-color);
+  border-bottom: 4px solid var(--vibe-color);
   border-radius: var(--border-radius);
 }
 
@@ -1167,7 +1213,7 @@ strong {
 
 .connect-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: 1fr 1fr;
   gap: var(--space-md);
 }
 
@@ -1176,7 +1222,7 @@ strong {
   padding: var(--space-lg);
   background: var(--bg-card);
   border: 1px solid rgba(255, 255, 255, 0.08);
-  border-bottom: 3px solid var(--vibe-color);
+  border-bottom: 4px solid var(--vibe-color);
   border-radius: var(--border-radius);
   text-decoration: none;
   transition: transform var(--transition-base), box-shadow var(--transition-base);
