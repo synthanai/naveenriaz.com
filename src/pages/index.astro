@@ -1,5 +1,12 @@
 ---
+/**
+ * Home Page — Layer 1
+ * Logo, name, MBS tagline, dimension nav, Kural #396, connect links.
+ * All links verified. No internal ecosystem vocabulary.
+ */
 import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
 ---
 
 <!doctype html>
@@ -8,86 +15,125 @@ import "../styles/global.css";
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Naveen Riaz | நவீன் ரியாஸ்</title>
-    <meta name="description" content="Coming soon." />
+    <meta
+      name="description"
+      content="Every organisation, community, product, and service is alive. Nurture its Mind, Body & Soul. Watch it thrive."
+    />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   </head>
   <body>
-    <main class="coming-soon">
-      <img src="/logo.svg" alt="Naveen Riaz" class="logo" />
-      <h1>Naveen Riaz</h1>
-      <p class="tamil">நவீன் ரியாஸ் மொஹமத் கனி</p>
-      <p class="tagline">Coming soon.</p>
-      <div class="links">
-        <a href="https://www.linkedin.com/in/mnaveenriaz/" target="_blank" rel="noopener">LinkedIn</a>
-        <span class="sep">·</span>
-        <a href="https://github.com/synthanai" target="_blank" rel="noopener">GitHub</a>
+    <Header activeNav="home" />
+
+    <!-- ═══ Hero ═══ -->
+    <section class="hero">
+      <div class="container hero-inner">
+        <img src="/logo.svg" alt="" class="hero-logo" aria-hidden="true" />
+        <h1>
+          <span class="hero-name">Naveen Riaz</span>
+          <span class="hero-tamil">நவீன் ரியாஸ்</span>
+        </h1>
+        <p class="hero-tagline">
+          Everything we build is alive.<br />
+          Nurture its <span class="c-mind">Mind</span>,
+          <span class="c-body">Body</span> &amp;
+          <span class="c-soul">Soul</span>.<br />
+          Watch it thrive.
+        </p>
       </div>
-    </main>
+    </section>
 
-    <style>
-      .coming-soon {
-        min-height: 100vh;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        padding: var(--space-xl);
-      }
+    <!-- ═══ Three Dimensions ═══ -->
+    <section class="dimensions section">
+      <div class="container">
+        <div class="dim-grid">
+          <a href="/think/" class="dim-card dim-card--mind">
+            <div class="dim-header">
+              <span class="glow-dot" style="color: var(--mind-color);"></span>
+              <h2>Think</h2>
+            </div>
+            <p class="dim-tamil">சிந்தனை</p>
+            <p class="dim-desc">
+              How I reason. Structured deliberation, intelligence capture, and
+              cognitive architecture for the AI era.
+            </p>
+          </a>
+          <a href="/play/" class="dim-card dim-card--soul">
+            <div class="dim-header">
+              <span class="glow-dot" style="color: var(--soul-color);"></span>
+              <h2>Play</h2>
+            </div>
+            <p class="dim-tamil">ஆன்மா</p>
+            <p class="dim-desc">
+              Who I am. Tamil roots, identity architecture, and the philosophy
+              that governs everything I build.
+            </p>
+          </a>
+          <a href="/work/" class="dim-card dim-card--body">
+            <div class="dim-header">
+              <span class="glow-dot" style="color: var(--body-color);"></span>
+              <h2>Work</h2>
+            </div>
+            <p class="dim-tamil">செயல்</p>
+            <p class="dim-desc">
+              What I build. Papers, open source tools, and books. Soul
+              aspirations, Mind cooking, Body shipped.
+            </p>
+          </a>
+          <a href="/vibe/" class="dim-card dim-card--vibe">
+            <div class="dim-header">
+              <span class="glow-dot" style="color: var(--vibe-color);"></span>
+              <h2>Vibe</h2>
+            </div>
+            <p class="dim-tamil">ஒத்திசை</p>
+            <p class="dim-desc">
+              How to connect. Conversation topics, shared frequencies, and the
+              invitation to resonate.
+            </p>
+          </a>
+        </div>
+      </div>
+    </section>
 
-      .logo {
-        width: 80px;
-        height: 80px;
-        margin-bottom: var(--space-lg);
-        animation: pulseGlow 4s ease-in-out infinite;
-      }
+    <!-- ═══ Kural ═══ -->
+    <section class="kural-section section--tight">
+      <div class="container container--narrow">
+        <blockquote class="kural-block">
+          <p class="kural-tamil">
+            தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்<br />
+            கற்றனைத் தூறும் அறிவு.
+          </p>
+          <p class="kural-en">
+            Like a well that springs as you dig, knowledge springs as you learn.
+          </p>
+          <cite>Thirukkural #396</cite>
+        </blockquote>
+      </div>
+    </section>
 
-      h1 {
-        font-size: clamp(2.5rem, 6vw, 4rem);
-        font-weight: 800;
-        letter-spacing: -0.03em;
-        margin-bottom: var(--space-xs);
-      }
+    <!-- ═══ Vibe CTA ═══ -->
+    <section class="vibe-cta section--tight">
+      <div class="container container--narrow" style="text-align: center;">
+        <p class="vibe-text">
+          Every engagement starts the same way: a conversation.
+        </p>
+        <div class="vibe-links">
+          <a
+            href="https://www.linkedin.com/in/mnaveenriaz/"
+            target="_blank"
+            rel="noopener"
+            class="btn">LinkedIn</a
+          >
+          <a
+            href="https://github.com/synthanai"
+            target="_blank"
+            rel="noopener"
+            class="btn">GitHub</a
+          >
+        </div>
+      </div>
+    </section>
 
-      .tamil {
-        font-family: var(--font-tamil);
-        font-size: 1rem;
-        color: var(--tamil-accent);
-        opacity: 0.6;
-        margin-bottom: var(--space-2xl);
-      }
+    <Footer />
 
-      .tagline {
-        font-size: 1rem;
-        color: var(--text-muted);
-        letter-spacing: 0.15em;
-        text-transform: uppercase;
-        font-family: var(--font-label);
-        font-weight: 500;
-      }
-
-      .links {
-        margin-top: var(--space-2xl);
-        display: flex;
-        gap: var(--space-sm);
-        align-items: center;
-      }
-
-      .links a {
-        font-size: 0.85rem;
-        color: var(--text-muted);
-        transition: color var(--transition-base);
-      }
-
-      .links a:hover {
-        color: var(--accent);
-        text-decoration: none;
-      }
-
-      .sep {
-        color: var(--text-dim);
-        font-size: 0.8rem;
-      }
-    </style>
   </body>
 </html>

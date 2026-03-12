@@ -2,20 +2,26 @@
 const year = new Date().getFullYear();
 ---
 
-<footer class="site-footer">
-  <div class="container footer-inner">
-    <!-- Daily Pulse Question -->
-    <div class="pulse-question-wrap">
-      <span class="pulse-q-label">Today's Pulse</span>
-      <p class="pulse-q-text" id="daily-pulse-q"></p>
-    </div>
-
-    <div class="footer-brand">
-      <span class="tamil-mark">ஃ</span>
-      <span class="footer-tagline"
-        >Where ancient patterns collide with emergent intelligence</span
-      >
-    </div>
+<footer class="site-footer" id="site-footer">
+  <div class="footer-slogan">
+    Everything we build is <span class="tamil">Alive!</span>
+    Nurture its <span class="c-mind">Mind</span>,
+    <span class="c-body">Body</span> &amp;
+    <span class="c-soul">Soul</span>. Watch it <span class="tamil">Thrive!</span
+    >
+  </div>
+  <div class="footer-inner">
+    <a href="/" class="footer-brand" aria-label="Home">
+      <img
+        src="/logo.svg"
+        class="footer-logo"
+        width="24"
+        height="24"
+        alt=""
+        aria-hidden="true"
+      />
+      <span class="footer-name">Naveen Riaz</span>
+    </a>
 
     <div class="footer-links">
       <a
@@ -26,60 +32,83 @@ const year = new Date().getFullYear();
       <a href="https://github.com/synthanai" target="_blank" rel="noopener"
         >GitHub</a
       >
-      <a href="/challenge/">Challenge</a>
-      <a href="/about/">Contact</a>
+      <a href="/about/">About</a>
     </div>
 
     <div class="footer-copy">
-      &copy; {year} Naveen Riaz Mohamed Kani. Pattern Connector. Transmuter.
+      &copy; {year} Naveen Riaz
     </div>
   </div>
 </footer>
 
-<script>
-  const pulseQs = [
-    "What decision are you avoiding right now?",
-    "Which of your team's rituals have outlived their purpose?",
-    "When was the last time you changed your mind about something important?",
-    "What would you build if you knew it would fail?",
-    "Which voice in your organization is being silenced?",
-    "What is the most honest conversation you are not having?",
-    "If you could only keep three processes, which three?",
-    "What assumption did you make today without testing it?",
-    "Who disagrees with you most? When did you last seek their input?",
-    "What would 10x improvement look like, not 10%?",
-    "What part of your work are you doing out of habit, not purpose?",
-    "If your organization were a person, what would it be afraid of?",
-  ];
-  const pq = document.getElementById("daily-pulse-q");
-  if (pq) pq.textContent = pulseQs[Math.floor(Math.random() * pulseQs.length)];
-</script>
-
 <style>
   .site-footer {
-    margin-top: var(--space-4xl);
-    padding: var(--space-2xl) 0;
-    border-top: 1px solid rgba(255, 255, 255, 0.04);
+    position: sticky;
+    bottom: 0;
+    z-index: 90;
+    background: var(--bg-primary);
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    padding: var(--space-md) var(--space-xl);
+  }
+
+  .footer-slogan {
+    max-width: var(--max-width);
+    margin: 0 auto var(--space-md);
+    text-align: center;
+    font-family: var(--font-heading);
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    letter-spacing: 0.02em;
+  }
+
+  .c-mind {
+    color: var(--mind-color);
+    font-weight: 600;
+  }
+  .c-body {
+    color: var(--body-color);
+    font-weight: 600;
+  }
+  .c-soul {
+    color: var(--soul-color);
+    font-weight: 600;
   }
 
   .footer-inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
     display: flex;
-    flex-direction: column;
     align-items: center;
+    justify-content: space-between;
     gap: var(--space-lg);
-    text-align: center;
   }
 
   .footer-brand {
     display: flex;
     align-items: center;
     gap: var(--space-sm);
+    text-decoration: none;
   }
 
-  .footer-tagline {
+  .footer-brand:hover {
+    text-decoration: none;
+  }
+
+  .footer-logo {
+    opacity: 0.7;
+    transition: opacity var(--transition-fast);
+  }
+
+  .footer-brand:hover .footer-logo {
+    opacity: 1;
+  }
+
+  .footer-name {
+    font-family: var(--font-heading);
     font-size: 0.85rem;
+    font-weight: 600;
     color: var(--text-muted);
-    font-style: italic;
+    letter-spacing: -0.01em;
   }
 
   .footer-links {
@@ -88,7 +117,7 @@ const year = new Date().getFullYear();
   }
 
   .footer-links a {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     color: var(--text-muted);
     transition: color var(--transition-fast);
   }
@@ -98,36 +127,15 @@ const year = new Date().getFullYear();
   }
 
   .footer-copy {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     color: var(--text-dim);
   }
 
-  /* ── Daily Pulse ──────────────── */
-  .pulse-question-wrap {
-    text-align: center;
-    margin-bottom: var(--space-md);
-    padding-bottom: var(--space-lg);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
-    max-width: 480px;
-  }
-
-  .pulse-q-label {
-    font-family: var(--font-label);
-    font-size: 0.6rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--accent);
-    display: block;
-    margin-bottom: var(--space-xs);
-  }
-
-  .pulse-q-text {
-    font-size: 0.9rem;
-    font-style: italic;
-    color: var(--text-muted);
-    line-height: 1.6;
-    margin: 0;
-    min-height: 1.6em;
+  @media (max-width: 640px) {
+    .footer-inner {
+      flex-direction: column;
+      gap: var(--space-sm);
+      text-align: center;
+    }
   }
 </style>

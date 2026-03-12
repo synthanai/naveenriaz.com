@@ -1,289 +1,132 @@
 ---
-import Page from "../layouts/Page.astro";
+/**
+ * About Page — Layer 1
+ * Journey milestones (abstracted, not raw), beliefs, Tamil roots.
+ * SPAR rule: abstract the lesson, never expose the event.
+ */
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
 import TamilRoot from "../components/TamilRoot.astro";
 ---
 
-<Page
-  title="Who Is Naveen Riaz?"
-  description="About Naveen Riaz Mohamed Kani. Pattern Connector. Transmuter. Writer, researcher, builder."
-  activeNav="about"
->
-  <section class="about-hero">
-    <div class="container container--narrow">
-      <h1>Who Is <span class="gt">Naveen Riaz</span>?</h1>
-      <p class="about-intro">
-        I'm <strong>Naveen Riaz Mohamed Kani</strong>, a pattern connector who
-        sees threads between domains that others keep separate. I build
-        frameworks, write books, and create tools that help organizations and
-        individuals thrive through transformation.
-      </p>
-    </div>
-  </section>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About | Naveen Riaz</title>
+    <meta
+      name="description"
+      content="Naveen Riaz Mohamed Kani. Pattern connector. Career across 10 countries. Building frameworks that treat organisations as living systems."
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body class="section-about">
+    <Header activeNav="about" />
 
-  <section class="section--tight">
-    <div class="container container--narrow">
+    <main class="container container--narrow">
+      <section class="page-hero section">
+        <h1>
+          <p class="page-title">Naveen Riaz Mohamed Kani</p>
+          <p class="page-subtitle">நவீன் ரியாஸ் மொஹமத் கனி</p>
+        </h1>
+      </section>
+
+      <section class="section--tight">
+        <p>
+          I connect patterns across domains that others treat as separate.
+          Organisations, cognition, ancient wisdom, and AI are not four topics
+          to me, they are one system viewed from four angles.
+        </p>
+      </section>
+
+      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
+
+      <!-- The Journey: abstracted milestones -->
+      <section class="section--tight">
+        <h2>The Journey</h2>
+
+        <div class="journey-timeline">
+          <div class="journey-milestone">
+            <div class="milestone-marker" style="--marker-color: var(--mind-color);"></div>
+            <div class="milestone-content">
+              <h4>Foundations</h4>
+              <p>Born in Nagercoil. Studied Bachelor of Engineering (BE) in Computer Science & Engineering at PSG College of Technology, Coimbatore.</p>
+            </div>
+          </div>
+
+          <div class="journey-milestone">
+            <div class="milestone-marker" style="--marker-color: var(--body-color);"></div>
+            <div class="milestone-content">
+              <h4>Career Lens</h4>
+              <p>Started working in Cognizant, Chennai. An engineering mind meets an obsession with patterns. The question was never "how does this code work?" but "why do systems behave this way?"</p>
+            </div>
+          </div>
+
+          <div class="journey-milestone">
+            <div class="milestone-marker" style="--marker-color: var(--body-color);"></div>
+            <div class="milestone-content">
+              <h4>Global Lens</h4>
+              <p>The career spanned from India to Hong Kong, USA, Malaysia, UK, and now settled in Australia. Each culture added a layer. Each move stripped away assumptions.</p>
+            </div>
+          </div>
+
+          <div class="journey-milestone">
+            <div class="milestone-marker" style="--marker-color: var(--soul-color);"></div>
+            <div class="milestone-content">
+              <h4>The Crucible</h4>
+              <p>A season that broke the old model. A health wake-up call, the kind that reorders priorities permanently. The body teaches what the mind refuses to learn.</p>
+            </div>
+          </div>
+
+          <div class="journey-milestone">
+            <div class="milestone-marker" style="--marker-color: var(--body-color);"></div>
+            <div class="milestone-content">
+              <h4>The Rebuild</h4>
+              <p>Coaching a team of 50+ people. Started lectures and training sessions in colleges. Discovering that teaching is the highest form of learning. The introvert who avoided small talk found his voice in structured dialogue.</p>
+            </div>
+          </div>
+
+          <div class="journey-milestone">
+            <div class="milestone-marker" style="--marker-color: var(--mind-color);"></div>
+            <div class="milestone-content">
+              <h4>The Purpose</h4>
+              <p>Building something that outlasts a career. Every tool, book, and framework on this site is part of that. Not a startup, not a brand, a way of seeing that others can carry forward.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
+
+      <section class="section--tight">
+        <h2>What I Believe</h2>
+        <p>
+          Every organisation, community, product, and service is alive. Nurture its Mind, Body & Soul. Watch it
+          thrive.
+        </p>
+        <p>
+          Intentional decisions define the quality of outcomes. The quality of your
+          deliberation determines the quality of your life.
+        </p>
+        <p>
+          Ancient wisdom is not outdated. It is under-applied. The Thirukkural
+          is the most compressed leadership manual I have ever encountered.
+        </p>
+      </section>
+
       <TamilRoot
-        tamil="பயணம்"
-        transliteration="Payanam"
-        meaning="Journey. A late start is not a fault. The only fault is knowing the path and choosing not to walk it."
-        tamilMeaning="தாமதமான தொடக்கம் குற்றமல்ல. வழியை அறிந்தும் நடக்காமல் இருப்பதே உண்மையான குற்றம்."
-        kural={`வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்
-உள்ளத் தனையது உயர்வு.`}
-        kuralNumber={595}
-        kuralTranslation="Having no natural gift is no fault. Not striving when you know the way, that is the fault."
+        tamil="அறிவு"
+        transliteration="Arivu"
+        meaning="Knowledge, wisdom, understanding. The Tamil word carries a weight that 'knowledge' in English does not: it implies both knowing and the responsibility that comes with knowing."
+        kural={`எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்\nமெய்ப்பொருள் காண்ப தறிவு.`}
+        kuralNumber={423}
+        kuralTranslation="True knowledge is discerning the truth in whatever is heard, from whoever speaks it."
       />
-    </div>
-  </section>
+    </main>
 
-  <section class="section--tight">
-    <div class="container container--narrow">
-      <div class="about-blocks">
-        <div class="about-block">
-          <h3>What I Do</h3>
-          <p>
-            I write books, publish research, and build tools that help people
-            and organizations thrive through transformation. My first paper,
-            "Intent of Thought," proposed a GPS for AI reasoning. I'm currently
-            writing a 13-book series on structured thinking and organizational
-            health.
-          </p>
-        </div>
+    <Footer />
 
-        <div class="about-block">
-          <h3>How I Think</h3>
-          <p>
-            Through structured dialectic. I set up multiple perspectives to
-            argue against each other until the strongest synthesis emerges. I
-            believe collision produces more growth than agreement. The friction
-            is the feature.
-          </p>
-        </div>
-
-        <div class="about-block">
-          <h3>Where I Come From</h3>
-          <p>
-            Tamil heritage. Melbourne-based. A late starter who discovered that
-            the delay was the curriculum. I ground modern thought in the
-            Thirukkural, 2000-year-old Tamil couplets that anticipated what we
-            now call systems thinking.
-          </p>
-        </div>
-      </div>
-
-      <div class="divider"></div>
-
-      <!-- Connect -->
-      <div class="connect-section">
-        <h2>Connect</h2>
-        <div class="connect-grid">
-          <a
-            href="https://www.linkedin.com/in/mnaveenriaz/"
-            target="_blank"
-            rel="noopener"
-            class="connect-card"
-          >
-            <span class="connect-icon">💼</span>
-            <span class="connect-label">LinkedIn</span>
-            <span class="connect-handle">@naveenriaz</span>
-          </a>
-          <a
-            href="https://github.com/synthanai"
-            target="_blank"
-            rel="noopener"
-            class="connect-card"
-          >
-            <span class="connect-icon">🔧</span>
-            <span class="connect-label">GitHub</span>
-            <span class="connect-handle">@synthanai</span>
-          </a>
-          <a href="mailto:naveenriaz@synthai.biz" class="connect-card">
-            <span class="connect-icon">✉️</span>
-            <span class="connect-label">Email</span>
-            <span class="connect-handle">naveenriaz@synthai.biz</span>
-          </a>
-        </div>
-      </div>
-
-      <div class="divider"></div>
-
-      <!-- Publications -->
-      <div class="publications">
-        <h2>Publications</h2>
-        <div class="pub-list">
-          <div class="pub-item">
-            <span class="pub-year">2026</span>
-            <div>
-              <h4>Intent of Thought: GPS for AI Reasoning</h4>
-              <p>
-                Research paper on a three-layer architecture for trustworthy AI
-                decision-making
-              </p>
-            </div>
-          </div>
-          <div class="pub-item">
-            <span class="pub-year">2026</span>
-            <div>
-              <h4>Let's SPAR (Book)</h4>
-              <p>
-                First book in the SHIFT series. Structured dialectic thinking
-                made practical.
-              </p>
-            </div>
-          </div>
-          <div class="pub-item">
-            <span class="pub-year">2026</span>
-            <div>
-              <h4><a href="/gym/">21-Rep AI Gym</a></h4>
-              <p>
-                AI career readiness guide. 21 exercises across Workout,
-                Strategy, and Purpose.
-              </p>
-            </div>
-          </div>
-          <div class="pub-item">
-            <span class="pub-year">2026</span>
-            <div>
-              <h4><a href="/clarity/">STEAL Your Clarity</a></h4>
-              <p>
-                Career clarity through the STEAL intelligence methodology.
-                5-step guided workbook.
-              </p>
-            </div>
-          </div>
-          <div class="pub-item">
-            <span class="pub-year">2026</span>
-            <div>
-              <h4>Thirukkural: Mind, Body, Soul</h4>
-              <p>
-                Ancient Tamil wisdom mapped to the MBS framework. Modern
-                interpretation of 1,330 couplets.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-</Page>
-
-<style>
-  .about-hero {
-    padding: var(--space-4xl) 0 var(--space-2xl);
-  }
-
-  .about-intro {
-    font-size: 1.15rem;
-    line-height: 1.8;
-    margin-top: var(--space-lg);
-  }
-
-  /* About Blocks */
-  .about-blocks {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-xl);
-  }
-
-  .about-block h3 {
-    color: var(--accent-light);
-    margin-bottom: var(--space-sm);
-  }
-
-  .about-block p {
-    font-size: 0.95rem;
-    line-height: 1.8;
-  }
-
-  /* Connect */
-  .connect-section {
-    margin: var(--space-xl) 0;
-  }
-
-  .connect-section h2 {
-    margin-bottom: var(--space-lg);
-  }
-
-  .connect-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: var(--space-md);
-  }
-
-  .connect-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: var(--space-xs);
-    padding: var(--space-lg);
-    background: var(--bg-card);
-    border: 1px solid rgba(255, 255, 255, 0.04);
-    border-radius: var(--border-radius);
-    text-decoration: none;
-    color: inherit;
-    transition: all var(--transition-base);
-  }
-
-  .connect-card:hover {
-    transform: translateY(-2px);
-    border-color: var(--accent-border);
-    box-shadow: var(--shadow-card-hover);
-  }
-
-  .connect-icon {
-    font-size: 1.5rem;
-  }
-
-  .connect-label {
-    font-family: var(--font-heading);
-    font-weight: 700;
-    font-size: 0.9rem;
-    color: var(--text-primary);
-  }
-
-  .connect-handle {
-    font-size: 0.8rem;
-    color: var(--text-muted);
-  }
-
-  /* Publications */
-  .publications {
-    margin: var(--space-xl) 0;
-  }
-
-  .publications h2 {
-    margin-bottom: var(--space-lg);
-  }
-
-  .pub-list {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-md);
-  }
-
-  .pub-item {
-    display: flex;
-    gap: var(--space-lg);
-    padding: var(--space-md);
-    border-left: 2px solid var(--accent-border);
-    padding-left: var(--space-lg);
-  }
-
-  .pub-year {
-    font-family: var(--font-heading);
-    font-weight: 700;
-    font-size: 0.85rem;
-    color: var(--accent);
-    min-width: 50px;
-  }
-
-  .pub-item h4 {
-    color: var(--text-primary);
-    margin-bottom: var(--space-xs);
-  }
-
-  .pub-item p {
-    font-size: 0.85rem;
-    color: var(--text-muted);
-    margin: 0;
-  }
-</style>
+  </body>
+</html>
