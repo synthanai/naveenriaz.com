@@ -1,0 +1,145 @@
+---
+import PrimeLayout from '../../layouts/PrimeLayout.astro';
+---
+
+<PrimeLayout title="Prime History">
+  <header>
+    <div class="subtitle">NANOPRIME</div>
+    <h1>History</h1>
+  </header>
+
+  <section id="history-container">
+    <!-- Populated by JS -->
+    <div id="empty-state" style="text-align:center;color:var(--p-t3);padding:3rem 0;font-size:0.9rem;">
+      No cycles compiled yet. Complete Day 1 to begin.
+    </div>
+  </section>
+
+  <script is:inline>
+    // Rotations based on 3-day cycle mapping
+    const CYCLES = {
+      1: { soul: 'Purpose', mind: 'Judgment', body: 'Execution' },
+      2: { soul: 'Conviction', mind: 'Architecture', body: 'Sense' },
+      3: { soul: 'Commitment', mind: 'Insight', body: 'Discipline' }
+    };
+
+    const lsKey = 'nanoprime_entries';
+    const entries = JSON.parse(localStorage.getItem(lsKey) || '[]');
+    const container = document.getElementById('history-container');
+    const emptyState = document.getElementById('empty-state');
+
+    if (entries.length > 0) {
+      emptyState.style.display = 'none';
+
+      // Group into cycles (chunks of 3 max, backwards)
+      const reversed = [...entries].reverse();
+      
+      reversed.forEach(entry => {
+        const d = new Date(entry.dateId);
+        const options = { weekday: 'short', month: 'short', day: 'numeric' };
+        const dateStr = d.toLocaleDateString('en-GB', options);
+        
+        const map = CYCLES[entry.cycleDay];
+
+        // Frame the HTML
+        const el = document.createElement('div');
+        el.className = 'history-card';
+        el.style.borderTopColor = entry.cycleDay === 1 ? 'var(--p-gold)' 
+                                : entry.cycleDay === 2 ? 'var(--p-blue)' 
+                                : 'var(--p-green)';
+
+        el.innerHTML = `
+          <div class="h-header">
+            <span>${dateStr}</span>
+            <span class="day-badge">Day ${entry.cycleDay}</span>
+          </div>
+          <div class="h-lines">
+            <div class="h-line">
+              <span class="h-label" style="color:var(--p-gold)">${map.soul}:</span> ${entry.soul}
+            </div>
+            <div class="h-line">
+              <span class="h-label" style="color:var(--p-blue)">${map.mind}:</span> ${entry.mind}
+            </div>
+            <div class="h-line">
+              <span class="h-label" style="color:var(--p-green)">${map.body}:</span> ${entry.body}
+            </div>
+          </div>
+        `;
+        container.appendChild(el);
+      });
+    }
+  </script>
+</PrimeLayout>
+
+<style>
+  header {
+    margin-bottom: 2rem;
+  }
+
+  .subtitle {
+    font-size: 0.65rem;
+    color: var(--p-t3);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+
+  h1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    color: #fff;
+  }
+
+  .history-card {
+    background: var(--p-bg2);
+    border: 1px solid var(--p-bdr);
+    border-top: 3px solid var(--p-gold);
+    border-radius: 12px;
+    padding: 1.25rem;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  }
+
+  .h-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+    color: var(--p-t3);
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--p-bdr);
+    padding-bottom: 0.5rem;
+  }
+
+  .day-badge {
+    background: rgba(255,255,255,0.05);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+
+  .h-lines {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .h-line {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    color: var(--p-t2);
+  }
+
+  .h-label {
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: inline-block;
+    min-width: 90px;
+  }
+</style>

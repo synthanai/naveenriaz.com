@@ -1,0 +1,162 @@
+---
+---
+
+<section class="newsletter-capture" id="newsletter-signup">
+  <div class="capture-inner">
+    <div class="capture-icon">🪢</div>
+    <h3 class="capture-title">The Untangling</h3>
+    <p class="capture-desc">
+      Every Friday, five organizational knots untangled.<br />
+      Short. Sharp. Organizational.
+    </p>
+    <form
+      class="capture-form"
+      action="https://108knots.substack.com/api/v1/free?nojs=true"
+      method="post"
+      target="_blank"
+      id="newsletter-form"
+    >
+      <input
+        type="email"
+        name="email"
+        placeholder="your@email.com"
+        required
+        class="capture-input"
+        id="newsletter-email"
+        aria-label="Email address"
+      />
+      <button type="submit" class="capture-btn" id="newsletter-submit">
+        Subscribe
+      </button>
+    </form>
+    <p class="capture-note">Free. Weekly. No spam. Unsubscribe anytime.</p>
+  </div>
+</section>
+
+<style>
+  .newsletter-capture {
+    max-width: var(--max-width);
+    margin: var(--space-2xl) auto;
+    padding: var(--space-xl) var(--space-lg);
+  }
+
+  .capture-inner {
+    max-width: 480px;
+    margin: 0 auto;
+    text-align: center;
+    padding: var(--space-xl);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.02),
+      rgba(255, 255, 255, 0.04)
+    );
+    backdrop-filter: blur(8px);
+    transition: border-color var(--transition-fast);
+  }
+
+  .capture-inner:hover {
+    border-color: rgba(255, 255, 255, 0.14);
+  }
+
+  .capture-icon {
+    font-size: 2rem;
+    margin-bottom: var(--space-sm);
+    filter: grayscale(0.3);
+  }
+
+  .capture-title {
+    font-family: var(--font-heading);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0 0 var(--space-sm);
+    letter-spacing: -0.02em;
+  }
+
+  .capture-desc {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin: 0 0 var(--space-lg);
+  }
+
+  .capture-form {
+    display: flex;
+    gap: var(--space-sm);
+    justify-content: center;
+    align-items: stretch;
+  }
+
+  .capture-input {
+    flex: 1;
+    max-width: 260px;
+    padding: 0.6rem 0.9rem;
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    outline: none;
+    transition: border-color var(--transition-fast),
+      background var(--transition-fast);
+  }
+
+  .capture-input:focus {
+    border-color: var(--accent);
+    background: rgba(255, 255, 255, 0.06);
+  }
+
+  .capture-input::placeholder {
+    color: var(--text-dim);
+  }
+
+  .capture-btn {
+    padding: 0.6rem 1.2rem;
+    font-family: var(--font-heading);
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: var(--bg-primary);
+    background: var(--accent);
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: opacity var(--transition-fast),
+      transform var(--transition-fast);
+    white-space: nowrap;
+  }
+
+  .capture-btn:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+  }
+
+  .capture-btn:active {
+    transform: translateY(0);
+  }
+
+  .capture-note {
+    font-size: 0.7rem;
+    color: var(--text-dim);
+    margin: var(--space-sm) 0 0;
+  }
+
+  @media (max-width: 480px) {
+    .capture-form {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .capture-input {
+      max-width: 100%;
+      width: 100%;
+    }
+
+    .capture-btn {
+      width: 100%;
+    }
+  }
+</style>
