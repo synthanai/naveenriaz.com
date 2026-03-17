@@ -45,7 +45,7 @@ That silence has a name. #Purpose #Amnesia.
 And once you see it, you can't unsee it.
 ---
 
-## The Untie
+## Untie The Knot
 
 **Uproot**
 

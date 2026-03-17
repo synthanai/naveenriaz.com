@@ -49,7 +49,7 @@ That haunting has a name. #Founders #Ghost.
 And once you see it, you can't unsee it.
 ---
 
-## The Untie
+## Untie The Knot
 
 **Uproot**
 
