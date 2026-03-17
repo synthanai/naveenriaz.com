@@ -18,28 +18,39 @@ next_knot: "organizations/004-values-wallpaper"
 next_knot_title: "values wallpaper"
 ---
 
-You've been in that meeting room.
-The one where a decision gets killed with six words:
-"That's not how she did it."
-The founder left three years ago, but she's still running the meeting.
+The founder built the fortress.
+The walls were strong. The rules were clear. The vision was right, for that era.
+But the founder left three years ago. Moved to Bali, started a podcast, stopped answering emails.
+She's still running every meeting from the ghost chair at the head of the table.
+You've been in that meeting. The one where a perfectly reasonable idea gets killed with six words: "That's not how she did it."
 
-I've enforced those rules myself.
-Defending inherited assumptions because questioning them felt like a betrayal.
-Living organizations evolve.
-But I helped create a culture that preserved instead of adapted.
+I've enforced those invisible rules myself.
+I defended inherited processes not because they worked, but because questioning them felt like betrayal.
+The founder had built something real, and I confused preserving her methods with honouring her vision.
+I kept a reporting structure alive for two years after it stopped making sense, because changing it felt like erasing her.
+Living organizations evolve. I helped create one that embalmed instead.
 
 This isn't loyalty. It's haunting.
-A ghost occupies every unquestioned process and unwritten rule.
-In architecture, they call these "spite fences."
-Structures built for a feud that ended decades ago, but you still have to walk around them.
+In architecture, they call certain structures spite fences: walls built specifically for a conflict that ended decades ago, but everyone still walks around them.
+The problem is, some of the ghost's rules are actually load-bearing. They hold things up for reasons nobody remembers.
+So you can't just demolish everything. You have to test each wall.
+Knock on it. Is it structural, or is it a monument to someone who left?
 
-In your next planning session, find the oldest rule in the room.
-Ask: "Does this rule serve the company we are today?"
+In your next planning session, find the oldest unwritten rule in the room.
+Ask out loud: "Does this rule serve the company we are today, or the company we were five years ago?"
 Watch everyone stiffen. You just touched the ghost.
+That discomfort is the diagnostic.
 
 That haunting has a name. #Founders #Ghost.
 And once you see it, you can't unsee it.
+---
 
+> 📜 *"படைகுடி கூழ்அமைச்சு நட்பரண் ஆறும்*
+> *உடையான் அரசருள் ஏறு."* — குறள் 441
+>
+> *"The leader who possesses army, people, wealth, counsel, allies, and fortress is a lion among rulers."*
+>
+> ↳ The founder built the fortress. The question is whether the walls still protect or imprison.
 ---
 
 ## The Untie

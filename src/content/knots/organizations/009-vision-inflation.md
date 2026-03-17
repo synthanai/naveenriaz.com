@@ -18,28 +18,41 @@ next_knot: "organizations/010-cultural-orphans"
 next_knot_title: "cultural orphans"
 ---
 
-"We're going to change the world."
-You've heard the CEO say it at the all-hands. The investor pitch. The offsite.
-You've heard it so many times it's become background noise.
-Meanwhile, the printer is still broken and nobody knows the Q3 budget.
+One who does not measure themselves will seem to exist but will vanish without trace.
+Valluvar's warning was about individuals, but I've watched entire companies disappear this way.
+The vision gets bigger every all-hands. Q1: "We're going to be the leading platform." Q2: "We're going to transform the industry." Q3: "We're going to change how the world works."
+The words get grander. The roadmap stays the same.
+At some point, the gap between where you say you're going and where you actually are becomes so wide that nobody takes either seriously.
 
-I've written those soaring vision statements.
-Because grand vision generates dopamine. It attracts talent, excites investors, fills rooms.
-Speaking about the future is intoxicating. Building it is mundane.
-I let the vision become a substitute for the work, instead of a guide for it.
+I've been in that gravity-defying pitch meeting.
+I've said the words "category-defining" about a product that couldn't handle concurrent users.
+I believed it, too. That's the dangerous part.
+The vision wasn't a lie. It was an altitude we hadn't built the infrastructure to breathe at.
+We kept climbing anyway, because the board loved the view from up there.
+What I didn't understand then: the higher you go without building support, the harder the body fails.
 
-This isn't delusion. It's addiction.
-The CEO lives at 40,000 feet. The team lives at sea level.
-In physiology, altitude sickness causes confusion and impaired judgment.
-The oxygen difference between the vision and the reality is causing hallucinations on both sides.
+This is how organizations suffocate on their own ambition.
+In physiology, altitude sickness occurs when the body ascends faster than it can acclimatize. The air thins, the blood oxygen drops, and the brain starts misfiring.
+The symptoms are insidious: euphoria first, then confusion, then collapse.
+Organizational vision inflation follows the same curve. The soaring rhetoric creates a high. The team feels invincible.
+But nothing has changed on the ground. Operations haven't scaled. Capacity hasn't grown. The oxygen hasn't arrived.
+By the time confusion sets in, you're too high to descend safely.
 
 Look at your team's work this week.
-Can you draw a straight, undeniable line from Tuesday's task to the grand vision?
-If you can't, the vision isn't too big. It's just too far away to matter.
+Can you draw a straight, undeniable line from Tuesday's task list to the grand vision on the wall?
+If you can't, the vision isn't too big.
+It's just too far away to be useful. Altitude without a route map is just vertigo.
 
 That vertigo has a name. #Vision #Inflation.
 And once you see it, you can't unsee it.
+---
 
+> 📜 *"அளவறிந்து வாழாதான் வாழ்க்கை உளபோல*
+> *இல்லாகித் தோன்றாக் கெடும்."* — குறள் 480
+>
+> *"One who does not measure themselves will seem to exist but will vanish without trace."*
+>
+> ↳ A vision that outgrows its operational capacity vanishes into irrelevance.
 ---
 
 ## The Untie

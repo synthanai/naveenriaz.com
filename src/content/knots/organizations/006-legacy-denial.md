@@ -18,28 +18,39 @@ next_knot: "organizations/007-split-personality"
 next_knot_title: "split personality"
 ---
 
-You've heard the stories about the early days.
-The chaotic, late-night season when the company was actually special.
-Ask the old-timers about it, and their eyes change.
-They speak in a different tense: "That was the real us."
+Remove your own faults first.
+Valluvar's advice to leaders is simple enough, but what happens when the fault isn't a person's? What happens when it's an entire chapter of the company's history that everyone agreed to delete?
+You've been in the room when someone brings up the failed acquisition, the botched product launch, the layoff that broke trust.
+Someone senior clears their throat. "That was a different time." The conversation pivots.
+The fault stays, unexamined, in the walls.
 
-I've been part of the team that professionalized that magic away.
-We brought in the org charts, the compliance processes, the OKRs.
-We deliberately killed the things that didn't scale.
-We replaced a living organism with an efficient machine, and called it maturity.
+I've helped bury a few myself.
+A product I spent two years building was quietly killed after launch. Not a failure in private, but in public. Customers had onboarded. Partners had co-invested.
+The company's official story: "We strategically refocused." My private story: we messed up the pricing, panicked, and pulled the plug.
+Three years later, I watched a new team make the exact same pricing mistake.
+Nobody told them. The institutional memory was intact. The institutional honesty was not.
 
-Nobody mourns this out loud.
-Admitting that the current version might be less alive than the past is intolerable.
-In psychology, disenfranchised grief is a loss you aren't allowed to acknowledge.
-So the legacy gets commodified into a myth that bears no resemblance to reality.
+This isn't about blame. It's about blindness.
+In neurology, phantom limb syndrome occurs when the brain continues to sense a limb that's been amputated. The signals are real, the pain is real, but what they reference no longer exists.
+Organizational legacy denial is the same. The company still flinches from a wound that closed years ago.
+The failed merger shapes every partnership negotiation. The toxic CEO who left in 2018 still determines who's allowed to challenge authority.
+The limb is gone. The wiring hasn't updated.
 
-Ask the person with the longest tenure:
-"What did we lose when we grew up?"
-If the answer makes you uncomfortable, you've found the ghost in the machine.
+Find the oldest scar in your organization's history that nobody discusses.
+Bring it up in your next leadership meeting. Not to assign blame.
+Just ask: "What did we learn from this that we're still not applying?"
+The resistance you feel is proportional to the lesson's value.
 
-That untended grief has a name. #Legacy #Denial.
+That erasure has a name. #Legacy #Denial.
 And once you see it, you can't unsee it.
+---
 
+> 📜 *"தன்குற்றம் நீக்கிப் பிறர்குற்றங் காண்கிற்பின்*
+> *என்குற்ற மாகும் இறைக்கு."* — குறள் 436
+>
+> *"Remove your own faults before seeking others'; that is the mark of a true leader."*
+>
+> ↳ Before an organization can move forward, it must face the faults it buried.
 ---
 
 ## The Untie

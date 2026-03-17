@@ -27,9 +27,9 @@ const REPO_ROOT = path.resolve(__dirname, '../../../');
 const POSTS_BASE = path.join(REPO_ROOT, '5-text/posts/108-knots-organisations-2026');
 const STORIES_DIR = path.join(POSTS_BASE, 'stories');
 
-const API_KEY = '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';
+const API_KEY = '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';
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
-const MODEL = 'z-ai/glm-5';
+const MODEL = 'nvidia/nemotron-3-super-120b-a12b:free';
 
 const SERIES_MAP = {
   1: 'identity', 2: 'culture', 3: 'trust',
@@ -219,9 +219,32 @@ function callOpenRouter(systemPrompt, userPrompt) {
         try {
           const json = JSON.parse(data);
           const msg = json.choices?.[0]?.message || {};
-          const content = (msg.content || '').trim();
+          let content = (msg.content || '').trim();
           
           if (!content) {
+            // Nemotron sometimes puts everything in reasoning.
+            let reasoning = msg.reasoning || '';
+            if (!reasoning && msg.reasoning_details) {
+               reasoning = msg.reasoning_details.map(d => d.text || '').join('\n');
+            }
+            if (reasoning) {
+               // Extract the final draft. It usually appears at the end.
+               // It's bounded by 5 paragraphs and ends with "unsee it" or similar.
+               content = reasoning; 
+               // Try to strip out the thinking trace if we see clear markers
+               const outputMarkers = ["Thus final output:", "Here is the final story:", "Final draft:", "Let's write."];
+               for (const marker of outputMarkers) {
+                 const idx = content.lastIndexOf(marker);
+                 if (idx !== -1) {
+                   content = content.substring(idx + marker.length).trim();
+                   break;
+                 }
+               }
+            }
+          }
+
+          if (!content) {
+            console.log("RAW JSON:", JSON.stringify(msg, null, 2));
             reject(new Error(`Empty content from ${MODEL}`));
           } else {
             resolve(content);
@@ -362,11 +385,10 @@ if (args.includes('--all')) {
     for (let i = start; i <= end; i++) {
       const success = await generateOne(i, force);
       if (success) ok++; else fail++;
-      if (i < end) await sleep(1500);
+      if (i < end || s < 9) await sleep(60000); // 1 MINUTE delay
     }
     totalOk += ok; totalFail += fail;
     console.log(`  → ${ok} ✅  ${fail} ❌`);
-    if (s < 9) await sleep(3000);
   }
 
   console.log(`\n  ═══ ALL DONE: ${totalOk} ✅  ${totalFail} ❌ ═══\n`);

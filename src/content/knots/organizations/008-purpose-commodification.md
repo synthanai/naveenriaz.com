@@ -18,28 +18,40 @@ next_knot: "organizations/009-vision-inflation"
 next_knot_title: "vision inflation"
 ---
 
-You know your company's purpose statement.
-It sounds like: "Empowering people to reach their highest potential."
-It's smooth. It's inoffensive. It's completely empty.
-You read it and feel absolutely nothing.
+Speak words that serve a purpose. Never speak words that serve none.
+Valluvar's standard for speech is razor-sharp: does it serve, or is it noise?
+Apply that test to your company's purpose statement.
+Read it slowly. Does it serve anyone? Does it commit to anything a competitor wouldn't also claim?
+"We exist to create innovative solutions that empower our customers."
+That sentence serves no purpose. It could belong to any company on the planet. Which means it belongs to none.
 
-I've been in the room when those statements get written.
-The original purpose was probably raw, specific, and angry.
-"We started this because the existing software was garbage."
-Then marketing polished it until it could apply to a gym, a bank, or a bakery.
+I watched a purpose get softened to death.
+The original was specific, uncomfortable, and true: "We make regulatory compliance simple for small businesses that can't afford legal teams."
+By the time marketing, legal, investor relations, and the board had each taken a pass, it became: "We empower businesses to thrive in a complex world."
+Everyone approved it. Nobody believed it.
+The sharpness that made it real was exactly what made it scary. And scary doesn't poll well.
 
-This is what happens when meaning meets the mass market.
-The words are correct, but the soul has been sanitized out of them.
-In data science, this is called aggressive smoothing:
-You remove all the outliers to make a perfect curve, but you lose the actual signal.
+This is what happens when purpose becomes a product.
+In data science, aggressive smoothing is a technique where you average out the noise in a dataset. Useful in moderation. Lethal in excess.
+Smooth too hard, and you don't just remove noise, you remove the signal itself.
+The peaks and valleys that made the data meaningful get flattened into a line that means nothing.
+Commodified purpose is aggressively smoothed purpose: stripped of every edge that might offend, challenge, or exclude, until what remains is perfectly inoffensive and perfectly meaningless.
 
-Ask your frontline employees why they show up.
-Not the tagline. Their actual Tuesday morning reason.
-That specific, unpolished truth is the only purpose you have left.
+Ask your frontline employees why they show up on a Tuesday morning.
+Not the tagline. Not the careers page. Their actual, unpolished, specific reason.
+That raw, unglamorous truth is probably the only real purpose you have left.
+Write it down. Compare it to the official version. Notice which one you believe.
 
 That hollowness has a name. #Purpose #Commodification.
 And once you see it, you can't unsee it.
+---
 
+> 📜 *"சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க*
+> *சொல்லிற் பயனிலாச் சொல்."* — குறள் 200
+>
+> *"Speak words that serve a purpose; never speak words that serve none."*
+>
+> ↳ When purpose is smoothed for mass appeal, the words serve nobody.
 ---
 
 ## The Untie

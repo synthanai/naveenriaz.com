@@ -25,7 +25,7 @@ const REPO_ROOT = path.resolve(__dirname, '../../../');
 const POSTS_BASE = path.join(REPO_ROOT, '5-text/posts/108-knots-organisations-2026');
 const ALL_CARDS = path.join(POSTS_BASE, 'cards/all-cards.html');
 
-const API_KEY = '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';
+const API_KEY = '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';
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 const MODEL = 'z-ai/glm-5';
 

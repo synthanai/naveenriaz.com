@@ -16,29 +16,37 @@ next_knot: "organizations/002-identity-mimicry"
 next_knot_title: "identity mimicry"
 ---
 
-You know what happens to the mission statement.
-First it's on a poster. Then it's in an onboarding deck.
-Then it's nowhere.
+No greater ruin than forgetting.
+Valluvar wrote that line two thousand years ago about virtue, but he could have been sitting in your quarterly planning meeting.
+Because that's exactly what happens to purpose. Nobody destroys it. Nobody votes it out. Everybody just forgets to mention it, one Monday at a time, until the mission statement is just a sentence on a wall that nobody reads.
 
 I spent sixteen years at the same company.
-Somewhere around year eleven, I stopped being able to answer: why are we here?
-Not the investor pitch. The actual reason.
-I had helped build it, and I still forgot it.
+Somewhere around year eleven, I stopped being able to recite our purpose without checking the intranet.
+Not the investor pitch. Not the tagline. The actual reason we existed.
+I had helped write the original version. I still forgot it.
+The worst part: nobody noticed I'd forgotten, because nobody was asking.
 
-It didn't vanish in a crisis. It just thinned out.
-One "let's be practical" at a time.
-In Tamil, we call this "marappu."
-The forgetting that happens from busyness, not negligence.
-It's what happens when the noise of execution drowns the signal of intent.
+It didn't vanish in a crisis. It thinned out one "let's be practical" at a time.
+In signal processing, this is called attenuation: a signal that weakens not because something blocks it, but because nothing amplifies it.
+The frequency is still there, technically. But the power drops below the noise floor.
+Every meeting that skipped the "why" was another decibel lost.
+Eventually, the purpose signal was still transmitting, but nobody could hear it over the operational noise.
 
-Try this in your next 1-on-1 with a new hire.
-Don't ask them what their goals are.
+Try this in your next one-on-one with a new hire.
+Don't ask them what their goals are. Don't ask about their role.
 Ask them: "why does this team exist?"
-Watch them struggle to find the words.
+Watch their face before they answer. That pause tells you everything.
 
-That silence isn't their fault. It has a name. #Purpose #Amnesia.
+That silence has a name. #Purpose #Amnesia.
 And once you see it, you can't unsee it.
+---
 
+> 📜 *"அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை*
+> *மறத்தலின் ஊங்கில்லை கேடு."* — குறள் 32
+>
+> *"No greater gain than virtue; no greater ruin than forgetting it."*
+>
+> ↳ Purpose forgotten is virtue abandoned.
 ---
 
 ## The Untie

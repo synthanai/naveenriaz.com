@@ -18,32 +18,40 @@ next_knot: "organizations/006-legacy-denial"
 next_knot_title: "legacy denial"
 ---
 
-You know the original mission statement.
-It's still on the website. Nobody changed it.
-But somehow, "democratize education" became "provide scalable learning solutions."
-Same org. Same URL. Different soul.
+Think well before acting. To deliberate after deciding is a failure.
+Valluvar's warning cuts both ways. Yes, decide with clarity. But what about the decisions that were never revisited?
+You've seen the quarterly priorities shift.
+Q1 was about customer experience. Q2 became cost reduction. Q3 pivoted to market expansion.
+Nobody announced a change in mission. Nobody had to.
+The mission didn't change. It just stopped being the thing that decisions were measured against.
 
 I've watched this happen from the inside.
-There's no dramatic moment where someone formally abandons the mission.
-It happens one "yes" at a time.
-Each yes is small. Each yes is reasonable.
-But nobody is tracking what you stopped protecting.
-Each pivot looks reasonable in isolation.
-Zoom out five years, and you're on a different continent.
+I helped build a product team that started with a clear mandate: make the onboarding experience effortless.
+Two years later, we were building features for an enterprise client who threatened to leave.
+The mission hadn't been revoked. It had been outbid.
+Every time revenue pulled us sideways, I told myself it was temporary. It never was.
 
-This isn't a pivot. It's drift.
-And drift, unlike a pivot, has no strategy behind it.
-In nautical terms, it's called leeway:
-The sideways movement of a ship caused by the wind, despite where the bow is pointing.
-The noise of the market pushes you off course while you stare at the compass.
+Drift isn't dramatic. It's gravitational.
+In astronomy, orbital decay happens when an object loses energy to friction so gradually that no single moment looks like the problem.
+The satellite doesn't crash. It just spirals inward, one undetectable degree at a time.
+By the time you notice the altitude dropping, the trajectory is already locked.
+Mission drift works the same way: no one decides to abandon the mission. A hundred small, reasonable compromises decide for you.
 
-Look at your calendar for the last two weeks.
-Find the meetings taking up the most time.
-If you mapped those meetings to your mission statement, what story would they tell?
+Pull up your company's founding documents or earliest pitch deck.
+Compare the purpose stated there to this quarter's top three priorities.
+Measure the distance honestly.
+If you can't draw a clean line from what you're building this month to why you started, the drift has already won.
 
-That silent departure has a name. #Mission #Drift.
+That distance has a name. #Mission #Drift.
 And once you see it, you can't unsee it.
+---
 
+> 📜 *"எண்ணித் துணிக கருமம் துணிந்தபின்*
+> *எண்ணுவம் என்பது இழுக்கு."* — குறள் 467
+>
+> *"Think well before acting; to deliberate after deciding is a failure."*
+>
+> ↳ Mission drift is the failure of never re-examining the original decision.
 ---
 
 ## The Untie
