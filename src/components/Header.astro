@@ -165,15 +165,33 @@ const navItems = [
     text-decoration: none;
     position: relative;
     background: transparent;
-    border: 4px solid var(--tab-color);
-    border-top: none;
+    border: none;
     color: var(--tab-color);
     padding: 0.45rem 0 0.8rem;
     border-radius: 0 0 50% 50%;
     margin: 4px;
+    isolation: isolate;
     transition:
       background var(--transition-base),
       transform var(--transition-base);
+  }
+
+  /* Shared swoosh curve via mask pseudo-element */
+  .swoosh-tab::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 4px;
+    background: var(--tab-color);
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+    z-index: -1;
+    clip-path: inset(4px 0 0 0);
   }
 
   .swoosh-tab:hover {
@@ -186,27 +204,9 @@ const navItems = [
     background: rgba(255, 255, 255, 0.05);
   }
 
-  /* Pulse tab: MBS tri-color gradient via mask (border-image kills border-radius) */
-  .swoosh-tab--pulse {
-    border-color: transparent;
-    isolation: isolate;
-  }
-
+  /* Pulse tab: override with MBS gradient */
   .swoosh-tab--pulse::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    border-radius: inherit;
-    padding: 4px;
     background: var(--mbs-gradient);
-    -webkit-mask:
-      linear-gradient(#fff 0 0) content-box,
-      linear-gradient(#fff 0 0);
-    -webkit-mask-composite: xor;
-    mask-composite: exclude;
-    pointer-events: none;
-    z-index: -1;
-    clip-path: inset(4px 0 0 0);
   }
 
   .swoosh-tab--pulse .swoosh-label {
