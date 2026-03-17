@@ -109,6 +109,81 @@ const accentColor = seriesColors[series] || "var(--accent)";
         <slot />
       </section>
 
+      <script>
+        // Enhance the Untie section into a visual process pipeline
+        const stepMeta: Record<string, { icon: string; color: string; label: string }> = {
+          'uproot': { icon: '🔍', color: 'soul', label: 'Diagnose' },
+          'navigate': { icon: '🧭', color: 'soul-light', label: 'Direction' },
+          'tool': { icon: '🔧', color: 'mind', label: 'Framework' },
+          'implement': { icon: '⚡', color: 'body', label: 'Action' },
+          'emerge': { icon: '🌱', color: 'emerge', label: 'Outcome' },
+        };
+
+        document.addEventListener('DOMContentLoaded', () => {
+          const body = document.querySelector('.knot-body');
+          if (!body) return;
+
+          // Find "The Untie" heading
+          const h2s = body.querySelectorAll('h2');
+          let untieH2: Element | null = null;
+          h2s.forEach(h => {
+            if (h.textContent?.trim().toLowerCase().includes('untie')) untieH2 = h;
+          });
+          if (!untieH2) return;
+
+          // Collect all siblings after the Untie heading
+          const siblings: Element[] = [];
+          let el = (untieH2 as Element).nextElementSibling;
+          while (el) {
+            siblings.push(el);
+            el = el.nextElementSibling;
+          }
+
+          // Build pipeline container
+          const pipeline = document.createElement('div');
+          pipeline.className = 'untie-pipeline';
+
+          let currentStep: HTMLElement | null = null;
+
+          for (const sib of siblings) {
+            const strong = sib.querySelector('strong:first-child');
+            const text = strong?.textContent?.trim().toLowerCase() || '';
+            const meta = stepMeta[text];
+
+            if (strong && sib.children.length === 1 && strong === sib.firstElementChild && meta) {
+              // This is a step header
+              currentStep = document.createElement('div');
+              currentStep.className = `untie-step untie-step--${meta.color}`;
+
+              const header = document.createElement('div');
+              header.className = 'untie-step__header';
+              header.innerHTML = `
+                <span class="untie-step__icon">${meta.icon}</span>
+                <span class="untie-step__name">${strong.textContent?.trim()}</span>
+                <span class="untie-step__label">${meta.label}</span>
+              `;
+              currentStep.appendChild(header);
+              pipeline.appendChild(currentStep);
+            } else if (currentStep) {
+              // Step body paragraph
+              const bodyDiv = document.createElement('div');
+              bodyDiv.className = 'untie-step__body';
+              bodyDiv.innerHTML = sib.innerHTML;
+              currentStep.appendChild(bodyDiv);
+              currentStep = null; // Reset after body collected
+            }
+          }
+
+          // Replace original content with pipeline
+          if (pipeline.children.length > 0) {
+            // Remove old siblings
+            siblings.forEach(s => s.remove());
+            // Insert pipeline after the heading
+            (untieH2 as Element).after(pipeline);
+          }
+        });
+      </script>
+
       <!-- Navigation: Prev / Index / Next -->
       <nav class="knot-nav">
         <div class="knot-nav-links">
@@ -256,6 +331,180 @@ const accentColor = seriesColors[series] || "var(--accent)";
     border: none;
     border-top: 1px solid rgba(255, 255, 255, 0.06);
     margin: var(--space-3xl) 0;
+  }
+
+  /* ═══════════════════════════════════════════════════
+     THE UNTIE: Visual Process Pipeline
+     5 steps: Uproot → Navigate → Tool → Implement → Emerge
+     ═══════════════════════════════════════════════════ */
+
+  /* Untie section header */
+  .knot-body :global(h2:last-of-type) {
+    font-family: var(--font-heading);
+    font-size: 1.6rem;
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: 0.06em;
+    margin-top: var(--space-4xl);
+    margin-bottom: var(--space-2xl);
+    padding-bottom: var(--space-md);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.06);
+    background: linear-gradient(90deg, var(--soul-color), var(--mind-color), var(--body-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* ── Pipeline Container ── */
+  .knot-body :global(.untie-pipeline) {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    position: relative;
+    padding-left: 32px;
+  }
+
+  /* Vertical connector line */
+  .knot-body :global(.untie-pipeline)::before {
+    content: '';
+    position: absolute;
+    left: 11px;
+    top: 16px;
+    bottom: 16px;
+    width: 2px;
+    background: linear-gradient(
+      180deg,
+      var(--soul-color) 0%,
+      var(--soul-color) 40%,
+      var(--mind-color) 60%,
+      var(--body-color) 100%
+    );
+    opacity: 0.25;
+    border-radius: 1px;
+  }
+
+  /* ── Step Container ── */
+  .knot-body :global(.untie-step) {
+    position: relative;
+    padding: var(--space-md) 0;
+    animation: untie-fade-in 0.4s ease both;
+  }
+
+  .knot-body :global(.untie-step:nth-child(1)) { animation-delay: 0.1s; }
+  .knot-body :global(.untie-step:nth-child(2)) { animation-delay: 0.2s; }
+  .knot-body :global(.untie-step:nth-child(3)) { animation-delay: 0.3s; }
+  .knot-body :global(.untie-step:nth-child(4)) { animation-delay: 0.4s; }
+  .knot-body :global(.untie-step:nth-child(5)) { animation-delay: 0.5s; }
+
+  @keyframes untie-fade-in {
+    from { opacity: 0; transform: translateX(-8px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+
+  /* ── Step Header ── */
+  .knot-body :global(.untie-step__header) {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 6px;
+    position: relative;
+  }
+
+  .knot-body :global(.untie-step__icon) {
+    position: absolute;
+    left: -32px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    background: var(--bg-primary, #0a0a0a);
+    border-radius: 50%;
+    z-index: 1;
+  }
+
+  .knot-body :global(.untie-step__name) {
+    font-family: var(--font-heading);
+    font-size: 0.95rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .knot-body :global(.untie-step__label) {
+    font-family: var(--font-label);
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    opacity: 0.4;
+    padding: 2px 8px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.04);
+  }
+
+  /* ── Step Body ── */
+  .knot-body :global(.untie-step__body) {
+    font-size: 0.92rem;
+    line-height: 1.75;
+    color: var(--text-secondary);
+    padding-left: 0;
+    padding-bottom: var(--space-sm);
+  }
+
+  /* ═══ Per-Step Color Variants ═══ */
+
+  /* Uproot: Soul gold */
+  .knot-body :global(.untie-step--soul .untie-step__name) {
+    color: var(--soul-color);
+  }
+  .knot-body :global(.untie-step--soul .untie-step__icon) {
+    border: 2px solid var(--soul-color);
+    box-shadow: 0 0 8px rgba(212, 168, 67, 0.15);
+  }
+
+  /* Navigate: Soul gold (lighter) */
+  .knot-body :global(.untie-step--soul-light .untie-step__name) {
+    color: var(--soul-color);
+    opacity: 0.8;
+  }
+  .knot-body :global(.untie-step--soul-light .untie-step__icon) {
+    border: 2px solid var(--soul-color);
+    opacity: 0.7;
+  }
+
+  /* Tool: Mind blue */
+  .knot-body :global(.untie-step--mind .untie-step__name) {
+    color: var(--mind-color);
+  }
+  .knot-body :global(.untie-step--mind .untie-step__icon) {
+    border: 2px solid var(--mind-color);
+    box-shadow: 0 0 8px rgba(40, 116, 166, 0.15);
+  }
+
+  /* Implement: Body green */
+  .knot-body :global(.untie-step--body .untie-step__name) {
+    color: var(--body-color);
+  }
+  .knot-body :global(.untie-step--body .untie-step__icon) {
+    border: 2px solid var(--body-color);
+    box-shadow: 0 0 8px rgba(39, 174, 96, 0.15);
+  }
+
+  /* Emerge: Gradient glow */
+  .knot-body :global(.untie-step--emerge .untie-step__name) {
+    background: linear-gradient(90deg, var(--soul-color), var(--mind-color), var(--body-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .knot-body :global(.untie-step--emerge .untie-step__icon) {
+    border: 2px solid var(--body-color);
+    box-shadow:
+      0 0 6px rgba(212, 168, 67, 0.12),
+      0 0 6px rgba(40, 116, 166, 0.12),
+      0 0 6px rgba(39, 174, 96, 0.12);
   }
 
   /* ── Navigation ──────────────────────────────── */
