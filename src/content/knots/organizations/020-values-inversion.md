@@ -1,0 +1,70 @@
+---
+title: values-inversion
+knot_number: 20
+domain: organizations
+series: culture
+series_number: 2
+slug_name: values-inversion
+date: 2026-03-17
+description: "Some appear bright as the crab's-eye seed outside, but inside they are black as ..."
+punch_line_1: "Some appear bright as the crab's-eye seed outside, but inside they are black as its core."
+punch_line_2: "Declared values are the bright exterior. The budget is the dark core that reveals the truth."
+felt_hook: "The values and the budget are telling two different stories. Only one of them is true."
+kural_tamil: "புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி\nமுக்கிற் கரியா ருடைத்து."
+kural_translation: "Some appear bright as the crab's-eye seed outside, but inside they are black as its core."
+kural_number: 277
+kural_bridge: "Declared values are the bright exterior. The budget is the dark core that reveals the truth."
+prev_knot: "organizations/019-fear-culture"
+prev_knot_title: "Fear Culture"
+next_knot: "organizations/021-meeting-toxicity"
+next_knot_title: "Meeting Toxicity"
+---
+
+Some appear bright as the crab's-eye seed outside, but inside they are black as its core.
+Valluvar's image is precise: a seed that's red on the surface and black at the center. Beautiful contradiction. Invisible dishonesty.
+Your organization's values poster says "people first."
+Your Q3 budget cut training, froze hiring, and reduced the wellness benefit. But the C-suite retreat in Bali? That survived every round of cuts.
+The values and the budget are telling two different stories. Only one of them is true.
+
+I helped write a "People First" strategy deck.
+The same month, I approved a restructure that eliminated the only team focused on employee development. The justification was clean: "strategic realignment."
+The real reason: their budget was easier to cut than any client-facing function.
+I didn't feel like a hypocrite at the time. The logic was sound. The numbers made sense.
+It took a year to realize that "people first" meant "people first, unless something more measurable needs the budget."
+
+The real values aren't on the wall. They're in the spreadsheet.
+In cartography, a map-territory mismatch occurs when the map says one thing and the terrain says another. A road marked as open is actually flooded. A shortcut marked as safe leads to a cliff.
+Anyone trusting the map alone will get lost.
+Organizational values work the same way: the espoused values are the map. The funded behaviors are the territory.
+Every time the budget contradicts the poster, employees learn to trust the territory and ignore the map.
+Eventually, nobody reads the map at all.
+
+Pull up your values statement and your budget side by side.
+For each stated value, find the line item that funds it.
+If "innovation" has no R&D budget, if "wellbeing" has no mental health spend, if "growth" has no learning allocation,
+then your values aren't inverted by accident. They're inverted by spreadsheet.
+
+That contradiction has a name. #Values #Inversion.
+And once you see it, you can't unsee it.
+
+## Untie The Knot
+
+**Uproot**
+
+The values were written during a founding moment of genuine intention. But the budget was written during a moment of scarcity. Over time, the budget won. Nobody noticed the inversion because the poster stayed on the wall even as the budget moved beneath it.
+
+**Navigate**
+
+Every stated value has a corresponding budget line. If the value is "people first," the learning and development budget reflects it. If the value is "innovation," the R&D spend confirms it.
+
+**Tool**
+
+CORE / Reason: the alignment diagnostic that tests whether declared values are funded values. CORE makes the map-territory gap measurable.
+
+**Implement**
+
+Pull up your values statement and your last budget side by side. For each value, find the line item that funds it. If the line item doesn't exist, the value is fiction.
+
+**Emerge**
+
+When values and budgets align, hiring decisions become clearer, strategic choices have natural filters, and "culture fit" stops being a feeling and starts being a fact.
