@@ -25,4 +25,27 @@ const collisions = defineCollection({
   }),
 });
 
-export const collections = { collisions };
+const knots = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    knot_number: z.number(),
+    domain: z.string(),
+    series: z.string(),
+    series_number: z.number(),
+    slug_name: z.string(),
+    date: z.coerce.date(),
+    description: z.string(),
+    punch_line_1: z.string(),
+    punch_line_2: z.string(),
+    felt_hook: z.string().optional(),
+    emotion_target: z.string().optional(),
+    never_say: z.array(z.string()).optional(),
+    prev_knot: z.string().optional(),
+    prev_knot_title: z.string().optional(),
+    next_knot: z.string().optional(),
+    next_knot_title: z.string().optional(),
+  }),
+});
+
+export const collections = { collisions, knots };

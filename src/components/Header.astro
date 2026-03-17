@@ -9,11 +9,41 @@ const parentMap: Record<string, string> = {};
 const resolvedNav = parentMap[activeNav ?? ""] ?? activeNav;
 
 const navItems = [
-  { label: "Think", href: "/think/", id: "think", color: "var(--mind-color)" },
-  { label: "Play", href: "/play/", id: "play", color: "var(--soul-color)" },
-  { label: "Work", href: "/work/", id: "work", color: "var(--body-color)" },
-  { label: "Pulse", href: "/pulse/", id: "pulse", color: "var(--accent, #f59e0b)" },
-  { label: "Vibe", href: "/vibe/", id: "vibe", color: "var(--text-primary)" },
+  {
+    label: "Think",
+    href: "/think/",
+    id: "think",
+    color: "var(--mind-color)",
+    icon: "💡",
+  },
+  {
+    label: "Play",
+    href: "/play/",
+    id: "play",
+    color: "var(--soul-color)",
+    icon: "✨",
+  },
+  {
+    label: "Work",
+    href: "/work/",
+    id: "work",
+    color: "var(--body-color)",
+    icon: "⚡",
+  },
+  {
+    label: "Vibe",
+    href: "/vibe/",
+    id: "vibe",
+    color: "var(--text-primary)",
+    icon: "🎯",
+  },
+  {
+    label: "Pulse",
+    href: "/pulse/",
+    id: "pulse",
+    color: "var(--accent, #f59e0b)",
+    icon: "📡",
+  },
 ];
 ---
 
@@ -56,62 +86,38 @@ const navItems = [
       <span class="about-initials">NR</span>
     </a>
   </div>
-
-  <!-- Mobile -->
-  <button
-    class="mobile-menu-btn"
-    aria-label="Toggle menu"
-    aria-expanded="false"
-    id="mobile-menu-toggle"
-  >
-    <span></span>
-    <span></span>
-    <span></span>
-  </button>
-
-  <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
-    <ul class="mobile-nav-list">
-      {
-        navItems.map((item) => (
-          <li>
-            <a
-              href={item.href}
-              class:list={[
-                "mobile-nav-link",
-                `mobile-nav-link--${item.id}`,
-                { active: resolvedNav === item.id },
-              ]}
-              style={`--tab-color: ${item.color};`}
-            >
-              {item.label}
-            </a>
-          </li>
-        ))
-      }
-      <li>
-        <a
-          href="/about/"
-          class:list={["mobile-nav-link", { active: resolvedNav === "about" }]}
-        >
-          About
-        </a>
-      </li>
-    </ul>
-  </nav>
 </header>
 
-<script>
-  const toggle = document.getElementById("mobile-menu-toggle");
-  const nav = document.getElementById("mobile-nav");
-  const header = document.getElementById("site-header");
-
-  toggle?.addEventListener("click", () => {
-    const expanded = toggle.getAttribute("aria-expanded") === "true";
-    toggle.setAttribute("aria-expanded", String(!expanded));
-    nav?.classList.toggle("open");
-    header?.classList.toggle("menu-open");
-  });
-</script>
+<!-- Mobile bottom tab bar (always visible on mobile) -->
+<nav class="mobile-tab-bar" id="mobile-tab-bar" aria-label="Mobile navigation">
+  <a href="/" class="mob-tab mob-tab--home" aria-label="Home">
+    <img src="/logo.svg" width="20" height="20" alt="" aria-hidden="true" />
+    <span>Home</span>
+  </a>
+  {
+    navItems.map((item) => (
+      <a
+        href={item.href}
+        class:list={[
+          "mob-tab",
+          `mob-tab--${item.id}`,
+          { active: resolvedNav === item.id },
+        ]}
+        style={`--tab-color: ${item.color};`}
+      >
+        <span class="mob-icon">{item.icon}</span>
+        <span>{item.label}</span>
+      </a>
+    ))
+  }
+  <a
+    href="/about/"
+    class:list={["mob-tab mob-tab--about", { active: resolvedNav === "about" }]}
+  >
+    <span class="mob-icon">👤</span>
+    <span>About</span>
+  </a>
+</nav>
 
 <style>
   .site-header {
@@ -144,14 +150,13 @@ const navItems = [
     opacity: 0.8;
   }
 
-  /* Swoosh nav: 4 tabs fill remaining width */
+  /* Swoosh nav: tabs fill remaining width */
   .swoosh-nav {
     flex: 1;
     display: flex;
     gap: 0;
   }
 
-  /* Each tab: outline only, no fill */
   .swoosh-tab {
     flex: 1;
     display: flex;
@@ -189,7 +194,7 @@ const navItems = [
     color: var(--tab-color);
   }
 
-  /* NR avatar (About link, right side) */
+  /* NR avatar */
   .header-about {
     display: flex;
     align-items: center;
@@ -230,90 +235,82 @@ const navItems = [
     color: var(--text-primary);
   }
 
-  /* Mobile menu button */
-  .mobile-menu-btn {
+  /* ── Mobile Bottom Tab Bar ────────────────────── */
+  .mobile-tab-bar {
     display: none;
-    position: absolute;
-    top: 12px;
-    right: 16px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 200;
+    background: var(--bg-primary);
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 6px 4px;
+    padding-bottom: calc(6px + env(safe-area-inset-bottom, 0px));
+  }
+
+  .mob-tab {
+    flex: 1;
+    display: flex;
     flex-direction: column;
-    gap: 5px;
-    padding: 4px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    z-index: 101;
-  }
-
-  .mobile-menu-btn span {
-    display: block;
-    width: 22px;
-    height: 2px;
-    border-radius: 1px;
-    transition: all var(--transition-fast);
-  }
-
-  .mobile-menu-btn span:nth-child(1) {
-    background: var(--mind-color);
-  }
-  .mobile-menu-btn span:nth-child(2) {
-    background: var(--body-color);
-  }
-  .mobile-menu-btn span:nth-child(3) {
-    background: var(--soul-color);
-  }
-
-  .site-header.menu-open .mobile-menu-btn span:nth-child(1) {
-    transform: rotate(45deg) translate(5px, 5px);
-  }
-  .site-header.menu-open .mobile-menu-btn span:nth-child(2) {
-    opacity: 0;
-  }
-  .site-header.menu-open .mobile-menu-btn span:nth-child(3) {
-    transform: rotate(-45deg) translate(5px, -5px);
-  }
-
-  /* Mobile nav */
-  .mobile-nav {
-    display: none;
-    background: var(--bg-secondary);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
-  }
-
-  .mobile-nav.open {
-    display: block;
-  }
-
-  .mobile-nav-list {
-    list-style: none;
-    padding: var(--space-md) var(--space-xl);
-  }
-
-  .mobile-nav-link {
-    display: block;
-    padding: var(--space-sm) 0;
-    font-family: var(--font-heading);
-    font-size: 1rem;
+    align-items: center;
+    gap: 2px;
+    text-decoration: none;
+    font-family: var(--font-label);
+    font-size: 0.6rem;
     font-weight: 600;
-    color: var(--text-muted);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    letter-spacing: 0.02em;
+    color: rgba(255, 255, 255, 0.4);
+    padding: 4px 0;
     transition: color var(--transition-fast);
   }
 
-  .mobile-nav-link:hover,
-  .mobile-nav-link.active {
+  .mob-tab:hover,
+  .mob-tab.active {
     color: var(--tab-color, var(--accent));
+    text-decoration: none;
+  }
+
+  .mob-tab--home {
+    --tab-color: var(--accent);
+  }
+
+  .mob-tab--about {
+    --tab-color: var(--text-primary);
+  }
+
+  .mob-icon {
+    font-size: 1.1rem;
+    line-height: 1;
+  }
+
+  .mob-tab img {
+    opacity: 0.4;
+    transition: opacity var(--transition-fast);
+  }
+
+  .mob-tab:hover img,
+  .mob-tab.active img {
+    opacity: 1;
   }
 
   @media (max-width: 768px) {
-    .swoosh-nav {
+    .swoosh-nav,
+    .header-about {
       display: none;
     }
-    .mobile-menu-btn {
-      display: flex;
-    }
+
     .header-inner {
       justify-content: center;
+    }
+
+    .mobile-tab-bar {
+      display: flex;
+    }
+
+    /* Push footer above the mobile tab bar */
+    .site-footer {
+      margin-bottom: 64px;
     }
   }
 </style>
