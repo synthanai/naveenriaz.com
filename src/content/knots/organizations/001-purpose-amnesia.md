@@ -21,7 +21,7 @@ next_knot_title: "identity mimicry"
 ---
 
 No greater ruin than forgetting.
-Valluvar wrote that line two thousand years ago about virtue, but he could have been sitting in your quarterly planning meeting.
+Thiruvalluvar wrote that line two thousand years ago about virtue, but he could have been sitting in your quarterly planning meeting.
 Because that's exactly what happens to purpose. Nobody destroys it. Nobody votes it out. Everybody just forgets to mention it, one Monday at a time, until the mission statement is just a sentence on a wall that nobody reads.
 
 I spent sixteen years at the same company.

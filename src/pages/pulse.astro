@@ -48,37 +48,37 @@ import pulse from "../data/pulse.json";
       <!-- ═══ HEADLINE KPIs ═══ -->
       <section class="pulse-kpis">
         <div class="kpi-card">
-          <span class="kpi-num" style="color: var(--accent);"
+          <span class="kpi-num" style="color: var(--mind-color);"
             >{pulse.pulse.totalCommits.toLocaleString()}</span
           >
           <span class="kpi-label">Commits</span>
         </div>
         <div class="kpi-card">
-          <span class="kpi-num" style="color: var(--body-color);"
+          <span class="kpi-num" style="color: var(--soul-color);"
             >{pulse.pulse.repos}</span
           >
           <span class="kpi-label">Repositories</span>
         </div>
         <div class="kpi-card">
-          <span class="kpi-num" style="color: var(--mind-color);"
+          <span class="kpi-num" style="color: var(--body-color);"
             >{pulse.pulse.researchFiles.toLocaleString()}</span
           >
           <span class="kpi-label">Research Files</span>
         </div>
         <div class="kpi-card">
-          <span class="kpi-num" style="color: var(--soul-color);"
+          <span class="kpi-num" style="color: var(--mind-color);"
             >{pulse.pulse.knowledgeItems}</span
           >
           <span class="kpi-label">Knowledge Items</span>
         </div>
         <div class="kpi-card">
-          <span class="kpi-num" style="color: var(--body-color);"
+          <span class="kpi-num" style="color: var(--soul-color);"
             >{pulse.pulse.workflows}</span
           >
           <span class="kpi-label">Workflows</span>
         </div>
         <div class="kpi-card">
-          <span class="kpi-num" style="color: var(--mind-color);"
+          <span class="kpi-num" style="color: var(--body-color);"
             >{pulse.pulse.skills}</span
           >
           <span class="kpi-label">Skills</span>
@@ -92,21 +92,21 @@ import pulse from "../data/pulse.json";
           Three layers, one ecosystem. Every artifact belongs to a layer.
         </p>
         <div class="mbs-grid">
-          <div class="mbs-card mbs-soul">
-            <div class="mbs-icon">🟣</div>
-            <div class="mbs-name">Soul</div>
-            <div class="mbs-desc">Identity, philosophy, governance</div>
-            <div class="mbs-stat">
-              <span class="mbs-num">45%</span>
-              <span class="mbs-sub">delivered</span>
-            </div>
-          </div>
           <div class="mbs-card mbs-mind">
             <div class="mbs-icon">🔵</div>
             <div class="mbs-name">Mind</div>
             <div class="mbs-desc">Research, protocols, intelligence</div>
             <div class="mbs-stat">
               <span class="mbs-num">69%</span>
+              <span class="mbs-sub">delivered</span>
+            </div>
+          </div>
+          <div class="mbs-card mbs-soul">
+            <div class="mbs-icon">🟡</div>
+            <div class="mbs-name">Soul</div>
+            <div class="mbs-desc">Identity, philosophy, governance</div>
+            <div class="mbs-stat">
+              <span class="mbs-num">45%</span>
               <span class="mbs-sub">delivered</span>
             </div>
           </div>
@@ -363,26 +363,26 @@ import pulse from "../data/pulse.json";
   .mbs-soul {
     background: linear-gradient(
       180deg,
-      rgba(192, 132, 252, 0.08),
+      rgba(212, 168, 67, 0.08),
       var(--bg-secondary)
     );
-    border-color: rgba(192, 132, 252, 0.2);
+    border-color: rgba(212, 168, 67, 0.2);
   }
   .mbs-mind {
     background: linear-gradient(
       180deg,
-      rgba(96, 165, 250, 0.08),
+      rgba(40, 116, 166, 0.08),
       var(--bg-secondary)
     );
-    border-color: rgba(96, 165, 250, 0.2);
+    border-color: rgba(40, 116, 166, 0.2);
   }
   .mbs-body {
     background: linear-gradient(
       180deg,
-      rgba(52, 211, 153, 0.08),
+      rgba(39, 174, 96, 0.08),
       var(--bg-secondary)
     );
-    border-color: rgba(52, 211, 153, 0.2);
+    border-color: rgba(39, 174, 96, 0.2);
   }
 
   .mbs-icon {
@@ -417,13 +417,13 @@ import pulse from "../data/pulse.json";
   }
 
   .mbs-soul .mbs-num {
-    color: #c084fc;
+    color: var(--soul-color);
   }
   .mbs-mind .mbs-num {
-    color: #60a5fa;
+    color: var(--mind-color);
   }
   .mbs-body .mbs-num {
-    color: #34d399;
+    color: var(--body-color);
   }
 
   /* ═══ Git Stats ═══ */
@@ -447,7 +447,7 @@ import pulse from "../data/pulse.json";
     font-family: var(--font-heading);
     font-size: 1.6rem;
     font-weight: 800;
-    color: var(--body-color, #34d399);
+    color: var(--body-color);
     letter-spacing: -0.02em;
   }
 
@@ -476,22 +476,24 @@ import pulse from "../data/pulse.json";
     opacity: 0.8;
   }
   .comp-md {
-    background: #60a5fa;
+    background: var(--mind-color);
   }
   .comp-json {
-    background: #fbbf24;
+    background: var(--soul-color);
   }
   .comp-txt {
-    background: #34d399;
+    background: var(--body-color);
   }
   .comp-py {
-    background: #c084fc;
+    background: var(--vibe-color);
+    opacity: 0.7;
   }
   .comp-html {
-    background: #f87171;
+    background: var(--soul-color);
+    opacity: 0.6;
   }
   .comp-other {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.15);
   }
 
   .composition-note {
@@ -507,7 +509,7 @@ import pulse from "../data/pulse.json";
   }
 
   .section-note a {
-    color: var(--body-color, #34d399);
+    color: var(--body-color);
   }
 
   /* ═══ Repo Grid ═══ */
@@ -533,7 +535,7 @@ import pulse from "../data/pulse.json";
   }
 
   .repo-chip:hover {
-    border-color: rgba(52, 211, 153, 0.3);
+    border-color: rgba(39, 174, 96, 0.3);
   }
 
   .repo-dot {
@@ -544,7 +546,7 @@ import pulse from "../data/pulse.json";
   }
 
   .repo-dot--live {
-    background: #34d399;
+    background: var(--body-color);
   }
 
   /* ═══ Knowledge Items ═══ */
