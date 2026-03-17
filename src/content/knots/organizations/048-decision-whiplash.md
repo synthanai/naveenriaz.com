@@ -10,7 +10,7 @@ description: "Perseverance and mature wisdom together extend a legacy...."
 punch_line_1: "Perseverance and mature wisdom together extend a legacy."
 punch_line_2: "Decision whiplash destroys perseverance: when direction reverses without explanation, the team stops building because nothing stays built."
 felt_hook: "So they've stopped committing. Why invest deeply in a direction that might change by Friday?"
-kural_tamil: "ஆள்வினையும் ஆன்ற அறிவும் எனவிரண்டின்\nநீள்வினையான் நீளும் குடி."
+kural_tamil: "ஆபயன் குன்றும் அறுதொழிலோர் நூல்மறப்பர்\nகாவலன் காவான் எனின்."
 kural_translation: "Perseverance and mature wisdom together extend a dynasty's legacy."
 kural_number: 560
 kural_bridge: "Decision whiplash destroys perseverance: when direction reverses without explanation, the team stops building because nothing stays built."

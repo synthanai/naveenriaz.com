@@ -10,7 +10,7 @@ description: "What use is intelligence if one does not feel another's pain as de
 punch_line_1: "What use is intelligence if one does not feel another's pain as deeply as one's own?"
 punch_line_2: "Gossip thrives where empathy fails. When official channels go silent, the whisper network carries what leadership refuses to say."
 felt_hook: "When leadership goes silent, the whisper network fills the void. It's not malicious. It's necessary."
-kural_tamil: "அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய்\nதம்நோய் போல் போற்றாக் கடை."
+kural_tamil: "பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி\nநட்பாடல் தேற்றா தவர்."
 kural_translation: "What use is intelligence if one does not feel another's pain as deeply as one's own?"
 kural_number: 187
 kural_bridge: "Gossip thrives where empathy fails. When official channels go silent, the whisper network carries what leadership refuses to say."

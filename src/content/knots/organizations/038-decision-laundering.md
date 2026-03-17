@@ -10,7 +10,7 @@ description: "All that is desired is achieved if the mind harbors no anger...."
 punch_line_1: "All that is desired is achieved if the mind harbors no anger."
 punch_line_2: "Decision laundering exists because the real decision harbors something the group can't openly acknowledge."
 felt_hook: "The meeting wasn't deliberation. It was ratification. A group of intelligent people performing consensus for a conclusion that one person had already reached."
-kural_tamil: "உள்ளிய தெல்லாம் உடனெய்தும் உள்ளத்தால்\nஉள்ளான் வெகுளி யெனின்."
+kural_tamil: "குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல்\nவடுவன்று வேந்தன் தொழில்."
 kural_translation: "All that is desired is achieved if the mind harbors no anger."
 kural_number: 549
 kural_bridge: "Decision laundering exists because the real decision harbors something the group can't openly acknowledge."

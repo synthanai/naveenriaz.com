@@ -10,7 +10,7 @@ description: "A cruel ruler's realm will collapse under miseries unseen even by 
 punch_line_1: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
 punch_line_2: "Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks."
 felt_hook: "The monitoring saw every keystroke. It didn't see the talent leaving."
-kural_tamil: "கொடுங்கோன்மை வினோக்கும் அல்லற் பொதுவாக வீழும்\nகொடுத்தொருவன் கண்ணிற் தெரியாக் கேடு."
+kural_tamil: "கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்\nகளைகட் டதனொடு நேர்."
 kural_translation: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
 kural_number: 550
 kural_bridge: "Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks."

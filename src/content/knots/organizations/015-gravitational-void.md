@@ -10,7 +10,7 @@ description: "The touchstone of greatness is one's deeds...."
 punch_line_1: "The touchstone of greatness is one's deeds."
 punch_line_2: "Without a gravitational center, deeds scatter. Greatness requires pull."
 felt_hook: "You've felt this. You finish a productive week and still feel empty."
-kural_tamil: "பெருமைக்கும் ஏனைச் சிறுமைக்கும் தத்தம்\nகருமமே கட்டளைக் கல்."
+kural_tamil: "பற்றற்ற கண்ணும் பழைமைபா ராட்டுதல்\nசுற்றத்தார் கண்ணே உள."
 kural_translation: "The touchstone of greatness and smallness alike is one's deeds."
 kural_number: 521
 kural_bridge: "Without a gravitational center, deeds scatter. Greatness requires pull."

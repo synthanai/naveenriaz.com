@@ -10,7 +10,7 @@ description: "The rarest of rare achievements is winning the trust of the great.
 punch_line_1: "The rarest of rare achievements is winning the trust of the great."
 punch_line_2: "Competence doubt is what happens when an organization has the great but refuses to trust them."
 felt_hook: "The system installed the hesitation. The system calls it \"rigor.\""
-kural_tamil: "அரியவற்றுள் எல்லாம் அரிதே பெரியாரைப்\nபேணித் தமராக் கொளல்."
+kural_tamil: "அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்\nஇன்மை அரிதே வெளிறு."
 kural_translation: "The rarest of rare achievements is winning and keeping the trust of the great."
 kural_number: 503
 kural_bridge: "Competence doubt is what happens when an organization has the great but refuses to trust them."

@@ -10,7 +10,7 @@ description: "Fortune abandons the leader who doubts a capable person mid-task..
 punch_line_1: "Fortune abandons the leader who doubts a capable person mid-task."
 punch_line_2: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
 felt_hook: "Shared accountability is diluted accountability. Always."
-kural_tamil: "வினைக்கண் வினையுடையான் கேண்மைவே றாக\nநினைப்பானை நீங்கும் திரு."
+kural_tamil: "வானோக்கி வாழும் உலகெல்லாம் மன்னவன்\nகோல் நோக்கி வாழுங் குடி."
 kural_translation: "Fortune abandons the leader who doubts a capable person in the midst of work."
 kural_number: 542
 kural_bridge: "When accountability is diffused, nobody doubts anyone because nobody owns anything."

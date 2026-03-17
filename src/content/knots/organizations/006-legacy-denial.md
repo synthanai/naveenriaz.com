@@ -12,7 +12,7 @@ punch_line_2: "The efficient machine is running perfectly."
 felt_hook: "Does your official founding story match the one tenured employees tell at dinner? Or are the hard chapters edited out?"
 emotion_target: "Shame: the organizational instinct to hide what is imperfect"
 never_say: ["we've always been", "our journey", "lessons learned (when the lessons were buried)"]
-kural_tamil: "தன்குற்றம் நீக்கிப் பிறர்குற்றங் காண்கிற்பின்\nஎன்குற்ற மாகும் இறைக்கு."
+kural_tamil: "தன்குற்றம் நீக்கிப் பிறர்குற்றங் காண்கிற்பின்\nஎன்குற்ற மாகும் இறைக்கு?"
 kural_translation: "Remove your own faults before seeking others'; that is the mark of a true leader."
 kural_number: 436
 kural_bridge: "Before an organization can move forward, it must face the faults it buried."

@@ -12,7 +12,7 @@ punch_line_2: "The rules are still running the meeting."
 felt_hook: 'Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?'
 emotion_target: "Paralysis: the inability to lead in the present because you are serving the past"
 never_say: ["the founder's vision", "stay true to our roots (when used to block change)"]
-kural_tamil: "படைகுடி கூழ்அமைச்சு நட்பரண் ஆறும்\nஉடையான் அரசருள் ஏறு."
+kural_tamil: "அறனறிந்து மூத்த அறிவுடையார் கேண்மை\nதிறனறிந்து தேர்ந்து கொளல்."
 kural_translation: "The leader who possesses army, people, wealth, counsel, allies, and fortress is a lion among rulers."
 kural_number: 441
 kural_bridge: "The founder built the fortress. The question is whether the walls still protect or imprison."

@@ -10,7 +10,7 @@ description: "An enterprise that destroys its capital while seeking gain is the 
 punch_line_1: "An enterprise that destroys its capital while seeking gain is the death of initiative."
 punch_line_2: "Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment."
 felt_hook: "You left every meeting with more questions, fewer answers, and a follow-up on the calendar."
-kural_tamil: "ஆக்கங் கருதி முதலிழக்கும் செய்வினை\nஊக்கம் அழிப்பது நெடிது."
+kural_tamil: "எண்ணிய எண்ணியாங்கு எய்துவர் எண்ணியார்\nதிண்ணியர் ஆகப் பெறின்."
 kural_translation: "An enterprise that destroys its capital while seeking gain is the death of initiative."
 kural_number: 666
 kural_bridge: "Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment."

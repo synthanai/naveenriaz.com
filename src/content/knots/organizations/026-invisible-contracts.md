@@ -10,7 +10,7 @@ description: "I would conceal this pain, but like spring water for those who dig
 punch_line_1: "I would conceal this pain, but like spring water for those who dig, it only flows more."
 punch_line_2: "Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find."
 felt_hook: "Nobody posted these on a wall. Everyone obeys them."
-kural_tamil: "மறைப்பேன்மன் யானிஃதோ நோயை இறைப்பவர்க்கு\nஊற்றுநீர் போல மிகும்."
+kural_tamil: "மனத்தொடு வாய்மை மொழியின் தவத்தொடு\nதானஞ்செய் வாரின் தலை."
 kural_translation: "I would conceal this pain, but like spring water for those who dig, it only flows more."
 kural_number: 295
 kural_bridge: "Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find."

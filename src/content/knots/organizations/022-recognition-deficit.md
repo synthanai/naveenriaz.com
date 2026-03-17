@@ -10,7 +10,7 @@ description: "The world honors those who do good with grace...."
 punch_line_1: "The world honors those who do good with grace."
 punch_line_2: "The world honors visible grace. Organizations forget the invisible labor that holds them together."
 felt_hook: "The crisis hero gets the award. The quiet builder gets nothing."
-kural_tamil: "நயனொடு நன்றி புரிந்த பயனுடையார்\nபண்புபா ராட்டும் உலகு."
+kural_tamil: "ஆற்றுவார் ஆற்றல் பணிதல் அதுசான்றோர்\nமாற்றாரை மாற்றும் படை."
 kural_translation: "The world honors those who do good with grace and genuine benefit."
 kural_number: 985
 kural_bridge: "The world honors visible grace. Organizations forget the invisible labor that holds them together."

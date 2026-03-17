@@ -12,7 +12,7 @@ punch_line_2: "Nothing is alive."
 felt_hook: "At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow."
 emotion_target: "Grief: the recognition that something essential was lost and nobody mourned it"
 never_say: ["purpose-driven", "core values alignment", "strategic clarity"]
-kural_tamil: "உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது\nதள்ளினும் தள்ளாமை நீர்த்து."
+kural_tamil: "உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது\nதள்ளினுந் தள்ளாமை நீர்த்து."
 kural_translation: "In all you think, think of rising; even if you fail, the aspiration itself ennobles."
 kural_number: 596
 kural_bridge: "A hollow core is what remains when the aspiration to rise has been replaced by the aspiration to grow."

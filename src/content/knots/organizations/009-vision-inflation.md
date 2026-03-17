@@ -12,7 +12,7 @@ punch_line_2: "It's just too far away to matter."
 felt_hook: 'Ask three frontline workers: "How does your work this week connect to our vision?" Do they give a real answer or a rehearsed one?'
 emotion_target: "Cynicism: the distance between the poster and the paycheck"
 never_say: ["moonshot", "change the world", "audacious goals (when disconnected from daily reality)"]
-kural_tamil: "அளவறிந்து வாழாதான் வாழ்க்கை உளபோல\nஇல்லாகித் தோன்றாக் கெடும்."
+kural_tamil: "உளவரை தூக்காத ஒப்புர வாண்மை\nவளவரை வல்லைக் கெடும்."
 kural_translation: "One who does not measure themselves will seem to exist but will vanish without trace."
 kural_number: 480
 kural_bridge: "A vision that outgrows its operational capacity vanishes into irrelevance."

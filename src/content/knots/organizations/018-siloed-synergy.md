@@ -10,7 +10,7 @@ description: "A leader without bold critics will ruin himself, even without enem
 punch_line_1: "A leader without bold critics will ruin himself, even without enemies."
 punch_line_2: "Silos form not from malice but from the absence of friction between groups."
 felt_hook: "Most organizations reward the word. Almost none reward the cost."
-kural_tamil: "இடிப்பாரை இல்லாத ஏமரா மன்னன்\nகெடுப்பா ரிலானும் கெடும்."
+kural_tamil: "காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்\nஅன்னநீ ரார்க்கே உள."
 kural_translation: "A leader without bold critics will ruin himself even without enemies."
 kural_number: 527
 kural_bridge: "Silos form not from malice but from the absence of friction between groups."

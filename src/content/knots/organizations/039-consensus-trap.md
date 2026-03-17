@@ -10,7 +10,7 @@ description: "Pursuing virtue steadily along the right path is the mark of lasti
 punch_line_1: "Pursuing virtue steadily along the right path is the mark of lasting greatness."
 punch_line_2: "Consensus traps virtue into formless agreement. The right path requires someone to choose it, not everyone to agree on it."
 felt_hook: "The difference between alignment and exhaustion is invisible from the outside."
-kural_tamil: "ஆற்றின் அறவினை ஓவாதே செல்லும்\nவழியோர் அறுதியிடப் பாடு."
+kural_tamil: "ஆக்கம் கருதி முதலிழக்கும் செய்வினை\nஊக்கார் அறிவுடை யார்."
 kural_translation: "Pursuing virtue steadily along the right path is the mark of those who achieve lasting greatness."
 kural_number: 463
 kural_bridge: "Consensus traps virtue into formless agreement. The right path requires someone to choose it, not everyone to agree on it."

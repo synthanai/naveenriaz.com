@@ -10,7 +10,7 @@ description: "The land of a ruler who does not seek and administer justice daily
 punch_line_1: "The land of a ruler who does not seek and administer justice daily will perish daily."
 punch_line_2: "Loyalty demanded without justice given is extraction. And extraction leads to daily perishing."
 felt_hook: "Loyalty isn't a tax you collect from employees. It's an exchange: you invest in them, they invest in you. When the investment becomes one-directional, the word \"loyalty\" stops being a relationship and becomes a demand."
-kural_tamil: "நாடோறும் நாடி முறைசெய்யா மன்னவன்\nநாடோறும் நாடு கெடும்."
+kural_tamil: "செய்வானை நாடி வினைநாடிக் காலத்தோடு\nஎய்த உணர்ந்து செயல்."
 kural_translation: "The land of a ruler who does not seek and administer justice daily will perish daily."
 kural_number: 516
 kural_bridge: "Loyalty demanded without justice given is extraction. And extraction leads to daily perishing."

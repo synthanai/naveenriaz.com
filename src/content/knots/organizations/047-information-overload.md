@@ -10,7 +10,7 @@ description: "Numbers and letters are the two eyes of all living beings...."
 punch_line_1: "Numbers and letters are the two eyes of all living beings."
 punch_line_2: "Information overload blinds both eyes: too many numbers and too many words produce paralysis, not clarity."
 felt_hook: "The team knows everything. It understands nothing."
-kural_tamil: "எண்ணென்ப ஏனை எழுத்தென்ப இவ்விரண்டும்\nகண்ணென்ப வாழும் உயிர்க்கு."
+kural_tamil: "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்\nமெய்ப்பொருள் காண்ப தறிவு."
 kural_translation: "Numbers and letters are the two eyes of all living beings."
 kural_number: 423
 kural_bridge: "Information overload blinds both eyes: too many numbers and too many words produce paralysis, not clarity."

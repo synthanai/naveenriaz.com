@@ -10,7 +10,7 @@ description: "Deliberate before you decide. To deliberate after deciding is disg
 punch_line_1: "Deliberate before you decide. To deliberate after deciding is disgrace."
 punch_line_2: "Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before."
 felt_hook: "It's not random. The scapegoat is selected for their position, not their culpability. They're visible enough to absorb blame but not powerful enough to deflect it."
-kural_tamil: "எண்ணித் துணிக கருமம் துணிந்தபின்\nஎண்ணுவ மென்பது இழுக்கு."
+kural_tamil: "அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்\nகுற்றம் மறையா வழி."
 kural_translation: "Deliberate before you decide; to deliberate after deciding is disgrace."
 kural_number: 846
 kural_bridge: "Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before."

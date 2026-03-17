@@ -10,7 +10,7 @@ description: "Wisdom is discerning the truth in whatever is said, by whomever it
 punch_line_1: "Wisdom is discerning the truth in whatever is said, by whomever it's said."
 punch_line_2: "When safety is performed, the truth behind every word is hidden, not heard."
 felt_hook: "Everyone is speaking. Nobody is saying anything true."
-kural_tamil: "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்\nமெய்ப்பொருள் காண்ப தறிவு."
+kural_tamil: "வாய்மை எனப்படுவது யாதெனின் யாதொன்றும்\nதீமை இலாத சொலல்."
 kural_translation: "Wisdom is discerning the truth in whatever is said, by whomever it's said."
 kural_number: 291
 kural_bridge: "When safety is performed, the truth behind every word is hidden, not heard."

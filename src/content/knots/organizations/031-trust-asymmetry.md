@@ -10,7 +10,7 @@ description: "Trusting a stranger without discernment brings endless suffering..
 punch_line_1: "Trusting a stranger without discernment brings endless suffering."
 punch_line_2: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
 felt_hook: "The demand is always: trust us. The action is always: we don't trust you."
-kural_tamil: "தேரான் பிறனைத் தெளிந்தான் வழிமுறை\nதீரா இடும்பை தரும்."
+kural_tamil: "அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்\nநன்குடையான் கட்டே தெளிவு."
 kural_translation: "Trusting a stranger without discernment brings endless suffering to one's lineage."
 kural_number: 513
 kural_bridge: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."

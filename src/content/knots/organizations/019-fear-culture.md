@@ -10,7 +10,7 @@ description: "Raise the rod high but strike gently...."
 punch_line_1: "Raise the rod high but strike gently."
 punch_line_2: "Fear-driven authority raises the rod. Wise leadership knows when not to strike."
 felt_hook: "A visitor would call it professional. An insider calls it survival."
-kural_tamil: "கடிதோச்சி மெல்ல எறிக நெடிதாக்கம்\nநீங்காமை வேண்டு பவர்."
+kural_tamil: "இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன்\nஉறைகடுகி ஒல்லைக் கெடும்."
 kural_translation: "Raise the rod high but strike gently, if lasting prosperity is your aim."
 kural_number: 564
 kural_bridge: "Fear-driven authority raises the rod. Wise leadership knows when not to strike."

@@ -10,7 +10,7 @@ description: "Some appear bright as the crab's-eye seed outside, but inside they
 punch_line_1: "Some appear bright as the crab's-eye seed outside, but inside they are black as its core."
 punch_line_2: "Declared values are the bright exterior. The budget is the dark core that reveals the truth."
 felt_hook: "The values and the budget are telling two different stories. Only one of them is true."
-kural_tamil: "புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி\nமுக்கிற் கரியா ருடைத்து."
+kural_tamil: "புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி\nமுக்கிற் கரியார் உடைத்து."
 kural_translation: "Some appear bright as the crab's-eye seed outside, but inside they are black as its core."
 kural_number: 277
 kural_bridge: "Declared values are the bright exterior. The budget is the dark core that reveals the truth."

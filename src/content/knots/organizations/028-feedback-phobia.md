@@ -10,7 +10,7 @@ description: "One who speaks useless words that annoy many will be despised by a
 punch_line_1: "One who speaks useless words that annoy many will be despised by all."
 punch_line_2: "Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system."
 felt_hook: "Do you remember? Your team does."
-kural_tamil: "பல்லார் முனியப் பயனில சொல்லுவான்\nஎல்லாரும் எள்ளப் படும்."
+kural_tamil: "பயனில்சொல் பாராட்டு வானை மகன்எனல்\nமக்கட் பதடி யெனல்."
 kural_translation: "One who speaks useless words that annoy many will be despised by all."
 kural_number: 196
 kural_bridge: "Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system."

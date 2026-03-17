@@ -10,7 +10,7 @@ description: "Virtue is never departing from four things: no envy, no greed, no 
 punch_line_1: "Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech."
 punch_line_2: "Integrity isn't the ceremony. It's the daily absence of what corrodes."
 felt_hook: "And somehow, the person who reported harassment last month was quietly moved to a different floor."
-kural_tamil: "அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும்\nஇழுக்கா இயன்ற தறம்."
+kural_tamil: "பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று\nஏதம் பலவுந் தரும்."
 kural_translation: "Virtue is never departing from freedom of envy, greed, wrath, and harsh speech."
 kural_number: 275
 kural_bridge: "Integrity isn't the ceremony. It's the daily absence of what corrodes."

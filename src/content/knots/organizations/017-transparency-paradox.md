@@ -10,7 +10,7 @@ description: "Greatness is concealing others' flaws. Smallness is concealing one
 punch_line_1: "Greatness is concealing others' flaws. Smallness is concealing one's own."
 punch_line_2: "Transparency weaponized to expose rather than protect is smallness wearing a noble mask."
 felt_hook: "The same transparency that was supposed to build trust now builds anxiety. Every action is visible. Every failure is public. Every learning moment is also a judgment moment."
-kural_tamil: "அற்றம் மறைக்கும் பெருமை சிறுமைதான்\nகுற்றம் மறைக்கும் விழுமம்."
+kural_tamil: "நட்டார்போல் நல்லவை சொல்லினும் ஒட்டார்சொல்\nஒல்லை உணரப் படும்."
 kural_translation: "Greatness is concealing others' flaws; smallness is concealing one's own."
 kural_number: 826
 kural_bridge: "Transparency weaponized to expose rather than protect is smallness wearing a noble mask."

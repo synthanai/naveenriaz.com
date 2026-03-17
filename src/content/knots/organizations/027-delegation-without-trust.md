@@ -10,7 +10,7 @@ description: "One who knows the right ground prospers long. One who doesn't find
 punch_line_1: "One who knows the right ground prospers long. One who doesn't finds ruin."
 punch_line_2: "Delegation without trust is assigning the ground without granting authority to stand on it."
 felt_hook: "Delegation without trust isn't delegation. It's outsourced labor with managerial surveillance."
-kural_tamil: "இடனறிந் தாற்றின் நெடிதுய்க்கும் நாடு\nஇடனறியா னெய்தும் கெடு."
+kural_tamil: "இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து\nஅதனை அவன்கண் விடல்."
 kural_translation: "One who knows the right ground prospers long; one who doesn't finds ruin."
 kural_number: 517
 kural_bridge: "Delegation without trust is assigning the ground without granting authority to stand on it."

@@ -10,7 +10,7 @@ description: "Guard yourself from anger. Unguarded, anger will destroy you...."
 punch_line_1: "Guard yourself from anger. Unguarded, anger will destroy you."
 punch_line_2: "A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it."
 felt_hook: "Your team remembers every unkept commitment. Every single one."
-kural_tamil: "தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால்\nதன்னையே கொல்லும் சினம்."
+kural_tamil: "கறுத்துஇன்னா செய்தவக் கண்ணும் மறுத்தின்னா\nசெய்யாமை மாசற்றார் கோள்."
 kural_translation: "Guard yourself from anger; unguarded, anger will destroy you."
 kural_number: 312
 kural_bridge: "A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it."

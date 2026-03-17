@@ -10,7 +10,7 @@ description: "Those who foresee what is coming are never shaken by what arrives.
 punch_line_1: "Those who foresee what is coming are never shaken by what arrives."
 punch_line_2: "Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as equally reversible."
 felt_hook: "Treating permanent decisions with the same casualness as reversible ones is organizational blindness."
-kural_tamil: "எதிரதாக் காக்கும் அறிவினார்க் கில்லை\nஅதிர வருவதோர் நோய்."
+kural_tamil: "எண்ணித் துணிக கருமம் துணிந்தபின்\nஎண்ணுவம் என்பது இழுக்கு."
 kural_translation: "Those who foresee what is coming are never shaken by what arrives."
 kural_number: 467
 kural_bridge: "Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as equally reversible."

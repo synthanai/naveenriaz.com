@@ -10,7 +10,7 @@ description: "Fortune abandons the leader who distrusts a capable worker mid-tas
 punch_line_1: "Fortune abandons the leader who distrusts a capable worker mid-task."
 punch_line_2: "The culture tax is the fortune lost to workarounds, redundancies, and political navigation."
 felt_hook: "The political pre-meeting before the actual meeting so nobody is surprised."
-kural_tamil: "வினைக்கண் வினையுடையான் கேண்மைவே றாக\nநினைப்பானை நீங்கும் திரு."
+kural_tamil: "வேலொடு நின்றான் இடுவென் றதுபோலும்\nகோலொடு நின்றான் இரவு."
 kural_translation: "Fortune abandons the leader who distrusts a capable worker mid-task."
 kural_number: 552
 kural_bridge: "The culture tax is the fortune lost to workarounds, redundancies, and political navigation."

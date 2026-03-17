@@ -10,7 +10,7 @@ description: "Even heaven and earth cannot repay an unsolicited act of kindness.
 punch_line_1: "Even heaven and earth cannot repay an unsolicited act of kindness."
 punch_line_2: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
 felt_hook: "This is trust bankruptcy. The account reads zero."
-kural_tamil: "செய்யாமல் செய்த உதவிக்கு வையகமும்\nவானகமும் ஆற்றல் அரிது."
+kural_tamil: "செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி\nஎச்சத்திற் கேமாப்பு உடைத்து."
 kural_translation: "Even heaven and earth cannot repay an unsolicited act of kindness."
 kural_number: 112
 kural_bridge: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."

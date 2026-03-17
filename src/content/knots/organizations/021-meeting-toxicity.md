@@ -10,7 +10,7 @@ description: "Never speak useless words. To speak them is to speak nothing at al
 punch_line_1: "Never speak useless words. To speak them is to speak nothing at all."
 punch_line_2: "A meeting full of useless words is a meeting that never happened, except on the calendar."
 felt_hook: "You left with fewer answers than you entered with."
-kural_tamil: "பயனில சொல்லாமை நன்று\nபயனில சொல்லிப் பயனிலாச் சொல்."
+kural_tamil: "சீர்மை சிறப்பொடு நீங்கும் பயனில\nநீர்மை யுடையார் சொலின்."
 kural_translation: "It is good to never speak useless words; to speak them is to speak nothing at all."
 kural_number: 195
 kural_bridge: "A meeting full of useless words is a meeting that never happened, except on the calendar."

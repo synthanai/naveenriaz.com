@@ -10,7 +10,7 @@ description: "Those who know the weight of words speak only after understanding 
 punch_line_1: "Those who know the weight of words speak only after understanding the full assembly."
 punch_line_2: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."
 felt_hook: "Each decision was rational in isolation. Together, they created three incompatible systems, three duplicated budgets, and three teams who discovered each other at the integration meeting."
-kural_tamil: "அவையறிந் தாராய்ந்து சொல்லுக சொல்லின்\nதொகையறிந்த தூய்மை யவர்."
+kural_tamil: "பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்\nவேந்தர்க்கு வேண்டும் பொழுது."
 kural_translation: "Those who know the weight of words speak only after understanding the full assembly."
 kural_number: 481
 kural_bridge: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."

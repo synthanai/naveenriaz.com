@@ -10,7 +10,7 @@ description: "Deliberate before you act. To deliberate after acting is folly....
 punch_line_1: "Deliberate before you act. To deliberate after acting is folly."
 punch_line_2: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
 felt_hook: "It was also irrelevant by the time it finished."
-kural_tamil: "எண்ணித் துணிக கருமம் துணிந்தபின்\nஎண்ணுவ மென்பது இழுக்கு."
+kural_tamil: "சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு\nதாழ்ச்சியுள் தங்குதல் தீது."
 kural_translation: "Deliberate before you act; to deliberate after acting is folly."
 kural_number: 671
 kural_bridge: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."

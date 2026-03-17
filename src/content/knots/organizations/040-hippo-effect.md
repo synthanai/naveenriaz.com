@@ -10,7 +10,7 @@ description: "A person's stature rises to match their will...."
 punch_line_1: "A person's stature rises to match their will."
 punch_line_2: "The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the room."
 felt_hook: "Then the SVP offered his 'initial thinking.' After that, the data didn't matter."
-kural_tamil: "வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்\nஉள்ளத் தனையது உயர்வு."
+kural_tamil: "பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்\nசால மிகுத்துப் பெயின்."
 kural_translation: "As a flower rises to the water's height, so does a person's stature rise to match their will."
 kural_number: 475
 kural_bridge: "The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the room."

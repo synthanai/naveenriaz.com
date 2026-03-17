@@ -10,7 +10,7 @@ description: "To discern the true nature of anything, whatever it may seem, is w
 punch_line_1: "To discern the true nature of anything, whatever it may seem, is wisdom."
 punch_line_2: "Harmony that suppresses conflict isn't peace. Wisdom sees through the pleasant surface."
 felt_hook: "It's actually suppression. And if you've been in enough of those meetings, you know exactly which it is by the speed of the consensus."
-kural_tamil: "எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்\nமெய்ப்பொருள் காண்ப தறிவு."
+kural_tamil: "அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்\nபுன்மையாற் காணப் படும்."
 kural_translation: "To discern the true nature of anything, whatever it may seem, is wisdom."
 kural_number: 185
 kural_bridge: "Harmony that suppresses conflict isn't peace. Wisdom sees through the pleasant surface."

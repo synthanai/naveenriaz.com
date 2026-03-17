@@ -10,7 +10,7 @@ description: "The wise foresee outcomes. The unwise cannot know what approaches.
 punch_line_1: "The wise foresee outcomes. The unwise cannot know what approaches."
 punch_line_2: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
 felt_hook: "The risk register managed the risks that were easy to articulate, not the risks that were likely to occur."
-kural_tamil: "அறிவுடையார் ஆவ தறிவார் அறிவிலார்\nஅஃதறி கல்லா தவர்."
+kural_tamil: "உடைத்தம் வலியறியார் ஊக்கத்தின் ஊக்கி\nஇடைக்கண் முரிந்தார் பலர்."
 kural_translation: "The wise foresee outcomes; the unwise cannot know what approaches."
 kural_number: 473
 kural_bridge: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
