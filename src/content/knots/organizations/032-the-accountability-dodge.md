@@ -1,0 +1,73 @@
+---
+title: the-accountability-dodge
+knot_number: 32
+domain: organizations
+series: trust
+series_number: 3
+slug_name: the-accountability-dodge
+date: 2026-03-17
+description: "Fortune abandons the leader who doubts a capable person mid-task...."
+punch_line_1: "Fortune abandons the leader who doubts a capable person mid-task."
+punch_line_2: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
+felt_hook: "Shared accountability is diluted accountability. Always."
+kural_tamil: "வினைக்கண் வினையுடையான் கேண்மைவே றாக\nநினைப்பானை நீங்கும் திரு."
+kural_translation: "Fortune abandons the leader who doubts a capable person in the midst of work."
+kural_number: 542
+kural_bridge: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
+prev_knot: "organizations/031-trust-asymmetry"
+prev_knot_title: "Trust Asymmetry"
+next_knot: "organizations/033-surveillance-culture"
+next_knot_title: "Surveillance Culture"
+---
+
+Fortune abandons the leader who doubts a capable person mid-task.
+Valluvar's warning connects doubt to dissolution. But what happens when there's nobody to doubt because nobody owns the task?
+"We all own it." You've heard this. You've probably said it.
+It sounds collaborative. It sounds empowering. It sounds like shared purpose.
+It's none of those things. It's a sentence that means: when this fails, nobody's name is on it.
+Shared accountability is diluted accountability. Always.
+
+I sat in a post-mortem for a product launch that failed.
+The room had sixteen people. The slide had three root causes. The action items were assigned to "the team."
+I asked: "Who owns the fix?"
+Sixteen people looked at each other.
+"We all do," someone said.
+Three months later, nothing had changed. Because "we all own it" means "I assume someone else is handling it."
+The diffusion wasn't deliberate. It was comfortable. Nobody had to be accountable because everybody was.
+
+Accountability dissolves when distributed.
+In chemistry, diffusion is the process by which concentrated molecules spread evenly through a solution until the concentration is uniform. Drop ink in water. It disperses. The ink still exists, but it's so diluted that it's functionally invisible.
+Organizational accountability diffuses identically. When ownership is assigned to "everyone," it disperses until it's functionally zero.
+Everyone is responsible. Nobody feels responsible.
+The accountability still exists in theory. In practice, it's ink in water.
+
+Name one owner for one outcome today.
+Not a team. Not a committee. Not a working group.
+One name. One outcome. One person who will answer for it.
+If that feels uncomfortable, you've found the dodge.
+Accountability isn't shared. It's named.
+
+That disappearing act has a name. #The #Accountability #Dodge.
+And once you see it, you can't unsee it.
+
+## Untie The Knot
+
+**Uproot**
+
+Accountability diffused because collective ownership felt collaborative. Assigning one name felt accusatory. The organization confused shared responsibility with shared accountability. Over time, 'we all own it' became 'nobody owns it,' and nobody noticed the transition.
+
+**Navigate**
+
+Every outcome has one named owner. Not a team. Not a committee. One person who answers for the result. Shared input, singular accountability.
+
+**Tool**
+
+DMG / Decision Ownership: the protocol that assigns every decision and outcome a single named accountable party. DMG prevents diffusion by making accountability explicit and non-shareable.
+
+**Implement**
+
+Name one owner for one outcome today. Not a team. One name. If that feels uncomfortable, you've located the dodge. Accountability isn't collaborative. It's personal.
+
+**Emerge**
+
+When accountability has a name, decisions happen faster, post-mortems produce change instead of reports, and the team stops waiting for 'someone' to act.
