@@ -1,0 +1,67 @@
+---
+title: governance-bloat
+knot_number: 78
+domain: organizations
+series: structure
+series_number: 7
+slug_name: governance-bloat
+date: 2026-03-17
+description: "Acquire wealth; no weapon is sharper...."
+punch_line_1: "Acquire wealth; no weapon is sharper."
+punch_line_2: "Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything."
+felt_hook: "The governance framework was designed to reduce risk. It succeeded so well that it eliminated all risk, including the risk of actually accomplishing anything."
+kural_tamil: "செய்க பொருளைச் செறுநர் செருக்கறுக்கும்\nஎஃகதனிற் கூரிய தில்."
+kural_translation: "Acquire wealth; there is no sharper weapon against the arrogance of enemies."
+kural_number: 541
+kural_bridge: "Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything."
+prev_knot: "organizations/077-middle-management-squeeze"
+prev_knot_title: "Middle Management Squeeze"
+next_knot: "organizations/079-technology-sprawl"
+next_knot_title: "Technology Sprawl"
+---
+
+Acquire wealth; no weapon is sharper.
+Valluvar values resources as offensive capability.
+Your governance consumes more resources than it protects.
+Seventeen approvals for one action. Three committees for one decision. A six-week review cycle for a project that could ship in two.
+The governance framework was designed to reduce risk. It succeeded so well that it eliminated all risk, including the risk of actually accomplishing anything.
+
+I sat on a governance committee that met monthly for eighteen months.
+Our charter: 'Provide strategic oversight for the digital transformation program.'
+In eighteen months, we approved two decisions, deferred seven, and requested additional analysis on eleven.
+The committee of twelve people met for two hours each month. That's 432 hours of senior leadership time. The two decisions that were approved could have been made by email.
+I once calculated the fully loaded cost of the committee: $380,000 per year in senior time. For two decisions.
+
+When the immune system attacks the body it's supposed to protect.
+In biology, autoimmune diseases occur when the immune system, designed to protect the organism, mistakenly attacks healthy tissue. The defense mechanism becomes the disease.
+Governance bloat is organizational autoimmunity: the system designed to protect the organization from bad decisions attacks the organization's ability to make any decisions at all.
+Each committee, each approval layer, each review cycle was added to prevent a specific risk. Together, they create a systemic risk far greater than any individual failure: the risk of organizational paralysis.
+
+Count the number of committees you sit on. Now count decisions made.
+Divide. If the ratio is above 3:1, the governance is autoimmune.
+Disband one committee this month. If nothing goes wrong, it was attacking the body.
+
+That protective paralysis has a name. #Governance #Bloat.
+And once you see it, you can't unsee it.
+
+## Untie The Knot
+
+**Uproot**
+
+Bloat grew because governance was designed for risk prevention without considering the cost of prevention. Each committee reduced a specific risk. Nobody measured the cumulative cost of all committees.
+
+**Navigate**
+
+Every governance body has an annual ROI review: decisions produced divided by hours consumed. Bodies below 3:1 are disbanded.
+
+**Tool**
+
+DMG / Governance Audit: the protocol that measures committee productivity. When governance bodies must justify their existence through decisions, bloat becomes visible.
+
+**Implement**
+
+Count committees. Count decisions. Divide. If the ratio is above 3:1, disband one this month. If nothing goes wrong, it was autoimmune.
+
+**Emerge**
+
+When governance is measured by output, committees shrink, decisions accelerate, and the organization stops attacking itself with protection.
