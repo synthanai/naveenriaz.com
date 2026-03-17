@@ -12,6 +12,10 @@ punch_line_2: "It's actually surrender."
 felt_hook: 'Does your organization describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''s adopt Google''s approach."'
 emotion_target: "Inauthenticity: the discomfort of performing someone else's identity"
 never_say: ["best practices", "industry standard", "we should be more like X"]
+kural_tamil: "தன்னை அறிந்து அனைத்தறிவான் தன் அறிவை\nமன்னிய மாண்பு கொள்வான்."
+kural_translation: "One who knows themselves knows all; they hold their wisdom as lasting honour."
+kural_number: 727
+kural_bridge: "Organizations that copy others have stopped knowing themselves."
 prev_knot: "organizations/001-purpose-amnesia"
 prev_knot_title: "purpose amnesia"
 next_knot: "organizations/003-founders-ghost"
@@ -42,14 +46,6 @@ If every sentence on your About page could be swapped into theirs without anyone
 
 That camouflage has a name. #Identity #Mimicry.
 And once you see it, you can't unsee it.
----
-
-> 📜 *"தன்னை அறிந்து அனைத்தறிவான் தன் அறிவை*
-> *மன்னிய மாண்பு கொள்வான்."* — குறள் 727
->
-> *"One who knows themselves knows all; they hold their wisdom as lasting honour."*
->
-> ↳ Organizations that copy others have stopped knowing themselves.
 ---
 
 ## The Untie

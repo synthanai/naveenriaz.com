@@ -12,6 +12,10 @@ punch_line_2: "They just stop saying no."
 felt_hook: "Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?"
 emotion_target: "Disorientation: the slow realization you've become something you never intended"
 never_say: ["strategic pivot", "evolving our mission", "growth requires flexibility"]
+kural_tamil: "எண்ணித் துணிக கருமம் துணிந்தபின்\nஎண்ணுவம் என்பது இழுக்கு."
+kural_translation: "Think well before acting; to deliberate after deciding is a failure."
+kural_number: 467
+kural_bridge: "Mission drift is the failure of never re-examining the original decision."
 prev_knot: "organizations/004-values-wallpaper"
 prev_knot_title: "values wallpaper"
 next_knot: "organizations/006-legacy-denial"
@@ -44,14 +48,6 @@ If you can't draw a clean line from what you're building this month to why you s
 
 That distance has a name. #Mission #Drift.
 And once you see it, you can't unsee it.
----
-
-> 📜 *"எண்ணித் துணிக கருமம் துணிந்தபின்*
-> *எண்ணுவம் என்பது இழுக்கு."* — குறள் 467
->
-> *"Think well before acting; to deliberate after deciding is a failure."*
->
-> ↳ Mission drift is the failure of never re-examining the original decision.
 ---
 
 ## The Untie

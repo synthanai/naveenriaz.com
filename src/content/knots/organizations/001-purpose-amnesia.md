@@ -12,6 +12,10 @@ punch_line_2: "It is starving while you are busy."
 felt_hook: "Can your newest hire tell a stranger what your organization stands for, without reading a document?"
 emotion_target: "Hollowness: the specific emptiness of working somewhere that can't explain why it exists"
 never_say: ["realign with purpose", "revisit our mission", "purpose workshop"]
+kural_tamil: "அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை\nமறத்தலின் ஊங்கில்லை கேடு."
+kural_translation: "No greater gain than virtue; no greater ruin than forgetting it."
+kural_number: 32
+kural_bridge: "Purpose forgotten is virtue abandoned."
 next_knot: "organizations/002-identity-mimicry"
 next_knot_title: "identity mimicry"
 ---
@@ -39,14 +43,6 @@ Watch their face before they answer. That pause tells you everything.
 
 That silence has a name. #Purpose #Amnesia.
 And once you see it, you can't unsee it.
----
-
-> 📜 *"அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை*
-> *மறத்தலின் ஊங்கில்லை கேடு."* — குறள் 32
->
-> *"No greater gain than virtue; no greater ruin than forgetting it."*
->
-> ↳ Purpose forgotten is virtue abandoned.
 ---
 
 ## The Untie

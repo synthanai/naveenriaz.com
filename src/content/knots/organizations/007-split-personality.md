@@ -12,6 +12,10 @@ punch_line_2: "They fear clarity."
 felt_hook: 'If you ask Sales and Engineering "what kind of company are we?", do they describe the same organization?'
 emotion_target: "Exhaustion: the cost of context-switching between two identities every day"
 never_say: ["we're both", "it depends on the team", "healthy tension (when it is actually exhaustion)"]
+kural_tamil: "வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்\nஐந்தும் அகத்தே நகும்."
+kural_translation: "When a deceitful mind puts on virtuous conduct, the five elements within laugh."
+kural_number: 271
+kural_bridge: "When the external brand contradicts the internal culture, the whole system knows."
 prev_knot: "organizations/006-legacy-denial"
 prev_knot_title: "legacy denial"
 next_knot: "organizations/008-purpose-commodification"
@@ -43,14 +47,6 @@ If you're afraid to ask, you already know the answer.
 
 That fracture has a name. #Split #Personality.
 And once you see it, you can't unsee it.
----
-
-> 📜 *"வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்*
-> *ஐந்தும் அகத்தே நகும்."* — குறள் 271
->
-> *"When a deceitful mind puts on virtuous conduct, the five elements within laugh."*
->
-> ↳ When the external brand contradicts the internal culture, the whole system knows.
 ---
 
 ## The Untie

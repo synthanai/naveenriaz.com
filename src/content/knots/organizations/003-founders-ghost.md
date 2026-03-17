@@ -12,6 +12,10 @@ punch_line_2: "The rules are still running the meeting."
 felt_hook: 'Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?'
 emotion_target: "Paralysis: the inability to lead in the present because you are serving the past"
 never_say: ["the founder's vision", "stay true to our roots (when used to block change)"]
+kural_tamil: "படைகுடி கூழ்அமைச்சு நட்பரண் ஆறும்\nஉடையான் அரசருள் ஏறு."
+kural_translation: "The leader who possesses army, people, wealth, counsel, allies, and fortress is a lion among rulers."
+kural_number: 441
+kural_bridge: "The founder built the fortress. The question is whether the walls still protect or imprison."
 prev_knot: "organizations/002-identity-mimicry"
 prev_knot_title: "identity mimicry"
 next_knot: "organizations/004-values-wallpaper"
@@ -43,14 +47,6 @@ That discomfort is the diagnostic.
 
 That haunting has a name. #Founders #Ghost.
 And once you see it, you can't unsee it.
----
-
-> 📜 *"படைகுடி கூழ்அமைச்சு நட்பரண் ஆறும்*
-> *உடையான் அரசருள் ஏறு."* — குறள் 441
->
-> *"The leader who possesses army, people, wealth, counsel, allies, and fortress is a lion among rulers."*
->
-> ↳ The founder built the fortress. The question is whether the walls still protect or imprison.
 ---
 
 ## The Untie

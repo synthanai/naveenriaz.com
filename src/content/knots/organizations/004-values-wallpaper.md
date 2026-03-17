@@ -12,6 +12,10 @@ punch_line_2: "Nobody is looking at the wall."
 felt_hook: "Can five people across different levels give the same example of a lived value? Or does the violation story come faster than the lived story?"
 emotion_target: "Disgust: the instinctive recoil at organized hypocrisy"
 never_say: ["values alignment", "walk the talk", "culture workshop"]
+kural_tamil: "மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்\nஆகுல நீர பிற."
+kural_translation: "Spotless mind is all of virtue; the rest is empty noise."
+kural_number: 34
+kural_bridge: "Framed values without lived values are noise, not virtue."
 prev_knot: "organizations/003-founders-ghost"
 prev_knot_title: "founders ghost"
 next_knot: "organizations/005-mission-drift"
@@ -44,14 +48,6 @@ That blank stare is the only measurement that matters.
 
 That gap has a name. #Values #Wallpaper.
 And once you see it, you can't unsee it.
----
-
-> 📜 *"மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்*
-> *ஆகுல நீர பிற."* — குறள் 34
->
-> *"Spotless mind is all of virtue; the rest is empty noise."*
->
-> ↳ Framed values without lived values are noise, not virtue.
 ---
 
 ## The Untie

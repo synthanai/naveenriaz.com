@@ -2,6 +2,7 @@
 import Base from "./Base.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import TamilRoot from "../components/TamilRoot.astro";
 
 interface Props {
   title: string;
@@ -12,6 +13,10 @@ interface Props {
   punchLine1: string;
   punchLine2: string;
   feltHook?: string;
+  kuralTamil?: string;
+  kuralTranslation?: string;
+  kuralNumber?: number;
+  kuralBridge?: string;
   prevKnot?: string;
   prevKnotTitle?: string;
   nextKnot?: string;
@@ -27,6 +32,10 @@ const {
   punchLine1,
   punchLine2,
   feltHook,
+  kuralTamil,
+  kuralTranslation,
+  kuralNumber,
+  kuralBridge,
   prevKnot,
   prevKnotTitle,
   nextKnot,
@@ -34,6 +43,9 @@ const {
 } = Astro.props;
 
 const paddedNum = String(knotNumber).padStart(3, "0");
+
+// Build display title
+const displayTitle = title.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
 
 // Series color mapping (MBS aligned)
 const seriesColors: Record<string, string> = {
@@ -69,15 +81,28 @@ const accentColor = seriesColors[series] || "var(--accent)";
             KNOT #{paddedNum}
           </span>
         </div>
-        <h1>{title.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}</h1>
+        <h1>{displayTitle}</h1>
         {feltHook && <p class="felt-hook">{feltHook}</p>}
       </header>
 
-      <!-- PUNCH Quote Block -->
-      <div class="punch-block animate-in animate-delay-1" style={`border-color: ${accentColor}`}>
-        <p class="punch-line-1">{punchLine1}</p>
-        <p class="punch-line-2" style={`color: ${accentColor}`}>{punchLine2}</p>
-      </div>
+      <!-- 3-Layer Palm Manuscript: Soul (Kural) → Mind (Knot Name) → Body (Bridge) -->
+      {kuralTamil ? (
+        <div class="knot-manuscript animate-in animate-delay-1">
+          <TamilRoot
+            tamil={displayTitle}
+            transliteration={`Knot #${paddedNum}`}
+            meaning={kuralBridge || punchLine2}
+            kural={kuralTamil}
+            kuralNumber={kuralNumber}
+            kuralTranslation={kuralTranslation}
+          />
+        </div>
+      ) : (
+        <div class="punch-block animate-in animate-delay-1" style={`border-color: ${accentColor}`}>
+          <p class="punch-line-1">{punchLine1}</p>
+          <p class="punch-line-2" style={`color: ${accentColor}`}>{punchLine2}</p>
+        </div>
+      )}
 
       <!-- Story + Content -->
       <section class="knot-body animate-in animate-delay-2">

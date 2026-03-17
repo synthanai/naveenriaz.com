@@ -12,6 +12,10 @@ punch_line_2: "Nobody has told them the story."
 felt_hook: "Can a new hire, six months in, explain your culture to a stranger using their own words, not the company's?"
 emotion_target: "Isolation: being inside an organization but outside its soul"
 never_say: ["onboarding program", "culture deck", "employee handbook covers it"]
+kural_tamil: "அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை\nபண்பும் பயனும் அது."
+kural_translation: "A home with love and virtue is character and purpose itself."
+kural_number: 45
+kural_bridge: "A team without cultural belonging is a home without love."
 prev_knot: "organizations/009-vision-inflation"
 prev_knot_title: "vision inflation"
 next_knot: "organizations/011-identity-fragility"
@@ -43,14 +47,6 @@ Watch what happens to their face when someone finally lets them in.
 
 That isolation has a name. #Cultural #Orphans.
 And once you see it, you can't unsee it.
----
-
-> 📜 *"அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை*
-> *பண்பும் பயனும் அது."* — குறள் 45
->
-> *"A home with love and virtue is character and purpose itself."*
->
-> ↳ A team without cultural belonging is a home without love.
 ---
 
 ## The Untie

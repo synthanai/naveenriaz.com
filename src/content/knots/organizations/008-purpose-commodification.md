@@ -12,6 +12,10 @@ punch_line_2: "Someone just made it comfortable."
 felt_hook: "Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which one is yours?"
 emotion_target: "Interchangeability: the feeling that your organization could be swapped and nobody would notice"
 never_say: ["empower", "unlock potential", "world-class (the holy trinity of generic)"]
+kural_tamil: "சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க\nசொல்லிற் பயனிலாச் சொல்."
+kural_translation: "Speak words that serve a purpose; never speak words that serve none."
+kural_number: 200
+kural_bridge: "When purpose is smoothed for mass appeal, the words serve nobody."
 prev_knot: "organizations/007-split-personality"
 prev_knot_title: "split personality"
 next_knot: "organizations/009-vision-inflation"
@@ -44,14 +48,6 @@ Write it down. Compare it to the official version. Notice which one you believe.
 
 That hollowness has a name. #Purpose #Commodification.
 And once you see it, you can't unsee it.
----
-
-> 📜 *"சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க*
-> *சொல்லிற் பயனிலாச் சொல்."* — குறள் 200
->
-> *"Speak words that serve a purpose; never speak words that serve none."*
->
-> ↳ When purpose is smoothed for mass appeal, the words serve nobody.
 ---
 
 ## The Untie

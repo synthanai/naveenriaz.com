@@ -12,6 +12,10 @@ punch_line_2: "when the storm hits."
 felt_hook: "Has your organization survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
 emotion_target: "Betrayal: the moment the stated values collapsed under pressure"
 never_say: ["our values are non-negotiable (when they have already been negotiated)"]
+kural_tamil: "ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்\nஎழுமையும் ஏமாப் புடைத்து."
+kural_translation: "Like the tortoise drawing in its limbs, one who masters the five senses finds lasting security."
+kural_number: 126
+kural_bridge: "An identity never tested is a shell never drawn in. It looks solid until pressure arrives."
 prev_knot: "organizations/010-cultural-orphans"
 prev_knot_title: "cultural orphans"
 next_knot: "organizations/012-the-hollow-core"
@@ -45,14 +49,6 @@ At least then you know what you're working with.
 
 That brittleness has a name. #Identity #Fragility.
 And once you see it, you can't unsee it.
----
-
-> 📜 *"ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்*
-> *எழுமையும் ஏமாப் புடைத்து."* — குறள் 126
->
-> *"Like the tortoise drawing in its limbs, one who masters the five senses finds lasting security."*
->
-> ↳ An identity never tested is a shell never drawn in. It looks solid until pressure arrives.
 ---
 
 ## The Untie
