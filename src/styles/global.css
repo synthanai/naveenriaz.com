@@ -565,7 +565,7 @@ strong {
 
 .section-pulse h1,
 .section-pulse .page-subtitle {
-  background: linear-gradient(90deg, var(--mind-color), var(--soul-color), var(--body-color));
+  background: linear-gradient(90deg, var(--mind-color) 0%, var(--soul-color) 50%, var(--body-color) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
