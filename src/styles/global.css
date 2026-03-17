@@ -46,6 +46,9 @@
   --vibe-color: #ffffff;
   --vibe-glow: rgba(255, 255, 255, 0.08);
 
+  /* MBS Gradient (Blue → Gold → Green, equal thirds) */
+  --mbs-gradient: linear-gradient(90deg, var(--mind-color) 0%, var(--soul-color) 50%, var(--body-color) 100%);
+
   /* Typography (Tier 2: headings use Space Grotesk, labels use Outfit) */
   --font-heading: 'Space Grotesk', system-ui, sans-serif;
   --font-label: 'Outfit', system-ui, sans-serif;
@@ -565,7 +568,7 @@ strong {
 
 .section-pulse h1,
 .section-pulse .page-subtitle {
-  background: linear-gradient(90deg, var(--mind-color) 0%, var(--soul-color) 50%, var(--body-color) 100%);
+  background: var(--mbs-gradient);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;

@@ -168,7 +168,7 @@ const navItems = [
     border: 4px solid var(--tab-color);
     border-top: none;
     color: var(--tab-color);
-    padding: 0.7rem 0 1.2rem;
+    padding: 0.45rem 0 0.8rem;
     border-radius: 0 0 50% 50%;
     margin: 4px;
     transition:
@@ -186,14 +186,32 @@ const navItems = [
     background: rgba(255, 255, 255, 0.05);
   }
 
-  /* Pulse tab: MBS tri-color gradient */
+  /* Pulse tab: MBS tri-color gradient via mask (border-image kills border-radius) */
   .swoosh-tab--pulse {
-    border-image: linear-gradient(90deg, var(--mind-color) 0%, var(--soul-color) 50%, var(--body-color) 100%) 1;
-    border-top: none;
+    border-color: transparent;
+    isolation: isolate;
+  }
+
+  .swoosh-tab--pulse::before {
+    content: '';
+    position: absolute;
+    inset: -4px;
+    top: 0;
+    border-radius: 0 0 50% 50%;
+    background: var(--mbs-gradient);
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    padding: 4px;
+    pointer-events: none;
+    z-index: -1;
+    clip-path: inset(4px 0 0 0);
   }
 
   .swoosh-tab--pulse .swoosh-label {
-    background: linear-gradient(90deg, var(--mind-color) 0%, var(--soul-color) 50%, var(--body-color) 100%);
+    background: var(--mbs-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
