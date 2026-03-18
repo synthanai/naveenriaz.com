@@ -10,7 +10,7 @@ description: "Even if fate opposes, effort yields its reward...."
 punch_line_1: "Even if fate opposes, effort yields its reward."
 punch_line_2: "Hiring mismatch opposes effort: no amount of work fixes a person placed in the wrong role for the wrong reasons."
 felt_hook: "The candidate was impressive. The role needed something they didn't have. Not skill. Fit."
-kural_tamil: "தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்\nமெய்வருத்தக் கூலி தரும்."
+kural_tamil: "எனைவகையான் தேறியக் கண்ணும் வினைவகையான்\nவேறாகும் மாந்தர் பலர்."
 kural_translation: "Even if fate opposes, effort yields its rightful reward."
 kural_number: 514
 kural_bridge: "Hiring mismatch opposes effort: no amount of work fixes a person placed in the wrong role for the wrong reasons."

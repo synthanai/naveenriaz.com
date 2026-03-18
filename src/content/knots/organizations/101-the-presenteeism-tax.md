@@ -10,7 +10,7 @@ description: "In a world that values substance, empty presence holds no place...
 punch_line_1: "In a world that values substance, empty presence holds no place."
 punch_line_2: "Presenteeism counts bodies, not contribution. Eight people are present. Three are productive. The tax is five."
 felt_hook: "Presenteeism taxes the organization in invisible ways: unproductive hours, unnecessary meetings, performative activity, and the energy drain of being present without purpose."
-kural_tamil: "புலால் மறுத்தல் புனிதன் உலகம்\nநிலாஅ தனிமை இலை."
+kural_tamil: "சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச்\nசார்தரா சார்தரு நோய்."
 kural_translation: "In a world that values substance, empty presence holds no place."
 kural_number: 359
 kural_bridge: "Presenteeism counts bodies, not contribution. Eight people are present. Three are productive. The tax is five."

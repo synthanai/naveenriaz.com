@@ -10,7 +10,7 @@ description: "The learned stand tall. The unlearned remain low...."
 punch_line_1: "The learned stand tall. The unlearned remain low."
 punch_line_2: "Organizations with learning disabilities repeat their mistakes not from ignorance but from an inability to convert experience into knowledge."
 felt_hook: "They were captured and buried. Nobody read them. The learning never became practice."
-kural_tamil: "உடையார்முன் இல்லார்போல் ஏக்கற்றும் கற்றார்\nகடையரே கல்லா தவர்."
+kural_tamil: "உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்\nகடையரே கல்லா தவர்."
 kural_translation: "Even in humble circumstance, the learned stand tall; the unlearned remain low in any condition."
 kural_number: 395
 kural_bridge: "Organizations with learning disabilities repeat their mistakes not from ignorance but from an inability to convert experience into knowledge."

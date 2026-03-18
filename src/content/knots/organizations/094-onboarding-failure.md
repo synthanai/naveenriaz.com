@@ -10,7 +10,7 @@ description: "Wealth without planning vanishes like sight without eyes...."
 punch_line_1: "Wealth without planning vanishes like sight without eyes."
 punch_line_2: "Onboarding failure acquires talent without planning for their integration. The hire was expensive. The runway was absent."
 felt_hook: "The investment in recruiting is visible: sourcing fees, interview hours, negotiation cycles. The investment in integration is invisible: the new hire navigating an undocumented culture, finding information through trial and error, building relationships without a map."
-kural_tamil: "எண்ணற்கும் எண்ணாது எழும்பது பொருள\nகண்ணற்றான் கண்ட அனைய."
+kural_tamil: "உவப்பத் தலைக்கூடி உள்ளப் பிரிதல்\nஅனைத்தே புலவர் தொழில்."
 kural_translation: "Wealth acquired without planning vanishes like sight without eyes."
 kural_number: 394
 kural_bridge: "Onboarding failure acquires talent without planning for their integration. The hire was expensive. The runway was absent."

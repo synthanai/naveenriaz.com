@@ -10,7 +10,7 @@ description: "Wealth from generosity never diminishes...."
 punch_line_1: "Wealth from generosity never diminishes."
 punch_line_2: "Celebration deficit is the absence of generosity toward the team's own achievements. The harvest is extracted. The feast never happens."
 felt_hook: "The team achieved something significant and the organization treated it like a checkpoint, not a summit."
-kural_tamil: "ஒப்புரவினால் வருங்சால போகமும்\nதொப்புள் பொருளும் சுருங்கா."
+kural_tamil: "விருப்பறாச் சுற்றம் இயையின் அருப்பறா\nஆக்கம் பலவும் தரும்."
 kural_translation: "Wealth from generosity and core substance never diminish."
 kural_number: 522
 kural_bridge: "Celebration deficit is the absence of generosity toward the team's own achievements. The harvest is extracted. The feast never happens."

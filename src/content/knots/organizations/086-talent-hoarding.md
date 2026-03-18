@@ -10,7 +10,7 @@ description: "People who fall from position are like hair fallen from the head..
 punch_line_1: "People who fall from position are like hair fallen from the head."
 punch_line_2: "Hoarded talent is still present but no longer growing. The person is there; their potential has been severed."
 felt_hook: "The talent isn't hoarded maliciously. It's hoarded rationally. The manager's incentive is team output. Moving the best person out reduces output. So the best person stays."
-kural_tamil: "தலையின் இழிந்த மயிரனையர் மாந்தர்\nநிலையின் இழிந்தக் கடை."
+kural_tamil: "வாரி பெருக்கி வளம்படுத்து உற்றவை\nஆராய்வான் செய்க வினை."
 kural_translation: "People who fall from their position are like hair fallen from the head: still present, but no longer part of the whole."
 kural_number: 512
 kural_bridge: "Hoarded talent is still present but no longer growing. The person is there; their potential has been severed."

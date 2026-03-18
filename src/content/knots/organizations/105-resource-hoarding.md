@@ -10,7 +10,7 @@ description: "To give and live with honor: no greater profit exists...."
 punch_line_1: "To give and live with honor: no greater profit exists."
 punch_line_2: "Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits."
 felt_hook: "Meanwhile, the team across the hall is working weekends because they can't hire fast enough. The budget that could solve their problem sits unspent in another department's reserve."
-kural_tamil: "ஈதல் இசைபட வாழ்தல் அதுவல்லது\nஊதியம் இல்லை உயிர்க்கு."
+kural_tamil: "காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்\nஅன்னநீ ரார்க்கே உள."
 kural_translation: "To give and live with honor: there is no greater profit in life."
 kural_number: 527
 kural_bridge: "Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits."

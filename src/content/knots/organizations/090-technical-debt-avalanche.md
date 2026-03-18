@@ -10,7 +10,7 @@ description: "Lacking resources is no shame. Lacking effort despite knowing is..
 punch_line_1: "Lacking resources is no shame. Lacking effort despite knowing is."
 punch_line_2: "Technical debt avalanche is the shame of knowing the debt exists and choosing not to address it until it buries you."
 felt_hook: "Each layer adds fragility. Each workaround adds complexity. The system works. Until it doesn't. And when it doesn't, everything collapses at once."
-kural_tamil: "பொறியின்மை யார்க்கும் பழியன்று அறிவறிந்து\nஆள்வினை இன்மை பழி."
+kural_tamil: "புகழ்ந்தவை போற்றிச் செயல்வேண்டும் செய்யாது\nஇகழ்ந்தார்க்கு எழுமையும் இல்."
 kural_translation: "Lacking resources is no shame; lacking effort despite knowing better is."
 kural_number: 538
 kural_bridge: "Technical debt avalanche is the shame of knowing the debt exists and choosing not to address it until it buries you."

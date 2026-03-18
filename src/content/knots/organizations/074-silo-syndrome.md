@@ -10,7 +10,7 @@ description: "The loveless keep everything for themselves. The loving give even 
 punch_line_1: "The loveless keep everything for themselves. The loving give even their bones."
 punch_line_2: "Silos keep everything for their own department. Cross-functional love would mean sharing budgets, talent, and credit."
 felt_hook: "Each defends its allocation. Each optimizes its metrics. Each celebrates its victories. None of them share credit, resources, or even information without a formal request."
-kural_tamil: "அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்\nஎன்பும் உரியர் பிறர்க்கு."
+kural_tamil: "பொதுநோக்கான் வேந்தன் வரிசையா நோக்கின்\nஅதுநோக்கி வாழ்வார் பலர்."
 kural_translation: "The loveless keep everything for themselves; the loving give even their bones to others."
 kural_number: 528
 kural_bridge: "Silos keep everything for their own department. Cross-functional love would mean sharing budgets, talent, and credit."

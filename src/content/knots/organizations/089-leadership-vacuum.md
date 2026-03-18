@@ -10,7 +10,7 @@ description: "One who doesn't prepare in good times suffers in hard times...."
 punch_line_1: "One who doesn't prepare in good times suffers in hard times."
 punch_line_2: "The leadership vacuum forms because the organization didn't develop leaders when it could. Now that it needs them, there are none."
 felt_hook: "'Development' meant: a leadership course, a mentoring program, and a stretch project that was too small to stretch."
-kural_tamil: "இன்பத்துள் இன்பம் விழையாதான் துன்பத்துள்\nதுன்பம் பிறிது வரும்."
+kural_tamil: "கருவியும் காலமும் செய்கையும் செய்யும்\nஅருவினையும் மாண்டது அமைச்சு."
 kural_translation: "One who doesn't prepare in good times suffers differently in hard times."
 kural_number: 631
 kural_bridge: "The leadership vacuum forms because the organization didn't develop leaders when it could. Now that it needs them, there are none."

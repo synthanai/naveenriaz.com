@@ -10,7 +10,7 @@ description: "One who sees hardship as natural will never truly suffer...."
 punch_line_1: "One who sees hardship as natural will never truly suffer."
 punch_line_2: "Organizations who see exhaustion as natural have normalized suffering. The team craves rest but the culture says hardship is the price."
 felt_hook: "Burnout isn't happening to your team. It's happening as your team. It's become the culture."
-kural_tamil: "இன்பம் விழையான் இடும்பை இயல்பென்பான்\nதுன்பம் உறுதல் இலன்."
+kural_tamil: "அடுக்கி வரினும் அழிவிலான் உற்ற\nஇடுக்கண் இடுக்கட் படும்."
 kural_translation: "One who doesn't crave pleasure and sees hardship as natural will never truly suffer."
 kural_number: 625
 kural_bridge: "Organizations who see exhaustion as natural have normalized suffering. The team craves rest but the culture says hardship is the price."

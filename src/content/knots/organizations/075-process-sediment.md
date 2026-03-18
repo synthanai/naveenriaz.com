@@ -10,7 +10,7 @@ description: "Even accumulated hardships cannot destroy one who stands firm...."
 punch_line_1: "Even accumulated hardships cannot destroy one who stands firm."
 punch_line_2: "Process sediment has accumulated layers of hardship on your team. But unlike Valluvar's hero, nobody chose to stand firm. They just stopped pushing back."
 felt_hook: "Each approval was added for a reason: a past mistake, an audit finding, a compliance requirement. Each layer made sense when it was added. Together, they form a geological record of organizational fear."
-kural_tamil: "அடுக்கி வரினும் அழிவிலான் உற்ற\nஇடுக்கண் இடுக்கட் படும்."
+kural_tamil: "அச்ச முடையார்க்கு அரணில்லை ஆங்கில்லை\nபொச்சாப் புடையார்க்கு நன்கு."
 kural_translation: "Even accumulated hardships cannot destroy one who stands firm."
 kural_number: 534
 kural_bridge: "Process sediment has accumulated layers of hardship on your team. But unlike Valluvar's hero, nobody chose to stand firm. They just stopped pushing back."

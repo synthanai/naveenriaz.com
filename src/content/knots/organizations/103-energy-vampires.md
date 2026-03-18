@@ -10,7 +10,7 @@ description: "Even harsh truth is acceptable. Useless pleasant words are not....
 punch_line_1: "Even harsh truth is acceptable. Useless pleasant words are not."
 punch_line_2: "Energy vampires drain through useless pleasant interaction: meetings that produce nothing, conversations that circle without resolving."
 felt_hook: "Each interaction extracts energy without depositing value. The participants leave lighter in spirit and heavier in resentment."
-kural_tamil: "நயனில சொல்லினும் சொல்லுக சான்றோர்\nபயனில சொல்லாமை நன்று."
+kural_tamil: "அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்\nபுன்சொல் உரைப்பான் பொறை."
 kural_translation: "Even harsh truth from the wise is acceptable; useless pleasant words are not."
 kural_number: 189
 kural_bridge: "Energy vampires drain through useless pleasant interaction: meetings that produce nothing, conversations that circle without resolving."

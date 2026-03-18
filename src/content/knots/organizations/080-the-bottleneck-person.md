@@ -10,7 +10,7 @@ description: "One who seeks no ease in good times builds resilience for hard tim
 punch_line_1: "One who seeks no ease in good times builds resilience for hard times."
 punch_line_2: "The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop."
 felt_hook: "They're not hoarding power. They're drowning in it. The organization funneled everything through one point because that point was reliable. Now that reliability is the constraint."
-kural_tamil: "இன்பத்துள் இன்பம் விழையாதான் துன்பத்துள்\nதுன்பம் பிறிது வரும்."
+kural_tamil: "கருவியும் காலமும் செய்கையும் செய்யும்\nஅருவினையும் மாண்டது அமைச்சு."
 kural_translation: "One who seeks no pleasure in prosperity gains immunity from pain in adversity."
 kural_number: 631
 kural_bridge: "The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop."

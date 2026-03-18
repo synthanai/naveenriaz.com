@@ -10,7 +10,7 @@ description: "Harsh rule that chains people is the heaviest burden...."
 punch_line_1: "Harsh rule that chains people is the heaviest burden."
 punch_line_2: "Autonomy starvation chains competent people with approval chains, creating resentment where empowerment should live."
 felt_hook: "Autonomy starvation doesn't look like oppression. It looks like process. It feels like suffocation in a well-lit room."
-kural_tamil: "கல்லார்ப் பிணிக்கும் கடுங்கோல் அதுவல்லது\nஇல்லை நிலக்குப் பொறை."
+kural_tamil: "வானோக்கி வாழும் உலகெல்லாம் மன்னவன்\nகோல் நோக்கி வாழுங் குடி."
 kural_translation: "Harsh rule that chains the unlearned is the heaviest burden on the land."
 kural_number: 542
 kural_bridge: "Autonomy starvation chains competent people with approval chains, creating resentment where empowerment should live."

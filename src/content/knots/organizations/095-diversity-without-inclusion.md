@@ -10,7 +10,7 @@ description: "Touching brings joy to the body. Hearing words brings joy to the e
 punch_line_1: "Touching brings joy to the body. Hearing words brings joy to the ear."
 punch_line_2: "Diversity without inclusion is like having children present but never hearing their words. Presence without voice is not participation."
 felt_hook: "The organization has invested in representation: diverse hiring pipelines, inclusive job descriptions, demographic targets. The portfolio of faces changed. The portfolio of ideas didn't."
-kural_tamil: "மக்கள் மெய்தீண்டல் உடற்கின்பம் மற்றவர்\nசொற்கேட்டல் இன்பம் செவிக்கு."
+kural_tamil: "குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்\nமத஧க்கண் மறுப்போல் உயர்ந்து."
 kural_translation: "Touching the body of your children brings joy; hearing their words brings joy to the ear."
 kural_number: 957
 kural_bridge: "Diversity without inclusion is like having children present but never hearing their words. Presence without voice is not participation."

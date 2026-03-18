@@ -10,7 +10,7 @@ description: "True knowledge is the supreme wealth...."
 punch_line_1: "True knowledge is the supreme wealth."
 punch_line_2: "Data worship replaces true knowledge with the appearance of knowing. The data is worshipped, but the insight it points to is never reached."
 felt_hook: "Data was supposed to be the input. It became the idol."
-kural_tamil: "உண்மை அறிவே மிகும்\nஎண்மை உடைமை இல்لخ."
+kural_tamil: "ஐயுணர்வு எய்தியக் கண்ணும் பயமின்றே\nமெய்யுணர்வு இல்லா தவர்க்கு."
 kural_translation: "True knowledge is the supreme wealth."
 kural_number: 354
 kural_bridge: "Data worship replaces true knowledge with the appearance of knowing. The data is worshipped, but the insight it points to is never reached."

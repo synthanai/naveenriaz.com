@@ -10,7 +10,7 @@ description: "The work of the wise: meet joyfully, part meaningfully...."
 punch_line_1: "The work of the wise: meet joyfully, part meaningfully."
 punch_line_2: "Skill obsolescence is the failure to part meaningfully with outdated skills and meet new ones joyfully."
 felt_hook: "Obsolescence isn't incompetence. It's competence in a world that has moved on."
-kural_tamil: "உவப்பத் தலைக்கூடி உள்ளப் பிரிதல்\nஅனைத்தே புலவர் தொழில்."
+kural_tamil: "தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்\nகற்றனைத் தூறும் அறிவு."
 kural_translation: "The work of the wise is to meet joyfully and part meaningfully."
 kural_number: 396
 kural_bridge: "Skill obsolescence is the failure to part meaningfully with outdated skills and meet new ones joyfully."

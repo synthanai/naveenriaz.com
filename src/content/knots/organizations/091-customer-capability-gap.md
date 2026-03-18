@@ -10,7 +10,7 @@ description: "Challenges strengthen the resolute. The wavering break...."
 punch_line_1: "Challenges strengthen the resolute. The wavering break."
 punch_line_2: "The customer capability gap is the space between what was promised and what can be delivered. Each broken promise weakens the organization's resolve."
 felt_hook: "The gap between promise and capability isn't a marketing problem. It's a trust problem. Every customer interaction that falls short of the brand promise is a withdrawal from the trust account."
-kural_tamil: "எடுக்கும் மனத்தான்இடர் எடுக்கும் எடுக்கும்\nஇடரினும் ஒல்காத இடத்து."
+kural_tamil: "முன்னுறக் காவாது இழுக்கியான் தன்பிழை\nபின்னூறு இரங்கி விடும்."
 kural_translation: "Challenges strengthen the resolute; the wavering are broken by each new trial."
 kural_number: 535
 kural_bridge: "The customer capability gap is the space between what was promised and what can be delivered. Each broken promise weakens the organization's resolve."

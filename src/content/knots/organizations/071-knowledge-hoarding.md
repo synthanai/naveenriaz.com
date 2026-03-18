@@ -10,7 +10,7 @@ description: "The learned value sharing knowledge; it is their greatest currency
 punch_line_1: "The learned value sharing knowledge; it is their greatest currency."
 punch_line_2: "Knowledge hoarding turns that currency into a deflationary spiral: the more you hold, the less the system circulates."
 felt_hook: "Each person is individually rational: knowledge is power. In an organization that rewards visibility over contribution, being the only one who knows something is job security."
-kural_tamil: "கற்றார் இழிவன்றால் கற்றார் கடைநிலை\nகற்றார்முன் கற்ற செலவு."
+kural_tamil: "அரங்கின்றி வட்டாடி யற்றே நிரம்பிய\nநூலின்றிக் கோட்டி கொளல்."
 kural_translation: "The learned value sharing their knowledge; it is their greatest currency."
 kural_number: 401
 kural_bridge: "Knowledge hoarding turns that currency into a deflationary spiral: the more you hold, the less the system circulates."

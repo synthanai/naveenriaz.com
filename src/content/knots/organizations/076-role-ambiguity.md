@@ -10,7 +10,7 @@ description: "When you see what is right, act on it...."
 punch_line_1: "When you see what is right, act on it."
 punch_line_2: "Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act."
 felt_hook: "When a problem appears, three people investigate separately. Or nobody does, because each assumes someone else will handle it."
-kural_tamil: "ஓர்த்துள்ளம் உள்ள துணரின் ஒருதலையாப்\nபேர்த்துள்ள வேண்டா பிறிது."
+kural_tamil: "நாடோறும் நாடுக மன்னன் வினைசெய்வான்\nகோடாமை கோடா துலகு."
 kural_translation: "When you see what is right, act on it. Don't look for another reason."
 kural_number: 520
 kural_bridge: "Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act."

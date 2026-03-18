@@ -10,7 +10,7 @@ description: "Truth seen by one without understanding. Goodness from one without
 punch_line_1: "Truth seen by one without understanding. Goodness from one without compassion."
 punch_line_2: "Forecasts without understanding are like truth without comprehension: the prediction exists but the insight doesn't."
 felt_hook: "The addiction isn't to accuracy. It's to the feeling of certainty."
-kural_tamil: "தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்\nஅருளாதான் செய்யும் அறம்."
+kural_tamil: "அமைந்தாங் கொழுகான் அளவறியான் தன்னை\nவியந்தான் விரைந்து கெடும்."
 kural_translation: "Goodness from one without compassion is like truth seen by one without understanding."
 kural_number: 474
 kural_bridge: "Forecasts without understanding are like truth without comprehension: the prediction exists but the insight doesn't."

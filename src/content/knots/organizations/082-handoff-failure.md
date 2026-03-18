@@ -10,7 +10,7 @@ description: "Poverty among the wise hurts less than wealth among the ignorant..
 punch_line_1: "Poverty among the wise hurts less than wealth among the ignorant."
 punch_line_2: "Handoff failure transfers the baton from a capable team to the gap between teams, where expertise goes to zero."
 felt_hook: "Each team is competent. The space between them is competence-free."
-kural_tamil: "நல்லார்கண் பட்ட வறுமையின் இன்னாதே\nகல்லார்கண் பட்ட திரு."
+kural_tamil: "தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால்\nஒத்தாங்கு ஒறுப்பது வேந்து."
 kural_translation: "Poverty in the hands of the wise hurts less than wealth in the hands of the ignorant."
 kural_number: 561
 kural_bridge: "Handoff failure transfers the baton from a capable team to the gap between teams, where expertise goes to zero."

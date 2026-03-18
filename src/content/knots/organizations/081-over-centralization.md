@@ -10,7 +10,7 @@ description: "Those who understand duty maintain generosity...."
 punch_line_1: "Those who understand duty maintain generosity."
 punch_line_2: "Over-centralization is the failure to distribute duty: headquarters decides, everywhere else executes."
 felt_hook: "Over-centralization treats distributed intelligence as a threat rather than a resource."
-kural_tamil: "இடனில் பருவத்தும் ஒப்புரவிற் கொல்க\nகடனறி காட்சி யவர்."
+kural_tamil: "இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து\nஅதனை அவன்கண் விடல்."
 kural_translation: "Those who understand duty maintain generosity even in hard times."
 kural_number: 517
 kural_bridge: "Over-centralization is the failure to distribute duty: headquarters decides, everywhere else executes."

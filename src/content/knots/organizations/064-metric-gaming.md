@@ -10,7 +10,7 @@ description: "One who speaks truth from the heart surpasses those who practice a
 punch_line_1: "One who speaks truth from the heart surpasses those who practice austerity and charity."
 punch_line_2: "Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart."
 felt_hook: "Your organization optimized for the metric and lost sight of the thing the metric was supposed to measure."
-kural_tamil: "மனத்தொடு வாய்மை மொழியின் தவத்தொடு\nதானஞ்செய் வாரின் தலை."
+kural_tamil: "தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து\nவேட்டுவன் புள்சிமிழ்த் தற்று."
 kural_translation: "One who speaks truth from the heart surpasses even those who practice austerity and charity."
 kural_number: 274
 kural_bridge: "Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart."

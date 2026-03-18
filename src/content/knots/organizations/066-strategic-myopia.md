@@ -10,7 +10,7 @@ description: "One who acts without knowing the method finds ruin...."
 punch_line_1: "One who acts without knowing the method finds ruin."
 punch_line_2: "Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus."
 felt_hook: "But nobody looks at five-year trajectories when the quarterly bonus depends on the next thirteen weeks."
-kural_tamil: "ஒல்லும் வகையறாது வினைசெய்வான் தன்கருமம்\nசெல்லும் வகையறிவான் பிற."
+kural_tamil: "ஆகாறு அளவிட்டி தாயினுங் கேடில்லை\nபோகாறு அகலாக் கடை."
 kural_translation: "One who acts without knowing the method finds ruin; one who knows the method achieves."
 kural_number: 478
 kural_bridge: "Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus."

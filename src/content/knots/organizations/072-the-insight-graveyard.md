@@ -10,7 +10,7 @@ description: "The more you learn, the more you discover ignorance...."
 punch_line_1: "The more you learn, the more you discover ignorance."
 punch_line_2: "The insight graveyard buries what was learned. The more the organization discovers, the more it fails to act on its discoveries."
 felt_hook: "Nobody acted on it. Six months later, the competitor who saw the same pattern shipped the product your research described."
-kural_tamil: "அறிதொறும் அறியாமை கண்டற்றால் காமம்\nசெறிதொறும் சேயிழை மாட்டு."
+kural_tamil: "கற்றார்முன் கற்ற செலச்சொல்லித் தாம்கற்ற\nமிக்காருள் மிக்க கொளல்."
 kural_translation: "The more you learn, the more you discover ignorance, like desire that deepens the closer you get."
 kural_number: 724
 kural_bridge: "The insight graveyard buries what was learned. The more the organization discovers, the more it fails to act on its discoveries."

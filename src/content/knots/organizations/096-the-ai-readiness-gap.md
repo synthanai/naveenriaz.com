@@ -10,7 +10,7 @@ description: "Avoiding harm and standing firm...."
 punch_line_1: "Avoiding harm and standing firm."
 punch_line_2: "The AI readiness gap means the organization can't avoid the harm of poor data or stand firm on the foundation of its AI strategy because neither exists."
 felt_hook: "The AI strategy was written from the destination backward. The foundation was never assessed."
-kural_tamil: "ஊறொரால் உற்றபின் ஒல்காமை இவ்விரண்டின்\nஆறென்பர் ஆய்ந்தவர் கோள்."
+kural_tamil: "கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்\nஎற்றா விழுமந் தரும்."
 kural_translation: "Avoiding harm and standing firm: these two define the path, say the wise."
 kural_number: 663
 kural_bridge: "The AI readiness gap means the organization can't avoid the harm of poor data or stand firm on the foundation of its AI strategy because neither exists."

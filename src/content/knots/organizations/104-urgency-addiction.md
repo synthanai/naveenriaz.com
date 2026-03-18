@@ -10,7 +10,7 @@ description: "Excess effort loses gains. The losses from overstretch exceed what
 punch_line_1: "Excess effort loses gains. The losses from overstretch exceed what was sought."
 punch_line_2: "Urgency addiction overloads the system until the losses from constant urgency exceed any gains from speed."
 felt_hook: "The organization isn't productive. It's reactive. And it's addicted to the reaction."
-kural_tamil: "ஆக்கம் இழக்கும் அளவிறந்து ஆற்றின்\nபோக்கும் அதனினும் பல."
+kural_tamil: "கலங்காது கண்ட வினைக்கண் துளங்காது\nதூக்கங் கடிந்து செயல்."
 kural_translation: "Excess effort loses gains; the losses from overstretch exceed what was originally sought."
 kural_number: 668
 kural_bridge: "Urgency addiction overloads the system until the losses from constant urgency exceed any gains from speed."

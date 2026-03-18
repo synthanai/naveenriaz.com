@@ -10,7 +10,7 @@ description: "The world endures because of those with character...."
 punch_line_1: "The world endures because of those with character."
 punch_line_2: "Matrix structures endure only when people of character navigate them. Without character, three bosses equal three competing versions of reality."
 felt_hook: "In theory, the matrix combines functional depth with cross-functional breadth. In practice, it creates parallel accountability and serial confusion."
-kural_tamil: "பண்புடையார்ப் பட்டுண்டு உலகம் அதுஇன்றேல்\nமண்புக்கு மாய்வது மன்."
+kural_tamil: "இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட\nபெயலும் விளையுளும் தொக்கு."
 kural_translation: "The world endures because of those with character; without them, it crumbles."
 kural_number: 545
 kural_bridge: "Matrix structures endure only when people of character navigate them. Without character, three bosses equal three competing versions of reality."

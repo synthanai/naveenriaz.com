@@ -10,7 +10,7 @@ description: "When you perceive what is right, do it...."
 punch_line_1: "When you perceive what is right, do it."
 punch_line_2: "Reward misalignment rewards what isn't right: crisis heroes over preventers, individual stars over team builders."
 felt_hook: "Your incentive structure teaches the organization what to replicate."
-kural_tamil: "ஓர்த்துள்ளம் உள்ள துணரின் ஒருதலையாப்\nபேர்த்துள்ள வேண்டா பிறிது."
+kural_tamil: "நாடோறும் நாடுக மன்னன் வினைசெய்வான்\nகோடாமை கோடா துலகு."
 kural_translation: "When you clearly perceive what is right, do it. Don't look for another reason."
 kural_number: 520
 kural_bridge: "Reward misalignment rewards what isn't right: crisis heroes over preventers, individual stars over team builders."

@@ -10,7 +10,7 @@ description: "Even humbled, the learned stand tall...."
 punch_line_1: "Even humbled, the learned stand tall."
 punch_line_2: "Knowledge extinction lowers the organization permanently: what left can never be relearned because the teacher is gone."
 felt_hook: "All of it lived in one person's head. They gave two weeks notice. The knowledge gave zero."
-kural_tamil: "உடையார்முன் இல்லார்போல் ஏக்கற்றும் கற்றார்\nகடையரே கல்லா தவர்."
+kural_tamil: "உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்\nகடையரே கல்லா தவர்."
 kural_translation: "Even humbled, the learned stand tall. The unlearned remain low."
 kural_number: 395
 kural_bridge: "Knowledge extinction lowers the organization permanently: what left can never be relearned because the teacher is gone."

@@ -10,7 +10,7 @@ description: "Numbers and letters are the two eyes of the living...."
 punch_line_1: "Numbers and letters are the two eyes of the living."
 punch_line_2: "The expertise trap blinds one eye: the specialist sees deeply in one domain and nothing outside it."
 felt_hook: "Expertise became a cage. Depth became a limitation."
-kural_tamil: "எண்ணென்ப ஏனை எழுத்தென்ப இவ்விரண்டும்\nகண்ணென்ப வாழும் உயிர்க்கு."
+kural_tamil: "எவ்வ துறைவது உலகம் உலகத்தோடு\nஅவ்வ துறைவ தறிவு."
 kural_translation: "Numbers and letters are the two eyes of the living."
 kural_number: 426
 kural_bridge: "The expertise trap blinds one eye: the specialist sees deeply in one domain and nothing outside it."

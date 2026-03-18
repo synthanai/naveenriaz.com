@@ -10,7 +10,7 @@ description: "Speaking is easy. Doing as spoken is difficult...."
 punch_line_1: "Speaking is easy. Doing as spoken is difficult."
 punch_line_2: "Groupthink makes speaking easy because everyone says the same thing. The difficulty is hidden: nobody speaks the truth."
 felt_hook: "Alignment means different perspectives converge on a shared conclusion. Groupthink means nobody had a different perspective to begin with, or nobody felt safe enough to voice it."
-kural_tamil: "சொல்லுதல் யார்க்கும் எளிய அரியவாம்\nசொல்லிய வண்ணம் செயல்."
+kural_tamil: "இடிக்குந் துணையாரை யாள்வரை யாரே\nகெடுக்குந் தகைமை யவர்."
 kural_translation: "Speaking is easy for anyone; doing as spoken is the difficult part."
 kural_number: 447
 kural_bridge: "Groupthink makes speaking easy because everyone says the same thing. The difficulty is hidden: nobody speaks the truth."

@@ -10,7 +10,7 @@ description: "As the flower rises to the water height, so does stature match the
 punch_line_1: "As the flower rises to the water height, so does stature match the will."
 punch_line_2: "Structural inertia holds the flower at yesterday's water level while today's water has risen."
 felt_hook: "The restructure changed the diagram. It didn't change the organism."
-kural_tamil: "வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்\nஉள்ளத் தனையது உயர்வு."
+kural_tamil: "பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்\nசால மிகுத்துப் பெயின்."
 kural_translation: "As the flower rises to the water's height, so does stature rise to match the will."
 kural_number: 475
 kural_bridge: "Structural inertia holds the flower at yesterday's water level while today's water has risen."

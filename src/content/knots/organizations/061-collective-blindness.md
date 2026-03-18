@@ -10,7 +10,7 @@ description: "Those who foresee what is coming are never shaken...."
 punch_line_1: "Those who foresee what is coming are never shaken."
 punch_line_2: "Collective blindness is the organizational scotoma: the signal everyone can see but nobody processes."
 felt_hook: "The organization had eyes. It didn't have sight."
-kural_tamil: "எதிரதாக் காக்கும் அறிவினார்க் கில்லை\nஅதிர வருவதோர் நோய்."
+kural_tamil: "காணாதான் காட்டுவான் தான்காணான் காணாதான்\nகண்டானாம் தான்கண்ட வாறு."
 kural_translation: "Those who foresee what is coming are never shaken by what arrives."
 kural_number: 849
 kural_bridge: "Collective blindness is the organizational scotoma: the signal everyone can see but nobody processes."

@@ -10,7 +10,7 @@ description: "Don't start any task until you've found the right conditions...."
 punch_line_1: "Don't start any task until you've found the right conditions."
 punch_line_2: "Technology sprawl starts every tool without finding the right conditions for any of them."
 felt_hook: "The blueprint says unified systems. Reality says ecosystem chaos."
-kural_tamil: "தொடங்கற்க எவ்வினையும் எள்ளற்க முற்றும்\nஇடங்கண்ட பின்அல் லது."
+kural_tamil: "ஊறொரால் உற்றபின் ஒல்காமை இவ்விரண்டின்\nஆறென்பர் ஆய்ந்தவர் கோள்."
 kural_translation: "Don't start any task, and don't dismiss any, until you've found the right conditions."
 kural_number: 662
 kural_bridge: "Technology sprawl starts every tool without finding the right conditions for any of them."

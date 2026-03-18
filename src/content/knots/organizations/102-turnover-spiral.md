@@ -10,7 +10,7 @@ description: "Greatness comes to those who persevere and gain clarity...."
 punch_line_1: "Greatness comes to those who persevere and gain clarity."
 punch_line_2: "Turnover spirals because nobody perseveres long enough to gain clarity. Each departure adds difficulty, reducing the reason to stay."
 felt_hook: "Each departure increased the load on those remaining. Each increased load reduced the reason to stay. The spiral has its own gravity."
-kural_tamil: "அருமையறிந்து ஆற்றி அதன்கண் தெளிந்து\nபெருமையுடையான் பெறும்."
+kural_tamil: "மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்\nஇன்னான் எனப்படுஞ் சொல்."
 kural_translation: "Greatness comes to one who understands difficulty, perseveres, and gains clarity."
 kural_number: 453
 kural_bridge: "Turnover spirals because nobody perseveres long enough to gain clarity. Each departure adds difficulty, reducing the reason to stay."

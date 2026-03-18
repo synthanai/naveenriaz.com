@@ -10,7 +10,7 @@ description: "One who stands free of folly creates millions...."
 punch_line_1: "One who stands free of folly creates millions."
 punch_line_2: "Meaning drought is the folly of producing competent work without knowing why. The team performs but can't say why it matters."
 felt_hook: "Meaning drought isn't about bad work. It's about good work disconnected from purpose. The team is competent and empty."
-kural_tamil: "செருக்குங் களிப்பும் அழுக்காறும் பேதமையும்\nஒருக்கி நிற்பான் கோடம் பலகோடு."
+kural_tamil: "நாண்அகத் தில்லார் இயக்கம் மரப்பாவை\nநாணால் உயிர்மருட்டி அற்று."
 kural_translation: "One who stands free of arrogance, excess, envy, and folly creates millions in worth."
 kural_number: 1020
 kural_bridge: "Meaning drought is the folly of producing competent work without knowing why. The team performs but can't say why it matters."

@@ -10,7 +10,7 @@ description: "One flaw in wisdom pushes wholeness far away...."
 punch_line_1: "One flaw in wisdom pushes wholeness far away."
 punch_line_2: "Emotional illiteracy is the single flaw that pushes organizational wisdom far away. You can't fix what you can't name."
 felt_hook: "But emotions drive every decision, every collaboration, every conflict. They're the operating system running beneath the spreadsheet. And nobody knows how to read the logs."
-kural_tamil: "அற்றம் அறிவிற் கொருமாசில் அற்றம்தான்\nசெற்றுனைத்து சேய்மையுடைத்து."
+kural_tamil: "அரம்போலும் கூர்மைய ரேனும் மரம்போல்வர்\nமக்கட்பண்பு இல்லா தவர்."
 kural_translation: "One flaw in wisdom is enough to push wholeness far away."
 kural_number: 997
 kural_bridge: "Emotional illiteracy is the single flaw that pushes organizational wisdom far away. You can't fix what you can't name."

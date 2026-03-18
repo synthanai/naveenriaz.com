@@ -10,7 +10,7 @@ description: "Avoiding harm and standing firm when it arrives...."
 punch_line_1: "Avoiding harm and standing firm when it arrives."
 punch_line_2: "Scaling pains are the harm that arrives when the organization outgrows its original design. Standing firm means redesigning, not just enduring."
 felt_hook: "The blueprint says growth. The structure can't hold."
-kural_tamil: "ஊறொரால் உற்றபின் ஒல்காமை இவ்விரண்டின்\nஆறென்பர் ஆய்ந்தவர் கோள்."
+kural_tamil: "கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்\nஎற்றா விழுமந் தரும்."
 kural_translation: "Avoiding harm and standing firm when harm arrives: these two are the path, say the wise."
 kural_number: 663
 kural_bridge: "Scaling pains are the harm that arrives when the organization outgrows its original design. Standing firm means redesigning, not just enduring."

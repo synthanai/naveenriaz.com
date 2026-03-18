@@ -10,7 +10,7 @@ description: "The wise stand in eternal fame. The world endures through their le
 punch_line_1: "The wise stand in eternal fame. The world endures through their legacy."
 punch_line_2: "The zombie organization moves without wisdom, endures without legacy. It operates but leaves nothing behind."
 felt_hook: "The purpose left years ago. The machinery kept running. The zombie walks."
-kural_tamil: "புகழொடு நின்றனர் புத்தேள் ஐயர்\nநகழொடு நின்றது இவ்வுலகு."
+kural_tamil: "ஊருணி நீர்நிறைந் தற்றே உலகவாம்\nபேரறி வாளன் திரு."
 kural_translation: "The wise stand in eternal fame; this world endures through their legacy."
 kural_number: 215
 kural_bridge: "The zombie organization moves without wisdom, endures without legacy. It operates but leaves nothing behind."

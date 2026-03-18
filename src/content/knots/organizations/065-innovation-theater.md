@@ -10,7 +10,7 @@ description: "The firmness of enterprise is the firmness of mind. All else is se
 punch_line_1: "The firmness of enterprise is the firmness of mind. All else is secondary."
 punch_line_2: "Innovation theater has the firmness of a stage set: impressive from the front, nothing behind it."
 felt_hook: "Innovation theater has all the props of creativity and none of the commitment."
-kural_tamil: "வினைத்திட்பம் என்பது ஒருவன் மனத்திட்பம்\nமற்றைய எல்லாம் பிறிது."
+kural_tamil: "துணைநலம் ஆக்கம் த்ருஉம் வினைநலம்\nவேண்டிய எல்லாந் தரும்."
 kural_translation: "The firmness of an enterprise is the firmness of one's mind; all else is secondary."
 kural_number: 651
 kural_bridge: "Innovation theater has the firmness of a stage set: impressive from the front, nothing behind it."

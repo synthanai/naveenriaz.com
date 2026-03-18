@@ -10,7 +10,7 @@ description: "Examine virtues, examine faults, choose accordingly...."
 punch_line_1: "Examine virtues, examine faults, choose accordingly."
 punch_line_2: "Outsourcing identity means the organization stopped examining its own virtues and faults because someone else does the thinking."
 felt_hook: "You didn't just outsource the function. You outsourced the identity."
-kural_tamil: "குணம்நாடிக் குற்றமும் நாடி அவற்றுள்\nமிகைநாடி மிக்க கொளல்."
+kural_tamil: "அறனறிந்து மூத்த அறிவுடையார் கேண்மை\nதிறனறிந்து தேர்ந்து கொளல்."
 kural_translation: "Examine virtues, examine faults, see which prevails, and choose accordingly."
 kural_number: 441
 kural_bridge: "Outsourcing identity means the organization stopped examining its own virtues and faults because someone else does the thinking."

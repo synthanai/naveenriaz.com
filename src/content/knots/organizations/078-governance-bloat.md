@@ -10,7 +10,7 @@ description: "Acquire wealth; no weapon is sharper...."
 punch_line_1: "Acquire wealth; no weapon is sharper."
 punch_line_2: "Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything."
 felt_hook: "The governance framework was designed to reduce risk. It succeeded so well that it eliminated all risk, including the risk of actually accomplishing anything."
-kural_tamil: "செய்க பொருளைச் செறுநர் செருக்கறுக்கும்\nஎஃகதனிற் கூரிய தில்."
+kural_tamil: "ஓர்ந்துகண் ணோடாது இறைபுரிந்து யார்மாட்டும்\nதேர்ந்துசெய் வஃதே முறை."
 kural_translation: "Acquire wealth; there is no sharper weapon against the arrogance of enemies."
 kural_number: 541
 kural_bridge: "Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything."

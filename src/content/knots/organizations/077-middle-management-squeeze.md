@@ -10,7 +10,7 @@ description: "The world endures because of those with good character...."
 punch_line_1: "The world endures because of those with good character."
 punch_line_2: "Middle managers are the load-bearing columns of an organization. Squeeze them, and the structure crumbles."
 felt_hook: "Middle managers hold the organization together while being squeezed from both directions."
-kural_tamil: "பண்புடையார்ப் பட்டுண்டு உலகம் அதுஇன்றேல்\nமண்புக்கு மாய்வது மன்."
+kural_tamil: "இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட\nபெயலும் விளையுளும் தொக்கு."
 kural_translation: "The world endures because of those with good character; without them, it crumbles to dust."
 kural_number: 545
 kural_bridge: "Middle managers are the load-bearing columns of an organization. Squeeze them, and the structure crumbles."
