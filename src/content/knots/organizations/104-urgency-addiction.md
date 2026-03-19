@@ -34,12 +34,16 @@ Your team runs on adrenaline, not strategy. Every email is flagged. Every messag
 When everything is urgent, nothing is. The word loses meaning. The system loses the ability to distinguish between genuine emergencies and manufactured ones.
 The organization isn't productive. It's reactive. And it's addicted to the reaction.
 
-I was addicted to urgency.
-I thrived in crisis mode. The adrenaline. The focus. The sense of importance.
-I unconsciously created urgency in my team: last-minute deadlines, surprise priorities, scope changes that required immediate response.
-My team was always responding. Never planning. Always firefighting. Never fireproofing.
-I told myself we were agile. We were actually chaotic. The difference: agile is responsive by design. Chaos is responsive by failure.
-My urgency addiction cost the team their ability to think long-term. And it cost me three of my best people.
+Ricardo Semler inherited Semco from his father and immediately began dismantling the urgency culture.
+I studied the transformation through his books and the academic research.
+Employees set their own hours.
+There are no dress codes.
+Workers approve their own travel expenses.
+Some employees set their own salaries.
+When Semler removed the urgency architecture, revenue grew from $4 million to $212 million.
+The urgency was never the fuel.
+It was the friction.
+Remove the friction, and the engine runs faster because it runs on meaning rather than adrenaline.
 
 Dopamine rewards urgency regardless of its source.
 In neuroscience, the dopamine system doesn't distinguish between urgent-and-important and urgent-and-trivial. Both trigger the same chemical reward. The brain learns: urgency feels good.

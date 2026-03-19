@@ -35,12 +35,14 @@ The supply chain disruption wasn't on it. The key person departure wasn't on it.
 But 'server downtime' was rated High, color-coded red, and had a mitigation plan with three owners.
 The risk register managed the risks that were easy to articulate, not the risks that were likely to occur.
 
-I built risk registers for eight years.
-They were beautiful documents. Stakeholders loved them. Board presentations featured them. They projected competence, thoroughness, and control.
-They were fiction.
-Not intentionally. But the risks we could identify, name, and categorize were always the risks we already understood. The risks that actually materialized were the ones that lived outside the framework.
-The 2020 pandemic wasn't on a single risk register I ever saw. And every organization I worked with had a risk management function.
-We weren't managing risk. We were performing risk literacy.
+Boeing's decision debt accumulated over three decades.
+I mapped the chain.
+In 1997, the merger with McDonnell Douglas deferred the cultural question.
+In 2001, moving HQ from Seattle to Chicago deferred the engineering proximity question.
+In 2011, choosing to re-engine the 737 rather than design a new plane deferred the safety architecture question.
+Each deferral was rational in isolation.
+Stacked together, they created the 737 MAX, a plane whose aerodynamics required software to override physics, whose software was designed by $9-an-hour contractors.
+Decision debt compounds silently until it crashes.
 
 Risk registers predict the weather they already know.
 In meteorology, forecast models are built on historical data and known atmospheric patterns. They're excellent for predicting weather within the model's parameters. But when conditions exceed the model's training data, the forecast diverges from reality.

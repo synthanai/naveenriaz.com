@@ -36,11 +36,12 @@ Customers are leaving. Employees are disengaged. The product is deteriorating.
 The numbers are technically accurate. The story they tell is fiction.
 Your organization optimized for the metric and lost sight of the thing the metric was supposed to measure.
 
-I gamed a metric once. Deliberately.
-My team was measured on ticket resolution time. The target was 48 hours. We were averaging 72.
-I didn't fix the underlying problem. I changed the definition of 'resolution.' We started closing tickets when the first response was sent, not when the issue was actually resolved.
-Resolution time dropped to 12 hours. The dashboard turned green. My quarterly review was excellent.
-Customer satisfaction dropped 15 points the following quarter. But that was someone else's metric.
+Target's 2013 data breach exposed 40 million customer credit card numbers.
+I found the metric gaming buried in the incident report.
+Target's security team, contracted through FireEye, had detected the intrusion and sent alerts.
+The alerts were categorized, logged, and deprioritized because the team was measured on 'incidents resolved per quarter,' not 'incidents prevented.' The metric incentivized closing tickets, not preventing breaches.
+When the attackers exfiltrated 11 GB of card data, the security system was functioning perfectly.
+By its own metrics.
 
 When a measure becomes a target, it ceases to be a good measure.
 In economics, Goodhart's Law states that any metric used for control will be optimized at the expense of the thing it was designed to measure. The metric gets gamed. The underlying reality gets ignored.

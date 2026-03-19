@@ -34,12 +34,15 @@ Your system rewards the wrong behavior. The firefighter is promoted. The fire pr
 The person who worked eighty hours to save a project they themselves under-scoped received a standing ovation. The person who scoped correctly, planned thoroughly, and delivered without drama received: nothing.
 Your incentive structure teaches the organization what to replicate.
 
-I was rewarded for a crisis I created.
-I under-scoped a project. Deliberately aggressive timeline. Insufficient resources. When it predictably spiraled, I switched to hero mode: nights, weekends, all-hands war rooms.
-The project shipped two days late. I was praised for my 'extraordinary effort.' I received a spot bonus.
-The project next to mine shipped on time, under budget, without drama. That project manager received no recognition.
-The lesson was clear: create problems dramatically, solve them heroically, receive rewards. Prevent problems quietly, deliver reliably, receive silence.
-I learned the lesson. So did everyone watching.
+Lincoln Electric has operated a piece-rate incentive system for over 100 years.
+I found the research extraordinary.
+Every worker is paid based on output.
+No seniority-based pay.
+No guaranteed bonuses.
+In exchange, the company has a guaranteed employment policy: no worker has been laid off for economic reasons since 1948.
+The alignment is total: work hard, get paid more, never fear losing your job.
+Reward misalignment occurs when the organization rewards behavior it claims to discourage, or punishes behavior it claims to value.
+Lincoln Electric eliminated the gap.
 
 Conditioning shapes behavior regardless of intention.
 In behavioral science, a Skinner box demonstrates that organisms repeat behaviors that are rewarded and abandon behaviors that aren't. The organism doesn't evaluate whether the reward makes sense. It simply learns: do this, get rewarded.

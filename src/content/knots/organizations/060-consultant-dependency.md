@@ -34,12 +34,16 @@ They left. The change left with them.
 Not because the change was bad. Because the capability to sustain it never transferred from the consultant's laptop to your organization's muscle memory.
 You bought a transformation. You didn't build one.
 
-I've been the consultant.
-I parachuted into organizations, diagnosed their problems, designed their solutions, built their roadmaps, and presented their futures.
-I was genuinely helpful. The strategy was sound. The frameworks were proven.
-But I took the method with me when I left.
-The organization could execute the plan I'd written. It couldn't adapt it. It couldn't evolve it. It couldn't diagnose the next problem using the same thinking.
-I'd given them a fish, beautifully plated, expertly seasoned, perfectly presented. I hadn't taught them to fish. And at $2,000 a day, the incentive to teach was structurally absent.
+3G Capital acquired Kraft in 2015 and imposed zero-based budgeting overnight.
+I read the Kraft-Heinz writedown research.
+Every budget starts at zero.
+Every expense must be rejustified.
+Every 'unnecessary' cost is eliminated.
+Within three years, R&D spending was slashed.
+Marketing budgets were halved.
+In 2019, Kraft-Heinz wrote down $15.4 billion, one of the largest in consumer goods history.
+The culture shock wasn't the budgeting methodology.
+It was the assumption that a food company's institutional knowledge, its recipes, its brand relationships, its R&D pipeline, could be reduced to a spreadsheet line item.
 
 External capability creates internal atrophy.
 In medicine, prolonged use of a prosthetic or assistive device can lead to muscle atrophy in the supported limb. The body adapts to the support by reducing investment in the muscles it replaces. Remove the support and the limb is weaker than before.

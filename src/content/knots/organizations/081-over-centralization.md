@@ -34,12 +34,11 @@ Your regional manager has fifteen years of market experience. The strategy team 
 The framework won. The market lost.
 Over-centralization treats distributed intelligence as a threat rather than a resource.
 
-I ran a regional team that was over-centralized.
-We knew our market: the seasonal patterns, the competitor dynamics, the customer preferences that differed from the national average.
-None of it mattered. Product decisions were made centrally. Pricing was set centrally. Marketing campaigns were designed centrally.
-We launched a winter campaign in a tropical market. We priced for metropolitan demographics in a rural region. We promoted features that solved problems our customers didn't have.
-I escalated. The response: 'We need consistency across regions.'
-Consistency won. Relevance lost.
+Wirecard's real organization chart was invisible.
+The official structure showed a German fintech with regulated banking operations.
+The shadow organization, the one I found documented in the FT's investigative series and the German parliamentary inquiry, had phantom subsidiaries in the Philippines, non-existent 'third-party partners' processing fake transactions, and €1.9 billion in cash that didn't exist.
+The shadow organization was the real organization.
+The official one was the costume it wore to board meetings.
 
 One brain can't process information from eight arms simultaneously.
 In biology, the octopus has a centralized brain but also distributes neural processing to its arms. Each arm can taste, touch, and react independently. If the octopus tried to centralize all processing, its response time would collapse.

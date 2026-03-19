@@ -33,13 +33,11 @@ Your initiative started with excitement. All-hands announcements. Dedicated reso
 By month four, the energy had dissipated. The executive moved to a new priority. The dedicated resources were quietly borrowed for another project. The all-hands stopped mentioning it.
 Nobody cancelled the initiative. That would require a decision. Instead, it decayed. Slowly. Silently. The way things do when nobody is watching.
 
-I watched momentum decay kill the best initiative I ever supported.
-It was a customer experience redesign. Genuinely important. Genuinely funded. Genuinely staffed.
-Month one: weekly steering meetings, daily standups, visible progress.
-Month three: biweekly steering, standups became status emails.
-Month six: monthly check-ins, status emails became quarterly reports.
-Month nine: the program manager was reassigned. Nobody replaced her.
-The initiative was never cancelled. It just ran out of attention. Like a satellite losing altitude one kilometer at a time, still technically orbiting, functionally dead.
+When Travis Kalanick ran Uber, the cultural mandates came from the top with no negotiation. 'Always be hustlin.' 'Make magic.' 'Super-pumped.' I traced the consequences: a culture that celebrated aggression created Greyball, a tool to evade law enforcement.
+It created a workplace where Susan Fowler's harassment complaint was dismissed by HR.
+The top-down imposition wasn't accidental.
+It was Kalanick's explicit theory of management: culture is what the founder says it is, and anyone who disagrees should leave. 8,000 people filed complaints.
+The founder left instead.
 
 Everything decays without sustained energy.
 In physics, orbital decay occurs when atmospheric drag gradually reduces a satellite's altitude. The satellite is still moving. It's still in orbit. But each orbit brings it fractionally lower. Without periodic boosts to re-elevate it, gravity wins.

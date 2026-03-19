@@ -38,11 +38,16 @@ You've been in the room when someone brings up the failed acquisition, the botch
 Someone senior clears their throat. "That was a different time." The conversation pivots.
 The fault stays, unexamined, in the walls.
 
-I've helped bury a few myself.
-A product I spent two years building was quietly killed after launch. Not a failure in private, but in public. Customers had onboarded. Partners had co-invested.
-The company's official story: "We strategically refocused." My private story: we messed up the pricing, panicked, and pulled the plug.
-Three years later, I watched a new team make the exact same pricing mistake.
-Nobody told them. The institutional memory was intact. The institutional honesty was not.
+The Boeing-McDonnell Douglas merger of 1997 is the most documented identity death in corporate history.
+I spent weeks in the research.
+Before the merger, Boeing's identity was engineering.
+Engineers challenged management.
+Quality was non-negotiable.
+McDonnell Douglas brought a different culture: financial discipline, cost reduction, shareholder value.
+On paper, Boeing acquired McDonnell Douglas.
+In practice, McDonnell Douglas culture acquired Boeing.
+Harry Stonecipher, the McDonnell Douglas CEO, became Boeing's COO.
+Within a decade, the company that built the 747 could no longer build a 787 on time or a 737 MAX safely.
 
 This isn't about blame. It's about blindness.
 In neurology, phantom limb syndrome occurs when the brain continues to sense a limb that's been amputated. The signals are real, the pain is real, but what they reference no longer exists.

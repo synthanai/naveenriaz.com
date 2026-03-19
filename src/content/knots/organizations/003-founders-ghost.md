@@ -38,11 +38,14 @@ But the founder left three years ago. Moved to Bali, started a podcast, stopped 
 She's still running every meeting from the ghost chair at the head of the table.
 You've been in that meeting. The one where a perfectly reasonable idea gets killed with six words: "That's not how she did it."
 
-I've enforced those invisible rules myself.
-I defended inherited processes not because they worked, but because questioning them felt like betrayal.
-The founder had built something real, and I confused preserving her methods with honouring her vision.
-I kept a reporting structure alive for two years after it stopped making sense, because changing it felt like erasing her.
-Living organizations evolve. I helped create one that embalmed instead.
+The research on Apple after Steve Jobs is a study in haunting.
+Tim Cook inherited not just a company but a ghost. 'What would Steve do?' became the invisible decision filter for every product review, every keynote, every design choice.
+I found internal accounts describing how teams would invoke Jobs' name to kill projects they personally disliked.
+The ghost constrained and liberated simultaneously.
+It constrained because no one could take risks Steve hadn't pre-approved in spirit.
+It liberated because 'Steve would have wanted this' became permission to ignore bureaucracy.
+The founder's ghost is not memory.
+It is governance from beyond.
 
 This isn't loyalty. It's haunting.
 In architecture, they call certain structures spite fences: walls built specifically for a conflict that ended decades ago, but everyone still walks around them.

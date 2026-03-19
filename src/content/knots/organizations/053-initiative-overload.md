@@ -33,12 +33,14 @@ One change initiative is ambition. Three is strategic. Seven is organizational c
 Each initiative is important. Each has an executive sponsor. Each has a business case. Each justifies its existence in isolation.
 Together, they're impossible. Because the people executing them, your team, are the same finite humans being asked to deliver seven transformations with the bandwidth for one.
 
-I was once assigned to five change initiatives simultaneously.
-Digital transformation. Process optimization. Customer experience redesign. Operating model change. Culture program.
-Each expected 20% of my time. Five times twenty equals a hundred. Clean math.
-Except each initiative also had workshops, steering committees, working groups, and status reporting. The overhead alone consumed 30% of my capacity.
-I was 130% allocated to change and 0% allocated to my actual job.
-Nothing was delivered well. Everything was delivered minimally. I reported progress on five fronts while making progress on none.
+BNP Paribas built an innovation lab in Paris.
+Glass walls, startup furniture, hackathons.
+I found it in the digital transformation research.
+The lab produced proof-of-concepts for blockchain settlement, AI-driven credit scoring, and mobile-first banking.
+None of them integrated into the core banking platform.
+The lab and the bank operated in parallel universes: one moved at startup speed, the other at regulatory speed.
+After five years, the lab was quietly absorbed back into IT.
+Transformation theater is innovation that performs for the annual report and never touches the balance sheet.
 
 Overloaded systems don't crash gracefully. They thrash.
 In computing, thread starvation occurs when too many processes compete for limited CPU cycles. The processor spends more time switching between tasks than executing any of them. The system appears busy but accomplishes almost nothing.

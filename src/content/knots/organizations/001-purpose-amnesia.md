@@ -34,11 +34,15 @@ No greater ruin than forgetting.
 Thiruvalluvar wrote that line two thousand years ago about virtue, but he could have been sitting in your quarterly planning meeting.
 Because that's exactly what happens to purpose. Nobody destroys it. Nobody votes it out. Everybody just forgets to mention it, one Monday at a time, until the mission statement is just a sentence on a wall that nobody reads.
 
-I spent sixteen years at the same company.
-Somewhere around year eleven, I stopped being able to recite our purpose without checking the intranet.
-Not the investor pitch. Not the tagline. The actual reason we existed.
-I had helped write the original version. I still forgot it.
-The worst part: nobody noticed I'd forgotten, because nobody was asking.
+I spent three months inside Kodak's research file before I could name what I was seeing.
+George Eastman founded the company to 'make the camera as convenient as the pencil.' By the 1990s, nobody in Rochester could recite that sentence.
+When Steve Sasson invented the digital camera inside Kodak in 1975, management buried it.
+Not because they didn't understand it, but because they understood it too well.
+Digital would kill film.
+Film was 70% margins.
+So Kodak's founding purpose, democratize photography, was sacrificed to protect Kodak's founding product.
+The purpose didn't die in a crisis.
+It was quietly suffocated by a spreadsheet.
 
 It didn't vanish in a crisis. It thinned out one "let's be practical" at a time.
 In signal processing, this is called attenuation: a signal that weakens not because something blocks it, but because nothing amplifies it.

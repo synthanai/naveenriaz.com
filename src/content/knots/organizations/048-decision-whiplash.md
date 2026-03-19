@@ -34,12 +34,15 @@ Your team has whiplash. Not from one reversal. From the pattern.
 They've learned that any decision might be unmade without warning, without rationale, without acknowledgment that a reversal even occurred.
 So they've stopped committing. Why invest deeply in a direction that might change by Friday?
 
-I lived through decision whiplash for two years.
-Q1: 'We're going upmarket.' The team built enterprise features. Redesigned the pricing. Rewrote the sales playbook.
-Q2: 'Actually, we're going PLG.' The team pivoted to self-serve. Rebuilt the onboarding. Created a freemium tier.
-Q3: 'The board wants recurring revenue. Back to enterprise.'
-Nobody said: 'We changed our mind.' Nobody acknowledged that three quarters of work had been discarded. The narrative was always 'new information' and 'evolving strategy.'
-By Q4, I stopped starting anything that took more than four weeks. Because experience taught me nothing would survive longer than that.
+Wells Fargo's fake account scandal wasn't a rogue employee problem.
+It was a choice architecture problem.
+I read the Senate Banking Committee testimony.
+The incentive structure rewarded 'cross-selling': every employee was expected to sell eight products per customer.
+When customers didn't want eight products, employees created 3.5 million fake accounts.
+The rational choice for any individual employee was to cheat or be fired. 5,300 employees were terminated for fraud.
+The executives who designed the incentive structure received bonuses.
+The architecture made the crime.
+The architect kept the fee.
 
 Reversals without acknowledgment cause more damage than the initial quake.
 In geology, seismic whiplash describes the secondary damage caused by aftershocks following a major earthquake. Buildings weakened by the first quake collapse not from the main event, but from the repeated, unannounced jolts that follow.

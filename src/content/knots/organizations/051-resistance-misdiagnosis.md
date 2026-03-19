@@ -34,11 +34,14 @@ But the team isn't resisting change. They're resisting this change, this specifi
 The old system worked. Not perfectly, but predictably. The new system is better on paper and worse in practice. The training was a two-hour webinar. The support is a FAQ page. The timeline assumed instant adoption.
 The resistance isn't the problem. It's the diagnosis.
 
-I misdiagnosed resistance once and it cost me a year.
-I rolled out a new project management tool. Adoption was at 23% after three months. I blamed the team: 'They're stuck in their ways. They don't want to change.'
-So I mandated usage. Adoption hit 60%. I reported success.
-Six months later, I discovered that the team was using the new tool to satisfy the mandate and the old tool to actually manage their projects. They were running two systems because I'd forced adoption without addressing why the old one worked better for their workflow.
-I hadn't overcome resistance. I'd driven it underground.
+I counted the digital transformation pilots in the NHS.
+Over 200for electronic health records alone.
+App pilots, telehealth pilots, AI diagnostic pilots.
+The research shows a graveyard of successful pilots that never graduated to production.
+Each pilot proved the concept.
+Each pilot failed to navigate the procurement process, the interoperability standards, or the political landscape required for national rollout.
+Pilot purgatory is not a technology problem.
+It's an organizational immune response that welcomes innovation in the lab and destroys it at the gate.
 
 Resistance is a symptom, not the disease.
 In medicine, treating symptoms instead of causes is the definition of misdiagnosis. If a patient has chest pain from a blocked artery and you prescribe painkillers, the pain stops but the blockage progresses. The symptom was addressed. The patient gets worse.

@@ -34,11 +34,11 @@ Action didn't follow the words. Ever.
 The town hall said 'empowerment.' The budget said 'centralization.' The deck said 'innovation.' The calendar said 'compliance.' The speech said 'trust.' The Slack channel said 'surveillance.'
 The rhetoric is a separate organization from the reality. They share the same logo.
 
-I wrote the rhetoric once.
-I crafted the narrative for a cultural change program. 'We're becoming a learning organization.' The words were genuine when I wrote them.
-Twelve months later, the learning budget had been cut, the mentorship program had been quietly discontinued, and the only 'learning' that survived was mandatory compliance training.
-But the narrative lived on. Leaders still used the phrase my team has taught them. Still said 'learning organization' in all-hands meetings. Still referenced it in recruitment marketing.
-The words I'd written had become a ghost: present, visible, disconnected from any living body.
+HP has reorganized more times than I could track without a spreadsheet.
+I built one. 2002: merged with Compaq. 2011: considered spinning off the PC division (reversed). 2014: split into HP Inc and HPE. 2017: HPE spun off its software business. 2020: HP Inc rejected Xerox's hostile takeover.
+Each reorg was announced as 'bringing clarity.' Each produced a 12-month period of paralysis while employees waited to learn their new roles.
+The reorg-as-ritual is not a strategy.
+It is the organizational equivalent of rearranging furniture when you can't fix the plumbing.
 
 The gap between rhetoric and reality is an acoustic phenomenon.
 In acoustics, an echo is a sound reflection that arrives after the original source has stopped producing it. The echo sounds real. It has the same frequency, the same timbre. But the source is silent.

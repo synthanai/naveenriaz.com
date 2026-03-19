@@ -38,12 +38,12 @@ Your organizational identity is no different. It looks invincible on the website
 You've seen it take exactly one bad quarter.
 The values that were "non-negotiable" suddenly have a price tag. The commitment to quality becomes "strategic flexibility." The promise of transparency becomes "controlled messaging."
 
-I've been in the room when the compromises happen.
-We didn't set out to be hypocrites. We just hadn't tested our beliefs.
-Everything we said we stood for had been free to stand for.
-No customer had ever forced us to choose between our values and their contract.
-When the storm finally hit, I discovered that beliefs you've never had to pay for aren't beliefs. They're preferences.
-And free preferences are the first to break.
+BP rebranded to 'Beyond Petroleum' in 2000.
+I tracked the spending.
+In the year of the rebrand, BP invested $45 million in the new logo and $8.5 billion in fossil fuel exploration.
+The green sunflower logo was designed by Landor Associates.
+The Deepwater Horizon rig was designed by Transocean under BP's operational pressure.
+When the platform exploded in April 2010, killing 11 workers and spilling 4.9 million barrels into the Gulf of Mexico, the distance between 'Beyond Petroleum' and 'Cut Corners on Blowout Preventers' was measured in lives.
 
 This isn't about weak commitment. It's about untested commitment.
 In materials science, resilience is measured by yield strength: the exact point of stress where a material permanently deforms.

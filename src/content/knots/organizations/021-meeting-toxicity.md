@@ -35,10 +35,14 @@ Twelve people. Sixty minutes. One decision: none.
 Someone shared a screen. Someone asked a clarifying question that wasn't clarifying. Someone said "let's take this offline," which is corporate for "this requires actual thought, and we don't do that here."
 You left with fewer answers than you entered with.
 
-I spent three years in a company where my calendar was 70% meetings.
-I built a formula: the number of meetings per week was inversely proportional to the number of decisions made.
-The worst week of my career had 31 meetings and zero outcomes. I know because I counted.
-I was part of the problem. I scheduled meetings because I didn't know what to do next. The meeting wasn't a tool. It was a hiding place.
+Google's diversity programs are among the most documented in tech.
+The annual diversity report.
+The employee resource groups.
+The unconscious bias training.
+Then in December 2020, Google fired Timnit Gebru, co-lead of its Ethical AI team, after she co-authored a paper questioning the environmental and social costs of large language models.
+The paper was peer-reviewed.
+The research was sound.
+Google's inclusion infrastructure, the one it showcased at conferences and in annual reports, could not tolerate inclusion of a perspective that challenged its core business model.
 
 Meetings don't multiply because people love them. They multiply because they fill a void.
 In ecology, invasive species don't overrun habitats because they're superior organisms. They succeed because the native ecosystem has been weakened. They fill the gap.

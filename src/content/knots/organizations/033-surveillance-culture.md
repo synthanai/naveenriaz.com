@@ -36,12 +36,14 @@ Productivity went up 12%. The numbers were beautiful.
 Four of your best engineers left within six months. The exit interviews said "career growth." The real reason was shorter: "I'm not a prisoner."
 The monitoring saw every keystroke. It didn't see the talent leaving.
 
-I've been monitored.
-During a remote work transition, my company deployed a tool that tracked "active time," mouse movement, application switching, and idle periods.
-I started moving my mouse during phone calls to stay "active." I minimized browser tabs that might look non-work-related. I structured my day around the tracker, not the work.
-My measured productivity was flawless. My actual output was lower than ever.
-Because I was optimizing for the watcher, not the work.
-Every monitored employee does this. The tool changes the behavior, not in the direction the tool intends.
+Teleperformance is the world's largest call-center operator. 500,000 employees across 88 countries.
+I found the surveillance documentation in a 2022 NBC News investigation.
+Workers in Colombia were monitored through mandatory webcams that photographed them every 10 minutes.
+In the Philippines, keystroke logging measured typing speed per second.
+Bathroom breaks were timed and counted.
+One agent described her screen as 'a supervisor who never blinks.' Surveillance culture doesn't trust employees to work.
+It trusts cameras to verify that employees are working.
+The difference is the entire relationship.
 
 Surveillance produces performance, not contribution.
 In architecture, Jeremy Bentham's panopticon was a prison designed so that inmates could be watched at any moment but could never know when they were being watched. The uncertainty of surveillance was the control mechanism.

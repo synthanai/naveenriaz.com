@@ -34,12 +34,9 @@ Your people report to three bosses simultaneously. Functional boss. Regional bos
 Nobody's aligned because alignment requires a single direction. The matrix provides three.
 In theory, the matrix combines functional depth with cross-functional breadth. In practice, it creates parallel accountability and serial confusion.
 
-I reported to three bosses for eighteen months.
-My functional manager wanted technical excellence. My regional manager wanted market revenue. My project manager wanted sprint velocity.
-Technical excellence required time for quality. Revenue required speed to market. Sprint velocity required cutting scope.
-I couldn't satisfy all three. So I learned to satisfy whichever one was most present, most vocal, most recently upset.
-My priorities shifted weekly based on which boss had the latest complaint. I wasn't managing. I was surviving.
-The matrix didn't empower me. It exhausted me.
+Tata Group operates 100+ companies across 150 countries, and every one of them has two reporting lines: one to its own company board, and one to the Tata Trusts, which own 66% of the parent holding company.
+I found the structural tension documented in the 2016 crisis: when Cyrus Mistry was removed as chairman, the mechanism used wasn't a board vote but a Tata Trust directive.
+The reporting line trap means that no Tata company CEO ever knows which master they serve: the company's commercial board or the family's philanthropic trust.
 
 Three norths on one compass produce zero navigation.
 In navigation, magnetic interference from nearby metals can cause a compass to show multiple magnetic norths. The compass has three readings. None is reliable. The navigator can't determine direction.

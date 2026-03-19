@@ -34,11 +34,17 @@ Your team decides nothing above fifty dollars. The 'Senior Director of Innovatio
 Each constraint was added to prevent misuse. Together, they prevent use.
 Autonomy starvation doesn't look like oppression. It looks like process. It feels like suffocation in a well-lit room.
 
-I starved autonomy in my team without realizing it.
-I thought I was being thorough. Every decision came through me. Not because I didn't trust my team. Because I wanted consistency.
-I reviewed every document. Approved every expenditure. Signed off on every client communication.
-My team stopped initiating. Why would they? Every initiative required my approval, and my calendar was full. By the time I reviewed their work, the moment had passed.
-I'd created a team of competent professionals waiting for permission to be competent.
+FAVI, a French auto-parts manufacturer, eliminated supervisors in 1983.
+I studied Jean-François Zobrist's transformation research.
+Workers who had been told what to do for decades were suddenly told to organize themselves.
+Teams chose their own leaders.
+Workers scheduled their own shifts.
+Production quality improved.
+Delivery times halved.
+Productivity doubled.
+FAVI went from a struggling supplier to one of the most profitable auto-parts makers in Europe.
+Autonomy starvation is what happens when managers confuse control with management.
+When Zobrist removed the control, the management emerged from the people who actually understood the work.
 
 Bonsai trees are kept small by restricting their root space.
 In botany, a bonsai isn't a different species. It's a regular tree kept in a small container. The container limits root growth. Limited roots limit canopy growth. The tree is healthy but permanently stunted.

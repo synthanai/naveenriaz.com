@@ -35,10 +35,13 @@ Your expert has one eye closed. They see their domain with extraordinary depth a
 The cybersecurity architect can identify a zero-day vulnerability in seconds but can't explain the business impact to a non-technical stakeholder. The marketing strategist can build a brand narrative but can't interpret the product telemetry that contradicts it.
 Expertise became a cage. Depth became a limitation.
 
-I was the expert trapped by my own depth.
-I spent eight years becoming the most knowledgeable person in my organization about a specific technology platform. I knew every edge case, every configuration, every failure mode.
-When the organization decided to migrate to a new platform, I wasn't consulted for the evaluation. Not because they didn't value my expertise, but because they knew I couldn't evaluate alternatives objectively.
-My expertise had made me the authority on one solution and incapable of seeing any other. I was the best person to ask about the old platform and the worst person to ask about the future.
+BlackRock is the world's largest asset manager. $10 trillion under management as of 2024.
+I found the expertise trap documented in academic research on passive investing.
+BlackRock's Aladdin risk platform is the most sophisticated financial modeling system ever built.
+It can model any risk scenario.
+What it cannot model is the feedback loop created by passive investing itself: when index funds own 20%+ of every company in the index, the act of investing changes the market that the model assumes is independent.
+The expertise trap is not ignorance.
+It is knowledge so deep that it cannot see the hole it has dug for itself.
 
 Over-specialization is an evolutionary dead end.
 In evolution, over-specialized organisms thrive in stable environments but face extinction when conditions change. The giant panda, specialized for bamboo forests, is vulnerable to habitat loss. The koala, specialized for eucalyptus, is defenseless against fire.

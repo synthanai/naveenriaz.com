@@ -36,11 +36,11 @@ Your team photo looks diverse. The meetings don't sound diverse.
 Presence is not power. Being counted isn't counting. Being hired isn't being heard.
 The organization has invested in representation: diverse hiring pipelines, inclusive job descriptions, demographic targets. The portfolio of faces changed. The portfolio of ideas didn't.
 
-I worked in a 'diverse' team that was inclusively bankrupt.
-Our team had seven nationalities, four time zones, and a genuine range of backgrounds. On paper, we were a poster child for diversity.
-In practice, three people talked in every meeting. All three had the same background: Western, male, assertive. The cultural norms of speaking up, interrupting, and 'thinking aloud' favored one style.
-Four people had perspectives that never entered the room. Not because they lacked opinions. Because the room's operating system didn't support their input method.
-We had diversity of presence and uniformity of voice.
+Pinterest's 2020 reckoning came from inside.
+Former employees, including Ifeoma Ozoma and Aerica Shimizu Banks, publicly documented systemic pay gaps.
+Women and people of color were consistently paid less than white male colleagues at the same level.
+The company's public diversity commitments, its statements, its reports, were not consistent with the internal compensation data.
+Pinterest settled multiple lawsuits and committed to 'doing better.' Diversity without inclusion means hiring people who look different and paying them as though they don't belong.
 
 An orchestra with muted instruments sounds like a smaller ensemble.
 In music, an orchestra's power comes from the interaction of different instruments: strings, brass, woodwind, percussion. If half the instruments are muted, the orchestra still has them on stage. The visual diversity is intact. The audible diversity is not.

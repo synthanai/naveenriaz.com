@@ -33,12 +33,12 @@ Your organization outgrew its original design. The processes that worked for fif
 Growth is celebrated. The structural pain it causes is ignored.
 The blueprint says growth. The structure can't hold.
 
-I felt scaling pains acutely at around two hundred employees.
-At fifty, informal communication worked. Everyone knew everyone. Decisions happened in hallways.
-At two hundred, hallway decisions excluded 180 people. The founders still operated as if knowing everyone was possible. It wasn't.
-We needed formal communication channels, structured decision protocols, and explicit role definitions. We had none of these.
-Instead, we had chaos labeled as 'startup culture.' The founder said: 'We don't want to become bureaucratic.'
-The alternative to bureaucracy wasn't freedom. It was dysfunction.
+Volkswagen's org chart is a fiction that conceals a reality.
+The official structure shows a CEO, supervisory board, and management board.
+The reality I mapped from the research is a web of family trusts (the Porsche-Piëch clan owns 53% of voting rights), a German labor board that controls half the supervisory seats, and the state of Lower Saxony that holds a veto through its 20% stake.
+Ferdinand Piëch controlled VW for decades not through his title but through this invisible architecture.
+The org chart was the map.
+The family trust was the territory.
 
 Growing organisms experience structural mismatch.
 In biology, growing pains occur when the skeletal system and muscular system develop at different rates. The bones grow faster than the muscles can adapt. The organism is functional but uncomfortable.

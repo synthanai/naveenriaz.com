@@ -34,11 +34,14 @@ On track to where?
 Nobody defined what success looks like. Not in measurable terms. Not in terms that would allow someone to say, conclusively, 'We did it. It's done.'
 The initiative can't succeed because success was never defined. And it can't fail, because failure requires a standard that doesn't exist.
 
-I ran an initiative for eighteen months without knowing what 'done' looked like.
-We had objectives: 'improve customer experience.' We had metrics: NPS, CSAT, effort scores.
-But we never agreed on a target. What NPS would mean success? What CSAT would mean we could stop?
-So we kept going. Every quarter, the numbers moved slightly. Sometimes up. Sometimes down. Every quarterly review concluded: 'good progress. Continue.'
-We couldn't stop because we didn't know what stopping looked like. We were walking with a compass and no coordinates.
+Meta's 'Year of Efficiency' in 2023 cut 21,000 jobs.
+I read the internal memos.
+In 2021, Facebook had rebranded to Meta and committed $36 billion to the metaverse.
+Reality Labs lost $13.7 billion that year alone.
+By 2023, Zuckerberg announced that the era of 'Move Fast' was over.
+The era of 'Move Efficiently' had begun.
+The overcorrection was total: from hiring 27,000 people in 2020-2021 to eliminating 21,000 in 2022-2023.
+Overcorrection is the organizational pendulum swinging not to center, but to the opposite extreme, with human careers as the weight.
 
 Motion without a defined destination is wandering.
 In navigation, a compass bearing tells you which direction you're facing. But without coordinates, without a destination, a bearing is meaningless. You can walk due north forever. Without knowing where 'north enough' is, you'll never arrive.

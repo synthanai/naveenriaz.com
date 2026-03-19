@@ -34,10 +34,15 @@ Your organization decided to pivot the product three years ago. It was a signifi
 Today, the people who made the decision have moved on. The documentation was a Slack thread that's been archived. The reasoning was 'understood at the time.'
 Now you're about to make the same decision again. Without knowing you've already made it.
 
-I discovered decision amnesia when I proposed something my predecessor had already tried.
-Nobody told me. The proposal went through six weeks of development before an engineer who'd been at the company for eight years said: 'We did this in 2019. It didn't work. Do you want to know why?'
-Six weeks of work. Months of opportunity cost. Because the rationale for the original decision was stored in one person's memory.
-That engineer retired the following year. Everything he knew about why things were decided the way they were left with him.
+The BBC knew about Jimmy Savile.
+I traced the committee structure.
+The Children in Need committee knew.
+The hospital volunteer committee knew.
+The Newsnight editorial committee knew, and killed its own investigation.
+No single committee owned the decision to act because every committee could point to another committee's jurisdiction.
+This is committee disease at its most lethal: distributed knowledge, distributed responsibility, zero accountability. 450 victims over 54 years.
+The BBC's committee structure didn't fail to protect them.
+It was architecturally incapable of protecting them.
 
 Organizations that can't remember their decisions can't learn from them.
 In neurology, anterograde amnesia is the inability to form new long-term memories. The patient can recall the distant past but cannot remember what happened yesterday. Every day begins fresh, without the benefit of recent experience.

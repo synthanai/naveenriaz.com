@@ -33,12 +33,12 @@ One team is drowning. One team has surplus. They're in the same organization.
 Your departments hoard people and budgets like wartime rations. Each team justifies its allocation as 'minimum viable.' Each defends its headcount as 'barely sufficient.'
 Meanwhile, the team across the hall is working weekends because they can't hire fast enough. The budget that could solve their problem sits unspent in another department's reserve.
 
-I hoarded resources and didn't realize it.
-My team had two people who were underutilized. They had capacity. But I kept them because the next quarter might be busy.
-I padded my budget because cuts always came, and starting from a higher number meant ending with a sufficient one.
-The team next door was drowning. They needed one person. One. My team had two available.
-I didn't volunteer them. Not because I was selfish. Because the incentive structure punished sharing: if I released headcount, I might not get it back when I needed it.
-The system made generosity risky and hoarding safe.
+Mondragon is a federation of 95 cooperatives in the Basque Country, employing 80,000 people.
+I found the research on their resource-sharing model remarkable.
+When one cooperative struggles, others redistribute profits to support it.
+During the 2008 financial crisis, Mondragon's cooperatives voted to take pay cuts rather than lay off workers.
+Profits are capped: the highest-paid worker cannot earn more than 8 times the lowest-paid.
+Resource hoarding is impossible not because of rules but because of architecture: the system is designed so that one unit's surplus is another unit's lifeline.
 
 Dams create upstream abundance by creating downstream scarcity.
 In ecology, a dam blocks the natural flow of a river. Upstream, water accumulates. Downstream, the ecosystem loses its water supply. The dam serves its operator while starving the ecosystem below it.

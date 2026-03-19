@@ -34,13 +34,15 @@ The Highest Paid Person's Opinion won. Again. Not because it was the best analys
 You watched the junior analyst's face change. She had the better recommendation. The data confirmed it. She started to present it.
 Then the SVP offered his 'initial thinking.' After that, the data didn't matter.
 
-I've been the analyst with the better answer.
-I built a recommendation based on three months of customer research. Comprehensive. Data-backed. Clear.
-I presented it. The room nodded. Then the VP said: 'I actually think we should go a different direction.'
-No data. No analysis. Just seniority and conviction.
-The room pivoted in thirty seconds. Not because he was right. Because he was senior.
-I didn't fight it. I didn't present my evidence again. I calculated the political cost and went quiet.
-His direction cost the company two quarters. My recommendation sat in a drawer. Nobody ever opened it.
+Lehman Brothers' risk committee reviewed the firm's subprime exposure every quarter.
+I read the summaries.
+Each quarter, the exposure grew.
+Each quarter, the committee noted the growth.
+Each quarter, the conclusion was the same: 'positions are hedged and risk is manageable.' The reversibility blindness was structural.
+Lehman treated $600 billion in assets as though they could be unwound at will.
+On September 15, 2008, they discovered that the market for unwinding had vanished overnight.
+The positions weren't reversible.
+They never had been.
 
 Authority bends information like gravity bends light.
 In astronomy, gravitational lensing occurs when a massive object bends the light from objects behind it. The light is real. The image the observer sees is distorted. The more massive the object, the greater the distortion.

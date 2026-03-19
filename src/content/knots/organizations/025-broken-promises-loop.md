@@ -35,11 +35,13 @@ Broken promises work the same way. The leader who breaks a promise thinks the da
 The broken promise destroys the promise-maker.
 Your team remembers every unkept commitment. Every single one.
 
-I broke a promise to my team once.
-I told them their roles were safe during a restructure. I believed it when I said it. Two weeks later, finance changed the model and two positions were cut.
-I didn't lie. I was wrong. But to the team, the distinction between a lie and a wrong prediction is academic. The effect is identical: they trusted, and the trust was broken.
-The two people who lost their roles understood. The eight who didn't lose theirs never trusted my assurances again.
-Ten people learned the lesson. I only intended it for two.
+Twitter broke every promise it made.
+I tracked them through the research.
+The promise to creators: 'We'll build monetization tools.' Super Follows launched in 2021, used by fewer than 5% of eligible creators.
+The promise to employees: 'Remote work is permanent.' Reversed when Musk acquired the company.
+The promise to advertisers: 'Brand safety is our priority.' Content moderation was gutted post-acquisition.
+The broken promises loop isn't about individual betrayals.
+It's about an organization that treats promises as intentions rather than obligations, and wonders why nobody believes the next one.
 
 Trust doesn't break once. It fatigues.
 In materials science, metal fatigue occurs when a material is subjected to repeated stress cycles, each individually below the breaking point. No single load causes failure. But the cumulative effect of many small stresses creates microscopic cracks that propagate until the structure fails catastrophically.

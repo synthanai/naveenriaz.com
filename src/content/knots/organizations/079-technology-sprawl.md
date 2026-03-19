@@ -33,11 +33,14 @@ Your organization has seventeen tools for overlapping purposes. Three project ma
 Each was introduced to solve a specific problem. Each solved it. None replaced the one before it.
 The blueprint says unified systems. Reality says ecosystem chaos.
 
-I contributed to technology sprawl.
-My team adopted a new collaboration tool because the existing one was 'too slow.' We liked it. It solved our problem.
-I didn't check whether another team was evaluating the same category. They were. They chose a different tool.
-Within a year, the organization had three collaboration platforms. Each served a team well. Together, they created communication islands where information stopped flowing between groups.
-I solved my team's problem by creating an organizational one.
+Automattic, the company behind WordPress.com, has 1,800 employees across 97 countries.
+They've been fully remote since founding in 2005, a decade before the pandemic made remote work fashionable.
+I found their approach documented in extreme detail: no headquarters, no office hours, no required overlap.
+Communication is async-first, in written P2 blog posts.
+When CEO Matt Mullenweg temporarily opened a San Francisco office, nobody used it.
+It was closed within a year.
+The company proved that remote work isn't an illusion.
+The illusion is believing everyone needs to be in the same room.
 
 Invasive species proliferate because nothing controls them.
 In ecology, invasive species thrive when introduced to environments without natural predators. Each species fills a niche. Each is individually successful. Together, they overwhelm the native ecosystem.

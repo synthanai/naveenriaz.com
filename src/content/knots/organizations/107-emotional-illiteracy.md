@@ -34,11 +34,14 @@ Always fine. Never anxious. Never excited. Never frustrated. Never inspired. Jus
 Your organization has no vocabulary for emotional states. The language of work is numbers, metrics, and deliverables. Feelings are 'soft.' Emotions are 'unprofessional.'
 But emotions drive every decision, every collaboration, every conflict. They're the operating system running beneath the spreadsheet. And nobody knows how to read the logs.
 
-I was emotionally illiterate as a leader.
-I could analyze a P&L in minutes. I couldn't read the mood of a room at all.
-When my team was stressed, I saw productivity data. When they were grieving a layoff, I saw 'reduced velocity.' When they were inspired by a new direction, I saw 'unusually high output.'
-I translated every human experience into a metric. I was fluent in numbers and fumbling in feelings.
-The cost: I solved the wrong problems. I addressed productivity when the team needed empathy. I offered solutions when they needed to be heard.
+Gregg Popovich has won five NBA championships with the San Antonio Spurs, but his coaching isn't primarily about basketball.
+I traced his approach through sports psychology research.
+Popovich takes his team to museums.
+He discusses geopolitics at dinner.
+He asks players about their families before he asks about their shooting percentage.
+When a player's grandmother dies, Popovich flies to the funeral.
+Emotional illiteracy in leadership means reading the P&L but not the room.
+Popovich reads the room first, and the P&L follows.
 
 Without vocabulary, experience remains inexpressible.
 In linguistics, vocabulary poverty limits the ability to express and process experience. A child who doesn't have the word 'frustrated' can't articulate frustration, which makes it harder to process, communicate, and resolve.

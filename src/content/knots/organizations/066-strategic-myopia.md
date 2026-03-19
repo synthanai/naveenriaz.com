@@ -36,11 +36,15 @@ You were focused on this quarter. This month. This sprint.
 The quarterly results were good. The annual trend was concerning. The five-year trajectory was alarming.
 But nobody looks at five-year trajectories when the quarterly bonus depends on the next thirteen weeks.
 
-I led strategy for a division that couldn't see past ninety days.
-Every planning session started with 'this quarter's priorities.' Every resource decision was governed by 'current commitments.' Every new opportunity was evaluated against 'immediate capacity.'
-I proposed a two-year investment in a new market. The data was compelling: our core market was saturating, the adjacent market was growing 30% annually.
-The response: 'We can't afford to divert resources from this quarter.'
-Four years later, the competitor who made that investment owns the adjacent market. We're still optimizing a shrinking one.
+Sears had the infrastructure to become Amazon before Amazon existed.
+I found the research staggering.
+In the 1990s, Sears operated a 125-year-old catalog business, the original direct-to-consumer platform.
+It owned Prodigy, one of the first commercial internet services.
+It had credit card data on 60 million households.
+It controlled the most sophisticated supply chain in American retail.
+Sears looked at all of this and decided to invest in real estate instead.
+Strategic myopia isn't seeing the future poorly.
+It's standing on top of the future and failing to look down.
 
 Myopia doesn't mean blindness. It means wrong focal length.
 In ophthalmology, myopia occurs when the eye focuses light in front of the retina instead of on it. Close objects are sharp. Distant objects are blurred. The eye works perfectly, just at the wrong distance.

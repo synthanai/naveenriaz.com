@@ -34,13 +34,16 @@ Your best people leave first. Then more follow. Then more.
 The first departure was personal. The second was coincidence. By the third, it was a signal. By the fifth, it was a spiral.
 Each departure increased the load on those remaining. Each increased load reduced the reason to stay. The spiral has its own gravity.
 
-I watched a turnover spiral consume a team.
-The first person who left was our best engineer. She'd been signaling for months: overloaded, under-recognized, passed over for a project she'd proposed.
-Her departure was mourned but accepted. 'People move on.'
-Her workload was distributed across four remaining engineers. Each was already at capacity.
-Month two: another engineer left. The workload math now required four people to carry six people's work.
-Month three: a third departure. The remaining three were carrying double loads, training replacements who weren't arriving fast enough, and questioning their own decisions to stay.
-The spiral wasn't about one departure. It was about the conditions each departure created.
+Buurtzorg was founded in 2006 by Jos de Blok, a nurse.
+I read the organizational research multiple times.
+De Blok eliminated management layers and created self-managing teams of 10-12 nurses.
+Each team manages its own schedule, patient load, and hiring.
+There is no middle management.
+There is no HR department.
+Despite this, Buurtzorg consistently ranks as the best employer in the Netherlands.
+Turnover is 60% lower than the industry average.
+Patient satisfaction is the highest in Dutch healthcare.
+The turnover spiral, where each departure makes the next one more likely, is broken when people actually want to stay.
 
 Chain reactions are self-sustaining once critical mass is reached.
 In physics, a chain reaction occurs when the output of one reaction triggers subsequent reactions. Below critical mass, the reactions fizzle. Above it, they become self-sustaining and accelerating.

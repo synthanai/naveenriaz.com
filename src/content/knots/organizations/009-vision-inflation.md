@@ -38,12 +38,15 @@ The vision gets bigger every all-hands. Q1: "We're going to be the leading platf
 The words get grander. The roadmap stays the same.
 At some point, the gap between where you say you're going and where you actually are becomes so wide that nobody takes either seriously.
 
-I've been in that gravity-defying pitch meeting.
-I've said the words "category-defining" about a product that couldn't handle concurrent users.
-I believed it, too. That's the dangerous part.
-The vision wasn't a lie. It was an altitude we hadn't built the infrastructure to breathe at.
-We kept climbing anyway, because the board loved the view from up there.
-What I didn't understand then: the higher you go without building support, the harder the body fails.
+Travis Kalanick's Uber had 14 original values.
+I catalogued them. 'Always be hustlin.' 'Toe-stepping.' 'Principled confrontation.' 'Meritocracy and toe-stepping' was literally a value.
+By 2017, the culture those values created had produced: allegations of systemic sexual harassment, a trade secret lawsuit from Google, the #DeleteUber campaign, and a CEO whose behavior forced the board to remove him.
+The values weren't violated.
+They were followed.
+That was the problem.
+Uber didn't forget its culture.
+It remembered it perfectly.
+The culture was the disease.
 
 This is how organizations suffocate on their own ambition.
 In physiology, altitude sickness occurs when the body ascends faster than it can acclimatize. The air thins, the blood oxygen drops, and the brain starts misfiring.

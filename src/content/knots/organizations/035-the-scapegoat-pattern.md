@@ -35,12 +35,13 @@ Scapegoating is the ultimate reversal: the decision is made, the outcome fails, 
 The same person gets blamed every time. Have you noticed?
 It's not random. The scapegoat is selected for their position, not their culpability. They're visible enough to absorb blame but not powerful enough to deflect it.
 
-I've watched scapegoats be created.
-A project failed. Complex reasons: market timing, resourcing gaps, shifting requirements. A dozen factors contributed.
-But the post-mortem named one person. The project manager.
-She didn't have the authority to change the budget, the timeline, or the scope. But she had the title. And titles are easy to blame.
-The leadership team walked away clean. The system that produced the failure walked away unexamined.
-She left three months later. The same system produced the same failure on the next project. But it had a new project manager to blame.
+Credit Suisse's risk managers warned about Archegos Capital's exposure.
+I read the internal review commissioned after the $5.5 billion loss.
+Risk officers raised the alarm.
+Their warnings were overruled by the prime brokerage division's revenue targets.
+When Archegos collapsed in March 2021, the risk managers who had warned correctly were presented as if they had failed.
+The scapegoat pattern requires someone to absorb the blame that belongs to the system.
+At Credit Suisse, the people who saw the fire coming were blamed for not putting it out, by the people who were fueling it.
 
 Scapegoating is an immune system error.
 In immunology, a misdirected immune response occurs when the body's defense system attacks healthy tissue instead of the actual pathogen. Autoimmune disorders don't fix the infection. They destroy the host.

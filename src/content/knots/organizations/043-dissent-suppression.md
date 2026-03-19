@@ -33,12 +33,14 @@ The brightest idea in your last meeting was killed by silence. Not by argument. 
 Someone saw the flaw. Someone had the alternative. Someone knew the direction was wrong.
 They calculated the cost of speaking up, weighed it against the cost of staying quiet, and chose survival.
 
-I killed an idea with silence once.
-A colleague proposed a radically different approach to a project I was leading. It was better than mine. I knew it as he described it.
-Instead of engaging, I waited. I let the room get uncomfortable. I asked a few procedural questions that made his proposal seem logistically complex.
-I didn't suppress his idea with authority. I suppressed it with atmosphere.
-The idea died in the room. It never came back. Neither did he, to any of my meetings.
-I got what I wanted. I lost what I needed.
+In September 2011, Netflix CEO Reed Hastings announced that Netflix would split into two companies: Netflix for streaming and Qwikster for DVDs.
+The stock dropped 77% in four months. 800,000 subscribers left.
+Hastings reversed the decision within 23 days.
+What I found interesting in the research was the absence of data.
+Hastings made the Qwikster decision on intuition, believing customers would embrace the separation.
+He ignored internal data showing that millions of subscribers used both services.
+The reversal proved the data had been right all along.
+Sometimes the confession of an organization is the speed of its U-turn.
 
 Suppressed ideas don't disappear. They go underground.
 In genetics, gene silencing is an epigenetic mechanism that deactivates genes without deleting them. The gene still exists in the DNA. It's still there. It's been tagged for suppression. Under certain conditions, it can reactivate.

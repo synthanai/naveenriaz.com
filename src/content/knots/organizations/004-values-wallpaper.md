@@ -39,11 +39,16 @@ You've walked past that wall. You know the one.
 Bronze letters, probably chosen at an offsite you weren't invited to.
 You stopped reading them around month three. So did everyone else.
 
-I helped build one of those walls.
-Spent a full day at a strategy offsite, sticky notes everywhere, a facilitator from Melbourne who used the word "alignment" eleven times before lunch.
-We chose five values. They felt real in that conference room, with the catering and the butcher paper.
-They died in the parking lot on the drive home.
-I knew it by Friday. I kept quiet. We all did.
+I read Enron's lobby inscription before I read the SEC filings.
+Four words on marble: Respect, Integrity, Communication, Excellence.
+Then I read about the Performance Review Committee.
+Every year, 15% of employees were forced out regardless of competence.
+The rank-and-yank system didn't just contradict the values on the wall.
+It made them dangerous.
+Being ethical was a career risk.
+Being ruthless was a promotion strategy.
+Jeff Skilling called it 'the most important process at Enron.' The values were never real.
+They were set decoration on a stage where the script was written by fear.
 
 This isn't hypocrisy. It's decoration mistaken for identity.
 In instrumentation engineering, a display fault is when the gauge reads healthy while the system underneath is degrading.

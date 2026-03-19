@@ -33,12 +33,10 @@ Your customers experience the seams between your teams. Not the teams themselves
 Sales hands off to onboarding. Onboarding hands off to implementation. Implementation hands off to support. At each handoff, context is lost. The customer repeats their story. The new team asks the same questions.
 Each team is competent. The space between them is competence-free.
 
-I experienced handoff failure as a customer before I understood it as a leader.
-I signed a contract with a vendor after a three-month sales process. My sales rep knew everything: my use case, my constraints, my timeline.
-Day one after signing: new contact. New person. Zero context.
-'So, tell me about your use case.'
-I'd spent three months building a relationship and sharing context. It evaporated at the contract signature.
-When I became a leader, I discovered we did the same thing to our customers. Every team was excellent. Every handoff was a cliff.
+When British Airways merged with Iberia to form IAG in 2011, the result was a dual-headed bureaucracy that couldn't make a fleet decision for two years.
+I found the structural problem: BA's London headquarters and Iberia's Madrid headquarters maintained parallel executive teams, parallel finance functions, and parallel strategies.
+Willie Walsh, the IAG CEO, described it as 'two airlines pretending to be one.' The bureaucratic bloat wasn't an accident.
+It was the price of a merger that preserved both egos instead of creating a single identity.
 
 The baton drop happens in the transfer zone.
 In athletics, relay races are won or lost in the transfer zone, the designated area where one runner passes the baton to the next. Each runner is fast. Each is trained. But the baton transfer is a different skill.

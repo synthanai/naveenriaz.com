@@ -34,11 +34,12 @@ Your team meeting ended early. Everyone agreed. Smiles. Nods. A clean decision i
 It seems like alignment.
 It's actually suppression. And if you've been in enough of those meetings, you know exactly which it is by the speed of the consensus.
 
-I led a team that never argued.
-Management loved us. Our retrospectives were clean. Our conflicts were zero. Our satisfaction scores were the highest in the department.
-Eighteen months later, we shipped a product so disconnected from customer needs that it was deprecated within a year.
-Every person on the team had seen the problems. Every person had stayed quiet to preserve the harmony.
-I had created a culture where disagreement felt like betrayal. The silence felt like trust. It was obedience.
+Philip Green's Arcadia Group was psychological unsafety made corporate.
+I read the 2018 parliamentary testimony and the Telegraph exposé.
+Employees described 'walking on eggshells.' Senior executives reported Green screaming at them in meetings, throwing objects, commenting on women's appearances.
+One executive described the culture as 'fear, compliance, and silence.' When Arcadia collapsed in 2020, with 13,000 jobs lost and a £350 million pension deficit, the inquest found that nobody had challenged Green's decisions in years.
+Unsafety doesn't just silence dissent.
+It removes the neural pathways for generating it.
 
 This is what happens when comfort becomes the priority.
 In pharmacology, analgesic dependency occurs when the body becomes so accustomed to pain suppression that it can no longer process discomfort naturally. The drug doesn't cure the pain. It hides it. And the longer you hide it, the less capable the body becomes of dealing with it on its own.

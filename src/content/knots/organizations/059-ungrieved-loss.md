@@ -32,11 +32,13 @@ Valluvar speaks of personal resilience, of holding steady through pain. But he n
 The old way ended three years ago. The team that built it was disbanded. The processes they'd perfected over a decade were replaced. The expertise they'd spent years developing was reclassified as 'legacy knowledge.'
 Leadership celebrated the new direction. The team mourned the old one. In silence. Because mourning in a forward-looking organization feels like disloyalty.
 
-I grieved a system I'd built.
-Four years of my professional life went into designing a workflow that served 200 people. I knew every edge case. I'd handled every failure mode. I was proud of it.
-When it was replaced, the rational part of me understood: the new system was better. The design had evolved. Progress required moving forward.
-But the emotional part of me had lost something. Not a system. A piece of my professional identity.
-Nobody acknowledged this. The transition plan had timelines for data migration and user training. It had no timeline for the humans who were losing something they'd built.
+Adidas invested $3.8 billion to acquire Reebok in 2005, partly to build a digital fitness platform.
+I traced how the organization's wholesale DNA rejected digital.
+Store owners lobbied against direct-to-consumer.
+The marketing department optimized for shoe launches, not app engagement.
+When Adidas finally sold Reebok in 2021 for $2.5 billion, the digital fitness vision had been absorbed by Nike, Apple, and Peloton.
+The organizational immune system didn't fight the innovation.
+It simply starved it of oxygen until it stopped breathing.
 
 Every change involves a death that nobody names.
 In psychology, Kubler-Ross's grief model describes the stages of processing loss: denial, anger, bargaining, depression, acceptance. The progression isn't linear, but the principle is: loss requires processing. Skipping stages doesn't eliminate them. It defers them.

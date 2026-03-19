@@ -34,11 +34,14 @@ Your team starts every morning drowning in metrics. Slack notifications. Email d
 Information abundance was supposed to create clarity. It created paralysis.
 The team knows everything. It understands nothing.
 
-I lived in a data-rich environment for three years.
-My morning routine: check four dashboards, read two daily reports, scan three Slack channels, review yesterday's metrics, skim the competitive intelligence digest.
-By the time I finished consuming information, two hours were gone. My attention was scattered. My priorities were blurred by the thirty different signals competing for response.
-I had more data than any product leader in the company's history. I made slower decisions than any of them.
-Because the constraint on good decisions was never information. It was clarity. And clarity requires filtering, not accumulating.
+Citigroup failed in the same way three times.
+I mapped the pattern.
+In 1998, the Long-Term Capital Management crisis exposed Citi's counterparty risk.
+Citi was bailed out and changed nothing structural.
+In 2008, subprime mortgage exposure required a $45 billion government bailout.
+Citi restructured on paper and changed nothing cultural.
+In 2022, a 'fat finger' error sent $900 million to the wrong counterparty because the same risk systems remained.
+Each time, the organization escalated its commitment to the same architecture rather than admitting the architecture was broken.
 
 More light doesn't always mean better visibility.
 In optics, light pollution occurs when excessive artificial light washes out the night sky. Stars that are easily visible in dark conditions become invisible when surrounded by ambient light. The signal hasn't weakened. The noise has overwhelmed it.

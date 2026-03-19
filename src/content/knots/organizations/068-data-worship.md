@@ -36,11 +36,11 @@ Your decisions aren't better.
 The organization has more data than it has ever had. It has less insight than it has ever needed. The dashboards are comprehensive, beautiful, and largely decorative.
 Data was supposed to be the input. It became the idol.
 
-I worshipped data for three years.
-Every decision required data. Every proposal needed metrics. Every argument was settled by 'what the numbers say.'
-Except the numbers don't say anything. They sit there. Humans say things about numbers.
-I used data to confirm decisions I'd already made. I used it to delay decisions I didn't want to make. I used it to delegitimize intuition, experience, and judgment.
-The data didn't improve my decisions. It gave my decisions a costume of objectivity.
+Cambridge Analytica claimed it could predict voter behavior from Facebook data with surgical precision.
+I read the internal documents released during the UK Information Commissioner's investigation.
+The models were far less accurate than advertised.
+The psychographic targeting that supposedly swayed elections was, according to multiple data scientists who worked on the project, 'overfitting noise.' The data was worshipped because the company's business model required worship.
+Skepticism was not a viable corporate strategy when the product being sold was certainty.
 
 Worshipping the proxy replaces engaging with the real.
 In religion, idol worship occurs when the physical representation of a deity is venerated instead of the deity itself. The idol is accessible, tangible, controllable. The deity is none of these things.

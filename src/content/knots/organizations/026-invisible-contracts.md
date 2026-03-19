@@ -35,11 +35,12 @@ Your organization has contracts nobody signed. Rules nobody wrote. Expectations 
 Don't email the CEO directly. Don't disagree in the all-hands. Don't leave before your manager. Don't take your full vacation. Don't bring up the layoff from 2019.
 Nobody posted these on a wall. Everyone obeys them.
 
-I discovered my first invisible contract three months into a new role.
-I sent a direct message to the CTO with a product suggestion. Reasonable, I thought. Respectful.
-Within an hour, my manager pulled me aside: "We don't go directly to leadership. Everything goes through the chain."
-There was no policy for this. No employee handbook entry. No Slack channel rule.
-It was an invisible contract, signed the day the previous person who went direct was quietly sidelined. I never saw the signature. I just learned the consequence.
+Basecamp's invisible contract was exposed in April 2021.
+For years, the company had an unwritten understanding: employees could discuss politics, social issues, and workplace culture openly on internal message boards.
+Then founders Jason Fried and David Heinemeier Hansson published a blog post banning all 'societal and political discussions.' One-third of the company quit within a week.
+The invisible contract, the one nobody wrote down but everyone relied on, had been unilaterally revoked.
+The exodus proved that invisible contracts are the load-bearing walls of organizational trust.
+Demolish one and the structure collapses.
 
 Invisible contracts are the real governance.
 In law, implied terms are obligations that exist in a contract even when they're not explicitly written. Common law creates them from precedent, custom, and reasonable expectation. You're bound by terms you never read.

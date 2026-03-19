@@ -34,12 +34,12 @@ Everyone is busy. Everyone is delivering. Nobody can explain what it all adds up
 The team moves, but nothing pulls them in the same direction. There's motion, but no orbit.
 You've felt this. You finish a productive week and still feel empty.
 
-I ran a product team that shipped every sprint.
-Velocity was high. Burndown charts were textbook. We were the most efficient team in the division.
-Nobody could answer why any of it mattered.
-We weren't building toward something. We were just building. The activity felt purposeful because it was measurable. But measurement isn't meaning.
-I once asked my team what we were optimizing for. Eight people. Eight different answers.
-We weren't a team. We were eight solo practitioners sharing a Jira board.
+Arif Naqvi built Abraaj Group into the world's largest emerging-market private equity firm. $14 billion under management.
+I traced the fear architecture through the court documents.
+Employees who questioned fund allocations were sidelined.
+Auditors who raised concerns found their contracts terminated.
+When the Bill & Melinda Gates Foundation asked where its $100 million health investment had gone, Naqvi fabricated bank statements.
+Fear as management works until the one entity your fear cannot reach, an external auditor with subpoena power, asks the question everyone inside was too frightened to ask.
 
 This is what happens when the center disappears.
 In astrophysics, rogue planets are celestial bodies ejected from their star system. They drift through space with no gravitational anchor, no orbit, no relationship to anything else.

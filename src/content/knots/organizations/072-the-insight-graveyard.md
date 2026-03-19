@@ -35,12 +35,12 @@ Your best insights sit in shared drives. Filed. Categorized. Unread.
 The customer research from Q2 was excellent: clear patterns, actionable recommendations, validated findings. It was presented to leadership. Leadership praised it. 'Great work.'
 Nobody acted on it. Six months later, the competitor who saw the same pattern shipped the product your research described.
 
-I authored three insights that died in the graveyard.
-The first was a market analysis that identified a segment we were ignoring. Filed in SharePoint. Never referenced again.
-The second was a process audit that identified $3M in annual waste. Presented at a town hall. Applauded. Filed.
-The third was a customer journey map that revealed the exact point where 40% of our users abandoned the product. Shared in Slack. Reactions: twelve thumbs up, four hearts.
-Zero actions.
-Each insight was generated with effort, validated with data, and buried with praise.
+The global consulting industry produces more strategic insights per year than any other sector.
+I read BCG's own research on implementation rates.
+The finding: less than 30% of strategic recommendations are fully implemented by clients.
+The insight graveyard is not a client problem.
+It is a structural feature of the consulting model, which optimizes for insight generation (billable) rather than insight implementation (the client's problem).
+McKinsey, BCG, and Bain produce brilliant analyses that die on the Executive Committee table because the insight was the product, not the change.
 
 Insights without action are artifacts without excavation.
 In archaeology, unexcavated sites hold treasures that remain invisible. The artifacts exist beneath the surface, perfectly preserved, complete with context and meaning. But without excavation, they contribute nothing to understanding.

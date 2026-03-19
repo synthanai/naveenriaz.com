@@ -34,11 +34,11 @@ Your team works together. They deliver together. They even eat lunch at the same
 But watch who sits with whom. Watch who speaks first and who waits. Watch who gets invited to the spontaneous coffee run and who finds out about it later.
 Belonging isn't teamwork. It's something the org chart can't draw and the survey can't capture.
 
-I've been the one who didn't belong.
-New role. New city. The team was professional, inclusive on paper. Everyone was welcoming.
-But there's a difference between being welcomed and belonging. Welcome is a gesture. Belonging is what happens when the gestures stop and the ordinary begins.
-I ate lunch alone for the first two months. Not because anyone excluded me. Because nobody included me once the onboarding checklist was done.
-The loneliness wasn't dramatic. It was Tuesday. Every Tuesday.
+Goldman Sachs' unwritten rules are more powerful than its written ones.
+I found former employees describing the code: you can disagree violently in the room, but once the door closes, the position is unified.
+Dissent after the meeting is career termination.
+The 'elevator test,' can this person represent the firm in a 30-second elevator ride, determines promotion more than any performance metric.
+An employee who leaked the 'muppets' email in 2012 was describing the gap between the written culture of 'client first' and the unwritten culture of 'Goldman first, always.'
 
 Belonging fractures silently.
 In psychology, social pain activates the same neural region as physical pain: the dorsal anterior cingulate cortex. The brain processes exclusion the way it processes a broken arm.

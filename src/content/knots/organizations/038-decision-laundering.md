@@ -33,12 +33,12 @@ Your meeting was scheduled for deliberation. The agenda was distributed. The sta
 The decision was already made. Before anyone entered the room.
 The meeting wasn't deliberation. It was ratification. A group of intelligent people performing consensus for a conclusion that one person had already reached.
 
-I've been the launderer.
-I had a strong opinion about a platform migration. Instead of stating it and defending it, I scheduled a 'discovery workshop.' I stacked the agenda, selected the data, and curated the speakers.
-The team reached 'their' conclusion. It happened to be mine.
-I felt strategic. I was manipulative.
-The team felt heard. They were choreographed.
-It worked perfectly. Until two years later, when the migration failed and nobody remembered the rationale because there was no honest debate to reference.
+When Boeing decided to outsource 70% of the 787 Dreamliner's engineering, I found no record of dissent.
+The decision was made in a room where the dominant narrative was 'asset-light manufacturing.' Nobody raised the risk of losing integration capability.
+Nobody asked what happens when 50 suppliers across 7 countries build sections that don't fit together.
+The phantom consensus, silence read as agreement, cost Boeing $32 billion in delays and overruns.
+The 787 eventually flew.
+But the decision to outsource its own engineering competence was the precedent that led to the 737 MAX.
 
 Laundered decisions are clean on the surface and hollow underneath.
 In finance, money laundering takes illegitimate money and passes it through legitimate structures until it appears clean. The money is real. The legitimacy is fabricated.

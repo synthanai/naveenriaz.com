@@ -33,12 +33,15 @@ Your team has survived seven transformations in five years. Digital transformati
 Each one promised 'this time it's different.' Each time, it wasn't.
 The team doesn't resist change anymore. They don't even react to it. They just wait for it to pass.
 
-I was a change leader during the third transformation.
-The first one landed with energy: new tools, new language, new possibilities. People leaned in.
-The second arrived before the first was finished. But still, people tried.
-By the third, I noticed something specific: nobody pushed back. Nobody complained. They simply didn't engage.
-I mistook compliance for adoption. I reported green status. The transformation was 'on track.'
-It was on nobody's priority list. The team had learned the most efficient response to unwanted change: visible compliance, zero investment.
+BMW's engineers were trained on one thing: the internal combustion engine.
+Six-cylinder perfection.
+Inline precision.
+I found the internal resistance documented in German automotive press.
+When BMW's board mandated electric vehicle development, engine engineers lobbied against battery-electric platforms.
+They proposed hybrids as a compromise: keep the engine, add a motor.
+The i3, BMW's first serious EV, was designed by a separate skunkworks team deliberately isolated from the combustion engineers.
+The main body rejected the transplant.
+The immune system was too strong.
 
 Change fatigue is emotional exhaustion, not resistance.
 In medicine, compassion fatigue is a condition where healthcare workers lose their capacity to empathize after prolonged exposure to suffering. They still show up. They still perform procedures. But the emotional core that drives quality care has been depleted.

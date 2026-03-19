@@ -34,11 +34,15 @@ Your processes drain everyone they touch. Not through malice. Through design.
 The weekly status meeting that could be an email. The collaborative session where nobody collaborates. The brainstorm that produces the same three ideas every time.
 Each interaction extracts energy without depositing value. The participants leave lighter in spirit and heavier in resentment.
 
-I was an energy vampire for a year without knowing it.
-I scheduled a weekly one-hour team sync. It had a standing agenda: updates, blockers, actions. Textbook.
-Three months in, I noticed engagement dropping. I assumed it was seasonal.
-Six months in, I asked a team member for honest feedback. She said: 'Your meeting is the most predictable drain of my week. Nothing is decided. Nothing changes. We recite updates that are already in the project tracker.'
-She was right. The meeting had become a ritual of recitation. An hour of energy extraction disguised as collaboration.
+Heiligenfeld, a chain of German psychiatric hospitals, begins every Tuesday with an unusual ritual.
+I found it documented in Frederic Laloux's research.
+The entire company, 600 people, sits in a large hall for a meditation and reflection session.
+Not a team meeting.
+Not a workshop.
+A moment of collective stillness.
+The topic might be 'dealing with failure' or 'our relationship with money.' The energy restored by this practice is measurable: Heiligenfeld's patient outcomes are among the best in German psychiatry, and staff burnout rates are significantly below industry average.
+Energy vampires drain.
+Heiligenfeld decided to refill.
 
 Parasites extract energy without contributing to the host.
 In ecology, parasitic relationships are one-directional: the parasite feeds, the host is depleted. The host doesn't die immediately. It weakens gradually, becoming more susceptible to other threats.

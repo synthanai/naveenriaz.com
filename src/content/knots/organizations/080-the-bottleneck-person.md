@@ -33,12 +33,11 @@ The organization stops when one person stops. Not because they're irreplaceable.
 Every approval requires their signature. Every decision requires their input. Every escalation lands on their desk.
 They're not hoarding power. They're drowning in it. The organization funneled everything through one point because that point was reliable. Now that reliability is the constraint.
 
-I was the bottleneck person.
-I started by helping. Someone needed a quick approval. I gave it. Someone needed a decision escalated. I handled it. Someone needed institutional context. I provided it.
-Over three years, the 'quick help' became the process. My involvement went from optional to expected to mandatory.
-By year four, I was reviewing forty decisions a week. Not because they were complex. Because the system expected my stamp.
-I couldn't take a vacation without the queue freezing. My illness cost the department two weeks of paralysis.
-I wasn't important. I was embedded.
+Accenture restructures like other companies hold town halls: regularly and with diminishing impact.
+I counted five major reorganizations between 2014 and 2024.
+Each one promised 'clarity and client alignment.' Each one moved the same people into different boxes on a new org chart.
+Employees developed what internal surveys called 'restructure fatigue,' the inability to take any structural change seriously because the next one was always 18 months away.
+The addiction to restructuring is indistinguishable from the fear of committing to a structure.
 
 Flow restricted to a single pipe narrows everything.
 In hydraulics, a bottleneck occurs when a wide flow is forced through a narrow pipe. The flow rate is determined not by the capacity of the system, but by the narrowest point.

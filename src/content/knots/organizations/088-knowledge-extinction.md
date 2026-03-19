@@ -37,11 +37,16 @@ You can't name it. That's the problem.
 The institutional memory of why decisions were made. The political landscape that explains the org chart. The technical workarounds that keep the legacy system alive. The relationships that make cross-functional work actually functional.
 All of it lived in one person's head. They gave two weeks notice. The knowledge gave zero.
 
-I watched knowledge walk out the door.
-Our principal engineer retired. She'd been with the company for fourteen years. She understood every design decision, every architectural compromise, every technical constraint.
-Her last day was a Friday. By Tuesday, the team was stuck on a system they'd been maintaining for years. They knew how it worked. They didn't know why it was built that way.
-The 'why' left with her.
-We spent eight months reverse-engineering decisions she could have explained in eight minutes. Eight months of organizational archaeology for knowledge that had been alive five days earlier.
+Nucor is the anti-hoarding case study.
+I found the research remarkable.
+The largest steel producer in the United States doesn't have a corporate R&D lab.
+Instead, every mini-mill is expected to share its innovations with every other mini-mill.
+There are no patents between divisions.
+No competitive budgeting for ideas.
+When one mill discovers a better casting technique, it becomes the standard within months.
+CEO Ken Iverson's philosophy was explicit: 'We don't need to own the idea.
+We need to use the idea.' Capability hoarding is the default.
+Nucor proves it's a choice.
 
 Extinct species can't be reinstated.
 In ecology, species extinction is irreversible: once a species disappears, its unique genetic information, its behavioral adaptations, its ecological role are permanently lost.

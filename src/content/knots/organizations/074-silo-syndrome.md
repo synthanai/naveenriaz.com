@@ -33,11 +33,14 @@ The blueprint says collaboration. The budgets say walls.
 Your teams work in separate financial universes. Engineering has one budget. Marketing has another. Product has a third. Customer success has a fourth.
 Each defends its allocation. Each optimizes its metrics. Each celebrates its victories. None of them share credit, resources, or even information without a formal request.
 
-I built a silo without realizing it.
-My team was high-performing. We had clear goals, dedicated resources, and autonomy. We delivered consistently.
-We also stopped talking to the teams around us. Not deliberately. We were just busy. Our goals didn't require their input. Our metrics didn't measure collaboration.
-When the customer experience broke at the handoff between my team and the next, both teams blamed each other. The customer blamed both of us.
-The silo I'd built was efficient on the inside and destructive at the boundaries.
+Sports Direct under Mike Ashley was hierarchy as pathology.
+I found the 2016 parliamentary inquiry testimony.
+Warehouse workers at Shirebrook were subjected to body searches at the end of every shift, unpaid.
+The searches took so long that effective pay dropped below minimum wage.
+Workers were penalized for being ill.
+One employee gave birth in a warehouse toilet because she feared losing her job for taking sick leave.
+The hierarchy wasn't dysfunctional.
+It was functioning exactly as designed: total control, zero dignity, maximum extraction.
 
 Silos store grain. They don't mix it.
 In agriculture, grain silos are designed for separation: wheat in one, corn in another, barley in a third. The design prevents contamination. Each grain maintains its purity.

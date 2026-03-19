@@ -36,12 +36,13 @@ Day one: orientation deck. Day 180: finally productive. Your new hires wait six 
 The hiring process took twelve weeks. The onboarding process takes twelve months.
 The investment in recruiting is visible: sourcing fees, interview hours, negotiation cycles. The investment in integration is invisible: the new hire navigating an undocumented culture, finding information through trial and error, building relationships without a map.
 
-I onboarded badly and it cost me a star hire.
-She arrived on Monday. I was in a meeting until 3pm. Her laptop arrived Wednesday. Her access credentials worked Friday.
-By week two, she'd figured out that nobody had prepared for her arrival. The role she was hired for had ambiguous boundaries. The team she was joining hadn't been told what she'd be doing.
-She spent three months building something I didn't need because nobody clarified the scope.
-By month four, she was frustrated. By month six, she was interviewing elsewhere. By month eight, she was gone.
-I blamed 'fit.' It was onboarding.
+GitLab's onboarding is a public document.
+I read all 2,000 pages of their handbook.
+It's not an internal wiki.
+It's published on the internet for anyone to read: compensation formulas, promotion criteria, meeting norms, even how to handle underperformance.
+New employees don't need a guide.
+The organization has already told them everything.
+This is the anti-pattern of onboarding failure: instead of hoping new hires absorb culture through osmosis, write the culture down and let them read it before day one.
 
 A crash landing wastes everything the flight achieved.
 In aviation, a crash landing occurs when an aircraft reaches its destination but fails the final approach. The flight was successful. The fuel was expended. The passengers were transported. But the last ninety seconds destroyed the outcome.

@@ -34,11 +34,13 @@ Your org chart says "collaborative culture." But open Slack and count how many c
 Collaboration isn't a word on a slide. It's a behavior that costs time, ego, and the willingness to be wrong in front of someone who doesn't report to you.
 Most organizations reward the word. Almost none reward the cost.
 
-I once built a feature that duplicated something another team had shipped three months earlier.
-Nobody told me. Nobody told them. We shared the same building, the same all-hands, the same Confluence space.
-We just never talked.
-The silo wasn't malicious. It was structural. Our OKRs didn't overlap. Our standups didn't overlap. Our incentives actively discouraged the thirty-minute conversation that would have saved eight weeks of work.
-I found out at a demo day. Sitting in the audience. Watching my feature done better.
+BHS was sold for £1.
+One pound.
+I traced the culture debt through the company's final decade.
+Sir Philip Green extracted £580 million in dividends, rent, and management charges.
+The pension fund was left with a £571 million deficit.
+When Green sold to Dominic Chappell, a twice-bankrupt former racing driver with no retail experience, the 11,000 employees discovered that the company's culture of extraction had been so total that there was nothing left to extract.
+Culture debt is the moral overdraft that accumulates when stewardship is replaced by harvesting.
 
 Silos don't form from bad intent. They form from tectonic pressure.
 In geology, tectonic plates don't move apart because they dislike each other. They're pushed by convection currents deep beneath the surface: heat, pressure, force from below.

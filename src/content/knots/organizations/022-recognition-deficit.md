@@ -34,11 +34,12 @@ Except it doesn't. Not inside your organization.
 Your best people are often your least visible. The engineer who quietly fixes the production bug at 2 AM. The project manager who absorbs the client's rage so the team can focus. The operations lead whose work only becomes visible when she takes a vacation and everything breaks.
 The crisis hero gets the award. The quiet builder gets nothing.
 
-I've been the invisible one. And I've been the one who forgot the invisible ones.
-I managed a team of eight. One engineer, let's call her Priya, refactored the entire test suite over six months. No drama. No outage. No all-hands announcement. Just steady, unglamorous work that made everyone else's job easier.
-She never got recognized. Not once. Not by me.
-The guy who fixed a single production outage in a dramatic Friday night war room? He got the quarterly award.
-Priya left four months later. I didn't understand why until after she was gone.
+Starbucks calls its employees 'partners' and its stores 'the third place.' I tracked the cultural imperialism through its international expansion research.
+In Italy, the birthplace of espresso, Starbucks opened a 'Reserve Roastery' in Milan.
+In China, it introduced drive-throughs in a tea-drinking culture.
+In Australia, it closed 61 of 84 stores because Australians already had a sophisticated coffee culture that didn't need an American translation.
+Cultural imperialism isn't always deliberate.
+Sometimes it's a company so in love with its own story that it can't imagine the story doesn't travel.
 
 Visibility is not the same as value.
 In agriculture, mycorrhizal networks are underground fungal systems that connect tree roots across entire forests. They transfer nutrients, send chemical signals, and sustain trees that would otherwise die.

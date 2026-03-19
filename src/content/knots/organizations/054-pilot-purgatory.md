@@ -35,12 +35,15 @@ That was two years ago. The pilot is still a pilot.
 Scaling was always 'next quarter.' Next quarter became next year. Next year became 'when the conditions are right.'
 The conditions for a pilot are never the conditions for an organization.
 
-I ran a pilot that became permanent purgatory.
-Twelve people. New workflow. New tools. New mindset. It worked beautifully.
-Every metric improved. User satisfaction was 94%. The team was genuinely transformed.
-Then we tried to scale to 200 people. The handpicked team had self-selected for adaptability. The broader organization hadn't. The dedicated support couldn't multiply by seventeen. The controlled environment met the chaos of reality.
-The pilot's success had proven the concept. It had also proven that success required conditions the organization couldn't replicate.
-Two years later, the twelve pilot users are still the only ones using the new system.
+Barclays' board mandated an agile transformation in 2014.
+I found the internal resistance mapped in consulting reports.
+The 'frozen middle,' the layer of directors and VPs between the board and the teams, didn't oppose agile openly.
+They simply continued approving waterfall budgets, requiring quarterly business cases for agile teams, and scheduling mandatory status meetings that consumed 40% of sprint capacity.
+The board celebrated agile.
+The middle managed waterfall.
+The teams did both and delivered neither.
+The frozen middle doesn't say no.
+It says yes while doing nothing.
 
 Lab success doesn't predict field survival.
 In biology, organisms cultivated in a petri dish thrive under controlled conditions: stable temperature, curated nutrients, no predators. Transfer them to a real ecosystem and most fail. The conditions that enabled growth in the lab, control, protection, attention, don't exist in the wild.

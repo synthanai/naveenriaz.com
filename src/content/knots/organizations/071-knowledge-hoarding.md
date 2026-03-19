@@ -35,12 +35,15 @@ Your team hoards knowledge like gold. Not maliciously. Strategically.
 The engineer who's the only one who understands the legacy system. The analyst who keeps her models in personal folders. The manager who holds institutional memory like a bargaining chip.
 Each person is individually rational: knowledge is power. In an organization that rewards visibility over contribution, being the only one who knows something is job security.
 
-I was a knowledge hoarder.
-Not consciously. I just never documented my processes. Never wrote down the tribal knowledge I'd accumulated over six years.
-When I was promoted, my replacement struggled for eight months. Problems I could solve in minutes took her weeks.
-I felt valuable. I felt needed. People called me for answers I should have documented years ago.
-Then I realized: my indispensability wasn't a compliment. It was a failure. I hadn't built a system. I'd built a dependency on myself.
-The organization was weaker because I'd kept what I knew inside my head.
+Handelsbanken is a Swedish bank that inverted the banking model.
+I found the research compelling.
+There is no central marketing department.
+There is no central sales target.
+Each branch manager runs their branch as a business, with full P&L visibility and full authority over lending decisions.
+Information is not hoarded at headquarters because headquarters doesn't have information worth hoarding.
+Every branch sees every other branch's performance.
+Anti-knowledge-hoarding is not an HR initiative.
+It is an architectural decision that makes hoarding structurally impossible.
 
 Knowledge that doesn't circulate loses value.
 In economics, currency hoarding creates deflationary spirals: when people hoard money instead of spending it, the velocity of money decreases. Less circulation means less economic activity. More hoarding. Less circulation. The spiral deepens.

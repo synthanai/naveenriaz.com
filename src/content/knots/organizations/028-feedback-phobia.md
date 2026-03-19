@@ -35,14 +35,17 @@ What happened to the last truth-teller in your organization?
 Not the whistleblower. Not the dramatic exit interview confession. The person who, in an ordinary meeting, said something honest that made someone senior uncomfortable.
 Do you remember? Your team does.
 
-I remember mine.
-A junior designer pushed back on a product direction in a review meeting. She was right. The data supported her. The user research supported her.
-The VP didn't argue. He didn't disagree. He thanked her for the input.
-She was never invited to another review meeting.
-No confrontation. No formal consequence. Just a quiet erasure.
-Six people watched it happen. All six learned the same lesson: honesty has a price, and the price is visibility.
-I didn't intervene. I noticed. I calculated. I stayed quiet.
-That calculation is the phobia.
+Pixar's Braintrust meets every few months to review films in progress.
+I studied the protocol.
+Directors present their work.
+The room, filled with peers, gives brutally honest feedback.
+The critical distinction that I found: the Braintrust has no authority.
+It cannot mandate changes.
+The director can ignore every note.
+This separation of candor from power is what makes the feedback possible.
+Ed Catmull designed it deliberately: if feedback comes with authority, people stop giving honest feedback and start giving safe feedback.
+Pixar chose truth over comfort.
+Then it made sure comfort couldn't override truth.
 
 Fear of feedback is neurologically installed.
 In neuroscience, fear conditioning occurs when the amygdala associates a neutral stimulus with a threat. It takes one event. The rat touches the lever, receives a shock, and never touches the lever again.

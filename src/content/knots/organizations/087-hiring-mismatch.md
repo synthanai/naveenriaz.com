@@ -36,11 +36,15 @@ Great CV. Terrible fit. Hired anyway.
 Your hiring process optimizes for credentials, not context. Education, work history, interview performance. All proxies for something you're not measuring: will this person thrive in this specific team, with this specific culture, doing this specific work?
 The candidate was impressive. The role needed something they didn't have. Not skill. Fit.
 
-I hired wrong and it taught me everything about hiring.
-The candidate was objectively the strongest. Best pedigree. Best interview answers. Most articulate. Most confident.
-Six months in, the team was fracturing. Not because they were incompetent. Because their working style conflicted with the team's culture. They were decisive in a consensus team. They were independent in a collaborative environment.
-They were a great professional in the wrong ecosystem.
-I learned: interview performance measures interview skill. It measures nothing about daily fit.
+Luckin Coffee's COO, Jian Liu, fabricated $310 million in revenue by himself.
+I read the Muddy Waters short-seller report and the SEC filings.
+Liu created fake purchase orders, fake customer transactions, and fake expense receipts.
+The board didn't know.
+The auditors didn't catch it.
+The internal controls didn't flag it.
+One person, operating as a single point of failure in the revenue system, destroyed $12 billion in market value in a single trading day.
+Single point of failure in engineering means a bridge collapses.
+In organizations, it means the entire structure was never really a structure at all.
 
 Wrong blood type causes rejection even when the blood itself is healthy.
 In immunology, a blood transfusion with an incompatible type triggers an immune response. The blood is healthy. The cells are functional. The type is wrong.

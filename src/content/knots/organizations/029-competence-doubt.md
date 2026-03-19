@@ -35,11 +35,12 @@ Your best engineer hesitates before every commit. Your most experienced designer
 They're not incompetent. They've been taught to doubt themselves.
 The system installed the hesitation. The system calls it "rigor."
 
-I watched it happen to me.
-I was three years into a role, operating at a level where I should have been trusted to make calls autonomously. Instead, every technical decision went through a review committee.
-Not because I was wrong. My success rate was above 90%. But because the organization's default was verification, not trust.
-By year four, I had internalized it. I stopped making decisions without approval, not because I needed it, but because the absence of approval felt dangerous.
-The doubt wasn't mine. It was the organization's. I just started carrying it.
+Novo Nordisk is 76% owned by the Novo Nordisk Foundation, which exists to advance scientific and humanitarian purposes.
+I found the governance research revealing.
+The foundation's charter prevents hostile takeover, insulates the company from quarterly earnings pressure, and ensures that scientists, not financiers, set the research agenda.
+The result: Novo Nordisk developed semaglutide (Ozempic/Wegovy), arguably the most significant pharmaceutical breakthrough in a decade.
+Competence doubt is what happens when MBAs overrule scientists.
+Novo Nordisk built a structure that makes that impossible.
 
 Competence doubt is a performance spiral.
 In sports psychology, "the yips" describes a phenomenon where elite athletes suddenly lose the ability to perform basic skills they've mastered for years. A golfer who's sunk ten thousand putts can't make a two-footer. A pitcher who's thrown ninety-mile fastballs can't find the strike zone.

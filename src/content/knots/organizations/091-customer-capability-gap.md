@@ -36,11 +36,15 @@ Your website promises world-class service. Does it deliver?
 Your marketing moved faster than your operations. The brand says 'best-in-class.' The delivery says 'we're working on it.'
 The gap between promise and capability isn't a marketing problem. It's a trust problem. Every customer interaction that falls short of the brand promise is a withdrawal from the trust account.
 
-I created a capability gap deliberately.
-We launched a premium service tier before we had the capability to deliver it. The sales team needed it for competitive positioning. The operations team needed twelve months to build it.
-We launched in three.
-The first customers received a premium price for a standard experience. They didn't complain immediately. They just didn't renew.
-I'd prioritized revenue capture over capability building. The short-term gain was measurable. The long-term damage was invisible until the renewals didn't come.
+Peloton sold a $2,500 bike.
+The hardware capability was extraordinary: precision engineering, a 22-inch touchscreen, seamless connectivity.
+I traced the capability gap through their earnings.
+The content capability lagged.
+The community capability barely existed.
+When COVID lockdowns ended, customers discovered that the bike was excellent but the ecosystem was thin.
+Peloton's stock dropped 90% from its peak.
+The company had built a vehicle without building the road.
+Customer capability gaps widen fastest when the product promise exceeds the organizational ability to sustain it.
 
 The gap between promise and performance is where trust goes to die.
 In athletics, an athlete who publicly promises a performance they can't deliver faces a credibility gap. The promise raises expectations. The underperformance destroys confidence. Each subsequent promise is received with more skepticism.

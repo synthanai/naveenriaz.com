@@ -33,11 +33,12 @@ Four approvals for one purchase order. Three sign-offs for one hire. Two committ
 The blueprint says efficiency. Reality says sediment.
 Each approval was added for a reason: a past mistake, an audit finding, a compliance requirement. Each layer made sense when it was added. Together, they form a geological record of organizational fear.
 
-I discovered process sediment when I tried to buy a $200 subscription.
-The approval chain: my manager, the budget owner, procurement, IT security, legal review.
-Five people. Three weeks. For a tool that would save my team forty hours per month.
-I asked why each approval existed. Each pointed to a specific incident: 'We had an unauthorized purchase in 2019.' 'There was a security breach from an unapproved vendor in 2020.' 'Legal needed visibility after the compliance audit.'
-Each layer was a scar from a wound that might have healed years ago. But scars don't self-dissolve. They accumulate.
+Philips' matrix structure became a case study in confusion.
+I found internal reports showing that a product decision required sign-off from the country manager, the product division head, the regional president, the technology officer, the supply chain lead, the finance controller, and the CEO's office.
+Seven signatures across three axes.
+A consumer health product that should have launched in six months took twenty-two.
+Engineers described the matrix as 'the system where everyone can say no and nobody can say yes.' Philips eventually abandoned the matrix.
+The matrix nearly abandoned Philips first.
 
 Sediment accumulates but never self-removes.
 In geology, sedimentation is a one-way process: material deposits in layers over time. Each layer is thin. Over thousands of years, the accumulated weight compresses earlier layers into rock.

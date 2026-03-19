@@ -36,11 +36,13 @@ Your next leader isn't being developed. The succession plan says 'ready.' Realit
 The VP is leaving in six months. The pipeline has three names. Each has been 'in development' for two years. None has been given actual leadership scope.
 'Development' meant: a leadership course, a mentoring program, and a stretch project that was too small to stretch.
 
-I created a leadership vacuum unintentionally.
-I was good at my job. So I kept doing it. For seven years.
-I didn't delegate the meaningful decisions. I didn't share the strategic context. I didn't put anyone in positions where they'd fail productively.
-When I finally left, the team discovered that leadership had been a one-person function. The skills, the relationships, the judgment, none of it had been distributed.
-I didn't hoard leadership. I just never shared it. The result was the same.
+In March 2018, an Uber self-driving car killed Elaine Herzberg in Tempe, Arizona.
+I read the NTSB report.
+The safety driver was watching a video on her phone.
+She wasn't negligent in the traditional sense.
+The automation had created what the report called 'automation complacency.' The system detected Herzberg six seconds before impact.
+It classified her as a vehicle, then as a bicycle, then as unknown.
+It never initiated emergency braking because that function had been disabled to reduce 'jerky ride quality.' The paradox of automation: the better it works, the less humans pay attention when it doesn't.
 
 Vacuums create instability because nature demands filling.
 In physics, a vacuum, while theoretically stable, creates powerful forces as surrounding systems rush to fill the absence. The vacuum itself is neutral. The instability it causes is not.

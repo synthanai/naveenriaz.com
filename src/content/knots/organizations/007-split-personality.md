@@ -38,11 +38,15 @@ Your company has an external brand and an internal culture. And every employee c
 The careers page says "we empower our people." The Slack channel says "do what you're told."
 The investor deck says "innovation-first." The engineering roadmap says "feature parity with competitor X."
 
-I've lived on both sides of that split.
-I wrote copy about a "culture of trust" while sitting in an open-plan office where my screen was monitored.
-I helped draft a values presentation about "psychological safety" the same month my manager got fired for disagreeing with the VP in a meeting.
-The cognitive dissonance didn't make me cynical immediately. It took about eighteen months.
-By then I'd stopped believing anything the company printed on a poster.
+Blockbuster had a story it told itself: 'We are a retail experience.' The Friday night trip to the store.
+The blue carpet.
+The late fees that funded the whole operation.
+When Netflix offered to sell itself to Blockbuster for $50 million in 2000, Blockbuster's CEO laughed.
+The story was too powerful.
+Retail IS us.
+By the time Blockbuster launched its own DVD-by-mail service in 2004, it was chasing a narrative it had already lost.
+The last Blockbuster store in Bend, Oregon is now a tourist attraction.
+The story became a museum exhibit.
 
 A split identity isn't a branding problem. It's a physics problem.
 In optics, refraction occurs when light hits a boundary between two materials and the beam splits. One part continues forward. The other bends at a different angle.

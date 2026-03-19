@@ -36,11 +36,15 @@ Your system is held together by workarounds. Those workarounds have workarounds 
 The original shortcuts were reasonable: trade-offs between speed and quality when time was scarce. The problem isn't the original compromise. It's the fourteen subsequent compromises built on top of it.
 Each layer adds fragility. Each workaround adds complexity. The system works. Until it doesn't. And when it doesn't, everything collapses at once.
 
-I built technical debt that became an avalanche.
-The original system was built in six months for an MVP. 'We'll refactor later.' Later was busy. And later after that. And later after that.
-Three years of 'we'll refactor later.' Each new feature added to the codebase was a patch on a patch on a compromise.
-When we finally tried to add a fundamental capability, the entire architecture resisted. The technical debt had compounded to the point where adding a new feature cost three times what building it on clean architecture would have.
-The avalanche hit during a product launch. The system collapsed under load that the original architecture could have handled. But original architecture had been buried under three years of shortcuts.
+When Elon Musk acquired Twitter in October 2022, he discovered what engineers had been saying for years: the codebase was held together by technical debt.
+I followed the aftermath.
+Musk fired approximately 80% of the workforce within weeks.
+The site went down.
+The verification system broke.
+Two-factor authentication failed.
+The content moderation system collapsed.
+The technical debt avalanche was triggered not by the debt itself but by removing the people who were managing it.
+They were the load-bearing walls masquerading as decorative fixtures.
 
 Accumulated snow mass doesn't melt gradually. It releases all at once.
 In geology, an avalanche occurs when accumulated snow exceeds the slope's ability to hold it. The buildup is gradual. The release is instantaneous. And the damage is proportional to the accumulation time.

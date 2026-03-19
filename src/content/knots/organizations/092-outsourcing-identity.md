@@ -37,11 +37,16 @@ You outsourced support. Then engineering. Then design. Each time, the business c
 But something else left with each outsourcing decision: the organization's understanding of how those functions work. The institutional knowledge. The capability to innovate in that domain.
 You didn't just outsource the function. You outsourced the identity.
 
-I outsourced our core capability without realizing it was core.
-We outsourced product design to a consultancy because we needed 'world-class design thinking.' The consultancy delivered excellent work. For three years.
-Then we wanted to pivot the product direction. We couldn't. The design capability lived outside our organization. Every adjustment required a contract amendment, a scope change, a timeline revision.
-We had beautiful products designed by people who didn't understand our customers, our culture, or our strategic direction.
-The products looked right. They didn't feel right. The soul had been outsourced.
+Dell outsourced its manufacturing to Asus in stages.
+I found the research documented in Clayton Christensen's work.
+First, the motherboards.
+Then the assembly.
+Then the design.
+At each stage, Dell's margins improved and Asus's capabilities grew.
+By the time Dell realized what had happened, Asus was selling its own laptops.
+Dell had outsourced not just manufacturing but the capability to understand what made a good computer.
+The core competency had been reclassified as a cost center.
+The cost center walked out the door and became a competitor.
 
 Transplanted organs function but never fully integrate.
 In biology, organ transplants require lifelong immunosuppression because the body never fully accepts the foreign tissue. The organ works. The recipient depends on it. But the integration is permanent maintenance, not natural function.

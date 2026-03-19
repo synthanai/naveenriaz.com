@@ -34,11 +34,10 @@ The distinction matters. Performing integrity is a quarterly event. Living it is
 Your compliance dashboard is green. Your ethics training is complete. Your whistleblower hotline exists.
 And somehow, the person who reported harassment last month was quietly moved to a different floor.
 
-I helped build integrity infrastructure at a company that won a "Best Workplace Ethics" award.
-We had a code of conduct. We had mandatory training. We had the poster in the break room.
-Six months after the award, I watched a senior director falsify a client report. Two people saw it. Both stayed quiet.
-The infrastructure was perfect. The integrity was optional.
-I stayed quiet too. That's the part I'm still sitting with.
+The Container Store built its culture around something called 'Foundation Principles,' chief among them: '1 Great Person = 3 Good People.' Every interaction was to be infused with enthusiasm.
+I found Glassdoor reviews and employee accounts describing the dark side: during layoffs in 2016 and store closures in 2020, employees reported being pressured to remain vocally enthusiastic.
+Expressing grief about colleagues being fired was treated as a culture violation.
+Toxic positivity means the smile is mandatory even when the building is on fire.
 
 This is the difference between a facade and a wall.
 In structural engineering, facade retention is when developers preserve the front of a historic building while gutting everything behind it. The street sees heritage. The building has no structure.

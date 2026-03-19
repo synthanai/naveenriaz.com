@@ -33,11 +33,14 @@ Three years ago, your executive sponsor led the change initiative. They were vis
 Then the quarterly review happened. A new priority emerged. The sponsor's attention shifted.
 The initiative didn't lose its business case. It lost its bodyguard.
 
-I was on a transformation team that lost its sponsor.
-The C-suite leader who championed our initiative got promoted and took on a broader portfolio. She didn't abandon us. She just... got busy.
-Monthly check-ins became quarterly. Quarterly became 'catch me on Slack.' Slack became silence.
-Without her, budget conversations became harder. Stakeholder resistance re-emerged. The middle managers who had reluctantly cooperated started openly deprioritizing our work.
-We had the same strategy, the same team, the same data. We lost the one thing that made everything else possible: air cover.
+When AB InBev acquired SABMiller for $100 billion in 2016, the 3G Capital playbook was immediate: zero-based budgeting.
+Every expense justified from zero annually.
+I traced the cultural impact through employee accounts.
+SABMiller had traditions: annual brewery festivals, long-tenured brewmasters, community programs in African markets.
+AB InBev eliminated them as 'non-essential spend.' The talent exodus that followed wasn't about money.
+It was about grief.
+Change without mourning is surgery without anesthesia.
+The patient survives, but never trusts the surgeon again.
 
 Change needs sustained atmospheric moisture to survive.
 In meteorology, evapotranspiration is the process by which water returns from the surface to the atmosphere: it evaporates. When more water evaporates than precipitates, drought follows.

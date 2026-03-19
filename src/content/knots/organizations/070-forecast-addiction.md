@@ -36,12 +36,15 @@ The revenue forecast missed by 23% last quarter. The project timeline was off by
 Nobody questioned the forecasting process. Instead, the forecast was revised. The new forecast was presented with the same confidence as the old one.
 The addiction isn't to accuracy. It's to the feeling of certainty.
 
-I was a forecast addict.
-Every quarter, I produced a detailed revenue model. Eighteen tabs. Sensitivity analysis. Three scenarios.
-Every quarter, the actual number was outside all three scenarios.
-I didn't stop forecasting. I refined the model. Added more variables. More assumptions. More complexity.
-The model got more sophisticated. It didn't get more accurate. But it felt more rigorous. And feeling rigorous was the point.
-I wasn't producing predictions. I was producing comfort.
+GE was famous for 'making its numbers.' Every quarter, every year, the revenue forecast was met.
+I studied the mechanism through the research.
+GE Capital's financial structure allowed earnings to be smoothed: profits from asset sales could be recognized early, losses deferred.
+Analysts praised the predictability.
+Investors rewarded it.
+But the forecast was not a prediction.
+It was an accounting exercise.
+The addiction to forecasting accuracy made GE unable to admit when reality deviated from the forecast, because deviation would break the spell.
+The forecast became more important than the firm.
 
 Forecasts are certainty prosthetics for uncertain minds.
 In psychology, certainty bias is the tendency to overweight confidence in predictions, regardless of their accuracy. The illusion of control suggests that producing a prediction, the act of forecasting itself, creates a feeling of control over outcomes.

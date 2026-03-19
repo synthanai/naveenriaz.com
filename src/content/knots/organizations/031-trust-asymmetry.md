@@ -37,12 +37,13 @@ Valluvar warns against blind trust. But your organization has the opposite probl
 Trust flows upward. It never flows back down.
 The demand is always: trust us. The action is always: we don't trust you.
 
-I've been on both sides of the asymmetry.
-As a junior, I was required to submit weekly status reports, attend mandatory check-ins, and document every decision for audit. The implicit message was clear: we need evidence of your work.
-As a senior, I operated with near-total autonomy. No reports. No check-ins. No documentation requirements.
-The quality of my work hadn't changed. What changed was my position in the hierarchy.
-Trust wasn't earned. It was assigned by rank.
-The person producing the most critical work had the least trust. The person furthest from execution had the most.
+Morning Star, the world's largest tomato processor, has no managers.
+I read the research three times before I believed the model.
+Every employee writes a 'Colleague Letter of Understanding,' a contract not with the company but with every other employee they work with.
+Compensation is determined by a committee of peers who review each person's contribution.
+Any employee can audit any other employee's pay.
+Trust asymmetry, where the boss knows everything and the worker knows nothing, is structurally impossible.
+The anti-pattern is radical: instead of trusting management, trust the people who actually do the work.
 
 Trust asymmetry violates thermodynamics.
 In physics, thermal equilibrium occurs when heat flows from a warmer body to a cooler one until both reach the same temperature. The flow is inherently bidirectional. Nature enforces balance.

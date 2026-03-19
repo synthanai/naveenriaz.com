@@ -36,12 +36,14 @@ Your best ideas still sit in desk drawers.
 The lab produces prototypes that never ship. The hackathon produces energy that never translates. The CIO produces reports that nobody reads.
 Innovation theater has all the props of creativity and none of the commitment.
 
-I participated in an innovation program that was pure theater.
-Two-day offsite. Post-it notes on every surface. Facilitators from a design thinking consultancy. Pitch sessions. Voting. A 'winning idea.'
-The winning idea was presented to leadership. Leadership praised it. 'This is exactly what we need.'
-Six months later, I asked what happened to it. Nobody knew. The idea wasn't rejected. It wasn't funded. It wasn't remembered.
-The event was the purpose. Not the outcome.
-The organization performed innovation without practicing it.
+GE Digital was Jeff Immelt's bet on becoming 'the world's premier digital industrial company.' I tracked the investment: $4 billion into Predix, an industrial IoT platform.
+GE hired 1,500 software engineers.
+Built a gleaming office in San Ramon, California.
+Published thought leadership papers.
+The research shows one problem: no customer wanted the product at the price GE charged.
+Predix was innovation theater: a world-class performance with no audience.
+GE wrote off the entire digital division in 2018.
+The theater went dark.
 
 Beautiful flowers don't always produce fruit.
 In botany, deadheading is the practice of removing spent flowers to redirect energy toward new blooms and fruit production. Some plants produce spectacular flowers that consume so much energy that no fruit develops. All display, no yield.

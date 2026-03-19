@@ -33,11 +33,13 @@ The blueprint says agile. The building says 2017.
 New boxes on the chart. Same reporting lines in practice. Same meetings. Same approvals. Same power dynamics.
 The restructure changed the diagram. It didn't change the organism.
 
-I lived through four restructures in six years.
-Each announced with fanfare. New operating model. New reporting lines. New team names.
-Each time, I noticed the same thing: within three months, the informal pathways reasserted themselves. The people who had power before the restructure had power after it. The bottlenecks that existed before existed after.
-The fourth time, I stopped updating my LinkedIn. The structure would change again before the ink dried.
-I wasn't cynical. I was calibrated.
+GE Capital grew inside General Electric like a parasite that outgrew its host.
+By 2007, GE Capital generated 55% of GE's profits, but most GE industrial executives I found in the research couldn't explain what GE Capital actually did.
+It was a shadow finance company operating inside an industrial conglomerate, invisible to the jet engine and power turbine divisions.
+When the 2008 financial crisis hit, GE Capital's toxic assets nearly destroyed the entire company.
+GE needed a $139 billion government-backed loan guarantee.
+The silo wasn't just organizational.
+It was existential.
 
 Tectonic plates resist movement until they don't.
 In geology, continental drift meets enormous resistance from the inertia of landmasses. Plates move centimeters per year. The surface appears static. But pressure accumulates.

@@ -34,12 +34,14 @@ The roadmap still says 'Phase 1: Assessment.'
 The plan was beautiful. Execution was abandoned somewhere between the stakeholder mapping and the first budget review.
 The transformation exists on PowerPoint. It doesn't exist in practice.
 
-I led a transformation that became theater.
-It started real: genuine problems, genuine ambition, genuine commitment. The first quarter had momentum.
-Then the reporting took over. Weekly status dashboards. Monthly steering committees. Quarterly board updates. Red-amber-green coding on 47 workstreams.
-We spent more time reporting on transformation than transforming.
-By month eight, the program had a full-time PMO of six people managing the governance of a transformation that had produced zero behavioral change.
-The theater was immaculate. The transformation was fictional.
+BT Group underwent four major restructurings between 2018 and 2024.
+I tracked each one.
+The first split BT into four customer-facing units.
+The second merged two of them back.
+The third created a standalone infrastructure company (Openreach).
+The fourth reorganized around 'digital transformation.' Employees described developing 'restructure immunity,' a learned helplessness where new org charts were acknowledged, filed, and ignored.
+Change fatigue isn't resistance to change.
+It's the rational calculation that this change, like the last one, will be reversed before it matters.
 
 Some buildings are only facades.
 In architecture, a Potemkin village is a construction that presents an impressive front but has nothing behind it. The facade suggests prosperity. The reality behind it is hollow.

@@ -38,11 +38,13 @@ Or the inverse: your team attended twelve training sessions, read four books, an
 The learning is happening. The doing isn't.
 Both imbalances produce the same result: no growth.
 
-I managed a team that did without learning.
-We shipped fast. Every sprint delivered features. Our velocity was the highest in the division.
-But our defect rate was also the highest. The same categories of bugs appeared every sprint. Integration issues. Edge cases. Performance regressions.
-We never stopped to ask why the same problems recurred. We just fixed them and shipped again.
-The speed was real. So was the waste. We were running fast on a treadmill, covering distance but arriving nowhere different.
+Foxconn employs 1.2 million people.
+I read the academic research on its Shenzhen facilities.
+Workers perform a single repetitive task for 10-12 hour shifts.
+Training is operational, not developmental: learn this motion, repeat it 400 times per hour.
+The Learning-Doing imbalance is structural.
+Foxconn's model requires doing without learning because learning creates expectations, and expectations create demands.
+The suicide nets installed on factory buildings in 2010 are the physical manifestation of a capability model that treats human beings as single-function machines.
 
 Harvest without composting depletes the soil.
 In agriculture, continuous harvesting without returning nutrients to the soil depletes it. Each season produces less. The farmer is still working. The soil is still there. But the yield declines because the cycle is broken.

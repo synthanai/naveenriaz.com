@@ -35,11 +35,15 @@ Your team just made the same mistake it made two years ago. The same project tim
 The post-mortem from two years ago identified the root cause. The recommendations were documented. The lessons were 'captured.'
 They were captured and buried. Nobody read them. The learning never became practice.
 
-I watched my organization repeat a $2M mistake.
-The first time, we launched a product without adequate market research. It failed. The post-mortem was thorough. The recommendations were clear: never launch without validated demand.
-Two years later, different team, same division, same mistake. $2.3M this time.
-The second post-mortem referenced the first. 'Consistent with previous findings.' As if acknowledgment was the same as learning.
-The organization could diagnose. It couldn't metabolize.
+Deutsche Bank repeated the same compliance failure across three decades.
+I mapped the pattern through the research.
+In the 1990s: LIBOR manipulation.
+In the 2010s: Russian mirror trading that laundered $10 billion.
+In 2019: Epstein-linked accounts that should never have been opened.
+After each scandal, Deutsche Bank commissioned an external review, appointed new compliance officers, and published new policies.
+The policies layered on top of, not instead of, the culture that caused the failure.
+By 2023, Deutsche Bank had paid $18 billion in fines across 20 years.
+Learning disability means the organization can absorb information but cannot change behavior.
 
 Learning disability is geological.
 In geology, erosion follows the path of least resistance. A river cuts a channel. The next flood follows the same channel. Each cycle deepens the groove until the landscape is permanently shaped by the original path.

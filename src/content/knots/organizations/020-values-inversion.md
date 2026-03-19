@@ -34,11 +34,14 @@ Your organization's values poster says "people first."
 Your Q3 budget cut training, froze hiring, and reduced the wellness benefit. But the C-suite retreat in Bali? That survived every round of cuts.
 The values and the budget are telling two different stories. Only one of them is true.
 
-I helped write a "People First" strategy deck.
-The same month, I approved a restructure that eliminated the only team focused on employee development. The justification was clean: "strategic realignment."
-The real reason: their budget was easier to cut than any client-facing function.
-I didn't feel like a hypocrite at the time. The logic was sound. The numbers made sense.
-It took a year to realize that "people first" meant "people first, unless something more measurable needs the budget."
+Bayer acquired Monsanto for $63 billion in 2018.
+Within months, a jury awarded $289 million to a groundskeeper who claimed Roundup caused his cancer.
+I traced the blame cascade through earnings calls and board disclosures.
+The board blamed the M&A team for insufficient due diligence.
+The M&A team blamed the legal team for underestimating litigation risk.
+The legal team blamed Monsanto for concealing internal research.
+Nobody owned the decision.
+Nobody could, because the decision to acquire had been made through a consensus process designed to distribute responsibility until it disappeared.
 
 The real values aren't on the wall. They're in the spreadsheet.
 In cartography, a map-territory mismatch occurs when the map says one thing and the terrain says another. A road marked as open is actually flooded. A shortcut marked as safe leads to a cliff.

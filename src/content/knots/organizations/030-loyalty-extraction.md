@@ -35,12 +35,13 @@ Your organization expects loyalty. It uses the word in reviews, in restructures,
 But what has it given lately?
 Loyalty isn't a tax you collect from employees. It's an exchange: you invest in them, they invest in you. When the investment becomes one-directional, the word "loyalty" stops being a relationship and becomes a demand.
 
-I gave loyalty for fourteen years.
-I worked weekends when asked. Took on extra projects when needed. Defended the company in conversations with friends who questioned why I stayed.
-When my department was restructured, I was given two weeks' notice and a template exit email.
-Fourteen years of loyalty met two weeks of process.
-I'm not bitter. I understand business decisions. But I understand something else now too: the organization used the word "loyalty" to describe what I gave. It never used it to describe what it owed.
-Extraction. That's the word I was looking for.
+Carnival Corporation's crew loyalty extraction is documented in maritime labor research.
+Crew members from the Philippines, Indonesia, and India work 10-12 month contracts at sea.
+They are separated from families, housed in shared cabins below the waterline, and paid wages that are legal only because maritime law allows flag-of-convenience jurisdictions.
+I found crew members describing 'loyalty' not as choice but as economic captivity.
+Carnival's revenue per passenger exceeds $1,400.
+Crew wages average $1,500 per month.
+Loyalty extraction means defining captivity as commitment.
 
 Loyalty extraction is biological.
 In ecology, brood parasitism occurs when one species, like the cuckoo, lays its eggs in another bird's nest. The host bird raises the cuckoo's chick at the expense of its own offspring, giving food, warmth, and protection to a creature that gives nothing back.

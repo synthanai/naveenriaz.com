@@ -36,11 +36,14 @@ Your best performer is trapped. Their manager keeps them in role because their o
 The performer wants to grow. The manager wants to deliver. Growth and delivery are in conflict, and delivery wins every quarter.
 The talent isn't hoarded maliciously. It's hoarded rationally. The manager's incentive is team output. Moving the best person out reduces output. So the best person stays.
 
-I was hoarded.
-My manager told me I was 'too valuable to move.' He meant it as a compliment. I experienced it as a cage.
-For three years, I asked for development opportunities outside my team. Each time: 'Not this quarter. We need you here.'
-By year three, I stopped asking. By year four, I stopped caring. By year five, I left.
-My manager lost the thing he was trying to keep, because keeping it required constraining it. The talent hoarding worked until the talent decided it was a prison.
+ARM's architecture powers 95% of the world's smartphones.
+When SoftBank acquired ARM for $32 billion in 2016, I found research documenting the knowledge risk.
+ARM's value isn't in its factories (it has none) or its patents alone.
+It's in the tacit knowledge of 6,000 engineers who understand how to design chips that balance performance with power consumption.
+During the acquisition chaos, key engineers left.
+During the Nvidia acquisition attempt in 2020-2022, more departed.
+Each departure didn't just reduce headcount.
+It extinguished knowledge that existed in no document, only in the neural pathways of people who walked out the door.
 
 Capital trapped in low-yield accounts loses value through opportunity cost.
 In economics, resources locked in unproductive allocations can't compound elsewhere. The investor sees stable returns but misses the exponential growth available in better-fit investments.

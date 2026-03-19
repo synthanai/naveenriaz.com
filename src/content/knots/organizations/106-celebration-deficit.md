@@ -34,12 +34,13 @@ Your team finished a six-month project. It shipped. It worked. The customer was 
 Nobody paused. The next sprint started Monday morning. The retrospective was cancelled because 'we need to focus forward.'
 The team achieved something significant and the organization treated it like a checkpoint, not a summit.
 
-I erased a celebration that my team needed.
-We shipped a product after nine months of intense work. The evening of the launch, I sent the team a message: 'Great work! Let's keep the momentum, sprint planning tomorrow at 9am.'
-I didn't mean to be dismissive. I was already focused on the next phase.
-But my team needed something I hadn't considered: acknowledgment that the sprint was over. That the achievement was complete. That they could exhale.
-One person told me later: 'When you scheduled sprint planning the night of our launch, the launch stopped mattering.'
-She was right. I'd converted a finish line into a midpoint.
+The New Zealand All Blacks have a win rate of 77% across all Test matches in their history.
+No other sports team comes close.
+I found the cultural practice of celebration documented in James Kerr's 'Legacy.' After every match, whether victory or defeat, the team gathers for a ritual called the 'circle.' Senior players acknowledge junior players.
+Effort is named specifically rather than generically.
+The 'no dickheads' policy means that individual brilliance never overrides collective celebration.
+The celebration deficit in most organizations is not about parties.
+It is about the systematic failure to notice effort.
 
 Harvest without feast depletes the farmer.
 In agriculture, harvest festivals exist not as indulgence but as renewal. The cycle of planting, growing, and harvesting is physically depleting. The feast restores energy, acknowledges the work, and creates the emotional foundation for the next cycle.

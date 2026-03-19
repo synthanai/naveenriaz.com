@@ -34,11 +34,15 @@ Now look at your organization. The rod is always high. And it always strikes.
 Nobody challenges the boss. Nobody challenges anything. The corridors are quiet. The emails are careful. The Slack messages are edited three times before sending.
 A visitor would call it professional. An insider calls it survival.
 
-I worked under a VP who never raised his voice.
-He didn't need to. He had a habit of going silent when he disagreed. Just a pause. A slight tilt of the head. Then the conversation would continue as if your contribution hadn't happened.
-Within six months, nobody offered ideas that hadn't been pre-approved.
-He never threatened anyone. He never punished anyone. He just made it gently, terrifyingly clear that disagreement had a cost.
-The cost wasn't your job. It was your visibility.
+SpaceX's hero culture is openly celebrated.
+Elon Musk has said publicly that he expects 80-hour weeks.
+I read the Reuters investigation and former employee accounts.
+Engineers sleeping under desks. 'Crunch time' that lasted months.
+One former employee described being praised for working through a family emergency.
+The culture produces extraordinary results: reusable rockets, Starlink, interplanetary ambition.
+But the fuel is human sacrifice, and the culture treats the sacrifice as a feature, not a cost.
+Heroes burn.
+That's what makes them heroes.
 
 Fear doesn't always look like fear.
 In wildlife ecology, the "landscape of fear" describes how prey animals modify their behavior based not on actual attacks, but on the perceived risk of attack. Elk avoid open meadows not because wolves are there, but because wolves could be there.

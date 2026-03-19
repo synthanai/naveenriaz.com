@@ -39,11 +39,12 @@ Read it slowly. Does it serve anyone? Does it commit to anything a competitor wo
 "We exist to create innovative solutions that empower our customers."
 That sentence serves no purpose. It could belong to any company on the planet. Which means it belongs to none.
 
-I watched a purpose get softened to death.
-The original was specific, uncomfortable, and true: "We make regulatory compliance simple for small businesses that can't afford legal teams."
-By the time marketing, legal, investor relations, and the board had each taken a pass, it became: "We empower businesses to thrive in a complex world."
-Everyone approved it. Nobody believed it.
-The sharpness that made it real was exactly what made it scary. And scary doesn't poll well.
+Volkswagen's 'clean diesel' campaign won environmental awards.
+The cars passed every test.
+What I found in the research was that they passed every test because the software detected when a test was happening.
+Outside the lab, the cars emitted up to 40 times the legal limit of nitrogen oxides. 11 million vehicles worldwide.
+The brand identity gap between 'Das Auto, clean and German-engineered' and 'Das Auto, programmed to cheat' was not a marketing error.
+It was an engineering decision, approved through a chain of command that valued the brand story over the atmospheric truth.
 
 This is what happens when purpose becomes a product.
 In data science, aggressive smoothing is a technique where you average out the noise in a dataset. Useful in moderation. Lethal in excess.

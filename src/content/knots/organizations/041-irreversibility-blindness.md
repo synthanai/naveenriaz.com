@@ -35,11 +35,11 @@ The vendor you can switch. The feature you can revert. The hire you can coach.
 The acquisition you can't unwind. The architecture that's load-bearing. The layoff that broke trust permanently.
 Treating permanent decisions with the same casualness as reversible ones is organizational blindness.
 
-I made an irreversible decision casually once.
-I approved a data architecture migration 'because it was time.' The team had a preference. The timeline was tight. We chose speed over deliberation.
-Eighteen months later, we were stuck on a platform that couldn't scale. Every new feature required a workaround. Every workaround added technical debt.
-The decision to migrate was made in a ninety-minute meeting. The consequences lasted four years.
-If I'd known it was a one-way door, I would have spent four weeks deliberating. Instead, I spent four years regretting.
+1MDB is the most expensive case of irreversibility blindness I've found. $4.5 billion stolen from a Malaysian sovereign wealth fund.
+The decisions were designed to be irreversible: layers of shell companies in the Seychelles, British Virgin Islands, and Luxembourg.
+Money moved through Goldman Sachs, BSI Bank, and Falcon Bank.
+Each transfer was a one-way door.
+When the Malaysian government discovered the fraud, the money had been converted into yachts, paintings, and the funding for the film 'The Wolf of Wall Street.' Irony is apparently not subject to extradition.
 
 Not all transformations can be reversed.
 In chemistry, irreversible reactions are processes that cannot return to their original state once completed. Combustion is the classic example: you can burn wood, but you cannot unburn it. The chemical bonds are permanently broken.

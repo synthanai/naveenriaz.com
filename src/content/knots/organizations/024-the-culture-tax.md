@@ -35,12 +35,14 @@ The workaround email that takes twenty minutes because the direct path requires 
 The redundant meeting because two teams don't trust each other's output.
 The political pre-meeting before the actual meeting so nobody is surprised.
 
-I once calculated my culture tax for a single week.
-Four hours of political navigation: pre-aligning stakeholders before a decision that should have taken one conversation.
-Three hours of redundant work: rebuilding a deck because the previous team's version "couldn't be trusted."
-Two hours of emotional labor: managing up, managing down, managing sideways.
-Nine hours. More than a full working day, every week, consumed by friction that had nothing to do with the work itself.
-Nobody measured it. Nobody counted it. It was just the cost of operating in that culture.
+Ray Dalio's 'Principles' is a 600-page book.
+At Bridgewater Associates, it was a 600-page constitution.
+I read accounts from former employees.
+Every meeting was recorded.
+Every disagreement scored on a 'believability' matrix.
+Every employee was rated publicly on dozens of attributes.
+Dalio called it 'radical transparency.' Former employees called it 'a cult with Bloomberg terminals.' The monoculture trap is not about having strong values.
+It's about having one person's values become the only values that count, and calling the result 'principles' instead of 'power.'
 
 Bad culture costs more than bad strategy.
 In economics, deadweight loss is the value destroyed by inefficiency in a system: transactions that never happen, goods that never reach buyers, value that simply evaporates.

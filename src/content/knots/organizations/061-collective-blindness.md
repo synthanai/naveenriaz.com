@@ -35,11 +35,15 @@ The customer feedback survey said it three quarters ago. The exit interviews rep
 Nobody was surprised when the crisis hit. Because the data had been available for months.
 The organization had eyes. It didn't have sight.
 
-I missed a signal that was screaming at me.
-Our customer churn rate had been climbing 2% per quarter for a year. The data was in a dashboard I checked weekly. I saw the number. I even commented on it in a quarterly review.
-But I didn't process it. I didn't connect it to the product decisions I was making. I didn't extrapolate the trend.
-The number was visible. The meaning was invisible. I had the data. I lacked the pattern recognition to act on it.
-That's collective blindness: the signal is there. The interpretation isn't.
+Swissair was called 'the flying bank' because it was considered the safest investment in aviation.
+I mapped its 'hunter strategy' through the research.
+Between 1997 and 2001, Swissair acquired stakes in 12 airlines, each losing money.
+Sabena, TAP Air Portugal, LOT Polish Airlines.
+The board watched the cash reserves drain from CHF 4 billion to nothing.
+Nobody said stop.
+The collective blindness wasn't stupidity.
+Each acquisition had a strategic rationale.
+The problem was that nobody held all 12 rationales in their head simultaneously and asked: 'What happens when they all fail at once?' They all failed at once.
 
 A scotoma hides in plain sight.
 In ophthalmology, a scotoma is a blind spot in the visual field. The eye is functional. The retina receives light. But the brain doesn't process a specific region. The patient doesn't see darkness; they see nothing at all in that spot. The blindness is invisible to itself.

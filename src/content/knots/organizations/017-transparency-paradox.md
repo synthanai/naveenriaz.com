@@ -35,11 +35,12 @@ It tells investors it has "nothing to hide."
 But watch what happens when someone makes a mistake in that fishbowl.
 The same transparency that was supposed to build trust now builds anxiety. Every action is visible. Every failure is public. Every learning moment is also a judgment moment.
 
-I worked at a company that live-streamed its all-hands.
-We shared revenue numbers, churn rates, individual performance metrics. It was radical transparency.
-It was also terrifying. I watched a product manager get publicly questioned about a missed target in front of 400 people on a video call.
-Her camera was on. Her face was on screen. The numbers were on screen. The silence between answers was on screen.
-That wasn't transparency. That was a trial broadcast as culture.
+Airbus was built from four nations' aerospace industries, and nobody standardized the wiring.
+I found the technical report: when the A380 sections were assembled in Toulouse, the wiring harnesses from the German facility wouldn't connect to the fuselage sections from the French facility.
+The reason was that the Hamburg team used CATIA version 4 and the Toulouse team used CATIA version 5.
+Two versions of the same software, incompatible outputs, 530 kilometers of wiring per aircraft.
+The subculture collision cost €4.8 billion in delays.
+The cultures collided at the literal point of connection.
 
 More visibility doesn't automatically mean more trust.
 In marine biology, the glass squid has a nearly transparent body, a survival adaptation that makes it invisible to predators. But this exposure comes at a cost: its internal organs are permanently visible. Everything is seen. Nothing is protected.

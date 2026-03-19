@@ -34,11 +34,12 @@ Team A chose vendor X. Team B chose vendor Y. Team C built it in-house.
 Nobody knew the others were deciding. Nobody asked. Nobody checked.
 Each decision was rational in isolation. Together, they created three incompatible systems, three duplicated budgets, and three teams who discovered each other at the integration meeting.
 
-I was Team B in this exact scenario.
-My team spent eight weeks evaluating CRM platforms. We ran pilots. We checked references. We built a scoring matrix.
-We chose wisely. Except that the sales team had already chosen a different CRM two months earlier, and the customer success team was building a custom solution.
-Nobody told us. We didn't ask. The organizational surface area was too large for informal coordination, and the formal coordination mechanisms didn't exist.
-Three excellent decisions that added up to chaos.
+Before Satya Nadella, Microsoft was governed by what employees called 'the veto culture.' I found internal blog posts describing how shipping a single feature required navigating the political interests of Windows, Office, Server, and Azure divisions.
+Each VP could block any initiative that threatened their revenue line.
+Steven Sinofsky controlled Windows like a sovereign state.
+The result was that Microsoft missed mobile, missed social, and nearly missed cloud.
+Innovation didn't die from lack of ideas.
+It died from an excess of people empowered to say no.
 
 Fragmented decisions scatter energy like scattered files scatter performance.
 In computing, disk fragmentation occurs when files are stored in non-contiguous blocks across a hard drive. Each file is complete. Each block is valid. But reading them requires the system to jump between scattered locations, dramatically slowing performance.

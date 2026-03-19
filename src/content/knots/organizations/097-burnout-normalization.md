@@ -33,11 +33,16 @@ Exhaustion is the loudest badge here. Worn proudly. Exchanged competitively.
 Your wellness program launched last Monday. The all-hands meeting about work-life balance ended at 8pm. The executive who championed mental health sends emails at midnight.
 Burnout isn't happening to your team. It's happening as your team. It's become the culture.
 
-I normalized my own burnout before I recognized it.
-Sixty-hour weeks became my baseline. I stopped counting because counting would have meant acknowledging the cost.
-My manager praised my 'commitment.' My peers admired my 'availability.' The system rewarded the behavior that was destroying me.
-When I finally crashed, the organization was concerned, then inconvenienced, then impatient. The same culture that celebrated my overwork expected a quick recovery.
-I wasn't a person in their framework. I was a resource with unexpected downtime.
+In 2021, a group of first-year Goldman Sachs analysts created a presentation documenting their working conditions.
+I read the leaked slides.
+Average workweek: 98 hours.
+Average sleep: 5 hours per night.
+Job satisfaction: 2 out of 10.
+Physical health declined for 77% of respondents.
+JPMorgan's response to the industry crisis was instructive: it introduced 'protected weekends,' meaning junior staff were not expected to work on one weekend day.
+One day.
+The normalization of burnout wasn't challenged.
+It was renegotiated from 7 days to 6.5.
 
 Metal fatigue doesn't show until it fractures.
 In engineering, metal fatigue occurs when a material is subjected to repeated stress cycles below its breaking point. Each cycle causes microscopic damage. The metal appears intact. It functions normally. Until the accumulated damage reaches a threshold and the material fractures suddenly.

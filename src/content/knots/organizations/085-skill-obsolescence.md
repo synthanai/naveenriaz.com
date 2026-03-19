@@ -37,11 +37,12 @@ The Java developer who hasn't touched cloud infrastructure. The marketing manage
 Each is competent in a context that no longer exists.
 Obsolescence isn't incompetence. It's competence in a world that has moved on.
 
-I experienced skill obsolescence personally.
-For seven years, I was an expert in a technology platform that defined my career. Then the platform was sunset. The market moved to cloud-native alternatives.
-I was still an expert. In something nobody needed.
-The transition was painful because the obsolescence wasn't sudden. It was gradual. Each year, my expertise was slightly less relevant. Each year, I invested more in defending my specialization rather than evolving it.
-By the time I acknowledged the shift, I was two years behind the new standard.
+Arthur Andersen was one of the Big Five accounting firms. 85,000 employees. 89 years of history.
+I traced the competence collapse through the Enron partnership.
+Andersen didn't just audit Enron, it also provided consulting services worth $27 million per year.
+When Andersen's Houston office discovered Enron's off-balance-sheet partnerships, the competence question was replaced by the revenue question: raise the alarm or keep the $52 million annual contract.
+They chose the contract.
+One engagement, one decision, and the competence of 85,000 people became worthless overnight.
 
 Species that can't adapt go extinct regardless of their past fitness.
 In ecology, evolutionary laggards are organisms that thrived in previous conditions but can't adapt to current ones. Their features, once advantages, become liabilities when the environment shifts.

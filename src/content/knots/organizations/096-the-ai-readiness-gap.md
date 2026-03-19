@@ -36,11 +36,14 @@ Your AI strategy is 47 pages long. Your data quality is: unknown. Honestly.
 The strategy document describes transformative outcomes: predictive analytics, intelligent automation, personalized experiences. The reality: the data that would power these outcomes is scattered, inconsistent, undocumented, and of unknown quality.
 The AI strategy was written from the destination backward. The foundation was never assessed.
 
-I witnessed the AI readiness gap firsthand.
-Our leadership team returned from a conference inspired by AI possibilities. Within a month, we had an AI strategy, a Chief AI Officer, and a budget.
-Month three: the AI team discovered our data was in 47 different formats across 23 systems. No single customer record was complete. No data dictionary existed.
-Month six: the team was cleaning data instead of building models. The glamorous vision had become a data janitorial operation.
-Month twelve: the budget was consumed by data infrastructure. The AI models were 'in development.' They still are.
+Birmingham City Council, the UK's largest local authority, effectively declared bankruptcy in September 2023.
+I found the digital transformation failure documented in the audit.
+The council had attempted an Oracle ERP migration that ran £100 million over budget.
+It had neglected cybersecurity infrastructure.
+When AI readiness assessments were conducted, the council scored at the lowest tier.
+The AI readiness gap isn't about not having AI.
+It's about not having the digital foundation that makes AI possible.
+Birmingham couldn't adopt AI because it couldn't reliably send an email.
 
 Building on sand doesn't become visible until you add height.
 In construction, foundation deficiencies are invisible at ground level. It's only when you add stories, when you build upward, that the foundation's weakness becomes apparent.

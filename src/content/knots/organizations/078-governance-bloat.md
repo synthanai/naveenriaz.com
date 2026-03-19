@@ -33,11 +33,14 @@ Your governance consumes more resources than it protects.
 Seventeen approvals for one action. Three committees for one decision. A six-week review cycle for a project that could ship in two.
 The governance framework was designed to reduce risk. It succeeded so well that it eliminated all risk, including the risk of actually accomplishing anything.
 
-I sat on a governance committee that met monthly for eighteen months.
-Our charter: 'Provide strategic oversight for the digital transformation program.'
-In eighteen months, we approved two decisions, deferred seven, and requested additional analysis on eleven.
-The committee of twelve people met for two hours each month. That's 432 hours of senior leadership time. The two decisions that were approved could have been made by email.
-I once calculated the fully loaded cost of the committee: $380,000 per year in senior time. For two decisions.
+Jeff Bezos' two-pizza rule at Amazon is the most famous span-of-control doctrine in business.
+If a team can't be fed by two pizzas, it's too big.
+I found the implementation details in the research.
+It wasn't a suggestion.
+It was enforced structurally: each team owned a specific service, had its own P&L accountability, and communicated with other teams through formal APIs, not meetings.
+The rule eliminated the coordination costs that kill large organizations.
+It also created 1,500 micro-silos.
+Amazon solved hierarchy addiction by atomizing it.
 
 When the immune system attacks the body it's supposed to protect.
 In biology, autoimmune diseases occur when the immune system, designed to protect the organism, mistakenly attacks healthy tissue. The defense mechanism becomes the disease.

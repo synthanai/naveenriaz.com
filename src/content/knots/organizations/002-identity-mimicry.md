@@ -38,11 +38,14 @@ It starts copying. The Spotify of logistics. The Apple of supply chain. The Netf
 Everyone in the room nods. Nobody believes it.
 But nobody says that out loud, because the consultancy that delivered the rebrand cost more than your annual training budget.
 
-I've sat in those branding workshops.
-I watched a company I helped build pivot its identity four times in two years, chasing whatever competitor was getting funded that quarter.
-Each pivot looked strategic on the slide deck. Each one was actually surrender.
-We didn't know who we were, so we dressed up as someone who did.
-I signed off on every single one.
+When I mapped HP's corporate splits, I lost count.
+One company became two (HP Inc and HPE).
+Then HPE spun off its software division.
+Then its enterprise services.
+Then Micro Focus absorbed the spinoff and itself collapsed.
+By 2023, HP's original identity was distributed across four separate entities, none of which could answer the question: 'What is HP?' Carly Fiorina's 2002 merger with Compaq was supposed to create clarity.
+Instead, it began a twenty-year fragmentation.
+The company that invented the garage startup became an identity crisis with a stock ticker.
 
 Copying isn't laziness. It's fear wearing a strategy hat.
 In evolutionary biology, Batesian mimicry is when a harmless species evolves to look like a dangerous one. The hoverfly mimics the wasp. It gets left alone, but it can't actually sting.

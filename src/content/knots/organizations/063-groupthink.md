@@ -35,11 +35,14 @@ Your team agrees on everything. Enthusiastically. Unanimously. Every meeting end
 This isn't alignment. It's an echo chamber.
 Alignment means different perspectives converge on a shared conclusion. Groupthink means nobody had a different perspective to begin with, or nobody felt safe enough to voice it.
 
-I was in a leadership team that practiced groupthink for eighteen months.
-We agreed on everything. Strategy reviews were smooth. Board presentations were unified. External observers praised our cohesion.
-We were cohesive the way a sealed room is airtight: no fresh perspective entered. No uncomfortable truth disrupted the narrative.
-When the market shifted, we didn't see it. Not because the signals weren't there, but because acknowledging them would have broken our consensus. And consensus had become more important than accuracy.
-We spent six months agreeing on a strategy that the market had already rejected.
+The JPMorgan 'London Whale' trades lost $6.2 billion.
+I read Bruno Iksil's trading records and the Senate investigation.
+The Chief Investment Office was supposed to hedge the firm's risk.
+Instead, it became a profit center, taking enormous positions in synthetic credit derivatives.
+Risk reports were modified to show smaller exposures.
+When the positions soured, the team hid the losses by changing the valuation model.
+Groupthink wasn't the traders believing they were right.
+It was the entire management chain agreeing not to ask the question that would prove they were wrong.
 
 Echo chambers amplify what's already inside and exclude everything else.
 In acoustics, a resonance chamber selectively amplifies specific frequencies through constructive interference. Sounds at the chamber's natural frequency get louder. Everything else is dampened.

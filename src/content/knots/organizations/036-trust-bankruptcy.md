@@ -38,12 +38,13 @@ When HR sends a survey, people don't think "they want to listen." They think "th
 Every communication is decoded for hidden agenda. Every gesture is suspect.
 This is trust bankruptcy. The account reads zero.
 
-I've worked in a trust-bankrupt organization.
-The symptoms are specific: every email is read twice, once for content and once for subtext. Every meeting has a shadow meeting afterward where people say what they actually think. Every announcement is followed by a Slack thread of translations.
-"Strategic realignment" means layoffs. "Exciting new direction" means someone got fired. "We value your feedback" means the decision is already made.
-The organization was still functional. People still showed up. Work still got done.
-But nothing discretionary happened. No extra effort. No creative risk. No going above and beyond.
-Because above and beyond requires trust, and the trust account was empty.
+The Cambridge Analytica scandal harvested data from 87 million Facebook users.
+I studied the mechanism.
+A researcher created a personality quiz app.
+The app collected data not just from users but from all their friends, a feature Facebook had deliberately built into its API.
+When the harvesting was exposed, Facebook's Mark Zuckerberg described it as a 'breach of trust' by a third party.
+The research told a different story: Facebook built the data pipeline, profited from it, and then blamed the company that used it exactly as designed.
+Trust bankruptcy occurs when the bank blames the customer for a withdrawal the bank authorized.
 
 Trust bankruptcy isn't sudden. It's compound.
 In finance, insolvency occurs when withdrawals consistently exceed deposits over time. Each withdrawal, a broken promise, a secret restructure, a retaliatory reassignment, reduces the balance. Each deposit, a kept commitment, a transparent decision, a genuine apology, adds to it.

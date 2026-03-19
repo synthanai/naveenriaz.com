@@ -39,11 +39,12 @@ Q1 was about customer experience. Q2 became cost reduction. Q3 pivoted to market
 Nobody announced a change in mission. Nobody had to.
 The mission didn't change. It just stopped being the thing that decisions were measured against.
 
-I've watched this happen from the inside.
-I helped build a product team that started with a clear mandate: make the onboarding experience effortless.
-Two years later, we were building features for an enterprise client who threatened to leave.
-The mission hadn't been revoked. It had been outbid.
-Every time revenue pulled us sideways, I told myself it was temporary. It never was.
+WeWork's S-1 filing used the word 'community' 150 times.
+The word 'profit' appeared once, in a risk disclosure.
+Adam Neumann told investors the mission was to 'elevate the world's consciousness.' I traced the mission drift through the filings: the company trademarked 'We' as a brand.
+Neumann bought buildings personally, then leased them to WeWork.
+The company invested in a wave pool startup.
+By the time the IPO collapsed, the distance between 'elevate consciousness' and 'self-dealing real estate arbitrage' was the width of a private jet cabin.
 
 Drift isn't dramatic. It's gravitational.
 In astronomy, orbital decay happens when an object loses energy to friction so gradually that no single moment looks like the problem.

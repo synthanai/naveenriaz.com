@@ -36,12 +36,11 @@ Then they reviewed your draft. Changed the approach. Questioned the timeline. Re
 You own the task. They own every decision about the task.
 Delegation without trust isn't delegation. It's outsourced labor with managerial surveillance.
 
-I was delegated a product launch once.
-"Full ownership," they said. "Your call."
-I chose a launch date. It was moved. I designed the go-to-market. It was redesigned. I selected the beta customers. They were re-selected.
-By launch day, nothing I had decided survived. But when the launch struggled, the ownership was still mine.
-I learned that "own it" often means "carry it." Not "decide it."
-The distinction is the difference between authority and responsibility. I had the second. I never had the first.
+HubSpot's Culture Code is a 128-slide deck viewed over 5 million times on SlideShare.
+I found Principle #5 instructive: 'We believe in autonomy and accountability, not command and control.' HubSpot delegates decision-making to the person closest to the problem and publishes the principle that mandates it.
+The anti-pattern is not delegation.
+Most companies delegate.
+HubSpot's departure from the pattern is documenting the trust explicitly, so that when a manager wants to override, the documentation pushes back before any person needs to.
 
 Responsibility without authority is a flight without controls.
 In aviation, autopilot override occurs when the system is technically flying the plane, but the pilot can intervene at any moment. The autopilot does the work. The pilot holds the authority.

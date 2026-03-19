@@ -34,11 +34,12 @@ Nobody was actually convinced.
 Consensus felt like alignment. It was exhaustion. The discussion went in circles until everyone surrendered the same amount. The result wasn't the best idea. It was the least objectionable one.
 The difference between alignment and exhaustion is invisible from the outside.
 
-I sat through a product prioritization session that lasted three hours.
-Seven stakeholders. Seven priorities. The facilitator wanted consensus.
-By hour two, people started conceding. Not because they agreed, but because they wanted to leave. By hour three, we had a 'consensus' roadmap that satisfied nobody and excited no one.
-The best idea, the one that would have changed our quarter, was proposed in minute forty. It was too bold. It made two people uncomfortable.
-So we ground it down until it fit the consensus. Then we shipped a roadmap that was nobody's first choice.
+On December 1, 2021, Better.com CEO Vishal Garg fired 900 employees over a single Zoom call.
+The call lasted three minutes.
+I timed it from the recording. 'If you're on this call, you are part of the unlucky group.
+Your employment is terminated effective immediately.' Speed worship means decisions are made at the velocity of a founder's mood, not the complexity of the consequences.
+Some of those 900 people were mid-mortgage-application with Better.com's own product.
+They were fired by the company whose loans they were applying for.
 
 Consensus is the heat death of decision-making.
 In physics, entropy describes the tendency of a system toward maximum disorder and minimum energy. Heat death is the theoretical end state of the universe: everything is the same temperature, no energy flows, nothing happens.

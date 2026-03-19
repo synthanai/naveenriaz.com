@@ -36,13 +36,13 @@ It sounds collaborative. It sounds empowering. It sounds like shared purpose.
 It's none of those things. It's a sentence that means: when this fails, nobody's name is on it.
 Shared accountability is diluted accountability. Always.
 
-I sat in a post-mortem for a product launch that failed.
-The room had sixteen people. The slide had three root causes. The action items were assigned to "the team."
-I asked: "Who owns the fix?"
-Sixteen people looked at each other.
-"We all do," someone said.
-Three months later, nothing had changed. Because "we all own it" means "I assume someone else is handling it."
-The diffusion wasn't deliberate. It was comfortable. Nobody had to be accountable because everybody was.
+After the Texas City refinery explosion killed 15 workers in 2005, BP used the phrase 'systemic failure' 47 times in its internal investigation.
+I counted. 'Systemic failure' means the system failed.
+Not a person.
+Not a decision.
+Not a cost-cutting directive from London that reduced maintenance budgets for three consecutive years.
+When nobody is accountable, the accountability dodge is complete.
+The 15 workers who died at Texas City were victims not of an explosion but of a vocabulary designed to distribute blame so thinly that it disappears.
 
 Accountability dissolves when distributed.
 In chemistry, diffusion is the process by which concentrated molecules spread evenly through a solution until the concentration is uniform. Drop ink in water. It disperses. The ink still exists, but it's so diluted that it's functionally invisible.

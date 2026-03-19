@@ -34,12 +34,12 @@ Your team performs but can't say why. They deliver features nobody asked for. Th
 The work gets done. The point gets lost.
 Meaning drought isn't about bad work. It's about good work disconnected from purpose. The team is competent and empty.
 
-I experienced meaning drought mid-career.
-I was delivering. My performance reviews were strong. My projects shipped on time.
-But I couldn't answer the question: why does this matter?
-I was executing someone else's plan without understanding the strategic context. I was a function, not a contributor.
-The day I realized I was interchangeable, that anyone with my skills could do my specific tasks, was the day meaning dried up.
-I was useful. I wasn't essential. The difference between useful and essential is meaning.
+WD-40 Company has a 93% employee engagement rate.
+I investigated how.
+CEO Garry Ridge, who led the company for 25 years, built the culture around 'tribal belonging.' Employees don't have managers; they have 'coaches.' Mistakes aren't failures; they're 'learning moments.' The company's purpose, 'creating positive lasting memories in everything we do,' extends internally.
+I found the financial correlation: WD-40's stock returned 2,300% during Ridge's tenure.
+The anti-example of meaning drought is not a company with a clever mission statement.
+It is a company where meaning is the operating system, not the screensaver.
 
 When the water table drops, the surface appears unchanged.
 In hydrology, aquifer depletion is invisible from the surface. The grass is still green. The wells still produce water. But the underground source is dropping.

@@ -34,10 +34,15 @@ The competitor shipped in six.
 The analysis wasn't wrong. It was thorough. Rigorous. Complete.
 It was also irrelevant by the time it finished.
 
-I once spent four months building a business case for a product decision that needed two weeks.
-Not because the decision was complex. Because the culture equated thoroughness with responsibility. Making a fast decision felt reckless. Making a slow one felt professional.
-The business case was eventually approved. By then, the market window had closed. The analysis was perfect. The timing was fatal.
-I didn't learn from this the first time. It took three identical failures before I realized: the analysis wasn't helping me decide. It was helping me avoid deciding.
+Nokia's research file is a study in paralysis.
+Internal memos from 2004 show that Nokia engineers identified the smartphone threat three years before the iPhone launched.
+The Symbian team proposed a touch-screen device.
+The committee structure, 67 senior managers across 12 divisions, couldn't reach consensus.
+Each division had veto power.
+Each veto was exercised.
+By the time Nokia launched the N97 as its 'iPhone killer' in 2009, the decision that should have been made in 2005 arrived four years late and a generation behind.
+The committee didn't say no.
+It said 'let's discuss further' until the market said no for them.
 
 More investigation doesn't always produce better outcomes.
 In medicine, diagnostic inertia is the tendency to continue ordering tests when the clinical picture is already clear. Another scan. Another consultation. Another blood panel. Each test feels responsible. Each delay feels like due diligence.

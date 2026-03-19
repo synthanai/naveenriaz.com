@@ -34,11 +34,11 @@ Now walk into your next team meeting and try that.
 Someone says "it's fine." It's not fine. Someone says "no concerns." They have three. Someone says "I agree" while their posture says they've already checked out.
 Everyone is speaking. Nobody is saying anything true.
 
-I ran a team that aced every psychological safety survey.
-Scores were beautiful: 4.7 out of 5. We celebrated.
-Three months later, two of my best engineers quit without warning. Their exit interviews said the same thing: "I never felt safe enough to say what I actually thought."
-They had answered the survey safely. That was the problem.
-I had confused the absence of conflict with the presence of trust.
+Activision Blizzard published its values on the corporate website. 'Commit to a diverse and inclusive workforce.' I then read the California Department of Fair Employment complaint filed in 2021.
+Women were subjected to 'cube crawls' where male employees drank and crawled through cubicles.
+A female employee took her own life during a business trip with a male supervisor who had brought sex toys.
+The values statement stayed on the website throughout the lawsuit.
+Values theater means the performance continues even after the audience has seen backstage.
 
 This is what happens when safety becomes a production.
 In immunology, an autoimmune response occurs when the body's defense system attacks its own healthy cells. The machinery designed to protect you starts destroying you.

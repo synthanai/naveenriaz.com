@@ -33,11 +33,12 @@ Your team has overlapping, undefined responsibilities. Three people think they o
 The blueprint says clear roles. Nobody agrees on what they are.
 When a problem appears, three people investigate separately. Or nobody does, because each assumes someone else will handle it.
 
-I spent six months in a role nobody could define.
-My title was 'Head of Product Operations.' Nobody, including my manager, could explain what that meant.
-I asked five stakeholders what they expected from me. I received five different answers.
-So I made my own definition. It overlapped with three other roles. Conflict followed. Territory disputes disguised as 'alignment meetings.'
-The ambiguity wasn't accidental. It was structural. The organization hadn't decided what 'Product Operations' meant. So it hired someone and hoped they'd figure it out.
+Atlassian measured something most companies won't touch: meeting load.
+The research showed 31 hours per month per employee spent in meetings.
+That's four full working days.
+Atlassian's response was not to ban meetings but to redesign them: no-meeting days, async-first defaults, mandatory agendas, and a 'meeting cost calculator' that showed the real dollar value of putting eight engineers in a room for an hour.
+The anti-pattern is not meetings.
+The anti-pattern is treating meetings as free.
 
 Improvisation without direction produces chaos, not creativity.
 In theater, skilled improvisation requires a shared framework: characters, objectives, and boundaries. Without these, actors talk over each other, stories fragment, and the audience sees confusion.

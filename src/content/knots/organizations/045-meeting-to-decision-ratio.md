@@ -35,12 +35,14 @@ Each meeting felt productive because it contained discussion. Discussion felt li
 But exhaustion isn't output. And activity isn't progress.
 You left every meeting with more questions, fewer answers, and a follow-up on the calendar.
 
-I tracked my meeting-to-decision ratio for one quarter.
-The numbers were damning: 47 meetings related to a single product initiative. Decisions made: 3.
-That's a ratio of roughly 16:1. Sixteen meetings per decision.
-Each meeting had an agenda. Each had action items. Each produced notes that were filed and never read.
-The meetings weren't useless. Some had valuable discussions. But discussion without decision is a conversation that costs a conference room.
-I was spending more time talking about the work than doing the work. And I was too busy in meetings to notice.
+SoftBank's Vision Fund invested $18.5 billion in WeWork.
+When WeWork's valuation collapsed from $47 billion to $9 billion in six weeks, Masayoshi Son doubled down.
+He committed another $5 billion in rescue financing.
+I traced the sunk cost logic through earnings call transcripts. 'We believe in the long-term potential.' 'The thesis is unchanged.' The thesis was always unchanged.
+By the time WeWork filed for bankruptcy in 2023, SoftBank had written off $14 billion.
+The loyalty wasn't to WeWork.
+It was to the $18.5 billion already spent.
+Sunk cost doesn't feel like a fallacy when it's your money.
 
 A high meeting-to-decision ratio is friction consuming the machine.
 In engineering, mechanical advantage measures how much useful work a machine produces relative to the effort applied. Friction is the enemy: it converts applied energy into waste heat without producing any useful output.

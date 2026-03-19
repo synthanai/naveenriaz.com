@@ -33,11 +33,12 @@ Eight bodies present. Three productive.
 Your organization counts presence as contribution. The person at their desk at 7am is 'committed.' The person who leaves at 4pm after producing twice the output is 'not a team player.'
 Presenteeism taxes the organization in invisible ways: unproductive hours, unnecessary meetings, performative activity, and the energy drain of being present without purpose.
 
-I paid the presenteeism tax for years.
-I had a health condition that reduced my effective hours to about five per day. I could produce excellent work in those five hours.
-But the culture expected eight visible hours minimum. So I spent three hours performing presence: attending meetings I didn't contribute to, being visible in the office, responding to messages that didn't need responses.
-The three performative hours didn't just produce nothing. They drained energy from the five productive hours.
-My output dropped. Not because I was less capable. Because the tax consumed the margin.
+SoftBank Corp's domestic telecom operations in Japan reflect the broader karoshi culture that has killed workers across the country.
+I found the research documenting a system where physical presence equals commitment.
+Employees stay at their desks not because work demands it, but because leaving before your manager is a visible act of disloyalty.
+The presenteeism tax is measured in hours spent performing attendance rather than producing value.
+Japan's government has measured it: presenteeism costs the economy an estimated ¥3.3 trillion annually.
+The tax is invisible on every balance sheet and visible on every face.
 
 Counting investment instead of return is the definition of sunk cost fallacy.
 In economics, the sunk cost fallacy leads decision-makers to continue investing in a losing proposition because they've already invested so much. The investment is visible. The return is irrelevant.
