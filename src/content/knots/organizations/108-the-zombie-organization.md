@@ -35,12 +35,13 @@ The systems work. The meetings happen. The reports are filed. The targets are hi
 But nobody can explain what the organization is for anymore. Not what it does. What it's for.
 The purpose left years ago. The machinery kept running. The zombie walks.
 
-I worked inside a zombie organization for two years before I named it.
-Revenue was stable. Customers were retained (through contracts, not loyalty). Employees showed up (through inertia, not inspiration).
-Every vital sign was present. Heart rate: stable. Blood pressure: normal. Brain activity: absent.
-I attended meetings where nothing was decided. I contributed to strategies that were never executed. I participated in planning that produced plans but not direction.
-The organization was alive in every measurable way and dead in every meaningful one.
-I left because you can't resuscitate something that doesn't want to breathe.
+Carillion was the UK's second-largest construction company. 43,000 employees. £5.2 billion in revenue.
+I read the parliamentary investigation into its collapse.
+The company had liabilities of £7 billion. The pension fund had a £2.6 billion deficit.
+The board had approved £80 million in executive bonuses in the three years before collapse.
+The revenue was real. The contracts were real. The cash was not.
+Carillion was a zombie: it walked and talked and employed and built, but the vital signs had flatlined years earlier.
+The organization was dead before anyone noticed it had stopped breathing.
 
 Clinical death and biological death are different conditions.
 In biology, clinical death occurs when the heart stops. But brain death is the irreversible threshold. An organism can be clinically dead with organ function maintained artificially. The body processes. The organs work. But consciousness, the thing that makes life more than mechanics, is absent.

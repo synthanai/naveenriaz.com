@@ -35,12 +35,12 @@ Your organization's real news doesn't travel through official channels. It trave
 The grapevine isn't a gossip problem. It's an information vacuum.
 When leadership goes silent, the whisper network fills the void. It's not malicious. It's necessary.
 
-I learned about my own team's restructure from a colleague in a different department.
-Not from my manager. Not from HR. Not from the town hall that happened three days later.
-From someone who heard it from someone who was in a leadership meeting.
-The official announcement came a week after everyone already knew. By then, the gossip had mutated through three iterations, each more dramatic than the last.
-Leadership was frustrated that "rumors were spreading." They couldn't see that the rumor existed because they waited too long to speak.
-The grapevine isn't the disease. It's the symptom.
+W.L. Gore, the company that makes Gore-Tex, has no traditional hierarchy.
+I found the 'waterline principle' documented in the company's internal governance.
+Any employee can make any decision that doesn't affect the company below the 'waterline,' the metaphorical line on a ship below which a hole would sink it.
+For decisions above the waterline, you act. For decisions below, you consult.
+Because the rule is transparent and universal, gossip has nowhere to grow.
+Nobody needs to speculate about what's happening when the system tells them.
 
 Gossip flows where official communication doesn't.
 In hydrology, water follows the path of least resistance through an aquifer. It finds cracks, seams, and porous rock. If you block one path, it finds another. Water doesn't stop flowing because you built a wall. It flows around it.

@@ -34,11 +34,12 @@ Then the system rejected it.
 Not dramatically. Not through a formal decision. Through a thousand small frictions: the budget was reclassified, the reporting line was restructured, the meeting slot was reassigned, the champion was 'reallocated to a higher priority.'
 The change worked. The system undid it.
 
-I watched antibodies kill a successful innovation.
-A team inside our organization developed a new approach to customer onboarding. Faster, simpler, dramatically more effective. Their NPS scores were 40 points higher than the rest of the department.
-Instead of celebrating, the surrounding teams pushed back. 'That won't scale.' 'They have special conditions.' 'The data is too new to trust.'
-Nobody argued against the results. They argued against the implications. Because if the new approach was better, the old approach (and everyone invested in it) was wrong.
-Within a year, the innovative team was absorbed into the standard process. Their approach was 'incorporated into the existing framework,' which meant it was diluted until it was indistinguishable from what came before.
+Thorsten Heins became BlackBerry's CEO in January 2012 and immediately declared: 'There is no burning platform.'
+I found the press conference transcript. At that moment, BlackBerry's market share had already dropped from 43% to 7.3%.
+The iPhone had been out for five years. The App Store had 700,000 apps. BlackBerry's app ecosystem had 70,000.
+The platform was not burning. It had already burned and collapsed.
+Heins was standing on ashes and checking for smoke.
+The burning platform myth is not about denial. It is about the lag between reality and the CEO's mental model of reality.
 
 The immune system protects by destroying foreign bodies.
 In immunology, transplant rejection occurs when the body's immune system identifies transplanted tissue as foreign and attacks it. The transplant might be life-saving. The immune system doesn't care about intention. It recognizes 'not-self' and eliminates it.

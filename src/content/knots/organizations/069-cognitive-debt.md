@@ -35,11 +35,12 @@ Your team solves problems every day. They ship features, close tickets, respond 
 But they don't think. Not deeply. Not structurally. Not about why the problems keep recurring.
 They've accumulated cognitive debt: the gap between the thinking the organization needs and the thinking the organization does. Every shortcut, every quick fix, every 'we'll figure it out later' adds to the balance.
 
-I accumulated cognitive debt unconsciously.
-My team was in permanent execution mode. Sprints. Deadlines. Deliverables. We solved problems as they appeared, each one independently, each one quickly.
-We never stepped back to ask: why are these problems appearing? Is there a pattern? Is there a systemic cause?
-After two years, I realized we were solving the same category of problem every quarter. Different symptoms. Same root cause. We'd never invested the thinking time to trace the symptoms to their source.
-The cognitive debt was compounding. We were paying interest on every unasked question.
+Between 2008 and 2009, thirty-five France Télécom employees died by suicide.
+I read the judicial investigation. The company was undergoing a restructuring called 'NEXT,' designed to eliminate 22,000 positions.
+Managers described employees being reassigned to humiliating roles. Engineers were moved to call centers.
+Staff were relocated to offices hundreds of kilometers from their families.
+The court convicted former CEO Didier Lombard of 'institutional harassment.'
+Cognitive debt, the accumulated psychological load of working in a system that treats you as expendable, became mortal. The organization killed its own people.
 
 Cognitive debt accumulates like technical debt.
 In computing, technical debt is the cost of choosing expedient solutions over proper architecture. Each shortcut works now but creates future maintenance burden. Left unchecked, the codebase becomes unmaintainable.

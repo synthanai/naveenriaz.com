@@ -40,12 +40,12 @@ The room claps, and you clap too.
 But you know something has emptied out from the inside.
 The numbers are growing and the meaning is shrinking, and nobody has figured out how to put that on a slide.
 
-Sixteen years in tech taught me to build outward.
-More features, more markets, more headcount, more integrations. I was good at it.
-I could scale a team from twelve to sixty and hit every KPI on the board.
-What I couldn't do was explain what the team was for, beyond the numbers that justified its existence.
-I built a machine that performed beautifully and believed in nothing.
-The emptiness wasn't a failure. It was the natural result of optimizing for everything except the center.
+I couldn't find a single authentic element in Theranos.
+Elizabeth Holmes' black turtleneck was performed. The deep voice was performed. The technology was performed.
+The board, stacked with Henry Kissinger, George Shultz, and James Mattis, had zero medical device expertise.
+What Theranos sold was not blood testing. It was the identity of a visionary.
+The authenticity deficit was total: the product didn't work, the demos were faked, the lab results were run on competitors' machines.
+Holmes built a company where the identity was the product, and the product was fiction.
 
 Nobody gets promoted for maintaining the core.
 The system rewards expansion, and competent hollowness scales perfectly.
