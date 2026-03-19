@@ -1,4 +1,5 @@
 ---
+
 title: governance-bloat
 knot_number: 78
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/077-middle-management-squeeze"
 prev_knot_title: "Middle Management Squeeze"
 next_knot: "organizations/079-technology-sprawl"
 next_knot_title: "Technology Sprawl"
+untie_story: "A nonprofit merged two overlapping committees. Meeting hours halved. Output quality improved because accountability was clearer."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"governance bloat\" this week?"
 ---
 
 Acquire wealth; no weapon is sharper.

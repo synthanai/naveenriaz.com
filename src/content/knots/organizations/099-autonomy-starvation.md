@@ -1,4 +1,5 @@
 ---
+
 title: autonomy-starvation
 knot_number: 99
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/098-meaning-drought"
 prev_knot_title: "Meaning Drought"
 next_knot: "organizations/100-reward-misalignment"
 next_knot_title: "Reward Misalignment"
+untie_story: "A company banned weekend emails from managers. Burnout metrics dropped. Monday productivity increased. Nobody complained."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"autonomy starvation\" this week?"
 ---
 
 Harsh rule that chains people is the heaviest burden.

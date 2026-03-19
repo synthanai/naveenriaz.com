@@ -1,4 +1,5 @@
 ---
+
 title: irreversibility-blindness
 knot_number: 41
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/040-hippo-effect"
 prev_knot_title: "Hippo Effect"
 next_knot: "organizations/042-decision-amnesia"
 next_knot_title: "Decision Amnesia"
+untie_story: "A hospital reduced committee approvals from seven to two for non-clinical decisions. Time to implementation dropped by 80%."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"irreversibility blindness\" this week?"
 ---
 
 Those who foresee what is coming are never shaken by what arrives.

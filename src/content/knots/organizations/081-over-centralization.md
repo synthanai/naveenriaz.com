@@ -1,4 +1,5 @@
 ---
+
 title: over-centralization
 knot_number: 81
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/080-the-bottleneck-person"
 prev_knot_title: "The Bottleneck Person"
 next_knot: "organizations/082-handoff-failure"
 next_knot_title: "Handoff Failure"
+untie_story: "A government agency mapped all approval chains. Seven of twelve had steps that added no value. They removed them."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"over centralization\" this week?"
 ---
 
 Those who understand duty maintain generosity.

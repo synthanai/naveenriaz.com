@@ -1,4 +1,5 @@
 ---
+
 title: the-insight-graveyard
 knot_number: 72
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/071-knowledge-hoarding"
 prev_knot_title: "Knowledge Hoarding"
 next_knot: "organizations/073-structural-inertia"
 next_knot_title: "Structural Inertia"
+untie_story: "A research lab published all failed experiments internally. Three future projects were saved from repeating the same mistakes."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"the insight graveyard\" this week?"
 ---
 
 The more you learn, the more you discover ignorance.

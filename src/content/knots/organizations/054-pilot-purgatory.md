@@ -1,4 +1,5 @@
 ---
+
 title: pilot-purgatory
 knot_number: 54
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/053-initiative-overload"
 prev_knot_title: "Initiative Overload"
 next_knot: "organizations/055-sponsorship-evaporation"
 next_knot_title: "Sponsorship Evaporation"
+untie_story: "A CEO shared their own fears about the change in a town hall. The vulnerability unlocked honesty across the organization."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"pilot purgatory\" this week?"
 ---
 
 Those who plan with resolve achieve exactly what they envision.

@@ -1,4 +1,5 @@
 ---
+
 title: the-presenteeism-tax
 knot_number: 101
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/100-reward-misalignment"
 prev_knot_title: "Reward Misalignment"
 next_knot: "organizations/102-turnover-spiral"
 next_knot_title: "Turnover Spiral"
+untie_story: "A startup founder started sharing their own mental health journey publicly. Three team members sought help they had been avoiding."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"the presenteeism tax\" this week?"
 ---
 
 In a world that values substance, empty presence holds no place.

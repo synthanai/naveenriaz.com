@@ -1,4 +1,5 @@
 ---
+
 title: invisible-contracts
 knot_number: 26
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/025-broken-promises-loop"
 prev_knot_title: "Broken Promises Loop"
 next_knot: "organizations/027-delegation-without-trust"
 next_knot_title: "Delegation Without Trust"
+untie_story: "A company published their financial results to all employees monthly. The transparency eliminated the rumor mill completely."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"invisible contracts\" this week?"
 ---
 
 I would conceal this pain, but like spring water for those who dig, it only flows more.

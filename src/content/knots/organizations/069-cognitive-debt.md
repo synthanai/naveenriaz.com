@@ -1,4 +1,5 @@
 ---
+
 title: cognitive-debt
 knot_number: 69
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/068-data-worship"
 prev_knot_title: "Data Worship"
 next_knot: "organizations/070-forecast-addiction"
 next_knot_title: "Forecast Addiction"
+untie_story: "A leadership team read one book together per quarter and discussed it. Shared mental models improved strategic alignment."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"cognitive debt\" this week?"
 ---
 
 Knowledge is the fortress unbreachable even by enemies.

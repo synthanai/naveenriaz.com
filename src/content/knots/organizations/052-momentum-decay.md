@@ -1,4 +1,5 @@
 ---
+
 title: momentum-decay
 knot_number: 52
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/051-resistance-misdiagnosis"
 prev_knot_title: "Resistance Misdiagnosis"
 next_knot: "organizations/053-initiative-overload"
 next_knot_title: "Initiative Overload"
+untie_story: "A nonprofit invited skeptics into the change design team. Their objections improved the plan by identifying real barriers."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"momentum decay\" this week?"
 ---
 
 Effort creates fortune. Lack of effort invites poverty.

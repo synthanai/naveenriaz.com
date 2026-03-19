@@ -1,4 +1,5 @@
 ---
+
 title: the-ai-readiness-gap
 knot_number: 96
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/095-diversity-without-inclusion"
 prev_knot_title: "Diversity Without Inclusion"
 next_knot: "organizations/097-burnout-normalization"
 next_knot_title: "Burnout Normalization"
+untie_story: "A leader asked their team: \"what skill would transform your career?\" Then funded one course per person per quarter."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"the ai readiness gap\" this week?"
 ---
 
 Avoiding harm and standing firm.

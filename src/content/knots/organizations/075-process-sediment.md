@@ -1,4 +1,5 @@
 ---
+
 title: process-sediment
 knot_number: 75
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/074-silo-syndrome"
 prev_knot_title: "Silo Syndrome"
 next_knot: "organizations/076-role-ambiguity"
 next_knot_title: "Role Ambiguity"
+untie_story: "A startup defined clear \"RACI\" for their top 20 processes. Three discovered they had no owner. All three were failing."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"process sediment\" this week?"
 ---
 
 Even accumulated hardships cannot destroy one who stands firm.

@@ -1,4 +1,5 @@
 ---
+
 title: talent-hoarding
 knot_number: 86
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/085-skill-obsolescence"
 prev_knot_title: "Skill Obsolescence"
 next_knot: "organizations/087-hiring-mismatch"
 next_knot_title: "Hiring Mismatch"
+untie_story: "A company replaced annual training with monthly micro-challenges. Completion went from 40% to 92%. Skills actually transferred."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"talent hoarding\" this week?"
 ---
 
 People who fall from position are like hair fallen from the head.

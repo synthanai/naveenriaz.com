@@ -1,4 +1,5 @@
 ---
+
 title: data-worship
 knot_number: 68
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/067-expertise-trap"
 prev_knot_title: "Expertise Trap"
 next_knot: "organizations/069-cognitive-debt"
 next_knot_title: "Cognitive Debt"
+untie_story: "A company banned \"reply all\" for one week. Signal-to-noise ratio improved. They kept the ban permanently after."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"data worship\" this week?"
 ---
 
 True knowledge is the supreme wealth.

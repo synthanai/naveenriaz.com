@@ -1,4 +1,5 @@
 ---
+
 title: the-scapegoat-pattern
 knot_number: 35
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/034-gossip-economy"
 prev_knot_title: "Gossip Economy"
 next_knot: "organizations/036-trust-bankruptcy"
 next_knot_title: "Trust Bankruptcy"
+untie_story: "A company shared their strategic uncertainties with staff. People responded with solutions instead of anxiety about unknowns."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"the scapegoat pattern\" this week?"
 ---
 
 Deliberate before you decide. To deliberate after deciding is disgrace.

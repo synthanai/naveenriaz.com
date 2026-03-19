@@ -1,4 +1,5 @@
 ---
+
 title: structural-inertia
 knot_number: 73
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/072-the-insight-graveyard"
 prev_knot_title: "The Insight Graveyard"
 next_knot: "organizations/074-silo-syndrome"
 next_knot_title: "Silo Syndrome"
+untie_story: "A company eliminated one management layer. Span of control increased but decision speed doubled and satisfaction rose."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"structural inertia\" this week?"
 ---
 
 As the flower rises to the water height, so does stature match the will.

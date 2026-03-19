@@ -1,4 +1,5 @@
 ---
+
 title: collective-blindness
 knot_number: 61
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/060-consultant-dependency"
 prev_knot_title: "Consultant Dependency"
 next_knot: "organizations/062-learning-disability"
 next_knot_title: "Learning Disability"
+untie_story: "A team replaced their monthly report with a weekly 5-minute standup. Decision quality improved because information was fresher."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"collective blindness\" this week?"
 ---
 
 Those who foresee what is coming are never shaken.

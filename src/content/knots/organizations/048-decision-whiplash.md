@@ -1,4 +1,5 @@
 ---
+
 title: decision-whiplash
 knot_number: 48
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/047-information-overload"
 prev_knot_title: "Information Overload"
 next_knot: ""
 next_knot_title: ""
+untie_story: "A leadership team did a \"decision autopsy\" monthly. They learned more from reviewing decisions than from making new ones."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"decision whiplash\" this week?"
 ---
 
 Perseverance and mature wisdom together extend a legacy.

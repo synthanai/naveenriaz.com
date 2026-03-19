@@ -1,4 +1,5 @@
 ---
+
 title: "purpose-amnesia"
 knot_number: 1
 domain: "organizations"
@@ -18,6 +19,12 @@ kural_number: 32
 kural_bridge: "Purpose forgotten is virtue abandoned."
 next_knot: "organizations/002-identity-mimicry"
 next_knot_title: "identity mimicry"
+untie_story: "A startup founder revisited their original pitch deck after three years of drift. Reading it aloud to the team brought tears. They remembered."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"purpose amnesia\" this week?"
 ---
 
 No greater ruin than forgetting.

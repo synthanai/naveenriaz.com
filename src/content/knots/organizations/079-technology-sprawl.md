@@ -1,4 +1,5 @@
 ---
+
 title: technology-sprawl
 knot_number: 79
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/078-governance-bloat"
 prev_knot_title: "Governance Bloat"
 next_knot: "organizations/080-the-bottleneck-person"
 next_knot_title: "The Bottleneck Person"
+untie_story: "A school restructured teacher teams by student cohort instead of subject. Student experience improved as teachers collaborated on the whole child."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"technology sprawl\" this week?"
 ---
 
 Don't start any task until you've found the right conditions.

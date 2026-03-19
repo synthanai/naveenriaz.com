@@ -1,4 +1,5 @@
 ---
+
 title: technical-debt-avalanche
 knot_number: 90
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/089-leadership-vacuum"
 prev_knot_title: "Leadership Vacuum"
 next_knot: "organizations/091-customer-capability-gap"
 next_knot_title: "Customer Capability Gap"
+untie_story: "A factory created \"skill walls\" showing what each person could do. Cross-training became visible and gamified naturally."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"technical debt avalanche\" this week?"
 ---
 
 Lacking resources is no shame. Lacking effort despite knowing is.

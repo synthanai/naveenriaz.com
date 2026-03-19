@@ -1,4 +1,5 @@
 ---
+
 title: outsourcing-identity
 knot_number: 92
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/091-customer-capability-gap"
 prev_knot_title: "Customer Capability Gap"
 next_knot: "organizations/093-learning-doing-imbalance"
 next_knot_title: "Learning Doing Imbalance"
+untie_story: "A school invited professionals to co-teach one lesson per month. Students saw how classroom learning connected to real work."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"outsourcing identity\" this week?"
 ---
 
 Examine virtues, examine faults, choose accordingly.

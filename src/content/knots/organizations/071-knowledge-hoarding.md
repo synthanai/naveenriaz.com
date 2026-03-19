@@ -1,4 +1,5 @@
 ---
+
 title: knowledge-hoarding
 knot_number: 71
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/070-forecast-addiction"
 prev_knot_title: "Forecast Addiction"
 next_knot: "organizations/072-the-insight-graveyard"
 next_knot_title: "The Insight Graveyard"
+untie_story: "A CEO instituted \"skip-level\" meetings monthly. The unfiltered information changed three strategic priorities within a quarter."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"knowledge hoarding\" this week?"
 ---
 
 The learned value sharing knowledge; it is their greatest currency.

@@ -1,4 +1,5 @@
 ---
+
 title: values-inversion
 knot_number: 20
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/019-fear-culture"
 prev_knot_title: "Fear Culture"
 next_knot: "organizations/021-meeting-toxicity"
 next_knot_title: "Meeting Toxicity"
+untie_story: "A factory introduced \"mistake of the month\" celebrations. Error reporting went up 400%. Error rates went down 60%."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"values inversion\" this week?"
 ---
 
 Some appear bright as the crab's-eye seed outside, but inside they are black as its core.

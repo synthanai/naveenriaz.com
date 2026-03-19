@@ -1,4 +1,5 @@
 ---
+
 title: groupthink
 knot_number: 63
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/062-learning-disability"
 prev_knot_title: "Learning Disability"
 next_knot: "organizations/064-metric-gaming"
 next_knot_title: "Metric Gaming"
+untie_story: "A hospital shared near-miss data across departments without blame. The cross-pollination prevented three serious incidents."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"groupthink\" this week?"
 ---
 
 Speaking is easy. Doing as spoken is difficult.

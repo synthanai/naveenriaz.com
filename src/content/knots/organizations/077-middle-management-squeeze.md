@@ -1,4 +1,5 @@
 ---
+
 title: middle-management-squeeze
 knot_number: 77
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/076-role-ambiguity"
 prev_knot_title: "Role Ambiguity"
 next_knot: "organizations/078-governance-bloat"
 next_knot_title: "Governance Bloat"
+untie_story: "A factory redesigned the floor layout based on workflow, not department. Production increased 15% with same headcount."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"middle management squeeze\" this week?"
 ---
 
 The world endures because of those with good character.

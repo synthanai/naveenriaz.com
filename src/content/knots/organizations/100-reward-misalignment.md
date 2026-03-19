@@ -1,4 +1,5 @@
 ---
+
 title: reward-misalignment
 knot_number: 100
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/099-autonomy-starvation"
 prev_knot_title: "Autonomy Starvation"
 next_knot: "organizations/101-the-presenteeism-tax"
 next_knot_title: "The Presenteeism Tax"
+untie_story: "A hospital unit created a \"wellness room\" for staff. Five-minute breaks in a calm space reduced errors measurably."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"reward misalignment\" this week?"
 ---
 
 When you perceive what is right, do it.

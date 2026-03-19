@@ -1,4 +1,5 @@
 ---
+
 title: handoff-failure
 knot_number: 82
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/081-over-centralization"
 prev_knot_title: "Over Centralization"
 next_knot: "organizations/083-scaling-pains"
 next_knot_title: "Scaling Pains"
+untie_story: "A retail chain gave store managers authority to make local decisions up to $5K. Response time to customer issues dropped 80%."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"handoff failure\" this week?"
 ---
 
 Poverty among the wise hurts less than wealth among the ignorant.

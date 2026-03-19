@@ -1,4 +1,5 @@
 ---
+
 title: forecast-addiction
 knot_number: 70
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/069-cognitive-debt"
 prev_knot_title: "Cognitive Debt"
 next_knot: "organizations/071-knowledge-hoarding"
 next_knot_title: "Knowledge Hoarding"
+untie_story: "A team created a \"decision quality\" dashboard tracking not outcomes but process quality. Better process led to better outcomes."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"forecast addiction\" this week?"
 ---
 
 Truth seen by one without understanding. Goodness from one without compassion.

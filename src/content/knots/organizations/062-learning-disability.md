@@ -1,4 +1,5 @@
 ---
+
 title: learning-disability
 knot_number: 62
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/061-collective-blindness"
 prev_knot_title: "Collective Blindness"
 next_knot: "organizations/063-groupthink"
 next_knot_title: "Groupthink"
+untie_story: "A company created a \"lessons learned\" wiki editable by anyone. In six months it became the most-visited internal page."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"learning disability\" this week?"
 ---
 
 The learned stand tall. The unlearned remain low.

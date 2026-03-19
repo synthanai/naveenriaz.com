@@ -1,4 +1,5 @@
 ---
+
 title: turnover-spiral
 knot_number: 102
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/101-the-presenteeism-tax"
 prev_knot_title: "The Presenteeism Tax"
 next_knot: "organizations/103-energy-vampires"
 next_knot_title: "Energy Vampires"
+untie_story: "A school created \"brain breaks\" every 45 minutes. Student attention improved. Teacher satisfaction improved alongside it."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"turnover spiral\" this week?"
 ---
 
 Greatness comes to those who persevere and gain clarity.

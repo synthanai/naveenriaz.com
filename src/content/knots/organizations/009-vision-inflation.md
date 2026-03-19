@@ -1,4 +1,5 @@
 ---
+
 title: "vision-inflation"
 knot_number: 9
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/008-purpose-commodification"
 prev_knot_title: "purpose commodification"
 next_knot: "organizations/010-cultural-orphans"
 next_knot_title: "cultural orphans"
+untie_story: "A factory team created a \"why we make this\" video. Absenteeism dropped. They connected product to purpose visually."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"vision inflation\" this week?"
 ---
 
 One who does not measure themselves will seem to exist but will vanish without trace.

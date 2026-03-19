@@ -1,4 +1,5 @@
 ---
+
 title: the-culture-tax
 knot_number: 24
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/023-belonging-fracture"
 prev_knot_title: "Belonging Fracture"
 next_knot: ""
 next_knot_title: ""
+untie_story: "A nonprofit held monthly \"campfire\" sessions where anyone could share stories. The stories became the culture."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"the culture tax\" this week?"
 ---
 
 Fortune abandons the leader who distrusts a capable worker mid-task.

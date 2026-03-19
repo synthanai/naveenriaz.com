@@ -1,4 +1,5 @@
 ---
+
 title: "split-personality"
 knot_number: 7
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/006-legacy-denial"
 prev_knot_title: "legacy denial"
 next_knot: "organizations/008-purpose-commodification"
 next_knot_title: "purpose commodification"
+untie_story: "A tech company lost three key people. Exit interviews all said the same thing: \"I forgot why I was here.\""
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"split personality\" this week?"
 ---
 
 When a deceitful mind puts on virtuous conduct, the five elements within laugh.

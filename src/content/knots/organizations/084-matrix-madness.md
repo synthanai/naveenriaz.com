@@ -1,4 +1,5 @@
 ---
+
 title: matrix-madness
 knot_number: 84
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/083-scaling-pains"
 prev_knot_title: "Scaling Pains"
 next_knot: "organizations/085-skill-obsolescence"
 next_knot_title: "Skill Obsolescence"
+untie_story: "A small business owner realized they were the bottleneck in every process. They removed themselves from three. All three improved."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"matrix madness\" this week?"
 ---
 
 The world endures because of those with character.

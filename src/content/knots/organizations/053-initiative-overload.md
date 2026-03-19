@@ -1,4 +1,5 @@
 ---
+
 title: initiative-overload
 knot_number: 53
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/052-momentum-decay"
 prev_knot_title: "Momentum Decay"
 next_knot: "organizations/054-pilot-purgatory"
 next_knot_title: "Pilot Purgatory"
+untie_story: "A factory ran old and new processes in parallel for a month. The comparison data convinced the last holdouts."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"initiative overload\" this week?"
 ---
 
 Consider resources, tools, timing, task, and place before acting.

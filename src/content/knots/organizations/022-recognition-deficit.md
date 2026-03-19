@@ -1,4 +1,5 @@
 ---
+
 title: recognition-deficit
 knot_number: 22
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/021-meeting-toxicity"
 prev_knot_title: "Meeting Toxicity"
 next_knot: "organizations/023-belonging-fracture"
 next_knot_title: "Belonging Fracture"
+untie_story: "A school created student-led culture committees. Adults were surprised at how much students wanted to contribute."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"recognition deficit\" this week?"
 ---
 
 The world honors those who do good with grace.

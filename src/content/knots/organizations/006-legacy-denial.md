@@ -1,4 +1,5 @@
 ---
+
 title: "legacy-denial"
 knot_number: 6
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/005-mission-drift"
 prev_knot_title: "mission drift"
 next_knot: "organizations/007-split-personality"
 next_knot_title: "split personality"
+untie_story: "A nonprofit board member asked \"why do donors love us?\" and discovered the reason was different from what leadership assumed."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"legacy denial\" this week?"
 ---
 
 Remove your own faults first.

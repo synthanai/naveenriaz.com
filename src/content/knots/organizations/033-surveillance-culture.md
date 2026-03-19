@@ -1,4 +1,5 @@
 ---
+
 title: surveillance-culture
 knot_number: 33
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/032-the-accountability-dodge"
 prev_knot_title: "The Accountability Dodge"
 next_knot: "organizations/034-gossip-economy"
 next_knot_title: "Gossip Economy"
+untie_story: "A school principal apologized publicly for a policy mistake. Students said it was the first time an adult modeled accountability."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"surveillance culture\" this week?"
 ---
 
 A cruel ruler's realm will collapse under miseries unseen even by his own eyes.

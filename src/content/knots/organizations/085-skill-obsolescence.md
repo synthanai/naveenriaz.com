@@ -1,4 +1,5 @@
 ---
+
 title: skill-obsolescence
 knot_number: 85
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/084-matrix-madness"
 prev_knot_title: "Matrix Madness"
 next_knot: "organizations/086-talent-hoarding"
 next_knot_title: "Talent Hoarding"
+untie_story: "A manager asked each team member: \"when are you at your best?\" Then redesigned work assignments to match strengths."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"skill obsolescence\" this week?"
 ---
 
 The work of the wise: meet joyfully, part meaningfully.

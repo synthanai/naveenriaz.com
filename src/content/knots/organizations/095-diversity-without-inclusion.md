@@ -1,4 +1,5 @@
 ---
+
 title: diversity-without-inclusion
 knot_number: 95
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/094-onboarding-failure"
 prev_knot_title: "Onboarding Failure"
 next_knot: "organizations/096-the-ai-readiness-gap"
 next_knot_title: "The Ai Readiness Gap"
+untie_story: "A consulting firm created peer-teaching \"guilds\" by specialty. Knowledge that was locked in individuals became organizational capability."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"diversity without inclusion\" this week?"
 ---
 
 Touching brings joy to the body. Hearing words brings joy to the ear.

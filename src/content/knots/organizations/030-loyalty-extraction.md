@@ -1,4 +1,5 @@
 ---
+
 title: loyalty-extraction
 knot_number: 30
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/029-competence-doubt"
 prev_knot_title: "Competence Doubt"
 next_knot: "organizations/031-trust-asymmetry"
 next_knot_title: "Trust Asymmetry"
+untie_story: "A hospital introduced peer feedback rounds where nurses coached nurses. Quality improved because trust replaced hierarchy."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"loyalty extraction\" this week?"
 ---
 
 The land of a ruler who does not seek and administer justice daily will perish daily.

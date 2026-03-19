@@ -1,4 +1,5 @@
 ---
+
 title: consensus-trap
 knot_number: 39
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/038-decision-laundering"
 prev_knot_title: "Decision Laundering"
 next_knot: "organizations/040-hippo-effect"
 next_knot_title: "Hippo Effect"
+untie_story: "A company introduced \"decision journals\" where leaders recorded their reasoning. Retrospectives became about process, not blame."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"consensus trap\" this week?"
 ---
 
 Pursuing virtue steadily along the right path is the mark of lasting greatness.

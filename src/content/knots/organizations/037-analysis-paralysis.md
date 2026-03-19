@@ -1,4 +1,5 @@
 ---
+
 title: analysis-paralysis
 knot_number: 37
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/036-trust-bankruptcy"
 prev_knot_title: "Trust Bankruptcy"
 next_knot: "organizations/038-decision-laundering"
 next_knot_title: "Decision Laundering"
+untie_story: "A team classified every pending decision as \"one-way door\" or \"two-way door.\" Two-thirds resolved within 48 hours."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"analysis paralysis\" this week?"
 ---
 
 Deliberate before you act. To deliberate after acting is folly.

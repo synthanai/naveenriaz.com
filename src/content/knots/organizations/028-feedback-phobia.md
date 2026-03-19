@@ -1,4 +1,5 @@
 ---
+
 title: feedback-phobia
 knot_number: 28
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/027-delegation-without-trust"
 prev_knot_title: "Delegation Without Trust"
 next_knot: "organizations/029-competence-doubt"
 next_knot_title: "Competence Doubt"
+untie_story: "A team created a \"promises made, promises kept\" tracker. Visible accountability built invisible trust over time."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"feedback phobia\" this week?"
 ---
 
 One who speaks useless words that annoy many will be despised by all.

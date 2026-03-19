@@ -1,4 +1,5 @@
 ---
+
 title: "identity-fragility"
 knot_number: 11
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/010-cultural-orphans"
 prev_knot_title: "cultural orphans"
 next_knot: "organizations/012-the-hollow-core"
 next_knot_title: "the hollow core"
+untie_story: "A marketing agency discovered their best client work happened when the team knew WHY the client mattered to the world."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"identity fragility\" this week?"
 ---
 
 Like the tortoise drawing in its limbs, one who masters the senses finds lasting security.

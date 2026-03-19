@@ -1,4 +1,5 @@
 ---
+
 title: decision-laundering
 knot_number: 38
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/037-analysis-paralysis"
 prev_knot_title: "Analysis Paralysis"
 next_knot: "organizations/039-consensus-trap"
 next_knot_title: "Consensus Trap"
+untie_story: "A director stopped attending decisions below their level. The team made better decisions faster without the hierarchy present."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"decision laundering\" this week?"
 ---
 
 All that is desired is achieved if the mind harbors no anger.

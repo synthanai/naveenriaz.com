@@ -1,4 +1,5 @@
 ---
+
 title: success-ambiguity
 knot_number: 58
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/057-rhetoric-reality-gap"
 prev_knot_title: "Rhetoric Reality Gap"
 next_knot: "organizations/059-ungrieved-loss"
 next_knot_title: "Ungrieved Loss"
+untie_story: "A tech team measured \"behavior change\" instead of \"system adoption.\" The shift in metrics revealed the real picture."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"success ambiguity\" this week?"
 ---
 
 A true fortress has resources, location, and worthy people.

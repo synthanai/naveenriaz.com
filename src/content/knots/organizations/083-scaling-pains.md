@@ -1,4 +1,5 @@
 ---
+
 title: scaling-pains
 knot_number: 83
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/082-handoff-failure"
 prev_knot_title: "Handoff Failure"
 next_knot: "organizations/084-matrix-madness"
 next_knot_title: "Matrix Madness"
+untie_story: "A company created a \"structural debt\" register like technical debt. Quarterly reviews addressed the most costly misalignments first."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"scaling pains\" this week?"
 ---
 
 Avoiding harm and standing firm when it arrives.

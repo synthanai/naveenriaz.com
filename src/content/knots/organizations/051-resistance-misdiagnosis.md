@@ -1,4 +1,5 @@
 ---
+
 title: resistance-misdiagnosis
 knot_number: 51
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/050-transformation-theater"
 prev_knot_title: "Transformation Theater"
 next_knot: "organizations/052-momentum-decay"
 next_knot_title: "Momentum Decay"
+untie_story: "A team created a \"change fatigue thermometer\" visible to leadership. When it hit red, they paused and recovered."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"resistance misdiagnosis\" this week?"
 ---
 
 Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely.

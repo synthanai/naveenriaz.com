@@ -1,4 +1,5 @@
 ---
+
 title: energy-vampires
 knot_number: 103
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/102-turnover-spiral"
 prev_knot_title: "Turnover Spiral"
 next_knot: "organizations/104-urgency-addiction"
 next_knot_title: "Urgency Addiction"
+untie_story: "A factory added a 15-minute walking break to every shift. Injury rates dropped. Quality scores rose. Cost: zero."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"energy vampires\" this week?"
 ---
 
 Even harsh truth is acceptable. Useless pleasant words are not.

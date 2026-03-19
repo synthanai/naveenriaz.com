@@ -1,4 +1,5 @@
 ---
+
 title: meeting-to-decision-ratio
 knot_number: 45
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/044-decision-fragmentation"
 prev_knot_title: "Decision Fragmentation"
 next_knot: "organizations/046-risk-theater"
 next_knot_title: "Risk Theater"
+untie_story: "A school board created a \"student impact test\" for every policy decision. Three pending policies were reversed."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"meeting to decision ratio\" this week?"
 ---
 
 An enterprise that destroys its capital while seeking gain is the death of initiative.

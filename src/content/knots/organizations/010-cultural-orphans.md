@@ -1,4 +1,5 @@
 ---
+
 title: "cultural-orphans"
 knot_number: 10
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/009-vision-inflation"
 prev_knot_title: "vision inflation"
 next_knot: "organizations/011-identity-fragility"
 next_knot_title: "identity fragility"
+untie_story: "A law firm partner realized their stated culture was \"innovation\" but every decision rewarded conformity. They picked one."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"cultural orphans\" this week?"
 ---
 
 A home with love and virtue is character itself.

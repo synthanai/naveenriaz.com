@@ -1,4 +1,5 @@
 ---
+
 title: customer-capability-gap
 knot_number: 91
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/090-technical-debt-avalanche"
 prev_knot_title: "Technical Debt Avalanche"
 next_knot: "organizations/092-outsourcing-identity"
 next_knot_title: "Outsourcing Identity"
+untie_story: "A nonprofit invested in leadership development for middle managers. Eighteen months later, three internal promotions replaced expensive external hires."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"customer capability gap\" this week?"
 ---
 
 Challenges strengthen the resolute. The wavering break.

@@ -1,4 +1,5 @@
 ---
+
 title: trust-bankruptcy
 knot_number: 36
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/035-the-scapegoat-pattern"
 prev_knot_title: "The Scapegoat Pattern"
 next_knot: ""
 next_knot_title: ""
+untie_story: "A board chair admitted they didn't understand the technology. The CTO's trust in leadership increased immediately and permanently."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"trust bankruptcy\" this week?"
 ---
 
 Even heaven and earth cannot repay an unsolicited act of kindness.

@@ -1,4 +1,5 @@
 ---
+
 title: emotional-illiteracy
 knot_number: 107
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/106-celebration-deficit"
 prev_knot_title: "Celebration Deficit"
 next_knot: "organizations/108-the-zombie-organization"
 next_knot_title: "The Zombie Organization"
+untie_story: "A company made Friday afternoons optional. Some worked, some didn't. Trust increased. Output stayed the same over time."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"emotional illiteracy\" this week?"
 ---
 
 One flaw in wisdom pushes wholeness far away.

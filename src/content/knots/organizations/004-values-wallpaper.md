@@ -1,4 +1,5 @@
 ---
+
 title: "values-wallpaper"
 knot_number: 4
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/003-founders-ghost"
 prev_knot_title: "founders ghost"
 next_knot: "organizations/005-mission-drift"
 next_knot_title: "mission drift"
+untie_story: "An engineering team removed the values poster and replaced it with stories of values lived. Engagement scores jumped 23%."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"values wallpaper\" this week?"
 ---
 
 Spotless mind is all of virtue. The rest is empty noise.

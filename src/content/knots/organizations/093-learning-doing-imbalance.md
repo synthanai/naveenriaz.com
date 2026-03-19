@@ -1,4 +1,5 @@
 ---
+
 title: learning-doing-imbalance
 knot_number: 93
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/092-outsourcing-identity"
 prev_knot_title: "Outsourcing Identity"
 next_knot: "organizations/094-onboarding-failure"
 next_knot_title: "Onboarding Failure"
+untie_story: "A tech company open-sourced their internal training materials. External contributions improved the materials beyond what internal teams could."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"learning doing imbalance\" this week?"
 ---
 
 Learn thoroughly. Then live by that learning.

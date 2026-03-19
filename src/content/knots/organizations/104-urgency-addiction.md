@@ -1,4 +1,5 @@
 ---
+
 title: urgency-addiction
 knot_number: 104
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/103-energy-vampires"
 prev_knot_title: "Energy Vampires"
 next_knot: "organizations/105-resource-hoarding"
 next_knot_title: "Resource Hoarding"
+untie_story: "A nonprofit scheduled quarterly \"rest sprints\" where the team worked at 60% capacity. Long-term output increased over the year."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"urgency addiction\" this week?"
 ---
 
 Excess effort loses gains. The losses from overstretch exceed what was sought.

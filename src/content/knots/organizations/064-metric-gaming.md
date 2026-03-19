@@ -1,4 +1,5 @@
 ---
+
 title: metric-gaming
 knot_number: 64
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/063-groupthink"
 prev_knot_title: "Groupthink"
 next_knot: "organizations/065-innovation-theater"
 next_knot_title: "Innovation Theater"
+untie_story: "A startup built a \"knowledge graph\" of who knows what. Finding expertise dropped from days to minutes."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"metric gaming\" this week?"
 ---
 
 One who speaks truth from the heart surpasses those who practice austerity and charity.

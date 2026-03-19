@@ -1,4 +1,5 @@
 ---
+
 title: strategic-myopia
 knot_number: 66
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/065-innovation-theater"
 prev_knot_title: "Innovation Theater"
 next_knot: "organizations/067-expertise-trap"
 next_knot_title: "Expertise Trap"
+untie_story: "A nonprofit held quarterly \"what surprised us\" sessions. The surprises were always more valuable than the confirmations."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"strategic myopia\" this week?"
 ---
 
 One who acts without knowing the method finds ruin.

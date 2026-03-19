@@ -1,4 +1,5 @@
 ---
+
 title: gravitational-void
 knot_number: 15
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/014-integrity-theater"
 prev_knot_title: "Integrity Theater"
 next_knot: "organizations/016-harmony-addiction"
 next_knot_title: "Harmony Addiction"
+untie_story: "A manager replaced the annual survey with weekly one-question pulses. Response rate went from 34% to 91% immediately."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"gravitational void\" this week?"
 ---
 
 The touchstone of greatness is one's deeds.

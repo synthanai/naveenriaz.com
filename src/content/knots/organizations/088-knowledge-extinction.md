@@ -1,4 +1,5 @@
 ---
+
 title: knowledge-extinction
 knot_number: 88
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/087-hiring-mismatch"
 prev_knot_title: "Hiring Mismatch"
 next_knot: "organizations/089-leadership-vacuum"
 next_knot_title: "Leadership Vacuum"
+untie_story: "A startup created \"T-shaped\" development plans: deep in one skill, broad across two others. Versatility increased."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"knowledge extinction\" this week?"
 ---
 
 Even humbled, the learned stand tall.

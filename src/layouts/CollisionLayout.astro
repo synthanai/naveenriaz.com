@@ -140,6 +140,11 @@ const accentColor = categoryColors[categories?.[0]] || "var(--accent)";
     margin: 0 auto;
   }
 
+  /* Hide the markdown h1 since the layout header already shows the title */
+  .collision-body :global(h1:first-child) {
+    display: none;
+  }
+
   .collision-body :global(h2) {
     font-size: 1.4rem;
     margin-top: var(--space-3xl);

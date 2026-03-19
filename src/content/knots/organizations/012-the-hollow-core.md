@@ -1,4 +1,5 @@
 ---
+
 title: "the-hollow-core"
 knot_number: 12
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/011-identity-fragility"
 prev_knot_title: "identity fragility"
 next_knot: "organizations/013-performative-safety"
 next_knot_title: "performative safety"
+untie_story: "A church congregation realized their identity was their practice, not their building. Moving locations proved it clearly."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"the hollow core\" this week?"
 ---
 
 In all you think, think of rising.

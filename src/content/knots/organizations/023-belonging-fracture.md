@@ -1,4 +1,5 @@
 ---
+
 title: belonging-fracture
 knot_number: 23
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/022-recognition-deficit"
 prev_knot_title: "Recognition Deficit"
 next_knot: "organizations/024-the-culture-tax"
 next_knot_title: "The Culture Tax"
+untie_story: "A bank branch let tellers redesign their own workflows. Customer satisfaction improved because tellers were happier serving."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"belonging fracture\" this week?"
 ---
 
 The loveless live only for themselves. The loving give even their bones for others.

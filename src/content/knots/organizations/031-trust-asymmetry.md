@@ -1,4 +1,5 @@
 ---
+
 title: trust-asymmetry
 knot_number: 31
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/030-loyalty-extraction"
 prev_knot_title: "Loyalty Extraction"
 next_knot: "organizations/032-the-accountability-dodge"
 next_knot_title: "The Accountability Dodge"
+untie_story: "A remote team created a \"trust battery\" check-in. Each person rated their trust level with others openly."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"trust asymmetry\" this week?"
 ---
 
 Trusting a stranger without discernment brings endless suffering.

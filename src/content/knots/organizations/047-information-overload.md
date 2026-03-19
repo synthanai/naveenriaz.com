@@ -1,4 +1,5 @@
 ---
+
 title: information-overload
 knot_number: 47
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/046-risk-theater"
 prev_knot_title: "Risk Theater"
 next_knot: "organizations/048-decision-whiplash"
 next_knot_title: "Decision Whiplash"
+untie_story: "A company created \"decision rights\" documentation. Three overlapping owners became one clear owner per decision."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"information overload\" this week?"
 ---
 
 Numbers and letters are the two eyes of all living beings.

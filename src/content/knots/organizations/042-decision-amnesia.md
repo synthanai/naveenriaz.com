@@ -1,4 +1,5 @@
 ---
+
 title: decision-amnesia
 knot_number: 42
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/041-irreversibility-blindness"
 prev_knot_title: "Irreversibility Blindness"
 next_knot: "organizations/043-dissent-suppression"
 next_knot_title: "Dissent Suppression"
+untie_story: "A team assigned a \"devil's advocate\" each meeting. The dissenter role was rotated. Groupthink evaporated quickly."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"decision amnesia\" this week?"
 ---
 
 Learn thoroughly what should be learned. Having learned, live by it.

@@ -1,4 +1,5 @@
 ---
+
 title: ungrieved-loss
 knot_number: 59
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/058-success-ambiguity"
 prev_knot_title: "Success Ambiguity"
 next_knot: "organizations/060-consultant-dependency"
 next_knot_title: "Consultant Dependency"
+untie_story: "A government agency celebrated the 100-day mark of their change with a storytelling event. Momentum was renewed."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"ungrieved loss\" this week?"
 ---
 
 The noble do not treat suffering as cause for despair.

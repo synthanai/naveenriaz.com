@@ -1,4 +1,5 @@
 ---
+
 title: celebration-deficit
 knot_number: 106
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/105-resource-hoarding"
 prev_knot_title: "Resource Hoarding"
 next_knot: "organizations/107-emotional-illiteracy"
 next_knot_title: "Emotional Illiteracy"
+untie_story: "A manager stopped asking \"are you busy?\" and started asking \"do you have what you need?\" The shift changed the culture."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"celebration deficit\" this week?"
 ---
 
 Wealth from generosity never diminishes.

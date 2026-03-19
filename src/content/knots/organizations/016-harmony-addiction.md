@@ -1,4 +1,5 @@
 ---
+
 title: harmony-addiction
 knot_number: 16
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/015-gravitational-void"
 prev_knot_title: "Gravitational Void"
 next_knot: "organizations/017-transparency-paradox"
 next_knot_title: "Transparency Paradox"
+untie_story: "A hospital unit created a \"culture wall\" where anyone could post observations. The wall became the real dashboard."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"harmony addiction\" this week?"
 ---
 
 To discern the true nature of anything, whatever it may seem, is wisdom.

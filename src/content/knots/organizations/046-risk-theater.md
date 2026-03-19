@@ -1,4 +1,5 @@
 ---
+
 title: risk-theater
 knot_number: 46
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/045-meeting-to-decision-ratio"
 prev_knot_title: "Meeting To Decision Ratio"
 next_knot: "organizations/047-information-overload"
 next_knot_title: "Information Overload"
+untie_story: "A manager tracked how many decisions they made vs. delegated weekly. The ratio improved from 90/10 to 40/60 in a quarter."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"risk theater\" this week?"
 ---
 
 The wise foresee outcomes. The unwise cannot know what approaches.

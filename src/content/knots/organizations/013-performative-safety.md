@@ -1,4 +1,5 @@
 ---
+
 title: performative-safety
 knot_number: 13
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/012-the-hollow-core"
 prev_knot_title: "The Hollow Core"
 next_knot: "organizations/014-integrity-theater"
 next_knot_title: "Integrity Theater"
+untie_story: "A company banned \"that's how we do it\" for one month. Seventeen process improvements emerged from the constraint."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"performative safety\" this week?"
 ---
 
 Wisdom is discerning the truth in whatever is said, by whomever it's said.

@@ -1,4 +1,5 @@
 ---
+
 title: the-accountability-dodge
 knot_number: 32
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/031-trust-asymmetry"
 prev_knot_title: "Trust Asymmetry"
 next_knot: "organizations/033-surveillance-culture"
 next_knot_title: "Surveillance Culture"
+untie_story: "A supplier relationship was rebuilt after one honest conversation about a delivery failure. Honesty saved the contract."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"the accountability dodge\" this week?"
 ---
 
 Fortune abandons the leader who doubts a capable person mid-task.

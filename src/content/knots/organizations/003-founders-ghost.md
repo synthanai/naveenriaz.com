@@ -1,4 +1,5 @@
 ---
+
 title: "founders-ghost"
 knot_number: 3
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/002-identity-mimicry"
 prev_knot_title: "identity mimicry"
 next_knot: "organizations/004-values-wallpaper"
 next_knot_title: "values wallpaper"
+untie_story: "A CEO attended their own company's onboarding. They couldn't explain the values. That week, they rewrote them with frontline staff."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"founders ghost\" this week?"
 ---
 
 The founder built the fortress.

@@ -1,4 +1,5 @@
 ---
+
 title: burnout-normalization
 knot_number: 97
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/096-the-ai-readiness-gap"
 prev_knot_title: "The Ai Readiness Gap"
 next_knot: "organizations/098-meaning-drought"
 next_knot_title: "Meaning Drought"
+untie_story: "A CEO declared \"no meetings before 10am.\" Morning productivity increased 40%. Nobody missed the early meetings at all."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"burnout normalization\" this week?"
 ---
 
 One who sees hardship as natural will never truly suffer.

@@ -1,4 +1,5 @@
 ---
+
 title: gossip-economy
 knot_number: 34
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/033-surveillance-culture"
 prev_knot_title: "Surveillance Culture"
 next_knot: "organizations/035-the-scapegoat-pattern"
 next_knot_title: "The Scapegoat Pattern"
+untie_story: "A team agreed to \"disagree in the room, align outside.\" Conflict became productive instead of toxic and hidden."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"gossip economy\" this week?"
 ---
 
 What use is intelligence if one does not feel another's pain as deeply as one's own?

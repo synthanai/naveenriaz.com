@@ -1,4 +1,5 @@
 ---
+
 title: "mission-drift"
 knot_number: 5
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/004-values-wallpaper"
 prev_knot_title: "values wallpaper"
 next_knot: "organizations/006-legacy-denial"
 next_knot_title: "legacy denial"
+untie_story: "A retail chain asked every store to define their purpose locally. The answers were better than any consulting deck."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"mission drift\" this week?"
 ---
 
 Think well before acting. To deliberate after deciding is a failure.

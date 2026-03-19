@@ -1,4 +1,5 @@
 ---
+
 title: role-ambiguity
 knot_number: 76
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/075-process-sediment"
 prev_knot_title: "Process Sediment"
 next_knot: "organizations/077-middle-management-squeeze"
 next_knot_title: "Middle Management Squeeze"
+untie_story: "A hospital created cross-functional pods for patient care. Outcomes improved because the whole team saw the whole patient."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"role ambiguity\" this week?"
 ---
 
 When you see what is right, act on it.

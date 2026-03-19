@@ -1,4 +1,5 @@
 ---
+
 title: meeting-toxicity
 knot_number: 21
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/020-values-inversion"
 prev_knot_title: "Values Inversion"
 next_knot: "organizations/022-recognition-deficit"
 next_knot_title: "Recognition Deficit"
+untie_story: "A startup founder wrote a \"things we DON'T do\" list. It defined culture more sharply than any values poster."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"meeting toxicity\" this week?"
 ---
 
 Never speak useless words. To speak them is to speak nothing at all.

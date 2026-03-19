@@ -1,4 +1,5 @@
 ---
+
 title: "purpose-commodification"
 knot_number: 8
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/007-split-personality"
 prev_knot_title: "split personality"
 next_knot: "organizations/009-vision-inflation"
 next_knot_title: "vision inflation"
+untie_story: "A school principal asked students what the school stood for. Their answers rebuilt the mission statement authentically."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"purpose commodification\" this week?"
 ---
 
 Speak words that serve a purpose. Never speak words that serve none.

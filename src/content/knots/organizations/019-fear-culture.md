@@ -1,4 +1,5 @@
 ---
+
 title: fear-culture
 knot_number: 19
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/018-siloed-synergy"
 prev_knot_title: "Siloed Synergy"
 next_knot: "organizations/020-values-inversion"
 next_knot_title: "Values Inversion"
+untie_story: "A sales team replaced individual bonuses with team bonuses. Collaboration increased. Revenue followed three months later."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"fear culture\" this week?"
 ---
 
 Raise the rod high but strike gently.

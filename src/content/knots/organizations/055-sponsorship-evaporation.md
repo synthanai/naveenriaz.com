@@ -1,4 +1,5 @@
 ---
+
 title: sponsorship-evaporation
 knot_number: 55
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/054-pilot-purgatory"
 prev_knot_title: "Pilot Purgatory"
 next_knot: "organizations/056-organizational-antibodies"
 next_knot_title: "Organizational Antibodies"
+untie_story: "A school redesigned schedules with teacher input at every stage. The change stuck because teachers owned it completely."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"sponsorship evaporation\" this week?"
 ---
 
 The great fear small company. The small surround themselves with it.

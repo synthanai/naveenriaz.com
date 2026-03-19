@@ -1,4 +1,5 @@
 ---
+
 title: silo-syndrome
 knot_number: 74
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/073-structural-inertia"
 prev_knot_title: "Structural Inertia"
 next_knot: "organizations/075-process-sediment"
 next_knot_title: "Process Sediment"
+untie_story: "A team reorganized around customer journeys instead of functions. Handoff errors dropped by 70% in the first quarter."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"silo syndrome\" this week?"
 ---
 
 The loveless keep everything for themselves. The loving give even their bones.

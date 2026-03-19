@@ -1,4 +1,5 @@
 ---
+
 title: hiring-mismatch
 knot_number: 87
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/086-talent-hoarding"
 prev_knot_title: "Talent Hoarding"
 next_knot: "organizations/088-knowledge-extinction"
 next_knot_title: "Knowledge Extinction"
+untie_story: "A hospital paired experienced nurses with new ones for their first six months. Retention of new nurses doubled."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"hiring mismatch\" this week?"
 ---
 
 Even if fate opposes, effort yields its reward.

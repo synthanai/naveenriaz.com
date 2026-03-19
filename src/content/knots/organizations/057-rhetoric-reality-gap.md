@@ -1,4 +1,5 @@
 ---
+
 title: rhetoric-reality-gap
 knot_number: 57
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/056-organizational-antibodies"
 prev_knot_title: "Organizational Antibodies"
 next_knot: "organizations/058-success-ambiguity"
 next_knot_title: "Success Ambiguity"
+untie_story: "A retail chain let each store adapt the change to local context. The adapted versions outperformed the standardized plan."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"rhetoric reality gap\" this week?"
 ---
 
 Call the one who boasts useless words no son of worth.

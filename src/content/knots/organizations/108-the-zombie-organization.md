@@ -1,4 +1,5 @@
 ---
+
 title: the-zombie-organization
 knot_number: 108
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/107-emotional-illiteracy"
 prev_knot_title: "Emotional Illiteracy"
 next_knot: ""
 next_knot_title: ""
+untie_story: "A leadership team modeled leaving at 5pm. Within three months, the entire organization's average work hours normalized to healthy."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"the zombie organization\" this week?"
 ---
 
 The wise stand in eternal fame. The world endures through their legacy.

@@ -1,4 +1,5 @@
 ---
+
 title: the-bottleneck-person
 knot_number: 80
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/079-technology-sprawl"
 prev_knot_title: "Technology Sprawl"
 next_knot: "organizations/081-over-centralization"
 next_knot_title: "Over Centralization"
+untie_story: "A tech company moved from project teams to product teams. Continuity replaced context-switching. Quality followed."
+untie_practices:
+  - "Audit one process for unnecessary approval steps"
+  - "Clarify ownership of one ambiguous responsibility"
+  - "Remove one meeting that adds no structural value"
+untie_question: "What would change in your organization if you untangled \"the bottleneck person\" this week?"
 ---
 
 One who seeks no ease in good times builds resilience for hard times.

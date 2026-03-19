@@ -1,4 +1,5 @@
 ---
+
 title: meaning-drought
 knot_number: 98
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/097-burnout-normalization"
 prev_knot_title: "Burnout Normalization"
 next_knot: "organizations/099-autonomy-starvation"
 next_knot_title: "Autonomy Starvation"
+untie_story: "A team introduced \"energy audits\" where each person mapped their daily peaks. Work was rescheduled to match. Output improved."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"meaning drought\" this week?"
 ---
 
 One who stands free of folly creates millions.

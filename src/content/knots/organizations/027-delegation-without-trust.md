@@ -1,4 +1,5 @@
 ---
+
 title: delegation-without-trust
 knot_number: 27
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/026-invisible-contracts"
 prev_knot_title: "Invisible Contracts"
 next_knot: "organizations/028-feedback-phobia"
 next_knot_title: "Feedback Phobia"
+untie_story: "A leader started every meeting with \"what don't I know?\" The team started telling truth instead of performing."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"delegation without trust\" this week?"
 ---
 
 One who knows the right ground prospers long. One who doesn't finds ruin.

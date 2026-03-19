@@ -1,4 +1,5 @@
 ---
+
 title: competence-doubt
 knot_number: 29
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/028-feedback-phobia"
 prev_knot_title: "Feedback Phobia"
 next_knot: "organizations/030-loyalty-extraction"
 next_knot_title: "Loyalty Extraction"
+untie_story: "A CEO called a customer who had a bad experience. The customer became their biggest advocate after one call."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"competence doubt\" this week?"
 ---
 
 The rarest of rare achievements is winning the trust of the great.

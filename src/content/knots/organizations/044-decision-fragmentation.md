@@ -1,4 +1,5 @@
 ---
+
 title: decision-fragmentation
 knot_number: 44
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/043-dissent-suppression"
 prev_knot_title: "Dissent Suppression"
 next_knot: "organizations/045-meeting-to-decision-ratio"
 next_knot_title: "Meeting To Decision Ratio"
+untie_story: "A startup stopped consensus-seeking and moved to \"consult then decide.\" Meetings shortened. Quality stayed the same."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"decision fragmentation\" this week?"
 ---
 
 Those who know the weight of words speak only after understanding the full assembly.

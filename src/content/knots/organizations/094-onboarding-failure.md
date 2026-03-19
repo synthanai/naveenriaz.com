@@ -1,4 +1,5 @@
 ---
+
 title: onboarding-failure
 knot_number: 94
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/093-learning-doing-imbalance"
 prev_knot_title: "Learning Doing Imbalance"
 next_knot: "organizations/095-diversity-without-inclusion"
 next_knot_title: "Diversity Without Inclusion"
+untie_story: "A sales team switched from product training to customer-empathy training. Win rates improved more from understanding buyers than features."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"onboarding failure\" this week?"
 ---
 
 Wealth without planning vanishes like sight without eyes.

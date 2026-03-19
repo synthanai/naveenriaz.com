@@ -101,6 +101,19 @@ import Footer from "../components/Footer.astro";
       </div>
     </section>
 
+    <!-- ═══ 108 Knots Featured ═══ -->
+    <section class="knots-feature section--tight">
+      <div class="container container--narrow" style="text-align: center;">
+        <p class="knots-badge">UNTANGLING THE WORLD</p>
+        <h2 class="knots-headline">108 <span class="knots-accent">Knots</span></h2>
+        <p class="knots-desc">
+          Every system tangles itself the same way. One hundred and eight
+          problems, named, felt, untied, across Mind, Body, and Soul.
+        </p>
+        <a href="/knots/" class="btn">Browse 108 Knots →</a>
+      </div>
+    </section>
+
     <!-- ═══ Kural ═══ -->
     <section class="kural-section section--tight">
       <div class="container container--narrow">
@@ -141,6 +154,48 @@ import Footer from "../components/Footer.astro";
     </section>
 
     <Footer />
+
+    <style>
+      .knots-feature {
+        padding: var(--space-xl) 0;
+      }
+
+      .knots-badge {
+        font-family: var(--font-label);
+        font-size: 0.65rem;
+        font-weight: 600;
+        letter-spacing: 0.15em;
+        color: var(--accent);
+        margin-bottom: var(--space-xs);
+      }
+
+      .knots-headline {
+        font-size: clamp(2rem, 5vw, 3rem);
+        font-weight: 800;
+        color: var(--text-primary);
+        margin-bottom: var(--space-sm);
+      }
+
+      .knots-accent {
+        background: linear-gradient(
+          135deg,
+          var(--soul-color),
+          var(--mind-color),
+          var(--body-color)
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+      }
+
+      .knots-desc {
+        font-size: 1rem;
+        color: var(--text-secondary);
+        max-width: 480px;
+        margin: 0 auto var(--space-lg);
+        line-height: 1.6;
+      }
+    </style>
 
   </body>
 </html>

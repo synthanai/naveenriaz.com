@@ -1,4 +1,5 @@
 ---
+
 title: organizational-antibodies
 knot_number: 56
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/055-sponsorship-evaporation"
 prev_knot_title: "Sponsorship Evaporation"
 next_knot: "organizations/057-rhetoric-reality-gap"
 next_knot_title: "Rhetoric Reality Gap"
+untie_story: "A company assigned \"change buddies\" to pair skeptics with early adopters. Peer influence outperformed training by 3x."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"organizational antibodies\" this week?"
 ---
 
 Harsh words and excessive punishment grind down strength like a file on metal.

@@ -1,4 +1,5 @@
 ---
+
 title: broken-promises-loop
 knot_number: 25
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/024-the-culture-tax"
 prev_knot_title: "The Culture Tax"
 next_knot: "organizations/026-invisible-contracts"
 next_knot_title: "Invisible Contracts"
+untie_story: "A manager said \"I was wrong about that decision\" in a team meeting. Trust scores jumped overnight measurably."
+untie_practices:
+  - "Keep one promise you made this week"
+  - "Say \"I was wrong\" about one small thing"
+  - "Share one piece of information you'd normally hold"
+untie_question: "What would change in your organization if you untangled \"broken promises loop\" this week?"
 ---
 
 Guard yourself from anger. Unguarded, anger will destroy you.

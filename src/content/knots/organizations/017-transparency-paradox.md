@@ -1,4 +1,5 @@
 ---
+
 title: transparency-paradox
 knot_number: 17
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/016-harmony-addiction"
 prev_knot_title: "Harmony Addiction"
 next_knot: "organizations/018-siloed-synergy"
 next_knot_title: "Siloed Synergy"
+untie_story: "A remote team instituted \"virtual coffee\" where random pairs met weekly. Loneliness scores dropped by half measurably."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"transparency paradox\" this week?"
 ---
 
 Greatness is concealing others' flaws. Smallness is concealing one's own.

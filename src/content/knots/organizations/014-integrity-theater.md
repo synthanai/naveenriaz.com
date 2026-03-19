@@ -1,4 +1,5 @@
 ---
+
 title: integrity-theater
 knot_number: 14
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/013-performative-safety"
 prev_knot_title: "Performative Safety"
 next_knot: "organizations/015-gravitational-void"
 next_knot_title: "Gravitational Void"
+untie_story: "A team started each Monday with \"one thing I learned last week.\" Within months, learning became the culture norm."
+untie_practices:
+  - "Name one unwritten cultural rule this week"
+  - "Start one meeting with a learning question"
+  - "Replace one \"that's how we do it\" with \"why?\""
+untie_question: "What would change in your organization if you untangled \"integrity theater\" this week?"
 ---
 
 Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech.

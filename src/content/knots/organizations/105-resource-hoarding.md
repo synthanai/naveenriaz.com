@@ -1,4 +1,5 @@
 ---
+
 title: resource-hoarding
 knot_number: 105
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/104-urgency-addiction"
 prev_knot_title: "Urgency Addiction"
 next_knot: "organizations/106-celebration-deficit"
 next_knot_title: "Celebration Deficit"
+untie_story: "A tech team replaced their retrospective with a monthly \"energy retrospective.\" What drained us? What charged us? Actions followed."
+untie_practices:
+  - "Block one meeting-free morning this week"
+  - "Take one real break today (not at desk)"
+  - "Ask your team: what drains your energy most?"
+untie_question: "What would change in your organization if you untangled \"resource hoarding\" this week?"
 ---
 
 To give and live with honor: no greater profit exists.

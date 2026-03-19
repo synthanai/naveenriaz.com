@@ -1,4 +1,5 @@
 ---
+
 title: "identity-mimicry"
 knot_number: 2
 domain: "organizations"
@@ -20,6 +21,12 @@ prev_knot: "organizations/001-purpose-amnesia"
 prev_knot_title: "purpose amnesia"
 next_knot: "organizations/003-founders-ghost"
 next_knot_title: "founders ghost"
+untie_story: "A hospital discovered nurses had created their own purpose statement because the official one felt hollow. Leadership adopted it instead."
+untie_practices:
+  - "Ask one person \"why are you here?\" today"
+  - "Write your team's purpose in one sentence"
+  - "Compare calendar to stated values this week"
+untie_question: "What would change in your organization if you untangled \"identity mimicry\" this week?"
 ---
 
 One who knows themselves knows all.

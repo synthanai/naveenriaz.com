@@ -1,4 +1,5 @@
 ---
+
 title: transformation-theater
 knot_number: 50
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/049-change-fatigue"
 prev_knot_title: "Change Fatigue"
 next_knot: "organizations/051-resistance-misdiagnosis"
 next_knot_title: "Resistance Misdiagnosis"
+untie_story: "A hospital named their change \"Operation Sunrise\" and celebrated small wins weekly. Eighteen months later, the culture had transformed."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"transformation theater\" this week?"
 ---
 
 One who acts without understanding the means will find themselves as lost as one who understands but never acts.

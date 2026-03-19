@@ -1,4 +1,5 @@
 ---
+
 title: consultant-dependency
 knot_number: 60
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/059-ungrieved-loss"
 prev_knot_title: "Ungrieved Loss"
 next_knot: ""
 next_knot_title: ""
+untie_story: "A bank branch manager asked monthly: \"what should we stop doing?\" Removing friction accelerated adoption faster than adding features."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"consultant dependency\" this week?"
 ---
 
 One who acts without knowing the method destroys their own work.

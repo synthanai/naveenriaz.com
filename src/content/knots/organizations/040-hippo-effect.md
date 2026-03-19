@@ -1,4 +1,5 @@
 ---
+
 title: hippo-effect
 knot_number: 40
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/039-consensus-trap"
 prev_knot_title: "Consensus Trap"
 next_knot: "organizations/041-irreversibility-blindness"
 next_knot_title: "Irreversibility Blindness"
+untie_story: "A founder set a rule: any decision reversible within 30 days gets made in 24 hours. Velocity tripled."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"hippo effect\" this week?"
 ---
 
 A person's stature rises to match their will.

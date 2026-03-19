@@ -1,4 +1,5 @@
 ---
+
 title: innovation-theater
 knot_number: 65
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/064-metric-gaming"
 prev_knot_title: "Metric Gaming"
 next_knot: "organizations/066-strategic-myopia"
 next_knot_title: "Strategic Myopia"
+untie_story: "A school created student-led research projects on school problems. Students produced insights adults had missed for years."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"innovation theater\" this week?"
 ---
 
 The firmness of enterprise is the firmness of mind. All else is secondary.

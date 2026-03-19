@@ -1,4 +1,5 @@
 ---
+
 title: expertise-trap
 knot_number: 67
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/066-strategic-myopia"
 prev_knot_title: "Strategic Myopia"
 next_knot: "organizations/068-data-worship"
 next_knot_title: "Data Worship"
+untie_story: "A factory floor worker suggested a process change based on pattern they noticed. It saved $200K annually. Nobody had asked before."
+untie_practices:
+  - "Share one lesson learned in a public channel"
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"expertise trap\" this week?"
 ---
 
 Numbers and letters are the two eyes of the living.

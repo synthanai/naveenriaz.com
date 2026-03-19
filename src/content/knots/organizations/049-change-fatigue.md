@@ -1,4 +1,5 @@
 ---
+
 title: change-fatigue
 knot_number: 49
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/048-decision-whiplash"
 prev_knot_title: "Decision Whiplash"
 next_knot: "organizations/050-transformation-theater"
 next_knot_title: "Transformation Theater"
+untie_story: "A company held a \"funeral\" for the old process before launching the new. Mourning enabled moving forward."
+untie_practices:
+  - "Name one thing the team fears about the change"
+  - "Celebrate one small win from the change this week"
+  - "Ask three people: is the change working?"
+untie_question: "What would change in your organization if you untangled \"change fatigue\" this week?"
 ---
 
 Laugh when hardship arrives. Nothing defeats adversity like defiance.

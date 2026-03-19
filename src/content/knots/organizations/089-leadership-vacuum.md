@@ -1,4 +1,5 @@
 ---
+
 title: leadership-vacuum
 knot_number: 89
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/088-knowledge-extinction"
 prev_knot_title: "Knowledge Extinction"
 next_knot: "organizations/090-technical-debt-avalanche"
 next_knot_title: "Technical Debt Avalanche"
+untie_story: "A team dedicated 10% of sprint time to skill-building. Within two quarters, they could handle work that previously required contractors."
+untie_practices:
+  - "Ask each person: \"what skill would transform your work?\""
+  - "Pair one experienced person with one new person"
+  - "Dedicate one hour this week to skill-building"
+untie_question: "What would change in your organization if you untangled \"leadership vacuum\" this week?"
 ---
 
 One who doesn't prepare in good times suffers in hard times.

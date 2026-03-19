@@ -1,4 +1,5 @@
 ---
+
 title: dissent-suppression
 knot_number: 43
 domain: organizations
@@ -18,6 +19,12 @@ prev_knot: "organizations/042-decision-amnesia"
 prev_knot_title: "Decision Amnesia"
 next_knot: "organizations/044-decision-fragmentation"
 next_knot_title: "Decision Fragmentation"
+untie_story: "A CEO made their decision-making criteria public. People stopped guessing what leadership valued and started aligning."
+untie_practices:
+  - "Classify three pending decisions as reversible/irreversible"
+  - "Delegate one decision to the person closest to the problem"
+  - "Set a 48-hour deadline on one stalled decision"
+untie_question: "What would change in your organization if you untangled \"dissent suppression\" this week?"
 ---
 
 Speak words that have purpose. Never speak words without purpose.
