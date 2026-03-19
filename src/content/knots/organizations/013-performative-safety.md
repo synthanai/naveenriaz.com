@@ -21,8 +21,9 @@ next_knot: "organizations/014-integrity-theater"
 next_knot_title: "Integrity Theater"
 untie_story: "A company banned \"that's how we do it\" for one month. Seventeen process improvements emerged from the constraint."
 untie_practices:
-  - "Name one unwritten cultural rule this week"
-  - "Start one meeting with a learning question"
+  - "replace \"what went well?\" with \"what can't be said in this team right now?\" Time the silence."
+  - "Every team member can surface a hard truth without rehearsal."
+  - "When safety is real, feedback becomes bi-directional, mistakes become learning moments instead of..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"performative safety\" this week?"
 ---

@@ -21,8 +21,9 @@ next_knot: "organizations/022-recognition-deficit"
 next_knot_title: "Recognition Deficit"
 untie_story: "A startup founder wrote a \"things we DON'T do\" list. It defined culture more sharply than any values poster."
 untie_practices:
-  - "Name one unwritten cultural rule this week"
-  - "Start one meeting with a learning question"
+  - "Cancel one recurring meeting this week."
+  - "Every meeting ends with a single documented decision or is canceled."
+  - "When meetings serve decisions instead of replacing them, calendars open, deep work returns, and t..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"meeting toxicity\" this week?"
 ---

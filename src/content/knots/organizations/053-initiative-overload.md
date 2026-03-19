@@ -21,9 +21,9 @@ next_knot: "organizations/054-pilot-purgatory"
 next_knot_title: "Pilot Purgatory"
 untie_story: "A factory ran old and new processes in parallel for a month. The comparison data convinced the last holdouts."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "Count the active change initiatives on your team right now."
+  - "Before any new initiative is approved, the aggregate change load on affected teams is assessed."
+  - "When initiatives are sequenced by capacity, each one receives full attention, completion rates ri..."
 untie_question: "What would change in your organization if you untangled \"initiative overload\" this week?"
 ---
 

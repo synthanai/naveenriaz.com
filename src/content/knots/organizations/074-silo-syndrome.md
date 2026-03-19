@@ -21,9 +21,9 @@ next_knot: "organizations/075-process-sediment"
 next_knot_title: "Process Sediment"
 untie_story: "A team reorganized around customer journeys instead of functions. Handoff errors dropped by 70% in the first quarter."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Walk to another department and ask: what do you need from us that you're not getting?"
+  - "At least one KPI per team measures cross-functional outcome."
+  - "When collaboration is rewarded, silos dissolve naturally, information flows across boundaries, an..."
 untie_question: "What would change in your organization if you untangled \"silo syndrome\" this week?"
 ---
 

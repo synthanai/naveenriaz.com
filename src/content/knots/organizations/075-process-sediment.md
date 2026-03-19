@@ -21,9 +21,9 @@ next_knot: "organizations/076-role-ambiguity"
 next_knot_title: "Role Ambiguity"
 untie_story: "A startup defined clear \"RACI\" for their top 20 processes. Three discovered they had no owner. All three were failing."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Pick one process with more than three approvals."
+  - "An annual process audit removes any approval step that cannot justify its continued existence wit..."
+  - "When processes are audited for relevance, bureaucracy shrinks, speed returns, and teams spend the..."
 untie_question: "What would change in your organization if you untangled \"process sediment\" this week?"
 ---
 

@@ -21,9 +21,9 @@ next_knot: "organizations/048-decision-whiplash"
 next_knot_title: "Decision Whiplash"
 untie_story: "A company created \"decision rights\" documentation. Three overlapping owners became one clear owner per decision."
 untie_practices:
-  - "Classify three pending decisions as reversible/irreversible"
-  - "Delegate one decision to the person closest to the problem"
-  - "Set a 48-hour deadline on one stalled decision"
+  - "Identify the three numbers that would change your decision if they moved significantly."
+  - "Each decision has three identified signals: the metrics that would change the decision if they mo..."
+  - "When information is filtered for relevance, decisions become faster, attention becomes focused, a..."
 untie_question: "What would change in your organization if you untangled \"information overload\" this week?"
 ---
 

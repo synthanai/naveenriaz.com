@@ -21,9 +21,9 @@ next_knot: "organizations/043-dissent-suppression"
 next_knot_title: "Dissent Suppression"
 untie_story: "A team assigned a \"devil's advocate\" each meeting. The dissenter role was rotated. Groupthink evaporated quickly."
 untie_practices:
-  - "Classify three pending decisions as reversible/irreversible"
-  - "Delegate one decision to the person closest to the problem"
-  - "Set a 48-hour deadline on one stalled decision"
+  - "For your next significant decision, write down: what you decided, why, and what would need to cha..."
+  - "Every significant decision is recorded with three elements: what was decided, why, and what condi..."
+  - "When decisions have memory, the organization stops repeating mistakes, new leaders inherit wisdom..."
 untie_question: "What would change in your organization if you untangled \"decision amnesia\" this week?"
 ---
 

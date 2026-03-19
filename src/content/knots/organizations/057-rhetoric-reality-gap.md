@@ -21,9 +21,9 @@ next_knot: "organizations/058-success-ambiguity"
 next_knot_title: "Success Ambiguity"
 untie_story: "A retail chain let each store adapt the change to local context. The adapted versions outperformed the standardized plan."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "Find your organization's most repeated phrase this quarter."
+  - "Every stated commitment has a corresponding action, budget, and timeline."
+  - "When rhetoric is held accountable to reality, trust in communication rebuilds, employees engage w..."
 untie_question: "What would change in your organization if you untangled \"rhetoric reality gap\" this week?"
 ---
 

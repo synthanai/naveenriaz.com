@@ -21,9 +21,9 @@ next_knot: "organizations/101-the-presenteeism-tax"
 next_knot_title: "The Presenteeism Tax"
 untie_story: "A hospital unit created a \"wellness room\" for staff. Five-minute breaks in a calm space reduced errors measurably."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "Reward one preventer publicly this week."
+  - "Prevention is explicitly rewarded alongside crisis response."
+  - "When prevention is rewarded, crises decrease, planning improves, and the organization stops manuf..."
 untie_question: "What would change in your organization if you untangled \"reward misalignment\" this week?"
 ---
 

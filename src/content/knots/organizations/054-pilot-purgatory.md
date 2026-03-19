@@ -21,9 +21,9 @@ next_knot: "organizations/055-sponsorship-evaporation"
 next_knot_title: "Sponsorship Evaporation"
 untie_story: "A CEO shared their own fears about the change in a town hall. The vulnerability unlocked honesty across the organization."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "Ask your pilot lead: what conditions does this need at scale that we can't guarantee?"
+  - "Every pilot includes a scale plan from day one."
+  - "When pilots are designed for scale, proof of concept extends to proof of reality, and the organiz..."
 untie_question: "What would change in your organization if you untangled \"pilot purgatory\" this week?"
 ---
 

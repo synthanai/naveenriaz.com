@@ -21,9 +21,9 @@ next_knot: "organizations/044-decision-fragmentation"
 next_knot_title: "Decision Fragmentation"
 untie_story: "A CEO made their decision-making criteria public. People stopped guessing what leadership valued and started aligning."
 untie_practices:
-  - "Classify three pending decisions as reversible/irreversible"
-  - "Delegate one decision to the person closest to the problem"
-  - "Set a 48-hour deadline on one stalled decision"
+  - "require one person to argue against the consensus."
+  - "Counter-positions are explicitly invited before any decision is finalized."
+  - "When dissent is safe, decisions improve, blind spots surface before implementation, and the best ..."
 untie_question: "What would change in your organization if you untangled \"dissent suppression\" this week?"
 ---
 

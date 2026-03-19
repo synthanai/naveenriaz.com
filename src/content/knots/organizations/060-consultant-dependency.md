@@ -21,9 +21,9 @@ next_knot: ""
 next_knot_title: ""
 untie_story: "A bank branch manager asked monthly: \"what should we stop doing?\" Removing friction accelerated adoption faster than adding features."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "Before hiring the next consultant, ask: what internal capability will exist after they leave?"
+  - "Every consulting engagement includes a capability transfer milestone: what internal skill will ex..."
+  - "When capability transfer is the metric, consulting engagements build lasting strength, the organi..."
 untie_question: "What would change in your organization if you untangled \"consultant dependency\" this week?"
 ---
 

@@ -21,8 +21,9 @@ next_knot: "organizations/015-gravitational-void"
 next_knot_title: "Gravitational Void"
 untie_story: "A team started each Monday with \"one thing I learned last week.\" Within months, learning became the culture norm."
 untie_practices:
-  - "Name one unwritten cultural rule this week"
-  - "Start one meeting with a learning question"
+  - "Pick one behavioral standard in your team."
+  - "One rule in the organization is followed identically whether anyone is watching or not."
+  - "When integrity is real, whistleblower hotlines go quiet (not because problems disappear, but beca..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"integrity theater\" this week?"
 ---

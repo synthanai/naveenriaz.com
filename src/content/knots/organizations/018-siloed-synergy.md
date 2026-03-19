@@ -21,8 +21,9 @@ next_knot: "organizations/019-fear-culture"
 next_knot_title: "Fear Culture"
 untie_story: "A CEO ate lunch in the cafeteria every Thursday. Within six months, three organizational problems surfaced and were solved."
 untie_practices:
-  - "Name one unwritten cultural rule this week"
-  - "Start one meeting with a learning question"
+  - "Name one outcome this quarter that requires delivery from two separate teams."
+  - "Two teams can produce a joint outcome without being assigned to each other."
+  - "When structure enables connection, knowledge flows laterally, duplication drops, and the organiza..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"siloed synergy\" this week?"
 ---

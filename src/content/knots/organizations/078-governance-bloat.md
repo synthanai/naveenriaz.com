@@ -21,9 +21,9 @@ next_knot: "organizations/079-technology-sprawl"
 next_knot_title: "Technology Sprawl"
 untie_story: "A nonprofit merged two overlapping committees. Meeting hours halved. Output quality improved because accountability was clearer."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Count committees."
+  - "Every governance body has an annual ROI review: decisions produced divided by hours consumed."
+  - "When governance is measured by output, committees shrink, decisions accelerate, and the organizat..."
 untie_question: "What would change in your organization if you untangled \"governance bloat\" this week?"
 ---
 

@@ -21,9 +21,9 @@ next_knot: "organizations/107-emotional-illiteracy"
 next_knot_title: "Emotional Illiteracy"
 untie_story: "A manager stopped asking \"are you busy?\" and started asking \"do you have what you need?\" The shift changed the culture."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "After your next completed project, stop."
+  - "Every completed milestone has a mandatory 'exhale moment': a simple, time-bounded acknowledgment ..."
+  - "When achievements are celebrated, energy renews, engagement deepens, and the team enters the next..."
 untie_question: "What would change in your organization if you untangled \"celebration deficit\" this week?"
 ---
 

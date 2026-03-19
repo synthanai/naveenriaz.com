@@ -21,8 +21,9 @@ next_knot: "organizations/020-values-inversion"
 next_knot_title: "Values Inversion"
 untie_story: "A sales team replaced individual bonuses with team bonuses. Collaboration increased. Revenue followed three months later."
 untie_practices:
-  - "Name one unwritten cultural rule this week"
-  - "Start one meeting with a learning question"
+  - "Walk to lunch with one team member."
+  - "The most junior person in the room can challenge the most senior person's idea, and the room trea..."
+  - "When fear dissolves (not through slogans, but through repeated safety), initiative replaces compl..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"fear culture\" this week?"
 ---

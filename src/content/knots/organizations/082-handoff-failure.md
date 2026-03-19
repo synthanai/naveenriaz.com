@@ -21,9 +21,9 @@ next_knot: "organizations/083-scaling-pains"
 next_knot_title: "Scaling Pains"
 untie_story: "A retail chain gave store managers authority to make local decisions up to $5K. Response time to customer issues dropped 80%."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Map one customer journey."
+  - "Every handoff has a documented protocol: what information transfers, in what format, and who conf..."
+  - "When handoffs are designed, customers experience seamlessness, context compounds across teams, an..."
 untie_question: "What would change in your organization if you untangled \"handoff failure\" this week?"
 ---
 

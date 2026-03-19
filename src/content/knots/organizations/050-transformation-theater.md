@@ -21,9 +21,9 @@ next_knot: "organizations/051-resistance-misdiagnosis"
 next_knot_title: "Resistance Misdiagnosis"
 untie_story: "A hospital named their change \"Operation Sunrise\" and celebrated small wins weekly. Eighteen months later, the culture had transformed."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "Ask three frontline employees what has actually changed in their daily work."
+  - "Transformation progress is measured by changed behavior, not by completed workstreams."
+  - "When transformation is measured by behavior instead of governance, programs become leaner, timeli..."
 untie_question: "What would change in your organization if you untangled \"transformation theater\" this week?"
 ---
 

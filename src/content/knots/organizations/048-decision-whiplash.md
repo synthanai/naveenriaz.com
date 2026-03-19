@@ -21,9 +21,9 @@ next_knot: ""
 next_knot_title: ""
 untie_story: "A leadership team did a \"decision autopsy\" monthly. They learned more from reviewing decisions than from making new ones."
 untie_practices:
-  - "Classify three pending decisions as reversible/irreversible"
-  - "Delegate one decision to the person closest to the problem"
-  - "Set a 48-hour deadline on one stalled decision"
+  - "Next time you reverse a decision, say three things: what was decided before, why it's changing, a..."
+  - "When a decision is reversed, three things are stated: what was decided before, why it's changing,..."
+  - "When reversals are acknowledged, trust survives the change, teams invest fully in the new directi..."
 untie_question: "What would change in your organization if you untangled \"decision whiplash\" this week?"
 ---
 

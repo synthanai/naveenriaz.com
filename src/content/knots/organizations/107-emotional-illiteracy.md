@@ -21,9 +21,9 @@ next_knot: "organizations/108-the-zombie-organization"
 next_knot_title: "The Zombie Organization"
 untie_story: "A company made Friday afternoons optional. Some worked, some didn't. Trust increased. Output stayed the same over time."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "Ask each person to name their current emotional state in one word."
+  - "Team check-ins include one emotional state word from each person."
+  - "When emotions can be named, they can be addressed."
 untie_question: "What would change in your organization if you untangled \"emotional illiteracy\" this week?"
 ---
 

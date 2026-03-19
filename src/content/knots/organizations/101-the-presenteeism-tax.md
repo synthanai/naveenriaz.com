@@ -21,9 +21,9 @@ next_knot: "organizations/102-turnover-spiral"
 next_knot_title: "Turnover Spiral"
 untie_story: "A startup founder started sharing their own mental health journey publicly. Three team members sought help they had been avoiding."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "Measure output instead of hours for one week."
+  - "Output is the primary metric."
+  - "When output is measured, presenteeism disappears, the team self-organizes around energy peaks, an..."
 untie_question: "What would change in your organization if you untangled \"the presenteeism tax\" this week?"
 ---
 

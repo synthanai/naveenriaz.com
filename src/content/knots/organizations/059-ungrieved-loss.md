@@ -21,9 +21,9 @@ next_knot: "organizations/060-consultant-dependency"
 next_knot_title: "Consultant Dependency"
 untie_story: "A government agency celebrated the 100-day mark of their change with a storytelling event. Momentum was renewed."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "Before your next change, name what's being lost."
+  - "Every significant change includes an explicit acknowledgment of what is being lost."
+  - "When loss is acknowledged, transitions become emotionally complete, energy redirects from undergr..."
 untie_question: "What would change in your organization if you untangled \"ungrieved loss\" this week?"
 ---
 

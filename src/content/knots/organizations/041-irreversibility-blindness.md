@@ -21,9 +21,9 @@ next_knot: "organizations/042-decision-amnesia"
 next_knot_title: "Decision Amnesia"
 untie_story: "A hospital reduced committee approvals from seven to two for non-clinical decisions. Time to implementation dropped by 80%."
 untie_practices:
-  - "Classify three pending decisions as reversible/irreversible"
-  - "Delegate one decision to the person closest to the problem"
-  - "Set a 48-hour deadline on one stalled decision"
+  - "Before your next major decision, ask: can we undo this in six months if wrong?"
+  - "Every significant decision is classified as reversible or irreversible before deliberation begins."
+  - "When decisions are classified by reversibility, speed improves on routine choices while rigor inc..."
 untie_question: "What would change in your organization if you untangled \"irreversibility blindness\" this week?"
 ---
 

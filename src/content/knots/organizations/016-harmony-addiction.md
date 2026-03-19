@@ -21,8 +21,9 @@ next_knot: "organizations/017-transparency-paradox"
 next_knot_title: "Transparency Paradox"
 untie_story: "A hospital unit created a \"culture wall\" where anyone could post observations. The wall became the real dashboard."
 untie_practices:
-  - "Name one unwritten cultural rule this week"
-  - "Start one meeting with a learning question"
+  - "explicitly assign one person to argue against the consensus."
+  - "The team can hold a disagreement for an entire meeting without resolving it prematurely."
+  - "When productive conflict becomes normal, decisions get sharper, implementation resistance drops, ..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"harmony addiction\" this week?"
 ---

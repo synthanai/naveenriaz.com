@@ -21,9 +21,9 @@ next_knot: "organizations/084-matrix-madness"
 next_knot_title: "Matrix Madness"
 untie_story: "A company created a \"structural debt\" register like technical debt. Quarterly reviews addressed the most costly misalignments first."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Identify one process that worked at half your current size and doesn't work now."
+  - "At every 50% growth milestone, one structural review is mandatory: communications, decision proto..."
+  - "When growth triggers structural adaptation, scaling becomes manageable, growing pains are address..."
 untie_question: "What would change in your organization if you untangled \"scaling pains\" this week?"
 ---
 

@@ -21,9 +21,9 @@ next_knot: "organizations/046-risk-theater"
 next_knot_title: "Risk Theater"
 untie_story: "A school board created a \"student impact test\" for every policy decision. Three pending policies were reversed."
 untie_practices:
-  - "Classify three pending decisions as reversible/irreversible"
-  - "Delegate one decision to the person closest to the problem"
-  - "Set a 48-hour deadline on one stalled decision"
+  - "Track one metric this week: did each meeting produce a decision?"
+  - "Every meeting has a stated decision to be made."
+  - "When meetings serve decisions, calendars open, deep work returns, and the team rediscovers that m..."
 untie_question: "What would change in your organization if you untangled \"meeting to decision ratio\" this week?"
 ---
 

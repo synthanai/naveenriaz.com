@@ -21,9 +21,9 @@ next_knot: "organizations/099-autonomy-starvation"
 next_knot_title: "Autonomy Starvation"
 untie_story: "A team introduced \"energy audits\" where each person mapped their daily peaks. Work was rescheduled to match. Output improved."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "Connect one task to one specific human impact this week."
+  - "Every team can articulate how their work connects to one real human impact."
+  - "When meaning is specific and connected, engagement deepens, discretionary effort returns, and the..."
 untie_question: "What would change in your organization if you untangled \"meaning drought\" this week?"
 ---
 

@@ -21,9 +21,9 @@ next_knot: "organizations/056-organizational-antibodies"
 next_knot_title: "Organizational Antibodies"
 untie_story: "A school redesigned schedules with teacher input at every stage. The change stuck because teachers owned it completely."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "If you are sponsoring a change, put one thing on your calendar: monthly 15-minute conversation wi..."
+  - "Every change initiative has a sponsor who maintains monthly visibility."
+  - "When sponsorship is rhythmic instead of episodic, initiatives maintain visibility, resources stay..."
 untie_question: "What would change in your organization if you untangled \"sponsorship evaporation\" this week?"
 ---
 

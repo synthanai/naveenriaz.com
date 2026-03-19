@@ -21,9 +21,9 @@ next_knot: "organizations/106-celebration-deficit"
 next_knot_title: "Celebration Deficit"
 untie_story: "A tech team replaced their retrospective with a monthly \"energy retrospective.\" What drained us? What charged us? Actions followed."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "Lend one resource to another team for one quarter."
+  - "Resource sharing is tracked and credited."
+  - "When sharing is rewarded, resources flow to where they're needed, organizational efficiency impro..."
 untie_question: "What would change in your organization if you untangled \"resource hoarding\" this week?"
 ---
 

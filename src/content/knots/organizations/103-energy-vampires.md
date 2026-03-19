@@ -21,9 +21,9 @@ next_knot: "organizations/104-urgency-addiction"
 next_knot_title: "Urgency Addiction"
 untie_story: "A factory added a 15-minute walking break to every shift. Injury rates dropped. Quality scores rose. Cost: zero."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "Audit your recurring meetings."
+  - "Every recurring process has a quarterly energy audit: does this process produce more value than i..."
+  - "When processes are audited for energy return, unnecessary rituals are eliminated, the team's avai..."
 untie_question: "What would change in your organization if you untangled \"energy vampires\" this week?"
 ---
 

@@ -21,9 +21,9 @@ next_knot: "organizations/074-silo-syndrome"
 next_knot_title: "Silo Syndrome"
 untie_story: "A company eliminated one management layer. Span of control increased but decision speed doubled and satisfaction rose."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Ask two questions about your last restructure: what behavior changed?"
+  - "Every restructure includes behavioral change indicators: specific actions that should change as a..."
+  - "When restructures target behavior alongside boxes, organizational change becomes real, and the st..."
 untie_question: "What would change in your organization if you untangled \"structural inertia\" this week?"
 ---
 

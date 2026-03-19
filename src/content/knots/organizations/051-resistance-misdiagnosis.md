@@ -21,9 +21,9 @@ next_knot: "organizations/052-momentum-decay"
 next_knot_title: "Momentum Decay"
 untie_story: "A team created a \"change fatigue thermometer\" visible to leadership. When it hit red, they paused and recovered."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "Ask the three most resistant people: what would need to be true for this change to work for you?"
+  - "Pushback is treated as diagnostic information, not as a problem to overcome."
+  - "When resistance is understood instead of overridden, change designs improve, adoption becomes vol..."
 untie_question: "What would change in your organization if you untangled \"resistance misdiagnosis\" this week?"
 ---
 

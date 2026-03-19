@@ -21,9 +21,9 @@ next_knot: "organizations/059-ungrieved-loss"
 next_knot_title: "Ungrieved Loss"
 untie_story: "A tech team measured \"behavior change\" instead of \"system adoption.\" The shift in metrics revealed the real picture."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "Define success for one active initiative in one sentence."
+  - "Every initiative has a single-sentence success definition: a measurable end state that, when achi..."
+  - "When success is defined, initiatives complete instead of lingering, resources are freed for new w..."
 untie_question: "What would change in your organization if you untangled \"success ambiguity\" this week?"
 ---
 

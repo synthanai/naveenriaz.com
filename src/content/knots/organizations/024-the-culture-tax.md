@@ -21,8 +21,9 @@ next_knot: ""
 next_knot_title: ""
 untie_story: "A nonprofit held monthly \"campfire\" sessions where anyone could share stories. The stories became the culture."
 untie_practices:
-  - "Name one unwritten cultural rule this week"
-  - "Start one meeting with a learning question"
+  - "Pick one project from last quarter."
+  - "The team spends less than 10% of its collective time on workarounds, politics, and redundant comm..."
+  - "When the culture tax drops, velocity increases without hiring, communication becomes direct, and ..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"the culture tax\" this week?"
 ---

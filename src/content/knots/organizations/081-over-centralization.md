@@ -21,9 +21,9 @@ next_knot: "organizations/082-handoff-failure"
 next_knot_title: "Handoff Failure"
 untie_story: "A government agency mapped all approval chains. Seven of twelve had steps that added no value. They removed them."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Give one local team authority over one decision this quarter."
+  - "Local teams have decision authority within defined parameters."
+  - "When local intelligence is trusted, markets are served more accurately, decision speed improves, ..."
 untie_question: "What would change in your organization if you untangled \"over centralization\" this week?"
 ---
 

@@ -21,9 +21,9 @@ next_knot: "organizations/078-governance-bloat"
 next_knot_title: "Governance Bloat"
 untie_story: "A factory redesigned the floor layout based on workflow, not department. Production increased 15% with same headcount."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Find a middle manager."
+  - "Middle managers are periodically asked: what are you carrying that nobody sees?"
+  - "When middle management load is visible, organizations stop burning out their load-bearing columns..."
 untie_question: "What would change in your organization if you untangled \"middle management squeeze\" this week?"
 ---
 

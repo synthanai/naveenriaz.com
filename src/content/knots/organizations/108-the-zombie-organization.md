@@ -21,9 +21,9 @@ next_knot: ""
 next_knot_title: ""
 untie_story: "A leadership team modeled leaving at 5pm. Within three months, the entire organization's average work hours normalized to healthy."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "Ask the first person you see: why does this organization exist?"
+  - "An annual organizational health audit measures all nine dimensions: identity, culture, trust, dec..."
+  - "When all nine dimensions are tended, the organization doesn't just operate."
 untie_question: "What would change in your organization if you untangled \"the zombie organization\" this week?"
 ---
 

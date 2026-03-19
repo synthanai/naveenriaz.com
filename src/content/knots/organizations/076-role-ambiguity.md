@@ -21,9 +21,9 @@ next_knot: "organizations/077-middle-management-squeeze"
 next_knot_title: "Middle Management Squeeze"
 untie_story: "A hospital created cross-functional pods for patient care. Outcomes improved because the whole team saw the whole patient."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Write down a recent team decision."
+  - "Every role has three documented outputs: what it produces, what it decides, and what it escalates."
+  - "When roles are clear, duplication disappears, accountability sharpens, and people stop defending ..."
 untie_question: "What would change in your organization if you untangled \"role ambiguity\" this week?"
 ---
 

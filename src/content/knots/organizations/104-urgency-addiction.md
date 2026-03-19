@@ -21,9 +21,9 @@ next_knot: "organizations/105-resource-hoarding"
 next_knot_title: "Resource Hoarding"
 untie_story: "A nonprofit scheduled quarterly \"rest sprints\" where the team worked at 60% capacity. Long-term output increased over the year."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "Label every request this week using the priority matrix."
+  - "Every incoming request is triaged: urgent-important, urgent-unimportant, not-urgent-important, no..."
+  - "When urgency is triaged, the adrenaline loop breaks, strategic work gets done, and the team disco..."
 untie_question: "What would change in your organization if you untangled \"urgency addiction\" this week?"
 ---
 

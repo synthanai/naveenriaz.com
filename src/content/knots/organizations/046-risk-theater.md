@@ -21,9 +21,9 @@ next_knot: "organizations/047-information-overload"
 next_knot_title: "Information Overload"
 untie_story: "A manager tracked how many decisions they made vs. delegated weekly. The ratio improved from 90/10 to 40/60 in a quarter."
 untie_practices:
-  - "Classify three pending decisions as reversible/irreversible"
-  - "Delegate one decision to the person closest to the problem"
-  - "Set a 48-hour deadline on one stalled decision"
+  - "Compare your risk register to the last three actual disruptions."
+  - "The risk function focuses on the unknown and unknowable, not just the categorizable."
+  - "When risk literacy replaces risk theater, the organization stops being surprised by predictable d..."
 untie_question: "What would change in your organization if you untangled \"risk theater\" this week?"
 ---
 

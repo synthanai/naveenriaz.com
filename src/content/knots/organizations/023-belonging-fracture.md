@@ -21,8 +21,9 @@ next_knot: "organizations/024-the-culture-tax"
 next_knot_title: "The Culture Tax"
 untie_story: "A bank branch let tellers redesign their own workflows. Customer satisfaction improved because tellers were happier serving."
 untie_practices:
-  - "Name one unwritten cultural rule this week"
-  - "Start one meeting with a learning question"
+  - "Ask every person on your team, one-on-one: \"What would be lost if you left?\" If they can't answer..."
+  - "Every person on the team can name one way in which the team would be diminished without them."
+  - "When belonging is real, discretionary effort rises naturally, people contribute beyond their role..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"belonging fracture\" this week?"
 ---

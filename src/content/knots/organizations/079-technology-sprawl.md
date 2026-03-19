@@ -21,9 +21,9 @@ next_knot: "organizations/080-the-bottleneck-person"
 next_knot_title: "The Bottleneck Person"
 untie_story: "A school restructured teacher teams by student cohort instead of subject. Student experience improved as teachers collaborated on the whole child."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Audit your tech stack this week."
+  - "A quarterly technology inventory maps all tools to functions."
+  - "When tools are consolidated, integration costs drop, data flows freely, and the team spends time ..."
 untie_question: "What would change in your organization if you untangled \"technology sprawl\" this week?"
 ---
 

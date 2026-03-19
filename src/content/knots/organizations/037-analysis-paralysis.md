@@ -21,9 +21,9 @@ next_knot: "organizations/038-decision-laundering"
 next_knot_title: "Decision Laundering"
 untie_story: "A team classified every pending decision as \"one-way door\" or \"two-way door.\" Two-thirds resolved within 48 hours."
 untie_practices:
-  - "Classify three pending decisions as reversible/irreversible"
-  - "Delegate one decision to the person closest to the problem"
-  - "Set a 48-hour deadline on one stalled decision"
+  - "Ask: if forced to decide today with what you know, what would you choose?"
+  - "The team can distinguish between reversible and significant decisions and applies proportional de..."
+  - "When analysis serves decisions instead of replacing them, speed becomes a competitive advantage, ..."
 untie_question: "What would change in your organization if you untangled \"analysis paralysis\" this week?"
 ---
 

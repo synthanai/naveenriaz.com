@@ -21,9 +21,9 @@ next_knot: "organizations/085-skill-obsolescence"
 next_knot_title: "Skill Obsolescence"
 untie_story: "A small business owner realized they were the bottleneck in every process. They removed themselves from three. All three improved."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Ask one person in your matrix: when your managers disagree, how do you decide?"
+  - "Every matrix role has one primary accountability owner."
+  - "When matrix accountability is primary, employees navigate with clarity, conflicts are resolved by..."
 untie_question: "What would change in your organization if you untangled \"matrix madness\" this week?"
 ---
 

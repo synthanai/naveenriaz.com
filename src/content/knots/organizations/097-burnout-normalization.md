@@ -21,9 +21,9 @@ next_knot: "organizations/098-meaning-drought"
 next_knot_title: "Meaning Drought"
 untie_story: "A CEO declared \"no meetings before 10am.\" Morning productivity increased 40%. Nobody missed the early meetings at all."
 untie_practices:
-  - "Block one meeting-free morning this week"
-  - "Take one real break today (not at desk)"
-  - "Ask your team: what drains your energy most?"
+  - "Ask your team: when was the last time you felt rested?"
+  - "Sustainable pace is measured and protected."
+  - "When sustainable pace is cultural, creativity returns, retention improves, and the organization d..."
 untie_question: "What would change in your organization if you untangled \"burnout normalization\" this week?"
 ---
 

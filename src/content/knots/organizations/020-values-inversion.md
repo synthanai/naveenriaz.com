@@ -21,8 +21,9 @@ next_knot: "organizations/021-meeting-toxicity"
 next_knot_title: "Meeting Toxicity"
 untie_story: "A factory introduced \"mistake of the month\" celebrations. Error reporting went up 400%. Error rates went down 60%."
 untie_practices:
-  - "Name one unwritten cultural rule this week"
-  - "Start one meeting with a learning question"
+  - "Pull up your values statement and your last budget side by side."
+  - "Every stated value has a corresponding budget line."
+  - "When values and budgets align, hiring decisions become clearer, strategic choices have natural fi..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"values inversion\" this week?"
 ---

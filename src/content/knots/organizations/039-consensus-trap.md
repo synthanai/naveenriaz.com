@@ -21,9 +21,9 @@ next_knot: "organizations/040-hippo-effect"
 next_knot_title: "Hippo Effect"
 untie_story: "A company introduced \"decision journals\" where leaders recorded their reasoning. Retrospectives became about process, not blame."
 untie_practices:
-  - "Classify three pending decisions as reversible/irreversible"
-  - "Delegate one decision to the person closest to the problem"
-  - "Set a 48-hour deadline on one stalled decision"
+  - "Ask each person to name their actual first choice before seeking compromise."
+  - "Decisions are made by a named decision-maker who considers all input."
+  - "When decisions are owned instead of averaged, outcomes sharpen, implementation commitment rises, ..."
 untie_question: "What would change in your organization if you untangled \"consensus trap\" this week?"
 ---
 

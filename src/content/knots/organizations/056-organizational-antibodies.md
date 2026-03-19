@@ -21,9 +21,9 @@ next_knot: "organizations/057-rhetoric-reality-gap"
 next_knot_title: "Rhetoric Reality Gap"
 untie_story: "A company assigned \"change buddies\" to pair skeptics with early adopters. Peer influence outperformed training by 3x."
 untie_practices:
-  - "Name one thing the team fears about the change"
-  - "Celebrate one small win from the change this week"
-  - "Ask three people: is the change working?"
+  - "If your change team succeeded and was then reorganized, ask: was the change discontinued because ..."
+  - "Successful innovations are protected from organizational immune response through explicit executi..."
+  - "When antibodies are recognized, successful innovations survive the system's immune response, bene..."
 untie_question: "What would change in your organization if you untangled \"organizational antibodies\" this week?"
 ---
 

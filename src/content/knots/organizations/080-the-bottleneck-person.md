@@ -21,9 +21,9 @@ next_knot: "organizations/081-over-centralization"
 next_knot_title: "Over Centralization"
 untie_story: "A tech company moved from project teams to product teams. Continuity replaced context-switching. Quality followed."
 untie_practices:
-  - "Audit one process for unnecessary approval steps"
-  - "Clarify ownership of one ambiguous responsibility"
-  - "Remove one meeting that adds no structural value"
+  - "Identify the person whose absence would cause the most disruption."
+  - "No single person is required for more than three decision categories."
+  - "When flow is distributed, the organization gains resilience, the bottleneck person regains capaci..."
 untie_question: "What would change in your organization if you untangled \"the bottleneck person\" this week?"
 ---
 
