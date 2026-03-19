@@ -1,0 +1,281 @@
+---
+import Base from "./Base.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+interface Props {
+  title: string;
+  displayTitle?: string;
+  displaySubtitle?: string;
+  description: string;
+  date: Date;
+  categories: string[];
+  tags: string[];
+}
+
+const {
+  title,
+  displayTitle,
+  displaySubtitle,
+  description,
+  date,
+  categories,
+  tags,
+} = Astro.props;
+
+const headline = displayTitle || title;
+const formattedDate = date.toLocaleDateString("en-GB", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+});
+
+// Category color mapping
+const categoryColors: Record<string, string> = {
+  "ai-emergence": "var(--mind-color)",
+  "living-organisations": "var(--soul-color)",
+  "pattern": "var(--body-color)",
+  "methodology": "var(--mind-color)",
+};
+
+const accentColor = categoryColors[categories?.[0]] || "var(--accent)";
+---
+
+<Base title={`${headline} | Collisions`} description={description}>
+  <Header activeNav="collisions" />
+  <main class="collision-page">
+    <article class="container container--narrow">
+
+      <!-- Header -->
+      <header class="collision-header animate-in">
+        <div class="collision-meta">
+          <span class="collision-category" style={`color: ${accentColor}`}>
+            {categories?.[0]?.replace(/-/g, " ").toUpperCase() || "COLLISION"}
+          </span>
+          <span class="collision-date">{formattedDate}</span>
+        </div>
+        <h1>{headline}</h1>
+        {displaySubtitle && <p class="collision-subtitle">{displaySubtitle}</p>}
+      </header>
+
+      <!-- Rendered Markdown Body -->
+      <section class="collision-body animate-in animate-delay-1">
+        <slot />
+      </section>
+
+      <!-- Tags -->
+      {tags && tags.length > 0 && (
+        <div class="collision-tags animate-in animate-delay-2">
+          {tags.map((tag) => (
+            <span class="tag-pill">{tag}</span>
+          ))}
+        </div>
+      )}
+
+      <!-- Navigation -->
+      <nav class="collision-nav">
+        <a href="/collisions/" class="btn">← All Collisions</a>
+      </nav>
+
+    </article>
+  </main>
+  <Footer />
+</Base>
+
+<style define:vars={{ accentColor }}>
+  .collision-page {
+    padding: var(--space-3xl) 0;
+  }
+
+  /* ── Header ──────────────────────────────────── */
+  .collision-header {
+    text-align: center;
+    margin-bottom: var(--space-3xl);
+  }
+
+  .collision-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--space-lg);
+  }
+
+  .collision-category {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .collision-date {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    opacity: 0.6;
+  }
+
+  .collision-header h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    color: var(--text-primary) !important;
+    margin-bottom: var(--space-md);
+    line-height: 1.15;
+  }
+
+  .collision-subtitle {
+    font-size: 1.1rem;
+    font-style: italic;
+    color: var(--text-secondary);
+    max-width: 640px;
+    margin: 0 auto;
+    line-height: 1.6;
+    opacity: 0.85;
+  }
+
+  /* ── Body (rendered markdown) ────────────────── */
+  .collision-body {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  .collision-body :global(h2) {
+    font-size: 1.4rem;
+    margin-top: var(--space-3xl);
+    margin-bottom: var(--space-md);
+    color: var(--accentColor, var(--accent)) !important;
+  }
+
+  .collision-body :global(p) {
+    font-size: 1.05rem;
+    line-height: 1.85;
+    margin-bottom: var(--space-lg);
+  }
+
+  .collision-body :global(strong) {
+    color: var(--text-primary);
+  }
+
+  .collision-body :global(blockquote) {
+    border-left: 3px solid var(--accentColor, var(--accent));
+    padding-left: var(--space-lg);
+    margin: var(--space-xl) 0;
+    font-style: italic;
+    color: var(--text-secondary);
+  }
+
+  .collision-body :global(hr) {
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    margin: var(--space-3xl) 0;
+  }
+
+  /* Collision Point callout */
+  .collision-body :global(h2:nth-of-type(3)) {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    font-weight: 800;
+    text-align: center;
+    margin-top: var(--space-4xl);
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-md);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.06);
+  }
+
+  /* Tables */
+  .collision-body :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: var(--space-xl) 0;
+    font-size: 0.88rem;
+  }
+
+  .collision-body :global(th) {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accentColor, var(--accent));
+    text-align: left;
+    padding: var(--space-sm) var(--space-md);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .collision-body :global(td) {
+    padding: var(--space-sm) var(--space-md);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    color: var(--text-secondary);
+    line-height: 1.5;
+    vertical-align: top;
+  }
+
+  .collision-body :global(tr:hover td) {
+    background: rgba(255, 255, 255, 0.02);
+  }
+
+  /* Lists */
+  .collision-body :global(ul),
+  .collision-body :global(ol) {
+    padding-left: var(--space-xl);
+    margin-bottom: var(--space-lg);
+  }
+
+  .collision-body :global(li) {
+    font-size: 1.02rem;
+    line-height: 1.75;
+    margin-bottom: var(--space-sm);
+    color: var(--text-secondary);
+  }
+
+  /* ── Tags ─────────────────────────────────────── */
+  .collision-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-top: var(--space-3xl);
+    padding-top: var(--space-xl);
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+  }
+
+  .tag-pill {
+    font-family: var(--font-label);
+    font-size: 0.62rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    opacity: 0.5;
+    padding: 4px 12px;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.02);
+  }
+
+  /* ── Navigation ──────────────────────────────── */
+  .collision-nav {
+    display: flex;
+    justify-content: center;
+    margin-top: var(--space-2xl);
+    padding-top: var(--space-xl);
+  }
+
+  /* ── Responsive ──────────────────────────────── */
+  @media (max-width: 768px) {
+    .collision-meta {
+      flex-direction: column;
+      gap: var(--space-xs);
+    }
+
+    .collision-body :global(table) {
+      font-size: 0.78rem;
+    }
+
+    .collision-body :global(th),
+    .collision-body :global(td) {
+      padding: var(--space-xs) var(--space-sm);
+    }
+  }
+</style>

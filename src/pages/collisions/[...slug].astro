@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import CollisionLayout from '../../layouts/CollisionLayout.astro';
+
+export async function getStaticPaths() {
+  const collisions = await getCollection('collisions');
+  return collisions.map((collision) => ({
+    params: { slug: collision.slug },
+    props: { collision },
+  }));
+}
+
+const { collision } = Astro.props;
+const { Content } = await collision.render();
+const d = collision.data;
+---
+
+<CollisionLayout
+  title={d.title}
+  displayTitle={d.display_title}
+  displaySubtitle={d.display_subtitle}
+  description={d.description}
+  date={d.date}
+  categories={d.categories}
+  tags={d.tags}
+>
+  <Content />
+</CollisionLayout>
