@@ -8,7 +8,7 @@
       "repo": "spar-kit",
       "fileCount": 134,
       "firstSeen": "2026-01-14T09:37:15+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "dmg",
@@ -18,7 +18,7 @@
       "repo": "decision-moment-graph",
       "fileCount": 128,
       "firstSeen": "2026-01-26T17:21:24+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "ramp",
@@ -28,7 +28,7 @@
       "repo": "ramp-kit",
       "fileCount": 29,
       "firstSeen": "2026-01-17T08:09:33+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "steal",
@@ -38,7 +38,7 @@
       "repo": "steal-kit",
       "fileCount": 4,
       "firstSeen": "2026-02-27T19:15:55+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "vault",
@@ -48,7 +48,7 @@
       "repo": "vault-kit",
       "fileCount": 43,
       "firstSeen": "2026-01-26T12:33:57+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "kural",
@@ -58,7 +58,7 @@
       "repo": "kural",
       "fileCount": 95,
       "firstSeen": "2026-01-19T19:57:35+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "agentic",
@@ -68,7 +68,7 @@
       "repo": "agentic-kit",
       "fileCount": 84,
       "firstSeen": "2026-01-26T17:21:24+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "resonance",
@@ -78,7 +78,7 @@
       "repo": "resonance-kit",
       "fileCount": 2049,
       "firstSeen": "2026-01-27T12:32:03+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "vow",
@@ -88,7 +88,7 @@
       "repo": "vow-engine",
       "fileCount": 5,
       "firstSeen": "2026-01-27T12:32:03+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "iot-paper",
@@ -96,9 +96,9 @@
       "dimension": "think",
       "description": "GPS for AI Reasoning (arXiv published)",
       "repo": "intent-of-thought",
-      "fileCount": 1560,
+      "fileCount": 55,
       "firstSeen": "2026-03-03T04:57:16+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "spar-arena",
@@ -108,7 +108,7 @@
       "repo": "spar-arena",
       "fileCount": 675,
       "firstSeen": "2026-01-21T22:36:26+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "books",
@@ -118,7 +118,7 @@
       "repo": null,
       "fileCount": 0,
       "firstSeen": null,
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     },
     {
       "id": "student",
@@ -128,7 +128,7 @@
       "repo": "student-kit",
       "fileCount": 75,
       "firstSeen": "2026-02-18T04:44:13+11:00",
-      "lastModified": "2026-03-19T12:49:37+11:00"
+      "lastModified": "2026-03-19T18:02:29+11:00"
     }
   ],
   "edges": [
