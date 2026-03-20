@@ -1,7 +1,6 @@
 ---
 title: "Your AI Is Burning Out Your Best People"
 date: 2026-03-20
-source: "https://synthai.biz/research/ai-fatigue"
 signal: "Productivity gains from AI tools can reverse past a threshold. Not diminish. Reverse. More tools create more decisions, more oversight, more cognitive load. The tool that promised relief became the source of burnout."
 temperature: "🔥🔥🔥"
 tags: ["ai-fatigue", "burnout", "edc", "governance"]

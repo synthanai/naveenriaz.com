@@ -1,7 +1,6 @@
 ---
 title: "Enthusiasm-Driven Compromise"
 date: 2026-03-20
-source: "https://synthai.biz/research/edc"
 signal: "Every technology adoption follows the same arc: excitement erodes the governance needed to use it well. The enthusiasm IS the compromise. We predicted AI fatigue before the industry observed it."
 temperature: "🔥🔥🔥"
 tags: ["edc", "governance", "prediction", "validation"]

@@ -1,7 +1,6 @@
 ---
 title: "Teach, Don't Install"
 date: 2026-03-20
-source: "https://synthai.biz/research/ai-consulting"
 signal: "Most AI consultants install tools. The valuable ones teach organisations to think differently. The difference between a tool installer and a diagnostic physician is the difference between treating symptoms and treating causes."
 temperature: "🔥"
 tags: ["consulting", "teaching", "mbs", "organisational-health"]

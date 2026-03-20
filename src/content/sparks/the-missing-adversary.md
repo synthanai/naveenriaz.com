@@ -1,7 +1,6 @@
 ---
 title: "The Missing Adversary"
 date: 2026-03-20
-source: "https://github.com/nicholasgasior/commonplace"
 signal: "A knowledge management system generates boundary cases to break its own claims before publishing them. Your AI writes great notes. Who checks if they are true?"
 temperature: "🔥🔥"
 tags: ["semantic-review", "adversarial-testing", "knowledge-quality"]

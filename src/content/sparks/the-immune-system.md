@@ -1,7 +1,6 @@
 ---
 title: "The Immune System"
 date: 2026-03-20
-source: "https://www.linkedin.com/pulse/self-improving-ai-workflows-klaus-kaan"
 signal: "A solo practitioner independently converged on multi-agent architecture, adversarial review loops, and self-improving workflows, calling the adversarial layer 'the immune system.'"
 temperature: "🔥🔥🔥"
 tags: ["convergent-evolution", "self-improving", "adversarial-review"]

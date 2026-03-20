@@ -1,7 +1,6 @@
 ---
 title: "The $1 Notebook Fallacy"
 date: 2026-03-20
-source: "https://www.businessinsider.com/nyu-professor-bans-ai-notebooks"
 signal: "An NYU professor banned AI and gave students $1 notebooks. She solved a Soul problem with a Body fix. She banned the calculator instead of teaching mathematics."
 temperature: "🔥🔥"
 tags: ["education", "ai-empowerment", "purpose-amnesia"]

@@ -1,7 +1,6 @@
 ---
 title: "Observe, Question, Codify"
 date: 2026-03-20
-source: "https://www.linkedin.com/pulse/self-improving-ai-workflows-klaus-kaan"
 signal: "A practitioner turned 24 commits to a single config file into a self-improving AI system. The pattern: observe what fails, question the assumption, codify the fix as a rule."
 temperature: "🔥"
 tags: ["self-improving", "workflow-evolution", "oqc"]

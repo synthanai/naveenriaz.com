@@ -1,7 +1,6 @@
 ---
 title: "Body Fix for a Soul Problem"
 date: 2026-03-20
-source: "https://synthai.biz/research"
 signal: "Organisations restructure when they need purpose. Teams add process when they need trust. Leaders hire when they need clarity. The pattern repeats everywhere: treating symptoms at the wrong layer."
 temperature: "🔥🔥"
 tags: ["mbs", "diagnostics", "organisational-health"]

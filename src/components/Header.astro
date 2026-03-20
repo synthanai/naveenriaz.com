@@ -5,7 +5,9 @@ interface Props {
 
 const { activeNav } = Astro.props;
 
-const parentMap: Record<string, string> = {};
+const parentMap: Record<string, string> = {
+  sparks: "think",
+};
 const resolvedNav = parentMap[activeNav ?? ""] ?? activeNav;
 
 const navItems = [

@@ -1,7 +1,6 @@
 ---
 title: "Context Rot"
 date: 2026-03-20
-source: "https://www.linkedin.com/pulse/ai-velocity-illusion"
 signal: "Every AI-generated artifact starts decaying the moment it is created. The reasoning that produced it is ephemeral. The context window closes. The decision logic evaporates. What remains is output without origin."
 temperature: "🔥"
 tags: ["context-rot", "knowledge-management", "6r"]

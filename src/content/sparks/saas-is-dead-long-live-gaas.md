@@ -1,7 +1,6 @@
 ---
 title: "SaaS is Dead. Long Live GaaS."
 date: 2026-03-20
-source: "https://www.youtube.com/watch?v=nvidia-nemoclaw-keynote"
 signal: "Jensen Huang declared OpenClaw 'as big as Linux' and predicted every SaaS company will become a GaaS company, paying employees token budgets worth 50% of base salary."
 temperature: "🔥🔥"
 tags: ["nvidia", "openclaw", "agentic-os", "enterprise"]

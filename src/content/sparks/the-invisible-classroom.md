@@ -1,7 +1,6 @@
 ---
 title: "The Invisible Classroom"
 date: 2026-03-20
-source: "https://www.youtube.com/watch?v=drew-bent-eo-interview"
 signal: "Anthropic's Education Lead says the gap between average and elite AI users is not technical. It is social. Using AI well is a social skill, not a coding skill."
 temperature: "🔥🔥"
 tags: ["anthropic", "education", "collaborator-posture", "social-skill"]
