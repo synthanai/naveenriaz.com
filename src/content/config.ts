@@ -52,4 +52,18 @@ const knots = defineCollection({
   }),
 });
 
-export const collections = { collisions, knots };
+const sparks = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    date: z.coerce.date(),
+    source: z.string(),
+    signal: z.string(),
+    temperature: z.enum(['🔥', '🔥🔥', '🔥🔥🔥']),
+    tags: z.array(z.string()),
+    description: z.string(),
+    collision_link: z.string().optional(),
+  }),
+});
+
+export const collections = { collisions, knots, sparks };

@@ -1,0 +1,29 @@
+---
+import { getCollection } from 'astro:content';
+import SparkLayout from '../../layouts/SparkLayout.astro';
+
+export async function getStaticPaths() {
+  const sparks = await getCollection('sparks');
+  return sparks.map((spark) => ({
+    params: { slug: spark.slug },
+    props: { spark },
+  }));
+}
+
+const { spark } = Astro.props;
+const { Content } = await spark.render();
+const d = spark.data;
+---
+
+<SparkLayout
+  title={d.title}
+  description={d.description}
+  date={d.date}
+  source={d.source}
+  signal={d.signal}
+  temperature={d.temperature}
+  tags={d.tags}
+  collisionLink={d.collision_link}
+>
+  <Content />
+</SparkLayout>

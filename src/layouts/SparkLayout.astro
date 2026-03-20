@@ -1,0 +1,264 @@
+---
+import Base from "./Base.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  source: string;
+  signal: string;
+  temperature: string;
+  tags: string[];
+  collisionLink?: string;
+}
+
+const {
+  title,
+  description,
+  date,
+  source,
+  signal,
+  temperature,
+  tags,
+  collisionLink,
+} = Astro.props;
+
+const formattedDate = date.toLocaleDateString("en-GB", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+});
+
+const tempColors: Record<string, string> = {
+  "🔥": "var(--body-color)",
+  "🔥🔥": "var(--soul-color)",
+  "🔥🔥🔥": "var(--mind-color)",
+};
+
+const accentColor = tempColors[temperature] || "var(--accent)";
+---
+
+<Base title={`${title} | Sparks`} description={description}>
+  <Header activeNav="sparks" />
+  <main class="spark-page">
+    <article class="container container--narrow">
+
+      <!-- Header -->
+      <header class="spark-header animate-in">
+        <div class="spark-meta">
+          <span class="spark-temp" style={`color: ${accentColor}`}>
+            {temperature} SPARK
+          </span>
+          <span class="spark-date">{formattedDate}</span>
+        </div>
+        <h1>{title}</h1>
+        <p class="spark-signal">{signal}</p>
+      </header>
+
+      <!-- Body -->
+      <section class="spark-body animate-in animate-delay-1">
+        <slot />
+      </section>
+
+      <!-- Source -->
+      <div class="spark-source animate-in animate-delay-2">
+        <span class="source-label">SOURCE</span>
+        <a href={source.startsWith("http") ? source : "#"} target="_blank" rel="noopener">
+          {source}
+        </a>
+      </div>
+
+      <!-- Collision Link -->
+      {collisionLink && (
+        <div class="spark-collision-link animate-in animate-delay-2">
+          <a href={collisionLink} class="btn btn--collision">
+            Read the full collision →
+          </a>
+        </div>
+      )}
+
+      <!-- Tags -->
+      {tags && tags.length > 0 && (
+        <div class="spark-tags animate-in animate-delay-2">
+          {tags.map((tag) => (
+            <span class="tag-pill">{tag}</span>
+          ))}
+        </div>
+      )}
+
+      <!-- Navigation -->
+      <nav class="spark-nav">
+        <a href="/sparks/" class="btn">← All Sparks</a>
+      </nav>
+
+    </article>
+  </main>
+  <Footer />
+</Base>
+
+<style define:vars={{ accentColor }}>
+  .spark-page {
+    padding: var(--space-3xl) 0;
+  }
+
+  /* ── Header ── */
+  .spark-header {
+    text-align: center;
+    margin-bottom: var(--space-2xl);
+  }
+
+  .spark-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--space-lg);
+  }
+
+  .spark-temp {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .spark-date {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    opacity: 0.6;
+  }
+
+  .spark-header h1 {
+    font-size: clamp(1.8rem, 4.5vw, 2.5rem);
+    color: var(--text-primary) !important;
+    margin-bottom: var(--space-md);
+    line-height: 1.2;
+  }
+
+  .spark-signal {
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+    opacity: 0.85;
+    border-left: 3px solid var(--accentColor, var(--accent));
+    padding-left: var(--space-md);
+    text-align: left;
+  }
+
+  /* ── Body ── */
+  .spark-body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .spark-body :global(p) {
+    font-size: 1.08rem;
+    line-height: 1.85;
+    margin-bottom: var(--space-lg);
+  }
+
+  .spark-body :global(strong) {
+    color: var(--text-primary);
+  }
+
+  /* ── Source ── */
+  .spark-source {
+    text-align: center;
+    margin-top: var(--space-xl);
+    padding-top: var(--space-lg);
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+  }
+
+  .source-label {
+    font-family: var(--font-label);
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: var(--text-muted);
+    opacity: 0.4;
+    display: block;
+    margin-bottom: var(--space-xs);
+  }
+
+  .spark-source a {
+    font-size: 0.82rem;
+    color: var(--accentColor, var(--accent));
+    word-break: break-all;
+  }
+
+  /* ── Collision Link ── */
+  .spark-collision-link {
+    text-align: center;
+    margin-top: var(--space-xl);
+  }
+
+  .btn--collision {
+    background: linear-gradient(135deg, rgba(40, 116, 166, 0.15), rgba(212, 168, 67, 0.15));
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: var(--space-sm) var(--space-xl);
+    border-radius: var(--border-radius);
+    color: var(--text-primary);
+    font-family: var(--font-label);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .btn--collision:hover {
+    background: linear-gradient(135deg, rgba(40, 116, 166, 0.25), rgba(212, 168, 67, 0.25));
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+
+  /* ── Tags ── */
+  .spark-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-top: var(--space-xl);
+    padding-top: var(--space-lg);
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+  }
+
+  .tag-pill {
+    font-family: var(--font-label);
+    font-size: 0.55rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    opacity: 0.5;
+    padding: 3px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.02);
+  }
+
+  /* ── Navigation ── */
+  .spark-nav {
+    display: flex;
+    justify-content: center;
+    margin-top: var(--space-2xl);
+    padding-top: var(--space-xl);
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 768px) {
+    .spark-meta {
+      flex-direction: column;
+      gap: var(--space-xs);
+    }
+  }
+</style>
