@@ -13,7 +13,7 @@ A developer I have never met just published my architecture.
 
 Nyk, co-founder of Builderz, built a system called the Council of High Intelligence. Eleven Claude Code subagents modelled on historical thinkers. Arranged in polarity pairs. Run through structured rounds. Governed by anti-recursion safeguards. When agreement exceeds 70%, a dissent quota forces counter-arguments.
 
-I have been building SPAR for 18 months: multiple AI agents with distinct perspectives, arranged adversarially, run through constrained deliberation.
+I have been building SPAR for 6 months: multiple AI agents with distinct perspectives, arranged adversarially, run through constrained deliberation.
 
 We have never spoken. We work in different domains. We use different terminology. We arrived at the same architecture.
 
