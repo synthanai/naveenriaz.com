@@ -7,7 +7,7 @@ interface Props {
   title: string;
   description: string;
   date: Date;
-  source: string;
+  source?: string;
   signal: string;
   temperature: string;
   tags: string[];
@@ -63,12 +63,14 @@ const accentColor = tempColors[temperature] || "var(--accent)";
       </section>
 
       <!-- Source -->
-      <div class="spark-source animate-in animate-delay-2">
-        <span class="source-label">SOURCE</span>
-        <a href={source.startsWith("http") ? source : "#"} target="_blank" rel="noopener">
-          {source}
-        </a>
-      </div>
+      {source && (
+        <div class="spark-source animate-in animate-delay-2">
+          <span class="source-label">SOURCE</span>
+          <a href={source.startsWith("http") ? source : "#"} target="_blank" rel="noopener">
+            {source}
+          </a>
+        </div>
+      )}
 
       <!-- Collision Link -->
       {collisionLink && (
