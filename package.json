@@ -7,7 +7,8 @@
         "pulse": "node scripts/pulse-scanner.mjs",
         "dev": "npm run pulse && astro dev",
         "start": "npm run pulse && astro dev",
-        "build": "npm run pulse && astro build",
+        "build": "astro build",
+        "build:local": "npm run pulse && astro build",
         "preview": "astro preview",
         "astro": "astro"
     },
