@@ -29,29 +29,29 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"broken promises loop\" this week?"
 ---
 
-Guard yourself from anger. Unguarded, anger will destroy you.
-Valluvar's warning is reflexive: the destruction comes back to the source.
-Broken promises work the same way. The leader who breaks a promise thinks the damage lands on the team. It doesn't. It lands on the leader's credibility, on the organization's capacity to ask for commitment, on every future promise the organization will ever make.
-The broken promise destroys the promise-maker.
-Your team remembers every unkept commitment. Every single one.
+There is a bridge in your city that looks perfectly solid.
 
-Twitter broke every promise it made.
-I tracked them through the research.
-The promise to creators: 'We'll build monetization tools.' Super Follows launched in 2021, used by fewer than 5% of eligible creators.
-The promise to employees: 'Remote work is permanent.' Reversed when Musk acquired the company.
-The promise to advertisers: 'Brand safety is our priority.' Content moderation was gutted post-acquisition.
-The broken promises loop isn't about individual betrayals.
-It's about an organization that treats promises as intentions rather than obligations, and wonders why nobody believes the next one.
+The engineers inspected it last year. No visible cracks. No sagging. The report said structurally sound. But inside the steel, in places no instrument can photograph, something is happening.
 
-Trust doesn't break once. It fatigues.
-In materials science, metal fatigue occurs when a material is subjected to repeated stress cycles, each individually below the breaking point. No single load causes failure. But the cumulative effect of many small stresses creates microscopic cracks that propagate until the structure fails catastrophically.
-Broken promises operate identically. The late start to the meeting. The restructure that contradicted last month's assurance. The values initiative that was quietly abandoned. The career development plan that nobody followed up on.
-No single broken promise is devastating. But each one adds a micro-crack. And organizations, like metals, don't show fatigue until they fracture.
+In materials science, they call it fatigue. Not the kind you feel on a Friday afternoon. The kind that kills bridges. Metal fatigue occurs when a material is subjected to repeated stress cycles, each individually below the breaking point. No single load causes failure. But the cumulative effect of many small stresses creates microscopic cracks that propagate silently, invisibly, until the structure fails catastrophically.
 
-Keep one small promise today. Not a grand gesture. Not a strategic commitment.
-One small thing you said you'd do.
-Do it. Visibly. On time.
-Trust isn't rebuilt with speeches. It's rebuilt with receipts.
+The bridge doesn't warn you. It doesn't groan louder each year. It looks exactly the same on the day it collapses as it did on the day it was built.
+
+Now replace "bridge" with "team."
+
+A manager promised the restructure would protect jobs. It didn't. She promised the new system would reduce admin. It increased it. She promised the offsite would address concerns. It addressed the agenda.
+
+No single broken promise was devastating. The late start to the Tuesday meeting. The mentorship programme announced in January, gone by March. The career development conversation that was scheduled, rescheduled, then quietly forgotten.
+
+Each one, individually, was below the breaking point.
+
+But each one added a micro-crack. And organizations, like bridges, don't show fatigue until they fracture.
+
+Thiruvalluvar wrote: guard yourself from anger. Unguarded, anger will destroy you. A broken promise is a form of organizational anger, a betrayal of intention that destroys the one who breaks it. The team's trust doesn't explode. It fatigues. And the leader who broke the promises is the last person to see the cracks, because the bridge still looks fine from the top.
+
+The team remembers every unkept commitment. Every single one.
+
+They stopped saying so. That's not forgiveness. That's fatigue.
 
 That skepticism has a name. **Broken Promises Loop**.
 And once you see it, you can't unsee it.

@@ -32,37 +32,40 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"vision inflation\" this week?"
 ---
 
-One who does not measure themselves will seem to exist but will vanish without trace.
-Valluvar's warning was about individuals, but I've watched entire companies disappear this way.
-The vision gets bigger every all-hands. Q1: "We're going to be the leading platform." Q2: "We're going to transform the industry." Q3: "We're going to change how the world works."
-The words get grander. The roadmap stays the same.
-At some point, the gap between where you say you're going and where you actually are becomes so wide that nobody takes either seriously.
+"We need to think bigger," Ravi said, pulling up the new slide deck. Three pillars. A flywheel diagram. The words GLOBAL IMPACT in 48-point type.
 
-Travis Kalanick's Uber had 14 original values.
-I catalogued them. 'Always be hustlin.' 'Toe-stepping.' 'Principled confrontation.' 'Meritocracy and toe-stepping' was literally a value.
-By 2017, the culture those values created had produced: allegations of systemic sexual harassment, a trade secret lawsuit from Google, the #DeleteUber campaign, and a CEO whose behavior forced the board to remove him.
-The values weren't violated.
-They were followed.
-That was the problem.
-Uber didn't forget its culture.
-It remembered it perfectly.
-The culture was the disease.
+His mentor, Sundar, set down his chai. "Ravi, what did your factory floor team ship last week?"
 
-This is how organizations suffocate on their own ambition.
-In physiology, altitude sickness occurs when the body ascends faster than it can acclimatize. The air thins, the blood oxygen drops, and the brain starts misfiring.
-The symptoms are insidious: euphoria first, then confusion, then collapse.
-Organizational vision inflation follows the same curve. The soaring rhetoric creates a high. The team feels invincible.
-But nothing has changed on the ground. Operations haven't scaled. Capacity hasn't grown. The oxygen hasn't arrived.
-By the time confusion sets in, you're too high to descend safely.
+"That's not -- I'm talking about the three-year vision. The board presentation."
 
-Look at your team's work this week.
-Can you draw a straight, undeniable line from Tuesday's task list to the grand vision on the wall?
-If you can't, the vision isn't too big.
-It's just too far away to be useful. Altitude without a route map is just vertigo.
+"I know what you're talking about. I'm asking what Priya's team in Pune actually delivered on Friday."
+
+Ravi hesitated. "A batch of the compliance module. Some bug fixes. Why?"
+
+"Can Priya tell me how her bug fixes connect to --" Sundar gestured at the screen -- "this? GLOBAL IMPACT?"
+
+"She understands the big picture."
+
+"Ask her. I'll wait."
+
+Ravi didn't call Priya. He already knew the answer.
+
+Sundar leaned forward. "Listen, da. I've watched three CTOs do this same thing. The vision gets bigger every board cycle. First it's 'make compliance simple.' Then 'transform regulatory technology.' Then 'reshape how industries govern themselves.' Each version is grander. Each version is further from what anyone actually does on Monday morning."
+
+"That's called ambition."
+
+"That's called inflation. When the vision outgrows the operation, you haven't inspired people. You've abandoned them. They can't see themselves in a poster about reshaping industries. They can see themselves in 'make compliance simple.' One is a North Star. The other is a motivational poster in a lift that nobody reads."
+
+Ravi stared at the slide. GLOBAL IMPACT stared back.
+
+"Thiruvalluvar had a line for this," Sundar said quietly. "One who does not measure themselves will seem to exist but will vanish without trace. Your vision isn't too big. It's just too far away to matter to the people who do the actual work."
+
+"So what, we shrink the vision?"
+
+"You close the gap. Ask three people on the floor: how does your work this week connect to our vision? If they give you a rehearsed answer or a blank stare, the vision isn't landing. It's floating."
 
 That vertigo has a name. **Vision Inflation**.
 And once you see it, you can't unsee it.
----
 
 ## Untie The Knot
 

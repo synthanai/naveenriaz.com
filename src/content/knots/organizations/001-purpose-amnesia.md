@@ -30,34 +30,32 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"purpose amnesia\" this week?"
 ---
 
-No greater ruin than forgetting.
-Thiruvalluvar wrote that line two thousand years ago about virtue, but he could have been sitting in your quarterly planning meeting.
-Because that's exactly what happens to purpose. Nobody destroys it. Nobody votes it out. Everybody just forgets to mention it, one Monday at a time, until the mission statement is just a sentence on a wall that nobody reads.
+I hired a woman last March. Brilliant. Two Masters degrees. She came from a competitor.
 
-I spent three months inside Kodak's research file before I could name what I was seeing.
-George Eastman founded the company to 'make the camera as convenient as the pencil.' By the 1990s, nobody in Rochester could recite that sentence.
-When Steve Sasson invented the digital camera inside Kodak in 1975, management buried it.
-Not because they didn't understand it, but because they understood it too well.
-Digital would kill film.
-Film was 70% margins.
-So Kodak's founding purpose, democratize photography, was sacrificed to protect Kodak's founding product.
-The purpose didn't die in a crisis.
-It was quietly suffocated by a spreadsheet.
+On her third day, I took her for coffee and asked: "So, why does this company exist?"
 
-It didn't vanish in a crisis. It thinned out one "let's be practical" at a time.
-In signal processing, this is called attenuation: a signal that weakens not because something blocks it, but because nothing amplifies it.
-The frequency is still there, technically. But the power drops below the noise floor.
-Every meeting that skipped the "why" was another decibel lost.
-Eventually, the purpose signal was still transmitting, but nobody could hear it over the operational noise.
+She smiled politely. "To deliver innovative solutions for—" She stopped. Looked at her cup. "I'm sorry, I actually read that on the careers page. I don't really know."
 
-Try this in your next one-on-one with a new hire.
-Don't ask them what their goals are. Don't ask about their role.
-Ask them: "why does this team exist?"
-Watch their face before they answer. That pause tells you everything.
+I nodded. Told her not to worry. Told her she'd figure it out.
+
+The truth is, I couldn't have answered either.
+
+I founded this company seven years ago with a sentence I could say in my sleep: we exist to make compliance invisible for small manufacturers. I said it to investors, to early hires, to my wife at 2am when the doubt hit. That sentence was the spine of every decision we made for the first three years.
+
+Then we grew. Compliance expanded into risk management. Risk management became "enterprise resilience." The board wanted adjacencies. The sales team wanted broader positioning. Each quarter, the sentence stretched a little further. Nobody changed it. Nobody had to. It just stopped being said.
+
+I went back and checked our last twelve all-hands recordings. Not once did anyone, including me, say the word "compliance." Our founding reason. Twelve months. Zero mentions.
+
+In signal processing, they call this attenuation: a signal that weakens not because something blocks it, but because nothing amplifies it. The frequency is still there, technically. But the power drops below the noise floor. Every meeting that skipped the "why" was another decibel lost. Eventually, the purpose was still transmitting, but nobody could hear it over the operational noise.
+
+I tried the coffee question with six more people after that. Two gave me the careers page. Three described their department's function. One, a five-year veteran, said: "Honestly? To make money, I suppose."
+
+That pause before the answer. That micro-expression of embarrassment. That's how you diagnose this. You don't need an audit. You need one honest question asked to one person who hasn't rehearsed.
+
+The mission didn't die. I starved it while I was busy.
 
 That silence has a name. **Purpose Amnesia**.
 And once you see it, you can't unsee it.
----
 
 ## Untie The Knot
 
