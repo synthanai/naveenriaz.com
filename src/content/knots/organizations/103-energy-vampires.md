@@ -54,7 +54,7 @@ For each, ask: if this meeting didn't happen, what would go wrong?
 If the honest answer is 'nothing,' cancel it.
 Every cancelled vampire meeting returns one hour of energy to the host.
 
-That relentless drain has a name. #Energy #Vampires.
+That relentless drain has a name. **Energy Vampires**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

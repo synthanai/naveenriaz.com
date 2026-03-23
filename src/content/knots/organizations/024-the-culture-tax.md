@@ -56,7 +56,7 @@ Divide that by total project hours.
 That percentage is your culture tax rate.
 If it's above 15%, your culture is more expensive than your strategy.
 
-That hidden invoice has a name. #The #Culture #Tax.
+That hidden invoice has a name. **The Culture Tax**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

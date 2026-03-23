@@ -60,7 +60,7 @@ Can you draw a straight, undeniable line from Tuesday's task list to the grand v
 If you can't, the vision isn't too big.
 It's just too far away to be useful. Altitude without a route map is just vertigo.
 
-That vertigo has a name. #Vision #Inflation.
+That vertigo has a name. **Vision Inflation**.
 And once you see it, you can't unsee it.
 ---
 

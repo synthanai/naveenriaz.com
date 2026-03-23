@@ -55,7 +55,7 @@ For one week, label every incoming request: urgent-important, urgent-unimportant
 If more than 40% are urgent-unimportant, the urgency is manufactured.
 Your team doesn't need faster response. It needs better triage.
 
-That adrenaline loop has a name. #Urgency #Addiction.
+That adrenaline loop has a name. **Urgency Addiction**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

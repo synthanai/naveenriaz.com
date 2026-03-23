@@ -53,7 +53,7 @@ Now ask: did those teams discover each other, or were they assigned to each othe
 If collaboration only happens when mandated, you don't have synergy.
 You have a structural fault line with a workshop calendar taped over it.
 
-That gap has a name. #Siloed #Synergy.
+That gap has a name. **Siloed Synergy**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

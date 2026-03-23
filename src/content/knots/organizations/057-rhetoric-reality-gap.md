@@ -51,7 +51,7 @@ Now find the action that produced it.
 If the phrase has a budget, a team, and a metric, it's a signal.
 If it only has a slide, it's an echo.
 
-That hollow reverberation has a name. #Rhetoric-Reality #Gap.
+That hollow reverberation has a name. **Rhetoric-Reality Gap**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

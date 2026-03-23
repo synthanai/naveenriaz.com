@@ -53,7 +53,7 @@ The honest version, with the uncertainty intact.
 "We don't have all the answers yet, but here's what we know."
 That sentence kills more rumors than any communications policy ever written.
 
-That whisper network has a name. #Gossip #Economy.
+That whisper network has a name. **Gossip Economy**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

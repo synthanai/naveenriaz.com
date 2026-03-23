@@ -57,7 +57,7 @@ you're inside the zombie.
 The cure isn't a new strategy.
 It's a new heartbeat.
 
-That walking dead has a name. #The #Zombie #Organization.
+That walking dead has a name. **The Zombie Organization**.
 And once you see it, you can't unsee it.
 
 This is knot 108. The last thread.

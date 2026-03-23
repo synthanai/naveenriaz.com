@@ -58,7 +58,7 @@ For each, ask: is their knowledge documented, shared, or solely in their head?
 If the answer is 'solely in their head,' that knowledge is one resignation away from extinction.
 Start the transfer today. Don't wait for the notice.
 
-That permanent loss has a name. #Knowledge #Extinction.
+That permanent loss has a name. **Knowledge Extinction**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

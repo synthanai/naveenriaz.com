@@ -55,7 +55,7 @@ For each stated value, find the line item that funds it.
 If "innovation" has no R&D budget, if "wellbeing" has no mental health spend, if "growth" has no learning allocation,
 then your values aren't inverted by accident. They're inverted by spreadsheet.
 
-That contradiction has a name. #Values #Inversion.
+That contradiction has a name. **Values Inversion**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

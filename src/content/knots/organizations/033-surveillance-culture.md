@@ -57,7 +57,7 @@ Measure what happens to output, not activity.
 If nothing changes, the tool was measuring compliance, not contribution.
 If output improves, the tool was the problem.
 
-That watchtower has a name. #Surveillance #Culture.
+That watchtower has a name. **Surveillance Culture**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

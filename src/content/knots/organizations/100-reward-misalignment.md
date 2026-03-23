@@ -54,7 +54,7 @@ Did any reward prevention? Quiet reliability? Invisible excellence?
 If all five rewarded crisis response, your system is training for crises.
 Reward one preventer publicly this week. Change the conditioning.
 
-That backward incentive has a name. #Reward #Misalignment.
+That backward incentive has a name. **Reward Misalignment**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

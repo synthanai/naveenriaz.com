@@ -55,7 +55,7 @@ Not expected it. Not demanded it. Earned it.
 If the answer is a list of things employees have given, you're looking at extraction.
 Loyalty is a two-entry ledger. Check both columns.
 
-That one-way debt has a name. #Loyalty #Extraction.
+That one-way debt has a name. **Loyalty Extraction**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

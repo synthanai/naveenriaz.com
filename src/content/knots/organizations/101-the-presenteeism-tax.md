@@ -50,7 +50,7 @@ Track what was produced, not when people arrived.
 If the output is the same in six hours as eight, the two extra hours are tax.
 Stop taxing your team for existing.
 
-That invisible drain has a name. #The #Presenteeism #Tax.
+That invisible drain has a name. **The Presenteeism Tax**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

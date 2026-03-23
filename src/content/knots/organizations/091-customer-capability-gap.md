@@ -56,7 +56,7 @@ The answer is the gap.
 Either close the capability gap or close the promise gap.
 One is investment. The other is honesty. Both are better than the current state.
 
-That broken promise has a name. #Customer #Capability #Gap.
+That broken promise has a name. **Customer Capability Gap**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

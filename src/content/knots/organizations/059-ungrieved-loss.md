@@ -51,7 +51,7 @@ Acknowledge it publicly. Give people permission to feel it.
 'We're moving forward, and we're also losing something that mattered.'
 That sentence costs nothing. Its absence costs everything.
 
-That silent mourning has a name. #Ungrieved #Loss.
+That silent mourning has a name. **Ungrieved Loss**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

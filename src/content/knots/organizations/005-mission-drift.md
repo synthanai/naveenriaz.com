@@ -57,7 +57,7 @@ Compare the purpose stated there to this quarter's top three priorities.
 Measure the distance honestly.
 If you can't draw a clean line from what you're building this month to why you started, the drift has already won.
 
-That distance has a name. #Mission #Drift.
+That distance has a name. **Mission Drift**.
 And once you see it, you can't unsee it.
 ---
 

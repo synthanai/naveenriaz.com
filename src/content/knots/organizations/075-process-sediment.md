@@ -50,7 +50,7 @@ Ask each approver: 'What would happen if your approval was removed?'
 If the honest answer is 'nothing,' remove it.
 One less layer. One less year of sediment. One more hour for actual work.
 
-That compressed bureaucracy has a name. #Process #Sediment.
+That compressed bureaucracy has a name. **Process Sediment**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

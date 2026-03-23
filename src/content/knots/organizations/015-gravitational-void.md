@@ -51,7 +51,7 @@ In your next standup, don't ask what people are working on.
 Ask: "What is this team being pulled toward?"
 If the answer is a list of tasks instead of a destination, you're looking at drift with a velocity metric wrapped around it.
 
-That aimless motion has a name. #Gravitational #Void.
+That aimless motion has a name. **Gravitational Void**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

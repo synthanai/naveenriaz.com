@@ -55,7 +55,7 @@ What has changed in their Tuesday.
 If the answer is nothing, the transformation is theater.
 And no amount of governance will make it real.
 
-That impressive facade has a name. #Transformation #Theater.
+That impressive facade has a name. **Transformation Theater**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

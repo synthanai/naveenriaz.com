@@ -52,7 +52,7 @@ Watch the pause. Time it.
 If they answer immediately, they're performing.
 The truth lives in the hesitation.
 
-That rehearsed comfort has a name. #Performative #Safety.
+That rehearsed comfort has a name. **Performative Safety**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

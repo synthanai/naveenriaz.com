@@ -50,7 +50,7 @@ That's the growing pain.
 Design one structural upgrade to address it.
 Not a complete restructure. One upgrade. One pain point. This month.
 
-That structural mismatch has a name. #Scaling #Pains.
+That structural mismatch has a name. **Scaling Pains**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

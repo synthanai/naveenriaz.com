@@ -49,7 +49,7 @@ The attack isn't personal. It's systemic. The culture is protecting itself from 
 If your change team succeeded and then was reorganized, if the new process was 'integrated' into the existing one, if the funding was redirected,
 ask: was the change discontinued because it failed, or because it succeeded somewhere the system wasn't ready to accept?
 
-That immune response has a name. #Organizational #Antibodies.
+That immune response has a name. **Organizational Antibodies**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

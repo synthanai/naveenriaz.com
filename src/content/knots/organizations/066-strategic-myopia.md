@@ -56,7 +56,7 @@ In your next planning session, add one agenda item: 'What is true today that won
 Force the conversation beyond the quarterly horizon.
 If nobody can answer, the myopia is structural.
 
-That short-sighted focus has a name. #Strategic #Myopia.
+That short-sighted focus has a name. **Strategic Myopia**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

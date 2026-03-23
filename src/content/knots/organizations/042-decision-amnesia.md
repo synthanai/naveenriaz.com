@@ -53,7 +53,7 @@ For your next significant decision, write down three things: what you decided, w
 Store it where it will survive your tenure.
 The next person in your role will either thank you or need you. Make sure they don't need you.
 
-That vanished rationale has a name. #Decision #Amnesia.
+That vanished rationale has a name. **Decision Amnesia**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

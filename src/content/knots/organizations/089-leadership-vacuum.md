@@ -54,7 +54,7 @@ Are they making real decisions today that you would normally make?
 If not, start delegating one decision per week.
 Leadership develops through practice, not through programs.
 
-That empty pipeline has a name. #Leadership #Vacuum.
+That empty pipeline has a name. **Leadership Vacuum**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

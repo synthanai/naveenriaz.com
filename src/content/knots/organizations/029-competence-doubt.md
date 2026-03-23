@@ -52,7 +52,7 @@ Tell them, specifically: "I trust your call on this. No review needed."
 Watch what happens to their posture. Watch the speed of their next decision.
 That acceleration is what competence looks like without doubt holding the brake.
 
-That installed hesitation has a name. #Competence #Doubt.
+That installed hesitation has a name. **Competence Doubt**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

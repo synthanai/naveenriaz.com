@@ -55,7 +55,7 @@ Find one piece of technical debt that you've been 'planning to address.'
 Address it this sprint. Not next quarter. This sprint.
 The longer the snow sits, the harder it falls.
 
-That buried fragility has a name. #Technical #Debt #Avalanche.
+That buried fragility has a name. **Technical Debt Avalanche**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

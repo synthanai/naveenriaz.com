@@ -54,7 +54,7 @@ Ask your innovation team one question: of the ideas generated in the last twelve
 Not prototyped. Not presented. In production.
 If the answer is zero, the program is horticulture, not agriculture.
 
-That beautiful display has a name. #Innovation #Theater.
+That beautiful display has a name. **Innovation Theater**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

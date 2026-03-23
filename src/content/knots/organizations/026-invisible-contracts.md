@@ -53,7 +53,7 @@ Ask your team: "What's expected here that's never been explicitly agreed?"
 The first answer will be safe. The second will be closer. The third is the one that governs everything.
 Once it's named, it loses its grip. Invisible contracts only work in the dark.
 
-That unwritten law has a name. #Invisible #Contracts.
+That unwritten law has a name. **Invisible Contracts**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

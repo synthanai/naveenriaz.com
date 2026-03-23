@@ -53,7 +53,7 @@ A choice with consequences that you will not reverse, override, or silently redi
 If you can't do that, you're not delegating.
 You're performing delegation while retaining control.
 
-That phantom authority has a name. #Delegation #Without #Trust.
+That phantom authority has a name. **Delegation Without Trust**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

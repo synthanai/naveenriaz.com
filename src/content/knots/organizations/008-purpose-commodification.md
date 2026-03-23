@@ -57,7 +57,7 @@ Not the tagline. Not the careers page. Their actual, unpolished, specific reason
 That raw, unglamorous truth is probably the only real purpose you have left.
 Write it down. Compare it to the official version. Notice which one you believe.
 
-That hollowness has a name. #Purpose #Commodification.
+That hollowness has a name. **Purpose Commodification**.
 And once you see it, you can't unsee it.
 ---
 

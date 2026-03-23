@@ -58,7 +58,7 @@ Don't ask them if their laptop works. Don't ask about their project status.
 Tell them a story about the best day this team ever had.
 Watch what happens to their face when someone finally lets them in.
 
-That isolation has a name. #Cultural #Orphans.
+That isolation has a name. **Cultural Orphans**.
 And once you see it, you can't unsee it.
 ---
 

@@ -52,7 +52,7 @@ Before launching the next change initiative, ask your team one question: 'How ma
 If the answer is more than one, you don't have a change problem.
 You have a capacity problem wearing a strategy hat.
 
-That quiet exhaustion has a name. #Change #Fatigue.
+That quiet exhaustion has a name. **Change Fatigue**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

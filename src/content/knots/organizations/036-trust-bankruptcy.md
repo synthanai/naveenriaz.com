@@ -59,7 +59,7 @@ One kept promise. One honest admission. One visible act of good faith.
 If the team responds with suspicion, the bankruptcy is advanced.
 If they respond with cautious hope, there's still an account to rebuild.
 
-That empty vault has a name. #Trust #Bankruptcy.
+That empty vault has a name. **Trust Bankruptcy**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -51,7 +51,7 @@ Count the number of committees you sit on. Now count decisions made.
 Divide. If the ratio is above 3:1, the governance is autoimmune.
 Disband one committee this month. If nothing goes wrong, it was attacking the body.
 
-That protective paralysis has a name. #Governance #Bloat.
+That protective paralysis has a name. **Governance Bloat**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

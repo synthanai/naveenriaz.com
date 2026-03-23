@@ -53,7 +53,7 @@ Then ask the follow-up: 'What question outside your domain should you be asking 
 The first answer leverages their depth. The second tests their breadth.
 Expertise becomes a trap only when breadth stops growing.
 
-That narrow brilliance has a name. #Expertise #Trap.
+That narrow brilliance has a name. **Expertise Trap**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -52,7 +52,7 @@ Count the active change initiatives on your team's plate right now.
 If it's more than two, you don't need another initiative.
 You need to stop three.
 
-That strategic suffocation has a name. #Initiative #Overload.
+That strategic suffocation has a name. **Initiative Overload**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

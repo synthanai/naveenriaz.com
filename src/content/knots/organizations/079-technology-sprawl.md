@@ -51,7 +51,7 @@ Audit your tech stack this week: list every tool and its purpose.
 If two tools serve the same function for different teams, one needs to go.
 The cost of switching is temporary. The cost of sprawl is permanent.
 
-That unchecked proliferation has a name. #Technology #Sprawl.
+That unchecked proliferation has a name. **Technology Sprawl**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

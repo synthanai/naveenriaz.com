@@ -55,7 +55,7 @@ Now ask: what growth path are you providing them?
 If 'afraid to lose' and 'no growth path' coexist, you're hoarding.
 Release the talent, or the talent will release you.
 
-That golden cage has a name. #Talent #Hoarding.
+That golden cage has a name. **Talent Hoarding**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

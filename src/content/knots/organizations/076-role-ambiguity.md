@@ -50,7 +50,7 @@ Now ask: who owned that decision?
 If three people answer 'me,' the roles are ambiguous.
 If nobody answers, the roles are absent.
 
-That undefined stage has a name. #Role #Ambiguity.
+That undefined stage has a name. **Role Ambiguity**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

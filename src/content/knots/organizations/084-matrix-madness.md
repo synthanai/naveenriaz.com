@@ -48,7 +48,7 @@ Their answer reveals whether the matrix is a structure or a cage.
 If they say 'I prioritize whoever shouted last,' the matrix isn't working.
 It's just multiple bosses pretending to be a system.
 
-That multi-directional paralysis has a name. #Matrix #Madness.
+That multi-directional paralysis has a name. **Matrix Madness**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

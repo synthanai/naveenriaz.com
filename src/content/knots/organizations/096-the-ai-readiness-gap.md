@@ -57,7 +57,7 @@ Before your next AI initiative, answer three questions:
 If any answer is 'no,' your AI strategy is building on sand.
 Fix the foundation first.
 
-That invisible fissure has a name. #The #AI #Readiness #Gap.
+That invisible fissure has a name. **The AI Readiness Gap**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

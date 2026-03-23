@@ -51,7 +51,7 @@ After your next completed project, do one thing before starting the next: stop.
 One hour. One gathering. One sentence per person: 'What I'm proud of.'
 The celebration costs an hour. The deficit costs a year of engagement.
 
-That missing feast has a name. #Celebration #Deficit.
+That missing feast has a name. **Celebration Deficit**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

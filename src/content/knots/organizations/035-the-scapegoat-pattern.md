@@ -54,7 +54,7 @@ First: "Who is being blamed?"
 Second: "What systemic factor made this outcome likely regardless of who was in the role?"
 If the answer to the second question is more explanatory than the first, you're watching a scapegoat being manufactured.
 
-That blame magnet has a name. #The #Scapegoat #Pattern.
+That blame magnet has a name. **The Scapegoat Pattern**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -58,7 +58,7 @@ Ask out loud: "Does this rule serve the company we are today, or the company we 
 Watch everyone stiffen. You just touched the ghost.
 That discomfort is the diagnostic.
 
-That haunting has a name. #Founders #Ghost.
+That haunting has a name. <span style="font-weight: 600; color: var(--theme-color);">Founders Ghost</span>.
 And once you see it, you can't unsee it.
 ---
 

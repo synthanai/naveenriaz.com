@@ -56,7 +56,7 @@ If the answer is 'the deliverable,' you're buying output.
 If the answer is 'the skill to do it ourselves,' you're investing in muscle.
 Only one of those survives the invoice.
 
-That external crutch has a name. #Consultant #Dependency.
+That external crutch has a name. **Consultant Dependency**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

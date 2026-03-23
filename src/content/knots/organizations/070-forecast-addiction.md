@@ -56,7 +56,7 @@ If accuracy is below 80%, the forecast isn't a planning tool.
 It's a ritual.
 Replace one forecast with a range and an explicit statement of what you don't know. See if decisions improve.
 
-That comfortable prediction has a name. #Forecast #Addiction.
+That comfortable prediction has a name. **Forecast Addiction**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

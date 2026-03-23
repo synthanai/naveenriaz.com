@@ -53,7 +53,7 @@ Those are your signals. Everything else is noise.
 Delete one dashboard this week. Unsubscribe from one report.
 If your decisions don't deteriorate, the report was noise.
 
-That drowning clarity has a name. #Information #Overload.
+That drowning clarity has a name. **Information Overload**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

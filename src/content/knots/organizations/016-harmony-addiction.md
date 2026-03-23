@@ -51,7 +51,7 @@ Not to create drama. To test what happens when someone disagrees.
 If the room tenses, if people look at you like you broke something, that tension is your diagnostic.
 Healthy teams lean into disagreement. Addicted teams flinch.
 
-That comfort has a name. #Harmony #Addiction.
+That comfort has a name. **Harmony Addiction**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -55,7 +55,7 @@ Not a vision. Not an aspiration. A measurable end state.
 If you can't write that sentence, the initiative can't end.
 And an initiative that can't end is consuming resources forever.
 
-That permanent 'almost' has a name. #Success #Ambiguity.
+That permanent 'almost' has a name. **Success Ambiguity**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

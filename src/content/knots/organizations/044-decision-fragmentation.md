@@ -50,7 +50,7 @@ Before making any decision with cross-team implications, ask one question: 'Who 
 If you don't know, find out before you commit.
 Ten minutes of discovery saves ten months of integration pain.
 
-That scattered architecture has a name. #Decision #Fragmentation.
+That scattered architecture has a name. **Decision Fragmentation**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -55,7 +55,7 @@ Don't ask it in a meeting. Don't ask it on Slack. Ask it walking to lunch, one-o
 The answer won't come in words. It'll come in what they don't say.
 That careful silence is the landscape talking.
 
-That quiet has a name. #Fear #Culture.
+That quiet has a name. **Fear Culture**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -57,7 +57,7 @@ Not to a team. Not to a committee. One person.
 If the recommendation isn't implemented by the follow-up date, the learning didn't happen.
 And the river will cut the same groove again.
 
-That repeated groove has a name. #Learning #Disability.
+That repeated groove has a name. **Learning Disability**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

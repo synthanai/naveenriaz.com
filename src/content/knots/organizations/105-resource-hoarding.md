@@ -50,7 +50,7 @@ Lend it for one quarter.
 If the lending produces more value than the holding, the dam was an illusion.
 Give. And find that Valluvar was right about profit.
 
-That blocked flow has a name. #Resource #Hoarding.
+That blocked flow has a name. **Resource Hoarding**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

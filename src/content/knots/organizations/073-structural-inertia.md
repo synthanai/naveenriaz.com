@@ -52,7 +52,7 @@ Ask two questions about your last restructure:
 2. What behavior should have changed but didn't?
 If the second list is longer than the first, the restructure moved the chart but not the plate.
 
-That immovable landscape has a name. #Structural #Inertia.
+That immovable landscape has a name. **Structural Inertia**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

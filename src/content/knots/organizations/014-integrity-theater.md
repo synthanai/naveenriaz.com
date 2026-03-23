@@ -50,7 +50,7 @@ Now ask yourself: is that rule followed when nobody is watching?
 If compliance vanishes the moment oversight does, what you have isn't integrity.
 It's a performance that runs only when the audience is in their seats.
 
-That empty stage has a name. #Integrity #Theater.
+That empty stage has a name. **Integrity Theater**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

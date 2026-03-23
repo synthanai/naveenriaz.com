@@ -54,7 +54,7 @@ Not a discussion. Not an action item. A decision.
 At the end of the week, divide total meetings by total decisions.
 If the ratio is above 5:1, your machine is mostly friction.
 
-That spinning wheel has a name. #Meeting-to-Decision #Ratio.
+That spinning wheel has a name. **Meeting-to-Decision Ratio**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -54,7 +54,7 @@ It still exists on job descriptions, in performance reviews, in training budgets
 Redirect 10% of that investment toward the skill that will be essential three years from now.
 The evolutionary clock doesn't pause for your comfort.
 
-That outdated competence has a name. #Skill #Obsolescence.
+That outdated competence has a name. **Skill Obsolescence**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

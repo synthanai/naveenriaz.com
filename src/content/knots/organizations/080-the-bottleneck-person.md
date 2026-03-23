@@ -48,7 +48,7 @@ Identify the person who, if they disappeared for a month, would create the most 
 That person is the bottleneck.
 Start redistributing one of their functions this week. Not because they're failing. Because the system is fragile.
 
-That single point of failure has a name. #The #Bottleneck #Person.
+That single point of failure has a name. **The Bottleneck Person**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

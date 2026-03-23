@@ -55,7 +55,7 @@ Not 'the context evolved.' Not 'new information.'
 What. You. Got. Wrong.
 Acknowledged reversals rebuild trust. Silent ones destroy it.
 
-That constant shaking has a name. #Decision #Whiplash.
+That constant shaking has a name. **Decision Whiplash**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

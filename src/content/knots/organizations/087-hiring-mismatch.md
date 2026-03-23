@@ -56,7 +56,7 @@ After your next interview, ask one question not about the candidate:
 If the answer involves culture, working style, or team dynamics, your process has a blind spot.
 The CV got them the interview. The fit determines the outcome.
 
-That impeccable resume has a name. #Hiring #Mismatch.
+That impeccable resume has a name. **Hiring Mismatch**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

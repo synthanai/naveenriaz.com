@@ -54,7 +54,7 @@ How many of them were on the register?
 If the answer is zero, your risk register isn't wrong. It's performing a different function: reassuring stakeholders that risk is managed.
 Risk literacy would mean saying: 'We don't know what we don't know, and here's how we'll respond when the unknown arrives.'
 
-That color-coded fiction has a name. #Risk #Theater.
+That color-coded fiction has a name. **Risk Theater**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

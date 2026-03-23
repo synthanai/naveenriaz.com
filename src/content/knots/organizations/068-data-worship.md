@@ -54,7 +54,7 @@ If they match, the data confirmed judgment. That's useful.
 If they don't match, explore why. That's where insight lives.
 Data should challenge thinking, not replace it.
 
-That beautiful altar has a name. #Data #Worship.
+That beautiful altar has a name. **Data Worship**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

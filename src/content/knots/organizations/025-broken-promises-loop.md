@@ -53,7 +53,7 @@ One small thing you said you'd do.
 Do it. Visibly. On time.
 Trust isn't rebuilt with speeches. It's rebuilt with receipts.
 
-That skepticism has a name. #Broken #Promises #Loop.
+That skepticism has a name. **Broken Promises Loop**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

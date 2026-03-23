@@ -55,7 +55,7 @@ If you can answer that question clearly, the analysis is done.
 You're not gathering more data. You're gathering more comfort.
 The decision is waiting. It's been waiting.
 
-That infinite loop has a name. #Analysis #Paralysis.
+That infinite loop has a name. **Analysis Paralysis**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

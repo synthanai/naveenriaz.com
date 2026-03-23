@@ -54,7 +54,7 @@ Not 'last vacation.' Rested.
 If the average answer is measured in months, the metal is fatigued.
 Wellness programs don't fix metal fatigue. Reducing the stress cycles does.
 
-That exhaustion badge has a name. #Burnout #Normalization.
+That exhaustion badge has a name. **Burnout Normalization**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

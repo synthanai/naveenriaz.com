@@ -51,7 +51,7 @@ If seven people have seven different first choices, you don't need consensus. Yo
 Appoint one. Let them choose. Let them be wrong. Let them learn.
 That's how organizations build judgment. Not by averaging it away.
 
-That comfortable mediocrity has a name. #Consensus #Trap.
+That comfortable mediocrity has a name. **Consensus Trap**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

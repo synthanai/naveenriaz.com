@@ -55,7 +55,7 @@ After every sprint, protect 30 minutes for one question: what did this sprint te
 Not what was shipped. What was learned.
 If nothing was learned, the next sprint will repeat this one's mistakes.
 
-That broken cycle has a name. #Learning-Doing #Imbalance.
+That broken cycle has a name. **Learning-Doing Imbalance**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

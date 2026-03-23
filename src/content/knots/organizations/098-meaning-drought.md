@@ -52,7 +52,7 @@ Not 'this feature serves the Q2 strategy.' That's abstraction.
 'This feature helps parents track their child's learning.' That's meaning.
 The more specific the impact, the fuller the aquifer.
 
-That empty well has a name. #Meaning #Drought.
+That empty well has a name. **Meaning Drought**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

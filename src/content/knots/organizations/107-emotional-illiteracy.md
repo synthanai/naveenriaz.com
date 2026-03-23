@@ -55,7 +55,7 @@ If the team can't do it, you've found the literacy gap.
 Start with three words: energized, drained, uncertain.
 Even a three-word vocabulary changes the conversation.
 
-That unnamed feeling has a name. #Emotional #Illiteracy.
+That unnamed feeling has a name. **Emotional Illiteracy**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

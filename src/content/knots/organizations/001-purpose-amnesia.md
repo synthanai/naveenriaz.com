@@ -55,7 +55,7 @@ Don't ask them what their goals are. Don't ask about their role.
 Ask them: "why does this team exist?"
 Watch their face before they answer. That pause tells you everything.
 
-That silence has a name. #Purpose #Amnesia.
+That silence has a name. **Purpose Amnesia**.
 And once you see it, you can't unsee it.
 ---
 

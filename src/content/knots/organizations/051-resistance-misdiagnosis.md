@@ -54,7 +54,7 @@ Not 'why are you resisting?' That's accusation.
 What. Would. Need. To. Be. True.
 The answer is your actual diagnosis.
 
-That wrong prescription has a name. #Resistance #Misdiagnosis.
+That wrong prescription has a name. **Resistance Misdiagnosis**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

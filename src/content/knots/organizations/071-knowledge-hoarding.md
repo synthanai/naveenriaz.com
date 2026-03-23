@@ -57,7 +57,7 @@ Not a training session. Not a document. A conversation.
 Knowledge shared is knowledge multiplied.
 Knowledge hoarded is knowledge that dies when you leave.
 
-That locked vault has a name. #Knowledge #Hoarding.
+That locked vault has a name. **Knowledge Hoarding**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

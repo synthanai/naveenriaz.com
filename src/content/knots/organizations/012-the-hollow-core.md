@@ -60,7 +60,7 @@ Don't accept the mission statement. Don't accept the tagline.
 Wait for the silence. Time it.
 That silence is exactly the size of the hole.
 
-That void has a name. #The #Hollow #Core.
+That void has a name. **The Hollow Core**.
 And once you see it, you can't unsee it.
 ---
 

@@ -50,7 +50,7 @@ Ask: when was the last time a senior leader asked about its progress?
 If the answer is measured in months, the orbit is decaying.
 It doesn't need a relaunch. It needs a boost. Or an honest deorbit.
 
-That silent descent has a name. #Momentum #Decay.
+That silent descent has a name. **Momentum Decay**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

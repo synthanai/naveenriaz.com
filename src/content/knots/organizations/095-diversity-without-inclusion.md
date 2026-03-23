@@ -52,7 +52,7 @@ If three people dominate and five are silent, the meeting has diversity of seats
 Create one structural mechanism for quieter voices: written input, round-robin, anonymous contribution.
 Inclusion isn't attitude. It's architecture.
 
-That silent diversity has a name. #Diversity #Without #Inclusion.
+That silent diversity has a name. **Diversity Without Inclusion**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

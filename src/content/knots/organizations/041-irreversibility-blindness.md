@@ -52,7 +52,7 @@ If yes, decide quickly. Speed is the advantage.
 If no, slow down. Deliberate. Stress-test. Invite dissent.
 The cost of speed on a reversible decision is low. The cost of speed on an irreversible one is permanent.
 
-That blind spot has a name. #Irreversibility #Blindness.
+That blind spot has a name. **Irreversibility Blindness**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

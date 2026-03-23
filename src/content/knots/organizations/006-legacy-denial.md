@@ -60,7 +60,7 @@ Bring it up in your next leadership meeting. Not to assign blame.
 Just ask: "What did we learn from this that we're still not applying?"
 The resistance you feel is proportional to the lesson's value.
 
-That erasure has a name. #Legacy #Denial.
+That erasure has a name. **Legacy Denial**.
 And once you see it, you can't unsee it.
 ---
 

@@ -59,7 +59,7 @@ Then ask what they found.
 The delta between those two answers is the size of your split.
 If you're afraid to ask, you already know the answer.
 
-That fracture has a name. #Split #Personality.
+That fracture has a name. **Split Personality**.
 And once you see it, you can't unsee it.
 ---
 

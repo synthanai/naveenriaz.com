@@ -56,7 +56,7 @@ If nobody notices, it was already dead.
 If someone complains, ask them: "What decision did that meeting make in the last month?"
 The answer is your evidence.
 
-That calendar colonization has a name. #Meeting #Toxicity.
+That calendar colonization has a name. **Meeting Toxicity**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

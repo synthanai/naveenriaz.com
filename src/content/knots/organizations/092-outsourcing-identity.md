@@ -58,7 +58,7 @@ Now check: how many are performed entirely by external partners?
 If any core capability is outsourced, you've traded identity for efficiency.
 Bring one core capability back in-house this year. Not for cost. For identity.
 
-That hollowed out core has a name. #Outsourcing #Identity.
+That hollowed out core has a name. **Outsourcing Identity**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -53,7 +53,7 @@ Not delegated. Not rescheduled.
 Your presence is the rainfall.
 Cancel it twice and the drought begins.
 
-That vanishing champion has a name. #Sponsorship #Evaporation.
+That vanishing champion has a name. **Sponsorship Evaporation**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

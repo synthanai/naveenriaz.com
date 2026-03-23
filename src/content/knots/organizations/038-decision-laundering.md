@@ -51,7 +51,7 @@ If yes, say so. Present your decision. Defend it. Invite challenge.
 Honest advocacy is infinitely more respectful than fabricated consensus.
 The team would rather disagree with your decision than discover they performed in yours.
 
-That staged consensus has a name. #Decision #Laundering.
+That staged consensus has a name. **Decision Laundering**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -61,7 +61,7 @@ Watch your own eyes. Do you even glance at the words?
 Now ask the person next to you to name three of them without looking.
 That blank stare is the only measurement that matters.
 
-That gap has a name. #Values #Wallpaper.
+That gap has a name. **Values Wallpaper**.
 And once you see it, you can't unsee it.
 ---
 

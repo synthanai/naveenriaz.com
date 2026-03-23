@@ -49,7 +49,7 @@ Give one local team authority to make one decision without headquarters approval
 Measure the outcome.
 If it's better than the centralized alternative, the over-centralization is costing you money.
 
-That distant control room has a name. #Over-Centralization.
+That distant control room has a name. **Over-Centralization**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

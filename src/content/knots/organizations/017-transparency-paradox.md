@@ -52,7 +52,7 @@ If people are editing their Slack messages before sending, rehearsing their stan
 that's not transparency enabling trust.
 It's transparency enabling performance.
 
-That fishbowl has a name. #Transparency #Paradox.
+That fishbowl has a name. **Transparency Paradox**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

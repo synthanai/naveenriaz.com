@@ -57,7 +57,7 @@ Pick the one you're proudest of and ask honestly:
 If the honest answer is no, stop calling it an identity. Call it a preference.
 At least then you know what you're working with.
 
-That brittleness has a name. #Identity #Fragility.
+That brittleness has a name. **Identity Fragility**.
 And once you see it, you can't unsee it.
 ---
 

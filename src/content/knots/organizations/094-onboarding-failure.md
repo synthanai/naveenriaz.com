@@ -53,7 +53,7 @@ For your next hire, plan the first 90 days before the first day.
 Week 1: who they meet. Week 2: what they learn. Month 1: what they deliver. Month 3: what they own.
 If the onboarding plan is shorter than the job description, the landing is unplanned.
 
-That wasted arrival has a name. #Onboarding #Failure.
+That wasted arrival has a name. **Onboarding Failure**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -56,7 +56,7 @@ One name. One outcome. One person who will answer for it.
 If that feels uncomfortable, you've found the dodge.
 Accountability isn't shared. It's named.
 
-That disappearing act has a name. #The #Accountability #Dodge.
+That disappearing act has a name. **The Accountability Dodge**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

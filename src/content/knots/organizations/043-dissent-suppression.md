@@ -54,7 +54,7 @@ Not as a ritual. As a requirement.
 If nobody volunteers, the suppression is so deep that dissent can't even be invited.
 That's your measurement.
 
-That buried brilliance has a name. #Dissent #Suppression.
+That buried brilliance has a name. **Dissent Suppression**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

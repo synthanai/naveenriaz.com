@@ -54,7 +54,7 @@ In your next strategy session, assign one person to present the strongest possib
 Not as devil's advocate theater. As a genuine, researched alternative.
 If the team can't engage with it without defensiveness, the chamber is sealed.
 
-That comfortable echo has a name. #Groupthink.
+That comfortable echo has a name. **Groupthink**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

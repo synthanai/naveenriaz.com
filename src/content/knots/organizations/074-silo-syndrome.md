@@ -53,7 +53,7 @@ Ask a simple question: 'What do you need from us that you're not getting?'
 The answer is the wall.
 Every wall has a door. You just have to knock.
 
-That sealed boundary has a name. #Silo #Syndrome.
+That sealed boundary has a name. **Silo Syndrome**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

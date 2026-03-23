@@ -57,7 +57,7 @@ Pull up your company's homepage right now.
 Find one phrase that your closest competitor couldn't also claim with a straight face.
 If every sentence on your About page could be swapped into theirs without anyone noticing, you don't have an identity. You have a costume.
 
-That camouflage has a name. #Identity #Mimicry.
+That camouflage has a name. **Identity Mimicry**.
 And once you see it, you can't unsee it.
 ---
 

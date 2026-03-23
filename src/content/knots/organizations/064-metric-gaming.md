@@ -54,7 +54,7 @@ Now ask: is it possible to hit every target and still fail the customer?
 If yes, your metrics are measuring the wrong thing.
 Rebuild them from the customer's experience backward, not from your dashboard forward.
 
-That green illusion has a name. #Metric #Gaming.
+That green illusion has a name. **Metric Gaming**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

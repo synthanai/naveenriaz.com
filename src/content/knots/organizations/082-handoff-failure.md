@@ -48,7 +48,7 @@ Mark every handoff point. At each one, ask: what information is lost?
 That information loss is the baton drop.
 Fix one handoff this month.
 
-That dropped connection has a name. #Handoff #Failure.
+That dropped connection has a name. **Handoff Failure**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

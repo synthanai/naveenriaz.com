@@ -60,7 +60,7 @@ Not "thanks for the feedback." That's generic. That's dismissable.
 "Thank you for saying what I needed to hear."
 One public reinforcement can begin to rewrite the amygdala's calculation.
 
-That collective silence has a name. #Feedback #Phobia.
+That collective silence has a name. **Feedback Phobia**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

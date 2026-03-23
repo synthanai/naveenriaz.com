@@ -51,7 +51,7 @@ Find one middle manager. Ask them: 'What are you carrying that nobody sees?'
 Listen without solving.
 That moment of being heard is the first structural reinforcement.
 
-That invisible compression has a name. #Middle #Management #Squeeze.
+That invisible compression has a name. **Middle Management Squeeze**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

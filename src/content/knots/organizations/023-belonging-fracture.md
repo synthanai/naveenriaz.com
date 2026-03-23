@@ -52,7 +52,7 @@ Not "are they included." Not "are they invited."
 Do they feel that this place would be diminished without them?
 If you can't answer that for every person, the fracture is already running.
 
-That invisible crack has a name. #Belonging #Fracture.
+That invisible crack has a name. **Belonging Fracture**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

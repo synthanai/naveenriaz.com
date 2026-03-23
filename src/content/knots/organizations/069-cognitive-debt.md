@@ -51,7 +51,7 @@ Block two hours this week for one activity: sit with your team and ask, 'What qu
 No agenda. No deliverable. Just the question.
 If your team can immediately name three questions they've been avoiding, the debt is already compounding.
 
-That thinking deficit has a name. #Cognitive #Debt.
+That thinking deficit has a name. **Cognitive Debt**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

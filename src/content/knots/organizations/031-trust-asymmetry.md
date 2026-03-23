@@ -57,7 +57,7 @@ Not endorsed it after review. Not approved it through a process.
 Trusted it. Without verification. Because you trusted them.
 If you can't remember, the asymmetry is structural.
 
-That one-way valve has a name. #Trust #Asymmetry.
+That one-way valve has a name. **Trust Asymmetry**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

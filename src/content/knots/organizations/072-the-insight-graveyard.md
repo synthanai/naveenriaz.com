@@ -54,7 +54,7 @@ If yes, act on one recommendation this week.
 The insight has been waiting. It's been patient.
 Don't let it die again.
 
-That silent archive has a name. #The #Insight #Graveyard.
+That silent archive has a name. **The Insight Graveyard**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

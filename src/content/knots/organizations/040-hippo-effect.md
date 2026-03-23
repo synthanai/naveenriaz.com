@@ -54,7 +54,7 @@ Not first. Last.
 Let every other perspective establish itself in open space, unwarped by the gravity of authority.
 If the quality of discussion changes, you've measured the distortion field.
 
-That invisible gravity has a name. #HiPPO #Effect.
+That invisible gravity has a name. **HiPPO Effect**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

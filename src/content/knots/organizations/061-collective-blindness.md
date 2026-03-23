@@ -56,7 +56,7 @@ Emails, surveys, reports, conversations.
 If the signal was there and nobody acted on it, you don't have an intelligence problem.
 You have a scotoma.
 
-That invisible gap has a name. #Collective #Blindness.
+That invisible gap has a name. **Collective Blindness**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

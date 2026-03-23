@@ -55,7 +55,7 @@ Every honest answer is a gap between the pilot and reality.
 If there are more than three gaps, the pilot isn't ready to scale.
 It's ready to redesign for the real ecosystem.
 
-That permanent prototype has a name. #Pilot #Purgatory.
+That permanent prototype has a name. **Pilot Purgatory**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

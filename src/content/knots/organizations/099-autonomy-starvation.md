@@ -56,7 +56,7 @@ Remove your approval.
 If the output quality stays the same, the approval was a container, not a control.
 Give the roots room. Watch the canopy grow.
 
-That invisible container has a name. #Autonomy #Starvation.
+That invisible container has a name. **Autonomy Starvation**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

@@ -53,7 +53,7 @@ Not "great job." Not "thanks for everything."
 What. Their. Work. Makes. Possible.
 If you can't remember, the deficit is already compounding.
 
-That silence has a name. #Recognition #Deficit.
+That silence has a name. **Recognition Deficit**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot

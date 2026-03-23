@@ -57,7 +57,7 @@ When someone resigns, ask two questions:
 The second question is the one nobody asks.
 It's the one that prevents the chain reaction.
 
-That self-feeding exodus has a name. #Turnover #Spiral.
+That self-feeding exodus has a name. **Turnover Spiral**.
 And once you see it, you can't unsee it.
 
 ## Untie The Knot
