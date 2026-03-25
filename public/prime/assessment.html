@@ -562,8 +562,8 @@
             const [dom, sec, low] = sorted;
 
             document.getElementById('res-dosha').innerText = `${cap(dom)}-${cap(sec)} Dominant`;
-            document.getElementById('res-capability').innerText = getCapability(dom, sec);
-            document.getElementById('res-friction').innerHTML = getFriction(low);
+            document.getElementById('res-capability').innerText = getCapability(dom, sec, f);
+            document.getElementById('res-friction').innerHTML = getFriction(low, f);
 
             const pills = [
                 {k:'earth',l:'🌍 Earth',s:f.earth},{k:'water',l:'💧 Water',s:f.water},
@@ -603,22 +603,68 @@
             });
         }
 
-        function getCapability(d, s) {
-            const c = d+'-'+s;
-            if(c.includes('vata')&&c.includes('pitta')) return "Highly visionary, intensely driven, and fast-moving. You operate at velocity, continuously generating ideas and executing them with forceful energy. Your architecture is built for rapid transformation.";
-            if(c.includes('kapha')&&c.includes('vata')) return "You combine extreme structural grounding with expansive philosophical vision. You build long-lasting physical or organizational legacies but maintain an orbital awareness of 'why' you are building them.";
-            if(c.includes('kapha')&&c.includes('pitta')) return "You possess the endurance of a marathon runner. You have the structural stability to weather storms, coupled with the slow-burning metabolic fire required to drive massive legacy projects to completion.";
-            if(c.includes('pitta')&&c.includes('vata')) return "Highly visionary, intensely driven, and fast-moving. You operate at velocity, continuously generating ideas and executing them with forceful energy. Your architecture is built for rapid transformation.";
-            if(c.includes('pitta')&&c.includes('kapha')) return "You possess the endurance of a marathon runner. You have the structural stability to weather storms, coupled with the slow-burning metabolic fire required to drive massive legacy projects to completion.";
-            if(c.includes('vata')&&c.includes('kapha')) return "You combine extreme structural grounding with expansive philosophical vision. You build long-lasting physical or organizational legacies but maintain an orbital awareness of 'why' you are building them.";
-            return "A balanced processor, capable of maintaining dynamic equilibrium across multiple vectors of responsibility.";
+        // Element display names
+        const elNames = { earth:'Earth', water:'Water', fire:'Fire', air:'Air', space:'Space' };
+
+        function getCapability(dom, sec, f) {
+            // Find the two strongest elements
+            const ranked = Object.entries(f).sort((a,b) => b[1] - a[1]);
+            const top1 = ranked[0], top2 = ranked[1];
+            const t1Name = elNames[top1[0]], t1Score = top1[1];
+            const t2Name = elNames[top2[0]], t2Score = top2[1];
+
+            // Dosha-based framing
+            const doshaTraits = {
+                vata: 'vision, speed, and the ability to connect ideas across different areas',
+                pitta: 'drive, decisiveness, and the energy to push through resistance',
+                kapha: 'stability, endurance, and the patience to build things that last'
+            };
+
+            // Compose
+            let text = `Your strongest elements are ${t1Name} (${t1Score}/10) and ${t2Name} (${t2Score}/10). `;
+            text += `Your dominant pattern is ${cap(dom)}-${cap(sec)}, which gives you ${doshaTraits[dom]}. `;
+
+            // Add secondary flavour
+            if (dom !== sec) {
+                text += `This is reinforced by your ${cap(sec)} side, which adds ${doshaTraits[sec]}.`;
+            }
+
+            return text;
         }
 
-        function getFriction(low) {
-            if(low==='kapha') return "<strong>The Sprinter Cycle:</strong> A significant deficit in Earth/Water means you build incredible velocity but lack the foundation to pace it. Your friction points are burnout, unfinished long-term projects, and an inability to rest without guilt. You are building beautiful structures on sand.";
-            if(low==='vata') return "<strong>The Air Bottleneck:</strong> A significant deficit in Air means you struggle to distribute and scale your ideas. While your foundation is unshakeable, your systems, automations, and digital architecture are likely clogged, causing you to drown in manual administrative friction.";
-            if(low==='pitta') return "<strong>The Ignition Gap:</strong> A deficit in Fire means you possess incredible vision (Space) and empathy (Water), but struggle to enforce boundaries, destroy obsolete systems, or push aggressively through market resistance.";
-            return "There is a slight imbalance that requires intermittent re-centering, but no critical structural failure.";
+        function getFriction(low, f) {
+            // Find the weakest element
+            const ranked = Object.entries(f).sort((a,b) => a[1] - b[1]);
+            const weak1 = ranked[0], weak2 = ranked[1];
+            const w1Name = elNames[weak1[0]], w1Score = weak1[1];
+            const w2Name = elNames[weak2[0]], w2Score = weak2[1];
+
+            // Severity
+            const strongest = ranked[ranked.length - 1][1];
+            const gap = strongest - w1Score;
+            let severity;
+            if (gap >= 5) severity = 'a major';
+            else if (gap >= 3) severity = 'a notable';
+            else severity = 'a mild';
+
+            // Dosha friction patterns
+            const frictionMap = {
+                kapha: {
+                    name: 'The Sprinter Cycle',
+                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10). This is ${severity} gap. You move fast and generate ideas at high speed, but lack the grounding and patience to sustain them long-term. Your friction points are burnout, unfinished projects, and difficulty resting.`
+                },
+                vata: {
+                    name: 'The Distribution Bottleneck',
+                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10). This is ${severity} gap. Your foundation is strong and your drive is real, but you struggle to spread your ideas efficiently. You likely get stuck in manual, repetitive work because you lack the systems to scale.`
+                },
+                pitta: {
+                    name: 'The Ignition Gap',
+                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10). This is ${severity} gap. You have vision and empathy, but struggle to push aggressively, enforce boundaries, or tear down things that are no longer working. Starting the engine is harder for you than steering it.`
+                }
+            };
+
+            const pattern = frictionMap[low] || { name: 'Balanced', desc: 'Your scores are relatively even across all areas. There is no critical structural gap.' };
+            return `<strong>${pattern.name}:</strong> ${pattern.desc}`;
         }
 
         function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
