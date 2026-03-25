@@ -6,7 +6,7 @@
     <title>PRI Assessment | Panchabootam Resonance Index</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Source+Code+Pro:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <style>
@@ -26,8 +26,8 @@
             --fire: #E0663A;
             --air: #8AB08A;
             --space: #9B88CE;
-            --font-body: 'Fraunces', Georgia, serif;
-            --font-mono: 'Source Code Pro', monospace;
+            --font-body: 'Inter', -apple-system, sans-serif;
+            --font-mono: 'Inter', -apple-system, sans-serif;
         }
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
         body {
@@ -127,7 +127,7 @@
             position: absolute;
             top: 0; left: 0; right: 0; height: 3px;
             background: linear-gradient(90deg, var(--earth), var(--water), var(--fire), var(--air), var(--space));
-            opacity: 0.5;
+
         }
         .q-number {
             font-family: var(--font-mono);
@@ -185,7 +185,7 @@
             justify-content: space-between;
             margin-top: 8px;
             font-family: var(--font-mono);
-            font-size: 10px;
+            font-size: 11px;
             color: var(--text-dim);
             text-transform: uppercase;
             letter-spacing: 1px;
@@ -215,7 +215,7 @@
             color: var(--text-dim);
         }
         .nav-prev:hover { border-color: var(--border-bright); color: var(--text); }
-        .nav-prev:disabled { opacity: 0.3; cursor: default; }
+        .nav-prev:disabled { color: #4a4035; border-color: #2e2920; cursor: default; }
         .nav-next {
             background: var(--accent);
             border: 1px solid var(--accent);
@@ -223,7 +223,7 @@
             margin-left: auto;
         }
         .nav-next:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(212, 160, 68, 0.3); }
-        .nav-next:disabled { opacity: 0.3; cursor: default; transform: none; box-shadow: none; }
+        .nav-next:disabled { background: #3d352a; border-color: #3d352a; color: #5c4f3c; cursor: default; transform: none; box-shadow: none; }
         .nav-next.generate {
             background: linear-gradient(135deg, var(--accent), #b57614);
             box-shadow: 0 4px 20px rgba(212, 160, 68, 0.25);
@@ -593,10 +593,10 @@
                     responsive: true,
                     scales: { r: {
                         beginAtZero: true, max: 10,
-                        ticks: { stepSize: 2, color: '#8b7d65', backdropColor: 'transparent', font: { family: "'Source Code Pro', monospace", size: 10 }},
+                        ticks: { stepSize: 2, color: '#8b7d65', backdropColor: 'transparent', font: { family: "'Inter', sans-serif", size: 11 }},
                         grid: { color: 'rgba(255,255,255,0.06)' },
                         angleLines: { color: 'rgba(255,255,255,0.06)' },
-                        pointLabels: { color: '#d4c8b0', font: { family: "'Source Code Pro', monospace", size: 12, weight: 600 }}
+                        pointLabels: { color: '#d4c8b0', font: { family: "'Inter', sans-serif", size: 12, weight: 600 }}
                     }},
                     plugins: { legend: { display: false } }
                 }
