@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRI Assessment | Panchabootam Resonance Index</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Source+Code+Pro:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    
+    <style>
+        :root {
+            /* Synthai Premium Dark Mode */
+            --bg: #1a1612;
+            --surface: #242019;
+            --surface-elevated: #2e2920;
+            --text: #d4c8b0;
+            --text-dim: #8b7d65;
+            --accent: #d4a044;
+            --accent-dim: rgba(212, 160, 68, 0.1);
+            --border: #3d352a;
+            --border-bright: #5c4f3c;
+            
+            /* Elements */
+            --earth: #C49A30;
+            --water: #4A9ABF;
+            --fire: #E0663A;
+            --air: #8AB08A;
+            --space: #9B88CE;
+            
+            --font-body: 'Fraunces', Georgia, serif;
+            --font-mono: 'Source Code Pro', monospace;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: var(--font-body);
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+        }
+
+        /* App Header */
+        .app-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .app-header h1 {
+            font-size: 32px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--accent);
+        }
+        .app-header p {
+            font-family: var(--font-mono);
+            font-size: 12px;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Question Cards */
+        .question-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px 32px;
+            margin-bottom: 16px;
+            transition: border-color 0.2s;
+        }
+        .question-card:hover {
+            border-color: var(--border-bright);
+        }
+        .q-text {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .scale {
+            display: flex;
+            justify-content: space-between;
+            gap: 12px;
+        }
+        .scale-btn {
+            flex: 1;
+            background: var(--surface-elevated);
+            border: 1px solid var(--border);
+            color: var(--text);
+            font-family: var(--font-mono);
+            font-size: 14px;
+            font-weight: 600;
+            padding: 12px 0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .scale-btn:hover {
+            background: var(--border);
+        }
+        .scale-btn.selected {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: var(--bg);
+        }
+        .scale-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 8px;
+            font-family: var(--font-mono);
+            font-size: 10px;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* Primary Button */
+        .btn-primary {
+            display: block;
+            width: 100%;
+            background: linear-gradient(135deg, var(--accent), #b57614);
+            color: var(--bg);
+            border: none;
+            padding: 20px;
+            font-family: var(--font-mono);
+            font-size: 14px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-radius: 12px;
+            cursor: pointer;
+            margin-top: 40px;
+            box-shadow: 0 4px 20px rgba(212, 160, 68, 0.2);
+            transition: transform 0.2s;
+        }
+        .btn-primary:hover {
+            transform: translateY(-2px);
+        }
+        .btn-primary:active {
+            transform: translateY(0);
+        }
+
+        /* Result View */
+        #result-view {
+            display: none;
+        }
+        
+        .result-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 40px;
+            position: relative;
+            overflow: hidden;
+        }
+        .result-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; height: 4px;
+            background: linear-gradient(90deg, var(--earth), var(--water), var(--fire), var(--air), var(--space));
+        }
+        /* Make sure html2canvas captures the background properly */
+        #result-capture-area {
+            background: var(--surface);
+            padding: 20px;
+            border-radius: 12px;
+        }
+
+        .profile-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .profile-title {
+            font-family: var(--font-mono);
+            font-size: 11px;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 8px;
+        }
+        .dosha-title {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--accent);
+        }
+
+        .radar-box {
+            max-width: 340px;
+            margin: 0 auto 30px;
+        }
+
+        .element-scores {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-bottom: 40px;
+        }
+        .element-pill {
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-family: var(--font-mono);
+            font-size: 12px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .insight-section {
+            border-top: 1px solid var(--border);
+            padding-top: 24px;
+            margin-top: 24px;
+        }
+        .insight-section h4 {
+            font-family: var(--font-mono);
+            font-size: 11px;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+        }
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.7;
+        }
+
+        .download-btn {
+            background: transparent;
+            border: 1px solid var(--border-bright);
+            color: var(--accent);
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-family: var(--font-mono);
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 24px;
+            transition: all 0.2s;
+        }
+        .download-btn:hover {
+            background: var(--accent-dim);
+        }
+        
+        .progress-sticky {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--surface);
+            z-index: 10;
+        }
+        .progress-bar {
+            height: 100%;
+            background: var(--accent);
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="progress-sticky">
+        <div class="progress-bar" id="progress"></div>
+    </div>
+
+    <div class="container" id="assessment-view">
+        <div class="app-header">
+            <h1>Elemental Resonance</h1>
+            <p>Panchabootam Resonance Index (PRI)</p>
+        </div>
+
+        <div id="questions-container"></div>
+        
+        <button class="btn-primary" id="submit-btn" style="display: none;">Generate PRI Profile</button>
+    </div>
+
+    <div class="container" id="result-view">
+        <div class="result-card" id="result-capture-area">
+            <div class="profile-header">
+                <div class="profile-title">Your Resonance Profile</div>
+                <div class="dosha-title" id="res-dosha">Vata-Pitta Dominant</div>
+            </div>
+
+            <div class="radar-box">
+                <canvas id="radarChart" width="340" height="340"></canvas>
+            </div>
+
+            <div class="element-scores" id="res-pills">
+                <!-- Pills injected here -->
+            </div>
+
+            <div class="insight-section">
+                <h4>Capability Architecture</h4>
+                <div class="insight-text" id="res-capability"></div>
+            </div>
+
+            <div class="insight-section">
+                <h4>Primary Friction</h4>
+                <div class="insight-text" id="res-friction" style="color: var(--red); opacity: 0.9;"></div>
+            </div>
+        </div>
+        
+        <button class="download-btn" id="download-btn">Download as Image</button>
+        <button class="download-btn" style="margin-top: 12px;" onclick="location.reload()">Retake Assessment</button>
+    </div>
+
+    <script>
+        // Data Structure
+        const questions = [
+            // EARTH (Kapha base)
+            { id: 1, element: 'earth', text: "When a project hits the 80% mark, I find it deeply satisfying to do the tedious finishing work." },
+            { id: 2, element: 'earth', text: "I maintain the systems and habits I build, even when they become boring." },
+            { id: 3, element: 'earth', text: "My calendar is highly structured, and I rarely deviate from my planned routine." },
+            { id: 4, element: 'earth', text: "People come to me when things are chaotic because I am the anchor that does not move." },
+            { id: 5, element: 'earth', text: "Before making a leap, I ensure I have an unshakeable safety net and deep reserves." },
+            // WATER (Kapha coolant)
+            { id: 6, element: 'water', text: "If a constraint blocks my path, my instinct is to fluidly pivot around it rather than smash through it." },
+            { id: 7, element: 'water', text: "I can easily \"read the room\" and adjust my communication to match the unspoken emotions of others." },
+            { id: 8, element: 'water', text: "I am quick to forgive and rarely hold onto professional or personal grudges." },
+            { id: 9, element: 'water', text: "I prioritize the emotional well-being of my team over the immediate speed of the deliverable." },
+            { id: 10, element: 'water', text: "I know how to completely turn off \"work mode\" and rest without feeling guilty." },
+            // FIRE (Pitta engine)
+            { id: 11, element: 'fire', text: "When I see a system that is slow or inefficient, I feel a physical urge to dismantle and rebuild it." },
+            { id: 12, element: 'fire', text: "I am often told that my pace or intensity is intimidating or exhausting to the people around me." },
+            { id: 13, element: 'fire', text: "I sacrifice my own sleep, meals, or comfort to ensure a goal is achieved on my timeline." },
+            { id: 14, element: 'fire', text: "My response to a crisis is immediate, decisive, and often aggressive action." },
+            { id: 15, element: 'fire', text: "I view comfort zones as dangerous places; I am always pushing for the next transformation." },
+            // AIR (Vata velocity)
+            { id: 16, element: 'air', text: "I frequently generate five new ideas before I have finished executing the first one." },
+            { id: 17, element: 'air', text: "I find it intensely difficult to focus on a single, prolonged task without context-switching." },
+            { id: 18, element: 'air', text: "I am a rapid communicator, often connecting patterns across entirely unrelated domains." },
+            { id: 19, element: 'air', text: "My career or interests involve constant movement, pivoting, and changing environments." },
+            { id: 20, element: 'air', text: "I start incredibly strong on new initiatives but rely on others to manage the long-term execution." },
+            // SPACE (Vata container)
+            { id: 21, element: 'space', text: "I frequently ask \"Why are we even doing this?\" when others are focused on \"How do we do this?\"" },
+            { id: 22, element: 'space', text: "I can sit in total silence without a device, book, or task, and feel completely at peace." },
+            { id: 23, element: 'space', text: "I make decisions based on whether an action aligns with a multi-generational or deeply spiritual legacy." },
+            { id: 24, element: 'space', text: "I easily detach my personal self-worth from the success or failure of my commercial output." },
+            { id: 25, element: 'space', text: "I view human organizations as living ecosystems rather than mechanical machines." }
+        ];
+
+        // Shuffle questions
+        const shuffled = questions.map(value => ({ value, sort: Math.random() }))
+            .sort((a, b) => a.sort - b.sort)
+            .map(({ value }) => value);
+
+        const state = { answers: {} };
+
+        // Render Questions
+        const container = document.getElementById('questions-container');
+        const submitBtn = document.getElementById('submit-btn');
+        const progressBar = document.getElementById('progress');
+
+        shuffled.forEach((q, idx) => {
+            const card = document.createElement('div');
+            card.className = 'question-card';
+            card.id = `q-${q.id}`;
+            card.innerHTML = `
+                <div class="q-text">${idx + 1}. ${q.text}</div>
+                <div class="scale-labels"><span>Never</span><span>Always</span></div>
+                <div class="scale">
+                    <button class="scale-btn" data-qid="${q.id}" data-val="1">1</button>
+                    <button class="scale-btn" data-qid="${q.id}" data-val="2">2</button>
+                    <button class="scale-btn" data-qid="${q.id}" data-val="3">3</button>
+                    <button class="scale-btn" data-qid="${q.id}" data-val="4">4</button>
+                    <button class="scale-btn" data-qid="${q.id}" data-val="5">5</button>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+
+        // Handle Clicks
+        document.querySelectorAll('.scale-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const qid = e.target.getAttribute('data-qid');
+                const val = parseInt(e.target.getAttribute('data-val'));
+                
+                // Update state
+                state.answers[qid] = val;
+                
+                // Update UI
+                const parent = e.target.parentElement;
+                parent.querySelectorAll('.scale-btn').forEach(b => b.classList.remove('selected'));
+                e.target.classList.add('selected');
+
+                // Progress
+                const answeredCount = Object.keys(state.answers).length;
+                progressBar.style.width = `${(answeredCount / 25) * 100}%`;
+
+                // Show submit if done
+                if(answeredCount === 25) {
+                    submitBtn.style.display = 'block';
+                    setTimeout(() => window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' }), 100);
+                } else {
+                    // Auto-scroll to next unanswered
+                    const nextCard = document.getElementById(`q-${qid}`).nextElementSibling;
+                    if(nextCard && !nextCard.querySelector('.selected')) {
+                        const y = nextCard.getBoundingClientRect().top + window.scrollY - 60;
+                        window.scrollTo({top: y, behavior: 'smooth'});
+                    }
+                }
+            });
+        });
+
+        // Process Results
+        submitBtn.addEventListener('click', () => {
+            document.getElementById('assessment-view').style.display = 'none';
+            document.getElementById('result-view').style.display = 'block';
+            window.scrollTo({top: 0});
+            generateResult();
+        });
+
+        const colors = {
+            earth: '#C49A30', water: '#4A9ABF', fire: '#E0663A', air: '#8AB08A', space: '#9B88CE',
+            fireHover: 'rgba(224, 102, 58, 0.15)', waterHover: 'rgba(74, 154, 191, 0.15)'
+        };
+
+        function generateResult() {
+            // Aggregate Scores
+            const scores = { earth: 0, water: 0, fire: 0, air: 0, space: 0 };
+            questions.forEach(q => { scores[q.element] += state.answers[q.id]; }); // Max 25 per element
+            
+            // Normalize to 1-10
+            const finalScores = {
+                earth: Math.round((scores.earth / 25) * 10),
+                water: Math.round((scores.water / 25) * 10),
+                fire: Math.round((scores.fire / 25) * 10),
+                air: Math.round((scores.air / 25) * 10),
+                space: Math.round((scores.space / 25) * 10)
+            };
+
+            // Derive Doshas
+            const doshas = {
+                vata: (finalScores.air + finalScores.space) / 2, // Movement / Vision
+                pitta: (finalScores.fire + finalScores.water) / 2, // Energy / Transformation
+                kapha: (finalScores.earth + finalScores.water) / 2 // Structure / Empathy
+            };
+
+            const ascDoshas = Object.keys(doshas).sort((a,b) => doshas[b] - doshas[a]);
+            const dominant = ascDoshas[0];
+            const secondary = ascDoshas[1];
+            const lowest = ascDoshas[2];
+            
+            // Set Titles
+            const doshaString = `${capitalize(dominant)}-${capitalize(secondary)} Dominant`;
+            document.getElementById('res-dosha').innerText = doshaString;
+
+            // Generate Insights
+            document.getElementById('res-capability').innerText = getCapabilityInsight(dominant, secondary);
+            document.getElementById('res-friction').innerHTML = getFrictionInsight(lowest);
+
+            // Render Pills
+            const pillsHtml = [
+                {k: 'earth', l: '🌍 Earth', s: finalScores.earth},
+                {k: 'water', l: '💧 Water', s: finalScores.water},
+                {k: 'fire', l: '🔥 Fire', s: finalScores.fire},
+                {k: 'air', l: '💨 Air', s: finalScores.air},
+                {k: 'space', l: '🌌 Space', s: finalScores.space}
+            ].sort((a,b) => b.s - a.s).map(p => `
+                <div class="element-pill" style="background: color-mix(in srgb, var(--${p.k}) 12%, var(--surface)); color: var(--${p.k}); border: 1px solid color-mix(in srgb, var(--${p.k}) 25%, transparent);">
+                    ${p.l} ${p.s}/10
+                </div>
+            `).join('');
+            document.getElementById('res-pills').innerHTML = pillsHtml;
+
+            // Render Radar
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            const bgHoverColor = dominant === 'kapha' ? colors.waterHover : colors.fireHover;
+            const borderColor = dominant === 'kapha' ? colors.water : dominant === 'vata' ? colors.space : colors.fire;
+            
+            new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: ['🌍 Earth', '💧 Water', '🔥 Fire', '💨 Air', '🌌 Space'],
+                    datasets: [{
+                        data: [finalScores.earth, finalScores.water, finalScores.fire, finalScores.air, finalScores.space],
+                        backgroundColor: bgHoverColor,
+                        borderColor: borderColor,
+                        borderWidth: 2,
+                        pointBackgroundColor: [colors.earth, colors.water, colors.fire, colors.air, colors.space],
+                        pointBorderColor: '#fff',
+                        pointBorderWidth: 1,
+                        pointRadius: 5
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        r: {
+                            beginAtZero: true, max: 10,
+                            ticks: { stepSize: 2, color: '#8b7d65', backdropColor: 'transparent', font: { family: "'Source Code Pro', monospace", size: 10 }},
+                            grid: { color: 'rgba(255,255,255,0.06)' },
+                            angleLines: { color: 'rgba(255,255,255,0.06)' },
+                            pointLabels: { color: '#d4c8b0', font: { family: "'Source Code Pro', monospace", size: 12, weight: 600 }}
+                        }
+                    },
+                    plugins: { legend: { display: false } }
+                }
+            });
+        }
+
+        function getCapabilityInsight(dom, sec) {
+            const combo = dom + '-' + sec;
+            if(combo.includes('vata') && combo.includes('pitta')) return "Highly visionary, intensely driven, and fast-moving. You operate at velocity, continuously generating ideas and executing them with forceful energy. Your architecture is built for rapid transformation.";
+            if(combo.includes('kapha') && combo.includes('vata')) return "You combine extreme structural grounding with expansive philosophical vision. You build long-lasting physical or organizational legacies but maintain an orbital awareness of 'why' you are building them.";
+            if(combo.includes('kapha') && combo.includes('pitta')) return "You possess the endurance of a marathon runner. You have the structural stability to weather storms, coupled with the slow-burning metabolic fire required to drive massive legacy projects to completion.";
+            return "A balanced processor, capable of maintaining dynamic equilibrium across multiple vectors of responsibility.";
+        }
+
+        function getFrictionInsight(lowest) {
+            if(lowest === 'kapha') return "<strong>The Sprinter Cycle:</strong> A significant deficit in Earth/Water means you build incredible velocity but lack the foundation to pace it. Your friction points are burnout, unfinished long-term projects, and an inability to rest without guilt. You are building beautiful structures on sand.";
+            if(lowest === 'vata') return "<strong>The Air Bottleneck:</strong> A significant deficit in Air means you struggle to distribute and scale your ideas. While your foundation is unshakeable, your systems, automations, and digital architecture are likely clogged, causing you to drown in manual administrative friction.";
+            if(lowest === 'pitta') return "<strong>The Ignition Gap:</strong> A deficit in Fire means you possess incredible vision (Space) and empathy (Water), but struggle to enforce boundaries, destroy obsolete systems, or push aggressively through market resistance.";
+            return "There is a slight imbalance that requires intermittent re-centering, but no critical structural failure.";
+        }
+
+        function capitalize(str) { return str.charAt(0).toUpperCase() + str.slice(1); }
+
+        // Download Image Logic
+        document.getElementById('download-btn').addEventListener('click', () => {
+             const element = document.getElementById('result-capture-area');
+             const btn = document.getElementById('download-btn');
+             const originalText = btn.innerText;
+             btn.innerText = "Generating Snapshot...";
+             
+             html2canvas(element, {
+                 backgroundColor: '#242019',
+                 scale: 2,
+                 logging: false
+             }).then(canvas => {
+                 const link = document.createElement('a');
+                 link.download = 'PRI-Assessment-Result.png';
+                 link.href = canvas.toDataURL('image/png');
+                 link.click();
+                 btn.innerText = "Downloaded!";
+                 setTimeout(() => btn.innerText = originalText, 2000);
+             });
+        });
+
+    </script>
+</body>
+</html>
