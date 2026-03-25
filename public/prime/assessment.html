@@ -563,7 +563,7 @@
 
             document.getElementById('res-dosha').innerText = `${cap(dom)}-${cap(sec)} Dominant`;
             document.getElementById('res-capability').innerText = getCapability(dom, sec, f);
-            document.getElementById('res-friction').innerHTML = getFriction(low, f);
+            document.getElementById('res-friction').innerHTML = getFriction(dom, sec, f);
 
             const pills = [
                 {k:'earth',l:'🌍 Earth',s:f.earth},{k:'water',l:'💧 Water',s:f.water},
@@ -635,7 +635,7 @@
             return profiles[key] || `You show a balanced profile across all dimensions. Your strongest elements are ${t1} (${s1}/10) and ${t2} (${s2}/10). You do not have a single dominant pattern, which gives you flexibility but can also make it harder to identify your core operating style.`;
         }
 
-        function getFriction(low, f) {
+        function getFriction(dom, sec, f) {
             const ranked = Object.entries(f).sort((a,b) => a[1] - b[1]);
             const w1Name = elNames[ranked[0][0]], w1Score = ranked[0][1];
             const w2Name = elNames[ranked[1][0]], w2Score = ranked[1][1];
@@ -647,22 +647,37 @@
             else if (gap >= 3) severity = 'a clear';
             else severity = 'a mild';
 
+            const key = dom + '-' + sec;
+            const scoreLine = `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10), which is ${severity} gap.`;
+
             const frictionMap = {
-                kapha: {
+                'vata-pitta': {
                     name: 'The Sprinter Cycle',
-                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10), which is ${severity} gap. You move fast and generate ideas at high speed, but lack the grounding to sustain them. Your risk areas are burnout, half-finished projects, and difficulty resting without guilt.`
+                    desc: `${scoreLine} You are all speed and no brakes. You launch projects like rockets but rarely stay to see them land. Your risk areas are burnout, scattered energy across too many fronts, and a pattern of brilliant starts followed by quiet abandonments.`
                 },
-                vata: {
-                    name: 'The Distribution Bottleneck',
-                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10), which is ${severity} gap. Your foundation is strong and your drive is real, but you struggle to spread your ideas efficiently. You likely get stuck in manual, repetitive work because you lack the systems to scale.`
+                'pitta-vata': {
+                    name: 'The Combustion Loop',
+                    desc: `${scoreLine} You run so hot and so fast that you burn through people, plans, and your own energy before the work is done. You mistake intensity for progress. Your risk is pushing others away with your pace while convincing yourself you are the only one who cares enough.`
                 },
-                pitta: {
+                'pitta-kapha': {
+                    name: 'The Sealed Engine',
+                    desc: `${scoreLine} You have enormous drive and rock-solid endurance, but your ideas struggle to travel beyond your immediate circle. You build incredible things that nobody knows about because you lack the communication velocity and networking instinct to spread them.`
+                },
+                'kapha-pitta': {
+                    name: 'The Slow Burn',
+                    desc: `${scoreLine} You are deeply reliable and fiercely persistent, but you struggle with rapid ideation and lateral thinking. When your environment changes quickly, you can feel stuck because your strength is in consistency, not reinvention.`
+                },
+                'kapha-vata': {
+                    name: 'The Grounded Ceiling',
+                    desc: `${scoreLine} Your foundation is unbreakable and your vision is clear, but you lack the aggressive fire to push through market resistance, enforce difficult boundaries, or dismantle systems that have outlived their purpose. You see what needs to change but hesitate to force the change.`
+                },
+                'vata-kapha': {
                     name: 'The Ignition Gap',
-                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10), which is ${severity} gap. You have vision and empathy, but struggle to push aggressively, enforce boundaries, or remove things that are no longer working. Starting the engine is harder for you than steering it.`
+                    desc: `${scoreLine} You are full of vision and deeply rooted in purpose, but you struggle to generate the raw energy needed to start the hard, uncomfortable work. You think beautifully and plan patiently, but the execution phase feels like pushing a boulder uphill.`
                 }
             };
 
-            const pattern = frictionMap[low] || { name: 'Balanced', desc: 'Your scores are relatively even across all areas. There is no critical structural gap.' };
+            const pattern = frictionMap[key] || { name: 'Balanced', desc: 'Your scores are relatively even across all areas. There is no critical structural gap.' };
             return `<strong>${pattern.name}:</strong> ${pattern.desc}`;
         }
 
