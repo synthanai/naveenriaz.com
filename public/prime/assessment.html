@@ -466,6 +466,9 @@
             document.getElementById('res-friction').innerHTML = getFrictionInsight(lowest);
 
             // Render Pills
+            const rgbColors = {
+                earth: '196, 154, 48', water: '74, 154, 191', fire: '224, 102, 58', air: '138, 176, 138', space: '155, 136, 206'
+            };
             const pillsHtml = [
                 {k: 'earth', l: '🌍 Earth', s: finalScores.earth},
                 {k: 'water', l: '💧 Water', s: finalScores.water},
@@ -473,7 +476,7 @@
                 {k: 'air', l: '💨 Air', s: finalScores.air},
                 {k: 'space', l: '🌌 Space', s: finalScores.space}
             ].sort((a,b) => b.s - a.s).map(p => `
-                <div class="element-pill" style="background: color-mix(in srgb, var(--${p.k}) 12%, var(--surface)); color: var(--${p.k}); border: 1px solid color-mix(in srgb, var(--${p.k}) 25%, transparent);">
+                <div class="element-pill" style="background: rgba(${rgbColors[p.k]}, 0.12); color: var(--${p.k}); border: 1px solid rgba(${rgbColors[p.k]}, 0.25);">
                     ${p.l} ${p.s}/10
                 </div>
             `).join('');
