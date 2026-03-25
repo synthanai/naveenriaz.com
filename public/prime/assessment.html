@@ -607,59 +607,58 @@
         const elNames = { earth:'Earth', water:'Water', fire:'Fire', air:'Air', space:'Space' };
 
         function getCapability(dom, sec, f) {
-            // Find the two strongest elements
             const ranked = Object.entries(f).sort((a,b) => b[1] - a[1]);
-            const top1 = ranked[0], top2 = ranked[1];
-            const t1Name = elNames[top1[0]], t1Score = top1[1];
-            const t2Name = elNames[top2[0]], t2Score = top2[1];
+            const t1 = elNames[ranked[0][0]], s1 = ranked[0][1];
+            const t2 = elNames[ranked[1][0]], s2 = ranked[1][1];
+            const key = dom + '-' + sec;
 
-            // Dosha-based framing
-            const doshaTraits = {
-                vata: 'vision, speed, and the ability to connect ideas across different areas',
-                pitta: 'drive, decisiveness, and the energy to push through resistance',
-                kapha: 'stability, endurance, and the patience to build things that last'
+            const profiles = {
+                'vata-pitta':
+                    `You are a fast mover who runs on ideas and intensity. You see patterns before others do, and you act on them before most people have finished thinking. Your mind generates connections at high speed, and your drive ensures they do not stay as just ideas. You are built for rapid change, not slow maintenance. Your strongest elements are ${t1} (${s1}/10) and ${t2} (${s2}/10).`,
+
+                'vata-kapha':
+                    `You are an unusual combination: a big-picture thinker with deep roots. You ask "why" before "how," and when you do commit to building something, you build it to last generations. You move between vision and structure naturally, though the world often sees only one side of you at a time. Your strongest elements are ${t1} (${s1}/10) and ${t2} (${s2}/10).`,
+
+                'pitta-vata':
+                    `You lead with intensity and back it up with speed. You are the person who walks into a broken situation, decides the fix in seconds, and starts executing before others have finished assessing the problem. Your energy is contagious but can be overwhelming. You do not wait for permission. Your strongest elements are ${t1} (${s1}/10) and ${t2} (${s2}/10).`,
+
+                'pitta-kapha':
+                    `You have the engine of a sprinter and the stamina of a marathon runner. You are deeply driven but also patient. You do not just start things, you finish them, and you finish them properly. People trust you because you combine fierce ambition with steady, reliable follow-through. Your strongest elements are ${t1} (${s1}/10) and ${t2} (${s2}/10).`,
+
+                'kapha-vata':
+                    `You are the quiet architect with a telescope. Your foundation is unshakeable, your habits are rock-solid, and your patience is your greatest weapon. But underneath that calm exterior, you are constantly thinking about the bigger picture, the longer horizon, the deeper meaning. You build slowly, but what you build outlasts everything else. Your strongest elements are ${t1} (${s1}/10) and ${t2} (${s2}/10).`,
+
+                'kapha-pitta':
+                    `You are the person who holds the ground while others panic. You combine deep physical endurance with a slow-burning inner fire that never goes out. You do not rush, but you never stop either. When others burn out, you are still standing, still pushing, still delivering. Your consistency is your superpower. Your strongest elements are ${t1} (${s1}/10) and ${t2} (${s2}/10).`
             };
 
-            // Compose
-            let text = `Your strongest elements are ${t1Name} (${t1Score}/10) and ${t2Name} (${t2Score}/10). `;
-            text += `Your dominant pattern is ${cap(dom)}-${cap(sec)}, which gives you ${doshaTraits[dom]}. `;
-
-            // Add secondary flavour
-            if (dom !== sec) {
-                text += `This is reinforced by your ${cap(sec)} side, which adds ${doshaTraits[sec]}.`;
-            }
-
-            return text;
+            return profiles[key] || `You show a balanced profile across all dimensions. Your strongest elements are ${t1} (${s1}/10) and ${t2} (${s2}/10). You do not have a single dominant pattern, which gives you flexibility but can also make it harder to identify your core operating style.`;
         }
 
         function getFriction(low, f) {
-            // Find the weakest element
             const ranked = Object.entries(f).sort((a,b) => a[1] - b[1]);
-            const weak1 = ranked[0], weak2 = ranked[1];
-            const w1Name = elNames[weak1[0]], w1Score = weak1[1];
-            const w2Name = elNames[weak2[0]], w2Score = weak2[1];
-
-            // Severity
+            const w1Name = elNames[ranked[0][0]], w1Score = ranked[0][1];
+            const w2Name = elNames[ranked[1][0]], w2Score = ranked[1][1];
             const strongest = ranked[ranked.length - 1][1];
             const gap = strongest - w1Score;
+
             let severity;
             if (gap >= 5) severity = 'a major';
-            else if (gap >= 3) severity = 'a notable';
+            else if (gap >= 3) severity = 'a clear';
             else severity = 'a mild';
 
-            // Dosha friction patterns
             const frictionMap = {
                 kapha: {
                     name: 'The Sprinter Cycle',
-                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10). This is ${severity} gap. You move fast and generate ideas at high speed, but lack the grounding and patience to sustain them long-term. Your friction points are burnout, unfinished projects, and difficulty resting.`
+                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10), which is ${severity} gap. You move fast and generate ideas at high speed, but lack the grounding to sustain them. Your risk areas are burnout, half-finished projects, and difficulty resting without guilt.`
                 },
                 vata: {
                     name: 'The Distribution Bottleneck',
-                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10). This is ${severity} gap. Your foundation is strong and your drive is real, but you struggle to spread your ideas efficiently. You likely get stuck in manual, repetitive work because you lack the systems to scale.`
+                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10), which is ${severity} gap. Your foundation is strong and your drive is real, but you struggle to spread your ideas efficiently. You likely get stuck in manual, repetitive work because you lack the systems to scale.`
                 },
                 pitta: {
                     name: 'The Ignition Gap',
-                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10). This is ${severity} gap. You have vision and empathy, but struggle to push aggressively, enforce boundaries, or tear down things that are no longer working. Starting the engine is harder for you than steering it.`
+                    desc: `Your lowest scores are ${w1Name} (${w1Score}/10) and ${w2Name} (${w2Score}/10), which is ${severity} gap. You have vision and empathy, but struggle to push aggressively, enforce boundaries, or remove things that are no longer working. Starting the engine is harder for you than steering it.`
                 }
             };
 
