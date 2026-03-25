@@ -4,93 +4,160 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PRI Assessment | Panchabootam Resonance Index</title>
-    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Source+Code+Pro:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-    <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-    
     <style>
         :root {
-            /* Synthai Premium Dark Mode */
             --bg: #1a1612;
             --surface: #242019;
             --surface-elevated: #2e2920;
             --text: #d4c8b0;
             --text-dim: #8b7d65;
+            --text-sub: #6b5f4d;
             --accent: #d4a044;
             --accent-dim: rgba(212, 160, 68, 0.1);
             --border: #3d352a;
             --border-bright: #5c4f3c;
-            
-            /* Elements */
             --earth: #C49A30;
             --water: #4A9ABF;
             --fire: #E0663A;
             --air: #8AB08A;
             --space: #9B88CE;
-            
             --font-body: 'Fraunces', Georgia, serif;
             --font-mono: 'Source Code Pro', monospace;
         }
-
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
         body {
             font-family: var(--font-body);
             background: var(--bg);
             color: var(--text);
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
             padding: 20px;
         }
 
-        .container {
-            max-width: 800px;
-            margin: 40px auto;
-        }
-
-        /* App Header */
-        .app-header {
+        /* ── INTRO SCREEN ── */
+        .intro-screen {
+            max-width: 560px;
             text-align: center;
-            margin-bottom: 40px;
+            animation: fadeIn 0.6s ease;
         }
-        .app-header h1 {
-            font-size: 32px;
-            font-weight: 600;
-            margin-bottom: 8px;
+        .intro-screen h1 {
+            font-size: 36px;
+            font-weight: 700;
             color: var(--accent);
+            margin-bottom: 8px;
         }
-        .app-header p {
+        .intro-screen .subtitle {
             font-family: var(--font-mono);
-            font-size: 12px;
+            font-size: 11px;
             color: var(--text-dim);
             text-transform: uppercase;
             letter-spacing: 2px;
+            margin-bottom: 32px;
+        }
+        .intro-screen .intro-body {
+            font-size: 16px;
+            line-height: 1.8;
+            color: var(--text);
+            margin-bottom: 40px;
+            text-align: left;
+        }
+        .intro-screen .intro-body strong { color: var(--accent); }
+
+        /* ── WIZARD PANEL ── */
+        .wizard {
+            max-width: 640px;
+            width: 100%;
+            display: none;
+            animation: fadeIn 0.4s ease;
         }
 
-        /* Question Cards */
-        .question-card {
+        /* Progress */
+        .wizard-progress {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 32px;
+        }
+        .progress-track {
+            flex: 1;
+            height: 4px;
+            background: var(--border);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background: var(--accent);
+            width: 0%;
+            transition: width 0.4s ease;
+            border-radius: 4px;
+        }
+        .progress-label {
+            font-family: var(--font-mono);
+            font-size: 11px;
+            color: var(--text-dim);
+            white-space: nowrap;
+        }
+
+        /* Question Card */
+        .question-panel {
             background: var(--surface);
             border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 24px 32px;
-            margin-bottom: 16px;
-            transition: border-color 0.2s;
+            border-radius: 16px;
+            padding: 40px;
+            min-height: 340px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
         }
-        .question-card:hover {
-            border-color: var(--border-bright);
+        .question-panel::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; height: 3px;
+            background: linear-gradient(90deg, var(--earth), var(--water), var(--fire), var(--air), var(--space));
+            opacity: 0.5;
+        }
+        .q-number {
+            font-family: var(--font-mono);
+            font-size: 11px;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 16px;
         }
         .q-text {
-            font-size: 18px;
-            margin-bottom: 20px;
+            font-size: 22px;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 12px;
+            min-height: 66px;
         }
-        .scale {
+        .q-feynman {
+            font-size: 13px;
+            color: var(--text-sub);
+            font-style: italic;
+            line-height: 1.5;
+            margin-bottom: 32px;
+            padding-left: 16px;
+            border-left: 2px solid var(--border);
+        }
+
+        /* Scale */
+        .scale-row {
             display: flex;
-            justify-content: space-between;
-            gap: 12px;
+            gap: 10px;
         }
         .scale-btn {
             flex: 1;
@@ -100,18 +167,18 @@
             font-family: var(--font-mono);
             font-size: 14px;
             font-weight: 600;
-            padding: 12px 0;
-            border-radius: 8px;
+            padding: 14px 0;
+            border-radius: 10px;
             cursor: pointer;
             transition: all 0.2s;
         }
-        .scale-btn:hover {
-            background: var(--border);
-        }
+        .scale-btn:hover { background: var(--border); transform: translateY(-1px); }
         .scale-btn.selected {
             background: var(--accent);
             border-color: var(--accent);
             color: var(--bg);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px rgba(212, 160, 68, 0.3);
         }
         .scale-labels {
             display: flex;
@@ -124,37 +191,46 @@
             letter-spacing: 1px;
         }
 
-        /* Primary Button */
-        .btn-primary {
-            display: block;
-            width: 100%;
-            background: linear-gradient(135deg, var(--accent), #b57614);
-            color: var(--bg);
-            border: none;
-            padding: 20px;
+        /* Navigation */
+        .wizard-nav {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 24px;
+            gap: 16px;
+        }
+        .nav-btn {
+            padding: 14px 28px;
+            border-radius: 10px;
             font-family: var(--font-mono);
-            font-size: 14px;
-            font-weight: 700;
+            font-size: 12px;
+            font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 2px;
-            border-radius: 12px;
+            letter-spacing: 1px;
             cursor: pointer;
-            margin-top: 40px;
-            box-shadow: 0 4px 20px rgba(212, 160, 68, 0.2);
-            transition: transform 0.2s;
+            transition: all 0.2s;
         }
-        .btn-primary:hover {
-            transform: translateY(-2px);
+        .nav-prev {
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--text-dim);
         }
-        .btn-primary:active {
-            transform: translateY(0);
+        .nav-prev:hover { border-color: var(--border-bright); color: var(--text); }
+        .nav-prev:disabled { opacity: 0.3; cursor: default; }
+        .nav-next {
+            background: var(--accent);
+            border: 1px solid var(--accent);
+            color: var(--bg);
+            margin-left: auto;
+        }
+        .nav-next:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(212, 160, 68, 0.3); }
+        .nav-next:disabled { opacity: 0.3; cursor: default; transform: none; box-shadow: none; }
+        .nav-next.generate {
+            background: linear-gradient(135deg, var(--accent), #b57614);
+            box-shadow: 0 4px 20px rgba(212, 160, 68, 0.25);
         }
 
-        /* Result View */
-        #result-view {
-            display: none;
-        }
-        
+        /* ── RESULT VIEW ── */
+        #result-view { display: none; max-width: 640px; width: 100%; animation: fadeIn 0.6s ease; }
         .result-card {
             background: var(--surface);
             border: 1px solid var(--border);
@@ -169,17 +245,8 @@
             top: 0; left: 0; right: 0; height: 4px;
             background: linear-gradient(90deg, var(--earth), var(--water), var(--fire), var(--air), var(--space));
         }
-        /* Make sure html2canvas captures the background properly */
-        #result-capture-area {
-            background: var(--surface);
-            padding: 20px;
-            border-radius: 12px;
-        }
-
-        .profile-header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
+        #result-capture-area { background: var(--surface); padding: 20px; border-radius: 12px; }
+        .profile-header { text-align: center; margin-bottom: 40px; }
         .profile-title {
             font-family: var(--font-mono);
             font-size: 11px;
@@ -188,24 +255,9 @@
             letter-spacing: 2px;
             margin-bottom: 8px;
         }
-        .dosha-title {
-            font-size: 28px;
-            font-weight: 700;
-            color: var(--accent);
-        }
-
-        .radar-box {
-            max-width: 340px;
-            margin: 0 auto 30px;
-        }
-
-        .element-scores {
-            display: flex;
-            justify-content: center;
-            gap: 12px;
-            flex-wrap: wrap;
-            margin-bottom: 40px;
-        }
+        .dosha-title { font-size: 28px; font-weight: 700; color: var(--accent); }
+        .radar-box { max-width: 340px; margin: 0 auto 30px; }
+        .element-scores { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-bottom: 40px; }
         .element-pill {
             padding: 6px 16px;
             border-radius: 20px;
@@ -216,12 +268,7 @@
             align-items: center;
             gap: 8px;
         }
-
-        .insight-section {
-            border-top: 1px solid var(--border);
-            padding-top: 24px;
-            margin-top: 24px;
-        }
+        .insight-section { border-top: 1px solid var(--border); padding-top: 24px; margin-top: 24px; }
         .insight-section h4 {
             font-family: var(--font-mono);
             font-size: 11px;
@@ -230,11 +277,7 @@
             letter-spacing: 2px;
             margin-bottom: 12px;
         }
-        .insight-text {
-            font-size: 16px;
-            line-height: 1.7;
-        }
-
+        .insight-text { font-size: 16px; line-height: 1.7; }
         .download-btn {
             background: transparent;
             border: 1px solid var(--border-bright);
@@ -251,193 +294,258 @@
             margin-top: 24px;
             transition: all 0.2s;
         }
-        .download-btn:hover {
-            background: var(--accent-dim);
-        }
-        
-        .progress-sticky {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 4px;
-            background: var(--surface);
-            z-index: 10;
-        }
-        .progress-bar {
-            height: 100%;
-            background: var(--accent);
-            width: 0%;
-            transition: width 0.3s ease;
-        }
+        .download-btn:hover { background: var(--accent-dim); }
 
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+        @keyframes slideIn { from { opacity: 0; transform: translateX(30px); } to { opacity: 1; transform: translateX(0); } }
+        .slide-in { animation: slideIn 0.3s ease; }
     </style>
 </head>
 <body>
 
-    <div class="progress-sticky">
-        <div class="progress-bar" id="progress"></div>
-    </div>
-
-    <div class="container" id="assessment-view">
-        <div class="app-header">
-            <h1>Elemental Resonance</h1>
-            <p>Panchabootam Resonance Index (PRI)</p>
+    <!-- INTRO -->
+    <div class="intro-screen" id="intro-view">
+        <h1>Elemental Resonance</h1>
+        <div class="subtitle">Panchabootam Resonance Index (PRI)</div>
+        <div class="intro-body">
+            <p>This is a <strong>25-question behavioral diagnostic</strong> that maps your internal operating system to the five classical elements: Earth, Water, Fire, Air, and Space.</p>
+            <br>
+            <p>There are no right or wrong answers. Each question probes a specific capability: how you handle chaos, how you rest, how you create, and how you lead.</p>
+            <br>
+            <p>Answer honestly. The tool works best when you select what you <em>actually do</em>, not what you aspire to do.</p>
+            <br>
+            <p>It takes about <strong>3 minutes</strong>.</p>
         </div>
-
-        <div id="questions-container"></div>
-        
-        <button class="btn-primary" id="submit-btn" style="display: none;">Generate PRI Profile</button>
+        <button class="nav-btn nav-next" onclick="startAssessment()" style="width: 100%; padding: 18px;">Begin Assessment</button>
     </div>
 
-    <div class="container" id="result-view">
+    <!-- WIZARD -->
+    <div class="wizard" id="wizard-view">
+        <div class="wizard-progress">
+            <div class="progress-track"><div class="progress-fill" id="progress"></div></div>
+            <div class="progress-label" id="progress-label">1 / 25</div>
+        </div>
+        <div class="question-panel" id="question-panel">
+            <div class="q-number" id="q-number">Question 1</div>
+            <div class="q-text" id="q-text"></div>
+            <div class="q-feynman" id="q-feynman"></div>
+            <div class="scale-labels"><span>Never me</span><span>Always me</span></div>
+            <div class="scale-row" id="scale-row"></div>
+        </div>
+        <div class="wizard-nav">
+            <button class="nav-btn nav-prev" id="btn-prev" onclick="navigate(-1)" disabled>Previous</button>
+            <button class="nav-btn nav-next" id="btn-next" onclick="navigate(1)" disabled>Next</button>
+        </div>
+    </div>
+
+    <!-- RESULT -->
+    <div id="result-view">
         <div class="result-card" id="result-capture-area">
             <div class="profile-header">
                 <div class="profile-title">Your Resonance Profile</div>
-                <div class="dosha-title" id="res-dosha">Vata-Pitta Dominant</div>
+                <div class="dosha-title" id="res-dosha"></div>
             </div>
-
-            <div class="radar-box">
-                <canvas id="radarChart" width="340" height="340"></canvas>
-            </div>
-
-            <div class="element-scores" id="res-pills">
-                <!-- Pills injected here -->
-            </div>
-
+            <div class="radar-box"><canvas id="radarChart" width="340" height="340"></canvas></div>
+            <div class="element-scores" id="res-pills"></div>
             <div class="insight-section">
                 <h4>Capability Architecture</h4>
                 <div class="insight-text" id="res-capability"></div>
             </div>
-
             <div class="insight-section">
                 <h4>Primary Friction</h4>
-                <div class="insight-text" id="res-friction" style="color: var(--red); opacity: 0.9;"></div>
+                <div class="insight-text" id="res-friction"></div>
             </div>
         </div>
-        
         <button class="download-btn" id="download-btn">Download as Image</button>
         <button class="download-btn" style="margin-top: 12px;" onclick="location.reload()">Retake Assessment</button>
     </div>
 
     <script>
-        // Data Structure
+        // ── DATA ──
         const questions = [
-            // EARTH (Kapha base)
-            { id: 1, element: 'earth', text: "When a project hits the 80% mark, I find it deeply satisfying to do the tedious finishing work." },
-            { id: 2, element: 'earth', text: "I maintain the systems and habits I build, even when they become boring." },
-            { id: 3, element: 'earth', text: "My calendar is highly structured, and I rarely deviate from my planned routine." },
-            { id: 4, element: 'earth', text: "People come to me when things are chaotic because I am the anchor that does not move." },
-            { id: 5, element: 'earth', text: "Before making a leap, I ensure I have an unshakeable safety net and deep reserves." },
-            // WATER (Kapha coolant)
-            { id: 6, element: 'water', text: "If a constraint blocks my path, my instinct is to fluidly pivot around it rather than smash through it." },
-            { id: 7, element: 'water', text: "I can easily \"read the room\" and adjust my communication to match the unspoken emotions of others." },
-            { id: 8, element: 'water', text: "I am quick to forgive and rarely hold onto professional or personal grudges." },
-            { id: 9, element: 'water', text: "I prioritize the emotional well-being of my team over the immediate speed of the deliverable." },
-            { id: 10, element: 'water', text: "I know how to completely turn off \"work mode\" and rest without feeling guilty." },
-            // FIRE (Pitta engine)
-            { id: 11, element: 'fire', text: "When I see a system that is slow or inefficient, I feel a physical urge to dismantle and rebuild it." },
-            { id: 12, element: 'fire', text: "I am often told that my pace or intensity is intimidating or exhausting to the people around me." },
-            { id: 13, element: 'fire', text: "I sacrifice my own sleep, meals, or comfort to ensure a goal is achieved on my timeline." },
-            { id: 14, element: 'fire', text: "My response to a crisis is immediate, decisive, and often aggressive action." },
-            { id: 15, element: 'fire', text: "I view comfort zones as dangerous places; I am always pushing for the next transformation." },
-            // AIR (Vata velocity)
-            { id: 16, element: 'air', text: "I frequently generate five new ideas before I have finished executing the first one." },
-            { id: 17, element: 'air', text: "I find it intensely difficult to focus on a single, prolonged task without context-switching." },
-            { id: 18, element: 'air', text: "I am a rapid communicator, often connecting patterns across entirely unrelated domains." },
-            { id: 19, element: 'air', text: "My career or interests involve constant movement, pivoting, and changing environments." },
-            { id: 20, element: 'air', text: "I start incredibly strong on new initiatives but rely on others to manage the long-term execution." },
-            // SPACE (Vata container)
-            { id: 21, element: 'space', text: "I frequently ask \"Why are we even doing this?\" when others are focused on \"How do we do this?\"" },
-            { id: 22, element: 'space', text: "I can sit in total silence without a device, book, or task, and feel completely at peace." },
-            { id: 23, element: 'space', text: "I make decisions based on whether an action aligns with a multi-generational or deeply spiritual legacy." },
-            { id: 24, element: 'space', text: "I easily detach my personal self-worth from the success or failure of my commercial output." },
-            { id: 25, element: 'space', text: "I view human organizations as living ecosystems rather than mechanical machines." }
+            // EARTH
+            { id:1, element:'earth',
+              text:"When a project hits the 80% mark, I find it deeply satisfying to do the tedious finishing work.",
+              feynman:"This measures your tolerance for the boring last mile. Most people love starting. Very few love sanding the edges." },
+            { id:2, element:'earth',
+              text:"I maintain the systems and habits I build, even when they become boring.",
+              feynman:"This tests whether you can sustain what you create. Building is exciting. Maintenance is where longevity lives." },
+            { id:3, element:'earth',
+              text:"My calendar is highly structured, and I rarely deviate from my planned routine.",
+              feynman:"This probes your relationship with predictability. Structure is a muscle, not a cage." },
+            { id:4, element:'earth',
+              text:"People come to me when things are chaotic because I am the anchor that does not move.",
+              feynman:"This checks whether others experience you as a stabilizing force during turbulence." },
+            { id:5, element:'earth',
+              text:"Before making a leap, I ensure I have an unshakeable safety net and deep reserves.",
+              feynman:"This measures your risk threshold. Do you jump first and build the parachute on the way down, or build the runway first?" },
+            // WATER
+            { id:6, element:'water',
+              text:"If a constraint blocks my path, my instinct is to fluidly pivot around it rather than smash through it.",
+              feynman:"This tests adaptability. Water finds the crack in every wall. Fire tries to melt the wall." },
+            { id:7, element:'water',
+              text:"I can easily \"read the room\" and adjust my communication to match the unspoken emotions of others.",
+              feynman:"This probes emotional intelligence: can you sense what people feel before they say it?" },
+            { id:8, element:'water',
+              text:"I am quick to forgive and rarely hold onto professional or personal grudges.",
+              feynman:"This measures emotional retention. Ice holds shape. Water lets go." },
+            { id:9, element:'water',
+              text:"I prioritize the emotional well-being of my team over the immediate speed of the deliverable.",
+              feynman:"This checks whether people or output comes first when the two are in tension." },
+            { id:10, element:'water',
+              text:"I know how to completely turn off \"work mode\" and rest without feeling guilty.",
+              feynman:"This is the hardest question for driven people. Can you be still without feeling like you are wasting time?" },
+            // FIRE
+            { id:11, element:'fire',
+              text:"When I see a system that is slow or inefficient, I feel a physical urge to dismantle and rebuild it.",
+              feynman:"This tests your metabolic drive. Fire does not tolerate stagnation. It consumes and transforms." },
+            { id:12, element:'fire',
+              text:"I am often told that my pace or intensity is intimidating or exhausting to the people around me.",
+              feynman:"This measures your thermal output as perceived by others. High fire heats the room whether you intend it or not." },
+            { id:13, element:'fire',
+              text:"I sacrifice my own sleep, meals, or comfort to ensure a goal is achieved on my timeline.",
+              feynman:"This probes whether your drive overrides your body's signals. Fire burns fuel; what fuel are you burning?" },
+            { id:14, element:'fire',
+              text:"My response to a crisis is immediate, decisive, and often aggressive action.",
+              feynman:"This checks your crisis metabolism. Some people freeze. Some people flow. Fire people ignite." },
+            { id:15, element:'fire',
+              text:"I view comfort zones as dangerous places; I am always pushing for the next transformation.",
+              feynman:"This tests your relationship with safety. Fire sees stillness as death. Earth sees stillness as strength." },
+            // AIR
+            { id:16, element:'air',
+              text:"I frequently generate five new ideas before I have finished executing the first one.",
+              feynman:"This is the classic velocity test. How many browser tabs are open in your brain right now?" },
+            { id:17, element:'air',
+              text:"I find it intensely difficult to focus on a single, prolonged task without context-switching.",
+              feynman:"This measures sustained attention. Air moves constantly. Earth sits still." },
+            { id:18, element:'air',
+              text:"I am a rapid communicator, often connecting patterns across entirely unrelated domains.",
+              feynman:"This probes cross-domain pattern recognition: the ability to see a bridge between music and mathematics." },
+            { id:19, element:'air',
+              text:"My career or interests involve constant movement, pivoting, and changing environments.",
+              feynman:"This tests environmental restlessness. Do you stay planted, or do you migrate?" },
+            { id:20, element:'air',
+              text:"I start incredibly strong on new initiatives but rely on others to manage the long-term execution.",
+              feynman:"This is the launch-vs-maintain diagnostic. Rockets need both thrust and orbit. Which one are you?" },
+            // SPACE
+            { id:21, element:'space',
+              text:"I frequently ask \"Why are we even doing this?\" when others are focused on \"How do we do this?\"",
+              feynman:"This tests your default altitude. Do you operate at ground level, or do you orbit above the problem?" },
+            { id:22, element:'space',
+              text:"I can sit in total silence without a device, book, or task, and feel completely at peace.",
+              feynman:"This is the emptiness test. Space is the only element defined by what is absent, not what is present." },
+            { id:23, element:'space',
+              text:"I make decisions based on whether an action aligns with a multi-generational or deeply spiritual legacy.",
+              feynman:"This probes your time horizon. Are you optimizing for this quarter, or for what your grandchildren will inherit?" },
+            { id:24, element:'space',
+              text:"I easily detach my personal self-worth from the success or failure of my commercial output.",
+              feynman:"This measures ego-attachment. Can you watch your creation fail and still know who you are?" },
+            { id:25, element:'space',
+              text:"I view human organizations as living ecosystems rather than mechanical machines.",
+              feynman:"This tests your organizational worldview. Machines are built. Ecosystems emerge." }
         ];
 
-        // Shuffle questions
-        const shuffled = questions.map(value => ({ value, sort: Math.random() }))
-            .sort((a, b) => a.sort - b.sort)
-            .map(({ value }) => value);
+        // Shuffle
+        const shuffled = questions.map(v => ({ v, s: Math.random() })).sort((a,b) => a.s - b.s).map(({v}) => v);
+        const state = { answers: {}, current: 0 };
 
-        const state = { answers: {} };
+        // ── WIZARD LOGIC ──
+        function startAssessment() {
+            document.getElementById('intro-view').style.display = 'none';
+            document.getElementById('wizard-view').style.display = 'block';
+            renderQuestion();
+        }
 
-        // Render Questions
-        const container = document.getElementById('questions-container');
-        const submitBtn = document.getElementById('submit-btn');
-        const progressBar = document.getElementById('progress');
+        function renderQuestion() {
+            const q = shuffled[state.current];
+            const panel = document.getElementById('question-panel');
+            panel.classList.remove('slide-in');
+            void panel.offsetWidth; // reflow
+            panel.classList.add('slide-in');
 
-        shuffled.forEach((q, idx) => {
-            const card = document.createElement('div');
-            card.className = 'question-card';
-            card.id = `q-${q.id}`;
-            card.innerHTML = `
-                <div class="q-text">${idx + 1}. ${q.text}</div>
-                <div class="scale-labels"><span>Never</span><span>Always</span></div>
-                <div class="scale">
-                    <button class="scale-btn" data-qid="${q.id}" data-val="1">1</button>
-                    <button class="scale-btn" data-qid="${q.id}" data-val="2">2</button>
-                    <button class="scale-btn" data-qid="${q.id}" data-val="3">3</button>
-                    <button class="scale-btn" data-qid="${q.id}" data-val="4">4</button>
-                    <button class="scale-btn" data-qid="${q.id}" data-val="5">5</button>
-                </div>
-            `;
-            container.appendChild(card);
-        });
+            document.getElementById('q-number').textContent = `Question ${state.current + 1}`;
+            document.getElementById('q-text').textContent = q.text;
+            document.getElementById('q-feynman').textContent = q.feynman;
 
-        // Handle Clicks
-        document.querySelectorAll('.scale-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                const qid = e.target.getAttribute('data-qid');
-                const val = parseInt(e.target.getAttribute('data-val'));
-                
-                // Update state
-                state.answers[qid] = val;
-                
-                // Update UI
-                const parent = e.target.parentElement;
-                parent.querySelectorAll('.scale-btn').forEach(b => b.classList.remove('selected'));
-                e.target.classList.add('selected');
+            // Scale buttons
+            const row = document.getElementById('scale-row');
+            row.innerHTML = '';
+            for (let i = 1; i <= 5; i++) {
+                const btn = document.createElement('button');
+                btn.className = 'scale-btn';
+                if (state.answers[q.id] === i) btn.classList.add('selected');
+                btn.textContent = i;
+                btn.addEventListener('click', () => selectAnswer(q.id, i));
+                row.appendChild(btn);
+            }
 
-                // Progress
-                const answeredCount = Object.keys(state.answers).length;
-                progressBar.style.width = `${(answeredCount / 25) * 100}%`;
+            // Progress
+            const answered = Object.keys(state.answers).length;
+            document.getElementById('progress').style.width = `${(answered / 25) * 100}%`;
+            document.getElementById('progress-label').textContent = `${state.current + 1} / 25`;
 
-                // Show submit if done
-                if(answeredCount === 25) {
-                    submitBtn.style.display = 'block';
-                    setTimeout(() => window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' }), 100);
-                } else {
-                    // Auto-scroll to next unanswered
-                    const nextCard = document.getElementById(`q-${qid}`).nextElementSibling;
-                    if(nextCard && !nextCard.querySelector('.selected')) {
-                        const y = nextCard.getBoundingClientRect().top + window.scrollY - 60;
-                        window.scrollTo({top: y, behavior: 'smooth'});
-                    }
-                }
+            // Nav state
+            document.getElementById('btn-prev').disabled = state.current === 0;
+            updateNextBtn();
+        }
+
+        function selectAnswer(qid, val) {
+            state.answers[qid] = val;
+            // Highlight
+            document.querySelectorAll('#scale-row .scale-btn').forEach((b,i) => {
+                b.classList.toggle('selected', i + 1 === val);
             });
-        });
+            // Update progress
+            const answered = Object.keys(state.answers).length;
+            document.getElementById('progress').style.width = `${(answered / 25) * 100}%`;
+            updateNextBtn();
+            // Auto-advance after short delay
+            if (state.current < 24) {
+                setTimeout(() => navigate(1), 400);
+            }
+        }
 
-        // Process Results
-        submitBtn.addEventListener('click', () => {
-            document.getElementById('assessment-view').style.display = 'none';
-            document.getElementById('result-view').style.display = 'block';
-            window.scrollTo({top: 0});
-            generateResult();
-        });
+        function updateNextBtn() {
+            const btn = document.getElementById('btn-next');
+            const q = shuffled[state.current];
+            const hasAnswer = state.answers[q.id] !== undefined;
 
-        const colors = {
-            earth: '#C49A30', water: '#4A9ABF', fire: '#E0663A', air: '#8AB08A', space: '#9B88CE',
-            fireHover: 'rgba(224, 102, 58, 0.15)', waterHover: 'rgba(74, 154, 191, 0.15)'
+            if (state.current === 24 && Object.keys(state.answers).length === 25) {
+                btn.disabled = false;
+                btn.textContent = 'Generate Profile';
+                btn.classList.add('generate');
+                btn.onclick = () => showResult();
+            } else {
+                btn.disabled = !hasAnswer;
+                btn.textContent = 'Next';
+                btn.classList.remove('generate');
+                btn.onclick = () => navigate(1);
+            }
+        }
+
+        function navigate(dir) {
+            const next = state.current + dir;
+            if (next < 0 || next > 24) return;
+            state.current = next;
+            renderQuestion();
+        }
+
+        // ── RESULT LOGIC ──
+        const rgbColors = {
+            earth: '196, 154, 48', water: '74, 154, 191', fire: '224, 102, 58', air: '138, 176, 138', space: '155, 136, 206'
+        };
+        const hexColors = {
+            earth: '#C49A30', water: '#4A9ABF', fire: '#E0663A', air: '#8AB08A', space: '#9B88CE'
         };
 
-        function generateResult() {
-            // Aggregate Scores
-            const scores = { earth: 0, water: 0, fire: 0, air: 0, space: 0 };
-            questions.forEach(q => { scores[q.element] += state.answers[q.id]; }); // Max 25 per element
-            
-            // Normalize to 1-10
-            const finalScores = {
+        function showResult() {
+            document.getElementById('wizard-view').style.display = 'none';
+            document.getElementById('result-view').style.display = 'block';
+            window.scrollTo({top: 0});
+
+            const scores = { earth:0, water:0, fire:0, air:0, space:0 };
+            questions.forEach(q => { scores[q.element] += state.answers[q.id]; });
+            const f = {
                 earth: Math.round((scores.earth / 25) * 10),
                 water: Math.round((scores.water / 25) * 10),
                 fire: Math.round((scores.fire / 25) * 10),
@@ -445,117 +553,91 @@
                 space: Math.round((scores.space / 25) * 10)
             };
 
-            // Derive Doshas
             const doshas = {
-                vata: (finalScores.air + finalScores.space) / 2, // Movement / Vision
-                pitta: (finalScores.fire + finalScores.water) / 2, // Energy / Transformation
-                kapha: (finalScores.earth + finalScores.water) / 2 // Structure / Empathy
+                vata: (f.air + f.space) / 2,
+                pitta: (f.fire + f.water) / 2,
+                kapha: (f.earth + f.water) / 2
             };
+            const sorted = Object.keys(doshas).sort((a,b) => doshas[b] - doshas[a]);
+            const [dom, sec, low] = sorted;
 
-            const ascDoshas = Object.keys(doshas).sort((a,b) => doshas[b] - doshas[a]);
-            const dominant = ascDoshas[0];
-            const secondary = ascDoshas[1];
-            const lowest = ascDoshas[2];
-            
-            // Set Titles
-            const doshaString = `${capitalize(dominant)}-${capitalize(secondary)} Dominant`;
-            document.getElementById('res-dosha').innerText = doshaString;
+            document.getElementById('res-dosha').innerText = `${cap(dom)}-${cap(sec)} Dominant`;
+            document.getElementById('res-capability').innerText = getCapability(dom, sec);
+            document.getElementById('res-friction').innerHTML = getFriction(low);
 
-            // Generate Insights
-            document.getElementById('res-capability').innerText = getCapabilityInsight(dominant, secondary);
-            document.getElementById('res-friction').innerHTML = getFrictionInsight(lowest);
-
-            // Render Pills
-            const rgbColors = {
-                earth: '196, 154, 48', water: '74, 154, 191', fire: '224, 102, 58', air: '138, 176, 138', space: '155, 136, 206'
-            };
-            const pillsHtml = [
-                {k: 'earth', l: '🌍 Earth', s: finalScores.earth},
-                {k: 'water', l: '💧 Water', s: finalScores.water},
-                {k: 'fire', l: '🔥 Fire', s: finalScores.fire},
-                {k: 'air', l: '💨 Air', s: finalScores.air},
-                {k: 'space', l: '🌌 Space', s: finalScores.space}
+            const pills = [
+                {k:'earth',l:'🌍 Earth',s:f.earth},{k:'water',l:'💧 Water',s:f.water},
+                {k:'fire',l:'🔥 Fire',s:f.fire},{k:'air',l:'💨 Air',s:f.air},{k:'space',l:'🌌 Space',s:f.space}
             ].sort((a,b) => b.s - a.s).map(p => `
-                <div class="element-pill" style="background: rgba(${rgbColors[p.k]}, 0.12); color: var(--${p.k}); border: 1px solid rgba(${rgbColors[p.k]}, 0.25);">
+                <div class="element-pill" style="background:rgba(${rgbColors[p.k]},0.12);color:var(--${p.k});border:1px solid rgba(${rgbColors[p.k]},0.25);">
                     ${p.l} ${p.s}/10
-                </div>
-            `).join('');
-            document.getElementById('res-pills').innerHTML = pillsHtml;
+                </div>`).join('');
+            document.getElementById('res-pills').innerHTML = pills;
 
-            // Render Radar
+            // Radar
             const ctx = document.getElementById('radarChart').getContext('2d');
-            const bgHoverColor = dominant === 'kapha' ? colors.waterHover : colors.fireHover;
-            const borderColor = dominant === 'kapha' ? colors.water : dominant === 'vata' ? colors.space : colors.fire;
-            
+            const bg = dom === 'kapha' ? 'rgba(74,154,191,0.15)' : dom === 'vata' ? 'rgba(155,136,206,0.15)' : 'rgba(224,102,58,0.15)';
+            const bc = dom === 'kapha' ? hexColors.water : dom === 'vata' ? hexColors.space : hexColors.fire;
             new Chart(ctx, {
                 type: 'radar',
                 data: {
-                    labels: ['🌍 Earth', '💧 Water', '🔥 Fire', '💨 Air', '🌌 Space'],
+                    labels: ['🌍 Earth','💧 Water','🔥 Fire','💨 Air','🌌 Space'],
                     datasets: [{
-                        data: [finalScores.earth, finalScores.water, finalScores.fire, finalScores.air, finalScores.space],
-                        backgroundColor: bgHoverColor,
-                        borderColor: borderColor,
-                        borderWidth: 2,
-                        pointBackgroundColor: [colors.earth, colors.water, colors.fire, colors.air, colors.space],
-                        pointBorderColor: '#fff',
-                        pointBorderWidth: 1,
-                        pointRadius: 5
+                        data: [f.earth, f.water, f.fire, f.air, f.space],
+                        backgroundColor: bg, borderColor: bc, borderWidth: 2,
+                        pointBackgroundColor: [hexColors.earth, hexColors.water, hexColors.fire, hexColors.air, hexColors.space],
+                        pointBorderColor: '#fff', pointBorderWidth: 1, pointRadius: 5
                     }]
                 },
                 options: {
                     responsive: true,
-                    scales: {
-                        r: {
-                            beginAtZero: true, max: 10,
-                            ticks: { stepSize: 2, color: '#8b7d65', backdropColor: 'transparent', font: { family: "'Source Code Pro', monospace", size: 10 }},
-                            grid: { color: 'rgba(255,255,255,0.06)' },
-                            angleLines: { color: 'rgba(255,255,255,0.06)' },
-                            pointLabels: { color: '#d4c8b0', font: { family: "'Source Code Pro', monospace", size: 12, weight: 600 }}
-                        }
-                    },
+                    scales: { r: {
+                        beginAtZero: true, max: 10,
+                        ticks: { stepSize: 2, color: '#8b7d65', backdropColor: 'transparent', font: { family: "'Source Code Pro', monospace", size: 10 }},
+                        grid: { color: 'rgba(255,255,255,0.06)' },
+                        angleLines: { color: 'rgba(255,255,255,0.06)' },
+                        pointLabels: { color: '#d4c8b0', font: { family: "'Source Code Pro', monospace", size: 12, weight: 600 }}
+                    }},
                     plugins: { legend: { display: false } }
                 }
             });
         }
 
-        function getCapabilityInsight(dom, sec) {
-            const combo = dom + '-' + sec;
-            if(combo.includes('vata') && combo.includes('pitta')) return "Highly visionary, intensely driven, and fast-moving. You operate at velocity, continuously generating ideas and executing them with forceful energy. Your architecture is built for rapid transformation.";
-            if(combo.includes('kapha') && combo.includes('vata')) return "You combine extreme structural grounding with expansive philosophical vision. You build long-lasting physical or organizational legacies but maintain an orbital awareness of 'why' you are building them.";
-            if(combo.includes('kapha') && combo.includes('pitta')) return "You possess the endurance of a marathon runner. You have the structural stability to weather storms, coupled with the slow-burning metabolic fire required to drive massive legacy projects to completion.";
+        function getCapability(d, s) {
+            const c = d+'-'+s;
+            if(c.includes('vata')&&c.includes('pitta')) return "Highly visionary, intensely driven, and fast-moving. You operate at velocity, continuously generating ideas and executing them with forceful energy. Your architecture is built for rapid transformation.";
+            if(c.includes('kapha')&&c.includes('vata')) return "You combine extreme structural grounding with expansive philosophical vision. You build long-lasting physical or organizational legacies but maintain an orbital awareness of 'why' you are building them.";
+            if(c.includes('kapha')&&c.includes('pitta')) return "You possess the endurance of a marathon runner. You have the structural stability to weather storms, coupled with the slow-burning metabolic fire required to drive massive legacy projects to completion.";
+            if(c.includes('pitta')&&c.includes('vata')) return "Highly visionary, intensely driven, and fast-moving. You operate at velocity, continuously generating ideas and executing them with forceful energy. Your architecture is built for rapid transformation.";
+            if(c.includes('pitta')&&c.includes('kapha')) return "You possess the endurance of a marathon runner. You have the structural stability to weather storms, coupled with the slow-burning metabolic fire required to drive massive legacy projects to completion.";
+            if(c.includes('vata')&&c.includes('kapha')) return "You combine extreme structural grounding with expansive philosophical vision. You build long-lasting physical or organizational legacies but maintain an orbital awareness of 'why' you are building them.";
             return "A balanced processor, capable of maintaining dynamic equilibrium across multiple vectors of responsibility.";
         }
 
-        function getFrictionInsight(lowest) {
-            if(lowest === 'kapha') return "<strong>The Sprinter Cycle:</strong> A significant deficit in Earth/Water means you build incredible velocity but lack the foundation to pace it. Your friction points are burnout, unfinished long-term projects, and an inability to rest without guilt. You are building beautiful structures on sand.";
-            if(lowest === 'vata') return "<strong>The Air Bottleneck:</strong> A significant deficit in Air means you struggle to distribute and scale your ideas. While your foundation is unshakeable, your systems, automations, and digital architecture are likely clogged, causing you to drown in manual administrative friction.";
-            if(lowest === 'pitta') return "<strong>The Ignition Gap:</strong> A deficit in Fire means you possess incredible vision (Space) and empathy (Water), but struggle to enforce boundaries, destroy obsolete systems, or push aggressively through market resistance.";
+        function getFriction(low) {
+            if(low==='kapha') return "<strong>The Sprinter Cycle:</strong> A significant deficit in Earth/Water means you build incredible velocity but lack the foundation to pace it. Your friction points are burnout, unfinished long-term projects, and an inability to rest without guilt. You are building beautiful structures on sand.";
+            if(low==='vata') return "<strong>The Air Bottleneck:</strong> A significant deficit in Air means you struggle to distribute and scale your ideas. While your foundation is unshakeable, your systems, automations, and digital architecture are likely clogged, causing you to drown in manual administrative friction.";
+            if(low==='pitta') return "<strong>The Ignition Gap:</strong> A deficit in Fire means you possess incredible vision (Space) and empathy (Water), but struggle to enforce boundaries, destroy obsolete systems, or push aggressively through market resistance.";
             return "There is a slight imbalance that requires intermittent re-centering, but no critical structural failure.";
         }
 
-        function capitalize(str) { return str.charAt(0).toUpperCase() + str.slice(1); }
+        function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
 
-        // Download Image Logic
+        // Download
         document.getElementById('download-btn').addEventListener('click', () => {
-             const element = document.getElementById('result-capture-area');
-             const btn = document.getElementById('download-btn');
-             const originalText = btn.innerText;
-             btn.innerText = "Generating Snapshot...";
-             
-             html2canvas(element, {
-                 backgroundColor: '#242019',
-                 scale: 2,
-                 logging: false
-             }).then(canvas => {
-                 const link = document.createElement('a');
-                 link.download = 'PRI-Assessment-Result.png';
-                 link.href = canvas.toDataURL('image/png');
-                 link.click();
-                 btn.innerText = "Downloaded!";
-                 setTimeout(() => btn.innerText = originalText, 2000);
-             });
+            const el = document.getElementById('result-capture-area');
+            const btn = document.getElementById('download-btn');
+            const orig = btn.innerText;
+            btn.innerText = "Generating Snapshot...";
+            html2canvas(el, { backgroundColor: '#242019', scale: 2, logging: false }).then(canvas => {
+                const link = document.createElement('a');
+                link.download = 'PRI-Assessment-Result.png';
+                link.href = canvas.toDataURL('image/png');
+                link.click();
+                btn.innerText = "Downloaded!";
+                setTimeout(() => btn.innerText = orig, 2000);
+            });
         });
-
     </script>
 </body>
 </html>
