@@ -229,6 +229,60 @@
             box-shadow: 0 4px 20px rgba(212, 160, 68, 0.25);
         }
 
+        /* Accordion */
+        .architecture-accordion {
+            margin-top: 24px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            display: block;
+        }
+        .architecture-accordion summary {
+            padding: 16px 20px;
+            font-family: var(--font-mono);
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            cursor: pointer;
+            list-style: none; /* remove default arrow */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background 0.2s;
+        }
+        .architecture-accordion summary:hover {
+            background: var(--surface-elevated);
+            color: var(--text);
+        }
+        .architecture-accordion summary::-webkit-details-marker {
+            display: none;
+        }
+        .architecture-accordion summary::after {
+            content: '+';
+            font-size: 16px;
+            color: var(--accent);
+            font-weight: 300;
+        }
+        .architecture-accordion[open] summary::after {
+            content: '−';
+        }
+        .architecture-accordion[open] summary {
+            border-bottom: 1px solid var(--border);
+        }
+        .accordion-content {
+            padding: 24px;
+            font-size: 14px;
+            line-height: 1.7;
+            color: var(--text-sub);
+            border-top: 3px solid;
+            border-image: linear-gradient(90deg, var(--earth), var(--water), var(--fire), var(--air), var(--space)) 1;
+        }
+        .accordion-content strong { color: var(--text); }
+        .accordion-content .dosha-highlight { color: var(--accent); font-weight: 600; }
+
         /* ── RESULT VIEW ── */
         #result-view { display: none; max-width: 640px; width: 100%; animation: fadeIn 0.6s ease; }
         .result-card {
@@ -355,7 +409,14 @@
                 <h4>Primary Friction</h4>
                 <div class="insight-text" id="res-friction"></div>
             </div>
+            </div>
         </div>
+        
+        <details class="architecture-accordion">
+            <summary>The Architecture Underneath (Optional)</summary>
+            <div class="accordion-content" id="res-architecture"></div>
+        </details>
+
         <button class="download-btn" id="download-btn">Download as Image</button>
         <button class="download-btn" style="margin-top: 12px;" onclick="location.reload()">Retake Assessment</button>
     </div>
@@ -564,6 +625,7 @@
             document.getElementById('res-dosha').innerText = `${cap(dom)}-${cap(sec)} Dominant`;
             document.getElementById('res-capability').innerText = getCapability(dom, sec, f);
             document.getElementById('res-friction').innerHTML = getFriction(dom, sec, f);
+            document.getElementById('res-architecture').innerHTML = getArchitecture(dom, sec, f);
 
             const pills = [
                 {k:'earth',l:'🌍 Earth',s:f.earth},{k:'water',l:'💧 Water',s:f.water},
@@ -679,6 +741,37 @@
 
             const pattern = frictionMap[key] || { name: 'Balanced', desc: 'Your scores are relatively even across all areas. There is no critical structural gap.' };
             return `<strong>${pattern.name}:</strong> ${pattern.desc}`;
+        }
+
+        function getArchitecture(dom, sec, f) {
+            const ranked = Object.entries(f).sort((a,b) => b[1] - a[1]);
+            const e1 = elNames[ranked[0][0]];
+            const e2 = elNames[ranked[1][0]];
+            const pDosha = cap(dom);
+            
+            let html = `<p style="margin-bottom: 20px;">Ancient wisdom knew what modern psychology is just discovering. Notice how your top scores in <strong>${e1}</strong> and <strong>${e2}</strong> naturally form what the ancients called <span class="dosha-highlight">'${pDosha}'</span>.</p>`;
+            
+            html += `<p style="margin-bottom: 24px;">While your Primary Friction shows where this engine runs too hot or stalls out, your Capability Architecture is the direct result of this elemental combination functioning by design. You do not just "have a personality"—you are operating a specific biological and cognitive resonant structure.</p>`;
+            
+            html += `<h5 style="font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 2px; margin-bottom: 12px;">The Tridosha Engine</h5>`;
+            
+            html += `<ul style="list-style: none; padding-left: 0; margin-bottom: 24px;">
+                <li style="margin-bottom: 12px; padding-left: 12px; border-left: 2px solid var(--space);"><strong style="color: var(--text);">Vata (Air + Space):</strong> The principle of movement. Governs velocity, conceptual thinking, and rapid adaptation.</li>
+                <li style="margin-bottom: 12px; padding-left: 12px; border-left: 2px solid var(--fire);"><strong style="color: var(--text);">Pitta (Fire + Water):</strong> The principle of transformation. Governs drive, digestion of ideas, and intense execution.</li>
+                <li style="margin-bottom: 0px; padding-left: 12px; border-left: 2px solid var(--earth);"><strong style="color: var(--text);">Kapha (Earth + Water):</strong> The principle of structure. Governs endurance, consistency, and holding space for massive systems.</li>
+            </ul>`;
+            
+            html += `<h5 style="font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 2px; margin-bottom: 12px;">The Panchabootam (5 Elements)</h5>`;
+            
+            html += `<ul style="list-style: none; padding-left: 0; margin-bottom: 0;">
+                <li style="margin-bottom: 8px;"><strong>Space (Akasha):</strong> Purpose, stillness, emptiness, capacity to hold everything.</li>
+                <li style="margin-bottom: 8px;"><strong>Air (Vayu):</strong> Speed, ideation, lateral connection, moving between ideas.</li>
+                <li style="margin-bottom: 8px;"><strong>Fire (Tejas):</strong> Drive, intensity, transformation, converting ideas into action.</li>
+                <li style="margin-bottom: 8px;"><strong>Water (Jala):</strong> Empathy, flow, emotional intelligence, adapting to the container.</li>
+                <li style="margin-bottom: 0px;"><strong>Earth (Prithvi):</strong> Structure, patience, physical reality, holding the ground.</li>
+            </ul>`;
+
+            return html;
         }
 
         function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
