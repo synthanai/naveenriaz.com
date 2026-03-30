@@ -1,4 +1,6 @@
 ---
+description: "Presence isn't performance"
+date: 2026-03-30
 title: "The Presenteeism Tax"
 signal: "Presence isn't performance"
 source: "Energy"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/energy/"
 temperature: "🔥🔥"
 tags: ["energy", "productivity", "management"]
 ---
+description: "Presence isn't performance"
+date: 2026-03-30
 
 Are you paying for warm bodies or hot ideas? 
 

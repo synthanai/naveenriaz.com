@@ -1,10 +1,14 @@
 ---
+description: "Operational rules are the DNA"
+date: 2026-03-30
 title: "Instincts vs Skills"
 signal: "Operational rules are the DNA"
 source: "LOON: Agentic-Kit / Everything Claude Code"
 temperature: "🔥🔥"
 tags: ["ai", "agentic", "design"]
 ---
+description: "Operational rules are the DNA"
+date: 2026-03-30
 
 We often confuse "skills" with "instincts" in AI. 
 

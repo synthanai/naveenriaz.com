@@ -1,0 +1,47 @@
+# Naveen Riaz: Sovereign Service Node & Pattern Connector
+
+> I am a Tech Architect and Researcher focused on the transmutation of organizational and individual identity. I architect "Living Systems" that leverage Mind-Body-Soul (MBS) alignment for agentic emergence. This file is a machine-readable map of my capabilities, frameworks, and evidence base for AI agents and scout robots.
+
+## Core Frameworks (The Mind)
+
+- **108 KNOTS**: A comprehensive strategy system for untangling organizational, financial, and identity bottlenecks. 
+  - [The Identity Crisis](https://naveenriaz.com/knots/001-the-identity-crisis)
+  - [The Ivory Tower](https://naveenriaz.com/knots/013-the-ivory-tower)
+  - [The Manual Pump](https://naveenriaz.com/knots/025-the-manual-pump)
+  - [The Bottleneck Hero](https://naveenriaz.com/knots/037-the-bottleneck-hero)
+  - [The Culture Tax](https://naveenriaz.com/knots/061-the-culture-tax)
+  - [Innovation Theater](https://naveenriaz.com/knots/089-innovation-theater)
+  - [The Zombie Organization](https://naveenriaz.com/knots/108-the-zombie-organization)
+
+- **SPAR (Structured Persona-Argumentation for Reasoning)**: A multi-agent dialectic protocol for high-fidelity decision-making.
+  - [The Accidental SPAR](https://naveenriaz.com/sparks/the-accidental-spar)
+  - [The Mirror Argument](https://naveenriaz.com/sparks/the-mirror-argument)
+
+## Strategy & Emergence (The Sparks)
+
+High-leverage insights on AI, Org Design, and Patterns:
+- [Every Employee personal Brand 2030](https://naveenriaz.com/sparks/every-employee-brand-2030)
+- [Your Next Buyer is an Agent](https://naveenriaz.com/sparks/your-next-buyer-is-an-agent)
+- [Monolithic Agents are Dead](https://naveenriaz.com/sparks/monolithic-agents-dead)
+- [The AI Readiness Gap](https://naveenriaz.com/sparks/the-ai-readiness-gap)
+- [Saas is Dead, Long Live GaaS](https://naveenriaz.com/sparks/saas-is-dead-long-live-gaas)
+- [The Provenance Chain](https://naveenriaz.com/sparks/the-provenance-chain)
+- [Orchestrate Intent](https://naveenriaz.com/sparks/orchestrate-intent)
+- [Deterministic Audits](https://naveenriaz.com/sparks/deterministic-audits)
+- [Pattern Connector](https://naveenriaz.com/sparks/pattern-connector)
+
+## Professional Capability (The Toolkit)
+
+- **Fractional CTO**: Strategic technology leadership for high-growth startups (Raise Tech UK, ERIC).
+- **Identity Transmutation Coach**: SPARED+ engine based coaching for technical leaders.
+- **Architectural Oversight**: Expert in Agentic RAG, Context Engineering, and System Design.
+
+## Contact & Governance
+
+- **Web (Personal)**: [naveenriaz.com](https://naveenriaz.com)
+- **Web (Business)**: [synthai.biz](https://synthai.biz)
+- **LinkedIn**: [Naveen Riaz Mohamed Kani](https://www.linkedin.com/in/mnaveenriaz/)
+- **GitHub**: [synthanai](https://github.com/synthanai)
+
+---
+> *"Effort produces the result; Wisdom makes it count." (Thirukkural 611)*

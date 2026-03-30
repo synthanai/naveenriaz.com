@@ -1,4 +1,6 @@
 ---
+description: "Wall decoration or hallway behavior?"
+date: 2026-03-30
 title: "Values Wallpaper"
 signal: "Wall decoration or hallway behavior?"
 source: "Culture"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/culture/"
 temperature: "🔥🔥🔥"
 tags: ["culture", "values", "leadership"]
 ---
+description: "Wall decoration or hallway behavior?"
+date: 2026-03-30
 
 If your values are on the wall but not in the hallway, they're just indoor decoration. 
 

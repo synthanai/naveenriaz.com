@@ -1,4 +1,6 @@
 ---
+description: "1994's rules vs 2026's world"
+date: 2026-03-30
 title: "The Founders Ghost"
 signal: "1994's rules vs 2026's world"
 source: "Identity"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/identity/"
 temperature: "🔥🔥"
 tags: ["identity", "leadership", "innovation"]
 ---
+description: "1994's rules vs 2026's world"
+date: 2026-03-30
 
 "We do it this way because the person who started the company said so." 
 

@@ -1,4 +1,6 @@
 ---
+description: "When icons leave the building"
+date: 2026-03-30
 title: "The Zombie Org Test"
 signal: "When icons leave the building"
 source: "Energy"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/energy/"
 temperature: "🔥🔥🔥"
 tags: ["identity", "purpose", "energy"]
 ---
+description: "When icons leave the building"
+date: 2026-03-30
 
 The idols are stolen, but the rituals continue. 
 

@@ -1,4 +1,6 @@
 ---
+description: "Annual reviews are too late"
+date: 2026-03-30
 title: "Feedback Autopsy"
 signal: "Annual reviews are too late"
 source: "Trust"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/trust/"
 temperature: "🔥🔥🔥"
 tags: ["trust", "performance", "culture"]
 ---
+description: "Annual reviews are too late"
+date: 2026-03-30
 
 If your feedback only comes once a year, it's not a conversation; it's an autopsy. 
 

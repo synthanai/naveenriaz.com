@@ -1,10 +1,14 @@
 ---
+description: "Selective install is the new DevOps"
+date: 2026-03-30
 title: "Monolithic Agents are Dead"
 signal: "Selective install is the new DevOps"
 source: "LOON: Agentic-Kit / Everything Claude Code"
 temperature: "🔥🔥"
 tags: ["ai", "architecture", "devops"]
 ---
+description: "Selective install is the new DevOps"
+date: 2026-03-30
 
 The era of the "everything agent" is over. 
 

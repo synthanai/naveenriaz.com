@@ -1,10 +1,14 @@
 ---
+description: "Don't just index; understand"
+date: 2026-03-30
 title: "The Metadata-to-Meaning Gap"
 signal: "Don't just index; understand"
 source: "LOON: STEAL-Kit / Intent of Thought"
 temperature: "🔥🔥"
 tags: ["data", "intelligence", "ai"]
 ---
+description: "Don't just index; understand"
+date: 2026-03-30
 
 Indexers are easy. Understanding is hard. 
 

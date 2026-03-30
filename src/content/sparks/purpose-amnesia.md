@@ -1,4 +1,6 @@
 ---
+description: "Losing the smell of the yeast"
+date: 2026-03-30
 title: "Purpose Amnesia"
 signal: "Losing the smell of the yeast"
 source: "Identity"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/identity/"
 temperature: "🔥🔥"
 tags: ["identity", "purpose", "mission"]
 ---
+description: "Losing the smell of the yeast"
+date: 2026-03-30
 
 We started a bakery to feed the hungry. Now we're a logistics company optimizing delivery routes for stale bread. 
 

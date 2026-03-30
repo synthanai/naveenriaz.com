@@ -1,4 +1,6 @@
 ---
+description: "Remote-controlled execution"
+date: 2026-03-30
 title: "Delegation Without Trust"
 signal: "Remote-controlled execution"
 source: "Trust"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/trust/"
 temperature: "🔥🔥"
 tags: ["trust", "leadership", "management"]
 ---
+description: "Remote-controlled execution"
+date: 2026-03-30
 
 "Do it your way, but show me every step before you take it." 
 

@@ -1,4 +1,6 @@
 ---
+description: "Are you a jailer or a coach?"
+date: 2026-03-30
 title: "Talent Hoarding"
 signal: "Are you a jailer or a coach?"
 source: "Capability"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/capability/"
 temperature: "🔥🔥"
 tags: ["leadership", "capability", "trust"]
 ---
+description: "Are you a jailer or a coach?"
+date: 2026-03-30
 
 "I can't let them move to another department; I need them too much." 
 

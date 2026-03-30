@@ -1,4 +1,6 @@
 ---
+description: "Potholes in the river of work"
+date: 2026-03-30
 title: "The Culture Tax"
 signal: "Potholes in the river of work"
 source: "Culture"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/culture/"
 temperature: "🔥🔥"
 tags: ["culture", "productivity", "management"]
 ---
+description: "Potholes in the river of work"
+date: 2026-03-30
 
 Potholes in the road don't stop the car, but they destroy the suspension over time. 
 

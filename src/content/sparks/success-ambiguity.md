@@ -1,4 +1,6 @@
 ---
+description: "Vague goals produce vague results"
+date: 2026-03-30
 title: "Success Ambiguity"
 signal: "Vague goals produce vague results"
 source: "Change"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/change/"
 temperature: "🔥🔥"
 tags: ["leadership", "performance", "change"]
 ---
+description: "Vague goals produce vague results"
+date: 2026-03-30
 
 If you can't define what "Good" looks like, your team will define it for you—and you probably won't like their version. 
 

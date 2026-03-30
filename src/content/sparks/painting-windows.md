@@ -1,10 +1,14 @@
 ---
+description: "Fix the foundation, not the view"
+date: 2026-03-30
 title: "Prompt-Tuning is Painting Windows"
 signal: "Fix the foundation, not the view"
 source: "LOON: Agentic-Kit / Engineering"
 temperature: "🔥🔥🔥"
 tags: ["ai", "engineering", "dev"]
 ---
+description: "Fix the foundation, not the view"
+date: 2026-03-30
 
 Prompt-tuning is like painting your windows to change the view. It’s a cosmetic fix for a structural problem. 
 

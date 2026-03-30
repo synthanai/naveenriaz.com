@@ -1,10 +1,14 @@
 ---
+description: "The UI of the future is a harness"
+date: 2026-03-30
 title: "AI isn't a Chatbot, it's a Harness"
 signal: "The UI of the future is a harness"
 source: "LOON: Agentic-Kit / Everything Claude Code"
 temperature: "🔥🔥🔥"
 tags: ["ai", "agentic", "engineering"]
 ---
+description: "The UI of the future is a harness"
+date: 2026-03-30
 
 AI isn’t just a chatbot that talks back; it’s an engine that needs a harness. 
 

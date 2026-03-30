@@ -1,4 +1,6 @@
 ---
+description: "Marketing problems or trust problems?"
+date: 2026-03-30
 title: "The Loom Insight"
 signal: "Marketing problems or trust problems?"
 source: "Ecosystem Weave"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/loom/"
 temperature: "🔥🔥🔥"
 tags: ["strategy", "leadership", "patterns"]
 ---
+description: "Marketing problems or trust problems?"
+date: 2026-03-30
 
 Your "marketing problem" is usually a "trust problem" in disguise. 
 

@@ -1,4 +1,6 @@
 ---
+description: "When reaction becomes regret"
+date: 2026-03-30
 title: "Process Sediment"
 signal: "When reaction becomes regret"
 source: "Structure"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/structure/"
 temperature: "🔥🔥"
 tags: ["structure", "process", "management"]
 ---
+description: "When reaction becomes regret"
+date: 2026-03-30
 
 Every layer of approval was once a sensible reaction to a specific mistake. 
 

@@ -1,4 +1,6 @@
 ---
+description: "Tractors pulled by oxen"
+date: 2026-03-30
 title: "The AI Readiness Gap"
 signal: "Tractors pulled by oxen"
 source: "Capability"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/capability/"
 temperature: "🔥🔥🔥"
 tags: ["ai", "capability", "tech"]
 ---
+description: "Tractors pulled by oxen"
+date: 2026-03-30
 
 You gave them a tractor, but they're still pulling it with an ox because that's "the way we do it." 
 

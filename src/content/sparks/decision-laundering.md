@@ -1,4 +1,6 @@
 ---
+description: "Seeking witnesses, not winners"
+date: 2026-03-30
 title: "Decision Laundering"
 signal: "Seeking witnesses, not winners"
 source: "Decisions"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/decisions/"
 temperature: "🔥🔥🔥"
 tags: ["decisions", "leadership", "trust"]
 ---
+description: "Seeking witnesses, not winners"
+date: 2026-03-30
 
 Asking for "feedback" when you've already decided is just looking for a witness to the deed. 
 

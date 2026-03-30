@@ -1,10 +1,14 @@
 ---
+description: "Move beyond task management"
+date: 2026-03-30
 title: "Orchestrate the Intent"
 signal: "Move beyond task management"
 source: "LOON: Intent of Thought"
 temperature: "🔥🔥"
 tags: ["management", "ai", "orchestration"]
 ---
+description: "Move beyond task management"
+date: 2026-03-30
 
 Don't automate the task; orchestrate the intent. 
 

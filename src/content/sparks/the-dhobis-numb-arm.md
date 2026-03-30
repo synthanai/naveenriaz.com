@@ -1,4 +1,6 @@
 ---
+description: "Burnout isn't a badge"
+date: 2026-03-30
 title: "The Dhobi’s Numb Arm"
 signal: "Burnout isn't a badge"
 source: "Energy"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/energy/"
 temperature: "🔥🔥🔥"
 tags: ["energy", "burnout", "culture"]
 ---
+description: "Burnout isn't a badge"
+date: 2026-03-30
 
 Burnout isn't a badge. It's a system failure of "busy-ness."
 

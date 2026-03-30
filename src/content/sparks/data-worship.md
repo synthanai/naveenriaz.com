@@ -1,5 +1,7 @@
 ---
 title: "Data Worship"
+date: 2026-03-30
+description: "Why leading by spreadsheets alone is a recipe for blind leadership."
 signal: "Spreadsheets don't tell the truth"
 source: "Intelligence"
 source_url: "https://naveenriaz.com/series/intelligence/"

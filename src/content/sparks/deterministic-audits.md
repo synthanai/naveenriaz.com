@@ -1,10 +1,14 @@
 ---
+description: "Measuring the autonomous heartbeat"
+date: 2026-03-30
 title: "Deterministic Audits"
 signal: "Measuring the autonomous heartbeat"
 source: "LOON: Agentic-Kit / Everything Claude Code"
 temperature: "🔥🔥🔥"
 tags: ["ai", "audit", "management"]
 ---
+description: "Measuring the autonomous heartbeat"
+date: 2026-03-30
 
 How do you measure a performance of a system that works while you're asleep? 
 

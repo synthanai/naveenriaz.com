@@ -1,4 +1,4 @@
-# 108 KNOTS: Series Announcements & Reflections
+# KNOTS: Series Announcements & Reflections
 
 > Use these as LinkedIn posts at the START and END of each 12-knot series.
 > They bridge the diagnostic content to the empowering brand promise.

@@ -1,10 +1,14 @@
 ---
+description: "Memory without reminders"
+date: 2026-03-30
 title: "Implicit Session State"
 signal: "Memory without reminders"
 source: "LOON: Agentic-Kit / ARIVAR ARANGAM"
 temperature: "🔥🔥"
 tags: ["ai", "memory", "cx"]
 ---
+description: "Memory without reminders"
+date: 2026-03-30
 
 Don't tell the AI who you are every time you talk to it. 
 

@@ -1,4 +1,6 @@
 ---
+description: "Green walls aren't enough"
+date: 2026-03-30
 title: "Innovation Theater"
 signal: "Green walls aren't enough"
 source: "Intelligence"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/intelligence/"
 temperature: "🔥🔥🔥"
 tags: ["innovation", "culture", "intelligence"]
 ---
+description: "Green walls aren't enough"
+date: 2026-03-30
 
 Painting the walls green and putting up a "Creative Lab" sign isn't innovation. 
 

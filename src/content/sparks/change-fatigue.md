@@ -1,4 +1,6 @@
 ---
+description: "Moving house every weekend"
+date: 2026-03-30
 title: "Change Fatigue"
 signal: "Moving house every weekend"
 source: "Change"
@@ -6,6 +8,8 @@ source_url: "https://naveenriaz.com/series/change/"
 temperature: "🔥🔥"
 tags: ["change", "leadership", "management"]
 ---
+description: "Moving house every weekend"
+date: 2026-03-30
 
 You can't keep asking the family to move house every weekend. 
 

@@ -11,8 +11,13 @@ import TamilRoot from "../components/TamilRoot.astro";
 import { getCollection } from "astro:content";
 
 const beads = await getCollection("beads");
+const claws = await getCollection("claws");
+
 // Sort by date or order
 const sortedBeads = beads.sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+const sortedClaws = claws.sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
 ---
@@ -110,6 +115,58 @@ const sortedBeads = beads.sort(
         color: inherit;
         text-decoration: underline;
         text-underline-offset: 2px;
+      }
+      
+      /* Claws (BODY) Section */
+      .claws-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        margin-top: 2rem;
+      }
+      .claw-card {
+        position: relative;
+        background: rgba(255, 255, 255, 0.05);
+        border-left: 4px solid var(--color-gold, #ffd700);
+        padding: 2.5rem;
+        border-radius: 0 12px 12px 0;
+        transition: transform 0.3s ease;
+      }
+      .claw-card:hover {
+        transform: translateX(10px);
+        background: rgba(255, 255, 255, 0.08);
+      }
+      .claw-grip {
+        font-family: "Outfit", sans-serif;
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: #fff;
+        margin-bottom: 1rem;
+        line-height: 1.4;
+      }
+      .claw-release {
+        font-size: 0.9rem;
+        color: rgba(255, 255, 255, 0.5);
+        border-top: 1px solid rgba(255, 255, 255, 0.1);
+        padding-top: 1rem;
+        font-style: italic;
+      }
+      .claw-release .label {
+        color: var(--color-gold, #ffd700);
+        text-transform: uppercase;
+        font-size: 0.7rem;
+        font-style: normal;
+        font-weight: bold;
+        letter-spacing: 0.05rem;
+        margin-right: 0.5rem;
+      }
+      .claw-meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 1.5rem;
+        font-size: 0.8rem;
+        color: rgba(255, 255, 255, 0.4);
       }
     </style>
   </head>
