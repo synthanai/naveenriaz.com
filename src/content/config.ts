@@ -66,4 +66,16 @@ const sparks = defineCollection({
   }),
 });
 
-export const collections = { collisions, knots, sparks };
+const beads = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    essence: z.string(),
+    resonance: z.string(),
+    kural_number: z.number().optional(),
+    born_from_knot: z.string().optional(),
+    date: z.coerce.date(),
+  }),
+});
+
+export const collections = { collisions, knots, sparks, beads };
