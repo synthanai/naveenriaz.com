@@ -1,7 +1,8 @@
 ---
 title: "Platform Absorption"
 date: 2026-03-20
-source: "https://x.com/noahepstein_/status/2034658150930862500"
+source: "Link"
+source_url: "https://x.com/noahepstein_/status/2034658150930862500"
 signal: "Meta absorbed a $2B AI startup. Figma turned code into design without designers. 99% of AI products will die by 2027. The survivors share one trait: identity."
 temperature: "🔥🔥"
 tags: ["platform-absorption", "moat", "identity", "survival"]

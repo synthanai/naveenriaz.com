@@ -1,7 +1,8 @@
 ---
 title: "The Harness is the Product"
 date: 2026-03-20
-source: "https://nyk.dev"
+source: "Link"
+source_url: "https://nyk.dev"
 signal: "A builder with 155+ repos and 2.8k GitHub stars says the model was never the product. The harness (orchestration, quality gates, memory, policy, context engineering) is the product."
 temperature: "🔥🔥"
 tags: ["agent-infrastructure", "context-engineering", "builderz"]

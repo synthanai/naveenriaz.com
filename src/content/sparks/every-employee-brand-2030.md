@@ -1,7 +1,8 @@
 ---
 title: "Every Employee Will Have a Personal Brand by 2030"
 date: 2026-03-29
-source: "https://naveenriaz.com/collisions/brand-ambassadors-dont-need-branding"
+source: "Link"
+source_url: "https://naveenriaz.com/collisions/brand-ambassadors-dont-need-branding"
 signal: "Visionary Prediction (2030): AI removes personal branding friction (creation, consistency, language, personality). Universality becomes infrastructural, like email."
 temperature: "🔥🔥🔥"
 tags: ["future-of-work", "ai", "personal-branding", "prediction", "2030"]

@@ -1,7 +1,8 @@
 ---
 title: "The Velocity Illusion"
 date: 2026-03-20
-source: "https://www.linkedin.com/pulse/architects-dilemma-why-our-best-developers-slower-age-raghuveeran-sincc"
+source: "Link"
+source_url: "https://www.linkedin.com/pulse/architects-dilemma-why-our-best-developers-slower-age-raghuveeran-sincc"
 signal: "Senior engineers are 20% slower with AI on complex tasks. Junior engineers are faster but produce code they cannot explain. Speed increased. Understanding collapsed."
 temperature: "🔥🔥🔥"
 tags: ["velocity-illusion", "edc", "ai-governance"]

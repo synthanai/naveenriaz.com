@@ -1,7 +1,8 @@
 ---
 title: "The 17% Tax"
 date: 2026-03-20
-source: "https://www.anthropic.com/research/AI-assistance-coding-skills"
+source: "Link"
+source_url: "https://www.anthropic.com/research/AI-assistance-coding-skills"
 signal: "Anthropic's own RCT found developers using Claude scored 17% lower on comprehension. But one group, those who asked instead of delegated, performed just as well."
 temperature: "🔥🔥🔥"
 tags: ["anthropic", "skill-atrophy", "inquiry-mode", "rct"]

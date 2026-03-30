@@ -1,7 +1,8 @@
 ---
 title: "The Accidental SPAR"
 date: 2026-03-20
-source: "https://github.com/0xNyk/council-of-high-intelligence"
+source: "Link"
+source_url: "https://github.com/0xNyk/council-of-high-intelligence"
 signal: "A Solana developer independently invented persona-based dialectic reasoning with polarity pairs, anti-convergence enforcement, and domain triads, without knowing SPAR exists."
 temperature: "🔥🔥🔥"
 tags: ["spar", "convergent-evolution", "multi-agent"]

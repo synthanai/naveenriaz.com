@@ -1,7 +1,8 @@
 ---
 title: "Your Next Buyer is an Agent"
 date: 2026-03-20
-source: "https://nyk.dev"
+source: "Link"
+source_url: "https://nyk.dev"
 signal: "A builder predicts your next customer will not fill out a form. It will hit an MCP endpoint with a budget. Agent commerce is coming, and most sales funnels are not ready."
 temperature: "🔥"
 tags: ["agent-commerce", "mcp", "sales-funnel", "future"]

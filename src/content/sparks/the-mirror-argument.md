@@ -1,7 +1,8 @@
 ---
 title: "The Mirror Argument"
 date: 2026-03-20
-source: "https://www.linkedin.com/posts/martin-ciupa-76418b17_the-myth-of-machine-consciousness-and-the-activity-7437909157824905216-_jtq"
+source: "Link"
+source_url: "https://www.linkedin.com/posts/martin-ciupa-76418b17_the-myth-of-machine-consciousness-and-the-activity-7437909157824905216-_jtq"
 signal: "A machine does not have a conscience. It has a probability distribution over permitted behaviours. And that distribution ultimately reflects us."
 temperature: "🔥🔥"
 tags: ["consciousness", "ethics", "emergence", "soul"]

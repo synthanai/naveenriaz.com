@@ -1,7 +1,8 @@
 ---
 title: "The Skill Gap Everyone Shares"
 date: 2026-03-20
-source: "https://x.com/aiedge_/status/2031735799994265818"
+source: "Link"
+source_url: "https://x.com/aiedge_/status/2031735799994265818"
 signal: "1.7 million people read a list of 7 AI skills. Zero citations. Zero evidence. The most viral AI career advice on the internet has no empirical backing whatsoever."
 temperature: "🔥"
 tags: ["skills-gap", "evidence", "consulting", "market"]

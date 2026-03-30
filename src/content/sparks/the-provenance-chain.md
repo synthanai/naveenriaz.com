@@ -1,7 +1,8 @@
 ---
 title: "The Provenance Chain"
 date: 2026-03-20
-source: "https://github.com/0xNyk/lacp"
+source: "Link"
+source_url: "https://github.com/0xNyk/lacp"
 signal: "A control plane for AI coding agents uses SHA-256 hash-chained session receipts to create tamper-evident provenance, independently reinventing the audit trail pattern."
 temperature: "🔥🔥"
 tags: ["provenance", "vault-kit", "audit-trail", "convergent-evolution"]
