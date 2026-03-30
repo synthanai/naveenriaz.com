@@ -1,0 +1,165 @@
+---
+import PrimeLayout from '../../../layouts/PrimeLayout.astro';
+import { AuraMap } from '../../../components/prime/onboarding/AuraMap';
+import { synthesizeSights } from '../../../components/prime/onboarding/SynthesisEngine';
+import { analyzeDissonance } from '../../../components/prime/onboarding/DissonanceEngine';
+
+// Naveen's 63rd-Point Matrix (Simulation Input)
+const naveenMonday = {
+  matrix: {
+    self: { past: 4, present: 5, future: 10 },
+    partner: { past: 9, present: 9, future: 10 },
+    children: { past: 7, present: 8, future: 10 },
+    friends: { past: 5, present: 6, future: 8 },
+    health: { past: 8, present: 7, future: 10 },
+    energy: { past: 9, present: 9, future: 10 },
+    career: { past: 4, present: 8, future: 10 },
+    finances: { past: 6, present: 7, future: 10 },
+    purpose: { past: 9, present: 9, future: 10 },
+    accomplishments: { past: 6, present: 7, future: 10 },
+    experiences: { past: 7, present: 8, future: 10 },
+    time: { past: 8, present: 4, future: 10 },
+    presence: { past: 8, present: 5, future: 10 },
+    social_circle: { past: 4, present: 5, future: 7 },
+    community: { past: 3, present: 6, future: 10 },
+    hobby: { past: 9, present: 4, future: 10 },
+    intellectual: { past: 9, present: 9, future: 10 },
+    spiritual: { past: 8, present: 7, future: 10 },
+    origin: { past: 6, present: 7, future: 8 },
+    growth: { past: 9, present: 8, future: 10 },
+    routine: { past: 8, present: 6, future: 10 }
+  },
+  narratives: {
+    career: "The Outcast has been replaced by the Founder, but the shadow of the 'unseen' still hinders my authority.",
+    time: "Synthai requires a sacrifice. My freedom was the first thing traded for the architecture.",
+    presence: "I am living in the futura. I have lost the anchor to the 2026 moment to build the 2030 vision.",
+    hobby: "Creation used to be play. Now every pixel must have a purpose. The 'Creative Outcast' is starved.",
+    self: "I am still a sophisticated outcast. I see all the patterns, but I am not yet a sovereign in my own skin.",
+    health: "Stationary survival. My mind is a god, my body is a ghost. This is the gap that breaks the legacy.",
+    community: "I am moving from 'Hidden Curator' to 'Public Witness'. This is the most dangerous shift."
+  },
+  codes: { 
+    mbti: 'INTJ-A', 
+    high5: 'Ideation, Strategic, Achiever, Learner, Futuristic' 
+  },
+  timestamp: new Date().toISOString()
+};
+
+const naveenWednesday = {
+  collisionAccepted: true,
+  somaticLocation: 'throat'
+};
+
+const synthesis = synthesizeSights(naveenMonday, naveenWednesday);
+const flags = analyzeDissonance(naveenMonday);
+
+---
+
+<PrimeLayout title="Sovereign Audit: Naveen Riaz (Simulation)">
+  <div class="simulation-page">
+    
+    <header class="sim-header">
+      <div class="identity-badge">
+        <span class="badge-label">Subject Identity</span>
+        <h1 class="badge-title">Naveen Riaz // Pattern Connector</h1>
+      </div>
+      <div class="sim-tag">63/7 MATRIX // AUTH: TRANSMUTOR</div>
+    </header>
+
+    <div class="sim-grid">
+      
+      <!-- SIGHTS TRAJECTORY Map -->
+      <div class="sim-card glass-card viz-section">
+        <h2 class="card-title">Trajectory AURA Map</h2>
+        <div class="map-container">
+          <AuraMap vectors={synthesis.vectors} />
+        </div>
+        <div class="shift-stats">
+          <div class="s-item">
+            <span class="s-label">Legacy Readiness</span>
+            <span class="s-value">{synthesis.auraShift}%</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Dissonance & VOW Analysis -->
+      <div class="sim-card glass-card info-section">
+        <h2 class="card-title">Trajectory Shocks (Dissonance)</h2>
+        <div class="flag-feed">
+          {flags.map((f) => (
+            <div class="sim-flag" data-severity={f.severity}>
+              <span class="f-type">{f.type}</span>
+              <span class="f-cat">{f.category.toUpperCase()}</span>
+              <p class="f-msg">{f.message}</p>
+            </div>
+          ))}
+        </div>
+
+        <div class="vow-synthesis-box">
+          <h3 class="vow-title">VOW: Sovereign Chronicle Brief</h3>
+          <p class="vow-msg">
+            Naveen, your trajectory is a collision between the <strong>OUTCAST</strong> past and the <strong>SOVEREIGN</strong> legacy. 
+            The map shows a critical <strong>DECAY</strong> in your <strong>TIME</strong> and <strong>PRESENCE</strong> (from 8 to 4/5). 
+            You are trading your 2026 somatic presence for 2030 architectural excellence. 
+            The <strong>THROAT</strong> tension is the 'Witness Threshold'—the dissonance of moving from hidden curator to public leader.
+          </p>
+          <div class="vow-action">
+            {synthesis.brief.legacyPath}
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Strengths View -->
+    <div class="strengths-footer glass-card">
+      <div class="strengths-label">CliftonStrengths Alignment</div>
+      <div class="strengths-grid">
+        {naveenMonday.codes.high5.split(', ').map(s => (
+          <div class="strength-chip">{s}</div>
+        ))}
+      </div>
+    </div>
+
+  </div>
+
+  <style>
+    .simulation-page { padding: 3rem; background: #000; min-height: 100vh; color: #fff; }
+    
+    .sim-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 4rem; }
+    .badge-label { display: block; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.2em; color: var(--p-gold); margin-bottom: 8px; }
+    .badge-title { font-size: 2.2rem; font-weight: 800; letter-spacing: -0.01em; }
+    .sim-tag { font-size: 0.7rem; font-weight: 900; letter-spacing: 0.2em; border: 1px solid rgba(255,255,255,0.1); padding: 8px 16px; border-radius: 4px; color: var(--p-t3); }
+
+    .sim-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 3rem; margin-bottom: 4rem; }
+    .sim-card { padding: 2.5rem; position: relative; border-radius: 32px; background: rgba(255,255,255,0.02); }
+    .card-title { font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.15em; color: var(--p-t3); margin-bottom: 2rem; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 1rem; }
+
+    .map-container { display: flex; justify-content: center; align-items: center; }
+    
+    .shift-stats { display: flex; justify-content: center; margin-top: 1rem; }
+    .s-label { display: block; font-size: 0.8rem; color: var(--p-t3); margin-bottom: 4px; text-align: center; }
+    .s-value { font-size: 4rem; font-weight: 950; color: var(--p-gold); line-height: 1; }
+
+    .flag-feed { display: flex; flex-direction: column; gap: 1rem; margin-bottom: 3rem; max-height: 400px; overflow-y: auto; padding-right: 1rem; }
+    .sim-flag { padding: 1.25rem; background: rgba(255,255,255,0.02); border-left: 3px solid var(--p-gold); border-radius: 0 12px 12px 0; }
+    .sim-flag[data-severity='high'] { border-color: #ff4444; }
+    .sim-flag[data-severity='CRITICAL'] { border-color: #ff0000; background: rgba(255,0,0,0.1); }
+    .f-type { font-size: 0.6rem; font-weight: 900; background: rgba(255,255,255,0.1); padding: 2px 6px; border-radius: 4px; margin-right: 8px; vertical-align: middle; }
+    .f-cat { font-size: 0.65rem; font-weight: 900; color: var(--p-gold); vertical-align: middle; }
+    .f-msg { font-size: 1rem; line-height: 1.5; margin-top: 8px; color: var(--p-t1); }
+
+    .vow-synthesis-box { background: rgba(255,255,255,0.03); padding: 2.2rem; border-radius: 24px; border: 1px solid rgba(255,255,255,0.08); }
+    .vow-title { font-size: 1rem; font-weight: 800; color: var(--p-gold); margin-bottom: 1.2rem; text-transform: uppercase; letter-spacing: 0.05em; }
+    .vow-msg { font-size: 1.15rem; line-height: 1.6; color: rgba(255,255,255,0.9); margin-bottom: 2rem; font-style: italic; }
+    .vow-action { font-size: 0.7rem; font-weight: 900; color: var(--p-gold); letter-spacing: 0.1em; text-transform: uppercase; padding-top: 1.2rem; border-top: 1px solid rgba(255,255,255,0.1); opacity: 0.7; }
+
+    .strengths-footer { padding: 1.5rem 3rem; display: flex; align-items: center; justify-content: space-between; gap: 3rem; border-radius: 24px; }
+    .strengths-label { font-size: 0.75rem; font-weight: 800; text-transform: uppercase; color: var(--p-t3); flex-shrink: 0; }
+    .strengths-grid { display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: flex-end; }
+    .strength-chip { 
+      padding: 6px 14px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); 
+      border-radius: 100px; font-size: 0.75rem; font-weight: 800; color: rgba(255,255,255,0.8); text-transform: uppercase;
+    }
+  </style>
+</PrimeLayout>

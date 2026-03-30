@@ -1,0 +1,200 @@
+---
+import PrimeLayout from '../../../layouts/PrimeLayout.astro';
+import SomaticPulse from '../../../components/prime/onboarding/SomaticPulse.astro';
+
+// We will handle the logic client-side to ensure VAULT-KIT privacy (local-first)
+---
+
+<PrimeLayout title="Day 2: RESONANCE">
+  <div class="resonance-page">
+    <div id="resonance-container">
+      
+      <!-- Act 1: The Mirror -->
+      <section id="act-1" class="active">
+        <h1 class="resonance-title">Day 2: RESONANCE</h1>
+        <p class="resonance-subtitle">Monday was the Excavation. Today is the Collision.</p>
+        <div class="vow-speech-box glass-card">
+          <p id="vow-mirror-text" class="vow-voice">VOW: I have spent 48 hours weaving your patterns. I see the shape of your soul, and I see the cage you have built for it.</p>
+          <button id="proceed-to-collision" class="prime-btn">Look in the Mirror</button>
+        </div>
+      </section>
+
+      <!-- Act 2: The Collision -->
+      <section id="act-2">
+        <div id="pulse-wrapper">
+          <SomaticPulse severity="high" active={true} />
+        </div>
+        <div class="vow-speech-box glass-card">
+          <p id="vow-collision-text" class="vow-voice-adversarial"></p>
+          <div class="response-options">
+            <button class="choice-btn" data-choice="accept">I admit the truth.</button>
+            <button class="choice-btn" data-choice="resist">This is not the whole truth.</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Act 3: The Somatic -->
+      <section id="act-3">
+        <h2 class="resonance-title">Where do you feel it?</h2>
+        <p class="resonance-subtitle">The mind can lie. The body cannot. Locate the resonance.</p>
+        <div class="body-map-container glass-card">
+          <div class="body-points">
+            <button class="point-btn" data-point="throat">Throat (Expression)</button>
+            <button class="point-btn" data-point="chest">Chest (Integrity)</button>
+            <button class="point-btn" data-point="solar">Solar Plexus (Will)</button>
+            <button class="point-btn" data-point="gut">Gut (Truth)</button>
+          </div>
+        </div>
+        <button id="seal-resonance" class="prime-btn">Seal the Resonance</button>
+      </section>
+
+      <!-- Completion -->
+      <section id="act-complete">
+        <h2 class="resonance-title">Resonance Sealed</h2>
+        <p class="resonance-subtitle">The collision is over. The friction has become heat. Rest now. Friday is the REVEAL.</p>
+        <a href="/prime/" class="prime-btn-reverse">Return to Dashboard</a>
+      </section>
+
+    </div>
+  </div>
+
+  <script>
+    import { analyzeDissonance } from '../../../components/prime/onboarding/DissonanceEngine';
+
+    const act1 = document.getElementById('act-1');
+    const act2 = document.getElementById('act-2');
+    const act3 = document.getElementById('act-3');
+    const actComplete = document.getElementById('act-complete');
+    const collisionText = document.getElementById('vow-collision-text');
+
+    let mondayData = null;
+    let resonanceData = {
+      collisionAccepted: false,
+      somaticLocation: ''
+    };
+
+    // Load Monday Data (Janazah Privacy)
+    const loadMonday = () => {
+      const raw = localStorage.getItem('synthai_onboarding_monday') || localStorage.getItem('synthai_prime_chronicle');
+      if (raw) {
+        mondayData = JSON.parse(raw);
+        console.log('Monday Recall Data Loaded:', mondayData);
+      } else {
+        window.location.href = '/prime/onboarding/monday';
+      }
+    };
+
+    const runCollision = () => {
+      loadMonday();
+      const flags = analyzeDissonance(mondayData);
+      const topFlag = flags[0];
+      
+      if (topFlag) {
+        if (collisionText) collisionText.innerText = topFlag.message;
+      } else {
+        if (collisionText) collisionText.innerText = "VOW: Your alignment is surprising. But even a steady pulse has its shadows. Tell me: Where does your Sovereign intent feel throttled?";
+      }
+
+      act1?.classList.remove('active');
+      act2?.classList.add('active');
+    };
+
+    const proceedButton = document.getElementById('proceed-to-collision');
+    if (proceedButton) proceedButton.onclick = runCollision;
+
+    document.querySelectorAll('.choice-btn').forEach(btn => {
+      btn.onclick = (e) => {
+        const target = e.currentTarget;
+        resonanceData.collisionAccepted = target?.dataset?.choice === 'accept';
+        act2?.classList.remove('active');
+        act3?.classList.add('active');
+      };
+    });
+
+    document.querySelectorAll('.point-btn').forEach(btn => {
+      btn.onclick = (e) => {
+        document.querySelectorAll('.point-btn').forEach(b => b.classList.remove('selected'));
+        const target = e.currentTarget;
+        target?.classList?.add('selected');
+        resonanceData.somaticLocation = target?.dataset?.point || '';
+      };
+    });
+
+    const sealButton = document.getElementById('seal-resonance');
+    if (sealButton) {
+      sealButton.onclick = () => {
+        localStorage.setItem('synthai_onboarding_wednesday', JSON.stringify(resonanceData));
+        act3?.classList.remove('active');
+        actComplete?.classList.add('active');
+      };
+    }
+  </script>
+
+  <style>
+    .resonance-page {
+      min-height: 80vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #resonance-container > section {
+      display: none;
+      width: 100%;
+      max-width: 600px;
+      animation: fadeIn 1s ease-out;
+    }
+    #resonance-container > section.active {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; filter: blur(10px); }
+      to { opacity: 1; filter: blur(0); }
+    }
+
+    .resonance-title { 
+      font-size: 2.5rem; font-weight: 900; color: #fff; text-align: center;
+      background: linear-gradient(135deg, #fff 0%, var(--p-gold) 100%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    }
+    .resonance-subtitle { color: var(--p-t3); font-size: 1.1rem; text-align: center; }
+
+    .vow-speech-box { padding: 3rem; text-align: center; width: 100%; }
+    .vow-voice { font-size: 1.2rem; line-height: 1.6; margin-bottom: 2rem; color: var(--p-t1); }
+    .vow-voice-adversarial { 
+      font-size: 1.4rem; font-weight: 700; line-height: 1.4; color: #fff; 
+      margin-bottom: 2.5rem; text-align: center;
+    }
+
+    .response-options { display: flex; gap: 1rem; width: 100%; }
+    .choice-btn {
+      flex: 1; padding: 1.25rem; border-radius: 12px;
+      background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1);
+      color: #fff; cursor: pointer; transition: all 0.2s;
+    }
+    .choice-btn:hover { background: rgba(255,255,255,0.1); border-color: var(--p-gold); }
+
+    .body-map-container { 
+      width: 100%; padding: 2rem;
+    }
+    .body-points { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    .point-btn {
+      padding: 1rem; border-radius: 10px; background: rgba(255,255,255,0.03); 
+      border: 1px solid rgba(255,255,255,0.08); color: var(--p-t3); cursor: pointer;
+    }
+    .point-btn.selected { background: rgba(212,168,67,0.2); border-color: var(--p-gold); color: #fff; }
+
+    .prime-btn {
+      width: 100%; padding: 1.5rem; border-radius: 16px;
+      background: var(--p-gold); color: #000; font-weight: 800; font-size: 1.1rem; border: none; cursor: pointer;
+    }
+    .prime-btn-reverse {
+      display: block; width: 100%; padding: 1.5rem; border-radius: 16px;
+      background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1);
+      color: #fff; text-align: center; text-decoration: none;
+    }
+  </style>
+</PrimeLayout>

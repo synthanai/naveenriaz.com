@@ -1,0 +1,911 @@
+---
+import PrimeLayout from '../../../layouts/PrimeLayout.astro';
+import { AuraMap } from '../../../components/prime/onboarding/AuraMap';
+import SomaticPulse from '../../../components/prime/onboarding/SomaticPulse.astro';
+import { synthesizeSights } from '../../../components/prime/onboarding/SynthesisEngine';
+import { analyzeDissonance } from '../../../components/prime/onboarding/DissonanceEngine';
+
+const naveenMonday = {
+  matrix: {
+    self: { past: 4, present: 5, future: 10, why: 'I see the architecture clearly, but I still under-inhabit my own authority.' },
+    partner: { past: 9, present: 9, future: 10, why: 'Partnership is stable, but it still depends on protected time.' },
+    children: { past: 7, present: 8, future: 10, why: 'The future standard is stewardship, not just provision.' },
+    friends: { past: 5, present: 6, future: 8, why: 'The trusted circle is thinner than the ambition requires.' },
+    health: { past: 8, present: 7, future: 10, why: 'My mind is a god, but my body keeps absorbing the trade-offs.' },
+    energy: { past: 9, present: 9, future: 10, why: 'Mental velocity is high, but recovery discipline needs protection.' },
+    career: { past: 4, present: 8, future: 10, why: 'I am finally building Synthai, but I am still treated as a consultant in places that matter.' },
+    finances: { past: 6, present: 7, future: 10, why: 'The architecture is compounding faster than the revenue container.' },
+    purpose: { past: 9, present: 9, future: 10, why: 'The calling is already clear. The question is whether the structure can hold it.' },
+    accomplishments: { past: 6, present: 7, future: 10, why: 'Proof is shipping, but it still lags the internal standard.' },
+    experiences: { past: 7, present: 8, future: 10, why: 'Life depth competes with build season.' },
+    time: { past: 8, present: 4, future: 10, why: 'Synthai requires a sacrifice. Freedom was the first thing traded for the architecture.' },
+    presence: { past: 8, present: 5, future: 10, why: 'I am living in 2030 while my body is still trying to stay in 2026.' },
+    social_circle: { past: 4, present: 5, future: 7, why: 'The circle is curated, but not yet deep enough for the next scale.' },
+    community: { past: 3, present: 6, future: 10, why: 'I am moving from hidden curator to public witness, and that transition is costly.' },
+    hobby: { past: 9, present: 4, future: 10, why: 'Creation used to be play. Now every pixel carries strategic pressure.' },
+    intellectual: { past: 9, present: 9, future: 10, why: 'The mind is already compounding. The gap is no longer cognition.' },
+    spiritual: { past: 8, present: 7, future: 10, why: 'Conviction is intact, but ritual consistency drifts under delivery pressure.' },
+    origin: { past: 6, present: 7, future: 8, why: 'Family memory still shapes the line between belonging and independence.' },
+    growth: { past: 9, present: 8, future: 10, why: 'The arc is obvious. Embodiment is the slower layer.' },
+    routine: { past: 8, present: 6, future: 10, why: 'Ritual holds until workload spikes, then the body absorbs the debt.' }
+  },
+  narratives: {
+    career: "The Outcast has been replaced by the Founder, but the shadow of the 'unseen' still hinders my authority.",
+    time: 'Synthai requires a sacrifice. My freedom was the first thing traded for the architecture.',
+    presence: 'I am living in the futura. I have lost the anchor to the 2026 moment to build the 2030 vision.',
+    hobby: "Creation used to be play. Now every pixel must have a purpose. The 'Creative Outcast' is starved.",
+    self: 'I am still a sophisticated outcast. I see all the patterns, but I am not yet a sovereign in my own skin.',
+    health: 'Stationary survival. My mind is a god, my body is a ghost. This is the gap that breaks the legacy.',
+    community: "I am moving from 'Hidden Curator' to 'Public Witness'. This is the most dangerous shift."
+  },
+  external: {
+    mbti: 'INTJ-A',
+    high5: 'Ideation, Strategic, Achiever, Learner, Futuristic',
+    hdType: 'Projector',
+    hdAuthority: 'Splenic',
+    hdProfile: '5/1'
+  },
+  timestamp: '2026-03-31T02:49:13+11:00'
+};
+
+const naveenWednesday = {
+  collisionAccepted: true,
+  somaticLocation: 'throat'
+};
+
+const synthesis = synthesizeSights(naveenMonday, naveenWednesday);
+const flags = analyzeDissonance(naveenMonday);
+
+const matrixRows = Object.entries(naveenMonday.matrix).map(([dimension, vector]) => {
+  const delta = vector.future - vector.present;
+  const shock = Math.abs(vector.present - vector.past) + Math.abs(vector.future - vector.present);
+  return { dimension, ...vector, delta, shock };
+});
+
+const triageQueue = flags.slice(0, 7).map((flag) => ({
+  ...flag,
+  why: naveenMonday.matrix[flag.dimension]?.why ?? naveenMonday.narratives[flag.dimension] ?? 'No narrative trace recorded.'
+}));
+
+const strongestLift = [...matrixRows].sort((a, b) => b.delta - a.delta)[0];
+const sharpestDecay = [...matrixRows].sort((a, b) => (b.past - b.present) - (a.past - a.present))[0];
+const highestShock = [...matrixRows].sort((a, b) => b.shock - a.shock)[0];
+const strengths = naveenMonday.external.high5.split(', ');
+const pulseSeverity =
+  flags[0]?.severity === 'low' ? 'low' :
+  flags[0]?.severity === 'medium' ? 'medium' : 'high';
+
+const coachSnapshot = {
+  subject: 'Naveen Riaz // Pattern Connector',
+  readiness: synthesis.auraShift,
+  strongestLift: strongestLift?.dimension ?? null,
+  sharpestDecay: sharpestDecay?.dimension ?? null,
+  highestShock: highestShock?.dimension ?? null,
+  somaticLocation: naveenWednesday.somaticLocation,
+  strengths,
+  topFlags: flags.slice(0, 5),
+  brief: synthesis.brief
+};
+
+const fullTrace = {
+  monday: naveenMonday,
+  resonance: naveenWednesday,
+  triageQueue,
+  flags,
+  synthesis,
+  coachSnapshot
+};
+
+const rawTrace = JSON.stringify(fullTrace, null, 2);
+---
+
+<PrimeLayout title="Prime Simulation Trace">
+  <div class="trace-page">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Single Page Simulation Trace</p>
+        <h1>Onboarding + Coach, Start To Finish</h1>
+        <p class="lede">
+          This page shows the full simulation in one scroll: Monday recall input, Wednesday resonance,
+          Friday reveal, and the final coach brief generated from the same payload.
+        </p>
+      </div>
+
+      <div class="hero-stats">
+        <div class="stat-card glass-card">
+          <span class="stat-label">Chapters</span>
+          <span class="stat-value">{matrixRows.length}</span>
+        </div>
+        <div class="stat-card glass-card">
+          <span class="stat-label">Flags</span>
+          <span class="stat-value">{flags.length}</span>
+        </div>
+        <div class="stat-card glass-card">
+          <span class="stat-label">Aura Shift</span>
+          <span class="stat-value">{synthesis.auraShift}%</span>
+        </div>
+        <div class="stat-card glass-card">
+          <span class="stat-label">Somatic Hit</span>
+          <span class="stat-value">{naveenWednesday.somaticLocation}</span>
+        </div>
+      </div>
+    </header>
+
+    <section class="section">
+      <div class="section-heading">
+        <span class="section-kicker">Act 1</span>
+        <h2>Monday Recall Input</h2>
+      </div>
+
+      <div class="grid-two">
+        <article class="panel glass-card">
+          <div class="panel-head">
+            <h3>Full Matrix</h3>
+            <span class="panel-meta">Past / Present / Future / Delta</span>
+          </div>
+
+          <div class="matrix-table">
+            <div class="matrix-header">
+              <span>Dimension</span>
+              <span>Past</span>
+              <span>Now</span>
+              <span>Future</span>
+              <span>Delta</span>
+            </div>
+
+            {matrixRows.map((row) => (
+              <div class="matrix-row">
+                <span class="dimension">{row.dimension.replaceAll('_', ' ')}</span>
+                <span>{row.past}</span>
+                <span class="current">{row.present}</span>
+                <span class="future">{row.future}</span>
+                <span class:list={['delta', row.delta >= 4 ? 'lift' : row.delta <= 1 ? 'flat' : 'steady']}>
+                  +{row.delta}
+                </span>
+              </div>
+            ))}
+          </div>
+        </article>
+
+        <div class="stack">
+          <article class="panel glass-card">
+            <div class="panel-head">
+              <h3>Key Inputs</h3>
+              <span class="panel-meta">What the simulation is anchored on</span>
+            </div>
+
+            <div class="summary-list">
+              <div class="summary-item">
+                <span class="summary-label">Strongest Lift</span>
+                <p>{strongestLift.dimension} is pushing from {strongestLift.present} to {strongestLift.future}.</p>
+              </div>
+              <div class="summary-item">
+                <span class="summary-label">Sharpest Decay</span>
+                <p>{sharpestDecay.dimension} fell from {sharpestDecay.past} to {sharpestDecay.present}.</p>
+              </div>
+              <div class="summary-item">
+                <span class="summary-label">Highest Shock</span>
+                <p>{highestShock.dimension} carries the largest total swing at {highestShock.shock}.</p>
+              </div>
+            </div>
+          </article>
+
+          <article class="panel glass-card">
+            <div class="panel-head">
+              <h3>External Codes</h3>
+              <span class="panel-meta">Body-layer calibration</span>
+            </div>
+
+            <div class="code-grid">
+              <div class="code-chip">
+                <span>MBTI</span>
+                <strong>{naveenMonday.external.mbti}</strong>
+              </div>
+              <div class="code-chip">
+                <span>HD Type</span>
+                <strong>{naveenMonday.external.hdType}</strong>
+              </div>
+              <div class="code-chip">
+                <span>Authority</span>
+                <strong>{naveenMonday.external.hdAuthority}</strong>
+              </div>
+              <div class="code-chip">
+                <span>Profile</span>
+                <strong>{naveenMonday.external.hdProfile}</strong>
+              </div>
+            </div>
+
+            <div class="strengths-wrap">
+              {strengths.map((strength) => (
+                <span class="strength-chip">{strength}</span>
+              ))}
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <span class="section-kicker">Act 2</span>
+        <h2>Wednesday Resonance</h2>
+      </div>
+
+      <div class="grid-two">
+        <article class="panel glass-card centered">
+          <div class="panel-head">
+            <h3>Collision State</h3>
+            <span class="panel-meta">What the body and flag system are saying</span>
+          </div>
+
+          <SomaticPulse severity={pulseSeverity} active={true} />
+
+          <div class="collision-state">
+            <div class="signal-chip">
+              <span>Collision Accepted</span>
+              <strong>{naveenWednesday.collisionAccepted ? 'Yes' : 'No'}</strong>
+            </div>
+            <div class="signal-chip">
+              <span>Somatic Location</span>
+              <strong>{naveenWednesday.somaticLocation}</strong>
+            </div>
+          </div>
+
+          <div class="provocation-box">
+            <span class="summary-label">Primary VOW Provocation</span>
+            <p>{flags[0]?.message}</p>
+          </div>
+        </article>
+
+        <article class="panel glass-card">
+          <div class="panel-head">
+            <h3>Triage Queue</h3>
+            <span class="panel-meta">The sequence surfaced by the simulation</span>
+          </div>
+
+          <div class="flag-stack">
+            {triageQueue.map((flag) => (
+              <div class="flag-card" data-severity={flag.severity}>
+                <div class="flag-meta">
+                  <span class="flag-type">{flag.type}</span>
+                  <span class="flag-dimension">{flag.dimension}</span>
+                  <span class="flag-score">{flag.severityScore}/10</span>
+                </div>
+                <p class="flag-message">{flag.message}</p>
+                <p class="flag-why">{flag.why}</p>
+              </div>
+            ))}
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <span class="section-kicker">Act 3</span>
+        <h2>Friday Reveal</h2>
+      </div>
+
+      <div class="grid-two">
+        <article class="panel glass-card">
+          <div class="panel-head">
+            <h3>SIGHTS Aura</h3>
+            <span class="panel-meta">Computed from the full Monday payload and resonance state</span>
+          </div>
+
+          <div class="aura-shell">
+            <AuraMap vectors={synthesis.vectors} />
+          </div>
+
+          <div class="brief-box">
+            <span class="summary-label">Legacy Brief</span>
+            <p>{synthesis.brief.legacyPath}</p>
+          </div>
+        </article>
+
+        <article class="panel glass-card">
+          <div class="panel-head">
+            <h3>SIGHTS Breakdown</h3>
+            <span class="panel-meta">Current / Sovereign / Shock</span>
+          </div>
+
+          <div class="vector-stack">
+            {synthesis.vectors.map((vector) => (
+              <div class="vector-card">
+                <div>
+                  <span class="vector-label">{vector.label}</span>
+                  <p class="vector-dimension">{vector.dimension}</p>
+                </div>
+                <div class="vector-metrics">
+                  <span>Now {vector.current}</span>
+                  <span>Target {vector.sovereign}</span>
+                  <span>Shock {vector.shock}</span>
+                  <span data-trajectory={vector.trajectory}>{vector.trajectory}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <span class="section-kicker">Coach</span>
+        <h2>Final Coach Snapshot</h2>
+      </div>
+
+      <div class="coach-grid">
+        <article class="panel glass-card">
+          <div class="panel-head">
+            <h3>Coach Readout</h3>
+            <span class="panel-meta">What the final page should surface without switching routes</span>
+          </div>
+
+          <div class="coach-summary">
+            <div class="coach-line">
+              <span>Archetype</span>
+              <strong>{synthesis.brief.archetype}</strong>
+            </div>
+            <div class="coach-line">
+              <span>Shadow</span>
+              <strong>{synthesis.brief.shadow}</strong>
+            </div>
+            <div class="coach-line">
+              <span>Dissonance Point</span>
+              <strong>{synthesis.brief.dissonancePoint}</strong>
+            </div>
+            <div class="coach-line">
+              <span>Readiness</span>
+              <strong>{synthesis.auraShift}%</strong>
+            </div>
+          </div>
+        </article>
+
+        <article class="panel glass-card">
+          <div class="panel-head">
+            <h3>Top Coach Flags</h3>
+            <span class="panel-meta">Most important watchpoints</span>
+          </div>
+
+          <div class="mini-flag-list">
+            {flags.slice(0, 5).map((flag) => (
+              <div class="mini-flag" data-severity={flag.severity}>
+                <span>{flag.dimension}</span>
+                <strong>{flag.type}</strong>
+              </div>
+            ))}
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section raw-section">
+      <div class="section-heading">
+        <span class="section-kicker">Raw Trace</span>
+        <h2>Everything In One Payload</h2>
+      </div>
+
+      <article class="panel glass-card raw-panel">
+        <pre>{rawTrace}</pre>
+      </article>
+    </section>
+  </div>
+
+  <style>
+    .trace-page {
+      padding: 3rem;
+      background:
+        radial-gradient(circle at top right, rgba(212, 168, 67, 0.12), transparent 32%),
+        radial-gradient(circle at top left, rgba(0, 153, 255, 0.1), transparent 28%),
+        #050505;
+      color: #fff;
+      min-height: 100vh;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(320px, 420px);
+      gap: 2rem;
+      align-items: end;
+      margin-bottom: 3rem;
+    }
+
+    .eyebrow {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: var(--p-gold);
+      margin-bottom: 0.75rem;
+      font-weight: 900;
+    }
+
+    h1 {
+      font-size: clamp(2.8rem, 6vw, 4.6rem);
+      line-height: 0.95;
+      letter-spacing: -0.05em;
+      margin-bottom: 1rem;
+    }
+
+    .lede {
+      max-width: 60ch;
+      color: var(--p-t2);
+      font-size: 1.05rem;
+      line-height: 1.7;
+    }
+
+    .hero-stats {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+    }
+
+    .stat-card,
+    .panel {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 28px;
+      backdrop-filter: blur(18px);
+    }
+
+    .stat-card {
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+
+    .stat-label {
+      font-size: 0.7rem;
+      color: var(--p-t3);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-weight: 800;
+    }
+
+    .stat-value {
+      font-size: 2rem;
+      font-weight: 900;
+      color: #fff;
+    }
+
+    .section {
+      margin-top: 2.5rem;
+    }
+
+    .section-heading {
+      margin-bottom: 1.25rem;
+    }
+
+    .section-kicker {
+      display: inline-block;
+      margin-bottom: 0.5rem;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--p-gold);
+      font-weight: 900;
+    }
+
+    h2 {
+      font-size: 1.8rem;
+      letter-spacing: -0.03em;
+    }
+
+    .grid-two {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
+      gap: 1.5rem;
+    }
+
+    .coach-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1.5rem;
+    }
+
+    .stack {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .panel {
+      padding: 1.5rem;
+    }
+
+    .panel-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .panel-head h3 {
+      font-size: 1.1rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .panel-meta {
+      font-size: 0.72rem;
+      color: var(--p-t3);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      text-align: right;
+    }
+
+    .centered {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .matrix-table {
+      display: grid;
+      gap: 0.45rem;
+    }
+
+    .matrix-header,
+    .matrix-row {
+      display: grid;
+      grid-template-columns: minmax(140px, 1.7fr) repeat(4, minmax(44px, 0.65fr));
+      gap: 0.75rem;
+      align-items: center;
+    }
+
+    .matrix-header {
+      padding: 0 0 0.5rem;
+      font-size: 0.7rem;
+      color: var(--p-t3);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .matrix-row {
+      padding: 0.7rem 0;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      font-size: 0.92rem;
+    }
+
+    .matrix-row:last-child {
+      border-bottom: 0;
+    }
+
+    .dimension {
+      text-transform: capitalize;
+      color: var(--p-t1);
+    }
+
+    .current {
+      color: var(--p-gold);
+      font-weight: 800;
+    }
+
+    .future {
+      color: #00ffa3;
+      font-weight: 800;
+    }
+
+    .delta {
+      font-weight: 800;
+    }
+
+    .delta.lift {
+      color: #00ffa3;
+    }
+
+    .delta.steady {
+      color: var(--p-gold);
+    }
+
+    .delta.flat {
+      color: var(--p-t3);
+    }
+
+    .summary-list,
+    .flag-stack,
+    .vector-stack {
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+    }
+
+    .summary-item,
+    .flag-card,
+    .vector-card,
+    .provocation-box,
+    .code-chip,
+    .signal-chip,
+    .mini-flag,
+    .coach-line {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      border-radius: 18px;
+      padding: 1rem;
+    }
+
+    .summary-label {
+      display: block;
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--p-gold);
+      font-weight: 900;
+      margin-bottom: 0.4rem;
+    }
+
+    .summary-item p,
+    .provocation-box p {
+      color: var(--p-t2);
+      line-height: 1.6;
+    }
+
+    .code-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.8rem;
+      margin-bottom: 1rem;
+    }
+
+    .code-chip span,
+    .signal-chip span,
+    .coach-line span {
+      display: block;
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--p-t3);
+      margin-bottom: 0.35rem;
+    }
+
+    .code-chip strong,
+    .signal-chip strong,
+    .coach-line strong {
+      font-size: 1rem;
+      color: #fff;
+    }
+
+    .strengths-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.7rem;
+    }
+
+    .strength-chip {
+      padding: 0.55rem 0.85rem;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: rgba(255, 255, 255, 0.82);
+      font-weight: 800;
+    }
+
+    .collision-state {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.9rem;
+      margin: 1.2rem 0;
+    }
+
+    .flag-card[data-severity='CRITICAL'],
+    .mini-flag[data-severity='CRITICAL'] {
+      border-color: rgba(255, 68, 68, 0.7);
+      background: rgba(255, 68, 68, 0.12);
+    }
+
+    .flag-card[data-severity='high'],
+    .mini-flag[data-severity='high'] {
+      border-color: rgba(255, 110, 72, 0.5);
+      background: rgba(255, 110, 72, 0.08);
+    }
+
+    .flag-card[data-severity='medium'],
+    .mini-flag[data-severity='medium'] {
+      border-color: rgba(212, 168, 67, 0.35);
+    }
+
+    .flag-meta {
+      display: flex;
+      gap: 0.65rem;
+      flex-wrap: wrap;
+      align-items: center;
+      margin-bottom: 0.5rem;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .flag-type {
+      color: var(--p-gold);
+      font-weight: 900;
+    }
+
+    .flag-dimension {
+      color: #fff;
+      font-weight: 800;
+    }
+
+    .flag-score {
+      color: var(--p-t3);
+    }
+
+    .flag-message {
+      color: #fff;
+      line-height: 1.55;
+      margin-bottom: 0.55rem;
+    }
+
+    .flag-why {
+      color: var(--p-t3);
+      line-height: 1.55;
+      font-style: italic;
+    }
+
+    .aura-shell {
+      display: flex;
+      justify-content: center;
+      padding: 1rem 0 0.5rem;
+    }
+
+    .brief-box {
+      margin-top: 1rem;
+    }
+
+    .vector-card {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: flex-start;
+    }
+
+    .vector-label {
+      display: block;
+      font-size: 0.9rem;
+      font-weight: 800;
+      color: #fff;
+    }
+
+    .vector-dimension {
+      color: var(--p-t3);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-top: 0.2rem;
+    }
+
+    .vector-metrics {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.25rem;
+      font-size: 0.8rem;
+      color: var(--p-t2);
+    }
+
+    .vector-metrics [data-trajectory='UP'] {
+      color: #00ffa3;
+      font-weight: 900;
+    }
+
+    .vector-metrics [data-trajectory='DOWN'] {
+      color: #ff6767;
+      font-weight: 900;
+    }
+
+    .vector-metrics [data-trajectory='STABLE'] {
+      color: var(--p-gold);
+      font-weight: 900;
+    }
+
+    .coach-summary,
+    .mini-flag-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.8rem;
+    }
+
+    .coach-line,
+    .mini-flag {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .mini-flag span {
+      text-transform: capitalize;
+      color: #fff;
+    }
+
+    .mini-flag strong {
+      color: var(--p-gold);
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+    }
+
+    .raw-panel {
+      overflow: auto;
+      padding: 0;
+    }
+
+    .raw-panel pre {
+      margin: 0;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      line-height: 1.55;
+      color: #d6d6d6;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.025), rgba(255, 255, 255, 0.01));
+      border-radius: 28px;
+    }
+
+    @media (max-width: 980px) {
+      .trace-page {
+        padding: 1.25rem;
+      }
+
+      .hero,
+      .grid-two,
+      .coach-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-stats,
+      .code-grid,
+      .collision-state {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .matrix-header,
+      .matrix-row {
+        grid-template-columns: minmax(120px, 1.4fr) repeat(4, minmax(38px, 0.55fr));
+        gap: 0.45rem;
+        font-size: 0.82rem;
+      }
+
+      .vector-card,
+      .coach-line,
+      .mini-flag {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .vector-metrics {
+        align-items: flex-start;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .hero-stats,
+      .code-grid,
+      .collision-state {
+        grid-template-columns: 1fr;
+      }
+
+      .panel {
+        padding: 1rem;
+      }
+
+      .matrix-header,
+      .matrix-row {
+        grid-template-columns: minmax(108px, 1.3fr) repeat(4, minmax(32px, 0.52fr));
+        font-size: 0.76rem;
+      }
+
+      h2 {
+        font-size: 1.45rem;
+      }
+    }
+  </style>
+</PrimeLayout>
