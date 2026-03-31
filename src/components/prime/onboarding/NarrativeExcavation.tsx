@@ -10,9 +10,10 @@ interface MatrixVector {
 interface NarrativeExcavationProps {
   auditData: Record<string, MatrixVector>;
   onComplete: (data: Record<string, string>) => void;
+  onPartialSave?: (data: Record<string, string>) => void;
 }
 
-export const NarrativeExcavation: React.FC<NarrativeExcavationProps> = ({ auditData, onComplete }) => {
+export const NarrativeExcavation: React.FC<NarrativeExcavationProps> = ({ auditData, onComplete, onPartialSave }) => {
   const [narratives, setNarratives] = useState<Record<string, string>>({});
   const [triageKeys, setTriageKeys] = useState<string[]>([]);
   const [activeStep, setActiveStep] = useState(0);
@@ -91,7 +92,11 @@ export const NarrativeExcavation: React.FC<NarrativeExcavationProps> = ({ auditD
           className="vow-input"
           placeholder="Peel back the final layer..."
           value={narratives[currentKey] || ''}
-          onChange={(e) => setNarratives({ ...narratives, [currentKey]: e.target.value })}
+          onChange={(e) => {
+            const nextNar = { ...narratives, [currentKey]: e.target.value };
+            setNarratives(nextNar);
+            onPartialSave?.(nextNar);
+          }}
           autoFocus
         />
 

@@ -59,17 +59,25 @@ export const MondayFlow: React.FC = () => {
     setStage('audit');
   };
 
-  const handleMatrixComplete = (matrix: Record<string, MatrixValue>) => {
+  const handlePartialMatrix = (matrix: Record<string, MatrixValue>) => {
     const nextData = { ...chronicleData, matrix };
     setChronicleData(nextData);
     saveToVault(nextData);
+  };
+
+  const handleMatrixComplete = (matrix: Record<string, MatrixValue>) => {
+    handlePartialMatrix(matrix);
     setStage('excavation');
   };
 
-  const handleNarrativesComplete = (narratives: Record<string, string>) => {
+  const handlePartialNarratives = (narratives: Record<string, string>) => {
     const nextData = { ...chronicleData, narratives };
     setChronicleData(nextData);
     saveToVault(nextData);
+  };
+
+  const handleNarrativesComplete = (narratives: Record<string, string>) => {
+    handlePartialNarratives(narratives);
     setStage('codes');
   };
 
@@ -106,13 +114,14 @@ export const MondayFlow: React.FC = () => {
             <AuditGrid 
               tone={chronicleData.profile?.tone} 
               onComplete={handleMatrixComplete} 
+              onPartialSave={handlePartialMatrix}
             />
           </div>
         )}
 
         {stage === 'excavation' && chronicleData.matrix && (
           <div className="stage active">
-            <NarrativeExcavation auditData={chronicleData.matrix} onComplete={handleNarrativesComplete} />
+            <NarrativeExcavation auditData={chronicleData.matrix} onComplete={handleNarrativesComplete} onPartialSave={handlePartialNarratives} />
           </div>
         )}
 
@@ -126,8 +135,30 @@ export const MondayFlow: React.FC = () => {
           <div className="stage active">
             <h2 className="revelatory-title">Chronicle Sealed</h2>
             <p className="revelatory-subtitle">
-              Your Monday Recall is complete. The total matrix is established. We meet again on Wednesday for the RESONANCE.
+              Your Monday Recall is complete. The total matrix is established.
             </p>
+            {(() => {
+              if (!chronicleData.matrix) return null;
+              const labelMap: Record<string, string> = {
+                body_resource: 'Financial Capital', body_capacity: 'Vitality Capacity', body_stability: 'Environmental Stability',
+                mind_resource: 'Temporal Autonomy', mind_capacity: 'Deep Focus', mind_stability: 'Skill Arbitrage',
+                soul_resource: 'Relational Depth', soul_capacity: 'Identity Alignment', soul_stability: 'Legacy Ripples'
+              };
+              const keys = Object.keys(chronicleData.matrix).sort((a, b) => {
+                const vecA = chronicleData.matrix![a];
+                const vecB = chronicleData.matrix![b];
+                const shockA = Math.abs(vecA.present - vecA.past) + Math.abs(vecA.future - vecA.present);
+                const shockB = Math.abs(vecB.present - vecB.past) + Math.abs(vecB.future - vecB.present);
+                return shockB - shockA;
+              });
+              const topShock = labelMap[keys[0]] || keys[0];
+              return (
+                <div className="immediate-reward">
+                  <p className="reward-text">We have isolated your <strong className="gold-highlight">{topShock}</strong> as your critical leak.</p>
+                  <p className="reward-sub">See you Wednesday.</p>
+                </div>
+              );
+            })()}
             <div className="completion-actions">
               <a href="/prime/" className="prime-btn">Enter Dashboard</a>
               <a href="/prime/onboarding/ritual_simulation" className="prime-btn-reverse">View Simulation Trace</a>
@@ -170,6 +201,10 @@ export const MondayFlow: React.FC = () => {
           margin-left: auto;
           margin-right: auto;
         }
+        .immediate-reward { margin-top: 2rem; margin-bottom: 2rem; padding: 2rem; background: rgba(212, 168, 67, 0.05); border: 1px solid rgba(212, 168, 67, 0.2); border-radius: 20px; text-align: center; }
+        .reward-text { font-size: 1.25rem; color: #fff; margin-bottom: 0.5rem; }
+        .gold-highlight { color: var(--p-gold); font-weight: 900; }
+        .reward-sub { font-size: 1rem; color: var(--p-t3); font-style: italic; }
         .completion-actions { display: flex; flex-direction: column; gap: 1rem; margin-top: 3rem; }
 
         .prime-btn {

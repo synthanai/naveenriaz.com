@@ -78,10 +78,11 @@ const CATEGORIES = [
 
 interface AuditGridProps {
   onComplete: (data: Record<string, any>) => void;
+  onPartialSave?: (data: Record<string, any>) => void;
   tone?: 'layman' | 'professional' | 'philosophical';
 }
 
-export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete, tone = 'layman' }) => {
+export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete, onPartialSave, tone = 'layman' }) => {
   const [activeCategory, setActiveCategory] = useState(0);
   const [matrix, setMatrix] = useState<Record<string, { past: number, present: number, future: number, whyPast: string, whyPresent: string, whyFuture: string }>>({});
   
@@ -89,10 +90,12 @@ export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete, tone = 'layman
   const currentData = matrix[current.id] || { past: 5, present: 5, future: 5, whyPast: '', whyPresent: '', whyFuture: '' };
 
   const updateVal = (field: 'past' | 'present' | 'future' | 'whyPast' | 'whyPresent' | 'whyFuture', val: any) => {
-    setMatrix({
+    const nextMatrix = {
       ...matrix,
       [current.id]: { ...currentData, [field]: val }
-    });
+    };
+    setMatrix(nextMatrix);
+    onPartialSave?.(nextMatrix);
   };
 
   const handleNext = () => {
