@@ -377,9 +377,21 @@
     {
       "slug": "the-dhobis-numb-arm",
       "temperature": "🔥🔥🔥",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 20
+      "order": 20,
+      "approved_at": "2026-03-31T11:40:08.292Z",
+      "published_at": "2026-03-31T11:40:18.571Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7444710159895031808",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "the-presenteeism-tax",

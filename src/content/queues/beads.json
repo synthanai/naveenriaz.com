@@ -19,6 +19,24 @@
       "status": "pending",
       "added": "2026-03-30",
       "order": 2
+    },
+    {
+      "slug": "context-cargo",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 3
+    },
+    {
+      "slug": "friction-tax",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 4
+    },
+    {
+      "slug": "architecture-destiny",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 5
     }
   ]
 }
