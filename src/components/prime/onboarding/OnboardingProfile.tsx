@@ -5,6 +5,7 @@ export type UserProfile = {
   role: 'founder' | 'professional' | 'creative' | 'learner';
   primaryGoal: 'clarity' | 'growth' | 'balance' | 'peak_performance';
   tone: 'layman' | 'professional' | 'philosophical';
+  oneThingGoal: string;
 };
 
 interface OnboardingProfileProps {
@@ -16,11 +17,12 @@ export const OnboardingProfile: React.FC<OnboardingProfileProps> = ({ onComplete
     name: '',
     role: 'professional',
     primaryGoal: 'clarity',
-    tone: 'layman'
+    tone: 'layman',
+    oneThingGoal: ''
   });
 
   const handleSubmit = () => {
-    if (profile.name.trim()) {
+    if (profile.name.trim() && profile.oneThingGoal.trim()) {
       onComplete(profile);
     }
   };
@@ -87,11 +89,20 @@ export const OnboardingProfile: React.FC<OnboardingProfileProps> = ({ onComplete
             DEEP WISDOM (EXISTENTIAL)
           </button>
         </div>
+
+        <label className="field-label">What is the ONE thing you want to change in the next 90 days?</label>
+        <input 
+          type="text" 
+          className="profile-input one-thing-input" 
+          placeholder="Be specific. One sentence."
+          value={profile.oneThingGoal}
+          onChange={(e) => setProfile({ ...profile, oneThingGoal: e.target.value })}
+        />
       </div>
 
       <button 
         className="prime-btn" 
-        disabled={!profile.name.trim()}
+        disabled={!profile.name.trim() || !profile.oneThingGoal.trim()}
         onClick={handleSubmit}
       >
         Set the Intent
@@ -110,6 +121,7 @@ export const OnboardingProfile: React.FC<OnboardingProfileProps> = ({ onComplete
           border-radius: 12px; padding: 1.25rem; color: #fff; font-size: 1.1rem; outline: none;
         }
         .profile-input:focus { border-color: var(--p-gold); background: rgba(212, 168, 67, 0.05); }
+        .one-thing-input { border-color: rgba(212, 168, 67, 0.2); }
 
         .option-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
         .option-btn {

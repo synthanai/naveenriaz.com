@@ -58,7 +58,7 @@ export const FridayFlow: React.FC = () => {
       <div className="reveal-page">
         <div className="loading-card glass-card">
           <h2>Friday needs Monday and Wednesday data first.</h2>
-          <a href="/prime/onboarding/monday" className="prime-btn-reverse">Return to Monday</a>
+          <a href="/prime/onboarding/sovereign" className="prime-btn-reverse">Return to Day 1</a>
         </div>
       </div>
     );

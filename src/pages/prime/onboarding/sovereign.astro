@@ -1,0 +1,93 @@
+---
+import PrimeLayout from '../../../layouts/PrimeLayout.astro';
+import { MondayFlow } from '../../../components/prime/onboarding/MondayFlow';
+---
+
+<PrimeLayout title="The Sovereign | 3-Day Initiation">
+  <div class="sovereign-intro">
+    <span class="sov-badge">THE SOVEREIGN INITIATION</span>
+    <p class="sov-subtitle">Day 1 of 3: RECALL. The excavation begins now.</p>
+  </div>
+  <MondayFlow client:load />
+
+  <div class="sov-timeline">
+    <div class="timeline-step active">
+      <span class="step-num">1</span>
+      <span class="step-label">Monday: RECALL</span>
+    </div>
+    <div class="timeline-step">
+      <span class="step-num">2</span>
+      <span class="step-label">Wednesday: RESONANCE</span>
+    </div>
+    <div class="timeline-step">
+      <span class="step-num">3</span>
+      <span class="step-label">Friday: REVEAL</span>
+    </div>
+  </div>
+
+  <style>
+    .sovereign-intro {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .sov-badge {
+      display: inline-block;
+      font-size: 0.55rem;
+      font-weight: 900;
+      letter-spacing: 0.2em;
+      color: var(--p-gold);
+      background: rgba(212, 168, 67, 0.1);
+      padding: 6px 18px;
+      border-radius: 100px;
+      margin-bottom: 0.75rem;
+    }
+    .sov-subtitle {
+      color: var(--p-t3);
+      font-size: 0.9rem;
+    }
+    .sov-timeline {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-top: 3rem;
+      padding: 1.5rem;
+      border-top: 1px solid rgba(255,255,255,0.05);
+    }
+    .timeline-step {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      opacity: 0.3;
+    }
+    .timeline-step.active {
+      opacity: 1;
+    }
+    .step-num {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.65rem;
+      font-weight: 900;
+      color: var(--p-t3);
+    }
+    .timeline-step.active .step-num {
+      background: var(--p-gold);
+      border-color: var(--p-gold);
+      color: #000;
+    }
+    .step-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      color: var(--p-t3);
+    }
+    .timeline-step.active .step-label {
+      color: #fff;
+    }
+  </style>
+</PrimeLayout>
