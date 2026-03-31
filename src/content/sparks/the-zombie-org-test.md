@@ -1,21 +1,19 @@
 ---
-description: "When icons leave the building"
-date: 2026-03-30
 title: "The Zombie Org Test"
-signal: "When icons leave the building"
-source: "Energy"
-source_url: "https://naveenriaz.com/series/energy/"
-temperature: "🔥🔥🔥"
-tags: ["identity", "purpose", "energy"]
----
-description: "When icons leave the building"
 date: 2026-03-30
+signal: "If the CEO disappeared for a month, would the company notice, or just keep shambling forward?"
+source: "Structure"
+temperature: "🔥🔥🔥"
+tags: ["structure", "leadership", "self-awareness"]
+description: "The test that separates living organisations from undead ones."
+---
 
-The idols are stolen, but the rituals continue. 
+Here is a diagnostic that terrifies most leadership teams: if every senior leader disappeared for 30 days, would the organisation adapt, or would it just keep doing last month's work on autopilot?
 
-When's the last time you asked "Why are we in this meeting?" and got an answer that wasn't "It's tradition"? Organizations don't die suddenly; they become zombies first. They walk, they eat, they process—but the soul left months ago. 
+A living organisation feels the absence. It senses the gap, redistributes, adjusts. A zombie organisation does not notice. It shambles forward on momentum alone, executing yesterday's plan with nobody steering.
 
-Is your organization merely operating, or is it alive? 
-Check the "why" behind your "how" today. 
+The difference is not size or industry. It is whether the organisation has a nervous system or just a schedule. Gary Hamel, writing in the Harvard Business Review, argued that most organisations are built for discipline, not for resilience. Discipline keeps the zombie walking. Resilience is what makes it alive.
 
-#identity #purpose #culture
+The test is simple. Remove a layer. If nothing changes in two weeks, that layer was not leading. It was just occupying a seat on the org chart.
+
+Alive organisations adapt. Dead ones just have not fallen over yet.

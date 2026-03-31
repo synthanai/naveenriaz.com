@@ -1,21 +1,19 @@
 ---
-description: "Are you a jailer or a coach?"
-date: 2026-03-30
 title: "Talent Hoarding"
-signal: "Are you a jailer or a coach?"
-source: "Capability"
-source_url: "https://naveenriaz.com/series/capability/"
-temperature: "🔥🔥"
-tags: ["leadership", "capability", "trust"]
----
-description: "Are you a jailer or a coach?"
 date: 2026-03-30
+signal: "The manager who never lets good people move is the manager who makes good people leave."
+source: "Capability"
+temperature: "🔥🔥"
+tags: ["capability", "talent", "retention"]
+description: "Hoarding talent is the fastest way to lose it."
+---
 
-"I can't let them move to another department; I need them too much." 
+A manager has a brilliant engineer. The engineer asks to transfer to a new team that would stretch their skills. The manager blocks the move. "We cannot afford to lose you right now."
 
-Keeping your best people in one room is the fastest way to starve the rest of your organization of air. You're not "protecting your team," you're hoarding talent—and talent that doesn't grow, rots. 
+Six months later, the engineer leaves the company entirely.
 
-True leaders are factories for leaders, not collectors of them. 
-Release the flow. 
+McKinsey's 2022 Great Attrition research found that one of the top three reasons people quit is lack of career development. Not compensation. Not workload. The feeling that they are stuck. And the person most likely to create that feeling is the direct manager who holds talent hostage in the name of team stability.
 
-#leadership #capability #trust
+Talent hoarding looks like loyalty from the outside. From the inside, it feels like a cage. The manager believes they are protecting the team. The employee experiences it as a ceiling.
+
+The paradox is clean: the tighter you grip, the faster they slip. The only way to keep great people is to keep them moving.

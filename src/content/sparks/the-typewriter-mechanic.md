@@ -1,21 +1,19 @@
 ---
-description: "Perfection is the enemy of the new"
-date: 2026-03-30
 title: "The Typewriter Mechanic"
-signal: "Perfection is the enemy of the new"
-source: "Capability"
-source_url: "https://naveenriaz.com/series/capability/"
-temperature: "🔥🔥"
-tags: ["capability", "skills", "innovation"]
----
-description: "Perfection is the enemy of the new"
 date: 2026-03-30
+signal: "The best typewriter mechanic in the world still could not save the typewriter."
+source: "Capability"
+temperature: "🔥🔥"
+tags: ["capability", "innovation", "obsolescence"]
+description: "Mastering a dying skill is not the same as building a new one."
+---
 
-The world’s best typewriter mechanic knows everything about a tool no one uses anymore. 
+Somewhere around 1985, the best typewriter mechanic in the world perfected their craft. Every ribbon change was flawless. Every key alignment was precise. Their customers were loyal.
 
-Your most senior experts might be your biggest blockers. Not because they aren't talented, but because they are perfecting the past instead of inventing the future. 
+By 1995, they were unemployed. Not because they were bad at their job, but because the job itself had been absorbed by something that did not need a mechanic at all.
 
-Are your skills an engine or an anchor? 
-Capability is a metabolism, not a trophy room. 
+Clayton Christensen documented this pattern in The Innovator's Dilemma: organisations do not fail because they stop improving. They fail because they keep improving the wrong thing. Kodak made better film. Blockbuster opened more stores. Nokia built sturdier phones.
 
-#capability #innovation #skills
+The pattern is always the same. The capability is real. The mastery is genuine. But the context has moved, and mastery of the old context is not transferable.
+
+If your team's greatest strength is efficiency at something the market no longer values, you do not have a capability. You have an expensive habit.

@@ -1,21 +1,19 @@
 ---
-description: "Burnout isn't a badge"
+title: "The Dhobi's Numb Arm"
 date: 2026-03-30
-title: "The Dhobi’s Numb Arm"
-signal: "Burnout isn't a badge"
+signal: "Burnout isn't a badge. It's a system failure wearing a productivity mask."
 source: "Energy"
-source_url: "https://naveenriaz.com/series/energy/"
 temperature: "🔥🔥🔥"
 tags: ["energy", "burnout", "culture"]
+description: "Burnout isn't a badge. It's a system failure of busy-ness."
 ---
-description: "Burnout isn't a badge"
-date: 2026-03-30
 
-Burnout isn't a badge. It's a system failure of "busy-ness."
+In India, the dhobi irons clothes on the street until his arm goes numb. Nobody asks about the arm. The shirts are crisp. That is the only metric anyone tracks.
 
-If your team is "too busy" to think, you're not scaling, you're just heating up the iron until it breaks. The Dhobi in the street irons clothes until his arm goes numb, but because the clothes are crisp, no one asks about the arm. 
+Gallup's 2024 State of the Global Workplace report found that 76% of employees experience burnout at least sometimes. The World Health Organization now classifies burnout as an occupational phenomenon, not a personal weakness. The system produces it. The system ignores it.
 
-Are you celebrating the crisp shirts while ignoring the numb arms in your office? 
-Culture isn't the work you do; it's the rhythm you keep. 
+Your team works late. They answer messages at midnight. They skip lunch to finish the deck. The output looks impressive. The dashboards are green. But underneath the crisp metrics, arms are going numb.
 
-#energy #burnout #thrive
+Burnout is not a badge of commitment. It is a diagnostic: the system is extracting more than it replenishes.
+
+Stop celebrating the crisp shirts. Start asking about the arms.

@@ -1,21 +1,19 @@
 ---
-description: "Presence isn't performance"
-date: 2026-03-30
 title: "The Presenteeism Tax"
-signal: "Presence isn't performance"
+date: 2026-03-30
+signal: "The person at their desk doing nothing costs more than the person who stayed home."
 source: "Energy"
-source_url: "https://naveenriaz.com/series/energy/"
 temperature: "🔥🔥"
 tags: ["energy", "productivity", "management"]
+description: "The person at their desk doing nothing costs more than the empty desk."
 ---
-description: "Presence isn't performance"
-date: 2026-03-30
 
-Are you paying for warm bodies or hot ideas? 
+Every manager can spot an empty chair. Almost nobody can spot a full chair with an empty mind behind it.
 
-If people are staying late just because you are, you're not building culture, you're building a cult of performative exhaustion. The extra three hours everyone spends staring at their glowing screens while waiting for the boss to leave is a tax on your innovation. 
+A 2023 study in the Journal of Occupational and Environmental Medicine found that presenteeism costs employers 2 to 3 times more than absenteeism. The math is brutal: the person at their desk, half-engaged, making slow decisions and spreading quiet disengagement costs more than the person who called in sick.
 
-Presence is an input. Performance is an output. 
-Stop counting hours and start measuring impact. 
+Organisations have built entire tracking systems around attendance. Badge-ins. Time logs. Screen activity monitors. All measuring the wrong variable. Presence is not performance. A warm body in a seat is not the same as a sharp mind in the work.
 
-#energy #productivity #culture
+The real metric is not "who showed up." It is "who showed up ready to think."
+
+If your culture rewards attendance over output, you are subsidising emptiness at full salary.

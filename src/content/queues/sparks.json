@@ -559,9 +559,21 @@
     {
       "slug": "painting-windows",
       "temperature": "🔥🔥🔥",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 46
+      "order": 46,
+      "approved_at": "2026-03-31T11:12:32.027Z",
+      "published_at": "2026-03-31T11:12:39.702Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7444703201662050304",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "metadata-meaning-gap",

@@ -1,21 +1,19 @@
 ---
-description: "Heroes don't scale"
-date: 2026-03-30
 title: "The Bottleneck Hero"
-signal: "Heroes don't scale"
-source: "Structure"
-source_url: "https://naveenriaz.com/series/structure/"
-temperature: "🔥🔥"
-tags: ["leadership", "structure", "scale"]
----
-description: "Heroes don't scale"
 date: 2026-03-30
+signal: "The person everyone depends on is not an asset. They are a single point of failure wearing a cape."
+source: "Structure"
+temperature: "🔥🔥"
+tags: ["structure", "risk", "leadership"]
+description: "Hero culture is risk culture in disguise."
+---
 
-If everything in your organization depends on one "hero," your hero is actually your biggest risk. 
+Every organisation has one. The person who "just knows how everything works." The one everyone escalates to. The fixer. The hero.
 
-We love the person who stays until 2 AM to fix the server, but we rarely ask why the server needed fixing at 2 AM. Scalability is when the hero can go on holiday and no one notices. 
+The hero feels valued. The team feels safe. Leadership feels grateful. Everyone is comfortable, right up until the hero takes a two-week holiday and three projects stall simultaneously.
 
-Heroes are for stories. Systems are for businesses. 
-Build the system. Retire the hero. 
+Gene Kim, co-author of The Phoenix Project, calls this the "Brent Problem": when one person becomes the constraint through which all critical work must flow, the entire system's throughput is limited to that person's capacity. The hero is not a strength. They are an architectural flaw.
 
-#leadership #scale #structure
+The uncomfortable truth is that hero culture is a failure of documentation, delegation, and design. It means the organisation never invested in making the knowledge transferable or the system resilient.
+
+Celebrate the hero if you want. But build the system so that the hero can take a holiday without anything breaking. That is the difference between a person and a dependency.

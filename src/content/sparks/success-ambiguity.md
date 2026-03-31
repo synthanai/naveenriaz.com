@@ -1,21 +1,19 @@
 ---
-description: "Vague goals produce vague results"
-date: 2026-03-30
 title: "Success Ambiguity"
-signal: "Vague goals produce vague results"
+date: 2026-03-30
+signal: "If you cannot describe what 'done' looks like in one sentence, your team is building something nobody asked for."
 source: "Change"
-source_url: "https://naveenriaz.com/series/change/"
 temperature: "🔥🔥"
 tags: ["leadership", "performance", "change"]
+description: "Vague goals produce vague results. Clarity is kindness."
 ---
-description: "Vague goals produce vague results"
-date: 2026-03-30
 
-If you can't define what "Good" looks like, your team will define it for you—and you probably won't like their version. 
+Ask five people on the same project team what "success" looks like. If you get five different answers, you do not have an alignment problem. You have a definition problem.
 
-Vague goals like "increase engagement" or "improve quality" are safe because they protect you from failure, but they also prevent you from success. Clarity is a kindness. Most "performance problems" are actually "clarity problems" in disguise. 
+It shows up everywhere. "Increase engagement." "Improve quality." "Be more innovative." These goals feel ambitious but they are structurally empty. They protect leadership from failure because there is no defined finish line. But they also prevent teams from succeeding, because success was never described clearly enough to recognise.
 
-Define the win. Then run. 
-Clarity is fuel. 
+Patrick Lencioni, in The Advantage, argues that organisational health depends on answering a deceptively simple question: "How do we know if we are winning?" Most leadership teams cannot answer it consistently across the table.
 
-#leadership #performance #change
+The kindest thing a leader can do is define the win. Not the aspiration, the observable outcome. "Engagement" is a poster. "Every new hire has a mentor conversation in their first week" is a measurable act.
+
+Clarity is not the enemy of ambition. It is the engine of it.
