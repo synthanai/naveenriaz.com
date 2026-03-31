@@ -1,21 +1,19 @@
 ---
 title: "The Consensus Trap"
 date: 2026-03-30
-signal: "100% agreement usually means 0% honesty."
+signal: "If your meetings end with comfortable consensus every time, the problem is that someone stopped disagreeing."
 source: "Decisions"
 temperature: "🔥🔥"
-tags: ["decisions", "innovation", "leadership"]
-description: "If everyone agrees, nobody is thinking hard enough."
+tags: ["decisions", "groupthink", "leadership"]
+description: "Unanimous agreement is often unanimous silence."
 ---
 
-A leadership team votes on a new strategy. The result: unanimous. Everyone nods. The CEO smiles. "Great, we are aligned."
+A leadership team votes on strategy. Unanimous. Everyone nods. "Great, we are aligned."
 
 But alignment born from fear is not alignment. It is silence with better posture.
 
-Jeff Bezos popularised the phrase "disagree and commit," borrowing from Intel's Andy Grove. The idea is simple: you fight like hell for your position, then commit fully to whatever the group decides. What most organisations do instead is skip the fighting. They go straight to committing, which means they never surfaced the risks, the doubts, or the better alternatives hiding in someone's quiet hesitation.
+Jeff Bezos borrowed "disagree and commit" from Intel's Andy Grove. Fight for your position, then commit fully to whatever the group decides. Most organisations skip the fighting. They go straight to committing, never surfacing the risks hiding in someone's quiet hesitation.
 
-Irving Janis studied this in the 1970s and called it groupthink. The Bay of Pigs invasion. The Challenger disaster. Boards full of brilliant people, all agreeing their way into catastrophe.
-
-If your meetings end with comfortable consensus every time, the problem is not that everyone agrees. The problem is that someone stopped disagreeing.
+Irving Janis studied this and called it groupthink. The Bay of Pigs. The Challenger disaster. Brilliant people agreeing their way into catastrophe.
 
 The best decisions are forged in tension, not comfort.

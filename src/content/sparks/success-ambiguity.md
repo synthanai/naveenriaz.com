@@ -1,19 +1,19 @@
 ---
 title: "Success Ambiguity"
 date: 2026-03-30
-signal: "If you cannot describe what 'done' looks like in one sentence, your team is building something nobody asked for."
-source: "Change"
+signal: "If you asked five people on your team what 'success' looks like this quarter, you would get six answers."
+source: "Decisions"
 temperature: "🔥🔥"
-tags: ["leadership", "performance", "change"]
-description: "Vague goals produce vague results. Clarity is kindness."
+tags: ["decisions", "alignment", "leadership"]
+description: "When nobody agrees on what winning looks like, nobody wins."
 ---
 
-Ask five people on the same project team what "success" looks like. If you get five different answers, you do not have an alignment problem. You have a definition problem.
+Ask five people on your team what "success" looks like this quarter. You will get six answers.
 
-It shows up everywhere. "Increase engagement." "Improve quality." "Be more innovative." These goals feel ambitious but they are structurally empty. They protect leadership from failure because there is no defined finish line. But they also prevent teams from succeeding, because success was never described clearly enough to recognise.
+Patrick Lencioni, in The Advantage, argued that the single greatest advantage any company can achieve is organisational health, and the first requirement is a leadership team that is aligned on what they are trying to achieve. Not aligned on strategy. Aligned on definition.
 
-Patrick Lencioni, in The Advantage, argues that organisational health depends on answering a deceptively simple question: "How do we know if we are winning?" Most leadership teams cannot answer it consistently across the table.
+When success is ambiguous, everyone optimises for their own interpretation. Engineering ships features. Sales closes deals. Marketing builds awareness. All moving. None converging.
 
-The kindest thing a leader can do is define the win. Not the aspiration, the observable outcome. "Engagement" is a poster. "Every new hire has a mentor conversation in their first week" is a measurable act.
+The fix is not more goals. It is fewer, clearer ones. One definition. Shared publicly. Revisited weekly.
 
-Clarity is not the enemy of ambition. It is the engine of it.
+Alignment is not agreement. It is shared definition.

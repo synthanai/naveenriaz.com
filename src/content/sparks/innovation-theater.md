@@ -1,19 +1,17 @@
 ---
 title: "Innovation Theater"
 date: 2026-03-30
-signal: "The hackathon trophy is on the shelf. The winning idea is in the bin."
-source: "Intelligence"
+signal: "The hackathon produced 30 ideas. None were funded. The innovation lab has a ping pong table and no budget."
+source: "Capability"
 temperature: "🔥🔥🔥"
-tags: ["intelligence", "innovation", "culture"]
-description: "When innovation is performed but never absorbed."
+tags: ["capability", "innovation", "culture"]
+description: "When innovation is a performance, not a practice."
 ---
 
-The company ran a 48-hour hackathon. The winning team built a working prototype. Leadership applauded. Photos went on LinkedIn. The prototype was never deployed.
+The hackathon produced 30 ideas. Leadership applauded. None were funded. The innovation lab has a ping pong table, a slide deck, and no budget for production.
 
-This happens so often it has a name. CB Insights studied 101 startup post-mortems and found that "no market need" was the top killer, but inside large organisations, the pattern is different. The ideas exist. The market need is real. What kills them is the gap between the innovation stage and the operating system that is supposed to absorb it.
+CB Insights analysed 101 startup post-mortems. The top reason for failure was not lack of ideas. It was building products nobody needed. Large organisations replicate this pattern internally: they celebrate ideation while starving execution.
 
-The hackathon gives leadership the feeling of innovation without the friction of actually changing anything. The team gets a trophy. The idea gets a shelf. Everyone goes back to doing exactly what they were doing before.
+Innovation theatre gives the audience the feeling of progress without the cost of change. It is comfortable. It photographs well. It changes nothing.
 
-Innovation is not an event. It is a pipeline. If nothing that comes out of your "innovation programme" ever enters production, you are not innovating. You are performing.
-
-The audience can tell the difference.
+Real innovation is boring. It is funded experiments with measurable hypotheses and permission to fail visibly, not just safely.

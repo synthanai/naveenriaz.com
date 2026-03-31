@@ -1,19 +1,19 @@
 ---
 title: "Process Sediment"
 date: 2026-03-30
-signal: "Every process that was never retired is a tax on every process that followed it."
+signal: "Every process was once a solution. Most have outlived the problem they were built to solve."
 source: "Structure"
 temperature: "🔥🔥"
 tags: ["structure", "process", "efficiency"]
-description: "Processes accumulate like sediment. Nobody removes the old ones."
+description: "Processes are geological. They accumulate. They rarely erode."
 ---
 
-Every organisation has a form that nobody remembers creating. A weekly report that nobody reads. An approval chain that exists because something went wrong in 2017 and someone added a gate.
+Nobody installs a bad process on purpose. Every sign-off, every approval chain, every mandatory template was once a sensible response to a real problem.
 
-Processes are never born neutral. They are born as solutions. But the problem they solved may have vanished years ago. The process remains, accumulating like sediment at the bottom of a river, slowing the current without anyone noticing.
+Then the problem disappeared. The process stayed.
 
-A 2023 Asana Anatomy of Work report found that knowledge workers spend 58% of their workday on "work about work": status updates, approval chains, meetings about meetings. That is process sediment in action. Not malicious overhead, just geological accumulation that nobody thought to excavate.
+Asana's 2023 Anatomy of Work report: 58% of a knowledge worker's day is spent on "work about work." Not the work itself. The rituals around it.
 
-The solution is not to add more process. It is to perform a process audit with a single question: "If this disappeared tomorrow, who would notice?"
+Process sediment accumulates like geological layers. Each generation adds a new one. Nobody removes the old ones because nobody remembers why they exist, and removing something you do not understand feels riskier than keeping it.
 
-If the answer is nobody, the sediment is already doing more harm than the original problem ever did.
+Audit one process today. Ask: does the original problem still exist?

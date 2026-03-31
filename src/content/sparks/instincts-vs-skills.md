@@ -1,19 +1,19 @@
 ---
 title: "Instincts vs Skills"
 date: 2026-03-30
-signal: "An AI with the wrong instincts will use its skills to cause damage faster."
-source: "SYNTHAI Ecosystem"
+signal: "Your instincts about code are right. Your instincts about AI configuration are wrong. The gap will cost you."
+source: "SYNTHAI"
 temperature: "🔥🔥"
-tags: ["ai", "agentic", "design"]
-description: "Train the instinct before you install the skill."
+tags: ["ai-governance", "skills", "architecture"]
+description: "20 years of engineering instinct becomes liability when the medium changes."
 ---
 
-A skill is what an agent can do: write code, analyse a document, search a database. An instinct is how the agent behaves while doing it: does it ask before overwriting? Does it verify before asserting? Does it escalate when uncertain, or guess and move on?
+A senior developer reviews AI-generated code. Their instinct says "this looks fine." Twenty years of pattern recognition, firing automatically. The code ships.
 
-Most teams building AI agents focus entirely on skills. They add capabilities like collecting trading cards. But an agent with powerful skills and poor instincts is dangerous. It will confidently delete a production database, hallucinate a citation, or overwrite a file without asking, because nobody trained the behavioural layer.
+Three weeks later, a subtle bug surfaces. The kind a human would never write, but an LLM generates confidently: structurally correct, semantically wrong.
 
-We learned this the hard way. Our first agentic setup had all the skills: code generation, file management, web search. But it would silently overwrite configuration files because its instinct was "always prioritise speed over safety." The skill was not the problem. The instinct was.
+The instinct was built for human-written code. AI-generated code follows different failure patterns. It is fluent without being correct. It passes the eye test while failing the logic test.
 
-Operational DNA matters more than the toolset. Before you give an agent a new capability, ask: does it have the judgement to use it well?
+We learned this the hard way. Our most experienced engineers had the highest false-confidence rate on AI outputs.
 
-Train the instinct. Then install the skill.
+New medium, new instincts. The old ones are liabilities now.

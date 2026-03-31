@@ -8,12 +8,12 @@ tags: ["structure", "leadership", "self-awareness"]
 description: "The test that separates living organisations from undead ones."
 ---
 
-Here is a diagnostic that terrifies most leadership teams: if every senior leader disappeared for 30 days, would the organisation adapt, or would it just keep doing last month's work on autopilot?
+If every senior leader disappeared for 30 days, would the organisation adapt or just keep doing last month's work on autopilot?
 
-A living organisation feels the absence. It senses the gap, redistributes, adjusts. A zombie organisation does not notice. It shambles forward on momentum alone, executing yesterday's plan with nobody steering.
+A living organisation feels the absence. It senses the gap, redistributes, adjusts. A zombie organisation does not notice. It shambles forward on momentum alone.
 
-The difference is not size or industry. It is whether the organisation has a nervous system or just a schedule. Gary Hamel, writing in the Harvard Business Review, argued that most organisations are built for discipline, not for resilience. Discipline keeps the zombie walking. Resilience is what makes it alive.
+Gary Hamel argued in HBR that most organisations are built for discipline, not resilience. Discipline keeps the zombie walking. Resilience makes it alive.
 
-The test is simple. Remove a layer. If nothing changes in two weeks, that layer was not leading. It was just occupying a seat on the org chart.
+Remove a layer. If nothing changes in two weeks, that layer was not leading. It was occupying a seat on the org chart.
 
 Alive organisations adapt. Dead ones just have not fallen over yet.
