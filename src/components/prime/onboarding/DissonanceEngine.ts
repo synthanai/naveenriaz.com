@@ -30,13 +30,15 @@ function toSeverity(score: number): DissonanceSeverity {
 
 function toCategory(dimension: string): string {
   const labelMap: Record<string, string> = {
-    self: 'identity',
-    career: 'career',
-    purpose: 'purpose',
-    time: 'time',
-    presence: 'presence',
-    health: 'health',
-    energy: 'energy'
+    body_resource: 'resource',
+    body_capacity: 'capacity',
+    body_stability: 'stability',
+    mind_resource: 'resource',
+    mind_capacity: 'capacity',
+    mind_stability: 'stability',
+    soul_resource: 'resource',
+    soul_capacity: 'capacity',
+    soul_stability: 'stability'
   };
   return labelMap[dimension] ?? dimension;
 }
@@ -118,27 +120,27 @@ export class DissonanceEngine {
     });
 
     const hdType = data.external?.hdType;
-    const career = data.matrix.career;
-    const purpose = data.matrix.purpose;
+    const bodyResource = data.matrix.body_resource;
+    const soulCapacity = data.matrix.soul_capacity;
 
-    if ((hdType === 'Projector' || hdType === 'Reflector') && career && career.present > 8) {
+    if ((hdType === 'Projector' || hdType === 'Reflector') && bodyResource && bodyResource.present > 8) {
       flags.push(
         createFlag(
-          'career',
+          'body_resource',
           'BLUEPRINT_MISMATCH',
           8,
-          'Current career output exceeds the sustainable cadence for this Human Design type.'
+          'Resource consumption exceeds the sustainable recognition-based cadence for this type.'
         )
       );
     }
 
-    if (hdType === 'Manifestor' && purpose && purpose.present < 5) {
+    if (hdType === 'Manifestor' && soulCapacity && soulCapacity.present < 5) {
       flags.push(
         createFlag(
-          'purpose',
+          'soul_capacity',
           'BLUEPRINT_MISMATCH',
           7,
-          'Impact blueprint and purpose execution are misaligned for a Manifestor profile.'
+          'Initiation potential is throttled; identity alignment is below the Manifestor threshold.'
         )
       );
     }

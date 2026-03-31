@@ -17,18 +17,23 @@ export const NarrativeExcavation: React.FC<NarrativeExcavationProps> = ({ auditD
   const [triageKeys, setTriageKeys] = useState<string[]>([]);
   const [activeStep, setActiveStep] = useState(0);
 
-  useEffect(() => {
-    // Triage Logic: Calculate 'Shock' scores (Deltas between Past/Present/Future)
-    const keys = Object.keys(auditData).sort((a, b) => {
-      const vecA = auditData[a];
-      const vecB = auditData[b];
-      const shockA = Math.abs(vecA.present - vecA.past) + Math.abs(vecA.future - vecA.present);
-      const shockB = Math.abs(vecB.present - vecB.past) + Math.abs(vecB.future - vecB.present);
-      return shockB - shockA;
-    }).slice(0, 7);
+    const labelMap: Record<string, string> = {
+      body_resource: 'Body: Financial Capital',
+      body_capacity: 'Body: Vitality Capacity',
+      body_stability: 'Body: Environmental Stability',
+      mind_resource: 'Mind: Temporal Autonomy',
+      mind_capacity: 'Mind: Deep Focus',
+      mind_stability: 'Mind: Skill Arbitrage',
+      soul_resource: 'Soul: Relational Depth',
+      soul_capacity: 'Soul: Identity Alignment',
+      soul_stability: 'Soul: Legacy Ripples'
+    };
 
     setTriageKeys(keys);
+    setLabelMapping(labelMap);
   }, [auditData]);
+
+  const [labelMapping, setLabelMapping] = useState<Record<string, string>>({});
 
   const handleNext = () => {
     if (activeStep < triageKeys.length - 1) {
@@ -55,7 +60,7 @@ export const NarrativeExcavation: React.FC<NarrativeExcavationProps> = ({ auditD
 
       <div className="vow-content glass-card">
         <div className="vow-context">
-          <p className="vow-trace-header">SHADOW TRACE: {currentKey.toUpperCase()}</p>
+          <p className="vow-trace-header">SHADOW TRACE: {(labelMapping[currentKey] || currentKey).toUpperCase()}</p>
           <div className="trajectory-row">
             <span className="t-val">{vector.past}</span>
             <span className="t-arrow">➔</span>

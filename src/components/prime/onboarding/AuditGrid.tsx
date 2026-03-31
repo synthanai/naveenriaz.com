@@ -1,27 +1,20 @@
 import React, { useState } from 'react';
 
 const CATEGORIES = [
-  { id: 'self', label: 'Relationship with Self', icon: '👤', probe: "Are you the lead actor in your life, or just a background extra?" },
-  { id: 'partner', label: 'Relationship with Partner', icon: '💑', probe: "Does your relationship feel like a home or a waiting room?" },
-  { id: 'children', label: 'Relationship with Children', icon: '👶', probe: "Are you building a bridge for them, or a wall?" },
-  { id: 'friends', label: 'Relationship with Friends', icon: '🤝', probe: "Do your friends lift your ceiling, or reinforce your floor?" },
-  { id: 'health', label: 'Physical Health', icon: '🏥', probe: "Does your body feel like a fast car, or a heavy anchor?" },
-  { id: 'energy', label: 'Energy, Vitality', icon: '⚡', probe: "At the end of the day, are you 'good-tired' or 'bad-tired'?" },
-  { id: 'career', label: 'Career', icon: '💼', probe: "Do you own your work, or does your work own you?" },
-  { id: 'finances', label: 'Finances', icon: '💰', probe: "Is your money a tool that serves you, or a master you serve?" },
-  { id: 'purpose', label: 'Sense of purpose at work', icon: '🎯', probe: "If you stopped working today, would the world miss your 'Why'?" },
-  { id: 'accomplishments', label: 'Sense of Accomplishments', icon: '🏆', probe: "Are you collecting trophies, or building a legacy?" },
-  { id: 'experiences', label: 'Experiences in life', icon: '🌍', probe: "Are you collecting moments, or just checking boxes?" },
-  { id: 'time', label: 'Time', icon: '⏳', probe: "Do you have the freedom to say 'No', or only the obligation to say 'Yes'?" },
-  { id: 'presence', label: 'Being Present in moments', icon: '🧘', probe: "When you are with people, are you actually there, or somewhere else?" },
-  { id: 'social_circle', label: 'Social Circle Depth', icon: '🕸️', probe: "Is your network a safety net, or a spider web?" },
-  { id: 'community', label: 'Community & Collective', icon: '🏛️', probe: "Are you a contributing member, or just a quiet spectator?" },
-  { id: 'hobby', label: 'Creative Play & Hobbies', icon: '🎨', probe: "When was the last time you did something just for the 'Joy' of it?" },
-  { id: 'intellectual', label: 'Intellectual & Mind Layer', icon: '🧠', probe: "Is your mind growing new branches, or just shedding leaves?" },
-  { id: 'spiritual', label: 'Spiritual & Soul Layer', icon: '✨', probe: "Do you feel connected to something bigger, or just lost in the small stuff?" },
-  { id: 'origin', label: 'Family of Origin', icon: '🌳', probe: "Are your roots feeding you, or holding you back?" },
-  { id: 'growth', label: 'Personal Growth & Legacy', icon: '📈', probe: "Are you becoming who you want to be, or who they want you to be?" },
-  { id: 'routine', label: 'Body Routine & Rituals', icon: '🕒', probe: "Does your daily schedule feel like a rhythm, or a prison?" },
+  // ACT 1: BODY (உடல்)
+  { id: 'body_resource', layer: 'BODY', dimension: 'Financial Capital', icon: '💰', probe: "Is your money a tool that serves you, or a master you serve?" },
+  { id: 'body_capacity', layer: 'BODY', dimension: 'Vitality Capacity', icon: '⚡', probe: "Does your body feel like a fast car, or a heavy anchor?" },
+  { id: 'body_stability', layer: 'BODY', dimension: 'Environmental Stability', icon: '🏠', probe: "Does your home feel like a fortress or a transient camp?" },
+  
+  // ACT 2: MIND (மனம்)
+  { id: 'mind_resource', layer: 'MIND', dimension: 'Temporal Autonomy', icon: '⏳', probe: "Do you have the freedom to say 'No', or only the obligation to say 'Yes'?" },
+  { id: 'mind_capacity', layer: 'MIND', dimension: 'Deep Focus', icon: '🔍', probe: "If your mind were a lens, would it be focused or fractured?" },
+  { id: 'mind_stability', layer: 'MIND', dimension: 'Skill Arbitrage', icon: '🧠', probe: "Is your mind growing new branches, or just shedding leaves?" },
+
+  // ACT 3: SOUL (உயிர்)
+  { id: 'soul_resource', layer: 'SOUL', dimension: 'Relational Depth', icon: '🤝', probe: "Do your 3 AM friends lift your ceiling, or reinforce your floor?" },
+  { id: 'soul_capacity', layer: 'SOUL', dimension: 'Identity Alignment', icon: '✨', probe: "Are you becoming who you want to be, or who they want you to be?" },
+  { id: 'soul_stability', layer: 'SOUL', dimension: 'Legacy Ripples', icon: '🌊', probe: "Who will remember your name when you are gone?" },
 ];
 
 interface AuditGridProps {
@@ -55,11 +48,11 @@ export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete }) => {
       <div className="chronicle-card glass-card">
         <div className="card-top">
           <span className="card-icon">{current.icon}</span>
-          <span className="card-index">CHAPTER {activeCategory + 1} / 21</span>
+          <span className="card-index">{current.layer} • CHAPTER {activeCategory + 1} / 9</span>
         </div>
 
         <h2 className="card-probe">{current.probe}</h2>
-        <p className="card-label">{current.label.toUpperCase()}</p>
+        <p className="card-label">{current.dimension.toUpperCase()}</p>
 
         <div className="trajectory-sliders">
           <div className="slider-group">
@@ -103,7 +96,7 @@ export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete }) => {
           <label className="anchor-label">The "Why" (One Sentence Trace)</label>
           <textarea 
             className="anchor-input"
-            placeholder={`One sentence on the truth of your ${current.label.toLowerCase()}...`}
+            placeholder={`One sentence on the truth of your ${current.dimension.toLowerCase()}...`}
             value={currentData.why}
             onChange={(e) => updateVal('why', e.target.value)}
           />

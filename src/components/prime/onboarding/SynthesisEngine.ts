@@ -135,12 +135,18 @@ export function normalizeMondayData(raw: MondayData): NormalizedMondayData {
 
 export class SynthesisEngine {
   private static MAPPING: Record<string, string[]> = {
-    S: ['spiritual', 'purpose', 'origin'],
-    I: ['self', 'routine', 'intellectual'],
-    G: ['growth', 'accomplishments', 'career'],
-    H: ['health', 'energy', 'hobby'],
-    T: ['time', 'presence', 'experiences'],
-    S_: ['partner', 'children', 'friends', 'social_circle', 'community']
+    // BODY
+    BR: ['body_resource'],
+    BC: ['body_capacity'],
+    BS: ['body_stability'],
+    // MIND
+    MR: ['mind_resource'],
+    MC: ['mind_capacity'],
+    MS: ['mind_stability'],
+    // SOUL
+    SR: ['soul_resource'],
+    SC: ['soul_capacity'],
+    SS: ['soul_stability']
   };
 
   static calculateSights(rawData: MondayData, resonance: ResonanceData = {}): FridaySynthesis {
@@ -205,12 +211,15 @@ export class SynthesisEngine {
 
   private static getLabel(key: string): string {
     const labels: Record<string, string> = {
-      S: 'Spirit',
-      I: 'Integrity',
-      G: 'Growth',
-      H: 'Health',
-      T: 'Time',
-      S_: 'Synergy'
+      BR: 'Body Resource',
+      BC: 'Body Capacity',
+      BS: 'Body Stability',
+      MR: 'Mind Resource',
+      MC: 'Mind Capacity',
+      MS: 'Mind Stability',
+      SR: 'Soul Resource',
+      SC: 'Soul Capacity',
+      SS: 'Soul Stability'
     };
     return labels[key] ?? key;
   }
