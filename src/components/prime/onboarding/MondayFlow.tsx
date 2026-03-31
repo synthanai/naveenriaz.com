@@ -2,12 +2,14 @@ import React, { useState } from 'react';
 import { AuditGrid } from './AuditGrid';
 import { NarrativeExcavation } from './NarrativeExcavation';
 import { ExternalCodes } from './ExternalCodes';
+import { OnboardingProfile, type UserProfile } from './OnboardingProfile';
 
-type MatrixValue = { past: number; present: number; future: number; why: string };
+type MatrixValue = { past: number; present: number; future: number; whyPast?: string; whyPresent?: string; whyFuture?: string };
 
-type MondayStage = 'intro' | 'audit' | 'excavation' | 'codes' | 'complete';
+type MondayStage = 'intro' | 'profile' | 'audit' | 'excavation' | 'codes' | 'complete';
 
 interface ChronicleData {
+  profile: UserProfile | null;
   matrix: Record<string, MatrixValue> | null;
   narratives: Record<string, string> | null;
   codes: Record<string, string> | null;
@@ -34,6 +36,7 @@ function buildChroniclePayload(data: ChronicleData) {
 export const MondayFlow: React.FC = () => {
   const [stage, setStage] = useState<MondayStage>('intro');
   const [chronicleData, setChronicleData] = useState<ChronicleData>({
+    profile: null,
     matrix: null,
     narratives: null,
     codes: null,
@@ -41,24 +44,22 @@ export const MondayFlow: React.FC = () => {
   });
 
   const saveToVault = (nextData: ChronicleData) => {
-    const payload = buildChroniclePayload(nextData);
+    const payload = {
+      profile: nextData.profile,
+      ...buildChroniclePayload(nextData)
+    };
     localStorage.setItem('synthai_prime_chronicle', JSON.stringify(payload));
     localStorage.setItem('synthai_onboarding_monday', JSON.stringify(payload));
   };
 
+  const handleProfileComplete = (profile: UserProfile) => {
+    const nextData = { ...chronicleData, profile };
+    setChronicleData(nextData);
+    saveToVault(nextData);
+    setStage('audit');
+  };
+
   const handleMatrixComplete = (matrix: Record<string, MatrixValue>) => {
-    const labelMap: Record<string, string> = {
-      body_resource: 'Body: Financial Capital',
-      body_capacity: 'Body: Vitality Capacity',
-      body_stability: 'Body: Environmental Stability',
-      mind_resource: 'Mind: Temporal Autonomy',
-      mind_capacity: 'Mind: Deep Focus',
-      mind_stability: 'Mind: Skill Arbitrage',
-      soul_resource: 'Soul: Relational Depth',
-      soul_capacity: 'Soul: Identity Alignment',
-      soul_stability: 'Soul: Legacy Ripples'
-    };
-    setLabelMapping(labelMap);
     const nextData = { ...chronicleData, matrix };
     setChronicleData(nextData);
     saveToVault(nextData);
@@ -88,15 +89,24 @@ export const MondayFlow: React.FC = () => {
             <p className="revelatory-subtitle">
               We begin the total mapping of your trajectory. 3 Acts. 9 Dimensions. Past, Present, and Legacy Target.
             </p>
-            <button className="prime-btn" onClick={() => setStage('audit')}>
+            <button className="prime-btn" onClick={() => setStage('profile')}>
               Enter the Initiation
             </button>
           </div>
         )}
 
+        {stage === 'profile' && (
+          <div className="stage active">
+            <OnboardingProfile onComplete={handleProfileComplete} />
+          </div>
+        )}
+
         {stage === 'audit' && (
           <div className="stage active">
-            <AuditGrid onComplete={handleMatrixComplete} />
+            <AuditGrid 
+              tone={chronicleData.profile?.tone} 
+              onComplete={handleMatrixComplete} 
+            />
           </div>
         )}
 

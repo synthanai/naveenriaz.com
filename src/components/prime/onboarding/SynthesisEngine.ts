@@ -2,7 +2,10 @@ export interface MatrixVector {
   past: number;
   present: number;
   future: number;
-  why?: string;
+  whyPast?: string;
+  whyPresent?: string;
+  whyFuture?: string;
+  why?: string; // Fallback for legacy data
 }
 
 export interface ExternalCodes {
@@ -92,6 +95,9 @@ function normalizeMatrix(raw: MondayData): Record<string, MatrixVector> {
         past: toFiniteScore(value?.past),
         present: toFiniteScore(value?.present),
         future: toFiniteScore(value?.future),
+        whyPast: toOptionalString(value?.whyPast),
+        whyPresent: toOptionalString(value?.whyPresent),
+        whyFuture: toOptionalString(value?.whyFuture),
         why: toOptionalString(value?.why)
       };
     });

@@ -2,36 +2,96 @@ import React, { useState } from 'react';
 
 const CATEGORIES = [
   // ACT 1: BODY (உடல்)
-  { id: 'body_resource', layer: 'BODY', dimension: 'Financial Capital', icon: '💰', probe: "Is your money a tool that serves you, or a master you serve?" },
-  { id: 'body_capacity', layer: 'BODY', dimension: 'Vitality Capacity', icon: '⚡', probe: "Does your body feel like a fast car, or a heavy anchor?" },
-  { id: 'body_stability', layer: 'BODY', dimension: 'Environmental Stability', icon: '🏠', probe: "Does your home feel like a fortress or a transient camp?" },
-  
-  // ACT 2: MIND (மனம்)
-  { id: 'mind_resource', layer: 'MIND', dimension: 'Temporal Autonomy', icon: '⏳', probe: "Do you have the freedom to say 'No', or only the obligation to say 'Yes'?" },
-  { id: 'mind_capacity', layer: 'MIND', dimension: 'Deep Focus', icon: '🔍', probe: "If your mind were a lens, would it be focused or fractured?" },
-  { id: 'mind_stability', layer: 'MIND', dimension: 'Skill Arbitrage', icon: '🧠', probe: "Is your mind growing new branches, or just shedding leaves?" },
-
-  // ACT 3: SOUL (உயிர்)
-  { id: 'soul_resource', layer: 'SOUL', dimension: 'Relational Depth', icon: '🤝', probe: "Do your 3 AM friends lift your ceiling, or reinforce your floor?" },
-  { id: 'soul_capacity', layer: 'SOUL', dimension: 'Identity Alignment', icon: '✨', probe: "Are you becoming who you want to be, or who they want you to be?" },
-  { id: 'soul_stability', layer: 'SOUL', dimension: 'Legacy Ripples', icon: '🌊', probe: "Who will remember your name when you are gone?" },
+  { 
+    id: 'body_resource', layer: 'BODY', dimension: 'Financial Capital', icon: '💰',
+    probes: {
+      layman: 'Is your money working for you, or are you working for your money?',
+      professional: 'Is your capital deployment serving your growth, or just covering overhead?',
+      philosophical: 'Is your wealth a tool that serves your expansion, or a master you serve?'
+    }
+  },
+  { 
+    id: 'body_capacity', layer: 'BODY', dimension: 'Vitality Capacity', icon: '⚡',
+    probes: {
+      layman: 'Do you wake up full of energy, or do you feel tired most days?',
+      professional: 'Is your health a competitive advantage, or a drag on your performance?',
+      philosophical: 'Is your body a fast vessel for your intent, or a heavy anchor?'
+    }
+  },
+  { 
+    id: 'body_stability', layer: 'BODY', dimension: 'Environmental Stability', icon: '🏠',
+    probes: {
+      layman: 'Do you feel safe and comfortable in your current living space?',
+      professional: 'Does your environment optimize your high-output routines, or create friction?',
+      philosophical: 'Does your home feel like a sanctuary for your soul, or a transient camp?'
+    }
+  },
+  { 
+    id: 'mind_resource', layer: 'MIND', dimension: 'Temporal Autonomy', icon: '⏳',
+    probes: {
+      layman: 'Do you have time to do what you love, or is your calendar full of "have-to"s?',
+      professional: 'Do you own your schedule, or does "the business" own you?',
+      philosophical: 'Do you have the freedom to say "No" to anything that isn\'t a "Hell Yes"?'
+    }
+  },
+  { 
+    id: 'mind_capacity', layer: 'MIND', dimension: 'Deep Focus', icon: '🧠',
+    probes: {
+      layman: 'Can you focus on one thing for an hour, or is your mind always jumping?',
+      professional: 'Is your attention bandwidth protected from noise, or is it fractured?',
+      philosophical: 'If your mind were a lens, would it be focused on truth, or blurred by distraction?'
+    }
+  },
+  { 
+    id: 'mind_stability', layer: 'MIND', dimension: 'Skill Arbitrage', icon: '🛠️',
+    probes: {
+      layman: 'Are you learning new things that make your life easier or better?',
+      professional: 'Is your unique edge compounding daily, or is it becoming obsolete?',
+      philosophical: 'Is your mind growing new branches of wisdom, or just shedding old leaves?'
+    }
+  },
+  { 
+    id: 'soul_resource', layer: 'SOUL', dimension: 'Relational Depth', icon: '🤝',
+    probes: {
+      layman: 'Do the people closest to you make you feel supported and happy?',
+      professional: 'Do your primary collaborators increase your leverage, or diminish your focus?',
+      philosophical: 'Do your 3 AM friends lift your ceiling, or reinforce your floor?'
+    }
+  },
+  { 
+    id: 'soul_capacity', layer: 'SOUL', dimension: 'Identity Alignment', icon: '🔮',
+    probes: {
+      layman: 'Are you being your true self, or are you pretending to be someone else?',
+      professional: 'Is your professional persona integrated with your values, or is it a mask?',
+      philosophical: 'Are you becoming who you are meant to be, or who others want you to be?'
+    }
+  },
+  { 
+    id: 'soul_stability', layer: 'SOUL', dimension: 'Legacy Ripples', icon: '🌊',
+    probes: {
+      layman: 'Will the work you do today still matter a year from now?',
+      professional: 'Are you building an enterprise that outlasts your labor, or just a job?',
+      philosophical: 'Who will remember your name when you are gone?'
+    }
+  }
 ];
 
 interface AuditGridProps {
   onComplete: (data: Record<string, any>) => void;
+  tone?: 'layman' | 'professional' | 'philosophical';
 }
 
-export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete }) => {
+export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete, tone = 'layman' }) => {
   const [activeCategory, setActiveCategory] = useState(0);
-  const [matrix, setMatrix] = useState<Record<string, { past: number, present: number, future: number, why: string }>>({});
+  const [matrix, setMatrix] = useState<Record<string, { past: number, present: number, future: number, whyPast: string, whyPresent: string, whyFuture: string }>>({});
   
   const current = CATEGORIES[activeCategory];
-  const currentData = matrix[current.id] || { past: 5, present: 5, future: 5, why: '' };
+  const currentData = matrix[current.id] || { past: 5, present: 5, future: 5, whyPast: '', whyPresent: '', whyFuture: '' };
 
-  const updateVal = (time: 'past' | 'present' | 'future' | 'why', val: any) => {
+  const updateVal = (field: 'past' | 'present' | 'future' | 'whyPast' | 'whyPresent' | 'whyFuture', val: any) => {
     setMatrix({
       ...matrix,
-      [current.id]: { ...currentData, [time]: val }
+      [current.id]: { ...currentData, [field]: val }
     });
   };
 
@@ -51,7 +111,7 @@ export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete }) => {
           <span className="card-index">{current.layer} • CHAPTER {activeCategory + 1} / 9</span>
         </div>
 
-        <h2 className="card-probe">{current.probe}</h2>
+        <h2 className="card-probe">{current.probes[tone]}</h2>
         <p className="card-label">{current.dimension.toUpperCase()}</p>
 
         <div className="trajectory-sliders">
@@ -65,6 +125,12 @@ export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete }) => {
               value={currentData.past} 
               onChange={(e) => updateVal('past', parseInt(e.target.value))}
             />
+            <input 
+              className="micro-why-input"
+              placeholder="Why this score then?"
+              value={currentData.whyPast || ''}
+              onChange={(e) => updateVal('whyPast', e.target.value)}
+            />
           </div>
 
           <div className="slider-group active">
@@ -76,6 +142,12 @@ export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete }) => {
               type="range" min="1" max="10" step="1" 
               value={currentData.present} 
               onChange={(e) => updateVal('present', parseInt(e.target.value))}
+            />
+            <input 
+              className="micro-why-input"
+              placeholder="The truth of your reality now..."
+              value={currentData.whyPresent || ''}
+              onChange={(e) => updateVal('whyPresent', e.target.value)}
             />
           </div>
 
@@ -89,23 +161,19 @@ export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete }) => {
               value={currentData.future} 
               onChange={(e) => updateVal('future', parseInt(e.target.value))}
             />
+            <input 
+              className="micro-why-input"
+              placeholder="What makes this the target?"
+              value={currentData.whyFuture || ''}
+              onChange={(e) => updateVal('whyFuture', e.target.value)}
+            />
           </div>
-        </div>
-
-        <div className="narrative-anchor">
-          <label className="anchor-label">The "Why" (One Sentence Trace)</label>
-          <textarea 
-            className="anchor-input"
-            placeholder={`One sentence on the truth of your ${current.dimension.toLowerCase()}...`}
-            value={currentData.why}
-            onChange={(e) => updateVal('why', e.target.value)}
-          />
         </div>
 
         <button 
           className="next-chapter-btn" 
           onClick={handleNext}
-          disabled={!currentData.why || currentData.why.length < 5}
+          disabled={!currentData.whyPresent || currentData.whyPresent.length < 3}
         >
           {activeCategory === CATEGORIES.length - 1 ? 'Seal the Chronicle' : 'Next Chapter'}
         </button>
@@ -128,10 +196,19 @@ export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete }) => {
         .card-label { font-size: 0.65rem; font-weight: 900; letter-spacing: 0.2em; color: var(--p-gold); margin-bottom: 3rem; }
 
         .trajectory-sliders { display: flex; flex-direction: column; gap: 1.25rem; margin-bottom: 2.5rem; }
-        .slider-group { padding: 1rem 1.5rem; background: rgba(255,255,255,0.02); border-radius: 16px; border: 1px solid rgba(255,255,255,0.03); transition: all 0.3s ease; }
+        .slider-group { 
+          padding: 1.25rem 1.75rem; 
+          background: rgba(255,255,255,0.02); 
+          border-radius: 20px; 
+          border: 1px solid rgba(255,255,255,0.03); 
+          transition: all 0.3s ease;
+          display: flex;
+          flex-direction: column;
+          gap: 1rem;
+        }
         .slider-group.active { background: rgba(212, 168, 67, 0.05); border-color: rgba(212, 168, 67, 0.2); }
         
-        .slider-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem; }
+        .slider-header { display: flex; justify-content: space-between; align-items: center; }
         .s-time { font-size: 0.6rem; font-weight: 900; letter-spacing: 0.1em; color: rgba(255,255,255,0.4); }
         .s-time.gold { color: var(--p-gold); }
         .s-time.green { color: #00ffa3; }
@@ -139,23 +216,20 @@ export const AuditGrid: React.FC<AuditGridProps> = ({ onComplete }) => {
 
         input[type='range'] {
           width: 100%; -webkit-appearance: none; background: rgba(255,255,255,0.1);
-          height: 3px; border-radius: 2px; outline: none;
+          height: 3px; border-radius: 2px; outline: none; margin: 0.5rem 0;
         }
         input[type='range']::-webkit-slider-thumb {
-          -webkit-appearance: none; width: 20px; height: 20px;
+          -webkit-appearance: none; width: 22px; height: 22px;
           background: #fff; border-radius: 50%; cursor: pointer;
-          box-shadow: 0 0 10px rgba(255,255,255,0.3); transition: all 0.2s ease;
+          box-shadow: 0 0 15px rgba(255,255,255,0.3); transition: all 0.2s ease;
         }
 
-        .narrative-anchor { margin-bottom: 3rem; text-align: left; }
-        .anchor-label { display: block; font-size: 0.65rem; font-weight: 900; text-transform: uppercase; letter-spacing: 0.1em; color: var(--p-t3); margin-bottom: 1rem; }
-        .anchor-input {
-          width: 100%; height: 80px; padding: 1.25rem; background: rgba(0,0,0,0.2);
-          border: 1px solid rgba(255,255,255,0.1); border-radius: 16px;
-          color: #fff; font-size: 1rem; line-height: 1.5; outline: none; resize: none;
-          transition: all 0.3s ease;
+        .micro-why-input {
+          background: transparent; border: none; border-bottom: 1px solid rgba(255,255,255,0.05);
+          color: rgba(255,255,255,0.8); font-size: 0.85rem; padding: 0.5rem 0;
+          outline: none; transition: all 0.3s ease;
         }
-        .anchor-input:focus { border-color: var(--p-gold); background: rgba(212, 168, 67, 0.05); }
+        .micro-why-input:focus { border-bottom-color: var(--p-gold); color: #fff; }
 
         .next-chapter-btn {
           width: 100%; padding: 1.5rem; border-radius: 20px; background: #fff; color: #000;

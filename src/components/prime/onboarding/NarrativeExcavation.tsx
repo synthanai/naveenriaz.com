@@ -16,6 +16,15 @@ export const NarrativeExcavation: React.FC<NarrativeExcavationProps> = ({ auditD
   const [narratives, setNarratives] = useState<Record<string, string>>({});
   const [triageKeys, setTriageKeys] = useState<string[]>([]);
   const [activeStep, setActiveStep] = useState(0);
+  useEffect(() => {
+    // Triage Logic: Calculate 'Shock' scores (Deltas between Past/Present/Future)
+    const keys = Object.keys(auditData).sort((a, b) => {
+      const vecA = auditData[a];
+      const vecB = auditData[b];
+      const shockA = Math.abs(vecA.present - vecA.past) + Math.abs(vecA.future - vecA.present);
+      const shockB = Math.abs(vecB.present - vecB.past) + Math.abs(vecB.future - vecB.present);
+      return shockB - shockA;
+    }).slice(0, 9); // With 9 dimensions, we can show them all or top shards.
 
     const labelMap: Record<string, string> = {
       body_resource: 'Body: Financial Capital',
@@ -68,8 +77,11 @@ export const NarrativeExcavation: React.FC<NarrativeExcavationProps> = ({ auditD
             <span className="t-arrow">➔</span>
             <span className="t-val green">{vector.future}</span>
           </div>
-          <div className="act1-why-quote">
-            "{vector.why}"
+          <div className="act1-why-stack">
+            {vector.whyPast && <div className="why-item past">PAST: "{vector.whyPast}"</div>}
+            {vector.whyPresent && <div className="why-item present">PRESENT: "{vector.whyPresent}"</div>}
+            {vector.whyFuture && <div className="why-item future">FUTURE: "{vector.whyFuture}"</div>}
+            {vector.why && <div className="why-item">{vector.why}</div>}
           </div>
         </div>
         
@@ -116,10 +128,14 @@ export const NarrativeExcavation: React.FC<NarrativeExcavationProps> = ({ auditD
         .t-val.green { color: #00ffa3; }
         .t-arrow { font-size: 0.8rem; opacity: 0.2; }
 
-        .act1-why-quote { 
-          font-size: 0.95rem; line-height: 1.5; color: #fff; font-style: italic; opacity: 0.8;
+        .act1-why-stack { 
+          display: flex; flex-direction: column; gap: 0.75rem;
           padding-left: 1rem; border-left: 2px solid var(--p-gold);
         }
+        .why-item { font-size: 0.85rem; line-height: 1.4; color: #fff; font-style: italic; opacity: 0.7; }
+        .why-item.past { opacity: 0.4; }
+        .why-item.present { opacity: 0.9; font-weight: 700; color: var(--p-gold); }
+        .why-item.future { opacity: 0.6; color: #00ffa3; }
 
         .vow-question { font-size: 1.6rem; font-weight: 900; margin-bottom: 2.5rem; color: #fff; line-height: 1.3; letter-spacing: -0.01em; }
         
