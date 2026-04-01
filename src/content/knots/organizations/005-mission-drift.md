@@ -3,8 +3,8 @@
 title: "mission-drift"
 knot_number: 5
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 5
 slug_name: "mission-drift"
 date: 2026-03-17
 description: "Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?"
@@ -18,9 +18,9 @@ kural_translation: "Think well before acting; to deliberate after deciding is a 
 kural_number: 467
 kural_bridge: "Mission drift is the failure of never re-examining the original decision."
 prev_knot: "organizations/004-values-wallpaper"
-prev_knot_title: "values wallpaper"
+prev_knot_title: "Values Wallpaper"
 next_knot: "organizations/006-legacy-denial"
-next_knot_title: "legacy denial"
+next_knot_title: "Legacy Denial"
 untie_story: "A retail chain asked every store to define their purpose locally. The answers were better than any consulting deck."
 untie_practices:
   - "Open your calendar for last week."

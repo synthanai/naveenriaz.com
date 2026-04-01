@@ -4,7 +4,7 @@ title: reward-misalignment
 knot_number: 100
 domain: organizations
 series: energy
-series_number: 9
+series_number: 4
 slug_name: reward-misalignment
 date: 2026-03-17
 description: "When you perceive what is right, do it...."

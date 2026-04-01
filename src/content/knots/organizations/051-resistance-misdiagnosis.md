@@ -4,7 +4,7 @@ title: resistance-misdiagnosis
 knot_number: 51
 domain: organizations
 series: change
-series_number: 5
+series_number: 3
 slug_name: resistance-misdiagnosis
 date: 2026-03-17
 description: "Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisel..."

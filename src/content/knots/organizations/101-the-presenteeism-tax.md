@@ -4,7 +4,7 @@ title: the-presenteeism-tax
 knot_number: 101
 domain: organizations
 series: energy
-series_number: 9
+series_number: 5
 slug_name: the-presenteeism-tax
 date: 2026-03-17
 description: "In a world that values substance, empty presence holds no place...."

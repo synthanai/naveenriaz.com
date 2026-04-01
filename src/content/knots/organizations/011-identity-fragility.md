@@ -3,8 +3,8 @@
 title: "identity-fragility"
 knot_number: 11
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 11
 slug_name: "identity-fragility"
 date: 2026-03-17
 description: "Has your organization survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
@@ -18,9 +18,9 @@ kural_translation: "Like the tortoise drawing in its limbs, one who masters the 
 kural_number: 126
 kural_bridge: "An identity never tested is a shell never drawn in. It looks solid until pressure arrives."
 prev_knot: "organizations/010-cultural-orphans"
-prev_knot_title: "cultural orphans"
+prev_knot_title: "Cultural Orphans"
 next_knot: "organizations/012-the-hollow-core"
-next_knot_title: "the hollow core"
+next_knot_title: "The Hollow Core"
 untie_story: "A marketing agency discovered their best client work happened when the team knew WHY the client mattered to the world."
 untie_practices:
   - "Run a tabletop exercise in your next leadership meeting: \"Revenue drops 20% this quarter."

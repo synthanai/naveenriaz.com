@@ -3,8 +3,8 @@
 title: "cultural-orphans"
 knot_number: 10
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 10
 slug_name: "cultural-orphans"
 date: 2026-03-17
 description: "Can a new hire, six months in, explain your culture to a stranger using their own words, not the company's?"
@@ -18,9 +18,9 @@ kural_translation: "A home with love and virtue is character and purpose itself.
 kural_number: 45
 kural_bridge: "A team without cultural belonging is a home without love."
 prev_knot: "organizations/009-vision-inflation"
-prev_knot_title: "vision inflation"
+prev_knot_title: "Vision Inflation"
 next_knot: "organizations/011-identity-fragility"
-next_knot_title: "identity fragility"
+next_knot_title: "Identity Fragility"
 untie_story: "A law firm partner realized their stated culture was \"innovation\" but every decision rewarded conformity. They picked one."
 untie_practices:
   - "Pair your newest hire with a tenured person for one lunch this week."

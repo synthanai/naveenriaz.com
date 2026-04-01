@@ -3,8 +3,8 @@
 title: "split-personality"
 knot_number: 7
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 7
 slug_name: "split-personality"
 date: 2026-03-17
 description: 'If you ask Sales and Engineering "what kind of company are we?", do they describe the same organization?'
@@ -18,9 +18,9 @@ kural_translation: "When a deceitful mind puts on virtuous conduct, the five ele
 kural_number: 271
 kural_bridge: "When the external brand contradicts the internal culture, the whole system knows."
 prev_knot: "organizations/006-legacy-denial"
-prev_knot_title: "legacy denial"
+prev_knot_title: "Legacy Denial"
 next_knot: "organizations/008-purpose-commodification"
-next_knot_title: "purpose commodification"
+next_knot_title: "Purpose Commodification"
 untie_story: "A tech company lost three key people. Exit interviews all said the same thing: \"I forgot why I was here.\""
 untie_practices:
   - "List your top 3 strategic initiatives."

@@ -4,7 +4,7 @@ title: rhetoric-reality-gap
 knot_number: 57
 domain: organizations
 series: change
-series_number: 5
+series_number: 9
 slug_name: rhetoric-reality-gap
 date: 2026-03-17
 description: "Call the one who boasts useless words no son of worth...."

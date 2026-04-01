@@ -4,7 +4,7 @@ title: celebration-deficit
 knot_number: 106
 domain: organizations
 series: energy
-series_number: 9
+series_number: 10
 slug_name: celebration-deficit
 date: 2026-03-17
 description: "Wealth from generosity never diminishes...."

@@ -4,7 +4,7 @@ title: transformation-theater
 knot_number: 50
 domain: organizations
 series: change
-series_number: 5
+series_number: 2
 slug_name: transformation-theater
 date: 2026-03-17
 description: "One who acts without understanding the means will find themselves as lost as one..."

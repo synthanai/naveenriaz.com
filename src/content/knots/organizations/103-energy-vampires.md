@@ -4,7 +4,7 @@ title: energy-vampires
 knot_number: 103
 domain: organizations
 series: energy
-series_number: 9
+series_number: 7
 slug_name: energy-vampires
 date: 2026-03-17
 description: "Even harsh truth is acceptable. Useless pleasant words are not...."

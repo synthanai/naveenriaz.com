@@ -3,8 +3,8 @@
 title: "identity-mimicry"
 knot_number: 2
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 2
 slug_name: "identity-mimicry"
 date: 2026-03-17
 description: 'Does your organization describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''s adopt Google''s approach."'
@@ -18,9 +18,9 @@ kural_translation: "One who knows themselves knows all; they hold their wisdom a
 kural_number: 727
 kural_bridge: "Organizations that copy others have stopped knowing themselves."
 prev_knot: "organizations/001-purpose-amnesia"
-prev_knot_title: "purpose amnesia"
+prev_knot_title: "Purpose Amnesia"
 next_knot: "organizations/003-founders-ghost"
-next_knot_title: "founders ghost"
+next_knot_title: "Founders Ghost"
 untie_story: "A hospital discovered nurses had created their own purpose statement because the official one felt hollow. Leadership adopted it instead."
 untie_practices:
   - "List your top 3 \"we want to be like ___\" references."

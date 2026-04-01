@@ -4,7 +4,7 @@ title: burnout-normalization
 knot_number: 97
 domain: organizations
 series: energy
-series_number: 9
+series_number: 1
 slug_name: burnout-normalization
 date: 2026-03-17
 description: "One who sees hardship as natural will never truly suffer...."

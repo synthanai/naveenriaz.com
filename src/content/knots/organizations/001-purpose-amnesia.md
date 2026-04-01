@@ -3,7 +3,7 @@
 title: "purpose-amnesia"
 knot_number: 1
 domain: "organizations"
-series: "identity"
+series: identity
 series_number: 1
 slug_name: "purpose-amnesia"
 date: 2026-03-17
@@ -18,7 +18,7 @@ kural_translation: "No greater gain than virtue; no greater ruin than forgetting
 kural_number: 32
 kural_bridge: "Purpose forgotten is virtue abandoned."
 next_knot: "organizations/002-identity-mimicry"
-next_knot_title: "identity mimicry"
+next_knot_title: "Identity Mimicry"
 untie_story: "A startup founder revisited their original pitch deck after three years of drift. Reading it aloud to the team brought tears. They remembered."
 untie_practices:
   - "ask: \"Why does this team exist?\" Write down the exact words."

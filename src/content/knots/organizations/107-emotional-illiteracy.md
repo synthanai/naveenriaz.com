@@ -4,7 +4,7 @@ title: emotional-illiteracy
 knot_number: 107
 domain: organizations
 series: energy
-series_number: 9
+series_number: 11
 slug_name: emotional-illiteracy
 date: 2026-03-17
 description: "One flaw in wisdom pushes wholeness far away...."

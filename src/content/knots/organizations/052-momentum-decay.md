@@ -4,7 +4,7 @@ title: momentum-decay
 knot_number: 52
 domain: organizations
 series: change
-series_number: 5
+series_number: 4
 slug_name: momentum-decay
 date: 2026-03-17
 description: "Effort creates fortune. Lack of effort invites poverty...."

@@ -4,7 +4,7 @@ title: organizational-antibodies
 knot_number: 56
 domain: organizations
 series: change
-series_number: 5
+series_number: 8
 slug_name: organizational-antibodies
 date: 2026-03-17
 description: "Harsh words and excessive punishment grind down strength like a file on metal...."

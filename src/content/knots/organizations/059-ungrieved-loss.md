@@ -4,7 +4,7 @@ title: ungrieved-loss
 knot_number: 59
 domain: organizations
 series: change
-series_number: 5
+series_number: 11
 slug_name: ungrieved-loss
 date: 2026-03-17
 description: "The noble do not treat suffering as cause for despair...."

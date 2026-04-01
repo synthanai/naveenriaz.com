@@ -4,7 +4,7 @@ title: turnover-spiral
 knot_number: 102
 domain: organizations
 series: energy
-series_number: 9
+series_number: 6
 slug_name: turnover-spiral
 date: 2026-03-17
 description: "Greatness comes to those who persevere and gain clarity...."

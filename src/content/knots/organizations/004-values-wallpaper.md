@@ -3,8 +3,8 @@
 title: "values-wallpaper"
 knot_number: 4
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 4
 slug_name: "values-wallpaper"
 date: 2026-03-17
 description: "Can five people across different levels give the same example of a lived value? Or does the violation story come faster than the lived story?"
@@ -18,9 +18,9 @@ kural_translation: "Spotless mind is all of virtue; the rest is empty noise."
 kural_number: 34
 kural_bridge: "Framed values without lived values are noise, not virtue."
 prev_knot: "organizations/003-founders-ghost"
-prev_knot_title: "founders ghost"
+prev_knot_title: "Founders Ghost"
 next_knot: "organizations/005-mission-drift"
-next_knot_title: "mission drift"
+next_knot_title: "Mission Drift"
 untie_story: "An engineering team removed the values poster and replaced it with stories of values lived. Engagement scores jumped 23%."
 untie_practices:
   - "Pick one value from your wall."

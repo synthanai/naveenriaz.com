@@ -3,8 +3,8 @@
 title: "founders-ghost"
 knot_number: 3
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 3
 slug_name: "founders-ghost"
 date: 2026-03-17
 description: 'Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?'
@@ -18,9 +18,9 @@ kural_translation: "The leader who possesses army, people, wealth, counsel, alli
 kural_number: 441
 kural_bridge: "The founder built the fortress. The question is whether the walls still protect or imprison."
 prev_knot: "organizations/002-identity-mimicry"
-prev_knot_title: "identity mimicry"
+prev_knot_title: "Identity Mimicry"
 next_knot: "organizations/004-values-wallpaper"
-next_knot_title: "values wallpaper"
+next_knot_title: "Values Wallpaper"
 untie_story: "A CEO attended their own company's onboarding. They couldn't explain the values. That week, they rewrote them with frontline staff."
 untie_practices:
   - "notice every time someone says \"the founder would have...\" or \"we've always...\" Write these down."

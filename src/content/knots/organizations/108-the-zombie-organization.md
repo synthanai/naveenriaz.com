@@ -4,7 +4,7 @@ title: the-zombie-organization
 knot_number: 108
 domain: organizations
 series: energy
-series_number: 9
+series_number: 12
 slug_name: the-zombie-organization
 date: 2026-03-17
 description: "The wise stand in eternal fame. The world endures through their legacy...."

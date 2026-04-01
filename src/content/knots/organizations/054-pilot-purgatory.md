@@ -4,7 +4,7 @@ title: pilot-purgatory
 knot_number: 54
 domain: organizations
 series: change
-series_number: 5
+series_number: 6
 slug_name: pilot-purgatory
 date: 2026-03-17
 description: "Those who plan with resolve achieve exactly what they envision...."

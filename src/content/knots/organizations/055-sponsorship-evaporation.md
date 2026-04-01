@@ -4,7 +4,7 @@ title: sponsorship-evaporation
 knot_number: 55
 domain: organizations
 series: change
-series_number: 5
+series_number: 7
 slug_name: sponsorship-evaporation
 date: 2026-03-17
 description: "The great fear small company. The small surround themselves with it...."

@@ -4,7 +4,7 @@ title: success-ambiguity
 knot_number: 58
 domain: organizations
 series: change
-series_number: 5
+series_number: 10
 slug_name: success-ambiguity
 date: 2026-03-17
 description: "A true fortress has resources, location, and worthy people...."

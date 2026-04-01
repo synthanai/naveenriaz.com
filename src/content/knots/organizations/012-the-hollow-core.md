@@ -3,8 +3,8 @@
 title: "the-hollow-core"
 knot_number: 12
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 12
 slug_name: "the-hollow-core"
 date: 2026-03-17
 description: "At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow."
@@ -18,9 +18,9 @@ kural_translation: "In all you think, think of rising; even if you fail, the asp
 kural_number: 596
 kural_bridge: "A hollow core is what remains when the aspiration to rise has been replaced by the aspiration to grow."
 prev_knot: "organizations/011-identity-fragility"
-prev_knot_title: "identity fragility"
+prev_knot_title: "Identity Fragility"
 next_knot: "organizations/013-performative-safety"
-next_knot_title: "performative safety"
+next_knot_title: "Performative Safety"
 untie_story: "A church congregation realized their identity was their practice, not their building. Moving locations proved it clearly."
 untie_practices:
   - "At your next board or leadership meeting, add one agenda item: \"What did we deepen this quarter?\"..."

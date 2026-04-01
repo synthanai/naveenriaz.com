@@ -4,7 +4,7 @@ title: urgency-addiction
 knot_number: 104
 domain: organizations
 series: energy
-series_number: 9
+series_number: 8
 slug_name: urgency-addiction
 date: 2026-03-17
 description: "Excess effort loses gains. The losses from overstretch exceed what was sought...."

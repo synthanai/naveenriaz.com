@@ -3,8 +3,8 @@
 title: "vision-inflation"
 knot_number: 9
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 9
 slug_name: "vision-inflation"
 date: 2026-03-17
 description: 'Ask three frontline workers: "How does your work this week connect to our vision?" Do they give a real answer or a rehearsed one?'
@@ -18,9 +18,9 @@ kural_translation: "One who does not measure themselves will seem to exist but w
 kural_number: 480
 kural_bridge: "A vision that outgrows its operational capacity vanishes into irrelevance."
 prev_knot: "organizations/008-purpose-commodification"
-prev_knot_title: "purpose commodification"
+prev_knot_title: "Purpose Commodification"
 next_knot: "organizations/010-cultural-orphans"
-next_knot_title: "cultural orphans"
+next_knot_title: "Cultural Orphans"
 untie_story: "A factory team created a \"why we make this\" video. Absenteeism dropped. They connected product to purpose visually."
 untie_practices:
   - "Ask three frontline workers: \"How does your work this week connect to our vision?\" If they laugh,..."

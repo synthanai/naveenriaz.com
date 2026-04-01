@@ -4,7 +4,7 @@ title: autonomy-starvation
 knot_number: 99
 domain: organizations
 series: energy
-series_number: 9
+series_number: 3
 slug_name: autonomy-starvation
 date: 2026-03-17
 description: "Harsh rule that chains people is the heaviest burden...."

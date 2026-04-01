@@ -4,7 +4,7 @@ title: change-fatigue
 knot_number: 49
 domain: organizations
 series: change
-series_number: 5
+series_number: 1
 slug_name: change-fatigue
 date: 2026-03-17
 description: "Laugh when hardship arrives. Nothing defeats adversity like defiance...."

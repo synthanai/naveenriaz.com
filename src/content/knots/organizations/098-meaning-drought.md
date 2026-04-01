@@ -4,7 +4,7 @@ title: meaning-drought
 knot_number: 98
 domain: organizations
 series: energy
-series_number: 9
+series_number: 2
 slug_name: meaning-drought
 date: 2026-03-17
 description: "One who stands free of folly creates millions...."

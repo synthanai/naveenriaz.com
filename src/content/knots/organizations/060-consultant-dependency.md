@@ -4,7 +4,7 @@ title: consultant-dependency
 knot_number: 60
 domain: organizations
 series: change
-series_number: 5
+series_number: 12
 slug_name: consultant-dependency
 date: 2026-03-17
 description: "One who acts without knowing the method destroys their own work...."
@@ -17,8 +17,8 @@ kural_number: 478
 kural_bridge: "Consultant dependency means the method lives in an external body. When that body leaves, the organization can't act because it never learned how."
 prev_knot: "organizations/059-ungrieved-loss"
 prev_knot_title: "Ungrieved Loss"
-next_knot: ""
-next_knot_title: ""
+next_knot: "organizations/061-collective-blindness"
+next_knot_title: "Collective Blindness"
 untie_story: "A bank branch manager asked monthly: \"what should we stop doing?\" Removing friction accelerated adoption faster than adding features."
 untie_practices:
   - "Before hiring the next consultant, ask: what internal capability will exist after they leave?"

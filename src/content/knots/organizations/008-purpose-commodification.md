@@ -3,8 +3,8 @@
 title: "purpose-commodification"
 knot_number: 8
 domain: "organizations"
-series: "identity"
-series_number: 1
+series: identity
+series_number: 8
 slug_name: "purpose-commodification"
 date: 2026-03-17
 description: "Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which one is yours?"
@@ -18,9 +18,9 @@ kural_translation: "Speak words that serve a purpose; never speak words that ser
 kural_number: 200
 kural_bridge: "When purpose is smoothed for mass appeal, the words serve nobody."
 prev_knot: "organizations/007-split-personality"
-prev_knot_title: "split personality"
+prev_knot_title: "Split Personality"
 next_knot: "organizations/009-vision-inflation"
-next_knot_title: "vision inflation"
+next_knot_title: "Vision Inflation"
 untie_story: "A school principal asked students what the school stood for. Their answers rebuilt the mission statement authentically."
 untie_practices:
   - "Put your purpose statement next to your top 3 competitors' purpose statements."

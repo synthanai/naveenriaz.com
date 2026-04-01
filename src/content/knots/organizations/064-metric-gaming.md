@@ -1,0 +1,80 @@
+---
+
+title: metric-gaming
+knot_number: 64
+domain: organizations
+series: intelligence
+series_number: 4
+slug_name: metric-gaming
+date: 2026-03-17
+description: "One who speaks truth from the heart surpasses those who practice austerity and c..."
+punch_line_1: "One who speaks truth from the heart surpasses those who practice austerity and charity."
+punch_line_2: "Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart."
+felt_hook: "Your organization optimized for the metric and lost sight of the thing the metric was supposed to measure."
+kural_tamil: "தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து\nவேட்டுவன் புள்சிமிழ்த் தற்று."
+kural_translation: "One who speaks truth from the heart surpasses even those who practice austerity and charity."
+kural_number: 274
+kural_bridge: "Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart."
+prev_knot: "organizations/063-groupthink"
+prev_knot_title: "Groupthink"
+next_knot: "organizations/065-innovation-theater"
+next_knot_title: "Innovation Theater"
+untie_story: "A startup built a \"knowledge graph\" of who knows what. Finding expertise dropped from days to minutes."
+untie_practices:
+  - "Look at your top three KPIs."
+  - "Every KPI is paired with a counter-metric that detects gaming."
+  - "When metrics measure outcomes instead of activity, gaming becomes obvious, real performance is vi..."
+  - "Ask \"what do we know that we're not using?\""
+  - "Create one cross-team knowledge connection this week"
+untie_question: "What would change in your organization if you untangled \"metric gaming\" this week?"
+---
+
+One who speaks truth from the heart surpasses those who practice austerity and charity.
+Valluvar ranks honesty above ritual. Truth from the heart, not truth from the spreadsheet.
+All your KPIs are green. Every target is met. Every dashboard shows progress.
+Customers are leaving. Employees are disengaged. The product is deteriorating.
+The numbers are technically accurate. The story they tell is fiction.
+Your organization optimized for the metric and lost sight of the thing the metric was supposed to measure.
+
+Target's 2013 data breach exposed 40 million customer credit card numbers.
+I found the metric gaming buried in the incident report.
+Target's security team, contracted through FireEye, had detected the intrusion and sent alerts.
+The alerts were categorized, logged, and deprioritized because the team was measured on 'incidents resolved per quarter,' not 'incidents prevented.' The metric incentivized closing tickets, not preventing breaches.
+When the attackers exfiltrated 11 GB of card data, the security system was functioning perfectly.
+By its own metrics.
+
+When a measure becomes a target, it ceases to be a good measure.
+In economics, Goodhart's Law states that any metric used for control will be optimized at the expense of the thing it was designed to measure. The metric gets gamed. The underlying reality gets ignored.
+Organizational metric gaming follows this law perfectly: teams learn what's measured, then optimize for the measurement. Lines of code shipped. Tickets closed. Features delivered. Calls answered.
+Each metric is hit. Each underlying reality, code quality, customer satisfaction, product value, call resolution, deteriorates.
+The dashboard is green. The organization is bleeding.
+
+Look at your top three KPIs.
+Now ask: is it possible to hit every target and still fail the customer?
+If yes, your metrics are measuring the wrong thing.
+Rebuild them from the customer's experience backward, not from your dashboard forward.
+
+That green illusion has a name. **Metric Gaming**.
+And once you see it, you can't unsee it.
+
+## Untie The Knot
+
+**Uproot**
+
+Gaming started when the metric became the target. The team learned what was measured, optimized for the measurement, and lost sight of what the metric was supposed to represent.
+
+**Navigate**
+
+Every KPI is paired with a counter-metric that detects gaming. If ticket resolution drops but customer satisfaction also drops, the improvement is illusory.
+
+**Tool**
+
+CORE / Transparency: the diagnostic that asks whether metrics reflect reality or perform reality. Transparency reveals the gap between the dashboard and the customer.
+
+**Implement**
+
+Look at your top three KPIs. Ask: is it possible to hit every target and still fail the customer? If yes, rebuild the metrics from the customer experience backward.
+
+**Emerge**
+
+When metrics measure outcomes instead of activity, gaming becomes obvious, real performance is visible, and the organization optimizes for value instead of vanity.
