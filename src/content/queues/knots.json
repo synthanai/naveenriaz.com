@@ -233,9 +233,20 @@
       "type": "knot",
       "source": "series-1-identity/010-cultural-orphans.md",
       "card": "cards/knot-010.png",
-      "status": "approved",
+      "status": "published",
       "failed_at": "2026-03-28T21:27:47.484667+00:00",
-      "approved_at": "2026-03-30T05:07:45.912Z"
+      "approved_at": "2026-03-30T05:07:45.912Z",
+      "published_at": "2026-04-01T06:04:50.067Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7444988122192474112",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "day": 11,

@@ -508,23 +508,37 @@
     {
       "slug": "the-culture-tax",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "approved",
       "added": "2026-03-30",
-      "order": 37
+      "order": 37,
+      "approved_at": "2026-04-01T06:03:40.618Z"
     },
     {
       "slug": "purpose-amnesia",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "approved",
       "added": "2026-03-30",
-      "order": 38
+      "order": 38,
+      "approved_at": "2026-04-01T06:04:31.623Z"
     },
     {
       "slug": "the-founders-ghost",
       "temperature": "🔥��",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 39
+      "order": 39,
+      "approved_at": "2026-04-01T06:04:08.462Z",
+      "published_at": "2026-04-01T06:04:13.577Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7444987966890020865",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "the-loom-insight",

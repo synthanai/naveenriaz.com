@@ -37,6 +37,48 @@
       "status": "pending",
       "added": "2026-03-31",
       "order": 5
+    },
+    {
+      "slug": "absent-anchor",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 6
+    },
+    {
+      "slug": "gravity-of-scale",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 7
+    },
+    {
+      "slug": "dilution-tax",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 8
+    },
+    {
+      "slug": "empty-horizon",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 9
+    },
+    {
+      "slug": "island-paradox",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 10
+    },
+    {
+      "slug": "brittle-shell",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 11
+    },
+    {
+      "slug": "form-of-function",
+      "status": "pending",
+      "added": "2026-03-31",
+      "order": 12
     }
   ]
 }
