@@ -424,16 +424,30 @@
     {
       "slug": "the-ai-readiness-gap",
       "temperature": "🔥🔥🔥",
-      "status": "pending",
+      "status": "hold",
       "added": "2026-03-30",
-      "order": 25
+      "order": 25,
+      "hold_at": "2026-04-02T12:02:16.894Z",
+      "hold_reason": "Old Data"
     },
     {
       "slug": "process-sediment",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 26
+      "order": 26,
+      "approved_at": "2026-04-02T12:02:36.986Z",
+      "published_at": "2026-04-02T12:02:48.998Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7445440599660490752",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "the-bottleneck-hero",

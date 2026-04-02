@@ -254,8 +254,19 @@
       "type": "knot",
       "source": "series-1-identity/011-identity-fragility.md",
       "card": "cards/knot-011.png",
-      "status": "approved",
-      "approved_at": "2026-03-30T05:08:36.688Z"
+      "status": "published",
+      "approved_at": "2026-03-30T05:08:36.688Z",
+      "published_at": "2026-04-02T12:03:05.381Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7445440668459708416",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "day": 12,
