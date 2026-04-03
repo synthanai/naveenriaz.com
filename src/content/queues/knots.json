@@ -274,8 +274,19 @@
       "type": "knot",
       "source": "series-1-identity/012-the-hollow-core.md",
       "card": "cards/knot-012.png",
-      "status": "approved",
-      "approved_at": "2026-03-30T05:09:00.687Z"
+      "status": "published",
+      "approved_at": "2026-03-30T05:09:00.687Z",
+      "published_at": "2026-04-03T12:40:48.218Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7445812548119203840",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "day": 12,
@@ -283,8 +294,19 @@
       "type": "series-closure",
       "source": "framing/s1-closure.md",
       "card": "",
-      "status": "approved",
-      "approved_at": "2026-03-30T05:09:35.803Z"
+      "status": "published",
+      "approved_at": "2026-03-30T05:09:35.803Z",
+      "published_at": "2026-04-03T12:41:14.926Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7445812657712148480",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "day": 13,

@@ -480,9 +480,21 @@
     {
       "slug": "success-ambiguity",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 31
+      "order": 31,
+      "approved_at": "2026-04-03T12:40:01.108Z",
+      "published_at": "2026-04-03T12:40:05.195Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7445812365272547328",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "decision-laundering",
