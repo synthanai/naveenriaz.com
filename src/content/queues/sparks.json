@@ -534,10 +534,21 @@
     {
       "slug": "the-culture-tax",
       "temperature": "🔥🔥",
-      "status": "approved",
+      "status": "published",
       "added": "2026-03-30",
       "order": 37,
-      "approved_at": "2026-04-01T06:03:40.618Z"
+      "approved_at": "2026-04-01T06:03:40.618Z",
+      "published_at": "2026-04-04T10:38:05.167Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7446144051562823680",
+          "channel": "linkedin"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "purpose-amnesia",

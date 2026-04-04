@@ -314,45 +314,22 @@
       "type": "series-intro",
       "source": "framing/s2-intro.md",
       "card": "",
-      "status": "published",
-      "approved_at": "2026-04-04T10:38:46.909Z",
-      "published_at": "2026-04-04T10:54:26.445Z",
-      "published_channels": {
-        "linkedin": {
-          "ok": true,
-          "post_id": "urn:li:share:7446148167626293249",
-          "channel": "linkedin"
-        },
-        "linkedin_comment": {
-          "ok": true
-        }
-      }
+      "status": "approved",
+      "approved_at": "2026-04-04T10:38:46.909Z"
     },
     {
       "day": 13,
       "knot_id": "013",
       "type": "knot",
-      "source": "series-2-culture/013-performative-safety.md",
+      "source": "series-2-culture/037-performative-safety.md",
       "card": "cards/knot-013.png",
-      "status": "published",
-      "approved_at": "2026-04-04T10:54:09.525Z",
-      "published_at": "2026-04-04T10:54:30.592Z",
-      "published_channels": {
-        "linkedin": {
-          "ok": true,
-          "post_id": "urn:li:share:7446148185003192320",
-          "channel": "linkedin"
-        },
-        "linkedin_comment": {
-          "ok": true
-        }
-      }
+      "status": "pending"
     },
     {
       "day": 14,
       "knot_id": "014",
       "type": "knot",
-      "source": "series-2-culture/014-integrity-theater.md",
+      "source": "series-2-culture/038-integrity-theater.md",
       "card": "cards/knot-014.png",
       "status": "pending"
     },
@@ -360,7 +337,7 @@
       "day": 15,
       "knot_id": "015",
       "type": "knot",
-      "source": "series-2-culture/015-gravitational-void.md",
+      "source": "series-2-culture/039-gravitational-void.md",
       "card": "cards/knot-015.png",
       "status": "pending"
     },
@@ -368,7 +345,7 @@
       "day": 16,
       "knot_id": "016",
       "type": "knot",
-      "source": "series-2-culture/016-harmony-addiction.md",
+      "source": "series-2-culture/040-harmony-addiction.md",
       "card": "cards/knot-016.png",
       "status": "pending"
     },
@@ -376,7 +353,7 @@
       "day": 17,
       "knot_id": "017",
       "type": "knot",
-      "source": "series-2-culture/017-transparency-paradox.md",
+      "source": "series-2-culture/041-transparency-paradox.md",
       "card": "cards/knot-017.png",
       "status": "pending"
     },
@@ -384,7 +361,7 @@
       "day": 18,
       "knot_id": "018",
       "type": "knot",
-      "source": "series-2-culture/018-siloed-synergy.md",
+      "source": "series-2-culture/042-siloed-synergy.md",
       "card": "cards/knot-018.png",
       "status": "pending"
     },
@@ -392,7 +369,7 @@
       "day": 19,
       "knot_id": "019",
       "type": "knot",
-      "source": "series-2-culture/019-fear-culture.md",
+      "source": "series-2-culture/043-fear-culture.md",
       "card": "cards/knot-019.png",
       "status": "pending"
     },
@@ -400,7 +377,7 @@
       "day": 20,
       "knot_id": "020",
       "type": "knot",
-      "source": "series-2-culture/020-values-inversion.md",
+      "source": "series-2-culture/044-values-inversion.md",
       "card": "cards/knot-020.png",
       "status": "pending"
     },
@@ -408,7 +385,7 @@
       "day": 21,
       "knot_id": "021",
       "type": "knot",
-      "source": "series-2-culture/021-meeting-toxicity.md",
+      "source": "series-2-culture/045-meeting-toxicity.md",
       "card": "cards/knot-021.png",
       "status": "pending"
     },
@@ -416,7 +393,7 @@
       "day": 22,
       "knot_id": "022",
       "type": "knot",
-      "source": "series-2-culture/022-recognition-deficit.md",
+      "source": "series-2-culture/046-recognition-deficit.md",
       "card": "cards/knot-022.png",
       "status": "pending"
     },
@@ -424,7 +401,7 @@
       "day": 23,
       "knot_id": "023",
       "type": "knot",
-      "source": "series-2-culture/023-belonging-fracture.md",
+      "source": "series-2-culture/047-belonging-fracture.md",
       "card": "cards/knot-023.png",
       "status": "pending"
     },
@@ -432,7 +409,7 @@
       "day": 24,
       "knot_id": "024",
       "type": "knot",
-      "source": "series-2-culture/024-the-culture-tax.md",
+      "source": "series-2-culture/048-the-culture-tax.md",
       "card": "cards/knot-024.png",
       "status": "pending"
     },
@@ -456,7 +433,7 @@
       "day": 25,
       "knot_id": "025",
       "type": "knot",
-      "source": "series-3-trust/025-broken-promises-loop.md",
+      "source": "series-3-trust/073-broken-promises-loop.md",
       "card": "cards/knot-025.png",
       "status": "pending"
     },
@@ -464,7 +441,7 @@
       "day": 26,
       "knot_id": "026",
       "type": "knot",
-      "source": "series-3-trust/026-invisible-contracts.md",
+      "source": "series-3-trust/074-invisible-contracts.md",
       "card": "cards/knot-026.png",
       "status": "pending"
     },
@@ -472,7 +449,7 @@
       "day": 27,
       "knot_id": "027",
       "type": "knot",
-      "source": "series-3-trust/027-delegation-without-trust.md",
+      "source": "series-3-trust/075-delegation-without-trust.md",
       "card": "cards/knot-027.png",
       "status": "pending"
     },
@@ -480,7 +457,7 @@
       "day": 28,
       "knot_id": "028",
       "type": "knot",
-      "source": "series-3-trust/028-feedback-phobia.md",
+      "source": "series-3-trust/076-feedback-phobia.md",
       "card": "cards/knot-028.png",
       "status": "pending"
     },
@@ -488,7 +465,7 @@
       "day": 29,
       "knot_id": "029",
       "type": "knot",
-      "source": "series-3-trust/029-competence-doubt.md",
+      "source": "series-3-trust/077-competence-doubt.md",
       "card": "cards/knot-029.png",
       "status": "pending"
     },
@@ -496,7 +473,7 @@
       "day": 30,
       "knot_id": "030",
       "type": "knot",
-      "source": "series-3-trust/030-loyalty-extraction.md",
+      "source": "series-3-trust/078-loyalty-extraction.md",
       "card": "cards/knot-030.png",
       "status": "pending"
     },
@@ -504,7 +481,7 @@
       "day": 31,
       "knot_id": "031",
       "type": "knot",
-      "source": "series-3-trust/031-trust-asymmetry.md",
+      "source": "series-3-trust/079-trust-asymmetry.md",
       "card": "cards/knot-031.png",
       "status": "pending"
     },
@@ -512,7 +489,7 @@
       "day": 32,
       "knot_id": "032",
       "type": "knot",
-      "source": "series-3-trust/032-the-accountability-dodge.md",
+      "source": "series-3-trust/080-the-accountability-dodge.md",
       "card": "cards/knot-032.png",
       "status": "pending"
     },
@@ -520,7 +497,7 @@
       "day": 33,
       "knot_id": "033",
       "type": "knot",
-      "source": "series-3-trust/033-surveillance-culture.md",
+      "source": "series-3-trust/081-surveillance-culture.md",
       "card": "cards/knot-033.png",
       "status": "pending"
     },
@@ -528,7 +505,7 @@
       "day": 34,
       "knot_id": "034",
       "type": "knot",
-      "source": "series-3-trust/034-gossip-economy.md",
+      "source": "series-3-trust/082-gossip-economy.md",
       "card": "cards/knot-034.png",
       "status": "pending"
     },
@@ -536,7 +513,7 @@
       "day": 35,
       "knot_id": "035",
       "type": "knot",
-      "source": "series-3-trust/035-the-scapegoat-pattern.md",
+      "source": "series-3-trust/083-the-scapegoat-pattern.md",
       "card": "cards/knot-035.png",
       "status": "pending"
     },
@@ -544,7 +521,7 @@
       "day": 36,
       "knot_id": "036",
       "type": "knot",
-      "source": "series-3-trust/036-trust-bankruptcy.md",
+      "source": "series-3-trust/084-trust-bankruptcy.md",
       "card": "cards/knot-036.png",
       "status": "pending"
     },
@@ -568,7 +545,7 @@
       "day": 37,
       "knot_id": "037",
       "type": "knot",
-      "source": "series-4-decisions/037-analysis-paralysis.md",
+      "source": "series-4-decisions/013-analysis-paralysis.md",
       "card": "cards/knot-037.png",
       "status": "pending"
     },
@@ -576,7 +553,7 @@
       "day": 38,
       "knot_id": "038",
       "type": "knot",
-      "source": "series-4-decisions/038-decision-laundering.md",
+      "source": "series-4-decisions/014-decision-laundering.md",
       "card": "cards/knot-038.png",
       "status": "pending"
     },
@@ -584,7 +561,7 @@
       "day": 39,
       "knot_id": "039",
       "type": "knot",
-      "source": "series-4-decisions/039-consensus-trap.md",
+      "source": "series-4-decisions/015-consensus-trap.md",
       "card": "cards/knot-039.png",
       "status": "pending"
     },
@@ -592,7 +569,7 @@
       "day": 40,
       "knot_id": "040",
       "type": "knot",
-      "source": "series-4-decisions/040-hippo-effect.md",
+      "source": "series-4-decisions/016-hippo-effect.md",
       "card": "cards/knot-040.png",
       "status": "pending"
     },
@@ -600,7 +577,7 @@
       "day": 41,
       "knot_id": "041",
       "type": "knot",
-      "source": "series-4-decisions/041-irreversibility-blindness.md",
+      "source": "series-4-decisions/017-irreversibility-blindness.md",
       "card": "cards/knot-041.png",
       "status": "pending"
     },
@@ -608,7 +585,7 @@
       "day": 42,
       "knot_id": "042",
       "type": "knot",
-      "source": "series-4-decisions/042-decision-amnesia.md",
+      "source": "series-4-decisions/018-decision-amnesia.md",
       "card": "cards/knot-042.png",
       "status": "pending"
     },
@@ -616,7 +593,7 @@
       "day": 43,
       "knot_id": "043",
       "type": "knot",
-      "source": "series-4-decisions/043-dissent-suppression.md",
+      "source": "series-4-decisions/019-dissent-suppression.md",
       "card": "cards/knot-043.png",
       "status": "pending"
     },
@@ -624,7 +601,7 @@
       "day": 44,
       "knot_id": "044",
       "type": "knot",
-      "source": "series-4-decisions/044-decision-fragmentation.md",
+      "source": "series-4-decisions/020-decision-fragmentation.md",
       "card": "cards/knot-044.png",
       "status": "pending"
     },
@@ -632,7 +609,7 @@
       "day": 45,
       "knot_id": "045",
       "type": "knot",
-      "source": "series-4-decisions/045-meeting-to-decision-ratio.md",
+      "source": "series-4-decisions/021-meeting-to-decision-ratio.md",
       "card": "cards/knot-045.png",
       "status": "pending"
     },
@@ -640,7 +617,7 @@
       "day": 46,
       "knot_id": "046",
       "type": "knot",
-      "source": "series-4-decisions/046-risk-theater.md",
+      "source": "series-4-decisions/022-risk-theater.md",
       "card": "cards/knot-046.png",
       "status": "pending"
     },
@@ -648,7 +625,7 @@
       "day": 47,
       "knot_id": "047",
       "type": "knot",
-      "source": "series-4-decisions/047-information-overload.md",
+      "source": "series-4-decisions/023-information-overload.md",
       "card": "cards/knot-047.png",
       "status": "pending"
     },
@@ -656,7 +633,7 @@
       "day": 48,
       "knot_id": "048",
       "type": "knot",
-      "source": "series-4-decisions/048-decision-whiplash.md",
+      "source": "series-4-decisions/024-decision-whiplash.md",
       "card": "cards/knot-048.png",
       "status": "pending"
     },
@@ -792,7 +769,7 @@
       "day": 61,
       "knot_id": "061",
       "type": "knot",
-      "source": "series-6-intelligence/061-collective-blindness.md",
+      "source": "series-6-intelligence/085-collective-blindness.md",
       "card": "cards/knot-061.png",
       "status": "pending"
     },
@@ -800,7 +777,7 @@
       "day": 62,
       "knot_id": "062",
       "type": "knot",
-      "source": "series-6-intelligence/062-learning-disability.md",
+      "source": "series-6-intelligence/086-learning-disability.md",
       "card": "cards/knot-062.png",
       "status": "pending"
     },
@@ -808,7 +785,7 @@
       "day": 63,
       "knot_id": "063",
       "type": "knot",
-      "source": "series-6-intelligence/063-groupthink.md",
+      "source": "series-6-intelligence/087-groupthink.md",
       "card": "cards/knot-063.png",
       "status": "pending"
     },
@@ -816,7 +793,7 @@
       "day": 64,
       "knot_id": "064",
       "type": "knot",
-      "source": "series-6-intelligence/064-metric-gaming.md",
+      "source": "series-6-intelligence/088-metric-gaming.md",
       "card": "cards/knot-064.png",
       "status": "pending"
     },
@@ -824,7 +801,7 @@
       "day": 65,
       "knot_id": "065",
       "type": "knot",
-      "source": "series-6-intelligence/065-innovation-theater.md",
+      "source": "series-6-intelligence/089-innovation-theater.md",
       "card": "cards/knot-065.png",
       "status": "pending"
     },
@@ -832,7 +809,7 @@
       "day": 66,
       "knot_id": "066",
       "type": "knot",
-      "source": "series-6-intelligence/066-strategic-myopia.md",
+      "source": "series-6-intelligence/090-strategic-myopia.md",
       "card": "cards/knot-066.png",
       "status": "pending"
     },
@@ -840,7 +817,7 @@
       "day": 67,
       "knot_id": "067",
       "type": "knot",
-      "source": "series-6-intelligence/067-expertise-trap.md",
+      "source": "series-6-intelligence/091-expertise-trap.md",
       "card": "cards/knot-067.png",
       "status": "pending"
     },
@@ -848,7 +825,7 @@
       "day": 68,
       "knot_id": "068",
       "type": "knot",
-      "source": "series-6-intelligence/068-data-worship.md",
+      "source": "series-6-intelligence/092-data-worship.md",
       "card": "cards/knot-068.png",
       "status": "pending"
     },
@@ -856,7 +833,7 @@
       "day": 69,
       "knot_id": "069",
       "type": "knot",
-      "source": "series-6-intelligence/069-cognitive-debt.md",
+      "source": "series-6-intelligence/093-cognitive-debt.md",
       "card": "cards/knot-069.png",
       "status": "pending"
     },
@@ -864,7 +841,7 @@
       "day": 70,
       "knot_id": "070",
       "type": "knot",
-      "source": "series-6-intelligence/070-forecast-addiction.md",
+      "source": "series-6-intelligence/094-forecast-addiction.md",
       "card": "cards/knot-070.png",
       "status": "pending"
     },
@@ -872,7 +849,7 @@
       "day": 71,
       "knot_id": "071",
       "type": "knot",
-      "source": "series-6-intelligence/071-knowledge-hoarding.md",
+      "source": "series-6-intelligence/095-knowledge-hoarding.md",
       "card": "cards/knot-071.png",
       "status": "pending"
     },
@@ -880,7 +857,7 @@
       "day": 72,
       "knot_id": "072",
       "type": "knot",
-      "source": "series-6-intelligence/072-the-insight-graveyard.md",
+      "source": "series-6-intelligence/096-the-insight-graveyard.md",
       "card": "cards/knot-072.png",
       "status": "pending"
     },
@@ -904,7 +881,7 @@
       "day": 73,
       "knot_id": "073",
       "type": "knot",
-      "source": "series-7-structure/073-structural-inertia.md",
+      "source": "series-7-structure/025-structural-inertia.md",
       "card": "cards/knot-073.png",
       "status": "pending"
     },
@@ -912,7 +889,7 @@
       "day": 74,
       "knot_id": "074",
       "type": "knot",
-      "source": "series-7-structure/074-silo-syndrome.md",
+      "source": "series-7-structure/026-silo-syndrome.md",
       "card": "cards/knot-074.png",
       "status": "pending"
     },
@@ -920,7 +897,7 @@
       "day": 75,
       "knot_id": "075",
       "type": "knot",
-      "source": "series-7-structure/075-process-sediment.md",
+      "source": "series-7-structure/027-process-sediment.md",
       "card": "cards/knot-075.png",
       "status": "pending"
     },
@@ -928,7 +905,7 @@
       "day": 76,
       "knot_id": "076",
       "type": "knot",
-      "source": "series-7-structure/076-role-ambiguity.md",
+      "source": "series-7-structure/028-role-ambiguity.md",
       "card": "cards/knot-076.png",
       "status": "pending"
     },
@@ -936,7 +913,7 @@
       "day": 77,
       "knot_id": "077",
       "type": "knot",
-      "source": "series-7-structure/077-middle-management-squeeze.md",
+      "source": "series-7-structure/029-middle-management-squeeze.md",
       "card": "cards/knot-077.png",
       "status": "pending"
     },
@@ -944,7 +921,7 @@
       "day": 78,
       "knot_id": "078",
       "type": "knot",
-      "source": "series-7-structure/078-governance-bloat.md",
+      "source": "series-7-structure/030-governance-bloat.md",
       "card": "cards/knot-078.png",
       "status": "pending"
     },
@@ -952,7 +929,7 @@
       "day": 79,
       "knot_id": "079",
       "type": "knot",
-      "source": "series-7-structure/079-technology-sprawl.md",
+      "source": "series-7-structure/031-technology-sprawl.md",
       "card": "cards/knot-079.png",
       "status": "pending"
     },
@@ -960,7 +937,7 @@
       "day": 80,
       "knot_id": "080",
       "type": "knot",
-      "source": "series-7-structure/080-the-bottleneck-person.md",
+      "source": "series-7-structure/032-the-bottleneck-person.md",
       "card": "cards/knot-080.png",
       "status": "pending"
     },
@@ -968,7 +945,7 @@
       "day": 81,
       "knot_id": "081",
       "type": "knot",
-      "source": "series-7-structure/081-over-centralization.md",
+      "source": "series-7-structure/033-over-centralization.md",
       "card": "cards/knot-081.png",
       "status": "pending"
     },
@@ -976,7 +953,7 @@
       "day": 82,
       "knot_id": "082",
       "type": "knot",
-      "source": "series-7-structure/082-handoff-failure.md",
+      "source": "series-7-structure/034-handoff-failure.md",
       "card": "cards/knot-082.png",
       "status": "pending"
     },
@@ -984,7 +961,7 @@
       "day": 83,
       "knot_id": "083",
       "type": "knot",
-      "source": "series-7-structure/083-scaling-pains.md",
+      "source": "series-7-structure/035-scaling-pains.md",
       "card": "cards/knot-083.png",
       "status": "pending"
     },
@@ -992,7 +969,7 @@
       "day": 84,
       "knot_id": "084",
       "type": "knot",
-      "source": "series-7-structure/084-matrix-madness.md",
+      "source": "series-7-structure/036-matrix-madness.md",
       "card": "cards/knot-084.png",
       "status": "pending"
     },
@@ -1016,7 +993,7 @@
       "day": 85,
       "knot_id": "085",
       "type": "knot",
-      "source": "series-8-capability/085-skill-obsolescence.md",
+      "source": "series-8-capability/061-skill-obsolescence.md",
       "card": "cards/knot-085.png",
       "status": "pending"
     },
@@ -1024,7 +1001,7 @@
       "day": 86,
       "knot_id": "086",
       "type": "knot",
-      "source": "series-8-capability/086-talent-hoarding.md",
+      "source": "series-8-capability/062-talent-hoarding.md",
       "card": "cards/knot-086.png",
       "status": "pending"
     },
@@ -1032,7 +1009,7 @@
       "day": 87,
       "knot_id": "087",
       "type": "knot",
-      "source": "series-8-capability/087-hiring-mismatch.md",
+      "source": "series-8-capability/063-hiring-mismatch.md",
       "card": "cards/knot-087.png",
       "status": "pending"
     },
@@ -1040,7 +1017,7 @@
       "day": 88,
       "knot_id": "088",
       "type": "knot",
-      "source": "series-8-capability/088-knowledge-extinction.md",
+      "source": "series-8-capability/064-knowledge-extinction.md",
       "card": "cards/knot-088.png",
       "status": "pending"
     },
@@ -1048,7 +1025,7 @@
       "day": 89,
       "knot_id": "089",
       "type": "knot",
-      "source": "series-8-capability/089-leadership-vacuum.md",
+      "source": "series-8-capability/065-leadership-vacuum.md",
       "card": "cards/knot-089.png",
       "status": "pending"
     },
@@ -1056,7 +1033,7 @@
       "day": 90,
       "knot_id": "090",
       "type": "knot",
-      "source": "series-8-capability/090-technical-debt-avalanche.md",
+      "source": "series-8-capability/066-technical-debt-avalanche.md",
       "card": "cards/knot-090.png",
       "status": "pending"
     },
@@ -1064,7 +1041,7 @@
       "day": 91,
       "knot_id": "091",
       "type": "knot",
-      "source": "series-8-capability/091-customer-capability-gap.md",
+      "source": "series-8-capability/067-customer-capability-gap.md",
       "card": "cards/knot-091.png",
       "status": "pending"
     },
@@ -1072,7 +1049,7 @@
       "day": 92,
       "knot_id": "092",
       "type": "knot",
-      "source": "series-8-capability/092-outsourcing-identity.md",
+      "source": "series-8-capability/068-outsourcing-identity.md",
       "card": "cards/knot-092.png",
       "status": "pending"
     },
@@ -1080,7 +1057,7 @@
       "day": 93,
       "knot_id": "093",
       "type": "knot",
-      "source": "series-8-capability/093-learning-doing-imbalance.md",
+      "source": "series-8-capability/069-learning-doing-imbalance.md",
       "card": "cards/knot-093.png",
       "status": "pending"
     },
@@ -1088,7 +1065,7 @@
       "day": 94,
       "knot_id": "094",
       "type": "knot",
-      "source": "series-8-capability/094-onboarding-failure.md",
+      "source": "series-8-capability/070-onboarding-failure.md",
       "card": "cards/knot-094.png",
       "status": "pending"
     },
@@ -1096,7 +1073,7 @@
       "day": 95,
       "knot_id": "095",
       "type": "knot",
-      "source": "series-8-capability/095-diversity-without-inclusion.md",
+      "source": "series-8-capability/071-diversity-without-inclusion.md",
       "card": "cards/knot-095.png",
       "status": "pending"
     },
@@ -1104,7 +1081,7 @@
       "day": 96,
       "knot_id": "096",
       "type": "knot",
-      "source": "series-8-capability/096-the-ai-readiness-gap.md",
+      "source": "series-8-capability/072-the-ai-readiness-gap.md",
       "card": "cards/knot-096.png",
       "status": "pending"
     },
