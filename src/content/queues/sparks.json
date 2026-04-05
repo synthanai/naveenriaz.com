@@ -587,9 +587,25 @@
     {
       "slug": "ai-not-a-chatbot",
       "temperature": "🔥🔥🔥",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 41
+      "order": 41,
+      "approved_at": "2026-04-05T09:30:10.265Z",
+      "published_at": "2026-04-05T09:30:16.193Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7446489370817298432",
+          "channel": "linkedin"
+        },
+        "x": {
+          "ok": false,
+          "error": "X API 401: Unauthorized"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "instincts-vs-skills",

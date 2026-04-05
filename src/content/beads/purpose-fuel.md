@@ -6,5 +6,14 @@ kural_number: 444
 born_from_knot: "001"
 date: 2026-03-30
 ---
+You cannot pay salaries with purpose, but you cannot pay people to care without it either.
 
-You cannot pay salaries with purpose, but you cannot pay people to care without it either. When intention leaves the meeting, apathy fills the vacuum. Apathy is the most expensive line item on your P&L.
+When intention leaves the meeting, apathy fills the vacuum.
+
+Apathy is the most expensive line item on your P&L.
+
+When 'why' returns, 'how' becomes inexpensive. Untie the knot of amnesia to weave the bead of purpose.
+
+Are your people guessing the destination, or are they fueled by intention?
+
+Source: repos/naveenriaz.com/src/content/beads/purpose-fuel.md

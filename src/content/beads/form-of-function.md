@@ -6,7 +6,14 @@ kural_number: 271
 born_from_knot: "012"
 date: 2026-03-31
 ---
+The core decays long before the surface shows structural failure.
 
-The core decays long before the surface shows structural failure. By the time the dashboard blinks red, the foundational philosophy of the organisation has already eroded. 
+By the time the dashboard blinks red, the foundational philosophy of the organisation has already eroded.
 
-We try to solve this by measuring performance. But measuring performance without measuring purpose is like checking a car's speed while ignoring that the engine is leaking oil. The collapse is invisible, but it is already happening.
+We try to solve this by measuring performance. But measuring performance without measuring purpose is like checking a car's speed while ignoring that the engine is leaking oil.
+
+The collapse is invisible, but it is already happening. The shell of success often masks the decay of the soul.
+
+Is your organisation hitting all the metrics while losing its reason to exist?
+
+Source: repos/naveenriaz.com/src/content/beads/form-of-function.md

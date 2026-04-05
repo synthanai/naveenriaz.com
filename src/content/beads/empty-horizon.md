@@ -6,7 +6,14 @@ kural_number: 472
 born_from_knot: "009"
 date: 2026-03-31
 ---
+Leaders often paint a compelling picture of a ten-year horizon while ignoring the bureaucratic quicksand the team is stuck in today.
 
-The broader the vision, the higher the requirement for granular scaffolding. Leaders often paint a compelling picture of a ten-year horizon while ignoring the bureaucratic quicksand the team is stuck in today. 
+The broader the vision, the higher the requirement for granular scaffolding.
 
 Vision inflation occurs when rhetoric outpaces infrastructure. Your team will not build the future if you do not give them the tools to survive the present.
+
+A vision not tied to daily reality is just a corporate hallucination.
+
+Are your tools capable of supporting the grandeur of your vision?
+
+Source: repos/naveenriaz.com/src/content/beads/empty-horizon.md

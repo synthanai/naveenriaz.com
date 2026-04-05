@@ -6,7 +6,14 @@ kural_number: 462
 born_from_knot: "004"
 date: 2026-03-31
 ---
+Most of the slowness in your organisation is not a talent problem. It is an alignment problem.
 
-Most of the slowness in your organisation is not a talent problem. It is an alignment problem. When the intent is undeclared or ambiguous, every interaction becomes a negotiation. People spend half their energy guessing what the leader actually wants.
+When the intent is undeclared or ambiguous, every interaction becomes a negotiation.
 
-Declare the intent. The tax disappears.
+People spend half their energy guessing what the leader actually wants.
+
+Declare the intent. The tax disappears. Friction is the debt of undeclared intent.
+
+Is your operational speed slowed down by endless negotiation disguised as process?
+
+Source: repos/naveenriaz.com/src/content/beads/friction-tax.md
