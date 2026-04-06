@@ -410,9 +410,25 @@
     {
       "slug": "the-typewriter-mechanic",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 23
+      "order": 23,
+      "approved_at": "2026-04-06T09:26:42.816Z",
+      "published_at": "2026-04-06T09:26:47.621Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7446850885600591872",
+          "channel": "linkedin"
+        },
+        "x": {
+          "ok": false,
+          "error": "X API 401: Unauthorized"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "talent-hoarding",

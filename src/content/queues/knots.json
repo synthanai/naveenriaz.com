@@ -378,8 +378,23 @@
       "type": "knot",
       "source": "series-2-culture/015-gravitational-void.md",
       "card": "cards/knot-015.png",
-      "status": "approved",
-      "approved_at": "2026-04-05T09:31:14.795Z"
+      "status": "published",
+      "approved_at": "2026-04-05T09:31:14.795Z",
+      "published_at": "2026-04-06T09:27:08.413Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7446850974134185984",
+          "channel": "linkedin"
+        },
+        "x": {
+          "ok": false,
+          "error": "X API 401: Unauthorized"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "day": 16,
