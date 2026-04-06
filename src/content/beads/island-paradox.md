@@ -16,4 +16,4 @@ A high-performing silo is usually a symptom of a low-performing ecosystem.
 
 Are your most productive teams structurally isolated from the enterprise?
 
-Source: repos/naveenriaz.com/src/content/beads/island-paradox.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/island-paradox.md -->

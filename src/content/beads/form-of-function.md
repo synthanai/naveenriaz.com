@@ -16,4 +16,4 @@ The collapse is invisible, but it is already happening. The shell of success oft
 
 Is your organisation hitting all the metrics while losing its reason to exist?
 
-Source: repos/naveenriaz.com/src/content/beads/form-of-function.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/form-of-function.md -->

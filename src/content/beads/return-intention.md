@@ -16,4 +16,4 @@ Amnesia is just a tangled knot of noise. Untie it, and the bead of intention is 
 
 Have you lost the signal, or just forgotten how to untie the noise?
 
-Source: repos/naveenriaz.com/src/content/beads/return-intention.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/return-intention.md -->

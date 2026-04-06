@@ -16,4 +16,4 @@ The architecture of your organisation is the only thing that remains awake when 
 
 Are your values on the wall, or built into the incentive structure?
 
-Source: repos/naveenriaz.com/src/content/beads/architecture-destiny.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/architecture-destiny.md -->

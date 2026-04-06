@@ -16,4 +16,4 @@ Stop asking what the industry is doing. Start asking what only you would bother 
 
 Are you running an industry playbook, or weaving your own pattern?
 
-Source: repos/naveenriaz.com/src/content/beads/mimicry-trap.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/mimicry-trap.md -->

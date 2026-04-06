@@ -16,4 +16,4 @@ A vision not tied to daily reality is just a corporate hallucination.
 
 Are your tools capable of supporting the grandeur of your vision?
 
-Source: repos/naveenriaz.com/src/content/beads/empty-horizon.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/empty-horizon.md -->

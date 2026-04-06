@@ -16,4 +16,4 @@ Motion is not direction. Scale without purpose is just acceleration towards chao
 
 Is your growth compromising your core identity and creating operational debt?
 
-Source: repos/naveenriaz.com/src/content/beads/gravity-of-scale.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/gravity-of-scale.md -->

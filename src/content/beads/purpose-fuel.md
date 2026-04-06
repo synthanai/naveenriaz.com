@@ -16,4 +16,4 @@ When 'why' returns, 'how' becomes inexpensive. Untie the knot of amnesia to weav
 
 Are your people guessing the destination, or are they fueled by intention?
 
-Source: repos/naveenriaz.com/src/content/beads/purpose-fuel.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/purpose-fuel.md -->

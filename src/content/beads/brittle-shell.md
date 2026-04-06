@@ -16,4 +16,4 @@ It is a convenience. An identity that cannot survive a crisis was never an ident
 
 What values will you refuse to sacrifice when it costs money to uphold them?
 
-Source: repos/naveenriaz.com/src/content/beads/brittle-shell.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/brittle-shell.md -->

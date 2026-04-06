@@ -16,4 +16,4 @@ Declare the intent. The tax disappears. Friction is the debt of undeclared inten
 
 Is your operational speed slowed down by endless negotiation disguised as process?
 
-Source: repos/naveenriaz.com/src/content/beads/friction-tax.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/friction-tax.md -->

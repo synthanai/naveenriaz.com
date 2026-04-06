@@ -17,4 +17,4 @@ Do not ask what they would do. Ask what problem they were trying to solve.
 
 Are you leading, or simply embalming the past?
 
-Source: repos/naveenriaz.com/src/content/beads/absent-anchor.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/absent-anchor.md -->

@@ -16,4 +16,4 @@ Stop adopting the form. Start questioning the function. The ritual is the shell.
 
 Why are you adopting an industry best practice if you do not understand the context that made it work?
 
-Source: repos/naveenriaz.com/src/content/beads/context-cargo.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/context-cargo.md -->

@@ -16,4 +16,4 @@ A living purpose is felt in how decisions are made, not in how they are announce
 
 Are your employees inspired by your purpose, or just adjusting their engagement to tolerate it?
 
-Source: repos/naveenriaz.com/src/content/beads/dilution-tax.md
+<!-- Source: repos/naveenriaz.com/src/content/beads/dilution-tax.md -->
