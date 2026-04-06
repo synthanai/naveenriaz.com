@@ -21,7 +21,7 @@ A builder I have never met just published my architecture.
 
 Nyk, a Solana developer and co-founder of Builderz, posted a system he calls the "Council of High Intelligence." Eleven Claude Code subagents, each modeled on a historical thinker. Socrates destroys assumptions. Feynman rebuilds from first principles. Lao Tzu asks whether the problem even exists. They are arranged into polarity pairs (deliberate counterweights, not random diversity), run through a 3-round protocol (independent analysis, cross-examination, synthesis), and governed by anti-recursion safeguards to prevent infinite questioning loops.
 
-I have been building something called SPAR: Structured Persona-Argumentation for Reasoning. Multiple AI agents with distinct analytical perspectives, arranged into adversarial configurations, run through structured deliberation rounds, governed by protocol rules that constrain the debate.
+I have been building a multi-agent dialectic engine. Multiple AI agents with distinct analytical perspectives, arranged into adversarial configurations, run through structured deliberation rounds, governed by protocol rules that constrain the debate.
 
 We have never spoken. We work in different domains (he builds agentic trading systems, I study organizational emergence). We use different terminology. We arrived at the same architecture.
 
@@ -37,15 +37,15 @@ Nyk calls this "the problem with balanced single-agent answers." I call it persp
 
 Both systems solve this identically: externalize the disagreement layer. Do not ask one agent to consider multiple perspectives. Spawn multiple agents, each with a genuine analytical commitment, and force them to confront each other before synthesis.
 
-## 💥 The Collision
+## The Collision Point
 
 The convergence runs deeper than the general architecture. The structural details align in ways that cannot be explained by trend-following:
 
-**Polarity pairs.** Nyk arranges his 11 thinkers into 6 counterweight pairs: Socrates vs Feynman (top-down destruction vs bottom-up rebuilding), Aristotle vs Lao Tzu (categorization vs category dissolution), Ada Lovelace vs Machiavelli (formal purity vs messy incentives). SPAR arranges agents into Thesis-Antithesis pairs with the same structural logic: every position must face a named opponent, not just random disagreement.
+**Polarity pairs.** Nyk arranges his 11 thinkers into 6 counterweight pairs: Socrates vs Feynman (top-down destruction vs bottom-up rebuilding), Aristotle vs Lao Tzu (categorization vs category dissolution), Ada Lovelace vs Machiavelli (formal purity vs messy incentives). My engine arranges agents into Thesis-Antithesis pairs with the exact same structural logic: every position must face a named opponent, not just random disagreement.
 
-**Anti-recursion rules.** Nyk discovered that Socrates and Feynman, when unconstrained, enter an infinite questioning loop that consumes the entire context window. He invented the "Hemlock Rule": if Socrates asks a question already answered with evidence, force a 50-word position statement. No more questions. SPAR encountered the same failure mode with its PROBE agent. The problem is structural, not prompt-level: questioning-oriented agents will question forever unless you build hard stops.
+**Anti-recursion rules.** Nyk discovered that Socrates and Feynman, when unconstrained, enter an infinite questioning loop that consumes the entire context window. He invented the "Hemlock Rule": if Socrates asks a question already answered with evidence, force a 50-word position statement. No more questions. I encountered the exact same failure mode with a questioning-oriented "breaker" agent. The problem is structural, not prompt-level: questioning-oriented agents will question forever unless you build hard stops.
 
-**Domain-specific configurations.** Nyk defines 11 triads (architecture, strategy, ethics, debugging, etc.), each selecting 3 thinkers optimized for that domain's tensions. SPAR's TESSERACT configuration system routes agents by domain. Same solution: not every decision needs all perspectives. Match the tension profile to the problem.
+**Domain-specific configurations.** Nyk defines 11 triads (architecture, strategy, ethics, debugging, etc.), each selecting 3 thinkers optimized for that domain's tensions. My system routes agents dynamically by domain. Same solution: not every decision needs all perspectives. Match the tension profile to the problem.
 
 **Blind spot declaration.** Every Nyk agent explicitly states what it misses. Socrates misses "hidden premises everyone accepts." Lao Tzu misses "when the solution is to stop trying." This is not humility. It is structural self-awareness, so the coordinator can ensure the roster's blind spots are covered by other agents.
 

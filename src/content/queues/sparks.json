@@ -569,10 +569,9 @@
     {
       "slug": "purpose-amnesia",
       "temperature": "🔥🔥",
-      "status": "approved",
+      "status": "pending-review",
       "added": "2026-03-30",
-      "order": 38,
-      "approved_at": "2026-04-01T06:04:31.623Z"
+      "order": 38
     },
     {
       "slug": "the-founders-ghost",
@@ -633,9 +632,25 @@
     {
       "slug": "monolithic-agents-dead",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 43
+      "order": 43,
+      "approved_at": "2026-04-06T13:35:25.345Z",
+      "published_at": "2026-04-06T13:35:30.022Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7446913473550368769",
+          "channel": "linkedin"
+        },
+        "x": {
+          "ok": false,
+          "error": "X API 401: Unauthorized"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "deterministic-audits",
@@ -647,9 +662,10 @@
     {
       "slug": "implicit-session-state",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "approved",
       "added": "2026-03-30",
-      "order": 45
+      "order": 45,
+      "approved_at": "2026-04-06T13:37:05.882Z"
     },
     {
       "slug": "painting-windows",
@@ -673,16 +689,18 @@
     {
       "slug": "metadata-meaning-gap",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "approved",
       "added": "2026-03-30",
-      "order": 47
+      "order": 47,
+      "approved_at": "2026-04-06T13:36:19.985Z"
     },
     {
       "slug": "orchestrate-intent",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "approved",
       "added": "2026-03-30",
-      "order": 48
+      "order": 48,
+      "approved_at": "2026-04-06T13:36:28.895Z"
     },
     {
       "slug": "one-knot-pivot",
