@@ -403,9 +403,25 @@
     {
       "slug": "the-zombie-org-test",
       "temperature": "🔥🔥🔥",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 22
+      "order": 22,
+      "approved_at": "2026-04-07T10:26:10.450Z",
+      "published_at": "2026-04-07T10:26:15.161Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7447228233584119808",
+          "channel": "linkedin"
+        },
+        "x": {
+          "ok": false,
+          "error": "X API 401: Unauthorized"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "the-typewriter-mechanic",
@@ -440,11 +456,27 @@
     {
       "slug": "the-ai-readiness-gap",
       "temperature": "🔥🔥🔥",
-      "status": "hold",
+      "status": "published",
       "added": "2026-03-30",
       "order": 25,
       "hold_at": "2026-04-02T12:02:16.894Z",
-      "hold_reason": "Old Data"
+      "hold_reason": "Old Data",
+      "approved_at": "2026-04-07T10:26:29.624Z",
+      "published_at": "2026-04-07T10:26:49.815Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7447228382339301376",
+          "channel": "linkedin"
+        },
+        "x": {
+          "ok": false,
+          "error": "X API 401: Unauthorized"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "process-sediment",

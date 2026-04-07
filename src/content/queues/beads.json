@@ -50,9 +50,25 @@
     },
     {
       "slug": "architecture-destiny",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-31",
-      "order": 5
+      "order": 5,
+      "approved_at": "2026-04-07T10:27:10.923Z",
+      "published_at": "2026-04-07T10:27:16.146Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7447228491428974592",
+          "channel": "linkedin"
+        },
+        "x": {
+          "ok": false,
+          "error": "X API 401: Unauthorized"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "absent-anchor",
