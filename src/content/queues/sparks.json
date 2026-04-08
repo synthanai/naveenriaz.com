@@ -396,9 +396,25 @@
     {
       "slug": "the-presenteeism-tax",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "published",
       "added": "2026-03-30",
-      "order": 21
+      "order": 21,
+      "approved_at": "2026-04-08T05:52:15.072Z",
+      "published_at": "2026-04-08T05:52:52.072Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7447521823593881600",
+          "channel": "linkedin"
+        },
+        "x": {
+          "ok": false,
+          "error": "X API 401: Unauthorized"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "slug": "the-zombie-org-test",
@@ -687,7 +703,7 @@
     {
       "slug": "deterministic-audits",
       "temperature": "🔥🔥🔥",
-      "status": "pending",
+      "status": "pending-review",
       "added": "2026-03-30",
       "order": 44
     },
