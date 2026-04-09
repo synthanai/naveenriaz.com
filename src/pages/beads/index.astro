@@ -1,0 +1,170 @@
+---
+import { getCollection } from "astro:content";
+import Page from '../../layouts/Page.astro';
+
+const beads = await getCollection("beads");
+const sortedBeads = beads.sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+---
+
+<Page title="Beads | Naveen Riaz" description="The hardened wisdom doing the untangling." activeNav="work">
+  <section class="beads-hero">
+    <div class="container">
+      <p class="hero-badge">EXECUTION LAYER</p>
+      <h1>
+        <span class="title-accent">Beads</span>
+      </h1>
+      <p class="hero-sub">
+        The hardened wisdom doing the untangling.<br />
+        Tactical interventions derived from observation.
+      </p>
+      <p class="hero-count">{sortedBeads.length} beads generated</p>
+    </div>
+  </section>
+
+  <section class="container beads-index">
+    <div class="beads-grid">
+      {
+        sortedBeads.map((bead) => (
+          <div class="bead-card">
+            <div class="bead-pattern" />
+            <div class="bead-content">
+              <h3>{bead.data.title}</h3>
+              <p class="bead-essence">{bead.data.essence}</p>
+              <div class="bead-resonance">
+                <span class="label">Resonance</span>
+                {bead.data.resonance}
+              </div>
+              {bead.data.born_from_knot && (
+                <div class="bead-origin">
+                  Born from Knot #{bead.data.born_from_knot}
+                </div>
+              )}
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+</Page>
+
+<style>
+  /* ═══ Hero ═══ */
+  .beads-hero {
+    padding: var(--space-3xl) 0 var(--space-xl);
+    text-align: center;
+  }
+  .hero-badge {
+    font-family: var(--font-label);
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    color: var(--body-color);
+    margin-bottom: var(--space-sm);
+  }
+  .beads-hero h1 {
+    font-size: clamp(2.5rem, 7vw, 4rem);
+    font-weight: 800;
+    color: var(--text-primary) !important;
+    margin-bottom: var(--space-sm);
+  }
+  .title-accent {
+    background: linear-gradient(135deg, var(--soul-color), var(--mind-color), var(--body-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .hero-sub {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    max-width: 420px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  .hero-count {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    opacity: 0.5;
+    margin-top: var(--space-md);
+  }
+  .beads-index { padding-bottom: var(--space-4xl); }
+
+  /* ═══ Beads Grid ═══ */
+  .beads-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  .bead-card {
+    position: relative;
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 150, 0.1);
+    border-radius: 12px;
+    padding: 2rem;
+    overflow: hidden;
+    transition:
+      transform 0.3s ease,
+      border-color 0.3s ease;
+  }
+  .bead-card:hover {
+    transform: translateY(-5px);
+    border-color: rgba(255, 255, 150, 0.3);
+  }
+  .bead-pattern {
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(
+      circle,
+      rgba(255, 255, 150, 0.1) 0%,
+      transparent 70%
+    );
+    border-radius: 50%;
+    filter: blur(20px);
+  }
+  .bead-card h3 {
+    margin-top: 0;
+    font-family: var(--font-heading, "Outfit", sans-serif);
+    color: var(--color-gold, #ffd700);
+    font-size: 1.4rem;
+  }
+  .bead-essence {
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.9);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+  .bead-resonance {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.6);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 1rem;
+  }
+  .bead-resonance .label {
+    display: block;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    letter-spacing: 0.1rem;
+    margin-bottom: 0.5rem;
+    color: var(--color-gold, #ffd700);
+    opacity: 0.8;
+  }
+  .bead-origin {
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.4);
+  }
+  .bead-origin a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+</style>
