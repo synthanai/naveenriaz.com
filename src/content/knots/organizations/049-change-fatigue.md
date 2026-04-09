@@ -8,6 +8,8 @@ series_number: 1
 slug_name: change-fatigue
 date: 2026-03-17
 description: "Laugh when hardship arrives. Nothing defeats adversity like defiance...."
+quote_top: "The team does not resist change anymore.\nThey just wait for it to pass."
+quote_bottom: "Change fatigue is what happens when\nan organization has faced so many hardships\nthat defiance is exhausted."
 punch_line_1: "Laugh when hardship arrives. Nothing defeats adversity like defiance."
 punch_line_2: "Change fatigue is what happens when the organization has faced so many hardships that defiance has been exhausted."
 felt_hook: "The team doesn't resist change anymore. They don't even react to it. They just wait for it to pass."

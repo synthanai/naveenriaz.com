@@ -8,6 +8,8 @@ series_number: 1
 slug_name: performative-safety
 date: 2026-03-17
 description: "Wisdom is discerning the truth in whatever is said, by whomever it's said...."
+quote_top: "When safety becomes observable,\nit becomes performable."
+quote_bottom: "The mechanisms built to create trust\nbecome the very things\nthat suppress honesty."
 punch_line_1: "Wisdom is discerning the truth in whatever is said, by whomever it's said."
 punch_line_2: "When safety is performed, the truth behind every word is hidden, not heard."
 felt_hook: "Everyone is speaking. Nobody is saying anything true."

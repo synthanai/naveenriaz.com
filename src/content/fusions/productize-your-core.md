@@ -7,12 +7,12 @@ categories: ["pattern"]
 tags: ["naval-ravikant", "core-identity", "specific-knowledge", "leverage", "productize-yourself", "identity"]
 description: "Naval's 'Productize Yourself' says find specific knowledge. CORE says it's already there. Identity is the source code."
 source_research: "frameworks/productize-yourself-naval/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Bridge Naval's 'specific knowledge' concept with CORE identity architecture, revealing that the archaeological expedition for irreducible knowledge starts with identity, not skills"
   vadivam: "Synthesis: Naval's leverage architecture + CORE identity framework"
   sangilai: "Reader recognises their own specific knowledge is not a skill set but an identity pattern, and begins the archaeological expedition inward"
-collision_point:
+fusion_point:
   ideas:
     - "Naval's 'specific knowledge' (irreducible, can't be trained, feels like play)"
     - "CORE identity architecture (Calling, Origin, Reason, Endurance)"
@@ -108,7 +108,6 @@ Have you excavated far enough to find it?
 
 *This collision emerged from a [STEAL on Linas Beliunas' synthesis of Naval Ravikant's framework](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/frameworks/productize-yourself-naval/research.md), bridging Naval's leverage economics with identity architecture to reveal where specific knowledge actually lives.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Naval said find your specific knowledge. He didn't say where to look. Your resume lists what you can do. Your CORE reveals what you are. Specific knowledge is not a skill. It's the identity pattern beneath all your skills. Excavate deep enough and the personal monopoly is already there.
 

@@ -11,13 +11,13 @@ const fusions = defineCollection({
     tags: z.array(z.string()),
     description: z.string(),
     source_research: z.string().optional(),
-    collision_type: z.enum(['public', 'internal']).default('public'),
-    collision_nool: z.object({
+    fusion_type: z.enum(['public', 'internal']).default('public'),
+    fusion_nool: z.object({
       nokkam: z.string(),
       vadivam: z.string(),
       sangilai: z.string(),
     }).optional(),
-    collision_point: z.object({
+    fusion_point: z.object({
       idea_a: z.string().optional(),
       idea_b: z.string().optional(),
       ideas: z.array(z.string()).optional(),
@@ -62,7 +62,7 @@ const sparks = defineCollection({
     temperature: z.enum(['🔥', '🔥🔥', '🔥🔥🔥']),
     tags: z.array(z.string()),
     description: z.string(),
-    collision_link: z.string().optional(),
+    fusion_link: z.string().optional(),
   }),
 });
 
@@ -126,4 +126,16 @@ const digs = defineCollection({
   }),
 });
 
-export const collections = { fusions, knots, sparks, beads, claws, wows, awes, syncs, digs };
+const spars = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    date: z.coerce.date(),
+    description: z.string(),
+    confidence: z.string().optional(),
+    source: z.string().optional(),
+    tags: z.array(z.string()).optional(),
+  }),
+});
+
+export const collections = { fusions, knots, sparks, beads, claws, wows, awes, syncs, digs, spars };

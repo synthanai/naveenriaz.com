@@ -8,6 +8,8 @@ series_number: 12
 slug_name: the-culture-tax
 date: 2026-03-17
 description: "Fortune abandons the leader who distrusts a capable worker mid-task...."
+quote_top: "If your team spends time navigating politics\ninstead of building product, your culture\nis more expensive than your strategy."
+quote_bottom: "The culture tax is the fortune lost\nto workarounds, redundancies,\nand political navigation."
 punch_line_1: "Fortune abandons the leader who distrusts a capable worker mid-task."
 punch_line_2: "The culture tax is the fortune lost to workarounds, redundancies, and political navigation."
 felt_hook: "The political pre-meeting before the actual meeting so nobody is surprised."

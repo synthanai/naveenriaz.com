@@ -5,12 +5,12 @@ categories: ["ai-emergence"]
 tags: ["ai-tools", "dora-metrics", "architecture", "bottleneck-misalignment", "four-signals"]
 description: "Generating code 46% faster just means you hit your deployment bottleneck 46% faster. Why AI demands foundational rigour."
 source_research: "2-research/framework/four-signals/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "To dismantle the false premise that AI tools will fix struggling engineering organizations."
   vadivam: "Contrast (The Tool Installer vs The Foundation Builder)"
   sangilai: "The reader stops procuring AI licenses to solve process problems and audits their architecture instead."
-collision_point:
+fusion_point:
   ideas:
     - "The promise of AI velocity (46% PR throughput gains)"
     - "Bottleneck misalignment (generating code faster than you can review it)"
@@ -135,7 +135,6 @@ Before you invest another dollar in tooling licenses, figure out what that sound
 
 *This collision emerged from a [STEAL on Dr Gene Jones' Four Signals framework](/research/framework/four-signals). The research explores the AI Amplifier principle and how BDD acts as a verification constraint for AI generation. For a deeper exploration of how AI shifts developer value from execution to judgment, read our analysis of the [AI-Era Developer Paradigm](/research/patterns/ai-era-developer-paradigm).*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Generating code 46% faster just means you hit your deployment bottleneck 46% faster. AI does not fix your architecture. It is an amplifier of your existing dysfunction.
 QUESTION: You bought AI coding licenses for the whole team. They're writing code faster. So why hasn't your cycle time improved? 

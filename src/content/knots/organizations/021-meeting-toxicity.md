@@ -8,6 +8,8 @@ series_number: 9
 slug_name: meeting-toxicity
 date: 2026-03-17
 description: "Never speak useless words. To speak them is to speak nothing at all...."
+quote_top: "Meetings multiply because they fill a void.\nThey colonize calendars because the\nnative decision-making habitat has broken down."
+quote_bottom: "A meeting full of useless words\nis a meeting that never happened,\nexcept on the calendar."
 punch_line_1: "Never speak useless words. To speak them is to speak nothing at all."
 punch_line_2: "A meeting full of useless words is a meeting that never happened, except on the calendar."
 felt_hook: "You left with fewer answers than you entered with."

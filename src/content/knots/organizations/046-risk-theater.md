@@ -8,6 +8,8 @@ series_number: 10
 slug_name: risk-theater
 date: 2026-03-17
 description: "The wise foresee outcomes. The unwise cannot know what approaches...."
+quote_top: "Risk registers predict\nthe weather they already know."
+quote_bottom: "Risk theater produces models\nthat are built for presentation,\nnot prediction."
 punch_line_1: "The wise foresee outcomes. The unwise cannot know what approaches."
 punch_line_2: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
 felt_hook: "The risk register managed the risks that were easy to articulate, not the risks that were likely to occur."

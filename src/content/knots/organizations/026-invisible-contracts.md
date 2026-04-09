@@ -8,6 +8,8 @@ series_number: 2
 slug_name: invisible-contracts
 date: 2026-03-17
 description: "I would conceal this pain, but like spring water for those who dig, it only flow..."
+quote_top: "Organizations have contracts nobody signed,\nrules nobody wrote,\nand expectations nobody negotiated."
+quote_bottom: "Invisible contracts\nare the real governance."
 punch_line_1: "I would conceal this pain, but like spring water for those who dig, it only flows more."
 punch_line_2: "Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find."
 felt_hook: "Nobody posted these on a wall. Everyone obeys them."

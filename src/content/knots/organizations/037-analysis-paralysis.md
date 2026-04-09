@@ -8,6 +8,8 @@ series_number: 1
 slug_name: analysis-paralysis
 date: 2026-03-17
 description: "Deliberate before you act. To deliberate after acting is folly...."
+quote_top: "Analysis paralysis is deliberation\nthat never becomes action."
+quote_bottom: "It is actually avoidance\nwearing the uniform of rigour."
 punch_line_1: "Deliberate before you act. To deliberate after acting is folly."
 punch_line_2: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
 felt_hook: "It was also irrelevant by the time it finished."

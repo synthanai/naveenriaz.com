@@ -8,6 +8,8 @@ series_number: 7
 slug_name: dissent-suppression
 date: 2026-03-17
 description: "Speak words that have purpose. Never speak words without purpose...."
+quote_top: "The brightest idea was killed by silence.\nNot by argument. Not by data."
+quote_bottom: "Suppressed ideas do not disappear.\nThey go underground."
 punch_line_1: "Speak words that have purpose. Never speak words without purpose."
 punch_line_2: "Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room."
 felt_hook: "They calculated the cost of speaking up, weighed it against the cost of staying quiet, and chose survival."

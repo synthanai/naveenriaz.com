@@ -8,6 +8,8 @@ series_number: 12
 slug_name: "the-hollow-core"
 date: 2026-03-17
 description: "At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow."
+quote_top: "Competent hollowness\nscales perfectly."
+quote_bottom: "The system rewards expansion,\nso the organization grows outward\nwhile the center empties."
 punch_line_1: "Everything is growing."
 punch_line_2: "Nothing is alive."
 felt_hook: "At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow."

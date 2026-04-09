@@ -7,12 +7,12 @@ categories: ["pattern"]
 tags: ["body", "infrastructure", "flow", "cognition", "mind-body-soul", "physical-state"]
 description: "Your physical state shapes your cognitive output. Position is not ergonomics. It is architecture. The BODY layer comes first."
 source_research: "concepts/position-rotation/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Reframe physical state from ergonomic afterthought to foundational infrastructure: the BODY layer of cognition must be addressed before MIND or SOUL can function"
   vadivam: "Pattern: Position-Place duality as the individual-scale equivalent of Mind-Body-Soul"
   sangilai: "Reader re-evaluates their workspace and physical practices as architecture decisions, not comfort preferences"
-collision_point:
+fusion_point:
   ideas:
     - "Position → cognitive state → contribution quality → collective intelligence (bottom-up chain)"
     - "Perceived Exertion (Body) vs Perceived Effort (Mind): the duality most knowledge workers collapse"
@@ -81,7 +81,6 @@ Did you optimise the hardware it all runs on?
 
 *This collision emerged from a [STEAL on position rotation and cognitive flow research](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/position-rotation/research.md), tracing the neuroscience of physical state modulation from Csikszentmihalyi's flow to Dietrich's transient hypofrontality.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: You tuned your prompts for an hour. Designed your workflow. Configured your agent system. You did all of this sitting in the same chair for four hours. And you wonder why the last two hours were worse. Your physical state is infrastructure, not comfort. Position modulates cognition. Optimise the hardware before optimising the software.
 

@@ -8,6 +8,8 @@ series_number: 2
 slug_name: decision-laundering
 date: 2026-03-17
 description: "All that is desired is achieved if the mind harbors no anger...."
+quote_top: "Laundered decisions are clean on the surface\nand hollow underneath."
+quote_bottom: "It is a group of intelligent people\nperforming consensus for a conclusion\nthat one person had already reached."
 punch_line_1: "All that is desired is achieved if the mind harbors no anger."
 punch_line_2: "Decision laundering exists because the real decision harbors something the group can't openly acknowledge."
 felt_hook: "The meeting wasn't deliberation. It was ratification. A group of intelligent people performing consensus for a conclusion that one person had already reached."

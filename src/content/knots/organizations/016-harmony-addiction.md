@@ -8,6 +8,8 @@ series_number: 4
 slug_name: harmony-addiction
 date: 2026-03-17
 description: "To discern the true nature of anything, whatever it may seem, is wisdom...."
+quote_top: "Harmony that suppresses conflict isn't peace.\nIt is suppression."
+quote_bottom: "When the team suppresses conflict consistently,\nit loses the capacity\nto have productive disagreement."
 punch_line_1: "To discern the true nature of anything, whatever it may seem, is wisdom."
 punch_line_2: "Harmony that suppresses conflict isn't peace. Wisdom sees through the pleasant surface."
 felt_hook: "It's actually suppression. And if you've been in enough of those meetings, you know exactly which it is by the speed of the consensus."

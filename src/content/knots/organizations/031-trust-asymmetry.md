@@ -8,6 +8,8 @@ series_number: 7
 slug_name: trust-asymmetry
 date: 2026-03-17
 description: "Trusting a stranger without discernment brings endless suffering...."
+quote_top: "Trust asymmetry is demanding trust\nyou refuse to give to people you know."
+quote_bottom: "Trusting a stranger without discernment\nbrings endless suffering."
 punch_line_1: "Trusting a stranger without discernment brings endless suffering."
 punch_line_2: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
 felt_hook: "The demand is always: trust us. The action is always: we don't trust you."

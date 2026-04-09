@@ -7,12 +7,12 @@ categories: ["pattern", "ai-emergence"]
 tags: ["web3", "ai", "migration", "self-sovereignty", "values", "decentralisation", "open-source"]
 description: "Self-sovereignty survived from cypherpunks to Bitcoin to DeFi to local AI. Technologies die. Values transfer."
 source_research: "movements/web3-to-ai-migration/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Reveal that technology waves die but their core values persist, transferring across domains"
   vadivam: "Pattern: Technology lifecycle × Value persistence × Developer migration"
   sangilai: "Reader identifies the values they carry vs. the technologies they cling to"
-collision_point:
+fusion_point:
   ideas:
     - "Technology wave lifecycle (crypto winter)"
     - "Value persistence across domains"
@@ -77,7 +77,6 @@ And what would happen if you optimised for that value, instead of the technology
 
 *This collision emerged from a STEAL on the Web3 to AI migration pattern, anchored by the 0xSero career analysis. The research lives in [movements/web3-to-ai-migration](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/movements/web3-to-ai-migration/research.md).*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Self-sovereignty has survived five technology waves: cypherpunks, PGP, Bitcoin, DeFi, local AI. The technology changed every time. The value never changed once. Your career is not a series of pivots. It is one value finding its next vehicle.
 

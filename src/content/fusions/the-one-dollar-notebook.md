@@ -5,12 +5,12 @@ categories: ["spar", "ai-emergence"]
 tags: ["spar-showcase", "education", "ai", "handwriting", "pena", "purpose-amnesia", "methodology"]
 description: "An NYU professor and I both believe in handwriting. We disagree on AI. I put the disagreement through 8 AI personas. What emerged was a third option neither of us proposed."
 source_research: "concepts/ai-classroom-regression/signals.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Demonstrate SPAR methodology on a real, emotionally charged question where both sides share common ground"
   vadivam: "Showcase: methodology-in-action article. The subject is handwriting and AI. The real subject is structured thinking."
   sangilai: "The reader sees how structured multi-persona deliberation finds synthesis where simple debate finds only sides."
-collision_point:
+fusion_point:
   ideas:
     - "Handwriting as cognitive tool (hand to brain to mind to identity)"
     - "SPAR structured deliberation methodology"

@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["mcp", "agent-substrate", "layer-collapse", "integration", "cli", "shell-first", "perplexity"]
 description: "MCP promised universal AI tool integration. Model literacy killed it. The Intelligence Layer just ate the Integration Layer whole."
 source_research: "events/mcp-death-agent-substrate/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the structural reason MCP died: the Intelligence Layer absorbed the Integration Layer, revealing a general emergence pattern (Layer Collapse) that reshapes how we build agent architectures"
   vadivam: "Pattern: Layer Collapse (capability absorbs intermediary)"
   sangilai: "Reader questions whether their own architecture contains a dying integration layer, and recognises the Layer Collapse pattern in their own domain"
-collision_point:
+fusion_point:
   ideas:
     - "Layer Collapse as an emergence pattern (smartphones absorbed cameras, maps, music players)"
     - "MCP's Token Tax: 15-20% context overhead as a margin killer"
@@ -98,7 +98,6 @@ Which layer in your stack is the next MCP?
 
 *This collision emerged from a [STEAL on the MCP Death event at Ask 2026](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/events/mcp-death-agent-substrate/research.md), capturing Denis Yarats' (CTO, Perplexity) public declaration alongside two convergent industry signals from the same day.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: MCP was Anthropic's "USB for AI." Sixteen months later, Perplexity's CTO declared it dead. Not deprecated. Dead. The Intelligence Layer swallowed the Integration Layer, and it is not coming back.
 

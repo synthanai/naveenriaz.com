@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["solo-founder", "one-person-unicorn", "operating-system", "governance", "ai-agents", "startup"]
 description: "Both AI lab CEOs predict a solo billion-dollar founder. The bottleneck isn't models. It's the governance OS the founder needs to orchestrate them."
 source_research: "concepts/one-person-unicorn-ai-founder/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Reveal that the one-person unicorn is not blocked by AI capability but by the governance OS required to orchestrate AI agents at enterprise scale"
   vadivam: "Pattern: technology-democratises-scale, but scale without governance is chaos"
   sangilai: "Reader evaluates whether they have an OS or just a collection of tools, and recognises the governance gap as the real bottleneck"
-collision_point:
+fusion_point:
   ideas:
     - "Both AI lab CEOs (Altman, Amodei) predict the solo billion-dollar founder"
     - "The bottleneck is governance, not capability"
@@ -97,7 +97,6 @@ The question neither CEO has answered: who builds the operating system that make
 
 *This collision emerged from a [STEAL on the One-Person Unicorn thesis](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/one-person-unicorn-ai-founder/research.md), tracking the convergence between AI lab predictions and the governance gap that determines which solo founder actually gets there.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Sam Altman and Dario Amodei both predict a one-person, billion-dollar company. The prediction is credible. The unstated assumption is not. The bottleneck isn't AI capability. It's the governance OS required to make twenty agents function like a company. Who builds that OS?
 

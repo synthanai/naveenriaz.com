@@ -7,12 +7,12 @@ categories: ["living-orgs", "pattern"]
 tags: ["dms", "boundary-management", "governance", "decision-making", "productivity", "living-systems", "soul-layer"]
 description: "18 viral productivity rules map 1:1 to governance theory. The best leaders govern by instinct. What if we made it visible?"
 source_research: "concepts/cto-boundary-operating-systems/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Reveal that viral productivity content independently rediscovers governance theory, validating that governance is a natural principle, not a constructed framework"
   vadivam: "Contrast: productivity hacks vs. governance architecture"
   sangilai: "Reader looks at their own operating rules and sees governance for the first time"
-collision_point:
+fusion_point:
   ideas:
     - "CTO productivity systems (viral social content)"
     - "Decision governance architecture (DMS Octagon)"
@@ -101,7 +101,6 @@ Can you install governance, or does it have to emerge?
 
 *This collision emerged from a [STEAL on @aibytekat's viral CTO thread](https://x.com/aibytekat) (20 March 2026, 1.4M views). The research that grounded it lives in [concepts/cto-boundary-operating-systems](/research/concepts/cto-boundary-operating-systems). For a deeper exploration of governance as organisational health, see the [108 Knots: Organisations](/ebooks/108-knots-organisations) ebook.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: 18 productivity rules. 1.4 million views. "Reject meetings without agendas." "Let non-critical bugs burn." "Plan Monday on Friday." The internet saw a productivity thread. Sort them by function and they map to formal decision governance theory. Your CTO already runs a governance protocol. They just call it Notion.
 

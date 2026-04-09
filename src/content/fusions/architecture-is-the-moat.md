@@ -6,12 +6,12 @@ date: 2026-03-08
 categories: ["ai-emergence", "architecture"]
 tags: ["compound-intelligence", "context-engineering", "moat", "convergence"]
 description: "Three unrelated practitioners, working in different domains, published in the same month, arrived at the same conclusion: your value is the architecture around AI, not the model."
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Surface the convergent signal that architecture, not models, creates lasting AI value"
   vadivam: "Pattern collision: three independent sources (FinTech, PKM, engineering) converging on the same insight"
   sangilai: "Reader stops model-shopping and starts context-building"
-collision_point:
+fusion_point:
   ideas:
     - "One-Person Unicorn: interconnected AI skills (Linas)"
     - "Second Brain Chief of Staff: personal knowledge architecture (Prabhu)"

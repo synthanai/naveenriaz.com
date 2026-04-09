@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["openai", "anthropic", "shell-commands", "agent-architecture", "convergence", "unix"]
 description: "OpenAI and Anthropic independently built the same agent loop: model + shell commands + feedback. When competitors converge, the pattern is fundamental."
 source_research: "concepts/openai-responses-api-agent-loop/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose multi-vendor architectural convergence: OpenAI and Anthropic independently arrived at shell commands as the agent execution primitive, validating Unix principles"
   vadivam: "Evidence: multi-vendor convergence as proof of fundamental truth"
   sangilai: "Reader re-evaluates their own agent architecture and asks whether they are building on the converging pattern or fighting it"
-collision_point:
+fusion_point:
   ideas:
     - "Both AI lab leaders independently chose the same three-node agent loop pattern"
     - "Shell commands replaced typed function calls as the execution primitive"
@@ -81,7 +81,6 @@ If both competitors agree on the primitive, the argument is settled. The questio
 
 *This collision emerged from a [STEAL on the OpenAI Responses API agent loop architecture](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/openai-responses-api-agent-loop/research.md), captured from an official OpenAI diagram showing shell command execution as the agent primitive.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: OpenAI and Anthropic compete on everything. They built the same agent architecture: model + shell commands + feedback loop. OpenAI invented function calling, then moved away from it. Both chose shell commands as the execution primitive. When competitors converge, you are not observing a preference. You are observing a discovery.
 

@@ -8,6 +8,8 @@ series_number: 9
 slug_name: meeting-to-decision-ratio
 date: 2026-03-17
 description: "An enterprise that destroys its capital while seeking gain is the death of initi..."
+quote_top: "Fourteen meetings.\nZero decisions."
+quote_bottom: "Your calendar was full.\nYour output was not."
 punch_line_1: "An enterprise that destroys its capital while seeking gain is the death of initiative."
 punch_line_2: "Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment."
 felt_hook: "You left every meeting with more questions, fewer answers, and a follow-up on the calendar."

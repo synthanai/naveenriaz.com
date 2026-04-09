@@ -7,12 +7,12 @@ categories: ["pattern"]
 tags: ["cognition", "frameworks", "ai-architecture", "codex", "variations"]
 description: "Most cognitive frameworks describe what you do. None describe how you think while doing it. Four cognitive gears change everything."
 source_research: "SPAR Deep Ultra: Variations of Cognition (2026-03-07)"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Show that cognitive frameworks (including AI agent architectures) describe tasks but not thinking postures, and that four variations fill the gap."
   vadivam: "Pattern collision: Cognitive science (de Bono, Schon, Polanyi) x AI agent architecture (verb-based task taxonomies) x Living systems biology (adaptive postures)."
   sangilai: "Reader recognises they have been switching cognitive gears without naming them, identifies their default, and sees the blind spot it creates."
-collision_point:
+fusion_point:
   ideas:
     - "Cognitive science (de Bono's Six Thinking Hats, Kahneman's dual systems, Schon's reflection-on-action)"
     - "AI agent architecture (verb-based task taxonomies, tool-centric design)"

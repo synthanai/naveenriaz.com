@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["leverage", "naval-ravikant", "e-myth", "sub-agents", "governance", "mind-body-soul"]
 description: "You're using AI 3x faster. That's not leverage. It's the technician trap with a better interface."
 source_research: "concepts/ai-sub-agent-leverage/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the structural gap between AI speed and genuine leverage, showing that parallelism without governance is just faster noise"
   vadivam: "Contrast: speed as leverage vs. governed orchestration as leverage"
   sangilai: "Reader re-examines whether their AI workflow is genuine leverage or a faster version of themselves, and asks what governance layer is missing"
-collision_point:
+fusion_point:
   ideas:
     - "Naval Ravikant's leverage taxonomy (labor, capital, code)"
     - "Michael Gerber's E-Myth technician trap"
@@ -98,7 +98,6 @@ What constitution have you written for yours?
 
 *This collision emerged from a [STEAL on George Nurijanian's AI leverage article](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/ai-sub-agent-leverage/research.md) ([@nurijanian](https://x.com/nurijanian), 13 March 2026), grounded against Naval Ravikant's leverage taxonomy and Michael Gerber's* E-Myth Revisited*.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Naval said code is leverage because it's permissionless. He was half right. AI agents are labor leverage without the coordination tax. But parallelism without governance is just noise at scale.
 

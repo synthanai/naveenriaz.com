@@ -7,12 +7,12 @@ categories: ["living-orgs"]
 tags: ["occupational-therapy", "MBS", "convergence", "MOHO", "systems-thinking", "living-systems"]
 description: "Occupational Therapy and SYNTHAI, separated by a century, built the same three-layer architecture. Volition, Habituation, Performance Capacity. Soul, Mind, Body."
 source_research: "concepts/occupational-therapy/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Reveal that a 100-year-old health profession independently built the structural equivalent of SYNTHAI's MBS architecture, validating organisms-as-systems from clinical evidence"
   vadivam: "Pattern: Cross-century convergence (independent traditions arriving at the same layered model of human functioning)"
   sangilai: "Reader sees the MBS model not as an invented framework but as a rediscovery of a structural truth about living systems, grounded in clinical evidence"
-collision_point:
+fusion_point:
   ideas:
     - "MOHO (1980): Volition, Habituation, Performance Capacity as the architecture of human occupation"
     - "SYNTHAI MBS: Soul, Mind, Body as the architecture of living organisations"
@@ -115,7 +115,6 @@ If the architecture of a healthy individual and the architecture of a healthy or
 
 *This collision emerged from a [deep STEAL on Occupational Therapy](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/occupational-therapy/research.md), capturing 100+ years of clinical theory that independently validates the MBS architecture from outside organisational science.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: A health profession founded in 1917 independently built the exact same three-layer architecture that SYNTHAI uses for organisations. Volition = Soul. Habituation = Mind. Performance Capacity = Body. Two frameworks, one century apart, same structural truth. When independent traditions converge on the same answer, the answer is not invented. It is discovered.
 

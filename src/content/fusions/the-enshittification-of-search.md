@@ -7,12 +7,12 @@ categories: ["living-organisations"]
 tags: ["google", "search", "enshittification", "platform-sovereignty", "content-provenance", "soul"]
 description: "Google's AI page substitution patent is the third stage of content intermediation. The platform is absorbing the content it once connected you to."
 source_research: "concepts/google-ai-generated-pages-patent/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Trace Google's content intermediation trajectory (Snippets → AI Overviews → AI Page Replacement) and reveal it as the organisational equivalent of soul extraction"
   vadivam: "Trajectory: three-stage platform capture as living systems decay"
   sangilai: "Reader reconsiders their content distribution dependency on Google and evaluates their owned-channel strategy"
-collision_point:
+fusion_point:
   ideas:
     - "Google's three-stage content capture: snippets (1999), AI Overviews (2024), AI page replacement (2026 patent)"
     - "The soul extraction pattern: platforms absorb the body (content) while discarding the soul (voice, identity, trust)"
@@ -92,7 +92,6 @@ What percentage of your audience would still find you if Google replaced your pa
 
 *This collision emerged from a [STEAL on Google's AI-generated pages patent](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/google-ai-generated-pages-patent/research.md), tracing the three-stage content intermediation trajectory and the soul extraction pattern it reveals.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Google's trajectory: snippets (showed your content), AI Overviews (summarised your content), AI page replacement (replaced your content). Each stage absorbs more of your value. The defence is not better SEO. The defence is soul: content with identity, voice, and a direct audience relationship that doesn't flow through Google.
 

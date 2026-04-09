@@ -7,12 +7,12 @@ categories: ["ai-emergence", "pattern"]
 tags: ["ai-coding", "sparc", "waterfall", "emergence", "methodology", "codex"]
 description: "AI coding frameworks are reinventing the waterfall. 5 linear phases, zero feedback loops. Here is what they are missing."
 source_research: "frameworks/sparc-framework/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the irony that AI coding frameworks are reinventing the waterfall model, the very pattern agile dismantled 25 years ago"
   vadivam: "Contrast: structured phase discipline vs. emergent adaptive intelligence"
   sangilai: "Reader questions whether the AI coding framework they are using imposes linearity on a process that needs to breathe"
-collision_point:
+fusion_point:
   ideas:
     - "Waterfall SDLC (1970s phase-gate engineering)"
     - "AI-assisted development frameworks (SPARC, 2024)"
@@ -90,7 +90,6 @@ If your framework cannot tell you when to go backwards, how do you know you are 
 
 *This collision emerged from a STEAL on [ruvnet/sparc](https://github.com/ruvnet/sparc) (GitHub, March 2026). The research that grounded it lives in [frameworks/sparc-framework/research.md](/research/sparc-framework).*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: AI coding frameworks are reinventing the waterfall. 5 linear phases, zero feedback loops. The geometry of intelligence is circular, not linear. Your framework shapes how you think. Choose carefully.
 

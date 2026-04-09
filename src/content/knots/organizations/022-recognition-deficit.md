@@ -8,6 +8,8 @@ series_number: 10
 slug_name: recognition-deficit
 date: 2026-03-17
 description: "The world honors those who do good with grace...."
+quote_top: "The crisis hero gets the award.\nThe quiet builder gets nothing."
+quote_bottom: "When recognition systems reward visibility\nand forget the root network,\nthe whole forest starts dying."
 punch_line_1: "The world honors those who do good with grace."
 punch_line_2: "The world honors visible grace. Organizations forget the invisible labor that holds them together."
 felt_hook: "The crisis hero gets the award. The quiet builder gets nothing."

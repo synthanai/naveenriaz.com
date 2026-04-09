@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["agentic-convergence", "middle-management", "translation-layer", "integration", "ai-transition"]
 description: "Three independent research signals converge: integration frameworks, product managers, and middle managers are all being squeezed out by the same pattern."
 source_research: "concepts/modern-ai-pm/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Synthesise three independent signals into a single convergence pattern: the middle layer (translation, coordination, information routing) is being eliminated in both software and organisations simultaneously"
   vadivam: "Synthesis: three signals that are the same event at different altitudes"
   sangilai: "Reader recognises the squeeze operating in their own context and asks which middle-layer functions they rely on that are about to be eliminated"
-collision_point:
+fusion_point:
   ideas:
     - "Integration frameworks squeezed out of software (MCP death, Layer Collapse)"
     - "Product managers squeezed out of organisations (Translation Layer death)"
@@ -79,7 +79,6 @@ The squeeze will continue to rise. What is the next altitude?
 
 *This collision emerged from a synthesis of three separate STEALs: [MCP death and the Agent Substrate](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/events/mcp-death-agent-substrate/research.md), [the Modern AI PM](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/modern-ai-pm/research.md), and related middleware displacement research, each independently pointing to the same middle-layer squeeze.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Three separate research signals, from unrelated sources, converged: integration frameworks, product managers, and middle managers are all being eliminated by the same pattern. The middle layer is dying. Not just in software. In organisations. Simultaneously. The function being squeezed: translation, coordination, information routing. The function that survives: curation, judgment, governance.
 

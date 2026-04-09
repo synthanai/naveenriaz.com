@@ -5,12 +5,12 @@ categories: ["ai-emergence"]
 tags: ["infrastructure", "ai-agents", "architecture", "purpose"]
 description: "Every AI agent using Chrome headless is spinning up image decoders and GPU compositors for something that never renders a pixel. The cost is invisible."
 source_research: "frameworks/lightpanda/signals.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the invisible performance tax of using human-optimised tools for machine workloads"
   vadivam: "Pattern: purpose-misalignment as compound cost"
   sangilai: "Reader questions whether their own tools were designed for them or borrowed from a different user"
-collision_point:
+fusion_point:
   ideas:
     - "Browser architecture (human-centric rendering)"
     - "AI agent infrastructure (machine-centric execution)"

@@ -7,12 +7,12 @@ categories: ["ai-emergence", "pattern"]
 tags: ["ai-consulting", "tool-stacking", "judgment", "mind-body-soul", "value-shift", "commoditization"]
 description: "The most-shared AI skills list has zero evidence. It reveals the real gap: tool installers vs. diagnostic physicians."
 source_research: "concepts/ai-skills-wealth-gap-2026/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the gap between AI consulting as tool installation and AI consulting as organisational diagnosis"
   vadivam: "Contrast: tool installer vs. diagnostic physician"
   sangilai: "Reader questions whether the AI consultant they hired (or plan to become) is installing tools or diagnosing health"
-collision_point:
+fusion_point:
   ideas:
     - "Medical diagnosis vs. pharmaceutical sales"
     - "AI skill monetization as a commodity"
@@ -87,7 +87,6 @@ And if you cannot answer that, are you building a practice, or a countdown?
 
 *This collision emerged from a [STEAL on @aiedge_'s viral AI skills article](https://x.com/aiedge_/status/2031735799994265818) (12 March 2026, 1.7M views). The research that grounded it lives in [concepts/ai-skills-wealth-gap-2026](/research/concepts/ai-skills-wealth-gap-2026). For a deeper exploration of the value shift from execution to judgment, see the [ADAPT Your Career](/ebooks/adapt-your-career) micro-guide.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: 1.7 million people shared a list of 7 AI skills for wealth. Zero citations. Zero evidence. The real skill gap it reveals: tool installers vs. diagnostic physicians. One commoditises in 18 months. The other compounds for years.
 

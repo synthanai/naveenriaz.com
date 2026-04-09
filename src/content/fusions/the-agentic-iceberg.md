@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["agentic-ai", "infrastructure", "production", "engineering", "platform"]
 description: "Every impressive agent demo is sitting on top of invisible platform work that took longer to build than the agent itself. Here's what's under the waterline."
 source_research: "2-research/concept/agentic-infrastructure/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose that agent demos always ship cleanly; it is the invisible backend platform that determines whether they ever reach production"
   vadivam: "Contrast: the visible agent interface (20%) colliding with the invisible engineering platform required to sustain it (80%)"
   sangilai: "Reader recognises their stalled agent project in this story, names what is actually missing, and asks a harder question about what they are really building"
-collision_point:
+fusion_point:
   ideas:
     - "The visible AI agent (the interface)"
     - "The invisible engineering platform (data, state, retry, cost, observability)"
@@ -94,7 +94,6 @@ When your agent fails in production, which layer fails? And more importantly: di
 
 *This collision draws from [research on Agentic Infrastructure](../../2-research/concept/agentic-infrastructure/research.md) (Maheshwari, 2026) and connects directly to the broader argument in [The Leverage Lie](/collisions/the-leverage-lie): speed without governance isn't leverage, it's faster noise.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Your agent demo took a weekend. The infrastructure to make it reliable took a quarter. That ratio is not a bug. It's the industry's dirty secret. And if you haven't built the five invisible layers yet, you don't have a production agent. You have an expensive POC.
 

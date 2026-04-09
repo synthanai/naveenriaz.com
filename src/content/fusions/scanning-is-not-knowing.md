@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["context-engineering", "memory", "knowledge-management", "context-window", "context-amnesia"]
 description: "A million-token context window is not memory. It's a bigger scanner. Memory requires structure, and your AI has none."
 source_research: "concepts/nyk-claude-obsidian-memory-stack/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the category error in the AI industry: optimising context window size (scanning) when the real problem is memory structure (knowing)"
   vadivam: "Contrast: context window size vs. memory system depth"
   sangilai: "Reader re-examines their AI setup and recognises the difference between scanning capacity and structured knowledge, then asks what memory layer is missing"
-collision_point:
+fusion_point:
   ideas:
     - "Working memory limits (Cowan's 4-chunk cognitive constraint) applied to AI context"
     - "The 3-layer memory architecture (Session, Knowledge Graph, Ingestion Pipeline)"
@@ -102,7 +102,6 @@ How much of what your AI learned last month can it access right now, without you
 
 *This collision emerged from a [STEAL on a practitioner's AI memory stack architecture](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/nyk-claude-obsidian-memory-stack/research.md), which reached 212K views by naming the pain point every AI user recognises: context amnesia.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Your AI has a million-token context window. It still has no idea what it learned yesterday. Context window size is scanning capacity. It is not memory. Memory requires structure: session context, a persistent knowledge graph, and an ingestion pipeline. Most deployments have one of three layers. That's why output plateaus instead of compounding.
 

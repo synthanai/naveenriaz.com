@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["agent-configuration", "agents-md", "governance", "maturity-model", "context-engineering", "operating-system"]
 description: "AGENTS.md standardises instructions for AI agents. It solves Stage 1. The real gap is governance, reasoning, and culture."
 source_research: "concepts/agents-md-configuration-standard/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Reveal the maturity gap between industry-standard agent configuration (instructions) and what an agent operating system actually requires (governance, reasoning, culture)"
   vadivam: "Pattern: 4-stage maturity model (README → Guidelines → Governance → Culture)"
   sangilai: "Reader evaluates their own agent configuration maturity and recognises the gap between telling agents what to do and governing how they think"
-collision_point:
+fusion_point:
   ideas:
     - "The 4-stage maturity model for agent configuration (README → Guidelines → Governance → Culture)"
     - "The operating system analogy: config file vs. OS"
@@ -105,7 +105,6 @@ Who writes the constitution for the agents in your codebase, and what happens wh
 
 *This collision emerged from a [STEAL on the AGENTS.md specification](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/agents-md-configuration-standard/research.md), tracking the sixth independent convergence between industry standards and an existing complete architecture.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: AGENTS.md is a README for AI agents. Five major tools adopted it in months. It solves Stage 1 of a four-stage maturity model. Stages 2, 3, and 4 (workflows, governance, culture) are still wide open. The gap between a config file and an operating system is the next three years of agent infrastructure.
 

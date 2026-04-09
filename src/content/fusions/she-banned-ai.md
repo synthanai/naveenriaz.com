@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["education", "ai-ban", "purpose-amnesia", "mind-body-soul", "assessment", "prohibition"]
 description: "A professor banned AI and bought notebooks. She solved a Soul problem with a Body fix. The pattern is fifty years old."
 source_research: "concepts/ai-classroom-regression/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the structural misdiagnosis in the 'ban AI from classrooms' movement: it treats a Soul problem (purpose amnesia) with a Body fix (medium change)"
   vadivam: "Contrast: prohibition vs empowerment, Body intervention vs Soul intervention"
   sangilai: "Reader questions whether their own response to AI disruption is a Body fix for a Soul problem, and re-examines what trust actually means"
-collision_point:
+fusion_point:
   ideas:
     - "The 50-year technology prohibition cycle (calculators → internet → Wikipedia → AI)"
     - "MBS diagnostic: Body fix (medium change) applied to a Soul problem (purpose amnesia)"
@@ -94,7 +94,6 @@ What problem in your organisation are you solving with a Body fix, when the dise
 
 *This collision emerged from a [STEAL on Roya Shahidi's Business Insider article](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/ai-classroom-regression/research.md) (9 March 2026) documenting Professor Ayşe Baltacıoğlu-Brammer's classroom notebook retreat at NYU.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: An NYU professor banned AI and bought $1 notebooks. She solved a symptom. The disease is fifty years old. Every technology wave produces the same response: ban the tool, protect the status quo, lose the students who needed it most.
 

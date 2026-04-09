@@ -8,6 +8,8 @@ series_number: 8
 slug_name: decision-fragmentation
 date: 2026-03-17
 description: "Those who know the weight of words speak only after understanding the full assem..."
+quote_top: "Three teams decide separately\nbecause none sees the whole."
+quote_bottom: "Each decision was rational in isolation.\nTogether, they created three incompatible systems."
 punch_line_1: "Those who know the weight of words speak only after understanding the full assembly."
 punch_line_2: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."
 felt_hook: "Each decision was rational in isolation. Together, they created three incompatible systems, three duplicated budgets, and three teams who discovered each other at the integration meeting."

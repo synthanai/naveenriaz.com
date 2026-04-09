@@ -5,12 +5,12 @@ categories: ["ai-emergence"]
 tags: ["spar", "multi-agent", "adversarial-deliberation", "convergent-evolution", "architecture"]
 description: "A Solana builder and a living systems theorist, separated by domain and continent, both arrived at the same architecture: force AI agents to disagree before they agree. When two independent systems converge, the pattern is not accidental."
 source_research: "methodologies/council-of-high-intelligence/signals.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Convergent evolution in multi-agent AI deliberation validates the structural necessity of adversarial reasoning"
   vadivam: "Pattern: independent convergence as evidence of architectural necessity"
   sangilai: "Reader questions whether their own AI systems suffer from perspective monoculture, and whether structured disagreement is a feature they are missing"
-collision_point:
+fusion_point:
   ideas:
     - "Council of High Intelligence (11 Claude Code subagents as historical thinkers)"
     - "SPAR protocol (structured persona-argumentation for reasoning)"

@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["product-management", "prd", "translation-layer", "context-engineering", "role-convergence"]
 description: "The PRD existed to translate between customers and engineers. LLMs close that gap natively. The translation layer is dead."
 source_research: "concepts/modern-ai-pm/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the structural death of the PM translation layer: LLMs close the linguistic gap that created the role, collapsing Product and Engineering into a single discipline"
   vadivam: "Pattern: middle management squeeze (the agent replaces the translator)"
   sangilai: "Reader recognises their own translation work and asks whether they are a curator or a translator, and which one survives"
-collision_point:
+fusion_point:
   ideas:
     - "The translation layer death (PM existed to translate customer → engineering)"
     - "The middle management squeeze (agents replacing coordinators across both software and orgs)"
@@ -91,7 +91,6 @@ Are you translating, or are you curating, and do you know the difference?
 
 *This collision emerged from a [STEAL on the Modern AI PM thesis](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/modern-ai-pm/research.md), tracking the convergence between the product and engineering roles as the linguistic gap collapses.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: The PRD existed because customers and engineers spoke different languages. LLMs speak both natively. The translation layer is dead. PMs who write specifications are being automated. PMs who curate agent output and define quality constraints are the surviving form. The role is not dying. It is evolving from translator to judge.
 

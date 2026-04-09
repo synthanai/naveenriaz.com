@@ -8,6 +8,8 @@ series_number: 3
 slug_name: delegation-without-trust
 date: 2026-03-17
 description: "One who knows the right ground prospers long. One who doesn't finds ruin...."
+quote_top: "Delegation without trust is assigning\nthe ground without granting\nthe authority to stand on it."
+quote_bottom: "It is not delegation.\nIt is outsourced labor\nwith managerial surveillance."
 punch_line_1: "One who knows the right ground prospers long. One who doesn't finds ruin."
 punch_line_2: "Delegation without trust is assigning the ground without granting authority to stand on it."
 felt_hook: "Delegation without trust isn't delegation. It's outsourced labor with managerial surveillance."

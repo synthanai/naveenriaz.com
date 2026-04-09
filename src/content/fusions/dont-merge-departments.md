@@ -7,12 +7,12 @@ categories: ["living-orgs", "ai-emergence"]
 tags: ["mixture-of-experts", "org-design", "restructuring", "mergers", "reap", "routing", "mind-body-soul"]
 description: "Merging two experts creates an irreducible routing error. The same principle explains why most department mergers fail."
 source_research: "concepts/organization-as-moe/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose why department mergers fail using a formal proof from AI model compression"
   vadivam: "Pattern: Neural network architecture × Organisational design theory"
   sangilai: "Reader rethinks the next merger, restructure, or 'team consolidation' on their calendar"
-collision_point:
+fusion_point:
   ideas:
     - "Mixture-of-Experts neural network architecture"
     - "Organisational restructuring and department mergers"
@@ -79,7 +79,6 @@ And if you cannot map it, should you be merging at all?
 
 *This collision emerged from a STEAL on 0xSero's REAP MoE compression research (arXiv:2510.13999). The concept that grounded it lives in [Organization as Mixture-of-Experts](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/organization-as-moe/research.md).*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: AI researchers just proved that merging specialists always destroys precision. The error is irreducible. The same maths applies to every department merger on your calendar.
 

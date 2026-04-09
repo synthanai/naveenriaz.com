@@ -7,12 +7,12 @@ categories: ["ai-emergence", "living-orgs"]
 tags: ["ai-adoption", "identity", "organisational-soul", "mind-body-soul", "emergence", "living-systems"]
 description: "AI adoption isn't a skills gap. It's an identity crisis. When your tools change faster than your sense of self, something deeper breaks."
 source_research: "persons/rangaprabhu-parthasarathy/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Name the unspoken identity crisis beneath AI adoption anxiety, and reframe it as an organisational Soul challenge"
   vadivam: "Contrast: skills-gap framing vs. identity-renegotiation framing"
   sangilai: "Reader recognises the disorientation they feel, stops blaming themselves, and starts questioning whether their organisation nurtures the conditions for identity transition"
-collision_point:
+fusion_point:
   ideas:
     - "AI adoption as identity renegotiation (Rangaprabhu Parthasarathy, Meta)"
     - "Organisational Soul in living systems (SYNTHAI MBS framework)"
@@ -84,7 +84,6 @@ The real one is: what happens to people's sense of self when the skills they bui
 
 *This collision emerged from a deep STEAL on [Rangaprabhu Parthasarathy's platform](https://www.rangaprabhu.com) (March 2026). The research that grounded it lives in [persons/rangaprabhu-parthasarathy](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/persons/rangaprabhu-parthasarathy/research.md).*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: AI adoption isn't a skills gap. It's an identity crisis. When the skills you built your career on become commoditised overnight, the question isn't "how do I keep up?" It's "who am I now?"
 

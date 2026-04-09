@@ -4,7 +4,7 @@ import Page from '../../layouts/Page.astro';
 
 const allFusions = await getCollection('fusions');
 const sorted = allFusions
-  .filter((c) => c.data.collision_type !== 'internal')
+  .filter((c) => c.data.fusion_type !== 'internal')
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 
 const categoryColors: Record<string, [string, string]> = {

@@ -8,6 +8,8 @@ series_number: 6
 slug_name: siloed-synergy
 date: 2026-03-17
 description: "A leader without bold critics will ruin himself, even without enemies...."
+quote_top: "Silos do not form from bad intent.\nThey form from structural boundaries."
+quote_bottom: "Collaboration is not a word on a slide.\nIt is a behavior that costs time and ego."
 punch_line_1: "A leader without bold critics will ruin himself, even without enemies."
 punch_line_2: "Silos form not from malice but from the absence of friction between groups."
 felt_hook: "Most organizations reward the word. Almost none reward the cost."

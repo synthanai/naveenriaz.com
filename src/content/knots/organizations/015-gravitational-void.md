@@ -8,6 +8,8 @@ series_number: 3
 slug_name: gravitational-void
 date: 2026-03-17
 description: "The touchstone of greatness is one's deeds...."
+quote_top: "Without a gravitational center,\nhighly capable teams drift\nwith no shared orbit."
+quote_bottom: "There is motion,\nbut no alignment."
 punch_line_1: "The touchstone of greatness is one's deeds."
 punch_line_2: "Without a gravitational center, deeds scatter. Greatness requires pull."
 felt_hook: "You've felt this. You finish a productive week and still feel empty."

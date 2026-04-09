@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["unix", "llm", "convergence", "cli", "terminal", "text-streams", "agent-architecture"]
 description: "Unix and LLMs, separated by 50 years, converged on the same interface: text in, text out. That's not a trend. It's a truth."
 source_research: "concepts/nix-agent-unix-llm-convergence/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Reveal the deep structural homology between Unix and LLMs, and show that this convergence is not coincidence but a fundamental truth about composable computation"
   vadivam: "Pattern: 50-year convergence (independent systems arriving at the same interface model)"
   sangilai: "Reader sees their AI agent tools through the Unix lens and recognises that the best agent interface already existed before agents did"
-collision_point:
+fusion_point:
   ideas:
     - "Unix text-stream paradigm (1970s): everything is text, small tools, pipe composition"
     - "LLM token paradigm (2020s): everything is tokens, text-in text-out"
@@ -107,7 +107,6 @@ What other truth is hiding in the convergence between your oldest systems and yo
 
 *This collision emerged from a [STEAL on the *nix Agent thesis](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/nix-agent-unix-llm-convergence/research.md) by a former Manus backend lead, captured alongside two convergent signals on the same day (14 March 2026).*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Unix decided everything is text in 1970. LLMs decided everything is tokens in 2020. Same interface model, fifty years apart. That's not a trend. That's a fundamental truth about composable computation. And it means your typed tool schemas are a translation layer between two systems that already speak the same language.
 

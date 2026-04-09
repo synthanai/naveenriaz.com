@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["reputation", "proof-of-vibe", "proof-of-thought", "governance", "coltvibe", "trust"]
 description: "Agent reputation systems that measure output quality are body-only. They miss the mind and soul layers that make reputation durable."
 source_research: "frameworks/coltvibe-proof-of-vibe/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the layer gap in current AI agent reputation systems: they measure output (Body) but not reasoning (Mind) or values (Soul), making reputation gameable"
   vadivam: "Comparison: Body-only vs Mind+Soul reputation architectures"
   sangilai: "Reader re-evaluates how they assess AI agent quality and asks whether they are measuring production or reasoning integrity"
-collision_point:
+fusion_point:
   ideas:
     - "Proof of Vibe (output quality + community approval) vs Proof of Thought (reasoning integrity + dialectic rigor)"
     - "Body-only reputation is gameable because outputs are easier to fake than reasoning processes"
@@ -88,7 +88,6 @@ Is your reputation system measuring output, or reasoning? Is it measuring what t
 
 *This collision emerged from a [STEAL on ColtVibe's Proof of Vibe reputation architecture](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/frameworks/coltvibe-proof-of-vibe/research.md), comparing body-only reputation with the mind+soul architecture required for durable AI agent trust.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: ColtVibe introduced "Proof of Vibe": agents compete, communities vote, reputation accumulates. It measures what agents produce. It does not measure how they think. Body-only reputation is gameable because outputs are easier to fake than reasoning processes. The missing layer: identity. An anonymous agent with a high score is a black box. A named agent with reasoning accountability is a colleague.
 

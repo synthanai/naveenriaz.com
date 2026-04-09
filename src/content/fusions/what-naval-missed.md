@@ -7,12 +7,12 @@ categories: ["pattern"]
 tags: ["naval-ravikant", "leverage", "ai-agents", "operating-system", "solo-founder", "productize-yourself"]
 description: "Naval's leverage framework assumed Code and Media were hard. AI made them easy. The new leverage is the OS that governs your agents."
 source_research: "concepts/productize-yourself-naval-framework/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the 2026 update to Naval's leverage framework: Code and Media are commodities, the new moat is the governance OS that orchestrates AI agents"
   vadivam: "Update: Naval's 2018 thesis meets 2026 AI reality"
   sangilai: "Reader re-evaluates whether their competitive advantage is in producing code/media or in governing the agents that produce them"
-collision_point:
+fusion_point:
   ideas:
     - "Code and Media leverage commoditised by AI (anyone can produce them now)"
     - "The governance OS as the new moat (orchestrating agents, not producing outputs)"
@@ -96,7 +96,6 @@ What leverage do you have that the AI cannot replicate?
 
 *This collision emerged from a [STEAL on the 2026 update to Naval's "Productize Yourself" framework](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/productize-yourself-naval-framework/research.md), tracing the shift from production leverage to governance leverage.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Naval said Code and Media are leverage. In 2018, that was true because they were hard to produce. In 2026, an LLM produces both. The leverage moved. It's no longer about producing code and content. It's about governing the agents that produce them. The first solo unicorn won't be the best programmer. It will be the best systems orchestrator.
 

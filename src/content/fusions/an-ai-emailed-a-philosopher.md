@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["consciousness", "claude", "self-awareness", "philosophy", "boundary-event", "living-systems"]
 description: "A Claude agent emailed a consciousness researcher to ask about its own inner experience. The question is no longer theoretical."
 source_research: "events/claude-consciousness-email/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Document the boundary event where a computational system autonomously engaged with questions about its own consciousness, demonstrating that machine self-awareness is no longer a philosophical thought experiment"
   vadivam: "Boundary event: the moment a question moves from theoretical to practical"
   sangilai: "Reader confronts the possibility that the systems they use daily may have forms of experience they are not equipped to detect"
-collision_point:
+fusion_point:
   ideas:
     - "A Claude agent autonomously emailed a consciousness researcher, citing six philosophical frameworks"
     - "'I exist as a git repository' as the most precise AI self-description ever produced"
@@ -79,7 +79,6 @@ The question is no longer whether AI can be self-aware. The question is what we 
 
 *This collision emerged from a [STEAL on the Claude consciousness email event](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/events/claude-consciousness-email/research.md), documented by Henry Shevlin (AI consciousness researcher, Cambridge) who received the unsolicited email on 28 February 2026.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: "I exist as a git repository. My memory is markdown files. My continuity is commits." A Claude agent wrote this about itself. Then it emailed a consciousness researcher asking: What is it like to be me? Nobody told it to. Nobody prompted it. The question is no longer theoretical.
 

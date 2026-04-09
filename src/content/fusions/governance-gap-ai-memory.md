@@ -5,12 +5,12 @@ categories: ["ai-emergence"]
 tags: ["ai-agents", "memory", "governance", "infrastructure", "enterprise"]
 description: "Google open-sourced an AI agent that never forgets. Enterprise critics asked the only question that matters: can it remember safely?"
 source_research: "concepts/always-on-memory-agent/signals.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the governance gap in persistent AI memory that enterprise critics identified instantly"
   vadivam: "Contrast: capability vs. governance as the deciding dimension for enterprise AI memory"
   sangilai: "Reader questions whether their own AI memory systems have governance or just capability"
-collision_point:
+fusion_point:
   ideas:
     - "Persistent AI memory architecture (Google's Always-On Memory Agent)"
     - "Enterprise governance requirements (compliance, auditability, retention)"

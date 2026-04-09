@@ -6,12 +6,12 @@ date: 2026-03-07
 categories: ["ai-emergence", "mbs"]
 tags: ["ai-fatigue", "decision-fatigue", "judgement-fatigue", "paradox", "mind-body-soul"]
 description: "Everyone's talking about AI fatigue. But what are we actually tired of? It's not one thing. It's three. And they feed each other in a paradox."
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Decompose 'AI fatigue' into its three constituent fatigues and reveal the self-reinforcing spiral"
   vadivam: "Pattern collision: MBS (Mind-Body-Soul) framework applied to the AI fatigue discourse"
   sangilai: "Reader stops saying 'I'm tired of AI' and starts identifying WHICH fatigue they're experiencing"
-collision_point:
+fusion_point:
   ideas:
     - "AI Fatigue as Body-layer infrastructure overload"
     - "Decision Fatigue as Mind-layer option paralysis"

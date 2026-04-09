@@ -8,6 +8,8 @@ series_number: 11
 slug_name: belonging-fracture
 date: 2026-03-17
 description: "The loveless live only for themselves. The loving give even their bones for othe..."
+quote_top: "People do not quit from belonging fracture.\nThey disengage.\nThey stop offering ideas."
+quote_bottom: "Belonging is not teamwork.\nIt is an irreplaceability\nfelt by both sides."
 punch_line_1: "The loveless live only for themselves. The loving give even their bones for others."
 punch_line_2: "Belonging is the organizational form of love. Without it, everyone is just working for themselves."
 felt_hook: "Belonging isn't teamwork. It's something the org chart can't draw and the survey can't capture."

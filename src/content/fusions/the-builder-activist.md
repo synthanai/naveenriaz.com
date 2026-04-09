@@ -7,12 +7,12 @@ categories: ["ai-emergence", "pattern"]
 tags: ["open-source", "local-ai", "builder-activist", "0xsero", "leadership", "credentials", "web3"]
 description: "A pseudonymous developer with 196 repos just 11x'd Apple's AI benchmark. The 'Builder-Activist' is a new archetype."
 source_research: "persons/leaders/0xsero/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Name the emerging 'Builder-Activist' leadership archetype that leads through artifacts, not authority"
   vadivam: "Pattern: Credential-based authority × Artifact-based legitimacy"
   sangilai: "Reader questions whether their own credibility comes from titles or from shipped work"
-collision_point:
+fusion_point:
   ideas:
     - "Credential-based authority in institutions"
     - "Artifact-based legitimacy in open source"
@@ -76,7 +76,6 @@ And when the two disagree, which one will you believe?
 
 *This collision emerged from a multi-level STEAL on 0xSero (GitHub: [0xSero](https://github.com/0xSero), X: [@0xSero](https://x.com/0xSero)). The research that grounded it lives in [persons/leaders/0xsero](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/persons/leaders/0xsero/research.md).*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: A pseudonymous developer with no PhD, no lab, and no funding just 11x'd Apple's published AI benchmark on a MacBook. 196 repos. 27,300 followers. Zero credentials. The "Builder-Activist" is a new archetype, and your org chart has no box for it.
 

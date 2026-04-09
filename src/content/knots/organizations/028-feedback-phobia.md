@@ -8,6 +8,8 @@ series_number: 4
 slug_name: feedback-phobia
 date: 2026-03-17
 description: "One who speaks useless words that annoy many will be despised by all...."
+quote_top: "If feedback comes with authority,\npeople stop giving honest feedback\nand start giving safe feedback."
+quote_bottom: "Feedback phobia flips the rule:\nthe person who speaks useful truths\nis punished by the system."
 punch_line_1: "One who speaks useless words that annoy many will be despised by all."
 punch_line_2: "Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system."
 felt_hook: "Do you remember? Your team does."

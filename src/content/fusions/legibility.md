@@ -7,12 +7,12 @@ categories: ["living-organisations"]
 tags: ["legibility", "transparency", "ai-readable", "modular-os", "organisational-design", "radhash"]
 description: "Structural legibility (making systems readable by AI) is solved for code. It is unsolved for organisations. That is the next frontier."
 source_research: "frameworks/radhash-modular-os/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Bridge the concept of structural legibility from software architecture to organisational design: if AI agents need readable code, they also need readable organisations"
   vadivam: "Transfer: software legibility pattern applied to organisational structures"
   sangilai: "Reader asks whether their organisation's structure is readable by AI and realises that making it legible is a precondition for AI-native operations"
-collision_point:
+fusion_point:
   ideas:
     - "Structural legibility: systems must be architecturally readable by AI for safe collaboration"
     - "The cross-domain pattern: James C. Scott (political legibility), RadHash (software legibility), SYNTHAI (organisational legibility)"
@@ -87,7 +87,6 @@ What would it take to make the gap disappear?
 
 *This collision emerged from a [STEAL on RadHash's modular OS framework](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/frameworks/radhash-modular-os/research.md), bridging software structural legibility to the unsolved challenge of organisational legibility for AI-native operations.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Your codebase is legible. An AI agent can navigate it, modify it, and deploy from it. Your organisation is not. The AI reads your wiki. It cannot read your org. The gap between documentation and reality is where every AI integration fails. Organisational legibility is the unsolved frontier.
 

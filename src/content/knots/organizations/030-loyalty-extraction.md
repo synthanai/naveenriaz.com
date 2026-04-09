@@ -8,6 +8,8 @@ series_number: 6
 slug_name: loyalty-extraction
 date: 2026-03-17
 description: "The land of a ruler who does not seek and administer justice daily will perish d..."
+quote_top: "Loyalty is not a tax\nyou collect from employees.\nIt is an exchange."
+quote_bottom: "When the investment becomes one-directional,\nloyalty stops being a relationship\nand becomes a demand."
 punch_line_1: "The land of a ruler who does not seek and administer justice daily will perish daily."
 punch_line_2: "Loyalty demanded without justice given is extraction. And extraction leads to daily perishing."
 felt_hook: "Loyalty isn't a tax you collect from employees. It's an exchange: you invest in them, they invest in you. When the investment becomes one-directional, the word \"loyalty\" stops being a relationship and becomes a demand."

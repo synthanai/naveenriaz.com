@@ -8,6 +8,8 @@ series_number: 11
 slug_name: the-scapegoat-pattern
 date: 2026-03-17
 description: "Deliberate before you decide. To deliberate after deciding is disgrace...."
+quote_top: "The scapegoat is selected for their position,\nnot their culpability."
+quote_bottom: "Scapegoating is the ultimate disgrace:\nblaming after the fact\ninstead of deliberating before."
 punch_line_1: "Deliberate before you decide. To deliberate after deciding is disgrace."
 punch_line_2: "Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before."
 felt_hook: "It's not random. The scapegoat is selected for their position, not their culpability. They're visible enough to absorb blame but not powerful enough to deflect it."

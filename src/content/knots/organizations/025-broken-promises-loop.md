@@ -8,6 +8,8 @@ series_number: 1
 slug_name: broken-promises-loop
 date: 2026-03-17
 description: "Guard yourself from anger. Unguarded, anger will destroy you...."
+quote_top: "No single broken promise is devastating.\nBut each one adds a micro-crack."
+quote_bottom: "Organizations, like bridges,\ndo not show fatigue\nuntil they fracture."
 punch_line_1: "Guard yourself from anger. Unguarded, anger will destroy you."
 punch_line_2: "A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it."
 felt_hook: "Your team remembers every unkept commitment. Every single one."

@@ -7,12 +7,12 @@ categories: ["pattern"]
 tags: ["spar", "mechanism-design", "game-theory", "groupthink", "adversarial-review", "governance"]
 description: "Every domain fights premature convergence. Game theory, finance, cybernetics. SPAR is the universal mechanism design."
 source_research: "concepts/spar-cross-domain-application/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Reframe SPAR from an AI multi-agent tool to a universal mechanism design that solves premature convergence across game theory, finance, and systems dynamics"
   vadivam: "Cross-domain mapping: SPAR as the same mechanism under different names (Nash equilibrium, Requisite Variety, Peer Review)"
   sangilai: "Reader re-evaluates their own decision systems and asks whether they have a mechanism for preventing premature convergence"
-collision_point:
+fusion_point:
   ideas:
     - "Every domain names premature convergence differently (Groupthink, Sycophancy, Minsky Moments, Local Minima)"
     - "SPAR as mechanism design: structured adversarial friction that prevents premature consensus"
@@ -96,7 +96,6 @@ The question is not whether your decisions need it. The question is whether you 
 
 *This collision emerged from a [STEAL on SPAR's cross-domain application patterns](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/spar-cross-domain-application/research.md), mapping SPAR to game theory mechanism design, cybernetics requisite variety, and economic stress testing.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Every domain has a name for premature convergence: Groupthink (orgs), Sycophancy (AI), Minsky Moments (finance), Local Minima (maths). Every domain independently invented the same fix: structured adversarial friction. SPAR formalises the universal mechanism. It is not an AI feature. It is a governance primitive.
 

@@ -8,6 +8,8 @@ series_number: 9
 slug_name: surveillance-culture
 date: 2026-03-17
 description: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes...."
+quote_top: "The monitoring saw every keystroke.\nIt did not see the talent leaving."
+quote_bottom: "Surveillance sees everything except\nwhat it destroys."
 punch_line_1: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
 punch_line_2: "Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks."
 felt_hook: "The monitoring saw every keystroke. It didn't see the talent leaving."

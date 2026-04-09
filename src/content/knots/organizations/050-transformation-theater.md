@@ -8,6 +8,8 @@ series_number: 2
 slug_name: transformation-theater
 date: 2026-03-17
 description: "One who acts without understanding the means will find themselves as lost as one..."
+quote_top: "The transformation exists on PowerPoint.\nIt does not exist in practice."
+quote_bottom: "Transformation theater produces\nunderstanding without means\nand activity without change."
 punch_line_1: "One who acts without understanding the means will find themselves as lost as one who understands but never acts."
 punch_line_2: "Transformation theater produces understanding without means and activity without change."
 felt_hook: "The transformation exists on PowerPoint. It doesn't exist in practice."

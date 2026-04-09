@@ -7,12 +7,12 @@ categories: ["living-organisations"]
 tags: ["culture", "frequency", "organisational-design", "shadow-work", "living-systems", "resonance"]
 description: "Culture is not a poster on the wall. It is a frequency. And your organisation vibrates at the level of its worst unaddressed pattern."
 source_research: "concepts/dream-dimension-navigation/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Reframe culture from a noun (something you have) to a frequency (something you resonate at), exposing why values statements fail and what actually shifts culture"
   vadivam: "Structural homology: consciousness navigation vocabulary applied to organisational dynamics"
   sangilai: "Reader stops asking 'what is our culture?' and starts asking 'what frequency are we vibrating at, and what is lowering it?'"
-collision_point:
+fusion_point:
   ideas:
     - "Frequency-as-coordinates: you do not choose where you go, you BECOME where you go"
     - "The Feeder taxonomy: organisational actors who drain collective energy mapped as a system pattern, not a personality problem"
@@ -85,7 +85,6 @@ Are they the same? And if not, what pattern is lowering the frequency that nobod
 
 *This collision emerged from a [STEAL on dream dimension navigation and consciousness frequency models](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/dream-dimension-navigation/research.md), translating metaphysical frequency vocabulary into organisational diagnostic tools through structural homology.*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: Culture is not a values poster. It is a frequency. Your organisation vibrates at the level of its worst unaddressed pattern. Not the worst person. The worst pattern. Because patterns are contextual, not intrinsic. Fix the system, the pattern dissolves. Leave it unaddressed, every meeting lowers the collective frequency.
 

@@ -7,12 +7,12 @@ categories: ["ai-emergence"]
 tags: ["intent-of-thought", "llm-reasoning", "topology-governance", "chain-of-thought", "spar"]
 description: "LLMs can reason in chains, trees, and graphs. But nobody asks WHY before picking one. That is the gap."
 source_research: "concepts/intention-of-thought/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Show practitioners that topology selection in LLM reasoning is an unaddressed governance gap, not a minor configuration choice."
   vadivam: "Pattern collision: BDI agent theory (40 years) × XoT reasoning topologies (4 years), intersecting at the missing governance layer."
   sangilai: "Reader questions their own default topology choices and tries a 3-line IoT spec on their next reasoning task."
-collision_point:
+fusion_point:
   idea_a: "BDI agent theory (intent as committed goal, Cohen & Levesque 1990)"
   idea_b: "XoT reasoning topologies (14+ structures, Besta et al. 2025)"
 ---

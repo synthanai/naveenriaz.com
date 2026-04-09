@@ -8,6 +8,8 @@ series_number: 8
 slug_name: values-inversion
 date: 2026-03-17
 description: "Some appear bright as the crab's-eye seed outside, but inside they are black as ..."
+quote_top: "When the budget contradicts the poster,\nemployees learn to trust the budget\nand ignore the poster."
+quote_bottom: "Declared values are the bright exterior.\nThe budget is the core\nthat reveals the truth."
 punch_line_1: "Some appear bright as the crab's-eye seed outside, but inside they are black as its core."
 punch_line_2: "Declared values are the bright exterior. The budget is the dark core that reveals the truth."
 felt_hook: "The values and the budget are telling two different stories. Only one of them is true."

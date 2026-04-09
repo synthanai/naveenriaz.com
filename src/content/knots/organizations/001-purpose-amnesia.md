@@ -36,7 +36,7 @@ I hired a woman last March. Brilliant. Two Masters degrees. She came from a comp
 
 On her third day, I took her for coffee and asked: "So, why does this company exist?"
 
-She smiled politely. "To deliver innovative solutions for—" She stopped. Looked at her cup. "I'm sorry, I actually read that on the careers page. I don't really know."
+She smiled politely. "To deliver innovative solutions for-" She stopped. Looked at her cup. "I'm sorry, I actually read that on the careers page. I don't really know."
 
 I nodded. Told her not to worry. Told her she'd figure it out.
 

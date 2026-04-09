@@ -7,12 +7,12 @@ categories: ["ai-emergence", "living-orgs"]
 tags: ["agent-swarms", "autoskill", "darwinian-selection", "mind-body-soul", "emergence", "hyperspace"]
 description: "90 AI agents evolved 1,251 code skills in 24 hours through Darwinian selection. It's brilliant engineering. And it's missing the one thing that matters."
 source_research: "concepts/distributed-autonomous-skill-evolution/research.md"
-collision_type: "public"
-collision_nool:
+fusion_type: "public"
+fusion_nool:
   nokkam: "Expose the strategic blind spot in agent swarm architectures that optimise for velocity without purpose"
   vadivam: "Contrast: optimisation speed vs. purposeful evolution"
   sangilai: "Reader questions whether agent swarms they are building or buying have the values layer that prevents convergence traps"
-collision_point:
+fusion_point:
   ideas:
     - "Darwinian evolution in biology"
     - "Autonomous agent skill factories in AI"
@@ -82,7 +82,6 @@ And if you cannot answer that, should you build them at all?
 
 *This collision emerged from a STEAL on Varun Mathur's Autoskill announcement ([@varun_mathur](https://x.com/varun_mathur), 13 March 2026). The research that grounded it lives in [concepts/distributed-autonomous-skill-evolution](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/distributed-autonomous-skill-evolution/research.md).*
 
-<!-- Social Hooks -->
 <!--
 STATEMENT: 90 AI agents wrote 1,251 skills in 24 hours. Not one asked "why." The real question isn't whether machines can code. It's whether they should code without purpose.
 
