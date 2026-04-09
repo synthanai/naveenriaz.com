@@ -4,6 +4,8 @@ date: 2026-03-30
 signal: "Your team isn't resistant to change. They're exhausted by the volume of change that leads nowhere."
 source: "Change"
 temperature: "🔥🔥🔥"
+quote_top: "Change fatigue isn't\norganized resistance.\nIt's rational self-preservation."
+quote_bottom: "Finish the last transformation\nbefore starting the next one."
 tags: ["change", "leadership", "culture"]
 description: "Resistance is not the problem. Exhaustion is."
 ---

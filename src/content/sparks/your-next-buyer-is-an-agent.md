@@ -5,6 +5,8 @@ source: "Link"
 source_url: "https://nyk.dev"
 signal: "A builder predicts your next customer will not fill out a form. It will hit an MCP endpoint with a budget. Agent commerce is coming, and most sales funnels are not ready."
 temperature: "🔥"
+quote_top: "Your next customer will not\nfill out a form. They will hit\nan API endpoint with a budget."
+quote_bottom: "The question is not if agent commerce\nwill arrive. It is whether your\nproduct has an endpoint."
 tags: ["agent-commerce", "mcp", "sales-funnel", "future"]
 description: "When agents have wallets, forms become extinct."
 ---

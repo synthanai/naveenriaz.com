@@ -5,6 +5,8 @@ source: "Link"
 source_url: "https://www.linkedin.com/pulse/architects-dilemma-why-our-best-developers-slower-age-raghuveeran-sincc"
 signal: "Senior engineers are 20% slower with AI on complex tasks. Junior engineers are faster but produce code they cannot explain. Speed increased. Understanding collapsed."
 temperature: "🔥🔥🔥"
+quote_top: "Speed increased.\nUnderstanding collapsed.\nThe velocity was an illusion."
+quote_bottom: "Velocity without understanding is not speed.\nIt is entropy with better metrics."
 tags: ["velocity-illusion", "edc", "ai-governance"]
 description: "Speed without comprehension is not velocity. It is drift."
 ---

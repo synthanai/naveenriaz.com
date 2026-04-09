@@ -8,6 +8,8 @@ series_number: 6
 slug_name: "legacy-denial"
 date: 2026-03-17
 description: "Does your official founding story match the one tenured employees tell at dinner? Or are the hard chapters edited out?"
+quote_top: "The organization rewrites its history\nto remove uncomfortable truths."
+quote_bottom: "Without owning where it has been,\nit cannot authentically say\nwhere it is going."
 punch_line_1: "The early magic is gone."
 punch_line_2: "The efficient machine is running perfectly."
 felt_hook: "Does your official founding story match the one tenured employees tell at dinner? Or are the hard chapters edited out?"

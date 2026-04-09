@@ -4,6 +4,8 @@ date: 2026-03-30
 signal: "The house has a broken foundation. Your solution: repaint the window frames."
 source: "SYNTHAI"
 temperature: "🔥🔥🔥"
+quote_top: "Prompt-tuning an AI system\nwhile ignoring its architecture\nis like painting a sinking house."
+quote_bottom: "Stop painting windows.\nStart digging foundations."
 tags: ["ai-governance", "architecture", "debugging"]
 description: "Prompt-tuning a broken harness is repainting windows on a sinking house."
 ---

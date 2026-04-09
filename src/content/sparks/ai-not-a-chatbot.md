@@ -4,6 +4,8 @@ date: 2026-03-30
 signal: "90% of enterprise AI usage is chatbot-shaped. The remaining 10% is where the actual value lives."
 source: "SYNTHAI"
 temperature: "🔥🔥🔥"
+quote_top: "If your AI strategy\nstarts with a chatbot,\nyou just built a lobby."
+quote_bottom: "The real architecture\nlives behind it."
 tags: ["ai-governance", "architecture", "systems-thinking"]
 description: "The chatbot is the lobby. The building is behind it."
 ---

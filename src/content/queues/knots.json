@@ -450,7 +450,23 @@
       "type": "knot",
       "source": "series-2-culture/018-siloed-synergy.md",
       "card": "cards/knot-018.png",
-      "status": "pending"
+      "status": "published",
+      "approved_at": "2026-04-09T06:12:27.715Z",
+      "published_at": "2026-04-09T06:12:34.687Z",
+      "published_channels": {
+        "linkedin": {
+          "ok": true,
+          "post_id": "urn:li:share:7447889170792022016",
+          "channel": "linkedin"
+        },
+        "x": {
+          "ok": false,
+          "error": "X API 401: Unauthorized"
+        },
+        "linkedin_comment": {
+          "ok": true
+        }
+      }
     },
     {
       "day": 19,

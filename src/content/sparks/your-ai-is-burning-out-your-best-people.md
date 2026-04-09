@@ -3,6 +3,8 @@ title: "Your AI Is Burning Out Your Best People"
 date: 2026-03-20
 signal: "Productivity gains from AI tools can reverse past a threshold. Not diminish. Reverse. More tools create more decisions, more oversight, more cognitive load. The tool that promised relief became the source of burnout."
 temperature: "🔥🔥🔥"
+quote_top: "The tool that promised relief\nbecame the source of burnout."
+quote_bottom: "Cognitive load does not decrease.\nIt transforms from creation\nto verification."
 tags: ["ai-fatigue", "burnout", "edc", "governance"]
 description: "The paradox: the tool that promised relief became the source of exhaustion."
 ---

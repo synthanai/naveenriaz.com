@@ -5,6 +5,8 @@ source: "Link"
 source_url: "https://x.com/noahepstein_/status/2034658150930862500"
 signal: "Meta absorbed a $2B AI startup. Figma turned code into design without designers. 99% of AI products will die by 2027. The survivors share one trait: identity."
 temperature: "🔥🔥"
+quote_top: "Platforms will absorb features.\nThe standalone feature-as-a-product\nis going to die."
+quote_bottom: "Features get absorbed.\nPhilosophies do not."
 tags: ["platform-absorption", "moat", "identity", "survival"]
 description: "Features get absorbed. Philosophy does not."
 ---

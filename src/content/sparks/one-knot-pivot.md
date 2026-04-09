@@ -5,6 +5,8 @@ signal: "Most organisational dysfunction is not 20 problems. It is one knot with
 source: "108 KNOTS Research"
 source_url: "https://naveenriaz.com/knots"
 temperature: "🔥🔥🔥"
+quote_top: "Most organisational dysfunction\nis not twenty separate problems.\nIt is one knot, 20 symptoms."
+quote_bottom: "Focus is not a luxury.\nIt is leverage."
 tags: ["systems-thinking", "diagnosis", "leadership"]
 description: "Before starting the next initiative, find the one knot that unravels the rest."
 ---

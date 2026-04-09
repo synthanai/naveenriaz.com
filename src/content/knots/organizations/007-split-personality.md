@@ -8,6 +8,8 @@ series_number: 7
 slug_name: "split-personality"
 date: 2026-03-17
 description: 'If you ask Sales and Engineering "what kind of company are we?", do they describe the same organization?'
+quote_top: "One brand going one way in public.\nA completely different culture operating\nbehind the walls."
+quote_bottom: "The cost of a split identity\nis not confusion.\nIt is exhaustion."
 punch_line_1: "Organizations don't fear failure."
 punch_line_2: "They fear clarity."
 felt_hook: 'If you ask Sales and Engineering "what kind of company are we?", do they describe the same organization?'

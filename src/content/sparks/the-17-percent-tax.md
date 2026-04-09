@@ -5,6 +5,8 @@ source: "Link"
 source_url: "https://www.anthropic.com/research/AI-assistance-coding-skills"
 signal: "Anthropic's own RCT found developers using Claude scored 17% lower on comprehension. But one group, those who asked instead of delegated, performed just as well."
 temperature: "🔥🔥🔥"
+quote_top: "Developers using Claude scored\n17% lower on comprehension.\nDelegation atrophies skill."
+quote_bottom: "The difference is not the tool.\nIt is the posture."
 tags: ["anthropic", "skill-atrophy", "inquiry-mode", "rct"]
 description: "Delegation atrophies. Inquiry amplifies. The tool is neutral. The mode is everything."
 ---

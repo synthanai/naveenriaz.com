@@ -3,6 +3,8 @@ title: "Context Rot"
 date: 2026-03-20
 signal: "Every AI-generated artifact starts decaying the moment it is created. The reasoning that produced it is ephemeral. The context window closes. The decision logic evaporates. What remains is output without origin."
 temperature: "🔥"
+quote_top: "Every AI-generated artifact\ndecays the moment it's created.\nThe context window closes."
+quote_bottom: "Capture the reasoning chain.\nDocument the why."
 tags: ["context-rot", "knowledge-management", "6r"]
 description: "AI generates artifacts. It does not generate the reasoning chains that explain them."
 ---

@@ -5,6 +5,8 @@ source: "Link"
 source_url: "https://naveenriaz.com/collisions/brand-ambassadors-dont-need-branding"
 signal: "Visionary Prediction (2030): AI removes personal branding friction (creation, consistency, language, personality). Universality becomes infrastructural, like email."
 temperature: "🔥🔥🔥"
+quote_top: "AI is about to remove every bit\nof friction that makes\npersonal branding optional."
+quote_bottom: "Not having one in 2030 will\nfeel like not having email in 2010."
 tags: ["future-of-work", "ai", "personal-branding", "prediction", "2030"]
 description: "Prepare your organisation for the frictionless era."
 ---

@@ -5,6 +5,8 @@ source: "Link"
 source_url: "https://github.com/0xNyk/lacp"
 signal: "A control plane for AI coding agents uses SHA-256 hash-chained session receipts to create tamper-evident provenance, independently reinventing the audit trail pattern."
 temperature: "🔥🔥"
+quote_top: "Two independent systems.\nSame trust problem.\nSame cryptographic solution."
+quote_bottom: "When trust is the question,\nthe chain is always the answer."
 tags: ["provenance", "vault-kit", "audit-trail", "convergent-evolution"]
 description: "When two systems independently invent the same trust architecture, the pattern is structural."
 ---

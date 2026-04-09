@@ -8,6 +8,8 @@ series_number: 10
 slug_name: "cultural-orphans"
 date: 2026-03-17
 description: "Can a new hire, six months in, explain your culture to a stranger using their own words, not the company's?"
+quote_top: "Every new hire who learns\nthe hard way is a cultural orphan\ncreated by institutional laziness."
+quote_bottom: "Culture doesn't replicate itself.\nIt is transmitted or it dies."
 punch_line_1: "The new hire knows every system."
 punch_line_2: "Nobody has told them the story."
 felt_hook: "Can a new hire, six months in, explain your culture to a stranger using their own words, not the company's?"

@@ -4,6 +4,8 @@ date: 2026-03-30
 signal: "The best typewriter mechanic in the world still could not save the typewriter."
 source: "Capability"
 temperature: "🔥🔥"
+quote_top: "The best typewriter mechanic\nin the world still could not\nsave the typewriter."
+quote_bottom: "Mastering an obsolete skill\nis not building a new one."
 tags: ["capability", "innovation", "obsolescence"]
 description: "Mastering a dying skill is not the same as building a new one."
 ---

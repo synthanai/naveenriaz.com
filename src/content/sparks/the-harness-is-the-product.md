@@ -5,6 +5,8 @@ source: "Link"
 source_url: "https://nyk.dev"
 signal: "A builder with 155+ repos and 2.8k GitHub stars says the model was never the product. The harness (orchestration, quality gates, memory, policy, context engineering) is the product."
 temperature: "🔥🔥"
+quote_top: "The model was never the product.\nThe infrastructure built around it\nwas the product all along."
+quote_bottom: "The world builds smarter models.\nWe build smarter harnesses."
 tags: ["agent-infrastructure", "context-engineering", "builderz"]
 description: "The value is not in the model. It is in the governance around it."
 ---

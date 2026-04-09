@@ -8,6 +8,8 @@ series_number: 8
 slug_name: "purpose-commodification"
 date: 2026-03-17
 description: "Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which one is yours?"
+quote_top: "A purpose statement that could\nbelong to any company on the planet,\nbelongs to none."
+quote_bottom: "When purpose is generic,\nit protects nothing, filters nothing,\nand inspires nothing."
 punch_line_1: "The purpose is still there."
 punch_line_2: "Someone just made it comfortable."
 felt_hook: "Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which one is yours?"

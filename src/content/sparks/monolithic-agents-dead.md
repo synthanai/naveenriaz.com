@@ -4,6 +4,8 @@ date: 2026-03-30
 signal: "The all-in-one AI agent is the new monolith. It will fail for exactly the same reasons monolithic software failed."
 source: "SYNTHAI"
 temperature: "🔥🔥🔥"
+quote_top: "The all-in-one AI agent\nis the new monolith.\nIt is accountable for nothing."
+quote_bottom: "Composability beats capability.\nEvery single time."
 tags: ["ai-governance", "architecture", "microservices"]
 description: "One agent to rule them all is one agent to fail them all."
 ---

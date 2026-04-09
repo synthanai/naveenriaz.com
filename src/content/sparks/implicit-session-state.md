@@ -4,6 +4,8 @@ date: 2026-03-30
 signal: "Every AI conversation starts from zero. The user carries the entire burden of context. That is a design failure."
 source: "SYNTHAI"
 temperature: "🔥🔥"
+quote_top: "Every AI conversation starts\nfrom zero, placing the entire\nburden of context on the user."
+quote_bottom: "Memory should be infrastructure,\nnot a chore."
 tags: ["ai-governance", "architecture", "context"]
 description: "Memory should be infrastructure, not a chore."
 ---

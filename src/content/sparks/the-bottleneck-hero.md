@@ -4,6 +4,8 @@ date: 2026-03-30
 signal: "The person everyone depends on is not an asset. They are a single point of failure wearing a cape."
 source: "Structure"
 temperature: "🔥🔥"
+quote_top: "The person everyone depends on\nis not an organisational asset.\nThey are a point of failure in a cape."
+quote_bottom: "Hero culture is just risk\nculture in disguise."
 tags: ["structure", "risk", "leadership"]
 description: "Hero culture is risk culture in disguise."
 ---

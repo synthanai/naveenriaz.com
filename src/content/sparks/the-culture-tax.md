@@ -4,6 +4,8 @@ date: 2026-03-30
 signal: "Nobody sees the culture tax on a line item. But it is there, in every interaction, every day."
 source: "Culture"
 temperature: "🔥🔥🔥"
+quote_top: "Nobody sees the culture tax\non a budget line item.\nBut it's there in every interaction."
+quote_bottom: "The culture tax is invisible\nuntil you stop paying it."
 tags: ["culture", "cost", "leadership"]
 description: "Bad culture costs more than bad strategy. It just never appears on the balance sheet."
 ---

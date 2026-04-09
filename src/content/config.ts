@@ -90,4 +90,31 @@ const claws = defineCollection({
   }),
 });
 
-export const collections = { collisions, knots, sparks, beads, claws };
+const wows = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    date: z.coerce.date(),
+    essence: z.string(),
+  }),
+});
+
+const awes = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    date: z.coerce.date(),
+    essence: z.string(),
+  }),
+});
+
+const syncs = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    date: z.coerce.date(),
+    essence: z.string(),
+  }),
+});
+
+export const collections = { collisions, knots, sparks, beads, claws, wows, awes, syncs };

@@ -8,6 +8,8 @@ series_number: 5
 slug_name: "mission-drift"
 date: 2026-03-17
 description: "Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?"
+quote_top: "Nobody abandons the mission in a meeting.\nThey abandon it in a hundred\nsmall, reasonable compromises."
+quote_bottom: "Drift is not dramatic.\nIt is gravitational."
 punch_line_1: "Nobody abandons the mission."
 punch_line_2: "They just stop saying no."
 felt_hook: "Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?"

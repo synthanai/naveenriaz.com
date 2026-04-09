@@ -4,6 +4,8 @@ date: 2026-03-30
 signal: "The decision was made before the meeting. The meeting existed to make it look collaborative."
 source: "Decisions"
 temperature: "🔥🔥🔥"
+quote_top: "Decision laundering:\nTaking a private choice and running\nit through a public process."
+quote_bottom: "Honesty is always\nfaster than theatre."
 tags: ["decisions", "leadership", "trust"]
 description: "When decisions are pre-made and meetings are theatre."
 ---

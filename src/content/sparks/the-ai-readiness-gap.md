@@ -5,6 +5,8 @@ signal: "72% of companies are adopting AI. Only 26% are scaling it. The gap is n
 source: "McKinsey State of AI 2024"
 source_url: "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai"
 temperature: "🔥🔥🔥"
+quote_top: "72% of companies are adopting.\nOnly 26% are scaling.\nThe gap is not technology."
+quote_bottom: "Bolting AI onto existing systems is like\nfitting a jet engine to a bicycle."
 tags: ["ai-governance", "architecture", "readiness"]
 description: "Most companies are adopting AI. Almost nobody is ready for it."
 ---

@@ -224,9 +224,11 @@
     {
       "slug": "the-missing-verb",
       "temperature": "🔥🔥",
-      "status": "pending",
+      "status": "hold",
       "added": "2026-04-06",
-      "order": 30
+      "order": 30,
+      "hold_at": "2026-04-09T07:07:34.894Z",
+      "hold_reason": "a"
     },
     {
       "slug": "the-one-dollar-notebook",
