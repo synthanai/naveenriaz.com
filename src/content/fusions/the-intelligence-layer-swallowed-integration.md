@@ -96,7 +96,7 @@ Which layer in your stack is the next MCP?
 
 ---
 
-*This collision emerged from a STEAL on the MCP Death event at Ask 2026, capturing Denis Yarats' (CTO, Perplexity) public declaration alongside two convergent industry signals from the same day.*
+*This fusion emerged from a STEAL on the MCP Death event at Ask 2026, capturing Denis Yarats' (CTO, Perplexity) public declaration alongside two convergent industry signals from the same day.*
 
 <!--
 STATEMENT: MCP was Anthropic's "USB for AI." Sixteen months later, Perplexity's CTO declared it dead. Not deprecated. Dead. The Intelligence Layer swallowed the Integration Layer, and it is not coming back.

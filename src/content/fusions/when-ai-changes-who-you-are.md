@@ -82,7 +82,7 @@ The real one is: what happens to people's sense of self when the skills they bui
 
 ---
 
-*This collision emerged from a deep STEAL on [Rangaprabhu Parthasarathy's platform](https://www.rangaprabhu.com) (March 2026). The research that grounded it lives in persons/rangaprabhu-parthasarathy.*
+*This fusion emerged from a deep STEAL on [Rangaprabhu Parthasarathy's platform](https://www.rangaprabhu.com) (March 2026). The research that grounded it lives in persons/rangaprabhu-parthasarathy.*
 
 <!--
 STATEMENT: AI adoption isn't a skills gap. It's an identity crisis. When the skills you built your career on become commoditised overnight, the question isn't "how do I keep up?" It's "who am I now?"

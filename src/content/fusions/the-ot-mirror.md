@@ -113,7 +113,7 @@ If the architecture of a healthy individual and the architecture of a healthy or
 
 ---
 
-*This collision emerged from a deep STEAL on Occupational Therapy, capturing 100+ years of clinical theory that independently validates the MBS architecture from outside organisational science.*
+*This fusion emerged from a deep STEAL on Occupational Therapy, capturing 100+ years of clinical theory that independently validates the MBS architecture from outside organisational science.*
 
 <!--
 STATEMENT: A health profession founded in 1917 independently built the exact same three-layer architecture that SYNTHAI uses for organisations. Volition = Soul. Habituation = Mind. Performance Capacity = Body. Two frameworks, one century apart, same structural truth. When independent traditions converge on the same answer, the answer is not invented. It is discovered.

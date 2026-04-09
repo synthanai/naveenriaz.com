@@ -77,7 +77,7 @@ The squeeze will continue to rise. What is the next altitude?
 
 ---
 
-*This collision emerged from a synthesis of three separate STEALs: MCP death and the Agent Substrate, the Modern AI PM, and related middleware displacement research, each independently pointing to the same middle-layer squeeze.*
+*This fusion emerged from a synthesis of three separate STEALs: MCP death and the Agent Substrate, the Modern AI PM, and related middleware displacement research, each independently pointing to the same middle-layer squeeze.*
 
 <!--
 STATEMENT: Three separate research signals, from unrelated sources, converged: integration frameworks, product managers, and middle managers are all being eliminated by the same pattern. The middle layer is dying. Not just in software. In organisations. Simultaneously. The function being squeezed: translation, coordination, information routing. The function that survives: curation, judgment, governance.

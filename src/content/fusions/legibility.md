@@ -85,7 +85,7 @@ What would it take to make the gap disappear?
 
 ---
 
-*This collision emerged from a STEAL on RadHash's modular OS framework, bridging software structural legibility to the unsolved challenge of organisational legibility for AI-native operations.*
+*This fusion emerged from a STEAL on RadHash's modular OS framework, bridging software structural legibility to the unsolved challenge of organisational legibility for AI-native operations.*
 
 <!--
 STATEMENT: Your codebase is legible. An AI agent can navigate it, modify it, and deploy from it. Your organisation is not. The AI reads your wiki. It cannot read your org. The gap between documentation and reality is where every AI integration fails. Organisational legibility is the unsolved frontier.

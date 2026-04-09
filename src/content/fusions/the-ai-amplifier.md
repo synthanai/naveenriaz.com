@@ -136,7 +136,7 @@ Before you invest another dollar in tooling licenses, figure out what that sound
 
 ---
 
-*This collision emerged from a [STEAL on Dr Gene Jones' Four Signals framework](/research/framework/four-signals). The research explores the AI Amplifier principle and how BDD acts as a verification constraint for AI generation. For a deeper exploration of how AI shifts developer value from execution to judgment, read our analysis of the [AI-Era Developer Paradigm](/research/patterns/ai-era-developer-paradigm).*
+*This fusion emerged from a [STEAL on Dr Gene Jones' Four Signals framework](/research/framework/four-signals). The research explores the AI Amplifier principle and how BDD acts as a verification constraint for AI generation. For a deeper exploration of how AI shifts developer value from execution to judgment, read our analysis of the [AI-Era Developer Paradigm](/research/patterns/ai-era-developer-paradigm).*
 
 <!--
 STATEMENT: Generating code 46% faster just means you hit your deployment bottleneck 46% faster. AI does not fix your architecture. It is an amplifier of your existing dysfunction.

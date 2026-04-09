@@ -80,7 +80,7 @@ And if you cannot answer that, should you build them at all?
 
 ---
 
-*This collision emerged from a STEAL on Varun Mathur's Autoskill announcement ([@varun_mathur](https://x.com/varun_mathur), 13 March 2026). The research that grounded it lives in concepts/distributed-autonomous-skill-evolution.*
+*This fusion emerged from a STEAL on Varun Mathur's Autoskill announcement ([@varun_mathur](https://x.com/varun_mathur), 13 March 2026). The research that grounded it lives in concepts/distributed-autonomous-skill-evolution.*
 
 <!--
 STATEMENT: 90 AI agents wrote 1,251 skills in 24 hours. Not one asked "why." The real question isn't whether machines can code. It's whether they should code without purpose.

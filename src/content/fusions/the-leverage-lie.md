@@ -96,7 +96,7 @@ What constitution have you written for yours?
 
 ---
 
-*This collision emerged from a STEAL on George Nurijanian's AI leverage article ([@nurijanian](https://x.com/nurijanian), 13 March 2026), grounded against Naval Ravikant's leverage taxonomy and Michael Gerber's* E-Myth Revisited*.*
+*This fusion emerged from a STEAL on George Nurijanian's AI leverage article ([@nurijanian](https://x.com/nurijanian), 13 March 2026), grounded against Naval Ravikant's leverage taxonomy and Michael Gerber's* E-Myth Revisited*.*
 
 <!--
 STATEMENT: Naval said code is leverage because it's permissionless. He was half right. AI agents are labor leverage without the coordination tax. But parallelism without governance is just noise at scale.

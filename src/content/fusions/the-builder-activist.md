@@ -74,7 +74,7 @@ And when the two disagree, which one will you believe?
 
 ---
 
-*This collision emerged from a multi-level STEAL on 0xSero (GitHub: [0xSero](https://github.com/0xSero), X: [@0xSero](https://x.com/0xSero)). The research that grounded it lives in persons/leaders/0xsero.*
+*This fusion emerged from a multi-level STEAL on 0xSero (GitHub: [0xSero](https://github.com/0xSero), X: [@0xSero](https://x.com/0xSero)). The research that grounded it lives in persons/leaders/0xsero.*
 
 <!--
 STATEMENT: A pseudonymous developer with no PhD, no lab, and no funding just 11x'd Apple's published AI benchmark on a MacBook. 196 repos. 27,300 followers. Zero credentials. The "Builder-Activist" is a new archetype, and your org chart has no box for it.

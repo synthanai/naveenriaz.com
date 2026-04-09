@@ -41,8 +41,8 @@ Airbus was built from four nations' aerospace industries, and nobody standardize
 I found the technical report: when the A380 sections were assembled in Toulouse, the wiring harnesses from the German facility wouldn't connect to the fuselage sections from the French facility.
 The reason was that the Hamburg team used CATIA version 4 and the Toulouse team used CATIA version 5.
 Two versions of the same software, incompatible outputs, 530 kilometers of wiring per aircraft.
-The subculture collision cost €4.8 billion in delays.
-The cultures collided at the literal point of connection.
+The subculture fusion cost €4.8 billion in delays.
+The cultures fused at the literal point of connection.
 
 More visibility doesn't automatically mean more trust.
 In marine biology, the glass squid has a nearly transparent body, a survival adaptation that makes it invisible to predators. But this exposure comes at a cost: its internal organs are permanently visible. Everything is seen. Nothing is protected.

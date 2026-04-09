@@ -79,7 +79,7 @@ If both competitors agree on the primitive, the argument is settled. The questio
 
 ---
 
-*This collision emerged from a STEAL on the OpenAI Responses API agent loop architecture, captured from an official OpenAI diagram showing shell command execution as the agent primitive.*
+*This fusion emerged from a STEAL on the OpenAI Responses API agent loop architecture, captured from an official OpenAI diagram showing shell command execution as the agent primitive.*
 
 <!--
 STATEMENT: OpenAI and Anthropic compete on everything. They built the same agent architecture: model + shell commands + feedback loop. OpenAI invented function calling, then moved away from it. Both chose shell commands as the execution primitive. When competitors converge, you are not observing a preference. You are observing a discovery.

@@ -75,7 +75,7 @@ And why does that record belong to your tool provider instead of to you?
 
 ---
 
-*This collision emerged from a STEAL on 0xSero's ai-data-extraction toolkit ([GitHub](https://github.com/0xSero/ai-data-extraction), 446 stars). The research lives in concepts/ai-data-sovereignty.*
+*This fusion emerged from a STEAL on 0xSero's ai-data-extraction toolkit ([GitHub](https://github.com/0xSero/ai-data-extraction), 446 stars). The research lives in concepts/ai-data-sovereignty.*
 
 <!--
 STATEMENT: Your AI coding assistant has a complete record of how you think. Every problem, every decision, every mistake. You cannot export any of it. A developer's most popular project (446 stars) is not an AI model. It is a tool to get your data back.

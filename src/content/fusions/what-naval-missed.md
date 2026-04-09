@@ -94,7 +94,7 @@ What leverage do you have that the AI cannot replicate?
 
 ---
 
-*This collision emerged from a STEAL on the 2026 update to Naval's "Productize Yourself" framework, tracing the shift from production leverage to governance leverage.*
+*This fusion emerged from a STEAL on the 2026 update to Naval's "Productize Yourself" framework, tracing the shift from production leverage to governance leverage.*
 
 <!--
 STATEMENT: Naval said Code and Media are leverage. In 2018, that was true because they were hard to produce. In 2026, an LLM produces both. The leverage moved. It's no longer about producing code and content. It's about governing the agents that produce them. The first solo unicorn won't be the best programmer. It will be the best systems orchestrator.

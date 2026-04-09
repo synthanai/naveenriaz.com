@@ -75,7 +75,7 @@ And what would happen if you optimised for that value, instead of the technology
 
 ---
 
-*This collision emerged from a STEAL on the Web3 to AI migration pattern, anchored by the 0xSero career analysis. The research lives in movements/web3-to-ai-migration.*
+*This fusion emerged from a STEAL on the Web3 to AI migration pattern, anchored by the 0xSero career analysis. The research lives in movements/web3-to-ai-migration.*
 
 <!--
 STATEMENT: Self-sovereignty has survived five technology waves: cypherpunks, PGP, Bitcoin, DeFi, local AI. The technology changed every time. The value never changed once. Your career is not a series of pivots. It is one value finding its next vehicle.

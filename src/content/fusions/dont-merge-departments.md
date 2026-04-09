@@ -77,7 +77,7 @@ And if you cannot map it, should you be merging at all?
 
 ---
 
-*This collision emerged from a STEAL on 0xSero's REAP MoE compression research (arXiv:2510.13999). The concept that grounded it lives in Organization as Mixture-of-Experts.*
+*This fusion emerged from a STEAL on 0xSero's REAP MoE compression research (arXiv:2510.13999). The concept that grounded it lives in Organization as Mixture-of-Experts.*
 
 <!--
 STATEMENT: AI researchers just proved that merging specialists always destroys precision. The error is irreducible. The same maths applies to every department merger on your calendar.

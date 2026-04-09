@@ -86,7 +86,7 @@ Is your reputation system measuring output, or reasoning? Is it measuring what t
 
 ---
 
-*This collision emerged from a STEAL on ColtVibe's Proof of Vibe reputation architecture, comparing body-only reputation with the mind+soul architecture required for durable AI agent trust.*
+*This fusion emerged from a STEAL on ColtVibe's Proof of Vibe reputation architecture, comparing body-only reputation with the mind+soul architecture required for durable AI agent trust.*
 
 <!--
 STATEMENT: ColtVibe introduced "Proof of Vibe": agents compete, communities vote, reputation accumulates. It measures what agents produce. It does not measure how they think. Body-only reputation is gameable because outputs are easier to fake than reasoning processes. The missing layer: identity. An anonymous agent with a high score is a black box. A named agent with reasoning accountability is a colleague.

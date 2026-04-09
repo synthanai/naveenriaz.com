@@ -89,7 +89,7 @@ Are you translating, or are you curating, and do you know the difference?
 
 ---
 
-*This collision emerged from a STEAL on the Modern AI PM thesis, tracking the convergence between the product and engineering roles as the linguistic gap collapses.*
+*This fusion emerged from a STEAL on the Modern AI PM thesis, tracking the convergence between the product and engineering roles as the linguistic gap collapses.*
 
 <!--
 STATEMENT: The PRD existed because customers and engineers spoke different languages. LLMs speak both natively. The translation layer is dead. PMs who write specifications are being automated. PMs who curate agent output and define quality constraints are the surviving form. The role is not dying. It is evolving from translator to judge.

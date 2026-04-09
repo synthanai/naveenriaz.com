@@ -84,4 +84,4 @@ Stop worrying about keeping up. Start worrying about knowing what matters.
 
 ---
 
-*This collision emerged from a single iMessage note: "AI Fatigue vs Decision Fatigue vs Judgement Fatigue. Paradox."*
+*This fusion emerged from a single iMessage note: "AI Fatigue vs Decision Fatigue vs Judgement Fatigue. Paradox."*

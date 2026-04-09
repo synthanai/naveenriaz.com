@@ -100,7 +100,7 @@ How much of what your AI learned last month can it access right now, without you
 
 ---
 
-*This collision emerged from a STEAL on a practitioner's AI memory stack architecture, which reached 212K views by naming the pain point every AI user recognises: context amnesia.*
+*This fusion emerged from a STEAL on a practitioner's AI memory stack architecture, which reached 212K views by naming the pain point every AI user recognises: context amnesia.*
 
 <!--
 STATEMENT: Your AI has a million-token context window. It still has no idea what it learned yesterday. Context window size is scanning capacity. It is not memory. Memory requires structure: session context, a persistent knowledge graph, and an ingestion pipeline. Most deployments have one of three layers. That's why output plateaus instead of compounding.

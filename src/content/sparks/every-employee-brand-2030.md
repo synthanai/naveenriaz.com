@@ -2,7 +2,7 @@
 title: "Every Employee Will Have a Personal Brand by 2030"
 date: 2026-03-29
 source: "Link"
-source_url: "https://naveenriaz.com/collisions/brand-ambassadors-dont-need-branding"
+source_url: "https://naveenriaz.com/fusions/brand-ambassadors-dont-need-branding"
 signal: "Visionary Prediction (2030): AI removes personal branding friction (creation, consistency, language, personality). Universality becomes infrastructural, like email."
 temperature: "🔥🔥🔥"
 quote_top: "AI is about to remove every bit\nof friction that makes\npersonal branding optional."
@@ -26,4 +26,4 @@ When the friction disappears, the competitive gap between organisations will not
 Does your organisation have a signal worth amplifying before the amplifier becomes free?
 
 ---
-Read the full 2030 prediction article at naveenriaz.com/collisions/brand-ambassadors-dont-need-branding
+Read the full 2030 prediction article at naveenriaz.com/fusions/brand-ambassadors-dont-need-branding
