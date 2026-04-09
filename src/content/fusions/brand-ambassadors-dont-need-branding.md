@@ -52,7 +52,7 @@ Four friction points are about to disappear:
 
 **Personality**: today personal branding favours extroverts. By 2030, AI will surface professional contributions without requiring self-promotion. Your code commits, project outcomes, and internal reviews become raw material for a professional presence you never had to perform.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two adoption curves crash here, separated by twenty years.
 

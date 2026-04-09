@@ -8,6 +8,8 @@ series_number: 10
 slug_name: celebration-deficit
 date: 2026-03-17
 description: "Wealth from generosity never diminishes...."
+quote_top: "The team achieved something significant."
+quote_bottom: "And the organization treated it like a checkpoint,\nnot a summit.\nCelebration deficit is the absence of generosity\ntoward the team's own achievements."
 punch_line_1: "Wealth from generosity never diminishes."
 punch_line_2: "Celebration deficit is the absence of generosity toward the team's own achievements. The harvest is extracted. The feast never happens."
 felt_hook: "The team achieved something significant and the organization treated it like a checkpoint, not a summit."

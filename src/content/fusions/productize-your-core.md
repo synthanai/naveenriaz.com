@@ -50,7 +50,7 @@ They inventory their skills. Their credentials. Their experience. They list what
 
 The gap is diagnostic. If you are searching through your resume for specific knowledge, you are looking at what the world has asked you to become. Not at what you already are. Skills are the output of your environment. Specific knowledge is the output of your identity.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two frameworks crash here, and the collision produces a map.
 

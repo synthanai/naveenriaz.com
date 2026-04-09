@@ -8,6 +8,8 @@ series_number: 12
 slug_name: matrix-madness
 date: 2026-03-17
 description: "The world endures because of those with character...."
+quote_top: "In theory, the matrix combines functional depth\nwith cross-functional breadth."
+quote_bottom: "In practice, it creates parallel accountability\nand serial confusion."
 punch_line_1: "The world endures because of those with character."
 punch_line_2: "Matrix structures endure only when people of character navigate them. Without character, three bosses equal three competing versions of reality."
 felt_hook: "In theory, the matrix combines functional depth with cross-functional breadth. In practice, it creates parallel accountability and serial confusion."

@@ -8,6 +8,8 @@ series_number: 11
 slug_name: scaling-pains
 date: 2026-03-17
 description: "Avoiding harm and standing firm when it arrives...."
+quote_top: "The blueprint says growth.\nThe structure cannot hold."
+quote_bottom: "Scaling pains are the harm that arrives\nwhen the organization outgrows\nits original design."
 punch_line_1: "Avoiding harm and standing firm when it arrives."
 punch_line_2: "Scaling pains are the harm that arrives when the organization outgrows its original design. Standing firm means redesigning, not just enduring."
 felt_hook: "The blueprint says growth. The structure can't hold."

@@ -39,7 +39,7 @@ The instinct is to impose legibility. Document everything. Formalise every proce
 
 But Scott's warning applies: imposed legibility destroys complexity. An organisation that documents every informal interaction kills the informal interactions. The value was in the informality: the corridor conversation, the quick decision, the trust-based handshake. Formalising everything does not make the organisation legible. It makes it bureaucratic.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two frameworks crash here, and the collision reveals a design challenge.
 

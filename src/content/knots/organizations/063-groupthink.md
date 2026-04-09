@@ -8,6 +8,8 @@ series_number: 3
 slug_name: groupthink
 date: 2026-03-17
 description: "Speaking is easy. Doing as spoken is difficult...."
+quote_top: "This is not alignment.\nIt is an echo chamber."
+quote_bottom: "Groupthink means nobody had a different perspective to begin with,\nor nobody felt safe enough to voice it."
 punch_line_1: "Speaking is easy. Doing as spoken is difficult."
 punch_line_2: "Groupthink makes speaking easy because everyone says the same thing. The difficulty is hidden: nobody speaks the truth."
 felt_hook: "Alignment means different perspectives converge on a shared conclusion. Groupthink means nobody had a different perspective to begin with, or nobody felt safe enough to voice it."

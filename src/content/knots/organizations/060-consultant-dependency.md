@@ -8,6 +8,8 @@ series_number: 12
 slug_name: consultant-dependency
 date: 2026-03-17
 description: "One who acts without knowing the method destroys their own work...."
+quote_top: "You bought a transformation.\nYou did not build one."
+quote_bottom: "External capability creates\ninternal atrophy."
 punch_line_1: "One who acts without knowing the method destroys their own work."
 punch_line_2: "Consultant dependency means the method lives in an external body. When that body leaves, the organization can't act because it never learned how."
 felt_hook: "You bought a transformation. You didn't build one."

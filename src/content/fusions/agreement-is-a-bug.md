@@ -37,7 +37,7 @@ Nyk calls this "the problem with balanced single-agent answers." I call it persp
 
 Both systems solve this identically: externalize the disagreement layer. Do not ask one agent to consider multiple perspectives. Spawn multiple agents, each with a genuine analytical commitment, and force them to confront each other before synthesis.
 
-## The Collision Point
+## ⚛️ The Fusion
 
 The convergence runs deeper than the general architecture. The structural details align in ways that cannot be explained by trend-following:
 

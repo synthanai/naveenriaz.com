@@ -112,7 +112,7 @@ import Footer from "../components/Footer.astro";
 
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-xl); text-align: left; margin-top: var(--space-3xl); margin-bottom: var(--space-xl);">
           
-          <div class="arch-col">
+          <div class="arch-col dim-card dim-card--mind">
             <h3 style="color: var(--mind-color); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: var(--space-md);">Think</h3>
             <a href="/sparks/" style="text-decoration: none; display: block; margin-bottom: var(--space-lg);">
               <span class="knots-badge" style="color: var(--text-muted); font-size: 0.55rem;">SHORT FORM</span>
@@ -126,41 +126,49 @@ import Footer from "../components/Footer.astro";
             </a>
           </div>
 
-          <div class="arch-col">
+          <div class="arch-col dim-card dim-card--body">
             <h3 style="color: var(--body-color); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: var(--space-md);">Work</h3>
             <a href="/knots/" style="text-decoration: none; display: block; margin-bottom: var(--space-lg);">
               <span class="knots-badge" style="color: var(--text-muted); font-size: 0.55rem;">SHORT FORM</span>
               <strong style="color: var(--text-primary); display: block; font-size: 1.1rem; margin-top: 4px;">Knots / Beads</strong>
               <span style="color: var(--text-secondary); font-size: 0.85rem; display: block; margin-top: 4px;">Friction untangled into tactical wisdom.</span>
             </a>
-            <a href="/work/" style="text-decoration: none; display: block; margin-bottom: var(--space-lg);">
+            <div style="display: block; margin-bottom: var(--space-lg); opacity: 0.7;">
               <span class="knots-badge" style="color: var(--text-muted); font-size: 0.55rem;">LONG FORM</span>
-              <strong style="color: var(--text-primary); display: block; font-size: 1.1rem; margin-top: 4px;">Digs</strong>
+              <strong style="color: var(--text-primary); display: flex; align-items: center; gap: 8px; font-size: 1.1rem; margin-top: 4px;">
+                Digs <span class="knots-badge" style="background: rgba(255,255,255,0.1); padding: 2px 6px; border-radius: 4px;">COMING SOON</span>
+              </strong>
               <span style="color: var(--text-secondary); font-size: 0.85rem; display: block; margin-top: 4px;">Heavy literature and org excavation.</span>
-            </a>
+            </div>
           </div>
 
-          <div class="arch-col">
+          <div class="arch-col dim-card dim-card--soul">
             <h3 style="color: var(--soul-color); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: var(--space-md);">Play</h3>
-            <a href="/play/" style="text-decoration: none; display: block; margin-bottom: var(--space-lg);">
+            <div style="display: block; margin-bottom: var(--space-lg); opacity: 0.7;">
               <span class="knots-badge" style="color: var(--text-muted); font-size: 0.55rem;">SHORT FORM</span>
-              <strong style="color: var(--text-primary); display: block; font-size: 1.1rem; margin-top: 4px;">Wows</strong>
+              <strong style="color: var(--text-primary); display: flex; align-items: center; gap: 8px; font-size: 1.1rem; margin-top: 4px;">
+                Wows <span class="knots-badge" style="background: rgba(255,255,255,0.1); padding: 2px 6px; border-radius: 4px;">COMING SOON</span>
+              </strong>
               <span style="color: var(--text-secondary); font-size: 0.85rem; display: block; margin-top: 4px;">Quick mindset shifts.</span>
-            </a>
-            <a href="/play/" style="text-decoration: none; display: block; margin-bottom: var(--space-lg);">
+            </div>
+            <div style="display: block; margin-bottom: var(--space-lg); opacity: 0.7;">
               <span class="knots-badge" style="color: var(--text-muted); font-size: 0.55rem;">LONG FORM</span>
-              <strong style="color: var(--text-primary); display: block; font-size: 1.1rem; margin-top: 4px;">Awes</strong>
+              <strong style="color: var(--text-primary); display: flex; align-items: center; gap: 8px; font-size: 1.1rem; margin-top: 4px;">
+                Awes <span class="knots-badge" style="background: rgba(255,255,255,0.1); padding: 2px 6px; border-radius: 4px;">COMING SOON</span>
+              </strong>
               <span style="color: var(--text-secondary); font-size: 0.85rem; display: block; margin-top: 4px;">Narrative-heavy emotional arcs.</span>
-            </a>
+            </div>
           </div>
 
-          <div class="arch-col">
+          <div class="arch-col dim-card dim-card--vibe">
             <h3 style="color: var(--vibe-color); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: var(--space-md);">Vibe</h3>
-            <a href="/syncs/" style="text-decoration: none; display: block; margin-bottom: var(--space-lg);">
+            <div style="display: block; margin-bottom: var(--space-lg); opacity: 0.7;">
               <span class="knots-badge" style="color: var(--text-muted); font-size: 0.55rem;">SHORT FORM</span>
-              <strong style="color: var(--text-primary); display: block; font-size: 1.1rem; margin-top: 4px;">Syncs</strong>
+              <strong style="color: var(--text-primary); display: flex; align-items: center; gap: 8px; font-size: 1.1rem; margin-top: 4px;">
+                Syncs <span class="knots-badge" style="background: rgba(255,255,255,0.1); padding: 2px 6px; border-radius: 4px;">COMING SOON</span>
+              </strong>
               <span style="color: var(--text-secondary); font-size: 0.85rem; display: block; margin-top: 4px;">Harmonic connections and shared frequencies.</span>
-            </a>
+            </div>
             <a href="/spars/" style="text-decoration: none; display: block; margin-bottom: var(--space-lg);">
               <span class="knots-badge" style="color: var(--text-muted); font-size: 0.55rem;">LONG FORM</span>
               <strong style="color: var(--text-primary); display: block; font-size: 1.1rem; margin-top: 4px;">SPARs</strong>

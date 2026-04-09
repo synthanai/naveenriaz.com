@@ -45,7 +45,7 @@ Better SEO cannot prevent AI page substitution. Even a perfect page can be repla
 
 But panic is also wrong. Google's generated pages lack something your pages have. And that something cannot be generated.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two ideas crash here, and the collision reveals what is actually at stake.
 

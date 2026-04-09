@@ -47,7 +47,7 @@ When we map the 5 Dysfunctions against the principles of living systems architec
 
 Lencioni's pyramid reveals exactly how emergence collapses. When fear of conflict blocks constructive tension, the room does not just go silent. It actively generates *Artificial Harmony*, a toxic negative field that stifles real work. Artificial harmony is an anti-emergence.
 
-## The Collision Point
+## ⚛️ The Fusion
 
 If the 5 Dysfunctions tell you what to fix, living systems theory tells you what emerges when you do.
 

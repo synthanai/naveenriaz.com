@@ -8,6 +8,8 @@ series_number: 9
 slug_name: rhetoric-reality-gap
 date: 2026-03-17
 description: "Call the one who boasts useless words no son of worth...."
+quote_top: "The rhetoric is a separate organization from the reality.\nThey share the same logo."
+quote_bottom: "The organization speaks change fluently\nbut builds nothing."
 punch_line_1: "Call the one who boasts useless words no son of worth."
 punch_line_2: "Rhetoric without reality is boasting without building. The organization speaks change fluently but builds nothing."
 felt_hook: "The rhetoric is a separate organization from the reality. They share the same logo."

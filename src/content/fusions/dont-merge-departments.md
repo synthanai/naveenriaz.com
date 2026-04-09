@@ -41,7 +41,7 @@ The result was unambiguous: pruning always won. On generative tasks, from 20-bil
 
 And the reason is what matters.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Here is where the maths of neural networks collides with the politics of organisational restructuring.
 

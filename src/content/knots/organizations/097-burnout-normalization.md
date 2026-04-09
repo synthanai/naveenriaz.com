@@ -8,6 +8,8 @@ series_number: 1
 slug_name: burnout-normalization
 date: 2026-03-17
 description: "One who sees hardship as natural will never truly suffer...."
+quote_top: "Burnout is not happening to your team."
+quote_bottom: "It is happening as your team.\nOrganizations who see exhaustion as natural\nhave normalized suffering."
 punch_line_1: "One who sees hardship as natural will never truly suffer."
 punch_line_2: "Organizations who see exhaustion as natural have normalized suffering. The team craves rest but the culture says hardship is the price."
 felt_hook: "Burnout isn't happening to your team. It's happening as your team. It's become the culture."

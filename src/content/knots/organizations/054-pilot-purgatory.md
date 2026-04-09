@@ -8,6 +8,8 @@ series_number: 6
 slug_name: pilot-purgatory
 date: 2026-03-17
 description: "Those who plan with resolve achieve exactly what they envision...."
+quote_top: "The conditions for a pilot\nare never the conditions for an organization."
+quote_bottom: "Pilot purgatory is what happens when\nplanning stops at the proof of concept."
 punch_line_1: "Those who plan with resolve achieve exactly what they envision."
 punch_line_2: "Pilot purgatory is what happens when planning stops at the proof of concept. The resolve to scale was never part of the plan."
 felt_hook: "The conditions for a pilot are never the conditions for an organization."

@@ -43,7 +43,7 @@ A B2B SaaS company built an agent to auto-generate RFP responses. Average cost p
 
 None of these failures were model failures. The model worked exactly as designed. The platform underneath didn't exist.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Three ideas crash here.
 

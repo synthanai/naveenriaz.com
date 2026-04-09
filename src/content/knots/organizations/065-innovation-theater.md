@@ -8,6 +8,8 @@ series_number: 5
 slug_name: innovation-theater
 date: 2026-03-17
 description: "The firmness of enterprise is the firmness of mind. All else is secondary...."
+quote_top: "Innovation theater has all the props of creativity\nand none of the commitment."
+quote_bottom: "The display is the output.\nThe organization mistakes the flower\nfor the harvest."
 punch_line_1: "The firmness of enterprise is the firmness of mind. All else is secondary."
 punch_line_2: "Innovation theater has the firmness of a stage set: impressive from the front, nothing behind it."
 felt_hook: "Innovation theater has all the props of creativity and none of the commitment."

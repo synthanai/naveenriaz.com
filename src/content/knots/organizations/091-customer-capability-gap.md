@@ -8,6 +8,8 @@ series_number: 7
 slug_name: customer-capability-gap
 date: 2026-03-17
 description: "Challenges strengthen the resolute. The wavering break...."
+quote_top: "The gap between promise and capability\nis not a marketing problem."
+quote_bottom: "It is a trust problem.\nEvery customer interaction that falls short\nis a withdrawal from the trust account."
 punch_line_1: "Challenges strengthen the resolute. The wavering break."
 punch_line_2: "The customer capability gap is the space between what was promised and what can be delivered. Each broken promise weakens the organization's resolve."
 felt_hook: "The gap between promise and capability isn't a marketing problem. It's a trust problem. Every customer interaction that falls short of the brand promise is a withdrawal from the trust account."

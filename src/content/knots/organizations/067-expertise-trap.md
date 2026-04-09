@@ -8,6 +8,8 @@ series_number: 7
 slug_name: expertise-trap
 date: 2026-03-17
 description: "Numbers and letters are the two eyes of the living...."
+quote_top: "Expertise became a cage.\nDepth became a limitation."
+quote_bottom: "The specialist sees deeply in one domain,\nand nothing outside of it."
 punch_line_1: "Numbers and letters are the two eyes of the living."
 punch_line_2: "The expertise trap blinds one eye: the specialist sees deeply in one domain and nothing outside it."
 felt_hook: "Expertise became a cage. Depth became a limitation."

@@ -41,7 +41,7 @@ This is not a hypothetical future. It is current practice. Product teams using A
 
 The PM's translation work was BODY-layer work dressed up as MIND-layer work. It looked cognitive (distilling requirements) but was actually mechanical (converting one format to another). LLMs excel at format conversion. The translation layer was always going to be automated the moment a system could process natural language as well as structured specifications.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Three patterns crash here, and the collision reveals the shape of the surviving role.
 

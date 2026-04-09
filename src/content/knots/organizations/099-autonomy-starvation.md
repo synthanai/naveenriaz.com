@@ -8,6 +8,8 @@ series_number: 3
 slug_name: autonomy-starvation
 date: 2026-03-17
 description: "Harsh rule that chains people is the heaviest burden...."
+quote_top: "Autonomy starvation does not look like oppression.\nIt looks like process."
+quote_bottom: "It feels like suffocation in a well-lit room.\nIt chains competent people with approval chains."
 punch_line_1: "Harsh rule that chains people is the heaviest burden."
 punch_line_2: "Autonomy starvation chains competent people with approval chains, creating resentment where empowerment should live."
 felt_hook: "Autonomy starvation doesn't look like oppression. It looks like process. It feels like suffocation in a well-lit room."

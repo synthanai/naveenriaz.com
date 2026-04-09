@@ -43,7 +43,7 @@ The professor herself reveals this when she says: "Even if a couple of students 
 
 Handwriting proves authorship, not understanding. You can write soulless prose by hand and profound thought with AI assistance. Authenticity is not a property of the medium. It is a property of the mind that produced the work.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Three patterns crash here, and the wreckage looks familiar.
 

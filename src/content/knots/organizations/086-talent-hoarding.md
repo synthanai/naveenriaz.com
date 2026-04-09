@@ -8,6 +8,8 @@ series_number: 2
 slug_name: talent-hoarding
 date: 2026-03-17
 description: "People who fall from position are like hair fallen from the head...."
+quote_top: "The manager's incentive is team output.\nMoving the best person out reduces output.\nSo the best person stays."
+quote_bottom: "Hoarded talent is still present\nbut no longer growing."
 punch_line_1: "People who fall from position are like hair fallen from the head."
 punch_line_2: "Hoarded talent is still present but no longer growing. The person is there; their potential has been severed."
 felt_hook: "The talent isn't hoarded maliciously. It's hoarded rationally. The manager's incentive is team output. Moving the best person out reduces output. So the best person stays."

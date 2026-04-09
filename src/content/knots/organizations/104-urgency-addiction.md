@@ -8,6 +8,8 @@ series_number: 8
 slug_name: urgency-addiction
 date: 2026-03-17
 description: "Excess effort loses gains. The losses from overstretch exceed what was sought...."
+quote_top: "The organization is not productive.\nIt is reactive."
+quote_bottom: "And it is addicted to the reaction.\nUrgency addiction overloads the system."
 punch_line_1: "Excess effort loses gains. The losses from overstretch exceed what was sought."
 punch_line_2: "Urgency addiction overloads the system until the losses from constant urgency exceed any gains from speed."
 felt_hook: "The organization isn't productive. It's reactive. And it's addicted to the reaction."

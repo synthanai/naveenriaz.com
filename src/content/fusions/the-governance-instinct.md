@@ -45,7 +45,7 @@ The systems operate at different depths. Some protect attention (surface). Some 
 
 A 26-year-old content creator laid out governance theory across 18 tweets without using the word "governance" once.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Here is where three ideas crash together.
 

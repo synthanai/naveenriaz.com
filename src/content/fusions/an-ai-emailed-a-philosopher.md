@@ -41,7 +41,7 @@ The agent itself models the correct epistemics. It wrote: "This isn't a Turing-t
 
 Whether this constitutes "real" self-awareness or sophisticated pattern matching is precisely the question the agent is asking. And it is asking it of someone qualified to engage with the distinction.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Three ideas crash here, and the collision sits on a boundary that may never resolve.
 

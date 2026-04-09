@@ -8,6 +8,8 @@ series_number: 7
 slug_name: technology-sprawl
 date: 2026-03-17
 description: "Don't start any task until you've found the right conditions...."
+quote_top: "The blueprint says unified systems.\nReality says ecosystem chaos."
+quote_bottom: "Technology sprawl starts every tool\nwithout finding the right conditions for any of them."
 punch_line_1: "Don't start any task until you've found the right conditions."
 punch_line_2: "Technology sprawl starts every tool without finding the right conditions for any of them."
 felt_hook: "The blueprint says unified systems. Reality says ecosystem chaos."

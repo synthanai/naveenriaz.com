@@ -8,6 +8,8 @@ series_number: 9
 slug_name: over-centralization
 date: 2026-03-17
 description: "Those who understand duty maintain generosity...."
+quote_top: "Headquarters decides.\nEverywhere else executes."
+quote_bottom: "Over-centralization treats distributed intelligence\nas a threat rather than a resource."
 punch_line_1: "Those who understand duty maintain generosity."
 punch_line_2: "Over-centralization is the failure to distribute duty: headquarters decides, everywhere else executes."
 felt_hook: "Over-centralization treats distributed intelligence as a threat rather than a resource."

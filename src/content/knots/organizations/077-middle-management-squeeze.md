@@ -8,6 +8,8 @@ series_number: 5
 slug_name: middle-management-squeeze
 date: 2026-03-17
 description: "The world endures because of those with good character...."
+quote_top: "Middle managers are the load-bearing columns\nof an organization."
+quote_bottom: "They hold the organization together\nwhile being squeezed from both directions."
 punch_line_1: "The world endures because of those with good character."
 punch_line_2: "Middle managers are the load-bearing columns of an organization. Squeeze them, and the structure crumbles."
 felt_hook: "Middle managers hold the organization together while being squeezed from both directions."

@@ -35,7 +35,7 @@ A surgeon can analyse tissue adversarially (looking for what is wrong) or engagi
 
 This is not a minor gap. It is the reason your AI agents feel mechanical. They know what to do. They have no idea how to think while doing it.
 
-## 💥 The Collision
+## ⚛️ The Fusion
 
 Three unrelated domains crash together here.
 

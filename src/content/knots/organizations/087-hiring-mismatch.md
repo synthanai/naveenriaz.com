@@ -8,6 +8,8 @@ series_number: 3
 slug_name: hiring-mismatch
 date: 2026-03-17
 description: "Even if fate opposes, effort yields its reward...."
+quote_top: "The candidate was impressive.\nThe role needed something they did not have.\nNot skill. Fit."
+quote_bottom: "No amount of work fixes a person placed\nin the wrong role for the wrong reasons."
 punch_line_1: "Even if fate opposes, effort yields its reward."
 punch_line_2: "Hiring mismatch opposes effort: no amount of work fixes a person placed in the wrong role for the wrong reasons."
 felt_hook: "The candidate was impressive. The role needed something they didn't have. Not skill. Fit."

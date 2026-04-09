@@ -39,7 +39,7 @@ What they do care about: 196 public repositories. A browser AI agent with 420 st
 
 The credibility comes from the artifacts. Not from the title.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two models of legitimacy collide here, and neither is wrong.
 

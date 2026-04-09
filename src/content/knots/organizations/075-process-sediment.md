@@ -8,6 +8,8 @@ series_number: 3
 slug_name: process-sediment
 date: 2026-03-17
 description: "Even accumulated hardships cannot destroy one who stands firm...."
+quote_top: "Each approval layer made sense when it was added."
+quote_bottom: "Together, they form a geological record\nof organizational fear."
 punch_line_1: "Even accumulated hardships cannot destroy one who stands firm."
 punch_line_2: "Process sediment has accumulated layers of hardship on your team. But unlike Valluvar's hero, nobody chose to stand firm. They just stopped pushing back."
 felt_hook: "Each approval was added for a reason: a past mistake, an audit finding, a compliance requirement. Each layer made sense when it was added. Together, they form a geological record of organizational fear."

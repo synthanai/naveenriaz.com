@@ -45,7 +45,7 @@ What is missing? The arrow from C back to S. The feedback loop. The thing that m
 
 Software revealed 25 years ago that the waterfall does not work. The Agile Manifesto was a direct rejection of phase-gate thinking. Not because structure is bad, but because linear structure assumes you know the destination before you begin. AI-assisted development makes that assumption even less tenable, because the model discovers the architecture through prototyping, not before it.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Three ideas collide here.
 

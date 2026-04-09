@@ -8,6 +8,8 @@ series_number: 6
 slug_name: technical-debt-avalanche
 date: 2026-03-17
 description: "Lacking resources is no shame. Lacking effort despite knowing is...."
+quote_top: "Each layer adds fragility.\nEach workaround adds complexity."
+quote_bottom: "The system works until it does not.\nAnd when it does not, everything collapses at once."
 punch_line_1: "Lacking resources is no shame. Lacking effort despite knowing is."
 punch_line_2: "Technical debt avalanche is the shame of knowing the debt exists and choosing not to address it until it buries you."
 felt_hook: "Each layer adds fragility. Each workaround adds complexity. The system works. Until it doesn't. And when it doesn't, everything collapses at once."

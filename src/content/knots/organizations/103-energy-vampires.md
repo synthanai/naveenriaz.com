@@ -8,6 +8,8 @@ series_number: 7
 slug_name: energy-vampires
 date: 2026-03-17
 description: "Even harsh truth is acceptable. Useless pleasant words are not...."
+quote_top: "Each interaction extracts energy\nwithout depositing value."
+quote_bottom: "The participants leave lighter in spirit\nand heavier in resentment."
 punch_line_1: "Even harsh truth is acceptable. Useless pleasant words are not."
 punch_line_2: "Energy vampires drain through useless pleasant interaction: meetings that produce nothing, conversations that circle without resolving."
 felt_hook: "Each interaction extracts energy without depositing value. The participants leave lighter in spirit and heavier in resentment."

@@ -45,7 +45,7 @@ Read that again.
 
 The disorientation you feel is not a lack of training. It is not a skills gap. It is not that you are too slow or too old or too resistant. It is that the things you built your professional identity around, the skills that made you *you* at work, are being repriced in real time. And that repricing is happening faster than any human can comfortably absorb.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Three ideas crash here.
 

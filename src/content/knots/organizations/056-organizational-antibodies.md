@@ -8,6 +8,8 @@ series_number: 8
 slug_name: organizational-antibodies
 date: 2026-03-17
 description: "Harsh words and excessive punishment grind down strength like a file on metal...."
+quote_top: "The change worked.\nThe system undid it."
+quote_bottom: "Organizational antibodies identify a change\nas foreign and mobilize\nto quietly reject it."
 punch_line_1: "Harsh words and excessive punishment grind down strength like a file on metal."
 punch_line_2: "Organizational antibodies don't use harsh words. They use quiet processes, budget redirections, and scheduling conflicts to file down the foreign tissue."
 felt_hook: "The change worked. The system undid it."

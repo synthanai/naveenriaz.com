@@ -8,6 +8,8 @@ series_number: 9
 slug_name: resource-hoarding
 date: 2026-03-17
 description: "To give and live with honor: no greater profit exists...."
+quote_top: "One team drowns while another sits on surplus,\nand neither profits."
+quote_bottom: "The budget that could solve their problem\nsits unspent in another department's reserve."
 punch_line_1: "To give and live with honor: no greater profit exists."
 punch_line_2: "Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits."
 felt_hook: "Meanwhile, the team across the hall is working weekends because they can't hire fast enough. The budget that could solve their problem sits unspent in another department's reserve."

@@ -8,6 +8,8 @@ series_number: 8
 slug_name: outsourcing-identity
 date: 2026-03-17
 description: "Examine virtues, examine faults, choose accordingly...."
+quote_top: "You did not just outsource the function."
+quote_bottom: "You outsourced the identity.\nOutsourcing identity means the organization stopped\nexamining its own virtues and faults."
 punch_line_1: "Examine virtues, examine faults, choose accordingly."
 punch_line_2: "Outsourcing identity means the organization stopped examining its own virtues and faults because someone else does the thinking."
 felt_hook: "You didn't just outsource the function. You outsourced the identity."

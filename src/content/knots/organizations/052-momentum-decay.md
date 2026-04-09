@@ -8,6 +8,8 @@ series_number: 4
 slug_name: momentum-decay
 date: 2026-03-17
 description: "Effort creates fortune. Lack of effort invites poverty...."
+quote_top: "Everything decays\nwithout sustained energy."
+quote_bottom: "Nobody cancelled the initiative.\nIt decayed slowly, silently.\nThe way things do when nobody is watching."
 punch_line_1: "Effort creates fortune. Lack of effort invites poverty."
 punch_line_2: "Momentum decay is the gap between initial effort and sustained effort. The initiative starts with fortune and drifts into poverty."
 felt_hook: "Nobody cancelled the initiative. That would require a decision. Instead, it decayed. Slowly. Silently. The way things do when nobody is watching."

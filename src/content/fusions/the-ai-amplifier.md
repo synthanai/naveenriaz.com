@@ -43,7 +43,7 @@ When you drop a 46% increase in code generation speed into an organisation that 
 
 We call this **Bottleneck Misalignment**. AI speeds up the code generation phase, which is rarely the actual bottleneck, and overwhelms the downstream processes like testing, review, and deployment. You save four hours writing code, but you lose six hours in slow builds, review queues, and firefighting.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Here is where three ideas collide.
 

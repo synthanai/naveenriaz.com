@@ -124,11 +124,85 @@ const sortedBeads = beads.sort(
         </p>
       </section>
 
+      <!-- Execution: Knots & Beads -->
+      <section class="section--tight">
+        <p class="knots-badge" style="color: var(--body-color);">SHORT FORM</p>
+        <div class="layer-header">
+          <span class="glow-dot" style="color: var(--color-gold, #ffd700);"></span>
+          <h2>Knots <span class="layer-label">Untangling</span></h2>
+        </div>
+        <p class="section-hook">
+          The tangled friction inside organisations.
+        </p>
+        <p>
+          108 diagnostic patterns that show up in every organisation,
+          community, and product. Each knot is named, felt, and
+          untied, across Soul, Mind, and Body.
+        </p>
+        <div class="proof-links">
+          <a href="/knots/" class="btn">Browse 108 Knots →</a>
+        </div>
+      </section>
+
+      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
+
+      <section class="section--tight">
+        <p class="knots-badge" style="color: var(--body-color);">SHORT FORM</p>
+        <div class="layer-header">
+          <span class="glow-dot" style="color: var(--color-gold, #ffd700);"></span>
+          <h2>Beads <span class="layer-label">Thought</span></h2>
+        </div>
+        <p class="section-hook">
+          The hardened wisdom doing the untangling.
+        </p>
+
+        <div class="beads-grid">
+          {
+            sortedBeads.map((bead) => (
+              <div class="bead-card">
+                <div class="bead-pattern" />
+                <div class="bead-content">
+                  <h3>{bead.data.title}</h3>
+                  <p class="bead-essence">{bead.data.essence}</p>
+                  <div class="bead-resonance">
+                    <span class="label">Resonance</span>
+                    {bead.data.resonance}
+                  </div>
+                  {bead.data.born_from_knot && (
+                    <div class="bead-origin">
+                      Born from Knot #{bead.data.born_from_knot}
+                    </div>
+                  )}
+                </div>
+              </div>
+            ))
+          }
+        </div>
+      </section>
+
+      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
+      
+      <section class="section--tight">
+        <p class="knots-badge" style="color: var(--body-color);">LONG FORM</p>
+        <div class="layer-header" style="opacity: 0.7;">
+          <span class="glow-dot" style="color: var(--color-gold, #ffd700);"></span>
+          <h2 style="display: flex; align-items: center; gap: 8px;">Digs <span class="layer-label">Literature</span> <span class="knots-badge" style="background: rgba(255,255,255,0.1); padding: 2px 6px; border-radius: 4px; font-size: 0.6rem; color: var(--text-muted); margin-left: 8px;">COMING SOON</span></h2>
+        </div>
+        <p class="section-hook" style="opacity: 0.7;">
+          Heavy literature and organisational excavation.
+        </p>
+        <p>
+          Digs are deep-dive research pieces. When a topic requires more than a tactical Bead, we excavate. This involves extracting artifacts, naming the strata layers, and cataloguing the findings.
+        </p>
+      </section>
+
+      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
+
       <!-- Body: Shipped -->
       <section class="section--tight">
         <div class="layer-header">
           <span class="glow-dot" style="color: var(--body-color);"></span>
-          <h2>Thriving <span class="layer-label">Contributions</span></h2>
+          <h2>Contributions <span class="layer-label">Thriving</span></h2>
         </div>
 
         <div class="hero-grid">
@@ -258,7 +332,7 @@ const sortedBeads = beads.sort(
       <section class="section--tight">
         <div class="layer-header">
           <span class="glow-dot" style="color: var(--body-color);"></span>
-          <h2>Cooking <span class="layer-label">Recipies</span></h2>
+          <h2>Recipes <span class="layer-label">Cooking</span></h2>
         </div>
 
         <div class="work-grid">
@@ -315,87 +389,13 @@ const sortedBeads = beads.sort(
         </div>
       </section>
 
-      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
 
-      <!-- Execution: Knots & Beads -->
-      <section class="section--tight">
-        <p class="knots-badge" style="color: var(--body-color);">SHORT FORM</p>
-        <div class="layer-header">
-          <span class="glow-dot" style="color: var(--color-gold, #ffd700);"></span>
-          <h2>Untangling <span class="layer-label">Knots</span></h2>
-        </div>
-        <p class="section-hook">
-          The tangled friction inside organisations.
-        </p>
-        <p>
-          108 diagnostic patterns that show up in every organisation,
-          community, and product. Each knot is named, felt, and
-          untied, across Soul, Mind, and Body.
-        </p>
-        <div class="proof-links">
-          <a href="/knots/" class="btn">Browse 108 Knots →</a>
-        </div>
-      </section>
-
-      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
-
-      <section class="section--tight">
-        <p class="knots-badge" style="color: var(--body-color);">SHORT FORM</p>
-        <div class="layer-header">
-          <span class="glow-dot" style="color: var(--color-gold, #ffd700);"></span>
-          <h2>Thought <span class="layer-label">Beads</span></h2>
-        </div>
-        <p class="section-hook">
-          The hardened wisdom doing the untangling.
-        </p>
-
-        <div class="beads-grid">
-          {
-            sortedBeads.map((bead) => (
-              <div class="bead-card">
-                <div class="bead-pattern" />
-                <div class="bead-content">
-                  <h3>{bead.data.title}</h3>
-                  <p class="bead-essence">{bead.data.essence}</p>
-                  <div class="bead-resonance">
-                    <span class="label">Resonance</span>
-                    {bead.data.resonance}
-                  </div>
-                  {bead.data.born_from_knot && (
-                    <div class="bead-origin">
-                      Born from Knot #{bead.data.born_from_knot}
-                    </div>
-                  )}
-                </div>
-              </div>
-            ))
-          }
-        </div>
-      </section>
-
-      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
-      
-      <section class="section--tight">
-        <p class="knots-badge" style="color: var(--body-color);">LONG FORM</p>
-        <div class="layer-header">
-          <span class="glow-dot" style="color: var(--color-gold, #ffd700);"></span>
-          <h2>Literature <span class="layer-label">Digs</span></h2>
-        </div>
-        <p class="section-hook">
-          Heavy literature and organisational excavation.
-        </p>
-        <p>
-          Digs are deep-dive research pieces. When a topic requires more than a tactical Bead, we excavate. This involves extracting artifacts, naming the strata layers, and cataloguing the findings.
-        </p>
-      </section>
-
-      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
 
       <!-- Soul: Ideas & Concepts -->
       <section class="section--tight">
         <div class="layer-header">
           <span class="glow-dot" style="color: var(--body-color);"></span>
-          <h2>Igniting <span class="layer-label">Ideas</span></h2>
+          <h2>Ideas <span class="layer-label">Igniting</span></h2>
         </div>
 
         <div class="soul-grid">

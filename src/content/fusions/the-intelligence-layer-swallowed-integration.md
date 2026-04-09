@@ -43,7 +43,7 @@ Yarats named three kill shots. Each one alone would be a warning. Together, they
 
 **Model Literacy.** This is the real one. In 2023, treating LLMs as toddlers who needed a universal translator was reasonable. By 2026, these models write complex Python, navigate REST APIs from documentation alone, and use CLIs better than most junior developers. The toddler graduated. The translator is still charging tuition.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Three ideas crash here, and the debris reveals a pattern older than software.
 

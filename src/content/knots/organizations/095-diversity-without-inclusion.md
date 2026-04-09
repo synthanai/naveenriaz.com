@@ -8,6 +8,8 @@ series_number: 11
 slug_name: diversity-without-inclusion
 date: 2026-03-17
 description: "Touching brings joy to the body. Hearing words brings joy to the ear...."
+quote_top: "The portfolio of faces changed.\nThe portfolio of ideas did not."
+quote_bottom: "Diversity without inclusion is like having children present\nbut never hearing their words."
 punch_line_1: "Touching brings joy to the body. Hearing words brings joy to the ear."
 punch_line_2: "Diversity without inclusion is like having children present but never hearing their words. Presence without voice is not participation."
 felt_hook: "The organization has invested in representation: diverse hiring pipelines, inclusive job descriptions, demographic targets. The portfolio of faces changed. The portfolio of ideas didn't."

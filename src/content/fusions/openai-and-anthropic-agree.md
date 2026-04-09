@@ -41,7 +41,7 @@ Then OpenAI moved away from its own invention. The Responses API diagram shows s
 
 This is a retreat from abstraction back to primitives. And both companies did it independently.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two ideas crash here, and the collision reveals a principle.
 

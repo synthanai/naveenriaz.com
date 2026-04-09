@@ -39,7 +39,7 @@ The knowledge economy treats the body as legacy infrastructure. Something you in
 
 But output volume is not output quality. The sixty-page analysis you wrote in a four-hour sitting session is longer than the version you would have written with movement breaks. It is not better. Cognitive narrowing increases verbosity (more words, less precision) and reduces the associative jumps that produce original insight.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two concepts crash here, and the collision reframes the body as infrastructure.
 

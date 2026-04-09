@@ -43,7 +43,7 @@ AGENTS.md does the same thing for AI agents: it tells them what to do. Instructi
 
 These are not edge cases. They are the operating questions of any system that delegates work to agents at scale. A README is necessary but not sufficient for human contributors. An AGENTS.md is necessary but not sufficient for AI agents.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Three ideas crash here, and the collision produces a maturity model.
 

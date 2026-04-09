@@ -8,6 +8,8 @@ series_number: 1
 slug_name: collective-blindness
 date: 2026-03-17
 description: "Those who foresee what is coming are never shaken...."
+quote_top: "The organization had eyes.\nIt did not have sight."
+quote_bottom: "Collective blindness is the signal\neveryone can see\nbut nobody processes."
 punch_line_1: "Those who foresee what is coming are never shaken."
 punch_line_2: "Collective blindness is the organizational scotoma: the signal everyone can see but nobody processes."
 felt_hook: "The organization had eyes. It didn't have sight."

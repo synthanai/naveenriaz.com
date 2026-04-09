@@ -37,7 +37,7 @@ Culture interventions almost always fail because they target the wrong layer. An
 
 Frequency changes through two mechanisms: what you tolerate and what you integrate.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two frameworks crash here, and the collision produces a diagnostic.
 

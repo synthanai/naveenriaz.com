@@ -8,6 +8,8 @@ series_number: 4
 slug_name: reward-misalignment
 date: 2026-03-17
 description: "When you perceive what is right, do it...."
+quote_top: "Your incentive structure teaches the organization\nwhat to replicate."
+quote_bottom: "Reward misalignment rewards what is not right:\ncrisis heroes over preventers,\nindividual stars over team builders."
 punch_line_1: "When you perceive what is right, do it."
 punch_line_2: "Reward misalignment rewards what isn't right: crisis heroes over preventers, individual stars over team builders."
 felt_hook: "Your incentive structure teaches the organization what to replicate."

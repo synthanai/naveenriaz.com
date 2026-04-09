@@ -8,6 +8,8 @@ series_number: 8
 slug_name: the-bottleneck-person
 date: 2026-03-17
 description: "One who seeks no ease in good times builds resilience for hard times...."
+quote_top: "They are not hoarding power.\nThey are drowning in it."
+quote_bottom: "The organization funneled everything through one point\nbecause that point was reliable.\nNow, that reliability is the constraint."
 punch_line_1: "One who seeks no ease in good times builds resilience for hard times."
 punch_line_2: "The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop."
 felt_hook: "They're not hoarding power. They're drowning in it. The organization funneled everything through one point because that point was reliable. Now that reliability is the constraint."

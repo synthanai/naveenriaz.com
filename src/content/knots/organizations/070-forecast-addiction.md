@@ -8,6 +8,8 @@ series_number: 10
 slug_name: forecast-addiction
 date: 2026-03-17
 description: "Truth seen by one without understanding. Goodness from one without compassion...."
+quote_top: "The addiction is not to accuracy.\nIt is to the feeling of certainty."
+quote_bottom: "Forecasts without understanding are\nlike truth without comprehension."
 punch_line_1: "Truth seen by one without understanding. Goodness from one without compassion."
 punch_line_2: "Forecasts without understanding are like truth without comprehension: the prediction exists but the insight doesn't."
 felt_hook: "The addiction isn't to accuracy. It's to the feeling of certainty."

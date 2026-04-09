@@ -8,6 +8,8 @@ series_number: 11
 slug_name: ungrieved-loss
 date: 2026-03-17
 description: "The noble do not treat suffering as cause for despair...."
+quote_top: "Every change involves a death\nthat nobody names."
+quote_bottom: "Leadership celebrated the new direction.\nThe team mourned the old one.\nIn silence."
 punch_line_1: "The noble do not treat suffering as cause for despair."
 punch_line_2: "Organizations demand nobility from their people by refusing to acknowledge that change means loss, and loss requires grieving."
 felt_hook: "Leadership celebrated the new direction. The team mourned the old one. In silence. Because mourning in a forward-looking organization feels like disloyalty."

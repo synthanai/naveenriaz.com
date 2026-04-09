@@ -8,6 +8,8 @@ series_number: 12
 slug_name: the-insight-graveyard
 date: 2026-03-17
 description: "The more you learn, the more you discover ignorance...."
+quote_top: "Insights without action are\nartifacts without excavation."
+quote_bottom: "Nobody acted on the insight.\nSix months later, the competitor shipped the product\nyour research described."
 punch_line_1: "The more you learn, the more you discover ignorance."
 punch_line_2: "The insight graveyard buries what was learned. The more the organization discovers, the more it fails to act on its discoveries."
 felt_hook: "Nobody acted on it. Six months later, the competitor who saw the same pattern shipped the product your research described."

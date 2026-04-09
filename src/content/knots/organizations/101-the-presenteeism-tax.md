@@ -8,6 +8,8 @@ series_number: 5
 slug_name: the-presenteeism-tax
 date: 2026-03-17
 description: "In a world that values substance, empty presence holds no place...."
+quote_top: "Presenteeism counts bodies, not contribution."
+quote_bottom: "Eight people are present. Three are productive.\nThe tax is five."
 punch_line_1: "In a world that values substance, empty presence holds no place."
 punch_line_2: "Presenteeism counts bodies, not contribution. Eight people are present. Three are productive. The tax is five."
 felt_hook: "Presenteeism taxes the organization in invisible ways: unproductive hours, unnecessary meetings, performative activity, and the energy drain of being present without purpose."

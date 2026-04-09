@@ -8,6 +8,8 @@ series_number: 2
 slug_name: silo-syndrome
 date: 2026-03-17
 description: "The loveless keep everything for themselves. The loving give even their bones...."
+quote_top: "Each defends its allocation.\nEach optimizes its metrics.\nEach celebrates its victories."
+quote_bottom: "None of them share credit, resources, or information\nwithout a formal request."
 punch_line_1: "The loveless keep everything for themselves. The loving give even their bones."
 punch_line_2: "Silos keep everything for their own department. Cross-functional love would mean sharing budgets, talent, and credit."
 felt_hook: "Each defends its allocation. Each optimizes its metrics. Each celebrates its victories. None of them share credit, resources, or even information without a formal request."

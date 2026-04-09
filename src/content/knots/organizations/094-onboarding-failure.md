@@ -8,6 +8,8 @@ series_number: 10
 slug_name: onboarding-failure
 date: 2026-03-17
 description: "Wealth without planning vanishes like sight without eyes...."
+quote_top: "The investment in recruiting is visible.\nThe investment in integration is invisible."
+quote_bottom: "Onboarding failure acquires talent\nwithout planning for their integration."
 punch_line_1: "Wealth without planning vanishes like sight without eyes."
 punch_line_2: "Onboarding failure acquires talent without planning for their integration. The hire was expensive. The runway was absent."
 felt_hook: "The investment in recruiting is visible: sourcing fees, interview hours, negotiation cycles. The investment in integration is invisible: the new hire navigating an undocumented culture, finding information through trial and error, building relationships without a map."

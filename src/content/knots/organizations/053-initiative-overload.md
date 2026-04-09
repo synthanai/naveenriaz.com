@@ -8,6 +8,8 @@ series_number: 5
 slug_name: initiative-overload
 date: 2026-03-17
 description: "Consider resources, tools, timing, task, and place before acting...."
+quote_top: "The organization looks active.\nPeople are busy."
+quote_bottom: "Nothing is\nactually changing."
 punch_line_1: "Consider resources, tools, timing, task, and place before acting."
 punch_line_2: "Initiative overload ignores all five: resources are split, tools are redundant, timing conflicts, tasks compete, and nothing has a proper place."
 felt_hook: "Together, they're impossible. Because the people executing them, your team, are the same finite humans being asked to deliver seven transformations with the bandwidth for one."

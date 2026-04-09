@@ -8,6 +8,8 @@ series_number: 6
 slug_name: governance-bloat
 date: 2026-03-17
 description: "Acquire wealth; no weapon is sharper...."
+quote_top: "The governance framework was designed to reduce risk."
+quote_bottom: "It succeeded so well that it eliminated all risk,\nincluding the risk of actually accomplishing anything."
 punch_line_1: "Acquire wealth; no weapon is sharper."
 punch_line_2: "Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything."
 felt_hook: "The governance framework was designed to reduce risk. It succeeded so well that it eliminated all risk, including the risk of actually accomplishing anything."

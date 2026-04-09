@@ -8,6 +8,8 @@ series_number: 7
 slug_name: sponsorship-evaporation
 date: 2026-03-17
 description: "The great fear small company. The small surround themselves with it...."
+quote_top: "The initiative did not lose its business case.\nIt lost its bodyguard."
+quote_bottom: "Sponsorship evaporates when executive attention\nshifts to new priorities."
 punch_line_1: "The great fear small company. The small surround themselves with it."
 punch_line_2: "Sponsorship evaporates when the great (leaders) surround themselves with new priorities and the change initiative is left with small company."
 felt_hook: "The initiative didn't lose its business case. It lost its bodyguard."

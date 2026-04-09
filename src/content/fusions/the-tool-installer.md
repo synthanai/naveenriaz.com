@@ -41,7 +41,7 @@ The reason the original list needed zero citations is that none of its claims ar
 
 Notice what the list never mentions: judgment, ethics, governance, purpose. Not once across 2,000 words.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Here is where three ideas collide.
 

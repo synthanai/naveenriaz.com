@@ -8,6 +8,8 @@ series_number: 8
 slug_name: data-worship
 date: 2026-03-17
 description: "True knowledge is the supreme wealth...."
+quote_top: "Data was supposed to be the input.\nIt became the idol."
+quote_bottom: "Data worship replaces true knowledge\nwith the appearance of knowing."
 punch_line_1: "True knowledge is the supreme wealth."
 punch_line_2: "Data worship replaces true knowledge with the appearance of knowing. The data is worshipped, but the insight it points to is never reached."
 felt_hook: "Data was supposed to be the input. It became the idol."

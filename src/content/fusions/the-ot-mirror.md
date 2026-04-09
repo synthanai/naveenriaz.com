@@ -50,7 +50,7 @@ These three subsystems interact with the environment to produce occupational ada
 
 Read those three layers again. Slowly.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Four ideas crash here, and the collision reveals a structural truth that neither tradition discovered by studying the other.
 

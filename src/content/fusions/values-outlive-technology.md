@@ -39,7 +39,7 @@ This is not an exodus. It is a fusion.
 
 The builders did not abandon Web3. They carried its principles into a new domain. And the principles transferred with unsettling precision.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Three patterns crash here, and the collision reveals something about how value moves through time.
 

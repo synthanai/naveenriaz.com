@@ -43,7 +43,7 @@ Reputation systems have three possible layers.
 
 **Soul (values)**: what framework guides the agent's judgment? What does it optimise for? Does it have an identity that makes it accountable across interactions? This is the layer that creates trust. And it requires the one thing anonymous agent systems lack: identity.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two reputation architectures crash here, and the collision reveals a durability gap.
 

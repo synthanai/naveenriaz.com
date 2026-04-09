@@ -41,7 +41,7 @@ Each signal, viewed in isolation, looks like a technology story. "AI replaces in
 
 Viewed together, they are none of these. They are one pattern at three altitudes.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 The convergence reveals a universal squeeze: every function that exists primarily to translate, coordinate, or route information between two other functions is being eliminated.
 

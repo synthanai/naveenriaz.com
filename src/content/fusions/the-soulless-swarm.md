@@ -43,7 +43,7 @@ The swarm converged. Massively. Nearly two-thirds of all "invented" skills are v
 
 Biology has a word for organisms that optimise aggressively for a single niche: specialists. And biology has a lesson about what happens to specialists when their environment shifts.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Here's where three ideas crash together.
 

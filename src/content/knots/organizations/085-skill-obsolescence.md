@@ -8,6 +8,8 @@ series_number: 1
 slug_name: skill-obsolescence
 date: 2026-03-17
 description: "The work of the wise: meet joyfully, part meaningfully...."
+quote_top: "Obsolescence is not incompetence.\nIt is competence in a world that has moved on."
+quote_bottom: "Skill obsolescence is the failure to part meaningfully\nwith outdated skills and meet new ones joyfully."
 punch_line_1: "The work of the wise: meet joyfully, part meaningfully."
 punch_line_2: "Skill obsolescence is the failure to part meaningfully with outdated skills and meet new ones joyfully."
 felt_hook: "Obsolescence isn't incompetence. It's competence in a world that has moved on."

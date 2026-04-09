@@ -33,7 +33,7 @@ You see it everywhere. Teams use Word for collaborative documents when they need
 
 The tax is invisible because the tool still works. Chrome headless *does* return the HTML. Word *does* let you share files. Email *does* let you track tasks. The tool functions. But it functions while burning resources on capabilities you never requested.
 
-## 💥 The Collision
+## ⚛️ The Fusion
 
 A project called Lightpanda took a radical position: build a browser from scratch, in a systems language (Zig), stripping everything a machine does not need.
 

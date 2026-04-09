@@ -43,7 +43,7 @@ A solo founder with twenty agents and no coordination system has twenty independ
 
 The agents are capable. The orchestra has no conductor.
 
-## 💥 The Collision Point
+## ⚛️ The Fusion
 
 Two assumptions crash here, and the collision reveals the real bottleneck.
 
