@@ -2,8 +2,8 @@
 import { getCollection } from 'astro:content';
 import Page from '../../layouts/Page.astro';
 
-const allCollisions = await getCollection('collisions');
-const sorted = allCollisions
+const allFusions = await getCollection('fusions');
+const sorted = allFusions
   .filter((c) => c.data.collision_type !== 'internal')
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 
@@ -22,18 +22,18 @@ const categoryLabels: Record<string, string> = {
 };
 ---
 
-<Page title="Collisions" description="Two unrelated ideas crash. A new pattern emerges." activeNav="collisions">
+<Page title="Fusions" description="Two unrelated ideas crash. A completely new, heavier element emerges." activeNav="fusions">
   <section class="collisions-hero">
     <div class="container">
       <p class="hero-badge">INTELLECTUAL EVENTS</p>
       <h1>
-        <span class="title-accent">Collisions</span>
+        <span class="title-accent">Fusions</span>
       </h1>
       <p class="hero-sub">
-        Two unrelated ideas crash into each other. A new pattern emerges.<br />
-        If there is no crash, it is not a collision.
+        Two distinct domains forced together under extreme pressure.<br />
+        A new, heavier intellectual element is born.
       </p>
-      <p class="hero-count">{sorted.length} collisions published</p>
+      <p class="hero-count">{sorted.length} fusions published</p>
     </div>
   </section>
 
@@ -51,7 +51,7 @@ const categoryLabels: Record<string, string> = {
 
       return (
         <a
-          href={`/collisions/${collision.slug}`}
+          href={`/fusions/${collision.slug}`}
           class="collision-card"
           style={`--cc: ${solidColor}; --cg: ${glowColor}`}
         >

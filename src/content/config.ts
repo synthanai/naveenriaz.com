@@ -1,6 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 
-const collisions = defineCollection({
+const fusions = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
@@ -117,4 +117,13 @@ const syncs = defineCollection({
   }),
 });
 
-export const collections = { collisions, knots, sparks, beads, claws, wows, awes, syncs };
+const digs = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    date: z.coerce.date(),
+    essence: z.string(),
+  }),
+});
+
+export const collections = { fusions, knots, sparks, beads, claws, wows, awes, syncs, digs };
