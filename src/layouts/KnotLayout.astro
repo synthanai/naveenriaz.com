@@ -3,6 +3,7 @@ import Base from "./Base.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import TamilRoot from "../components/TamilRoot.astro";
+import OuroborosFooter from "../components/OuroborosFooter.astro";
 
 interface Props {
   title: string;
@@ -217,6 +218,7 @@ const accentColor = seriesColors[series] || "var(--accent)";
         </div>
       </nav>
 
+      <OuroborosFooter collection="knots" slug={Astro.params.slug as string || Astro.url.pathname.replace(/\/$/, '').split('/').pop() || ''} />
     </article>
   </main>
   <Footer />

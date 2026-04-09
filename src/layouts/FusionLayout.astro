@@ -2,6 +2,7 @@
 import Base from "./Base.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import OuroborosFooter from "../components/OuroborosFooter.astro";
 
 interface Props {
   title: string;
@@ -77,6 +78,7 @@ const accentColor = categoryColors[categories?.[0]] || "var(--accent)";
         <a href="/fusions/" class="btn">← All Fusions</a>
       </nav>
 
+      <OuroborosFooter collection="fusions" slug={Astro.params.slug as string || Astro.url.pathname.replace(/\/$/, '').split('/').pop() || ''} />
     </article>
   </main>
   <Footer />
