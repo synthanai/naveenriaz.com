@@ -1,0 +1,28 @@
+---
+import { getCollection } from "astro:content";
+import SparLayout from "../../layouts/SparLayout.astro";
+
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const sparsEntries = await getCollection("spars");
+  return sparsEntries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+// 2. For your template, you can get the entry directly from the prop
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<SparLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  date={entry.data.date}
+  confidence={entry.data.confidence}
+  source={entry.data.source}
+  tags={entry.data.tags}
+>
+  <Content />
+</SparLayout>

@@ -1,0 +1,240 @@
+---
+import Base from "./Base.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  confidence?: string;
+  source?: string;
+  tags?: string[];
+}
+
+const {
+  title,
+  description,
+  date,
+  confidence,
+  source,
+  tags,
+} = Astro.props;
+
+const formattedDate = date.toLocaleDateString("en-GB", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+});
+
+const accentColor = "var(--vibe-color)";
+---
+
+<Base title={`${title} | SPARs`} description={description}>
+  <Header activeNav="vibe" />
+  <main class="spar-page">
+    <article class="container container--narrow">
+
+      <!-- Header -->
+      <header class="spar-header animate-in">
+        <div class="spar-meta">
+          <span class="spar-category" style={`color: ${accentColor}`}>
+            SPAR
+          </span>
+          <span class="spar-date">{formattedDate}</span>
+        </div>
+        <h1>{title}</h1>
+        {confidence && <p class="spar-confidence">Confidence: {confidence} | Source: {source || 'native'}</p>}
+      </header>
+
+      <!-- Rendered Markdown Body -->
+      <section class="spar-body animate-in animate-delay-1">
+        <slot />
+      </section>
+
+      <!-- Tags -->
+      {tags && tags.length > 0 && (
+        <div class="spar-tags animate-in animate-delay-2">
+          {tags.map((tag) => (
+            <span class="tag-pill">{tag}</span>
+          ))}
+        </div>
+      )}
+
+      <!-- Navigation -->
+      <nav class="spar-nav">
+        <a href="/spars/" class="btn">← All SPARs</a>
+      </nav>
+
+    </article>
+  </main>
+  <Footer />
+</Base>
+
+<style define:vars={{ accentColor }}>
+  .spar-page {
+    padding: var(--space-3xl) 0;
+  }
+
+  .spar-header {
+    text-align: center;
+    margin-bottom: var(--space-3xl);
+  }
+
+  .spar-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--space-lg);
+  }
+
+  .spar-category {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .spar-date {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    opacity: 0.6;
+  }
+
+  .spar-header h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    color: var(--text-primary) !important;
+    margin-bottom: var(--space-md);
+    line-height: 1.15;
+  }
+
+  .spar-confidence {
+    font-family: var(--font-label);
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    max-width: 640px;
+    margin: 0 auto;
+    opacity: 0.7;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .spar-body {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  .spar-body :global(h1:first-child) {
+    display: none;
+  }
+
+  .spar-body :global(h2) {
+    font-size: 1.4rem;
+    margin-top: var(--space-3xl);
+    margin-bottom: var(--space-md);
+    color: var(--accentColor) !important;
+  }
+
+  .spar-body :global(p) {
+    font-size: 1.05rem;
+    line-height: 1.85;
+    margin-bottom: var(--space-lg);
+  }
+
+  .spar-body :global(strong) {
+    color: var(--text-primary);
+  }
+
+  .spar-body :global(blockquote) {
+    border-left: 3px solid var(--accentColor);
+    padding-left: var(--space-lg);
+    margin: var(--space-xl) 0;
+    font-style: italic;
+    color: var(--text-secondary);
+  }
+
+  .spar-body :global(hr) {
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    margin: var(--space-3xl) 0;
+  }
+
+  .spar-body :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: var(--space-xl) 0;
+    font-size: 0.88rem;
+  }
+
+  .spar-body :global(th) {
+    font-family: var(--font-label);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accentColor);
+    text-align: left;
+    padding: var(--space-sm) var(--space-md);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .spar-body :global(td) {
+    padding: var(--space-sm) var(--space-md);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    color: var(--text-secondary);
+    line-height: 1.5;
+    vertical-align: top;
+  }
+
+  .spar-body :global(tr:hover td) {
+    background: rgba(255, 255, 255, 0.02);
+  }
+
+  .spar-body :global(ul),
+  .spar-body :global(ol) {
+    padding-left: var(--space-xl);
+    margin-bottom: var(--space-lg);
+  }
+
+  .spar-body :global(li) {
+    font-size: 1.02rem;
+    line-height: 1.75;
+    margin-bottom: var(--space-sm);
+    color: var(--text-secondary);
+  }
+
+  .spar-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-top: var(--space-3xl);
+    padding-top: var(--space-xl);
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+  }
+
+  .tag-pill {
+    font-family: var(--font-label);
+    font-size: 0.62rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    opacity: 0.5;
+    padding: 4px 12px;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.02);
+  }
+
+  .spar-nav {
+    display: flex;
+    justify-content: center;
+    margin-top: var(--space-2xl);
+    padding-top: var(--space-xl);
+  }
+</style>
