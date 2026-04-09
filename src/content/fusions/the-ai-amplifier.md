@@ -118,10 +118,13 @@ AI does not fix your organisation. It amplifies whatever your engineering organi
 | Measures Lines of Code generated | Measures lead time to production |
 | Sees the IDE as the bottleneck | Sees the deployment pipeline as the bottleneck |
 | Accelerates the creation of technical debt | Accelerates the creation of business value |
+| Prompts for maximum generation | Exercises taste to establish constraint |
 
 The organisations winning with AI in 2026 are not the ones who adopted it fastest. They are the ones who diagnosed their bottlenecks honestly, fixed their architectural foundations, and then plugged in the amplifier. 
 
-They practiced before they turned up the volume.
+They practiced before they turned up the volume. 
+
+Generating 1,000 lines of code in seconds merely shifts the burden. Value has permanently moved from execution to judgment. Specifically, it has moved to *taste*—the acquired, lived experience required to look at ten AI-generated options and know precisely which nine to kill.
 
 One-line distillation: **The factors that determine AI success are the same factors that determined software delivery success before AI existed.** 
 
