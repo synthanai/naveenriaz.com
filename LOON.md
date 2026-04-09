@@ -38,13 +38,13 @@ Neural Canvas is **metabolically alive** but **reflectively dormant**. This LOON
 
 ## Entry: 2026-04-09 — The Neural Awakening
 
-**Trigger**: The `index.astro` and primitive routing systems were radically redesigned via SPAR deep debate to formalize the 10-primitive logic.
+**Trigger**: The `index.astro` and primitive routing systems were radically redesigned via SPAR deep debate to formalize the primitive logic.
 
 ### Thread Check (Did the NOOL hold?)
 | NOOL Layer | Expected (from NOOL) | Actual | Drift |
 |------------|---------------------|--------|-------|
 | **Intent** | Serve as public radiation point translating internal intelligence | Successfully mapped the internal intelligence to the external canvas via Cognitive Routing | Aligned |
-| **Abstraction** | SEQUENCING intelligence into 10 primitives | Implemented perfectly in UI | Aligned |
+| **Abstraction** | SEQUENCING intelligence into primitives | Implemented perfectly in UI | Aligned |
 
 ### Chain Audit (Did the HOW work?)
 | Step | NOOL Expected | Actual Status | Lesson |
@@ -52,8 +52,8 @@ Neural Canvas is **metabolically alive** but **reflectively dormant**. This LOON
 | 3 | Build Graphical Logic | Done | Raw native CSS flex-boxes rendered the 4 Canonical Pathways far better than heavy Mermaid scripts. |
 
 ### Unexpected Signals
-- We discovered through a `[/spar]deep` dialectic that the 10 primitives form **Four Canonical Pathways** depending on the entry vector (Crucible, Scholar, Collision, Transmuter).
-- A second `[/spar]deep` discovered the **Master Resonance Loop** (The Ouroboros), proving that a single ultimate signal traces all 10 primitives infinitely. What began as a static layout became a biologic cycle.
+- We discovered through a `[/spar]deep` dialectic that the primitives form **Four Canonical Pathways** depending on the entry vector (Crucible, Scholar, Collision, Transmuter).
+- A second `[/spar]deep` discovered the **Master Resonance Loop** (The Ouroboros), proving that a single ultimate signal traces all primitives infinitely. What began as a static layout became a biologic cycle.
 
 ### The Knot 🪢
 > [HUMAN: Write one sentence of crystallized learning down below]
