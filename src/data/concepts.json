@@ -56,7 +56,7 @@
       "dimension": "play",
       "description": "2000-year-old Tamil couplets grounding modern reasoning",
       "repo": "kural",
-      "fileCount": 96,
+      "fileCount": 6991,
       "firstSeen": "2026-01-19T19:57:35+11:00",
       "lastModified": "2026-04-09T20:01:56+10:00"
     },
@@ -66,7 +66,7 @@
       "dimension": "work",
       "description": "Brain infrastructure for AI agent orchestration",
       "repo": "agentic-kit",
-      "fileCount": 655,
+      "fileCount": 1449,
       "firstSeen": "2026-01-26T17:21:24+11:00",
       "lastModified": "2026-04-09T20:01:56+10:00"
     },
@@ -106,7 +106,7 @@
       "dimension": "work",
       "description": "Interactive debate visualization platform",
       "repo": "spar-arena",
-      "fileCount": 675,
+      "fileCount": 2566,
       "firstSeen": "2026-01-21T22:36:26+11:00",
       "lastModified": "2026-04-09T20:01:56+10:00"
     },
@@ -126,7 +126,7 @@
       "dimension": "play",
       "description": "Learning and pedagogy toolkit",
       "repo": "student-kit",
-      "fileCount": 77,
+      "fileCount": 255,
       "firstSeen": "2026-02-18T04:44:13+11:00",
       "lastModified": "2026-04-09T20:01:56+10:00"
     }
