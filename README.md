@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://naveenriaz.com">Live Site</a> · 
   <a href="#architecture">Architecture</a> · 
-  <a href="#collisions">Collisions</a> · 
+  <a href="#content-architecture-primitives">Primitives</a> · 
   <a href="#license">License</a>
 </p>
 

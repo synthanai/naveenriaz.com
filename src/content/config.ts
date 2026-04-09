@@ -22,6 +22,7 @@ const fusions = defineCollection({
       idea_b: z.string().optional(),
       ideas: z.array(z.string()).optional(),
     }).optional(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 
@@ -49,6 +50,7 @@ const knots = defineCollection({
     prev_knot_title: z.string().optional(),
     next_knot: z.string().optional(),
     next_knot_title: z.string().optional(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 
@@ -63,6 +65,7 @@ const sparks = defineCollection({
     tags: z.array(z.string()),
     description: z.string(),
     fusion_link: z.string().optional(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 
@@ -75,6 +78,7 @@ const beads = defineCollection({
     kural_number: z.number().optional(),
     born_from_knot: z.string().optional(),
     date: z.coerce.date(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 
@@ -87,6 +91,7 @@ const claws = defineCollection({
     resonance: z.string(),
     born_from_literature: z.string().optional(),
     date: z.coerce.date(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 
@@ -96,6 +101,7 @@ const wows = defineCollection({
     title: z.string(),
     date: z.coerce.date(),
     essence: z.string(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 
@@ -105,6 +111,7 @@ const awes = defineCollection({
     title: z.string(),
     date: z.coerce.date(),
     essence: z.string(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 
@@ -114,6 +121,7 @@ const syncs = defineCollection({
     title: z.string(),
     date: z.coerce.date(),
     essence: z.string(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 
@@ -123,6 +131,7 @@ const digs = defineCollection({
     title: z.string(),
     date: z.coerce.date(),
     essence: z.string(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 
@@ -135,6 +144,7 @@ const spars = defineCollection({
     confidence: z.string().optional(),
     source: z.string().optional(),
     tags: z.array(z.string()).optional(),
+    origin_nodes: z.array(z.string()).optional(),
   }),
 });
 

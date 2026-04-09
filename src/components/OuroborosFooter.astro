@@ -1,0 +1,136 @@
+---
+import { getForwardPaths } from '../utils/cognitiveGraph';
+
+interface Props {
+  collection: string;
+  slug: string;
+}
+
+const { collection, slug } = Astro.props;
+let forwardPaths: string[] = [];
+
+try {
+  forwardPaths = await getForwardPaths(collection, slug);
+} catch (e) {
+  console.error("Error fetching forward paths for Ouroboros Footer", e);
+}
+
+// Maps primitive types to nice readable labels / icons
+const PrimitiveLabels: Record<string, { label: string; icon: string }> = {
+  fusions: { label: 'Fusion', icon: '🌌' },
+  knots: { label: 'Knot', icon: '🪢' },
+  sparks: { label: 'Spark', icon: '✨' },
+  beads: { label: 'Bead', icon: '📿' },
+  claws: { label: 'Claw', icon: '🦅' },
+  wows: { label: 'Wow', icon: '🤯' },
+  awes: { label: 'Awe', icon: '🏔️' },
+  syncs: { label: 'Sync', icon: '🤝' },
+  digs: { label: 'Dig', icon: '⛏️' },
+  spars: { label: 'SPAR', icon: '⚔️' }
+};
+---
+
+<div class="ouroboros-footer">
+  <div class="ouroboros-header">
+    <h3>The Master Resonance Loop</h3>
+    <p>You have unpacked this {PrimitiveLabels[collection]?.label || 'Node'}. Where to next?</p>
+  </div>
+  
+  {forwardPaths.length > 0 ? (
+    <ul class="ouroboros-paths">
+      {forwardPaths.map(path => {
+         const [col, pSlug] = path.split(':');
+         const meta = PrimitiveLabels[col] || { label: col, icon: '🔗' };
+         // Naive formatting for the display name
+         const displayName = pSlug.replace(/-/g, ' ');
+         
+         return (
+           <li>
+              <a href={`/${col}/${pSlug}`} class="ouroboros-link">
+                 <span class="ouroboros-icon">{meta.icon}</span>
+                 <span class="ouroboros-text"><strong>{meta.label}:</strong> {displayName}</span>
+              </a>
+           </li>
+         );
+      })}
+    </ul>
+  ) : (
+    <div class="ouroboros-deadend">
+       <p>There are no recorded forward paths from this moment yet.</p>
+       <a href="/" class="ouroboros-return">Return to the Canvas &rarr;</a>
+    </div>
+  )}
+</div>
+
+<style>
+  .ouroboros-footer {
+    margin-top: 4rem;
+    padding: 2.5rem;
+    border-top: 2px solid rgba(200, 158, 90, 0.3); /* Parchment highlight */
+    border-radius: 8px;
+    background: rgba(10, 10, 10, 0.95);
+  }
+  .ouroboros-header h3 {
+    margin: 0 0 0.5rem 0;
+    font-family: 'Outfit', sans-serif;
+    color: #c89e5a; /* Synchronized SYNTHAI highlight */
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 1.1rem;
+  }
+  .ouroboros-header p {
+    margin-top: 0;
+    color: #aaaaaa;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+  }
+  .ouroboros-paths {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+  }
+  .ouroboros-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1.25rem;
+    background: #1a1a1a;
+    color: #e0e0e0;
+    text-decoration: none;
+    border: 1px solid #333;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    font-family: 'Inter', sans-serif;
+  }
+  .ouroboros-link:hover {
+    border-color: #c89e5a;
+    background: #222;
+    transform: translateY(-2px);
+  }
+  .ouroboros-icon {
+    font-size: 1.2rem;
+  }
+  .ouroboros-text {
+    font-size: 0.95rem;
+    text-transform: capitalize;
+  }
+  .ouroboros-deadend {
+    margin-top: 1.5rem;
+  }
+  .ouroboros-deadend p {
+    color: #888;
+  }
+  .ouroboros-return {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #c89e5a;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .ouroboros-return:hover {
+    text-decoration: underline;
+  }
+</style>

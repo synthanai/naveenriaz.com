@@ -28,7 +28,7 @@ const tempLabels: Record<string, string> = {
       </h1>
       <p class="hero-sub">
         One observation. 108 words. Source attributed.<br />
-        When multiple sparks connect, they become a collision.
+        When multiple sparks connect, they become a fusion.
       </p>
       <p class="hero-count">{sorted.length} sparks captured</p>
     </div>
@@ -66,7 +66,7 @@ const tempLabels: Record<string, string> = {
               ))}
             </div>
             {spark.data.fusion_link && (
-              <span class="spark-card__collision-badge">→ collision</span>
+              <span class="spark-card__fusion-badge">→ fusion</span>
             )}
           </div>
         </a>
@@ -220,7 +220,7 @@ const tempLabels: Record<string, string> = {
     background: rgba(255, 255, 255, 0.02);
   }
 
-  .spark-card__collision-badge {
+  .spark-card__fusion-badge {
     font-family: var(--font-label);
     font-size: 0.5rem;
     font-weight: 700;

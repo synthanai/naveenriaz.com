@@ -2,6 +2,7 @@
 import Base from "./Base.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import OuroborosFooter from "../components/OuroborosFooter.astro";
 
 interface Props {
   title: string;
@@ -11,7 +12,7 @@ interface Props {
   signal: string;
   temperature: string;
   tags: string[];
-  collisionLink?: string;
+  fusionLink?: string;
 }
 
 const {
@@ -22,7 +23,7 @@ const {
   signal,
   temperature,
   tags,
-  collisionLink,
+  fusionLink,
 } = Astro.props;
 
 const formattedDate = date.toLocaleDateString("en-GB", {
@@ -76,11 +77,11 @@ const accentColor = tempColors[temperature] || "var(--accent)";
         </div>
       )}
 
-      <!-- Collision Link -->
-      {collisionLink && (
-        <div class="spark-collision-link animate-in animate-delay-2">
-          <a href={collisionLink} class="btn btn--collision">
-            Read the full collision →
+      <!-- Fusion Link -->
+      {fusionLink && (
+        <div class="spark-fusion-link animate-in animate-delay-2">
+          <a href={fusionLink} class="btn btn--fusion">
+            Read the full fusion →
           </a>
         </div>
       )}
@@ -99,6 +100,7 @@ const accentColor = tempColors[temperature] || "var(--accent)";
         <a href="/sparks/" class="btn">← All Sparks</a>
       </nav>
 
+      <OuroborosFooter collection="sparks" slug={Astro.params.slug as string || Astro.url.pathname.replace(/\/$/, '').split('/').pop() || ''} />
     </article>
   </main>
   <Footer />
@@ -201,13 +203,13 @@ const accentColor = tempColors[temperature] || "var(--accent)";
     word-break: break-all;
   }
 
-  /* ── Collision Link ── */
-  .spark-collision-link {
+  /* ── Fusion Link ── */
+  .spark-fusion-link {
     text-align: center;
     margin-top: var(--space-xl);
   }
 
-  .btn--collision {
+  .btn--fusion {
     background: linear-gradient(135deg, rgba(40, 116, 166, 0.15), rgba(212, 168, 67, 0.15));
     border: 1px solid rgba(255, 255, 255, 0.1);
     padding: var(--space-sm) var(--space-xl);
@@ -221,7 +223,7 @@ const accentColor = tempColors[temperature] || "var(--accent)";
     transition: all 0.2s ease;
   }
 
-  .btn--collision:hover {
+  .btn--fusion:hover {
     background: linear-gradient(135deg, rgba(40, 116, 166, 0.25), rgba(212, 168, 67, 0.25));
     border-color: rgba(255, 255, 255, 0.2);
     transform: translateY(-2px);
