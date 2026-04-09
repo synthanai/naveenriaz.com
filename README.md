@@ -41,42 +41,53 @@ This one organises by **dimension of thought**:
 
 The ஃ (Ayudha Ezhuthu) at the centre is the Tamil vowel that connects all three dots.
 
-## Collisions
+## Content Architecture (Primitives)
 
-A **Collision** is an intellectual event, not a blog post. Two ideas from different domains crash into each other and produce a new pattern. If there is no crash, it is not a collision.
+Think of a **Primitive** as a specialized container for an idea. Instead of dumping every thought into a generic "blog post", intelligence goes into specialized atomic shapes based on depth (Short/Long) and dimension (Think, Work, Play, Vibe).
 
-Every collision follows a NOOL (reasoning thread):
+| Primitive | Dimension | Length | Layman Definition |
+| :--- | :--- | :--- | :--- |
+| **Spark** | Think (Mind) | Short | A quick, 108-word observation or raw idea you picked up from the world. |
+| **Fusion** | Think (Mind) | Long | A deep essay that combines multiple Sparks into a big-picture theory linking philosophy to execution. |
+| **Knot** | Work (Body) | Short | A specific, sticky problem or friction point you noticed in a system. |
+| **Claw** | Work (Body) | Long | A bad habit or legacy rule ("Law") that drags an organization down over time. |
+| **Dig** | Work (Body) | Long | Deep research into history or literature to extract useful frameworks. |
+| **Wow** | Play (Soul) | Short | A quick "aha!" moment where your perspective suddenly shifts. |
+| **Awe** | Play (Soul) | Long | A deep emotional story about witnessing something beautiful or profoundly well-designed. |
+| **Bead** | Play (Soul) | Long | A piece of hard-earned tactical wisdom or a practical solution built from actual execution. |
+| **Sync** | Vibe (Resonance) | Short | A quick connection with a person or idea that perfectly matches your frequency. |
+| **SPAR** | Vibe (Resonance) | Long | A structured, multi-player debate (often with AI) used to stress-test your reasoning. |
 
-```yaml
-collision_nool:
-  nokkam: "WHY is this collision being written?"   # Intent
-  vadivam: "WHAT TYPE of collision?"                # Abstraction
-  sangilai: "HOW will we know it succeeded?"        # Chain
-```
+### Cognitive Routing
 
-| Collision | Ideas That Crashed |
-|-----------|-------------------|
-| [Intent of Thought](src/content/collisions/intent-of-thought.md) | BDI agent theory (1990) × XoT reasoning topologies (2025) |
-| [The $1 Notebook](src/content/collisions/the-one-dollar-notebook.md) | Handwriting as cognitive tool × SPAR deliberation × Purpose Amnesia |
-| [Architecture Is the Moat](src/content/collisions/architecture-is-the-moat.md) | Three independent practitioners converging on the same insight |
-| [The Three Fatigues](src/content/collisions/fatigue-paradox.md) | AI Fatigue × Decision Fatigue × Judgement Fatigue (MBS spiral) |
+The primitives form a dynamic neural network mapping how intelligence flows across four canonical pathways:
+
+1. **The Crucible (Friction-First):** `Knot → Claw → Bead` (Extracting values from systemic constraints)
+2. **The Scholar (Research-First):** `Spark → Dig → Fusion` (Tracking external signals to historical roots)
+3. **The Collision (Resonance-First):** `Sync → SPAR → Wow → Fusion` (Mindset shifts via high-friction interactions)
+4. **The Transmuter (Value-First):** `Bead → SPAR → Knot` (Applying established value to unravel specific tangles)
+
+**The Master Resonance Loop (Ouroboros):** traverses every node to form a biological lifecycle — `Knot → Dig → Claw → Wow → Awe → Bead → Spark → Fusion → Sync → SPAR → [Back to Knot...]`.
 
 ## Architecture
 
-```
+```text
 src/
-├── components/         11 Astro components
-│   ├── CollisionGate   Weekly provocative question
-│   ├── TamilRoot       Tamil script with transliteration + Kural wisdom
-│   ├── ConstellationGraph  Interactive concept network
-│   ├── PulseMetrics    Live ecosystem dashboard
-│   ├── PatternCard     Reusable content cards
-│   └── ...
-├── content/
-│   └── collisions/     Markdown content collection (Collision articles)
+├── components/         Astro components (Header, Footer, layour specific chunks)
+├── content/            The 10 Primitive collections
+│   ├── awes/
+│   ├── beads/
+│   ├── claws/
+│   ├── digs/
+│   ├── fusions/
+│   ├── knots/
+│   ├── sparks/
+│   ├── spars/
+│   ├── syncs/
+│   └── wows/
 ├── data/               JSON data (pulse, concepts, arena SPARs)
 ├── layouts/            Base + Page layouts
-├── pages/              28 pages across Think / Work / Play / Vibe
+├── pages/              Pages across Think / Work / Play / Vibe and individual primitives
 └── styles/
     ├── brand-tokens.css  Design system tokens (MBS color palette)
     └── global.css        Global styles
