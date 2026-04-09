@@ -66,9 +66,13 @@ const accentColor = tempColors[temperature] || "var(--accent)";
       {source && (
         <div class="spark-source animate-in animate-delay-2">
           <span class="source-label">SOURCE</span>
-          <a href={source.startsWith("http") ? source : "#"} target="_blank" rel="noopener">
-            {source}
-          </a>
+          {source.startsWith("http") ? (
+            <a href={source} target="_blank" rel="noopener">
+              {source}
+            </a>
+          ) : (
+            <span class="source-text">{source}</span>
+          )}
         </div>
       )}
 
@@ -190,7 +194,8 @@ const accentColor = tempColors[temperature] || "var(--accent)";
     margin-bottom: var(--space-xs);
   }
 
-  .spark-source a {
+  .spark-source a,
+  .source-text {
     font-size: 0.82rem;
     color: var(--accentColor, var(--accent));
     word-break: break-all;

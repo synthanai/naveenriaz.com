@@ -95,7 +95,7 @@ The question neither CEO has answered: who builds the operating system that make
 
 ---
 
-*This collision emerged from a [STEAL on the One-Person Unicorn thesis](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/one-person-unicorn-ai-founder/research.md), tracking the convergence between AI lab predictions and the governance gap that determines which solo founder actually gets there.*
+*This collision emerged from a STEAL on the One-Person Unicorn thesis, tracking the convergence between AI lab predictions and the governance gap that determines which solo founder actually gets there.*
 
 <!--
 STATEMENT: Sam Altman and Dario Amodei both predict a one-person, billion-dollar company. The prediction is credible. The unstated assumption is not. The bottleneck isn't AI capability. It's the governance OS required to make twenty agents function like a company. Who builds that OS?

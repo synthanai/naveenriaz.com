@@ -103,7 +103,7 @@ Who writes the constitution for the agents in your codebase, and what happens wh
 
 ---
 
-*This collision emerged from a [STEAL on the AGENTS.md specification](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/agents-md-configuration-standard/research.md), tracking the sixth independent convergence between industry standards and an existing complete architecture.*
+*This collision emerged from a STEAL on the AGENTS.md specification, tracking the sixth independent convergence between industry standards and an existing complete architecture.*
 
 <!--
 STATEMENT: AGENTS.md is a README for AI agents. Five major tools adopted it in months. It solves Stage 1 of a four-stage maturity model. Stages 2, 3, and 4 (workflows, governance, culture) are still wide open. The gap between a config file and an operating system is the next three years of agent infrastructure.

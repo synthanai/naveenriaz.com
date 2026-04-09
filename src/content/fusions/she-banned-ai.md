@@ -92,7 +92,7 @@ What problem in your organisation are you solving with a Body fix, when the dise
 
 ---
 
-*This collision emerged from a [STEAL on Roya Shahidi's Business Insider article](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/ai-classroom-regression/research.md) (9 March 2026) documenting Professor Ayşe Baltacıoğlu-Brammer's classroom notebook retreat at NYU.*
+*This collision emerged from a STEAL on Roya Shahidi's Business Insider article (9 March 2026) documenting Professor Ayşe Baltacıoğlu-Brammer's classroom notebook retreat at NYU.*
 
 <!--
 STATEMENT: An NYU professor banned AI and bought $1 notebooks. She solved a symptom. The disease is fifty years old. Every technology wave produces the same response: ban the tool, protect the status quo, lose the students who needed it most.

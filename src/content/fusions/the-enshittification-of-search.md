@@ -90,7 +90,7 @@ What percentage of your audience would still find you if Google replaced your pa
 
 ---
 
-*This collision emerged from a [STEAL on Google's AI-generated pages patent](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/google-ai-generated-pages-patent/research.md), tracing the three-stage content intermediation trajectory and the soul extraction pattern it reveals.*
+*This collision emerged from a STEAL on Google's AI-generated pages patent, tracing the three-stage content intermediation trajectory and the soul extraction pattern it reveals.*
 
 <!--
 STATEMENT: Google's trajectory: snippets (showed your content), AI Overviews (summarised your content), AI page replacement (replaced your content). Each stage absorbs more of your value. The defence is not better SEO. The defence is soul: content with identity, voice, and a direct audience relationship that doesn't flow through Google.

@@ -94,7 +94,7 @@ The question is not whether your decisions need it. The question is whether you 
 
 ---
 
-*This collision emerged from a [STEAL on SPAR's cross-domain application patterns](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/spar-cross-domain-application/research.md), mapping SPAR to game theory mechanism design, cybernetics requisite variety, and economic stress testing.*
+*This collision emerged from a STEAL on SPAR's cross-domain application patterns, mapping SPAR to game theory mechanism design, cybernetics requisite variety, and economic stress testing.*
 
 <!--
 STATEMENT: Every domain has a name for premature convergence: Groupthink (orgs), Sycophancy (AI), Minsky Moments (finance), Local Minima (maths). Every domain independently invented the same fix: structured adversarial friction. SPAR formalises the universal mechanism. It is not an AI feature. It is a governance primitive.

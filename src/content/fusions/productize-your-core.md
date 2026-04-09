@@ -106,7 +106,7 @@ Have you excavated far enough to find it?
 
 ---
 
-*This collision emerged from a [STEAL on Linas Beliunas' synthesis of Naval Ravikant's framework](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/frameworks/productize-yourself-naval/research.md), bridging Naval's leverage economics with identity architecture to reveal where specific knowledge actually lives.*
+*This collision emerged from a STEAL on Linas Beliunas' synthesis of Naval Ravikant's framework, bridging Naval's leverage economics with identity architecture to reveal where specific knowledge actually lives.*
 
 <!--
 STATEMENT: Naval said find your specific knowledge. He didn't say where to look. Your resume lists what you can do. Your CORE reveals what you are. Specific knowledge is not a skill. It's the identity pattern beneath all your skills. Excavate deep enough and the personal monopoly is already there.

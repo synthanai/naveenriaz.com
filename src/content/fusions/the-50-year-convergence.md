@@ -105,7 +105,7 @@ What other truth is hiding in the convergence between your oldest systems and yo
 
 ---
 
-*This collision emerged from a [STEAL on the *nix Agent thesis](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/nix-agent-unix-llm-convergence/research.md) by a former Manus backend lead, captured alongside two convergent signals on the same day (14 March 2026).*
+*This collision emerged from a STEAL on the *nix Agent thesis by a former Manus backend lead, captured alongside two convergent signals on the same day (14 March 2026).*
 
 <!--
 STATEMENT: Unix decided everything is text in 1970. LLMs decided everything is tokens in 2020. Same interface model, fifty years apart. That's not a trend. That's a fundamental truth about composable computation. And it means your typed tool schemas are a translation layer between two systems that already speak the same language.

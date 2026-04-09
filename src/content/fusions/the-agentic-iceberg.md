@@ -92,7 +92,7 @@ When your agent fails in production, which layer fails? And more importantly: di
 
 ---
 
-*This collision draws from [research on Agentic Infrastructure](../../2-research/concept/agentic-infrastructure/research.md) (Maheshwari, 2026) and connects directly to the broader argument in [The Leverage Lie](/collisions/the-leverage-lie): speed without governance isn't leverage, it's faster noise.*
+*This collision draws from research on Agentic Infrastructure (Maheshwari, 2026) and connects directly to the broader argument in [The Leverage Lie](/fusions/the-leverage-lie): speed without governance isn't leverage, it's faster noise.*
 
 <!--
 STATEMENT: Your agent demo took a weekend. The infrastructure to make it reliable took a quarter. That ratio is not a bug. It's the industry's dirty secret. And if you haven't built the five invisible layers yet, you don't have a production agent. You have an expensive POC.

@@ -83,7 +83,7 @@ Are they the same? And if not, what pattern is lowering the frequency that nobod
 
 ---
 
-*This collision emerged from a [STEAL on dream dimension navigation and consciousness frequency models](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/dream-dimension-navigation/research.md), translating metaphysical frequency vocabulary into organisational diagnostic tools through structural homology.*
+*This collision emerged from a STEAL on dream dimension navigation and consciousness frequency models, translating metaphysical frequency vocabulary into organisational diagnostic tools through structural homology.*
 
 <!--
 STATEMENT: Culture is not a values poster. It is a frequency. Your organisation vibrates at the level of its worst unaddressed pattern. Not the worst person. The worst pattern. Because patterns are contextual, not intrinsic. Fix the system, the pattern dissolves. Leave it unaddressed, every meeting lowers the collective frequency.

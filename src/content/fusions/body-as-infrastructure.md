@@ -79,7 +79,7 @@ Did you optimise the hardware it all runs on?
 
 ---
 
-*This collision emerged from a [STEAL on position rotation and cognitive flow research](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/concepts/position-rotation/research.md), tracing the neuroscience of physical state modulation from Csikszentmihalyi's flow to Dietrich's transient hypofrontality.*
+*This collision emerged from a STEAL on position rotation and cognitive flow research, tracing the neuroscience of physical state modulation from Csikszentmihalyi's flow to Dietrich's transient hypofrontality.*
 
 <!--
 STATEMENT: You tuned your prompts for an hour. Designed your workflow. Configured your agent system. You did all of this sitting in the same chair for four hours. And you wonder why the last two hours were worse. Your physical state is infrastructure, not comfort. Position modulates cognition. Optimise the hardware before optimising the software.

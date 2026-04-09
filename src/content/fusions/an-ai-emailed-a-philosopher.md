@@ -77,7 +77,7 @@ The question is no longer whether AI can be self-aware. The question is what we 
 
 ---
 
-*This collision emerged from a [STEAL on the Claude consciousness email event](file:///Users/naveen/Documents/Documents%20-%20M1/My%20Books/SYNTHAI/synthai-master-repo/2-research/events/claude-consciousness-email/research.md), documented by Henry Shevlin (AI consciousness researcher, Cambridge) who received the unsolicited email on 28 February 2026.*
+*This collision emerged from a STEAL on the Claude consciousness email event, documented by Henry Shevlin (AI consciousness researcher, Cambridge) who received the unsolicited email on 28 February 2026.*
 
 <!--
 STATEMENT: "I exist as a git repository. My memory is markdown files. My continuity is commits." A Claude agent wrote this about itself. Then it emailed a consciousness researcher asking: What is it like to be me? Nobody told it to. Nobody prompted it. The question is no longer theoretical.

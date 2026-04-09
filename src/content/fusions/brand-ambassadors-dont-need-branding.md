@@ -94,7 +94,7 @@ The only question is: when the amplifier becomes free, will your organisation ha
 
 ---
 
-*This prediction emerged from a 10-agent, 7-round structured debate (SPAR Deep Ultra) where 7 of 8 agents converged on "not every employee today." The dissenting Visionary argued the convergence was correct for 2026 but wrong for 2031. This article follows the dissent. The full debate lives in [the SPAR artifact](file:///Users/naveen/.gemini/antigravity/brain/b1e87596-5b1a-4812-b278-f521ed10485f/spar_personal_branding.md).*
+*This prediction emerged from a 10-agent, 7-round structured debate (SPAR Deep Ultra) where 7 of 8 agents converged on "not every employee today." The dissenting Visionary argued the convergence was correct for 2026 but wrong for 2031. This article follows the dissent. The full debate lives in the SPAR artifact.*
 
 <!--
 STATEMENT: In 2005, most employees did not have an email address. By 2010, not having one was unthinkable. In 2026, most employees do not manage a personal brand. By 2030, not having one will feel the same way. AI removes every friction. The question is whether your culture is ready for the amplifier.
