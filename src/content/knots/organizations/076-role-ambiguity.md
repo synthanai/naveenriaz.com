@@ -8,8 +8,8 @@ series_number: 4
 slug_name: role-ambiguity
 date: 2026-03-17
 description: "When you see what is right, act on it...."
-quote_top: "When a problem appears, three people investigate separately.\nOr nobody does."
-quote_bottom: "Role ambiguity means nobody sees clearly enough to act,\nbecause nobody knows whose role it is to act."
+
+
 punch_line_1: "When you see what is right, act on it."
 punch_line_2: "Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act."
 felt_hook: "When a problem appears, three people investigate separately. Or nobody does, because each assumes someone else will handle it."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every role has three documented outputs: what it produces, what it decides, and what it escalates."
   - "When roles are clear, duplication disappears, accountability sharpens, and people stop defending ..."
 untie_question: "What would change in your organization if you untangled \"role ambiguity\" this week?"
+quote_top: "Role ambiguity cripples teams, transforming flexibility into chaos."
+quote_bottom: "Clarity unlocks productivity."
 ---
 
 When you see what is right, act on it.

@@ -8,8 +8,8 @@ series_number: 8
 slug_name: decision-fragmentation
 date: 2026-03-17
 description: "Those who know the weight of words speak only after understanding the full assem..."
-quote_top: "Three teams decide separately\nbecause none sees the whole."
-quote_bottom: "Each decision was rational in isolation.\nTogether, they created three incompatible systems."
+
+
 punch_line_1: "Those who know the weight of words speak only after understanding the full assembly."
 punch_line_2: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."
 felt_hook: "Each decision was rational in isolation. Together, they created three incompatible systems, three duplicated budgets, and three teams who discovered each other at the integration meeting."
@@ -27,6 +27,8 @@ untie_practices:
   - "Before any decision with cross-team implications, the decision-maker identifies who else is decid..."
   - "When decisions are visible across teams, duplication drops, resources consolidate, and the organi..."
 untie_question: "What would change in your organization if you untangled \"decision fragmentation\" this week?"
+quote_top: "Fragmented decisions: individually rational, collectively catastrophic."
+quote_bottom: "Incoherence kills innovation."
 ---
 
 Those who know the weight of words speak only after understanding the full assembly.

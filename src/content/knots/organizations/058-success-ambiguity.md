@@ -8,8 +8,8 @@ series_number: 10
 slug_name: success-ambiguity
 date: 2026-03-17
 description: "A true fortress has resources, location, and worthy people...."
-quote_top: "The initiative can't succeed because success was never defined.\nAnd it can't fail, because failure requires a standard that doesn't exist."
-quote_bottom: "Motion without a defined destination\nis wandering."
+
+
 punch_line_1: "A true fortress has resources, location, and worthy people."
 punch_line_2: "Success ambiguity means the change initiative has no fortress: no defined resources, no clear location of victory, no way to know when it's been achieved."
 felt_hook: "The initiative can't succeed because success was never defined. And it can't fail, because failure requires a standard that doesn't exist."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every initiative has a single-sentence success definition: a measurable end state that, when achi..."
   - "When success is defined, initiatives complete instead of lingering, resources are freed for new w..."
 untie_question: "What would change in your organization if you untangled \"success ambiguity\" this week?"
+quote_top: "No defined success means your initiative cannot end."
+quote_bottom: "It will consume resources forever."
 ---
 
 A true fortress has resources, location, and worthy people.

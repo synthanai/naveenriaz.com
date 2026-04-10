@@ -17,8 +17,8 @@ fusion_point:
     - "The translation layer death (PM existed to translate customer → engineering)"
     - "The middle management squeeze (agents replacing coordinators across both software and orgs)"
     - "Context Engineer as the surviving role (curating, not translating)"
-quote_top: "The Product Requirements Document, a long-standing centerpiece, is now obsolete due to LLMs bridging the communication gap between customer needs and engineering specifications."
-quote_bottom: "LLMs automate the 'translation layer' of product management, shifting the PM's role from mechanical conversion to higher-order strategic work."
+quote_top: "LLMs speak both languages natively, ending the PRD era."
+quote_bottom: "The translator is here."
 ---
 
 # The Death of the PRD

@@ -3,10 +3,12 @@ title: "The Immune System"
 date: 2026-03-20
 signal: "A solo practitioner independently converged on multi-agent architecture, adversarial review loops, and self-improving workflows, calling the adversarial layer 'the immune system.'"
 temperature: "🔥🔥🔥"
-quote_top: "AI reasoning improves\nwhen you force disagreement\nbefore synthesis."
-quote_bottom: "When independent builders converge\non the same architecture,\nit is a necessity."
+
+
 tags: ["convergent-evolution", "self-improving", "adversarial-review"]
 description: "Three independent builders. Same architecture. The pattern is structural."
+quote_top: "AI reasoning improves through forced disagreement before synthesis."
+quote_bottom: "Necessity, not preference."
 ---
 
 Klaus Kaan is a solo developer. He built a system where one AI agent writes code, a second reviews it adversarially, and a third arbitrates conflicts. He calls the adversarial layer "the immune system."

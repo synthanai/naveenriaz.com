@@ -17,8 +17,8 @@ fusion_point:
     - "Position → cognitive state → contribution quality → collective intelligence (bottom-up chain)"
     - "Perceived Exertion (Body) vs Perceived Effort (Mind): the duality most knowledge workers collapse"
     - "The Oasis Effect: novelty prevents cognitive stagnation, at individual and organisational scales"
-quote_top: "Our intelligent efforts are often sabotaged by our physical neglect, treating the body as mere transportation for the brain."
-quote_bottom: "Cognitive performance is not solely mental; it's a fusion of body position and environmental place, dictating true productivity and insight."
+quote_top: "Your body isn't transport; it's your cognitive infrastructure."
+quote_bottom: "Move to think."
 ---
 
 # Body as Infrastructure

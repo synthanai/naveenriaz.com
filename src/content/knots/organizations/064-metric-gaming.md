@@ -8,8 +8,8 @@ series_number: 4
 slug_name: metric-gaming
 date: 2026-03-17
 description: "One who speaks truth from the heart surpasses those who practice austerity and c..."
-quote_top: "The numbers are technically accurate.\nThe story they tell is fiction."
-quote_bottom: "The organization optimized for the metric,\nand lost sight of what the metric\nwas supposed to measure."
+
+
 punch_line_1: "One who speaks truth from the heart surpasses those who practice austerity and charity."
 punch_line_2: "Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart."
 felt_hook: "Your organization optimized for the metric and lost sight of the thing the metric was supposed to measure."
@@ -29,6 +29,8 @@ untie_practices:
   - "Ask \"what do we know that we're not using?\""
   - "Create one cross-team knowledge connection this week"
 untie_question: "What would change in your organization if you untangled \"metric gaming\" this week?"
+quote_top: "Metrics lie, dashboards green: You're optimizing the wrong thing."
+quote_bottom: "Failure by the numbers."
 ---
 
 One who speaks truth from the heart surpasses those who practice austerity and charity.

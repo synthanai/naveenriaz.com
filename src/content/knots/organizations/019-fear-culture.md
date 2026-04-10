@@ -8,8 +8,8 @@ series_number: 7
 slug_name: fear-culture
 date: 2026-03-17
 description: "Raise the rod high but strike gently...."
-quote_top: "People do not avoid speaking up\nbecause they were punished.\nThey avoid it because someone else was."
-quote_bottom: "Fear becomes a culture when\nthe predator does not need to hunt,\nbecause the landscape does the work."
+
+
 punch_line_1: "Raise the rod high but strike gently."
 punch_line_2: "Fear-driven authority raises the rod. Wise leadership knows when not to strike."
 felt_hook: "A visitor would call it professional. An insider calls it survival."
@@ -28,6 +28,8 @@ untie_practices:
   - "When fear dissolves (not through slogans, but through repeated safety), initiative replaces compl..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"fear culture\" this week?"
+quote_top: "Fear creates a quiet landscape of survival, not professionalism."
+quote_bottom: "Silence is fear's echo."
 ---
 
 Raise the rod high but strike gently.

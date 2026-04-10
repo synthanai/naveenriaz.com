@@ -17,8 +17,8 @@ fusion_point:
     - "Medical diagnosis vs. pharmaceutical sales"
     - "AI skill monetization as a commodity"
     - "Organisational health as a living system"
-quote_top: "The viral AI skill list prioritizes tool proficiency over true strategic value, leading to commoditization."
-quote_bottom: "Effective AI consultation shifts from tool-selling to strategic diagnosis, like a physician prescribing after understanding the holistic problem."
+quote_top: "AI skills commoditize fast; true value lies beyond mere procedures."
+quote_bottom: "Judgment, not tools, is key."
 ---
 
 # The Tool Installer

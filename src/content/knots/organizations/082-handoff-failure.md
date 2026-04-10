@@ -8,8 +8,8 @@ series_number: 10
 slug_name: handoff-failure
 date: 2026-03-17
 description: "Poverty among the wise hurts less than wealth among the ignorant...."
-quote_top: "Each team is competent.\nThe space between them is competence-free."
-quote_bottom: "The customer does not experience your teams.\nThey experience the transitions between them."
+
+
 punch_line_1: "Poverty among the wise hurts less than wealth among the ignorant."
 punch_line_2: "Handoff failure transfers the baton from a capable team to the gap between teams, where expertise goes to zero."
 felt_hook: "Each team is competent. The space between them is competence-free."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every handoff has a documented protocol: what information transfers, in what format, and who conf..."
   - "When handoffs are designed, customers experience seamlessness, context compounds across teams, an..."
 untie_question: "What would change in your organization if you untangled \"handoff failure\" this week?"
+quote_top: "Customers experience the seams, not the teams themselves."
+quote_bottom: "Fix the baton drops."
 ---
 
 Poverty among the wise hurts less than wealth among the ignorant.

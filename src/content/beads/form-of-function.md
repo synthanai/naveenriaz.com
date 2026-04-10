@@ -5,8 +5,8 @@ resonance: "Preempts sudden failure. An organisation can hit every metric while 
 kural_number: 271
 born_from_knot: "012"
 date: 2026-03-31
-quote_top: "Organizational decay starts invisibly at the core, long before performance metrics reveal the visible collapse."
-quote_bottom: "Measuring performance without purpose masks the true erosion of an organization's soul and reason for being."
+quote_top: "Before collapse, purpose silently drains while performance takes center stage."
+quote_bottom: "Metrics mislead; purpose prevails."
 ---
 The core decays long before the surface shows structural failure.
 

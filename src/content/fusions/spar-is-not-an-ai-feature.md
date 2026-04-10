@@ -17,8 +17,8 @@ fusion_point:
     - "Every domain names premature convergence differently (Groupthink, Sycophancy, Minsky Moments, Local Minima)"
     - "SPAR as mechanism design: structured adversarial friction that prevents premature consensus"
     - "Ashby's Law of Requisite Variety as the scientific justification"
-quote_top: "Premature convergence, disguised by many names across various domains, is a structural failure where systems settle on suboptimal answers by neglecting diverse exploration."
-quote_bottom: "SPAR, or structured adversarial friction, is not just an AI feature but a fundamental governance primitive that counters premature convergence by designing incentives for optimal outcomes."
+quote_top: "Premature convergence is a universal failure across all domains"
+quote_bottom: "SPAR prevents catastrophic consequences"
 ---
 
 # SPAR Is Not an AI Feature

@@ -16,8 +16,8 @@ fusion_point:
     - "AI Fatigue as Body-layer infrastructure overload"
     - "Decision Fatigue as Mind-layer option paralysis"
     - "Judgement Fatigue as Soul-layer existential crisis"
-quote_top: "AI fatigue isn't just about too many tools; it's a self-reinforcing cycle of overwhelming options, exhausted decision-making, and a crisis of trust."
-quote_bottom: "The antidote to AI-era exhaustion is not rest, but clarity achieved by building frameworks, structured evaluation, and a defined self-model, focusing on 'who you are becoming with AI.'"
+quote_top: "AI fatigue: a self-reinforcing spiral of tools, choices, and trust."
+quote_bottom: "Break the cycle with a framework."
 ---
 
 # The Three Fatigues

@@ -8,8 +8,8 @@ series_number: 12
 slug_name: the-ai-readiness-gap
 date: 2026-03-17
 description: "Avoiding harm and standing firm...."
-quote_top: "The AI strategy was written\nfrom the destination backward."
-quote_bottom: "The foundation was never assessed.\nThe AI readiness gap means the organization\ncannot stand firm on its AI strategy."
+
+
 punch_line_1: "Avoiding harm and standing firm."
 punch_line_2: "The AI readiness gap means the organization can't avoid the harm of poor data or stand firm on the foundation of its AI strategy because neither exists."
 felt_hook: "The AI strategy was written from the destination backward. The foundation was never assessed."
@@ -30,6 +30,8 @@ untie_practices:
   - "Pair one experienced person with one new person"
   - "Dedicate one hour this week to skill-building"
 untie_question: "What would change in your organization if you untangled \"the ai readiness gap\" this week?"
+quote_top: "AI dreams crash on shaky data foundation."
+quote_bottom: "Build solid, then soar."
 ---
 
 Avoiding harm and standing firm.

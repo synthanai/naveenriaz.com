@@ -8,8 +8,8 @@ series_number: 9
 slug_name: "vision-inflation"
 date: 2026-03-17
 description: 'Ask three frontline workers: "How does your work this week connect to our vision?" Do they give a real answer or a rehearsed one?'
-quote_top: "When the vision outgrows the operation,\nyou haven't inspired people.\nYou have abandoned them."
-quote_bottom: "The vision isn't too big.\nIt is just too far away\nto matter to the actual work."
+
+
 punch_line_1: "The vision isn't too big."
 punch_line_2: "It's just too far away to matter."
 felt_hook: 'Ask three frontline workers: "How does your work this week connect to our vision?" Do they give a real answer or a rehearsed one?'
@@ -32,6 +32,8 @@ untie_practices:
   - "Write your team's purpose in one sentence"
   - "Compare calendar to stated values this week"
 untie_question: "What would change in your organization if you untangled \"vision inflation\" this week?"
+quote_top: "Grand visions inflate; daily work grounds us."
+quote_bottom: "Execution, not ambition, defines impact."
 ---
 
 "We need to think bigger," Ravi said, pulling up the new slide deck. Three pillars. A flywheel diagram. The words GLOBAL IMPACT in 48-point type.

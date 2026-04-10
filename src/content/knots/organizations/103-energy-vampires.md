@@ -8,8 +8,8 @@ series_number: 7
 slug_name: energy-vampires
 date: 2026-03-17
 description: "Even harsh truth is acceptable. Useless pleasant words are not...."
-quote_top: "Each interaction extracts energy\nwithout depositing value."
-quote_bottom: "The participants leave lighter in spirit\nand heavier in resentment."
+
+
 punch_line_1: "Even harsh truth is acceptable. Useless pleasant words are not."
 punch_line_2: "Energy vampires drain through useless pleasant interaction: meetings that produce nothing, conversations that circle without resolving."
 felt_hook: "Each interaction extracts energy without depositing value. The participants leave lighter in spirit and heavier in resentment."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every recurring process has a quarterly energy audit: does this process produce more value than i..."
   - "When processes are audited for energy return, unnecessary rituals are eliminated, the team's avai..."
 untie_question: "What would change in your organization if you untangled \"energy vampires\" this week?"
+quote_top: "Your processes drain everyone through design, not malice."
+quote_bottom: "Audit and cancel them."
 ---
 
 Even harsh truth is acceptable. Useless pleasant words are not.

@@ -8,8 +8,8 @@ series_number: 9
 slug_name: resource-hoarding
 date: 2026-03-17
 description: "To give and live with honor: no greater profit exists...."
-quote_top: "One team drowns while another sits on surplus,\nand neither profits."
-quote_bottom: "The budget that could solve their problem\nsits unspent in another department's reserve."
+
+
 punch_line_1: "To give and live with honor: no greater profit exists."
 punch_line_2: "Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits."
 felt_hook: "Meanwhile, the team across the hall is working weekends because they can't hire fast enough. The budget that could solve their problem sits unspent in another department's reserve."
@@ -27,6 +27,8 @@ untie_practices:
   - "Resource sharing is tracked and credited."
   - "When sharing is rewarded, resources flow to where they're needed, organizational efficiency impro..."
 untie_question: "What would change in your organization if you untangled \"resource hoarding\" this week?"
+quote_top: "Resource hoarding starves your organization's downstream ecosystem."
+quote_bottom: "Redistribute for collective vitality."
 ---
 
 To give and live with honor: no greater profit exists.

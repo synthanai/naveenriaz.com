@@ -8,8 +8,8 @@ series_number: 12
 slug_name: the-zombie-organization
 date: 2026-03-17
 description: "The wise stand in eternal fame. The world endures through their legacy...."
-quote_top: "The purpose left years ago.\nThe machinery kept running.\nThe zombie walks."
-quote_bottom: "It operates but leaves nothing behind.\nThe zombie organization moves without wisdom,\nendures without legacy."
+
+
 punch_line_1: "The wise stand in eternal fame. The world endures through their legacy."
 punch_line_2: "The zombie organization moves without wisdom, endures without legacy. It operates but leaves nothing behind."
 felt_hook: "The purpose left years ago. The machinery kept running. The zombie walks."
@@ -27,6 +27,8 @@ untie_practices:
   - "An annual organizational health audit measures all nine dimensions: identity, culture, trust, dec..."
   - "When all nine dimensions are tended, the organization doesn't just operate."
 untie_question: "What would change in your organization if you untangled \"the zombie organization\" this week?"
+quote_top: "Zombie organizations walk and talk, but their purpose is long gone."
+quote_bottom: "The body walks. The mind is gone."
 ---
 
 The wise stand in eternal fame. The world endures through their legacy.

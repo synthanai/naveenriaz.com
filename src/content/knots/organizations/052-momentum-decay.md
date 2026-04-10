@@ -8,8 +8,8 @@ series_number: 4
 slug_name: momentum-decay
 date: 2026-03-17
 description: "Effort creates fortune. Lack of effort invites poverty...."
-quote_top: "Everything decays\nwithout sustained energy."
-quote_bottom: "Nobody cancelled the initiative.\nIt decayed slowly, silently.\nThe way things do when nobody is watching."
+
+
 punch_line_1: "Effort creates fortune. Lack of effort invites poverty."
 punch_line_2: "Momentum decay is the gap between initial effort and sustained effort. The initiative starts with fortune and drifts into poverty."
 felt_hook: "Nobody cancelled the initiative. That would require a decision. Instead, it decayed. Slowly. Silently. The way things do when nobody is watching."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every active initiative has a monthly executive touchpoint and a quarterly resource review."
   - "When momentum is maintained through rhythm, initiatives reach completion instead of trailing off,..."
 untie_question: "What would change in your organization if you untangled \"momentum decay\" this week?"
+quote_top: "Decay is the silent killer of initiatives, requiring no decision."
+quote_bottom: "Sustained energy prevents organizational gravity."
 ---
 
 Effort creates fortune. Lack of effort invites poverty.

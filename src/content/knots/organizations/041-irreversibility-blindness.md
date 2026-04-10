@@ -8,8 +8,8 @@ series_number: 5
 slug_name: irreversibility-blindness
 date: 2026-03-17
 description: "Those who foresee what is coming are never shaken by what arrives...."
-quote_top: "Some decisions can be undone.\nSome decisions cannot."
-quote_bottom: "Irreversibility blindness is treating\npermanent decisions with the same casualness\nas reversible ones."
+
+
 punch_line_1: "Those who foresee what is coming are never shaken by what arrives."
 punch_line_2: "Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as equally reversible."
 felt_hook: "Treating permanent decisions with the same casualness as reversible ones is organizational blindness."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every significant decision is classified as reversible or irreversible before deliberation begins."
   - "When decisions are classified by reversibility, speed improves on routine choices while rigor inc..."
 untie_question: "What would change in your organization if you untangled \"irreversibility blindness\" this week?"
+quote_top: "Some decisions are one-way doors, with permanent consequences."
+quote_bottom: "Discern irreversible decisions wisely."
 ---
 
 Those who foresee what is coming are never shaken by what arrives.

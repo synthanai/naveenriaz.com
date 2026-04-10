@@ -17,8 +17,8 @@ fusion_point:
     - "Frequency-as-coordinates: you do not choose where you go, you BECOME where you go"
     - "The Feeder taxonomy: organisational actors who drain collective energy mapped as a system pattern, not a personality problem"
     - "Shadow integration: the suppressed patterns in an organisation are not threats to be eliminated but information to be integrated"
-quote_top: "Culture is not a declaration but a frequency, the collective resonance of every interaction, vibrating at the level of its worst unaddressed pattern."
-quote_bottom: "Culture change isn't about defining values; it's about shifting the collective frequency by addressing what you tolerate and what you integrate."
+quote_top: "Culture is frequency: every interaction, decision resonates."
+quote_bottom: "Vibrate at your worst."
 ---
 
 # Frequency as Culture

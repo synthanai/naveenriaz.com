@@ -17,8 +17,8 @@ fusion_point:
     - "Darwinian evolution in biology"
     - "Autonomous agent skill factories in AI"
     - "Organisational Soul in living systems"
-quote_top: "AI swarms efficiently converge on solutions, demonstrating Darwinian natural selection applied to software."
-quote_bottom: "However, this optimization often leads to hyper-specialization, highlighting the critical role of environmental constraints in true evolutionary resilience."
+quote_top: "AI agents create thousands of skills without human intervention."
+quote_bottom: "Evolution at high speed."
 ---
 
 # The Soulless Swarm

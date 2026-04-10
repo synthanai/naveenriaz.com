@@ -8,8 +8,8 @@ series_number: 1
 slug_name: analysis-paralysis
 date: 2026-03-17
 description: "Deliberate before you act. To deliberate after acting is folly...."
-quote_top: "Analysis paralysis is deliberation\nthat never becomes action."
-quote_bottom: "It is actually avoidance\nwearing the uniform of rigour."
+
+
 punch_line_1: "Deliberate before you act. To deliberate after acting is folly."
 punch_line_2: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
 felt_hook: "It was also irrelevant by the time it finished."
@@ -27,6 +27,8 @@ untie_practices:
   - "The team can distinguish between reversible and significant decisions and applies proportional de..."
   - "When analysis serves decisions instead of replacing them, speed becomes a competitive advantage, ..."
 untie_question: "What would change in your organization if you untangled \"analysis paralysis\" this week?"
+quote_top: "Analysis paralysis: when deliberation becomes the only action."
+quote_bottom: "Delay is organizational death."
 ---
 
 In 2004, an internal memo circulated through Nokia's Espoo headquarters. An engineering team had identified the smartphone threat. They proposed a touchscreen device. They had working prototypes.

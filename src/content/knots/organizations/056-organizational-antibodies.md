@@ -8,8 +8,8 @@ series_number: 8
 slug_name: organizational-antibodies
 date: 2026-03-17
 description: "Harsh words and excessive punishment grind down strength like a file on metal...."
-quote_top: "The change worked.\nThe system undid it."
-quote_bottom: "Organizational antibodies identify a change\nas foreign and mobilize\nto quietly reject it."
+
+
 punch_line_1: "Harsh words and excessive punishment grind down strength like a file on metal."
 punch_line_2: "Organizational antibodies don't use harsh words. They use quiet processes, budget redirections, and scheduling conflicts to file down the foreign tissue."
 felt_hook: "The change worked. The system undid it."
@@ -27,6 +27,8 @@ untie_practices:
   - "Successful innovations are protected from organizational immune response through explicit executi..."
   - "When antibodies are recognized, successful innovations survive the system's immune response, bene..."
 untie_question: "What would change in your organization if you untangled \"organizational antibodies\" this week?"
+quote_top: "Organizations reject beneficial change: not with hostility, but systemic friction."
+quote_bottom: "Culture protects itself from new."
 ---
 
 Harsh words and excessive punishment grind down strength like a file on metal.

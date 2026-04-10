@@ -8,8 +8,8 @@ series_number: 12
 slug_name: decision-whiplash
 date: 2026-03-17
 description: "Perseverance and mature wisdom together extend a legacy...."
-quote_top: "Reversals without acknowledgment cause\nmore damage than the initial quake."
-quote_bottom: "When direction reverses without explanation,\nthe team stops building\nbecause nothing stays built."
+
+
 punch_line_1: "Perseverance and mature wisdom together extend a legacy."
 punch_line_2: "Decision whiplash destroys perseverance: when direction reverses without explanation, the team stops building because nothing stays built."
 felt_hook: "So they've stopped committing. Why invest deeply in a direction that might change by Friday?"
@@ -27,6 +27,8 @@ untie_practices:
   - "When a decision is reversed, three things are stated: what was decided before, why it's changing,..."
   - "When reversals are acknowledged, trust survives the change, teams invest fully in the new directi..."
 untie_question: "What would change in your organization if you untangled \"decision whiplash\" this week?"
+quote_top: "Inconsistent leadership creates whiplash, killing team commitment and trust."
+quote_bottom: "Leaders, acknowledge your mistakes."
 ---
 
 Perseverance and mature wisdom together extend a legacy.

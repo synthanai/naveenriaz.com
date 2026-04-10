@@ -8,8 +8,8 @@ series_number: 11
 slug_name: information-overload
 date: 2026-03-17
 description: "Numbers and letters are the two eyes of all living beings...."
-quote_top: "Information abundance was supposed\nto create clarity. It created paralysis."
-quote_bottom: "Information overload blinds both eyes:\ntoo many numbers and too many words\nproduce paralysis, not clarity."
+
+
 punch_line_1: "Numbers and letters are the two eyes of all living beings."
 punch_line_2: "Information overload blinds both eyes: too many numbers and too many words produce paralysis, not clarity."
 felt_hook: "The team knows everything. It understands nothing."
@@ -27,6 +27,8 @@ untie_practices:
   - "Each decision has three identified signals: the metrics that would change the decision if they mo..."
   - "When information is filtered for relevance, decisions become faster, attention becomes focused, a..."
 untie_question: "What would change in your organization if you untangled \"information overload\" this week?"
+quote_top: "Information abundance creates paralysis, not clarity."
+quote_bottom: "Too much data kills understanding."
 ---
 
 Numbers and letters are the two eyes of all living beings.

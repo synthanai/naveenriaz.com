@@ -8,8 +8,8 @@ series_number: 2
 slug_name: learning-disability
 date: 2026-03-17
 description: "The learned stand tall. The unlearned remain low...."
-quote_top: "The post-mortem was captured and buried.\nNobody read it."
-quote_bottom: "Learning disability is the inability\nto convert experience into knowledge."
+
+
 punch_line_1: "The learned stand tall. The unlearned remain low."
 punch_line_2: "Organizations with learning disabilities repeat their mistakes not from ignorance but from an inability to convert experience into knowledge."
 felt_hook: "They were captured and buried. Nobody read them. The learning never became practice."
@@ -29,6 +29,8 @@ untie_practices:
   - "Ask \"what do we know that we're not using?\""
   - "Create one cross-team knowledge connection this week"
 untie_question: "What would change in your organization if you untangled \"learning disability\" this week?"
+quote_top: "Learning disability: organizations absorb information, cannot change behavior"
+quote_bottom: "Mistakes erode, deepen grooves"
 ---
 
 The learned stand tall. The unlearned remain low.

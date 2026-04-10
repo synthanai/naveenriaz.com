@@ -8,8 +8,8 @@ series_number: 5
 slug_name: competence-doubt
 date: 2026-03-17
 description: "The rarest of rare achievements is winning the trust of the great...."
-quote_top: "Competence doubt is what happens\nwhen an organization has the great\nbut refuses to trust them."
-quote_bottom: "The system installed the hesitation.\nThe system calls it rigor."
+
+
 punch_line_1: "The rarest of rare achievements is winning the trust of the great."
 punch_line_2: "Competence doubt is what happens when an organization has the great but refuses to trust them."
 felt_hook: "The system installed the hesitation. The system calls it \"rigor.\""
@@ -29,6 +29,8 @@ untie_practices:
   - "Say \"I was wrong\" about one small thing"
   - "Share one piece of information you'd normally hold"
 untie_question: "What would change in your organization if you untangled \"competence doubt\" this week?"
+quote_top: "Winning great trust is an accomplishment, not a given."
+quote_bottom: "Earned trust empowers experts."
 ---
 
 The rarest of rare achievements is winning the trust of the great.

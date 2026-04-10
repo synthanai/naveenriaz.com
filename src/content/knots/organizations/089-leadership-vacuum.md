@@ -8,8 +8,8 @@ series_number: 5
 slug_name: leadership-vacuum
 date: 2026-03-17
 description: "One who doesn't prepare in good times suffers in hard times...."
-quote_top: "The organization did not develop leaders when it could.\nNow that it needs them, there are none."
-quote_bottom: "'Development' meant a leadership course,\nand a stretch project that was too small to stretch."
+
+
 punch_line_1: "One who doesn't prepare in good times suffers in hard times."
 punch_line_2: "The leadership vacuum forms because the organization didn't develop leaders when it could. Now that it needs them, there are none."
 felt_hook: "'Development' meant: a leadership course, a mentoring program, and a stretch project that was too small to stretch."
@@ -30,6 +30,8 @@ untie_practices:
   - "Pair one experienced person with one new person"
   - "Dedicate one hour this week to skill-building"
 untie_question: "What would change in your organization if you untangled \"leadership vacuum\" this week?"
+quote_top: "Vacuums create instability, nature demands filling with consequences."
+quote_bottom: "Poor succession makes unstable leadership."
 ---
 
 One who doesn't prepare in good times suffers in hard times.

@@ -8,8 +8,8 @@ series_number: 6
 slug_name: decision-amnesia
 date: 2026-03-17
 description: "Learn thoroughly what should be learned. Having learned, live by it...."
-quote_top: "Organizations that cannot remember their decisions\ncannot learn from them."
-quote_bottom: "Now you are about to make the same decision again.\nWithout knowing you have already made it."
+
+
 punch_line_1: "Learn thoroughly what should be learned. Having learned, live by it."
 punch_line_2: "Decision amnesia is the organizational failure to learn from its own decisions, forgetting the rationale, the context, and the lesson."
 felt_hook: "Now you're about to make the same decision again. Without knowing you've already made it."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every significant decision is recorded with three elements: what was decided, why, and what condi..."
   - "When decisions have memory, the organization stops repeating mistakes, new leaders inherit wisdom..."
 untie_question: "What would change in your organization if you untangled \"decision amnesia\" this week?"
+quote_top: "Knowing without doing is incomplete. Live what you learn."
+quote_bottom: "Apply your knowledge."
 ---
 
 Learn thoroughly what should be learned. Having learned, live by it.

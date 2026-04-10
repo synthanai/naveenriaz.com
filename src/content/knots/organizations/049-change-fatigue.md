@@ -8,8 +8,6 @@ series_number: 1
 slug_name: change-fatigue
 date: 2026-03-17
 description: "Laugh when hardship arrives. Nothing defeats adversity like defiance...."
-quote_top: "The team does not resist change anymore.\nThey just wait for it to pass."
-quote_bottom: "Change fatigue is what happens when\nan organization has faced so many hardships\nthat defiance is exhausted."
 punch_line_1: "Laugh when hardship arrives. Nothing defeats adversity like defiance."
 punch_line_2: "Change fatigue is what happens when the organization has faced so many hardships that defiance has been exhausted."
 felt_hook: "The team doesn't resist change anymore. They don't even react to it. They just wait for it to pass."
@@ -27,6 +25,8 @@ untie_practices:
   - "The organization runs no more than two change initiatives simultaneously."
   - "When change is sequenced instead of stacked, each initiative gets full investment, adoption becom..."
 untie_question: "What would change in your organization if you untangled \"change fatigue\" this week?"
+quote_top: "Laugh in the face of hardship, for defiance conquers all."
+quote_bottom: "Defiance conquers all."
 ---
 
 Laugh when hardship arrives. Nothing defeats adversity like defiance.

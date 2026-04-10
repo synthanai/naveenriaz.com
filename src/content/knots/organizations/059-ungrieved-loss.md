@@ -8,8 +8,8 @@ series_number: 11
 slug_name: ungrieved-loss
 date: 2026-03-17
 description: "The noble do not treat suffering as cause for despair...."
-quote_top: "Every change involves a death\nthat nobody names."
-quote_bottom: "Leadership celebrated the new direction.\nThe team mourned the old one.\nIn silence."
+
+
 punch_line_1: "The noble do not treat suffering as cause for despair."
 punch_line_2: "Organizations demand nobility from their people by refusing to acknowledge that change means loss, and loss requires grieving."
 felt_hook: "Leadership celebrated the new direction. The team mourned the old one. In silence. Because mourning in a forward-looking organization feels like disloyalty."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every significant change includes an explicit acknowledgment of what is being lost."
   - "When loss is acknowledged, transitions become emotionally complete, energy redirects from undergr..."
 untie_question: "What would change in your organization if you untangled \"ungrieved loss\" this week?"
+quote_top: "Organizational change buries loss, fostering silent resistance and sabotage."
+quote_bottom: "Acknowledge grief; it's vital."
 ---
 
 The noble do not treat suffering as cause for despair.

@@ -5,8 +5,8 @@ resonance: "Reduces fatalism. The mistake is just a point where the signal was l
 kural_number: 666
 born_from_knot: "001"
 date: 2026-03-30
-quote_top: "Amnesia isn't a loss of truth, but an erosion of one's own signal beneath layers of noise."
-quote_bottom: "Untangling external static reveals your inherent intention, making self-recovery easier than maintaining manufactured realities."
+quote_top: "Amnesia: not lost memories, just eroded signals."
+quote_bottom: "Untie the noise."
 ---
 Amnesia is just the erosion of the signal.
 

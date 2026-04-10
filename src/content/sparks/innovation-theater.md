@@ -4,10 +4,12 @@ date: 2026-03-30
 signal: "The hackathon produced 30 ideas. None were funded. The innovation lab has a ping pong table and no budget."
 source: "Capability"
 temperature: "🔥🔥🔥"
-quote_top: "The innovation lab has\na ping pong table\nand no budget."
-quote_bottom: "Real innovation is boring.\nIt requires permission to fail visibly."
+
+
 tags: ["capability", "innovation", "culture"]
 description: "When innovation is a performance, not a practice."
+quote_top: "Ideation without execution: the comfortable illusion of progress."
+quote_bottom: "Innovation theater changes nothing."
 ---
 
 The hackathon produced 30 ideas. Leadership applauded. None were funded. The innovation lab has a ping pong table, a slide deck, and no budget for production.

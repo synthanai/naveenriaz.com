@@ -8,8 +8,8 @@ series_number: 2
 slug_name: silo-syndrome
 date: 2026-03-17
 description: "The loveless keep everything for themselves. The loving give even their bones...."
-quote_top: "Each defends its allocation.\nEach optimizes its metrics.\nEach celebrates its victories."
-quote_bottom: "None of them share credit, resources, or information\nwithout a formal request."
+
+
 punch_line_1: "The loveless keep everything for themselves. The loving give even their bones."
 punch_line_2: "Silos keep everything for their own department. Cross-functional love would mean sharing budgets, talent, and credit."
 felt_hook: "Each defends its allocation. Each optimizes its metrics. Each celebrates its victories. None of them share credit, resources, or even information without a formal request."
@@ -27,6 +27,8 @@ untie_practices:
   - "At least one KPI per team measures cross-functional outcome."
   - "When collaboration is rewarded, silos dissolve naturally, information flows across boundaries, an..."
 untie_question: "What would change in your organization if you untangled \"silo syndrome\" this week?"
+quote_top: "Organizational silos prevent the cross-pollination of perspectives"
+quote_bottom: "Innovation demands contamination"
 ---
 
 The loveless keep everything for themselves. The loving give even their bones.

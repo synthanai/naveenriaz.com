@@ -8,8 +8,8 @@ series_number: 4
 slug_name: "values-wallpaper"
 date: 2026-03-17
 description: "Can five people across different levels give the same example of a lived value? Or does the violation story come faster than the lived story?"
-quote_top: "The values look great on the wall.\nNobody is looking at the wall."
-quote_bottom: "Caring is on the poster,\nso nobody checks if the caring\nis actually happening."
+
+
 punch_line_1: "The values look great on the wall."
 punch_line_2: "Nobody is looking at the wall."
 felt_hook: "Can five people across different levels give the same example of a lived value? Or does the violation story come faster than the lived story?"
@@ -32,6 +32,8 @@ untie_practices:
   - "Write your team's purpose in one sentence"
   - "Compare calendar to stated values this week"
 untie_question: "What would change in your organization if you untangled \"values wallpaper\" this week?"
+quote_top: "Virtue lives in the mind, not on the wall"
+quote_bottom: "The rest is empty noise"
 ---
 
 Spotless mind is all of virtue. The rest is empty noise.

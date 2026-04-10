@@ -3,10 +3,12 @@ title: "The Missing Adversary"
 date: 2026-03-20
 signal: "A knowledge management system generates boundary cases to break its own claims before publishing them. Your AI writes great notes. Who checks if they are true?"
 temperature: "🔥🔥"
-quote_top: "Most AI knowledge systems\nonly validate structure.\nNobody validates the claims."
-quote_bottom: "Your knowledge base has a spell checker.\nIt does not have an adversary."
+
+
 tags: ["semantic-review", "adversarial-testing", "knowledge-quality"]
 description: "Structure checks compliance. Semantic review checks truth."
+quote_top: "AI validates structure, but reality demands truth and adversarial testing."
+quote_bottom: "Structure is not truth."
 ---
 
 Most AI-powered knowledge systems validate structure. Does the note have a title? Is the format correct? Are the links valid?

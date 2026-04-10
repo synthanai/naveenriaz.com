@@ -8,8 +8,8 @@ series_number: 9
 slug_name: learning-doing-imbalance
 date: 2026-03-17
 description: "Learn thoroughly. Then live by that learning...."
-quote_top: "The team ships without learning,\nor learns without shipping."
-quote_bottom: "Neither alone produces growth.\nBoth imbalances produce the same result."
+
+
 punch_line_1: "Learn thoroughly. Then live by that learning."
 punch_line_2: "Learning-doing imbalance breaks both halves: the team ships without learning, or learns without shipping. Neither alone produces growth."
 felt_hook: "Both imbalances produce the same result: no growth."
@@ -30,6 +30,8 @@ untie_practices:
   - "Pair one experienced person with one new person"
   - "Dedicate one hour this week to skill-building"
 untie_question: "What would change in your organization if you untangled \"learning doing imbalance\" this week?"
+quote_top: "Learning needs doing. Doing needs learning. Both create growth."
+quote_bottom: "Balance the cycle."
 ---
 
 Learn thoroughly. Then live by that learning.

@@ -5,10 +5,12 @@ source: "Link"
 source_url: "https://x.com/aiedge_/status/2031735799994265818"
 signal: "1.7 million people read a list of 7 AI skills. Zero citations. Zero evidence. The most viral AI career advice on the internet has no empirical backing whatsoever."
 temperature: "🔥"
-quote_top: "The most viral career advice\non the entire internet\nhas zero empirical backing."
-quote_bottom: "The gap is not in AI skills.\nIt is in the quality of advice about them."
+
+
 tags: ["skills-gap", "evidence", "consulting", "market"]
 description: "The market for AI skill guidance is enormous. The quality bar is underground."
+quote_top: "AI guidance: massive demand, shockingly low quality bar."
+quote_bottom: "Unverified listicles go viral."
 ---
 
 A post listing 7 AI skills got 1.7 million views. It had zero citations. Zero evidence. Zero methodology. The skills were ranked by one person's anecdotal network observations.

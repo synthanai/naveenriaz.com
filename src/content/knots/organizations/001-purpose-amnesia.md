@@ -8,8 +8,8 @@ series_number: 1
 slug_name: "purpose-amnesia"
 date: 2026-03-17
 description: "Can your newest hire tell a stranger what your organization stands for, without reading a document?"
-quote_top: "The mission didn't die.\nI starved it while I was busy."
-quote_bottom: "That pause before the answer.\nThe micro-expression of embarrassment.\nThat is how you diagnose purpose amnesia."
+
+
 punch_line_1: "The mission didn't die."
 punch_line_2: "It is starving while you are busy."
 felt_hook: "Can your newest hire tell a stranger what your organization stands for, without reading a document?"
@@ -30,6 +30,8 @@ untie_practices:
   - "Write your team's purpose in one sentence"
   - "Compare calendar to stated values this week"
 untie_question: "What would change in your organization if you untangled \"purpose amnesia\" this week?"
+quote_top: "Purpose attenuates when it's not amplified."
+quote_bottom: "Re-amplify your reason."
 ---
 
 I hired a woman last March. Brilliant. Two Masters degrees. She came from a competitor.

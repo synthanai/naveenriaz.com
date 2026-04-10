@@ -8,8 +8,8 @@ series_number: 11
 slug_name: emotional-illiteracy
 date: 2026-03-17
 description: "One flaw in wisdom pushes wholeness far away...."
-quote_top: "Emotions drive every decision,\nevery collaboration, every conflict.\nIt is the operating system running beneath the spreadsheet."
-quote_bottom: "And nobody knows how to read the logs.\nYou cannot fix what you cannot name."
+
+
 punch_line_1: "One flaw in wisdom pushes wholeness far away."
 punch_line_2: "Emotional illiteracy is the single flaw that pushes organizational wisdom far away. You can't fix what you can't name."
 felt_hook: "But emotions drive every decision, every collaboration, every conflict. They're the operating system running beneath the spreadsheet. And nobody knows how to read the logs."
@@ -27,6 +27,8 @@ untie_practices:
   - "Team check-ins include one emotional state word from each person."
   - "When emotions can be named, they can be addressed."
 untie_question: "What would change in your organization if you untangled \"emotional illiteracy\" this week?"
+quote_top: "Ignoring emotions is ignoring your organization's operating system."
+quote_bottom: "Read the room first."
 ---
 
 One flaw in wisdom pushes wholeness far away.

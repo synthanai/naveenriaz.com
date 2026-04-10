@@ -8,8 +8,8 @@ series_number: 6
 slug_name: turnover-spiral
 date: 2026-03-17
 description: "Greatness comes to those who persevere and gain clarity...."
-quote_top: "Each departure increased the load on those remaining."
-quote_bottom: "Each increased load reduced the reason to stay.\nThe spiral has its own gravity."
+
+
 punch_line_1: "Greatness comes to those who persevere and gain clarity."
 punch_line_2: "Turnover spirals because nobody perseveres long enough to gain clarity. Each departure adds difficulty, reducing the reason to stay."
 felt_hook: "Each departure increased the load on those remaining. Each increased load reduced the reason to stay. The spiral has its own gravity."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every departure triggers a spiral assessment: who else is now more likely to leave?"
   - "When departures trigger system analysis, root causes are addressed, remaining team members feel h..."
 untie_question: "What would change in your organization if you untangled \"turnover spiral\" this week?"
+quote_top: "Turnover spirals are self-sustaining chain reactions, ignored until too late."
+quote_bottom: "Stop the spiral, save the team."
 ---
 
 Greatness comes to those who persevere and gain clarity.

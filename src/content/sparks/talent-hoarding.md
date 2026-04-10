@@ -4,10 +4,12 @@ date: 2026-03-30
 signal: "The manager who never lets good people move is the manager who makes good people leave."
 source: "Capability"
 temperature: "🔥🔥"
-quote_top: "A manager who never\nlets good people move\nis making good people leave."
-quote_bottom: "The paradox is clean: the tighter\nyou grip, the faster they slip."
+
+
 tags: ["capability", "talent", "retention"]
 description: "Hoarding talent is the fastest way to lose it."
+quote_top: "Talent needs growth; managers who block it lose more than they gain."
+quote_bottom: "Grip tight, slip fast."
 ---
 
 A manager has a brilliant engineer. The engineer asks to transfer to a team that would stretch their skills. The manager blocks the move. "We cannot afford to lose you right now."

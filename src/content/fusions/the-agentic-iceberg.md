@@ -17,8 +17,8 @@ fusion_point:
     - "The visible AI agent (the interface)"
     - "The invisible engineering platform (data, state, retry, cost, observability)"
     - "The iceberg illusion in complex systems"
-quote_top: "Weekend agent demos delight, but the invisible platform for production reliability consumes months, revealing an industry's dirty secret."
-quote_bottom: "Model failures are rare; infrastructure and operational gaps are the true culprits, highlighting that the visible agent is only 20% of the battle."
+quote_top: "Agent demos impress; production often remains a distant dream."
+quote_bottom: "AI reliability is messy."
 ---
 
 # The Agentic Iceberg

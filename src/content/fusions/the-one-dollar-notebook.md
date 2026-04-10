@@ -16,8 +16,8 @@ fusion_point:
     - "SPAR structured deliberation methodology"
     - "The PENA synthesis"
     - "Purpose Amnesia as root cause"
-quote_top: "Handwriting is a powerful tool for deep processing and identity formation, transforming information into personal understanding."
-quote_bottom: "The pen should be a bridge for deeper engagement with AI's output, not a wall to exclude it."
+quote_top: "Handwriting transforms; AI erodes. Choose authentic human mess."
+quote_bottom: "Identity forged by hand."
 ---
 
 # AI Notes vs Hand Written Notes

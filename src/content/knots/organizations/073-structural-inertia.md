@@ -8,8 +8,8 @@ series_number: 1
 slug_name: structural-inertia
 date: 2026-03-17
 description: "As the flower rises to the water height, so does stature match the will...."
-quote_top: "The restructure changed the diagram.\nIt did not change the organism."
-quote_bottom: "The boxes on the chart had new labels.\nThe behaviours in the building had the old ones."
+
+
 punch_line_1: "As the flower rises to the water height, so does stature match the will."
 punch_line_2: "Structural inertia holds the flower at yesterday's water level while today's water has risen."
 felt_hook: "The restructure changed the diagram. It didn't change the organism."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every restructure includes behavioral change indicators: specific actions that should change as a..."
   - "When restructures target behavior alongside boxes, organizational change becomes real, and the st..."
 untie_question: "What would change in your organization if you untangled \"structural inertia\" this week?"
+quote_top: "Structure changed, but human behavior ossified."
+quote_bottom: "Inertia conquers all."
 ---
 
 From the outside, the restructure looked decisive. New org chart. Cleaner reporting lines. A memo from the CEO about "operating with agility." The slides were beautiful. The announcement video had music.

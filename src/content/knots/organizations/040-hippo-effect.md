@@ -8,8 +8,8 @@ series_number: 4
 slug_name: hippo-effect
 date: 2026-03-17
 description: "A person's stature rises to match their will...."
-quote_top: "Authority bends information\nlike gravity bends light."
-quote_bottom: "The most senior person in the room bends\nevery subsequent contribution\ntoward their position."
+
+
 punch_line_1: "A person's stature rises to match their will."
 punch_line_2: "The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the room."
 felt_hook: "Then the SVP offered his 'initial thinking.' After that, the data didn't matter."
@@ -27,6 +27,8 @@ untie_practices:
   - "The most senior person speaks last."
   - "When authority listens before speaking, better ideas survive, junior talent develops faster, and ..."
 untie_question: "What would change in your organization if you untangled \"hippo effect\" this week?"
+quote_top: "Authority warps truth like gravity warps light"
+quote_bottom: "Power blinds analysis"
 ---
 
 A person's stature rises to match their will.

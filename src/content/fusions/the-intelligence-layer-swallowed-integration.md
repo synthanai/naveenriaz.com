@@ -17,8 +17,8 @@ fusion_point:
     - "Layer Collapse as an emergence pattern (smartphones absorbed cameras, maps, music players)"
     - "MCP's Token Tax: 15-20% context overhead as a margin killer"
     - "The Agent Substrate inversion: systems become AI-readable instead of AI conforming to one protocol"
-quote_top: "The supposed 'universal AI standard' (MCP) died because the AI models it served rapidly evolved to self-integrate, making the intermediary translator obsolete."
-quote_bottom: "Layer collapse occurs when an intelligence layer makes its own integration layer redundant, proving progress isn't about better intermediaries, but about eliminating them entirely."
+quote_top: "AI swallowed the integration layer whole, rendering standards obsolete."
+quote_bottom: "Models learn; translators die."
 ---
 
 # The Intelligence Layer Swallowed Integration

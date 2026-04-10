@@ -8,8 +8,8 @@ series_number: 9
 slug_name: cognitive-debt
 date: 2026-03-17
 description: "Knowledge is the fortress unbreachable even by enemies...."
-quote_top: "Every shortcut, every quick fix,\nevery 'we will figure it out later' adds to the balance."
-quote_bottom: "Cognitive debt is the gap between the thinking\nthe organization needs\nand the thinking the organization does."
+
+
 punch_line_1: "Knowledge is the fortress unbreachable even by enemies."
 punch_line_2: "Cognitive debt weakens the fortress from within: the organization stops investing in thinking and the defense erodes."
 felt_hook: "They've accumulated cognitive debt: the gap between the thinking the organization needs and the thinking the organization does. Every shortcut, every quick fix, every 'we'll figure it out later' adds to the balance."
@@ -29,6 +29,8 @@ untie_practices:
   - "Ask \"what do we know that we're not using?\""
   - "Create one cross-team knowledge connection this week"
 untie_question: "What would change in your organization if you untangled \"cognitive debt\" this week?"
+quote_top: "Companies accrue cognitive debt by avoiding deep structural thinking."
+quote_bottom: "Solutions without understanding lead to ruin."
 ---
 
 Knowledge is the fortress unbreachable even by enemies.

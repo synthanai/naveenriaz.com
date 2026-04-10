@@ -4,10 +4,10 @@ date: 2026-03-30
 signal: "We do it this way because that is how the founder set it up. But the founder left in 2008."
 source: "Identity"
 temperature: "🔥🔥"
-quote_top: "There is a difference between\nhonouring an old legacy,\nand being trapped by one."
-quote_bottom: "The ghost does not have the keys.\nYou do."
 tags: ["identity", "legacy", "leadership"]
 description: "There is a difference between honouring a legacy and being trapped by one."
+quote_top: "Legacy honors intent, not rigid adherence to outdated forms."
+quote_bottom: "Adapt or be trapped."
 ---
 
 "We do it this way because that is how the founder set it up."

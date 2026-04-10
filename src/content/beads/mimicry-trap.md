@@ -5,8 +5,8 @@ resonance: "Reduces anxiety in strategic decisions. If it doesn't sound like YOU
 kural_number: 592
 born_from_knot: "002"
 date: 2026-03-30
-quote_top: "Mimicry offers a false sense of progress, leading to a slow death of personal identity."
-quote_bottom: "True fulfillment comes from weaving your own unique pattern, not from following industry playbooks."
+quote_top: "Mimicry: the safest form of failure, a slow death of the soul."
+quote_bottom: "Weave your own pattern."
 ---
 Mimicry is the safest form of failure.
 

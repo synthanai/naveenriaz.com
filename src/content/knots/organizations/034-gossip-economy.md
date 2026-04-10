@@ -8,8 +8,8 @@ series_number: 10
 slug_name: gossip-economy
 date: 2026-03-17
 description: "What use is intelligence if one does not feel another's pain as deeply as one's ..."
-quote_top: "The grapevine is not a gossip problem.\nIt is an information vacuum."
-quote_bottom: "When official channels go silent,\nthe whisper network carries\nwhat leadership refuses to say."
+
+
 punch_line_1: "What use is intelligence if one does not feel another's pain as deeply as one's own?"
 punch_line_2: "Gossip thrives where empathy fails. When official channels go silent, the whisper network carries what leadership refuses to say."
 felt_hook: "When leadership goes silent, the whisper network fills the void. It's not malicious. It's necessary."
@@ -29,6 +29,8 @@ untie_practices:
   - "Say \"I was wrong\" about one small thing"
   - "Share one piece of information you'd normally hold"
 untie_question: "What would change in your organization if you untangled \"gossip economy\" this week?"
+quote_top: "Intelligence without compassion is incomplete; wisdom demands empathy."
+quote_bottom: "Feel another's pain."
 ---
 
 What use is intelligence if one does not feel another's pain as deeply as one's own?

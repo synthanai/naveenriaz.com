@@ -5,8 +5,8 @@ resonance: "Shifts focus from platitudes to systems. Values on a wall do not mak
 kural_number: 675
 born_from_knot: "007"
 date: 2026-03-31
-quote_top: "Culture alone can't scale an organization; structural design dictates behavior when willpower fades."
-quote_bottom: "Your organization's architecture, not just its values, determines its true character and sustained success."
+quote_top: "Culture cannot fix the flaws of bad organizational structure."
+quote_bottom: "Structure impacts everything."
 ---
 We are often told that strong culture alone can scale an organisation.
 

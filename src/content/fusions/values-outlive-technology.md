@@ -17,8 +17,8 @@ fusion_point:
     - "Technology wave lifecycle (crypto winter)"
     - "Value persistence across domains"
     - "Developer talent migration patterns"
-quote_top: "Technology fades, but the underlying values that drive it endure and adapt across new innovations."
-quote_bottom: "Builders follow core principles, not just tech trends, ensuring values like self-sovereignty persist and reshape emerging fields."
+quote_top: "Technology fades, but values and principles persist through time."
+quote_bottom: "Principles transcend technology."
 ---
 
 # The Values That Outlive the Technology

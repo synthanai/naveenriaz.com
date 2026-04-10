@@ -17,8 +17,8 @@ fusion_point:
     - "Proof of Vibe (output quality + community approval) vs Proof of Thought (reasoning integrity + dialectic rigor)"
     - "Body-only reputation is gameable because outputs are easier to fake than reasoning processes"
     - "The missing Soul layer: anonymous agents have no identity, no accountability, no cultural grounding"
-quote_top: "Current AI agent reputation systems only measure output, not the crucial 'how' or 'why' behind an answer."
-quote_bottom: "True trust and ungameable AI reputation require evaluating an agent's reasoning ('mind') and underlying values ('soul'), beyond just its results."
+quote_top: "AI reputation needs soul, not just clever scoring."
+quote_bottom: "Measure how, not just what."
 ---
 
 # Why AI Agent Reputation Needs a Soul

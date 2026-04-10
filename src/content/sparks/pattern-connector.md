@@ -5,10 +5,12 @@ signal: "Three teams, three problems, three consultants. But it was one thread w
 source: "SYNTHAI"
 source_url: "https://naveenriaz.com/sparks"
 temperature: "🔥🔥"
-quote_top: "AI can generate analysis,\nbut it cannot look across the loom\nand see the hidden patterns."
-quote_bottom: "Anyone can see the thread.\nFew can see the weave."
+
+
 tags: ["systems-thinking", "patterns", "ai-era"]
 description: "Anyone can see the thread. Few can see the weave."
+quote_top: "Cross-domain vision weaves patterns, not just threads, through the loom."
+quote_bottom: "See the weave, not just the thread."
 ---
 
 A factory has a quality issue. Marketing underperforms. The support queue grows. Three teams, three budgets, three consultants.

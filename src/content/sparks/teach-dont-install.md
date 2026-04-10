@@ -3,10 +3,12 @@ title: "Teach, Don't Install"
 date: 2026-03-20
 signal: "Most AI consultants install tools. The valuable ones teach organisations to think differently. The difference between a tool installer and a diagnostic physician is the difference between treating symptoms and treating causes."
 temperature: "🔥"
-quote_top: "Most AI consultants just\ninstall automation tools.\nValuable ones teach thinking."
-quote_bottom: "The market pays the installer by the hour.\nIt pays the physician by the transformation."
+
+
 tags: ["consulting", "teaching", "mbs", "organisational-health"]
 description: "The consultant's value is not in the tools they install. It is in the thinking they transmit."
+quote_top: "Install tools, automate tasks, but capability remains elusive."
+quote_bottom: "True growth requires internalizing change."
 ---
 
 There are two types of AI consultants.

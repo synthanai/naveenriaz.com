@@ -8,8 +8,8 @@ series_number: 11
 slug_name: "identity-fragility"
 date: 2026-03-17
 description: "Has your organization survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
-quote_top: "If a value collapses during a bad quarter,\nit was never a value.\nIt was a decoration."
-quote_bottom: "Identity fragility reveals itself\nonly under pressure."
+
+
 punch_line_1: "Free beliefs are the first to break"
 punch_line_2: "when the storm hits."
 felt_hook: "Has your organization survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
@@ -32,6 +32,8 @@ untie_practices:
   - "Write your team's purpose in one sentence"
   - "Compare calendar to stated values this week"
 untie_question: "What would change in your organization if you untangled \"identity fragility\" this week?"
+quote_top: "Untested commitment shatters under pressure, revealing identity fragility."
+quote_bottom: "Stress-test your core."
 ---
 
 Like the tortoise drawing in its limbs, one who masters the senses finds lasting security.

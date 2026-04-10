@@ -18,8 +18,8 @@ fusion_point:
     - "AI-driven friction removal in personal branding (creation, consistency, language, personality)"
     - "Purpose-first culture as prerequisite for amplification"
     - "The competitive trust gap between prepared and unprepared organisations"
-quote_top: "By 2030, personal branding will shift from optional effort to ubiquitous infrastructure, driven by AI eliminating current friction points."
-quote_bottom: "AI will democratize personal branding by automating creation, consistency, translation, and surfacing contributions, making it unthinkable not to have one."
+quote_top: "Personal branding will be as essential as email by 2030."
+quote_bottom: "AI makes it frictionless."
 ---
 
 # By 2030, Every Employee Will Have a Personal Brand

@@ -8,8 +8,8 @@ series_number: 7
 slug_name: technology-sprawl
 date: 2026-03-17
 description: "Don't start any task until you've found the right conditions...."
-quote_top: "The blueprint says unified systems.\nReality says ecosystem chaos."
-quote_bottom: "Technology sprawl starts every tool\nwithout finding the right conditions for any of them."
+
+
 punch_line_1: "Don't start any task until you've found the right conditions."
 punch_line_2: "Technology sprawl starts every tool without finding the right conditions for any of them."
 felt_hook: "The blueprint says unified systems. Reality says ecosystem chaos."
@@ -27,6 +27,8 @@ untie_practices:
   - "A quarterly technology inventory maps all tools to functions."
   - "When tools are consolidated, integration costs drop, data flows freely, and the team spends time ..."
 untie_question: "What would change in your organization if you untangled \"technology sprawl\" this week?"
+quote_top: "Technology sprawl: great intent, chaotic outcome."
+quote_bottom: "Consolidate or perish."
 ---
 
 Don't start any task until you've found the right conditions.

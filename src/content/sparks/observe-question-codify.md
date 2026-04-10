@@ -3,10 +3,12 @@ title: "Observe, Question, Codify"
 date: 2026-03-20
 signal: "A practitioner turned 24 commits to a single config file into a self-improving AI system. The pattern: observe what fails, question the assumption, codify the fix as a rule."
 temperature: "🔥"
-quote_top: "Observe the failure.\nQuestion the assumption.\nCodify the fix."
-quote_bottom: "The workflow is the product.\nThe code is just a side effect."
+
+
 tags: ["self-improving", "workflow-evolution", "oqc"]
 description: "The workflow IS the product. The output is a side effect."
+quote_top: "He did not design the system, he grew it iteratively."
+quote_bottom: "Workflow evolution IS the product."
 ---
 
 Klaus Kaan made 24 commits to a single file. Each commit encoded a lesson learned from watching his AI agent fail.

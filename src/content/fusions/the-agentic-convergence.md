@@ -17,8 +17,8 @@ fusion_point:
     - "Integration frameworks squeezed out of software (MCP death, Layer Collapse)"
     - "Product managers squeezed out of organisations (Translation Layer death)"
     - "Middle managers squeezed out of coordination (Agent Substrate replacing information routers)"
-quote_top: "AI is eliminating all intermediary functions across software, product, and organizations that primarily translate, coordinate, or route information without adding original analysis."
-quote_bottom: "The 'middle layer' is dying everywhere simultaneously, as AI natively processes information across formats, removing the need for human or coded translation and coordination."
+quote_top: "The middle layer is dying, everywhere, simultaneously."
+quote_bottom: "AI absorbs coordination."
 ---
 
 # The Agentic Convergence

@@ -8,8 +8,8 @@ series_number: 2
 slug_name: integrity-theater
 date: 2026-03-17
 description: "Virtue is never departing from four things: no envy, no greed, no wrath, no hars..."
-quote_top: "Performing integrity is a quarterly event.\nLiving it is a Tuesday."
-quote_bottom: "Integrity theater makes the building\nlook honest while remaining\ncompletely hollow behind the facade."
+
+
 punch_line_1: "Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech."
 punch_line_2: "Integrity isn't the ceremony. It's the daily absence of what corrodes."
 felt_hook: "And somehow, the person who reported harassment last month was quietly moved to a different floor."
@@ -28,6 +28,8 @@ untie_practices:
   - "When integrity is real, whistleblower hotlines go quiet (not because problems disappear, but beca..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"integrity theater\" this week?"
+quote_top: "Integrity is living it, not a quarterly performance event."
+quote_bottom: "Performance vanishes when audience leaves."
 ---
 
 Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech.

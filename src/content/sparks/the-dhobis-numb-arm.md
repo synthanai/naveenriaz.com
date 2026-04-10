@@ -4,10 +4,12 @@ date: 2026-03-30
 signal: "Burnout isn't a badge. It's a system failure wearing a productivity mask."
 source: "Energy"
 temperature: "🔥🔥🔥"
-quote_top: "Burnout is not a badge of honor.\nIt is a system failure wearing\na productivity mask."
-quote_bottom: "Stop celebrating crisp shirts.\nStart asking about numb arms."
+
+
 tags: ["energy", "burnout", "culture"]
 description: "Burnout isn't a badge. It's a system failure of busy-ness."
+quote_top: "Crisp shirts hide numb arms; question the system, not the person."
+quote_bottom: "Burnout is systemic, not commitment."
 ---
 
 In India, the dhobi irons clothes on the street until his arm goes numb. Nobody asks about the arm. The shirts are crisp. That is the only metric.

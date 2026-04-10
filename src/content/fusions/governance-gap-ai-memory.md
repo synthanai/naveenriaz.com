@@ -15,8 +15,8 @@ fusion_point:
     - "Persistent AI memory architecture (Google's Always-On Memory Agent)"
     - "Enterprise governance requirements (compliance, auditability, retention)"
     - "The shifted enterprise question: from 'Can it remember?' to 'Can it remember safely?'"
-quote_top: "Google's new 'Always On Memory Agent' offers powerful, continuous AI memory, but sparks enterprise alarm over its inherent lack of governance and audibility."
-quote_bottom: "The AI question has shifted from 'Can they remember?' to 'Can they remember safely?' highlighting a critical gap between capability and enterprise compliance."
+quote_top: "AI agents have perfect memory. Enterprises fear it."
+quote_bottom: "Capability meets fear."
 ---
 
 Google just gave your AI agents a perfect memory. The enterprise reaction was not applause. It was alarm.

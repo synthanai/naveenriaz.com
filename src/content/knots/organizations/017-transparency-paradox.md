@@ -8,8 +8,8 @@ series_number: 5
 slug_name: transparency-paradox
 date: 2026-03-17
 description: "Greatness is concealing others' flaws. Smallness is concealing one's own...."
-quote_top: "Total visibility does not eliminate hiding.\nIt eliminates the protective boundaries\npeople need to take risks."
-quote_bottom: "When everything is visible,\npeople stop doing anything\nthat might look bad."
+
+
 punch_line_1: "Greatness is concealing others' flaws. Smallness is concealing one's own."
 punch_line_2: "Transparency weaponized to expose rather than protect is smallness wearing a noble mask."
 felt_hook: "The same transparency that was supposed to build trust now builds anxiety. Every action is visible. Every failure is public. Every learning moment is also a judgment moment."
@@ -28,6 +28,8 @@ untie_practices:
   - "When transparency is paired with safety, people share mistakes early, feedback becomes preventive..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"transparency paradox\" this week?"
+quote_top: "Transparency can destroy trust by amplifying every small mistake"
+quote_bottom: "Visibility is not always trust"
 ---
 
 Greatness is concealing others' flaws. Smallness is concealing one's own.

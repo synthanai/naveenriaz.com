@@ -8,8 +8,8 @@ series_number: 3
 slug_name: resistance-misdiagnosis
 date: 2026-03-17
 description: "Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisel..."
-quote_top: "The resistance is not the problem.\nIt is the diagnosis."
-quote_bottom: "Change resistance is a symptom.\nMisdiagnosis treats the symptom\nwhile ignoring the origin."
+
+
 punch_line_1: "Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely."
 punch_line_2: "Change resistance is a symptom. Misdiagnosis treats the symptom (people) while ignoring the origin (system)."
 felt_hook: "The resistance isn't the problem. It's the diagnosis."
@@ -27,6 +27,8 @@ untie_practices:
   - "Pushback is treated as diagnostic information, not as a problem to overcome."
   - "When resistance is understood instead of overridden, change designs improve, adoption becomes vol..."
 untie_question: "What would change in your organization if you untangled \"resistance misdiagnosis\" this week?"
+quote_top: "Resistance is a symptom, not the disease. Diagnose it."
+quote_bottom: "Painkillers hide problems"
 ---
 
 Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely.

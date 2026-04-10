@@ -5,8 +5,8 @@ resonance: "Improves operational speed. When people know the 'why', the 'how' ce
 kural_number: 462
 born_from_knot: "004"
 date: 2026-03-31
-quote_top: "Organizational slowness isn't about talent, it's about unclear intent."
-quote_bottom: "Declare your intentions; eliminate negotiation and the friction tax."
+quote_top: "Slowness isn't talent problem but alignment problem."
+quote_bottom: "Undeclared intent creates friction."
 ---
 Most of the slowness in your organisation is not a talent problem. It is an alignment problem.
 

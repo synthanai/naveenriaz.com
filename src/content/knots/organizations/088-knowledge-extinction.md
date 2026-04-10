@@ -8,8 +8,8 @@ series_number: 4
 slug_name: knowledge-extinction
 date: 2026-03-17
 description: "Even humbled, the learned stand tall...."
-quote_top: "All of it lived in one person's head.\nThey gave two weeks notice.\nThe knowledge gave zero."
-quote_bottom: "What left can never be relearned\nbecause the teacher is gone."
+
+
 punch_line_1: "Even humbled, the learned stand tall."
 punch_line_2: "Knowledge extinction lowers the organization permanently: what left can never be relearned because the teacher is gone."
 felt_hook: "All of it lived in one person's head. They gave two weeks notice. The knowledge gave zero."
@@ -30,6 +30,8 @@ untie_practices:
   - "Pair one experienced person with one new person"
   - "Dedicate one hour this week to skill-building"
 untie_question: "What would change in your organization if you untangled \"knowledge extinction\" this week?"
+quote_top: "Resignation means knowledge extinction, irrecoverable context lost forever."
+quote_bottom: "Transfer, don't extinguish."
 ---
 
 Even humbled, the learned stand tall.

@@ -15,8 +15,8 @@ fusion_point:
     - "Browser architecture (human-centric rendering)"
     - "AI agent infrastructure (machine-centric execution)"
     - "Purpose-built vs general-purpose systems"
-quote_top: "Using tools designed for humans imposes an 'invisible tax' on AI agents, forcing them to process irrelevant visual information, wasting resources."
-quote_bottom: "Optimize by removing components not serving an agent's specific purpose, rather than trying to make unsuitable tools efficient."
+quote_top: "Borrowing tools for unintended uses levies an invisible, expensive tax."
+quote_bottom: "Optimize for machine, not human."
 ---
 
 You are paying a tax you cannot see.

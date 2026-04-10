@@ -8,8 +8,8 @@ series_number: 8
 slug_name: the-accountability-dodge
 date: 2026-03-17
 description: "Fortune abandons the leader who doubts a capable person mid-task...."
-quote_top: "When an outcome is owned by everyone,\nnobody feels responsible."
-quote_bottom: "When accountability is diffused,\nnobody doubts anyone\nbecause nobody owns anything."
+
+
 punch_line_1: "Fortune abandons the leader who doubts a capable person mid-task."
 punch_line_2: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
 felt_hook: "Shared accountability is diluted accountability. Always."
@@ -29,6 +29,8 @@ untie_practices:
   - "Say \"I was wrong\" about one small thing"
   - "Share one piece of information you'd normally hold"
 untie_question: "What would change in your organization if you untangled \"the accountability dodge\" this week?"
+quote_top: "Shared accountability dilutes ownership into nothingness"
+quote_bottom: "Name one owner"
 ---
 
 Fortune abandons the leader who doubts a capable person mid-task.

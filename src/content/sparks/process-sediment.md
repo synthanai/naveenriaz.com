@@ -4,10 +4,12 @@ date: 2026-03-30
 signal: "Every process was once a solution. Most have outlived the problem they were built to solve."
 source: "Structure"
 temperature: "🔥🔥"
-quote_top: "Processes are geological.\nThey accumulate layers,\nbut they rarely erode."
-quote_bottom: "Audit one process today.\nDoes the original problem still exist?"
+
+
 tags: ["structure", "process", "efficiency"]
 description: "Processes are geological. They accumulate. They rarely erode."
+quote_top: "Bad processes begin as good intentions for real problems."
+quote_bottom: "Problems disappear; processes remain."
 ---
 
 Nobody installs a bad process on purpose. Every sign-off, every approval chain, every mandatory template was once a sensible response to a real problem.

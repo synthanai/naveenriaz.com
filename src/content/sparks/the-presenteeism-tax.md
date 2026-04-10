@@ -4,10 +4,12 @@ date: 2026-03-30
 signal: "The person at their desk doing nothing costs more than the person who stayed home."
 source: "Energy"
 temperature: "🔥🔥"
-quote_top: "We easily spot an empty chair.\nFew spot a full chair\nwith an empty mind behind it."
-quote_bottom: "Presence is not performance.\nYou are subsidising emptiness."
+
+
 tags: ["energy", "productivity", "management"]
 description: "The person at their desk doing nothing costs more than the empty desk."
+quote_top: "Empty minds in full chairs cost more than absent employees."
+quote_bottom: "Presence is not performance."
 ---
 
 Every manager can spot an empty chair. Almost nobody can spot a full chair with an empty mind behind it.

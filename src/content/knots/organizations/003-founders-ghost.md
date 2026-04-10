@@ -8,8 +8,8 @@ series_number: 3
 slug_name: "founders-ghost"
 date: 2026-03-17
 description: 'Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?'
-quote_top: "The founder built the fortress,\nbut she left three years ago.\nShe is still running every meeting."
-quote_bottom: "The ghost does not have the keys.\nYou do."
+
+
 punch_line_1: "The founder is gone."
 punch_line_2: "The rules are still running the meeting."
 felt_hook: 'Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?'
@@ -32,6 +32,8 @@ untie_practices:
   - "Write your team's purpose in one sentence"
   - "Compare calendar to stated values this week"
 untie_question: "What would change in your organization if you untangled \"founders ghost\" this week?"
+quote_top: "Founders' ghosts: governing the living from the grave."
+quote_bottom: "Haunting, not loyalty."
 ---
 
 The founder built the fortress.

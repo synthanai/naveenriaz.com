@@ -4,10 +4,12 @@ date: 2026-03-30
 signal: "If the CEO disappeared for a month, would the company notice, or just keep shambling forward?"
 source: "Structure"
 temperature: "🔥🔥🔥"
-quote_top: "If every senior leader disappeared\nfor thirty days, would your org\nadapt or run on autopilot?"
-quote_bottom: "Alive organisations adapt.\nDead ones just have not\nfallen over yet."
+
+
 tags: ["structure", "leadership", "self-awareness"]
 description: "The test that separates living organisations from undead ones."
+quote_top: "Lack of leadership reveals zombie organizations, not discipline."
+quote_bottom: "Adapt or perish."
 ---
 
 If every senior leader disappeared for 30 days, would the organisation adapt or just keep doing last month's work on autopilot?

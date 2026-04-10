@@ -17,8 +17,8 @@ fusion_point:
     - "Naval's 'specific knowledge' (irreducible, can't be trained, feels like play)"
     - "CORE identity architecture (Calling, Origin, Reason, Endurance)"
     - "The 200-year reversal: from industrial standardisation back to individual uniqueness"
-quote_top: "Naval's framework identifies specific knowledge but doesn't guide its discovery; you already possess this knowledge, you just don't know where to look."
-quote_bottom: "Specific knowledge is not a learned skill, but an intrinsic instinct, an output of identity rather than environment."
+quote_top: "Productize Yourself is incomplete; it hides your core."
+quote_bottom: "Identity fuels specific knowledge."
 ---
 
 # Productize Your CORE

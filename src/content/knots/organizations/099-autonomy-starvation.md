@@ -8,8 +8,8 @@ series_number: 3
 slug_name: autonomy-starvation
 date: 2026-03-17
 description: "Harsh rule that chains people is the heaviest burden...."
-quote_top: "Autonomy starvation does not look like oppression.\nIt looks like process."
-quote_bottom: "It feels like suffocation in a well-lit room.\nIt chains competent people with approval chains."
+
+
 punch_line_1: "Harsh rule that chains people is the heaviest burden."
 punch_line_2: "Autonomy starvation chains competent people with approval chains, creating resentment where empowerment should live."
 felt_hook: "Autonomy starvation doesn't look like oppression. It looks like process. It feels like suffocation in a well-lit room."
@@ -27,6 +27,8 @@ untie_practices:
   - "Decision authority is distributed by competence, not by hierarchy."
   - "When autonomy matches competence, people grow into their roles, initiative increases, and the org..."
 untie_question: "What would change in your organization if you untangled \"autonomy starvation\" this week?"
+quote_top: "Control stifles genius; autonomy unleashes organizational greatness."
+quote_bottom: "Give roots room to grow."
 ---
 
 Harsh rule that chains people is the heaviest burden.

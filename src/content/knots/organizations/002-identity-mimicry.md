@@ -8,8 +8,8 @@ series_number: 2
 slug_name: "identity-mimicry"
 date: 2026-03-17
 description: 'Does your organization describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''s adopt Google''s approach."'
-quote_top: "Copying someone else's identity\nis not a strategy.\nIt is surrender."
-quote_bottom: "Borrowed identity survives\nexactly as long as nobody\nasks what is underneath."
+
+
 punch_line_1: "Copying someone's identity feels like strategy."
 punch_line_2: "It's actually surrender."
 felt_hook: 'Does your organization describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''s adopt Google''s approach."'
@@ -32,6 +32,8 @@ untie_practices:
   - "Write your team's purpose in one sentence"
   - "Compare calendar to stated values this week"
 untie_question: "What would change in your organization if you untangled \"identity mimicry\" this week?"
+quote_top: "Identity mimicry is fear wearing a strategy hat."
+quote_bottom: "See the camouflage."
 ---
 
 One who knows themselves knows all.

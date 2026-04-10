@@ -17,8 +17,8 @@ fusion_point:
     - "Naval Ravikant's leverage taxonomy (labor, capital, code)"
     - "Michael Gerber's E-Myth technician trap"
     - "Governed sub-agent orchestration"
-quote_top: "Current AI is not true 'code leverage' scaling identical output, but rather 'labor leverage' offering differentiated, context-shaped responses without the human mess."
-quote_bottom: "Using AI as a technician by doing sequential, single-task work, despite its speed, traps you in manual labor rather than unlocking genuine leverage."
+quote_top: "AI leverage is misunderstood; it's not code, it's refined labor."
+quote_bottom: "Output without the drama."
 ---
 
 # The Leverage Lie

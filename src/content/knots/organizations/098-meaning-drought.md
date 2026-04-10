@@ -8,8 +8,8 @@ series_number: 2
 slug_name: meaning-drought
 date: 2026-03-17
 description: "One who stands free of folly creates millions...."
-quote_top: "Meaning drought is not about bad work.\nIt is about good work disconnected from purpose."
-quote_bottom: "The team is competent and empty.\nThey perform but cannot say why it matters."
+
+
 punch_line_1: "One who stands free of folly creates millions."
 punch_line_2: "Meaning drought is the folly of producing competent work without knowing why. The team performs but can't say why it matters."
 felt_hook: "Meaning drought isn't about bad work. It's about good work disconnected from purpose. The team is competent and empty."
@@ -27,6 +27,8 @@ untie_practices:
   - "Every team can articulate how their work connects to one real human impact."
   - "When meaning is specific and connected, engagement deepens, discretionary effort returns, and the..."
 untie_question: "What would change in your organization if you untangled \"meaning drought\" this week?"
+quote_top: "Competent teams deliver work, but often miss the point."
+quote_bottom: "Meaning is the operating system."
 ---
 
 One who stands free of folly creates millions.

@@ -5,8 +5,8 @@ resonance: "Grounds strategic expansion. Growth that compromises the core identi
 kural_number: 466
 born_from_knot: "005"
 date: 2026-03-31
-quote_top: "Uncontrolled growth distorts an organization's architecture, creating complex mass without a structural core."
-quote_bottom: "Growth demands both magnitude and purposeful direction; otherwise, it's just acceleration towards chaos and debt."
+quote_top: "Growth's gravity distorts architecture; magnitude without direction guarantees collapse."
+quote_bottom: "Scale without purpose is chaos."
 ---
 As an organisation grows, the sheer gravity of its scale begins to distort its original architecture.
 

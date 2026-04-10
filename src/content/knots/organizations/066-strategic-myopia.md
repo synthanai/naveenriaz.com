@@ -8,8 +8,8 @@ series_number: 6
 slug_name: strategic-myopia
 date: 2026-03-17
 description: "One who acts without knowing the method finds ruin...."
-quote_top: "Strategic myopia acts on what is near and clear.\nWhat is far and critical stays out of focus."
-quote_bottom: "It is not about seeing the future poorly.\nIt is standing on top of the future\nand failing to look down."
+
+
 punch_line_1: "One who acts without knowing the method finds ruin."
 punch_line_2: "Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus."
 felt_hook: "But nobody looks at five-year trajectories when the quarterly bonus depends on the next thirteen weeks."
@@ -29,6 +29,8 @@ untie_practices:
   - "Ask \"what do we know that we're not using?\""
   - "Create one cross-team knowledge connection this week"
 untie_question: "What would change in your organization if you untangled \"strategic myopia\" this week?"
+quote_top: "Short-sighted focus is leadership failure at its worst."
+quote_bottom: "Look far, lead well."
 ---
 
 One who acts without knowing the method finds ruin.

@@ -8,8 +8,8 @@ series_number: 1
 slug_name: performative-safety
 date: 2026-03-17
 description: "Wisdom is discerning the truth in whatever is said, by whomever it's said...."
-quote_top: "When safety becomes observable,\nit becomes performable."
-quote_bottom: "The mechanisms built to create trust\nbecome the very things\nthat suppress honesty."
+
+
 punch_line_1: "Wisdom is discerning the truth in whatever is said, by whomever it's said."
 punch_line_2: "When safety is performed, the truth behind every word is hidden, not heard."
 felt_hook: "Everyone is speaking. Nobody is saying anything true."
@@ -28,6 +28,8 @@ untie_practices:
   - "When safety is real, feedback becomes bi-directional, mistakes become learning moments instead of..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"performative safety\" this week?"
+quote_top: "Performative safety: the performance continues even after the audience sees backstage."
+quote_bottom: "The immune system attacks itself."
 ---
 
 Wisdom is discerning the truth in whatever is said, by whomever it's said.
