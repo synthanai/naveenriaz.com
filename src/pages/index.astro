@@ -110,7 +110,7 @@ import Footer from "../components/Footer.astro";
           Everything published on this canvas is strictly typed by cadence and cognitive weight. Short forms for daily capture. Long forms for deep synthesis.
         </p>
 
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-xl); text-align: left; margin-top: var(--space-3xl); margin-bottom: var(--space-xl);">
+        <div class="arch-grid">
           
           <div class="arch-col">
             <h3 style="color: var(--mind-color); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: var(--space-md);">Think</h3>
@@ -371,6 +371,22 @@ import Footer from "../components/Footer.astro";
         max-width: 480px;
         margin: 0 auto var(--space-lg);
         line-height: 1.6;
+      }
+
+      .arch-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: var(--space-xl);
+        text-align: left;
+        margin-top: var(--space-3xl);
+        margin-bottom: var(--space-xl);
+      }
+
+      @media (max-width: 768px) {
+        .arch-grid {
+          grid-template-columns: 1fr;
+          gap: var(--space-lg);
+        }
       }
     </style>
 

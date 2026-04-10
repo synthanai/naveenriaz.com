@@ -373,6 +373,10 @@ strong {
 
 /* ── Responsive ─────────────────────────────────────────────── */
 @media (max-width: 768px) {
+  body {
+    padding-bottom: 72px; /* clearance for mobile tab bar */
+  }
+
   .container {
     padding: 0 var(--space-md);
   }
@@ -384,10 +388,8 @@ strong {
   h1 {
     font-size: 1.8rem;
   }
-}
 
-@media (max-width: 480px) {
-
+  /* Collapse all 2-col grids to single column */
   .grid-3,
   .grid-2,
   .shipped-grid,
@@ -1349,6 +1351,22 @@ strong {
   }
 
   .soul-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .work-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .topic-list {
+    grid-template-columns: 1fr !important; /* override inline styles */
+  }
+
+  .connect-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .dim-grid {
     grid-template-columns: 1fr;
   }
 }

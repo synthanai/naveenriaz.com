@@ -7,6 +7,8 @@ categories: ["organisations"]
 tags: ["patrick-lencioni", "five-dysfunctions", "emergence", "organizational-health", "stars-principles"]
 description: "Lencioni's masterpiece diagnosed the baseline of team failure. But resolving dysfunction is not the end state-it is the prerequisite for emergence."
 source_research: "frameworks/five-dysfunctions-of-a-team/research.md"
+quote_top: "Lencioni's dysfunctions tell you what to fix.\nLiving systems theory tells you what emerges when you do."
+quote_bottom: "Fixing a broken team isn't the goal.\nIt's the prerequisite for emergence."
 fusion_type: "public"
 fusion_nool:
   nokkam: "Position SYNTHAI's STARS principles as the emergence layer that sits on top of Lencioni's foundational dysfunction hierarchy"
