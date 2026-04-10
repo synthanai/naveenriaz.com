@@ -18,6 +18,8 @@ fusion_point:
     - "SYNTHAI MBS: Soul, Mind, Body as the architecture of living organisations"
     - "PEO model (1996): Person-Environment-Occupation transaction as the mechanism of adaptive performance"
     - "Wilcock's Doing-Being-Becoming-Belonging as the dimensions of occupational health"
+quote_top: "Occupational therapy, born from the radical idea that health intertwined with meaningful activity, built a sophisticated model of human functioning mirrored in living organizations."
+quote_bottom: "The Model of Human Occupation (MOHO) reveals that how we care, organize, and perform dictates our ongoing adaptation to the world, providing a blueprint for organizational structure."
 ---
 
 # The OT Mirror

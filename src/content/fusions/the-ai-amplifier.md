@@ -15,6 +15,8 @@ fusion_point:
     - "The promise of AI velocity (46% PR throughput gains)"
     - "Bottleneck misalignment (generating code faster than you can review it)"
     - "The Four Signals foundation (People, Process, Architecture, Measure)"
+quote_top: "AI promises individual velocity, but its impact vanishes in system bottlenecks, creating unverified inventory instead of true progress."
+quote_bottom: "Authentic AI benefit arises in agile, loosely coupled systems; otherwise, it merely shifts the problem, amplifying existing inefficiencies."
 ---
 
 # The AI Amplifier

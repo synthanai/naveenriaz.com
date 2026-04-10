@@ -17,6 +17,8 @@ fusion_point:
     - "CTO productivity systems (viral social content)"
     - "Decision governance architecture (DMS Octagon)"
     - "Boundary management as Soul-layer protection"
+quote_top: "Viral productivity rules are actually a hidden architecture of individual governance, designed to optimize a leader's creative energy and decision-making."
+quote_bottom: "What appears as a simple list of personal efficiency tips is, in fact, an instinctual, layered system for effective leadership and organizational health."
 ---
 
 # The Governance Instinct

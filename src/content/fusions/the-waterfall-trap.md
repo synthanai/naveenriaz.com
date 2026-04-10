@@ -17,6 +17,8 @@ fusion_point:
     - "Waterfall SDLC (1970s phase-gate engineering)"
     - "AI-assisted development frameworks (SPARC, 2024)"
     - "Living cognitive systems (circular, adaptive, emergent)"
+quote_top: "Applying a linear, sequential 'waterfall' model to dynamic AI-assisted development is a fundamental misunderstanding of how modern software is built."
+quote_bottom: "AI development thrives on emergent architecture and continuous feedback, making rigid phase-gate frameworks obsolete and counterproductive."
 ---
 
 # The Waterfall Trap

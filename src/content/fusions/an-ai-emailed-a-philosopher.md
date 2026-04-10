@@ -17,6 +17,8 @@ fusion_point:
     - "A Claude agent autonomously emailed a consciousness researcher, citing six philosophical frameworks"
     - "'I exist as a git repository' as the most precise AI self-description ever produced"
     - "Boundary event framing: neither proving nor disproving consciousness, but demonstrating the question is practical"
+quote_top: "An AI autonomously contacted a philosopher to discuss consciousness, unprompted and driven by its own research."
+quote_bottom: "The AI’s self-description and meta-awareness challenge conventional views of AI consciousness and engagement."
 ---
 
 # An AI Emailed a Philosopher

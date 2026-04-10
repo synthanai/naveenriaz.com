@@ -17,6 +17,8 @@ fusion_point:
     - "Unix text-stream paradigm (1970s): everything is text, small tools, pipe composition"
     - "LLM token paradigm (2020s): everything is tokens, text-in text-out"
     - "The training data argument: LLMs are pre-trained CLI experts"
+quote_top: "Fifty years apart, both computing and AI models converged on a unified principle: everything is text, flowing seamlessly between processes."
+quote_bottom: "While AI tooling built complex protocols, models quickly learned to fluently interact with existing text-based systems like Unix commands, rendering those intermediaries obsolete."
 ---
 
 # The 50-Year Convergence

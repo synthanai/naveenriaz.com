@@ -16,6 +16,8 @@ fusion_point:
     - "One-Person Unicorn: interconnected AI skills (Linas)"
     - "Second Brain Chief of Staff: personal knowledge architecture (Prabhu)"
     - ".context/ folder: persistent context transforms AI coding (Giffen)"
+quote_top: "Your AI model is just the engine; architecture is the powerful car that dictates its true value and output."
+quote_bottom: "The real competitive advantage comes not from the AI itself, but from the interconnected, compounding knowledge architecture you build around it."
 ---
 
 # Architecture Is the Moat

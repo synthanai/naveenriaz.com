@@ -17,6 +17,8 @@ fusion_point:
     - "Credential-based authority in institutions"
     - "Artifact-based legitimacy in open source"
     - "The Web3-to-AI migration pattern"
+quote_top: "The Builder-Activist defies traditional credentialing, validating expertise through demonstrable artifacts and real-world performance."
+quote_bottom: "Legitimacy can emerge either from established credentials or from irrefutable results, showcasing that true impact supersedes formal recognition."
 ---
 
 # The Builder-Activist

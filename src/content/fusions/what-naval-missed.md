@@ -17,6 +17,8 @@ fusion_point:
     - "Code and Media leverage commoditised by AI (anyone can produce them now)"
     - "The governance OS as the new moat (orchestrating agents, not producing outputs)"
     - "The VC blindspot: VCs still fund headcount when AI replaces it"
+quote_top: "Naval's 2018 leverage of Code and Media is now automated, shifting the competitive edge from production to governing AI agents."
+quote_bottom: "While AI democratizes production, success now hinges on orchestrating and governing AI's output, not just generating it."
 ---
 
 # What Naval Missed

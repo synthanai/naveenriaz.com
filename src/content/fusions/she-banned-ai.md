@@ -17,6 +17,8 @@ fusion_point:
     - "The 50-year technology prohibition cycle (calculators → internet → Wikipedia → AI)"
     - "MBS diagnostic: Body fix (medium change) applied to a Soul problem (purpose amnesia)"
     - "Control dressed as trust (subtraction ≠ relationship)"
+quote_top: "Banning AI in education fundamentally misunderstands the problem; it's about assessment design, not the tool itself."
+quote_bottom: "Authenticity and understanding are products of the mind, not the medium, and technology's advance always outpaces prohibition."
 ---
 
 # She Banned AI

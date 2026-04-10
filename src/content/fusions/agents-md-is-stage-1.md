@@ -17,6 +17,8 @@ fusion_point:
     - "The 4-stage maturity model for agent configuration (README → Guidelines → Governance → Culture)"
     - "The operating system analogy: config file vs. OS"
     - "The 6th convergence: industry standardising what was already built as a complete architecture"
+quote_top: "AGENTS.md is a critical first step, standardizing how AI agents understand a project, much like a README for machines."
+quote_bottom: "While AGENTS.md instructs AI agents on 'what to do', effective AI orchestration demands governance and context beyond just configuration, evolving into a four-stage maturity model."
 ---
 
 # AGENTS.md Is Stage 1

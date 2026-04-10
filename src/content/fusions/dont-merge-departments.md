@@ -17,6 +17,8 @@ fusion_point:
     - "Mixture-of-Experts neural network architecture"
     - "Organisational restructuring and department mergers"
     - "Routing intelligence as tacit organisational knowledge"
+quote_top: "Organizational restructuring often mimics AI model compression: merging departments, like merging AI experts, destroys critical routing intelligence."
+quote_bottom: "Pruning underutilized departments, rather than merging them, is a counter-intuitive but superior strategy for maintaining organizational efficiency and clarity, mirroring successful AI optimization."
 ---
 
 # Don't Merge Departments, Prune Them

@@ -5,6 +5,8 @@ resonance: "Reduces blind execution. Do not adopt the industry's 'best practice'
 kural_number: 423
 born_from_knot: "006"
 date: 2026-03-31
+quote_top: "Copying best practices without understanding their context creates cargo cults, not culture."
+quote_bottom: "Focus on the 'why' behind the ritual, not just the ritual itself, to unlock true function."
 ---
 We borrow the Spotify model, the Google sprints, the Netflix vacation policy.
 

@@ -17,6 +17,8 @@ fusion_point:
     - "Cognitive science (de Bono's Six Thinking Hats, Kahneman's dual systems, Schon's reflection-on-action)"
     - "AI agent architecture (verb-based task taxonomies, tool-centric design)"
     - "Living systems biology (how organisms adapt posture, not just action, to their environment)"
+quote_top: "Cognitive frameworks tell you what to do, but not how you are thinking while doing it."
+quote_bottom: "The way you think, not just what you do, fundamentally changes the outcome of any task."
 ---
 
 # The Four Gears

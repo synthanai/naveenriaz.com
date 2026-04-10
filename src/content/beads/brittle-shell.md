@@ -5,6 +5,8 @@ resonance: "Tests resilience. True organisational identity is forged when it act
 kural_number: 114
 born_from_knot: "011"
 date: 2026-03-31
+quote_top: "True identity reveals itself not in calm, but in what one refuses to abandon amidst chaos."
+quote_bottom: "A culture easily sacrificed for profit is a mere convenience, not a deeply held identity."
 ---
 It is easy to hold strong values when the market is up and the quarter is smooth.
 

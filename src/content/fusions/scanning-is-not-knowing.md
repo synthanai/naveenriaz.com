@@ -17,6 +17,8 @@ fusion_point:
     - "Working memory limits (Cowan's 4-chunk cognitive constraint) applied to AI context"
     - "The 3-layer memory architecture (Session, Knowledge Graph, Ingestion Pipeline)"
     - "Context amnesia as a named organisational failure mode"
+quote_top: "AI's expanding context windows only scan more, not retain knowledge, making each session start from scratch."
+quote_bottom: "The industry's focus on larger context windows overlooks AI's fundamental memory gap, leading to wasted time re-explaining known information."
 ---
 
 # Scanning Is Not Knowing

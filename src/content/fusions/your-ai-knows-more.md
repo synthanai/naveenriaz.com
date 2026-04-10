@@ -17,6 +17,8 @@ fusion_point:
     - "Tacit knowledge externalisation through AI dialogue"
     - "Platform lock-in through conversation history"
     - "Data sovereignty as a developer right"
+quote_top: "Your AI assistant intimately knows your coding process and problem-solving patterns through your conversation history, which reveals your tacit knowledge about code."
+quote_bottom: "Developers value extracting their own AI conversation data more than new AI tools, as it represents their complete, unexportable cognitive footprint."
 ---
 
 # Your AI Knows More About You

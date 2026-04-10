@@ -5,6 +5,8 @@ resonance: "Connects abstraction to action. Employees ignore grandeur that contr
 kural_number: 472
 born_from_knot: "009"
 date: 2026-03-31
+quote_top: "Grand visions crumble without the granular scaffolding of daily operational support."
+quote_bottom: "A compelling future needs immediate tools; otherwise, vision becomes corporate hallucination."
 ---
 Leaders often paint a compelling picture of a ten-year horizon while ignoring the bureaucratic quicksand the team is stuck in today.
 

@@ -17,6 +17,8 @@ fusion_point:
     - "AI adoption as identity renegotiation (Rangaprabhu Parthasarathy, Meta)"
     - "Organisational Soul in living systems (SYNTHAI MBS framework)"
     - "Liminality in anthropological transition rituals"
+quote_top: "AI isn't just changing our tools; it's profoundly shifting our professional identities and the very essence of what we contribute."
+quote_bottom: "The unease you feel isn't a 'skills gap,' but the fundamental renegotiation of your long-held professional self in real time."
 ---
 
 # When AI Changes Who You Are

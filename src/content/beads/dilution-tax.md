@@ -5,6 +5,8 @@ resonance: "Preserves authentic alignment. Employees can spot a manufactured 'wh
 kural_number: 271
 born_from_knot: "008"
 date: 2026-03-31
+quote_top: "When purpose is merely a public facade, the organization's internal engine grinds to a halt."
+quote_bottom: "Authentic purpose is lived through decisions, not just announced through marketing."
 ---
 You cannot commodify the soul of your organisation without bankrupting it.
 

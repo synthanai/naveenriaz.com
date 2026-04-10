@@ -5,6 +5,8 @@ resonance: "Reduces structural stagnation. A ghost cannot make decisions; relyin
 kural_number: 426
 born_from_knot: "003"
 date: 2026-03-31
+quote_top: "Preserving outdated founder systems in a changing environment dooms the original intent."
+quote_bottom: "True leadership adapts to solve the original problem, rather than merely embalming past solutions."
 ---
 The commonly accepted lie is that preserving a founder's original systems is the best way to honour their legacy.
 

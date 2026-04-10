@@ -17,6 +17,8 @@ fusion_point:
     - "Google's three-stage content capture: snippets (1999), AI Overviews (2024), AI page replacement (2026 patent)"
     - "The soul extraction pattern: platforms absorb the body (content) while discarding the soul (voice, identity, trust)"
     - "Platform sovereignty as organisational survival: owned channels as the only durable distribution"
+quote_top: "Google's 'enshittification' of search involves a three-stage extraction, moving from snippets to AI overviews, and culminating in full AI page replacement, progressively absorbing content value while diminishing source necessity."
+quote_bottom: "Content creators now compete with Google's generative AI, where even perfect SEO cannot prevent replacement; what remains invaluable is the ungeneratable soul of voice, identity, and trust."
 ---
 
 # The Enshittification of Search

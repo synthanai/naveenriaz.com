@@ -15,6 +15,8 @@ fusion_nool:
 fusion_point:
   idea_a: "BDI agent theory (intent as committed goal, Cohen & Levesque 1990)"
   idea_b: "XoT reasoning topologies (14+ structures, Besta et al. 2025)"
+quote_top: "Current LLM reasoning methods overlook a critical question: how do you choose the right reasoning structure for a specific purpose?"
+quote_bottom: "The \"Topology-Governance Gap\" highlights the missing link between a reasoning task's intent and its structural deployment."
 ---
 
 # Intent of Thought

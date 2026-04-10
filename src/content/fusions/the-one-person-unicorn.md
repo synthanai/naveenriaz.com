@@ -17,6 +17,8 @@ fusion_point:
     - "Both AI lab CEOs (Altman, Amodei) predict the solo billion-dollar founder"
     - "The bottleneck is governance, not capability"
     - "The OS replaces the org chart: agents need departments, not just prompts"
+quote_top: "The predicted rise of a one-person, billion-dollar company, powered by AI agents replacing traditional departments, is a credible but incomplete vision."
+quote_bottom: "While AI agents can replicate business functions, a solo founder still requires a sophisticated coordination system to orchestrate them into a cohesive and functional enterprise."
 ---
 
 # The One-Person Unicorn

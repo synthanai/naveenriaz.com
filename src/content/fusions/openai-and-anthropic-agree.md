@@ -17,6 +17,8 @@ fusion_point:
     - "Both AI lab leaders independently chose the same three-node agent loop pattern"
     - "Shell commands replaced typed function calls as the execution primitive"
     - "When competitors converge, the pattern is not a preference, it is a discovery"
+quote_top: "Despite competing fiercely, OpenAI and Anthropic independently converged on the same AI agent architecture: an Orchestrator, Reasoner, and Executor loop."
+quote_bottom: "This multi-vendor convergence signifies a discovery, where fundamental principles are found rather than chosen, evidenced by both companies' shift from structured function calls to raw shell commands."
 ---
 
 # OpenAI and Anthropic Agree

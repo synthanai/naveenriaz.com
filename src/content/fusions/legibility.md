@@ -17,6 +17,8 @@ fusion_point:
     - "Structural legibility: systems must be architecturally readable by AI for safe collaboration"
     - "The cross-domain pattern: James C. Scott (political legibility), RadHash (software legibility), SYNTHAI (organisational legibility)"
     - "Constraints as enablers: restriction produces better outcomes than freedom, in code and in organisations"
+quote_top: "Organizations, like cities, thrive on organic complexity, which imposed legibility - whether by governments or AI - can inadvertently destroy."
+quote_bottom: "True organizational legibility isn't about formalizing every informal interaction; it's about strategic constraints that enable emergence, just like in software."
 ---
 
 # Legibility
