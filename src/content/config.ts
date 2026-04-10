@@ -121,6 +121,8 @@ const syncs = defineCollection({
     title: z.string(),
     date: z.coerce.date(),
     essence: z.string(),
+    signal_type: z.enum(['resonance', 'friction', 'insight']).default('resonance'),
+    tags: z.array(z.string()).optional(),
     origin_nodes: z.array(z.string()).optional(),
   }),
 });
