@@ -17,6 +17,9 @@ fusion_point:
     - "The shifted enterprise question: from 'Can it remember?' to 'Can it remember safely?'"
 quote_top: "AI agents have perfect memory. Enterprises fear it."
 quote_bottom: "Capability meets fear."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Google just gave your AI agents a perfect memory. The enterprise reaction was not applause. It was alarm.

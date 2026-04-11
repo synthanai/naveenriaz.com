@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"scaling pains\" this week?"
 quote_top: "Growth brings pain. Structures break when organisms expand."
 quote_bottom: "Adapt or crumble."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Avoiding harm and standing firm when it arrives.

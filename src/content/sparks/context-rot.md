@@ -7,6 +7,9 @@ quote_top: "Every AI-generated artifact\ndecays the moment it's created.\nThe co
 quote_bottom: "Capture the reasoning chain.\nDocument the why."
 tags: ["context-rot", "knowledge-management", "6r"]
 description: "AI generates artifacts. It does not generate the reasoning chains that explain them."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 An AI generates a solution. The developer accepts it. The code works. The PR merges. Everyone moves on.

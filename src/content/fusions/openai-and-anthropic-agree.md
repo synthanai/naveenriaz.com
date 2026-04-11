@@ -19,6 +19,9 @@ fusion_point:
     - "When competitors converge, the pattern is not a preference, it is a discovery"
 quote_top: "OpenAI and Anthropic converge on agent architecture design"
 quote_bottom: "Independent discovery not preference"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # OpenAI and Anthropic Agree

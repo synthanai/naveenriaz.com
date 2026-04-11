@@ -19,6 +19,9 @@ fusion_point:
     - "Living systems biology (how organisms adapt posture, not just action, to their environment)"
 quote_top: "You switch thinking modes daily; we just ignore them."
 quote_bottom: "Name your mind's gears."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Four Gears

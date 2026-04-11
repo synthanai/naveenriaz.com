@@ -19,6 +19,9 @@ fusion_point:
     - "Fixing a team is not the goal; unlocking what emerges from the fixed team is the goal."
 quote_top: "Lencioni defines health, but fails to reach the emergent potential."
 quote_bottom: "Emergence is the goal."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # After Lencioni

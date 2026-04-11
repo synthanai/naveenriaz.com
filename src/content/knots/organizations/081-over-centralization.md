@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"over centralization\" this week?"
 quote_top: "Over-centralization treats distributed intelligence as a threat, not a resource."
 quote_bottom: "The market lost."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Those who understand duty maintain generosity.

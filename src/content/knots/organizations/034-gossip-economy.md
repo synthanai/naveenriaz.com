@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"gossip economy\" this week?"
 quote_top: "Intelligence without compassion is incomplete; wisdom demands empathy."
 quote_bottom: "Feel another's pain."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 What use is intelligence if one does not feel another's pain as deeply as one's own?

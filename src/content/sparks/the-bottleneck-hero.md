@@ -10,6 +10,9 @@ tags: ["structure", "risk", "leadership"]
 description: "Hero culture is risk culture in disguise."
 quote_top: "The hero: a perceived strength, an actual architectural flaw."
 quote_bottom: "Hero culture is fragility."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Every organisation has one. The person who "just knows how everything works." The fixer. The hero.

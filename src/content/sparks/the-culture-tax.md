@@ -10,6 +10,9 @@ tags: ["culture", "cost", "leadership"]
 description: "Bad culture costs more than bad strategy. It just never appears on the balance sheet."
 quote_top: "Culture tax silently drains, costing more than just money."
 quote_bottom: "Invisibility hides its true cost."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Nobody sees the culture tax on a line item. But it is there.

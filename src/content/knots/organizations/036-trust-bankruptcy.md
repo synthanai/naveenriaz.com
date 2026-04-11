@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"trust bankruptcy\" this week?"
 quote_top: "Trust can go bankrupt, draining all goodwill."
 quote_bottom: "Zero balance remains."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Even heaven and earth cannot repay an unsolicited act of kindness.

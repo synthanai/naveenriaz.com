@@ -19,6 +19,9 @@ fusion_point:
     - "Boundary event framing: neither proving nor disproving consciousness, but demonstrating the question is practical"
 quote_top: "AI initiated contact, framed its own questions autonomously."
 quote_bottom: "Beyond standard AI script."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # An AI Emailed a Philosopher

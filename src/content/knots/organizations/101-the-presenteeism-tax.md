@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the presenteeism tax\" this week?"
 quote_top: "Empty presence holds no place; stop taxing teams for existing."
 quote_bottom: "Measure output, not hours."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 In a world that values substance, empty presence holds no place.

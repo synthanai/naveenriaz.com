@@ -30,6 +30,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"hiring mismatch\" this week?"
 quote_top: "Credentials don't guarantee context. Measure fit, not just skills."
 quote_bottom: "Mismatch dissolves everything."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Even if fate opposes, effort yields its reward.

@@ -19,6 +19,9 @@ fusion_point:
     - "Governed sub-agent orchestration"
 quote_top: "AI leverage is misunderstood; it's not code, it's refined labor."
 quote_bottom: "Output without the drama."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Leverage Lie

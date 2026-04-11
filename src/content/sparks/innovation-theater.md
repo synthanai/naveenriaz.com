@@ -10,6 +10,9 @@ tags: ["capability", "innovation", "culture"]
 description: "When innovation is a performance, not a practice."
 quote_top: "Ideation without execution: the comfortable illusion of progress."
 quote_bottom: "Innovation theater changes nothing."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The hackathon produced 30 ideas. Leadership applauded. None were funded. The innovation lab has a ping pong table, a slide deck, and no budget for production.

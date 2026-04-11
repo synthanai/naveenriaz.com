@@ -8,6 +8,9 @@ quote_top: "If you check every AI output\nby hand, you have not built\nan autono
 quote_bottom: "You have built a\nhomework generator."
 tags: ["ai-governance", "quality", "automation"]
 description: "Trust is not built on output volume. It is built on verified output quality."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 An agent runs overnight. Processes 200 documents. Generates 50 summaries. Files 30 tickets. You wake up to a clean inbox.

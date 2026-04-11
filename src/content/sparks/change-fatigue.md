@@ -10,6 +10,9 @@ tags: ["change", "leadership", "culture"]
 description: "Resistance is not the problem. Exhaustion is."
 quote_top: "Change fatigue: a rational response to endless, unproductive initiatives."
 quote_bottom: "Stop starting, start finishing."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Gartner's 2022 research: employees' willingness to support enterprise change dropped from 74% in 2016 to 43%. Not because people hate change. Because they have been through too many changes that led nowhere.

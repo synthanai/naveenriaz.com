@@ -19,6 +19,9 @@ fusion_point:
     - "Context amnesia as a named organisational failure mode"
 quote_top: "Scanning is not knowing. Context window is a scanner, not memory."
 quote_bottom: "AI forgets daily."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Scanning Is Not Knowing

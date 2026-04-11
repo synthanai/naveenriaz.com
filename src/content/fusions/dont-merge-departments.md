@@ -19,6 +19,9 @@ fusion_point:
     - "Routing intelligence as tacit organisational knowledge"
 quote_top: "Stop merging teams. Your company is a neural network."
 quote_bottom: "Prune for efficiency."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Don't Merge Departments, Prune Them

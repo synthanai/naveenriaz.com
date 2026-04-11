@@ -32,6 +32,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"talent hoarding\" this week?"
 quote_top: "Talent hoarding loses growth; eventually, the talent leaves entirely."
 quote_bottom: "Output, potential gone."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 People who fall from position are like hair fallen from the head.

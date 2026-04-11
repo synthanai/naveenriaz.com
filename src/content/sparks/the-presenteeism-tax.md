@@ -10,6 +10,9 @@ tags: ["energy", "productivity", "management"]
 description: "The person at their desk doing nothing costs more than the empty desk."
 quote_top: "Empty minds in full chairs cost more than absent employees."
 quote_bottom: "Presence is not performance."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Every manager can spot an empty chair. Almost nobody can spot a full chair with an empty mind behind it.

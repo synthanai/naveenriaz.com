@@ -29,6 +29,9 @@ untie_practices:
   - "Ask \"what do we know that we're not using?\""
   - "Create one cross-team knowledge connection this week"
 untie_question: "What would change in your organization if you untangled \"forecast addiction\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Truth seen by one without understanding. Goodness from one without compassion.

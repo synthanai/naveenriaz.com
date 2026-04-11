@@ -34,6 +34,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"legacy denial\" this week?"
 quote_top: "Denying past failures poisons your organization's future."
 quote_bottom: "Confront scars, unlock growth."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Remove your own faults first.

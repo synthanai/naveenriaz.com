@@ -34,6 +34,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"mission drift\" this week?"
 quote_top: "Mission drift: a hundred small compromises replace your purpose."
 quote_bottom: "Purpose fades, drift wins."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Think well before acting. To deliberate after deciding is a failure.

@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"meaning drought\" this week?"
 quote_top: "Competent teams deliver work, but often miss the point."
 quote_bottom: "Meaning is the operating system."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 One who stands free of folly creates millions.

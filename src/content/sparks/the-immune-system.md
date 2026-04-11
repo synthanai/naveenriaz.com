@@ -9,6 +9,9 @@ tags: ["convergent-evolution", "self-improving", "adversarial-review"]
 description: "Three independent builders. Same architecture. The pattern is structural."
 quote_top: "AI reasoning improves through forced disagreement before synthesis."
 quote_bottom: "Necessity, not preference."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Klaus Kaan is a solo developer. He built a system where one AI agent writes code, a second reviews it adversarially, and a third arbitrates conflicts. He calls the adversarial layer "the immune system."

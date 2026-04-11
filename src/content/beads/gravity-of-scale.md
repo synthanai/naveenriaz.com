@@ -7,6 +7,9 @@ born_from_knot: "005"
 date: 2026-03-31
 quote_top: "Growth's gravity distorts architecture; magnitude without direction guarantees collapse."
 quote_bottom: "Scale without purpose is chaos."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 As an organisation grows, the sheer gravity of its scale begins to distort its original architecture.
 

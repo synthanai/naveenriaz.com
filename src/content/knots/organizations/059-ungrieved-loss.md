@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"ungrieved loss\" this week?"
 quote_top: "Organizational change buries loss, fostering silent resistance and sabotage."
 quote_bottom: "Acknowledge grief; it's vital."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The noble do not treat suffering as cause for despair.

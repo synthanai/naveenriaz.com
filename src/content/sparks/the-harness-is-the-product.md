@@ -11,6 +11,9 @@ tags: ["agent-infrastructure", "context-engineering", "builderz"]
 description: "The value is not in the model. It is in the governance around it."
 quote_top: "Harness, not model, defines the future of AI products."
 quote_bottom: "Governance over raw capability."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Nyk has shipped 32 products. Built 155 repositories. Earned 2,800 GitHub stars on a single project. His thesis in one sentence: "The harness is the product. The model never was."

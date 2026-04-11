@@ -5,15 +5,13 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-// The URUKU engine operates directly on the raw repository content.
 const CONTENT_DIR = path.join(__dirname, '../src/content');
 const CAMPAIGNS_DIR = path.join(__dirname, '../.campaigns');
 
-// We simulate placing generated STUBs directly into the source content directory with a "stub" status
+// ─── Phase 5: Campaign (STUB Spawn) ───────────────────────────────────────
 function buildCampaign(campaignName) {
   console.log(`\n🔥 URUKU ENGINE: Spawning STUBs for campaign [${campaignName}]`);
   
-  // Hardcoded for "phase5-shadows" if file doesn't exist, to bootstrap Phase 5
   let campaignData;
   const campaignFile = path.join(CAMPAIGNS_DIR, `${campaignName}.json`);
   if (fs.existsSync(campaignFile)) {
@@ -39,84 +37,222 @@ function buildCampaign(campaignName) {
   campaignData.stubs.forEach(stub => {
     const safeTitle = stub.hook.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
     const outDir = path.join(CONTENT_DIR, stub.type);
-    if (!fs.existsSync(outDir)) {
-      fs.mkdirSync(outDir, { recursive: true });
-    }
+    if (!fs.existsSync(outDir)) { fs.mkdirSync(outDir, { recursive: true }); }
     const outFile = path.join(outDir, `${todayDate}-${safeTitle}.md`);
     
-    // Create the generic stub layout
-    const yaml = [
-      '---',
-      `title: "${stub.hook}"`,
-      `date: ${todayDate}`,
-      `tags: ["phase5", "shadow", "against-type"]`,
-      `description: ""`,
-      `valence: "${stub.truth.valence}"`,
-      `status: "awaiting-human"`,
-      '---',
-      '',
-      `## Capture Request (Campaign: ${campaignData.name})`,
-      '',
-      `**Hook:** ${stub.hook}`,
-      `**Instructions:** Write this ${stub.type.replace(/s$/, '')} in your own voice. Break the expected valence of the primitive.`,
-      `Embrace the shadow side.`
-    ].join('\n');
+    // We only spawn if it doesn't already exist to prevent overwrites
+    if (!fs.existsSync(outFile)) {
+      const yaml = [
+        '---',
+        `title: "${stub.hook}"`,
+        `date: ${todayDate}`,
+        `tags: ["phase5", "shadow", "against-type"]`,
+        `description: ""`,
+        `valence: "${stub.truth.valence}"`,
+        `status: "awaiting-human"`,
+        `origin_nodes: []`,
+        '---',
+        '',
+        `## Capture Request (Campaign: ${campaignData.name})`,
+        '',
+        `**Hook:** ${stub.hook}`,
+        `**Instructions:** Write this ${stub.type.replace(/s$/, '')} in your own voice. Break the expected valence of the primitive.`,
+        `Embrace the shadow side.`
+      ].join('\n');
 
-    fs.writeFileSync(outFile, yaml);
-    console.log(`  ✅ Staged STUB: ${outFile}`);
+      fs.writeFileSync(outFile, yaml);
+      console.log(`  ✅ Staged STUB: ${outFile}`);
+    } else {
+      console.log(`  ⚠️  Skipped (Already exists): ${outFile}`);
+    }
   });
-  
-  console.log(`\nURKU CAMPAIGN QUEUED. 5 STUBS Awaiting Human.\n`);
+  console.log(`\nURUKU CAMPAIGN QUEUED.\n`);
 }
 
+// ─── Frontmatter Parsing Helpers ─────────────────────────────────────
+function parseFM(content) {
+  const match = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!match) return {};
+  const fmStr = match[1];
+  const obj = {};
+  fmStr.split('\n').forEach(line => {
+    const colon = line.indexOf(':');
+    if (colon === -1) return;
+    const k = line.slice(0, colon).trim();
+    let v = line.slice(colon + 1).trim();
+    if (v.startsWith('[') && v.endsWith(']')) {
+      const inner = v.slice(1, -1).trim();
+      obj[k] = inner ? inner.split(',').map(s => s.trim().replace(/^"|"$/g, '').replace(/^'|'$/g, '')) : [];
+    } else {
+      obj[k] = v.replace(/^"|"$/g, '').replace(/^'|'$/g, '');
+    }
+  });
+  return obj;
+}
+
+function stringifyFMArray(arr) {
+  if (!arr || arr.length === 0) return '[]';
+  return '[' + arr.map(a => `"${a}"`).join(', ') + ']';
+}
+
+function getFilesTree(dir) {
+  let results = [];
+  if (!fs.existsSync(dir)) return results;
+  const list = fs.readdirSync(dir);
+  for (const item of list) {
+    const full = path.join(dir, item);
+    if (fs.statSync(full).isDirectory()) {
+      results = results.concat(getFilesTree(full));
+    } else if (full.endsWith('.md')) {
+      results.push(full);
+    }
+  }
+  return results;
+}
+
+// ─── Phase 7: Backfill ────────────────────────────────────────────────
 function runBackfill(dryRun) {
-  console.log(`\n🔥 URUKU ENGINE: Backfilling Legacy Schema`);
+  console.log(`\n🔥 URUKU ENGINE: Semantic Tag Backfill`);
   if (dryRun) console.log(`[DRY-RUN MODE EXECUTED. No files changed.]\n`);
   
-  const primitives = fs.readdirSync(CONTENT_DIR).filter(d => fs.statSync(path.join(CONTENT_DIR, d)).isDirectory());
+  const primDirs = fs.readdirSync(CONTENT_DIR).filter(d => fs.statSync(path.join(CONTENT_DIR, d)).isDirectory());
+  const allNodes = {}; 
   
-  let modifiedCount = 0;
-  
-  primitives.forEach(prim => {
-    const dir = path.join(CONTENT_DIR, prim);
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
-    
-    files.forEach(file => {
-      const p = path.join(dir, file);
-      const content = fs.readFileSync(p, 'utf8');
+  // 1. Load everything into memory
+  for (const prim of primDirs) {
+    const files = getFilesTree(path.join(CONTENT_DIR, prim));
+    for (const f of files) {
+      const content = fs.readFileSync(f, 'utf8');
+      const slugMatch = f.match(/([^\/]+)\.md$/);
+      if (!slugMatch) continue;
       
-      let newContent = content;
-      let changed = false;
+      const slug = slugMatch[1];
+      const id = `${prim}:${slug}`;
+      allNodes[id] = { file: f, content, fm: parseFM(content), newOrigins: new Set() };
+    }
+  }
 
-      // Extract frontmatter block
-      const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
-      if (!fmMatch) return;
-      let fm = fmMatch[1];
-      
-      // Inject origin_nodes if completely missing
-      if (!fm.includes('origin_nodes:')) {
-        fm += `\norigin_nodes: []`;
-        changed = true;
-      }
-      
-      // Inject safe truthFields defaults if entirely absent
-      if (!fm.includes('valence:')) {
-        fm += `\nvalence: "mixed"\nfriction: ""`;
-        changed = true;
-      }
-      
-      if (changed) {
-        newContent = newContent.replace(fmMatch[1], fm);
-        if (!dryRun) {
-          fs.writeFileSync(p, newContent);
-        }
-        console.log(`  🔧 Backfilled: ${prim}/${file}`);
-        modifiedCount++;
-      }
-    });
+  // 2. Preserve existing origin_nodes array elements
+  Object.values(allNodes).forEach(node => {
+     if (node.fm.origin_nodes && Array.isArray(node.fm.origin_nodes)) {
+        node.fm.origin_nodes.forEach(o => node.newOrigins.add(o));
+     }
   });
   
-  console.log(`\nURUKU BACKFILL COMPLETE. Processed ${modifiedCount} legacy files.\n`);
+  // 3. Compute Explicit connections (legacy vars)
+  for (const id in allNodes) {
+    const node = allNodes[id];
+    
+    if (node.fm.prev_knot) {
+      const pSlug = node.fm.prev_knot.split('/').pop();
+      const foundKnot = Object.keys(allNodes).find(k => k.startsWith('knots:') && k.includes(pSlug));
+      if (foundKnot) node.newOrigins.add(foundKnot);
+    }
+
+    if (node.fm.next_knot) {
+      const nSlug = node.fm.next_knot.split('/').pop();
+      const nextKnotId = Object.keys(allNodes).find(k => k.startsWith('knots:') && k.includes(nSlug));
+      if (nextKnotId && allNodes[nextKnotId]) {
+        allNodes[nextKnotId].newOrigins.add(id);
+      }
+    }
+    
+    if (node.fm.born_from_knot) {
+      const bfn = String(node.fm.born_from_knot);
+      const foundKnot = Object.keys(allNodes).find(k => k.startsWith('knots:') && String(allNodes[k].fm.knot_number) === bfn);
+      if (foundKnot) node.newOrigins.add(foundKnot);
+    }
+    
+    // Spark -> Fusion logic. 
+    // If Spark A has fusion_link /fusions/B, then B's origin_nodes should include Spark A
+    if (node.fm.fusion_link) {
+      const fSlug = node.fm.fusion_link.split('/').pop();
+      const fusionId = Object.keys(allNodes).find(k => k.startsWith('fusions:') && k.includes(fSlug));
+      if (fusionId && allNodes[fusionId]) {
+        allNodes[fusionId].newOrigins.add(id);
+      }
+    }
+  }
+  
+  // 4. Compute Implicit semantic boundaries intersection
+  const ids = Object.keys(allNodes);
+  for (let i = 0; i < ids.length; i++) {
+    for (let j = i + 1; j < ids.length; j++) {
+      const idA = ids[i];
+      const idB = ids[j];
+      const nodeA = allNodes[idA];
+      const nodeB = allNodes[idB];
+      
+      const tagsA = nodeA.fm.tags || [];
+      const tagsB = nodeB.fm.tags || [];
+      const intersection = tagsA.filter(t => tagsB.includes(t));
+      
+      // Minimum 2 identical semantic tags for natural connection
+      if (intersection.length >= 2) {
+        const partsA = idA.split(':');
+        const partsB = idB.split(':');
+        
+        // Directionality: Spark flows outward into Heavier primitives (Fusion / Knot)
+        if (partsA[0] === 'sparks' && ['fusions', 'knots'].includes(partsB[0])) {
+          nodeB.newOrigins.add(idA);
+        } else if (partsB[0] === 'sparks' && ['fusions', 'knots'].includes(partsA[0])) {
+          nodeA.newOrigins.add(idB);
+        }
+      }
+    }
+  }
+  
+  // 5. In-Place write back
+  let modifiedCount = 0;
+  for (const id in allNodes) {
+    const node = allNodes[id];
+    let content = node.content;
+    const match = content.match(/^---\n([\s\S]*?)\n---/);
+    if (!match) continue;
+    
+    let fmStr = match[1];
+    let changed = false;
+    
+    const originsArr = Array.from(node.newOrigins);
+    
+    // Only bother injecting if it isn't an empty array and wasn't entirely existing logically
+    const originStr = stringifyFMArray(originsArr);
+    
+    if (fmStr.includes('origin_nodes:')) {
+      const oldMatch = fmStr.match(/origin_nodes:\s*\[([^\]]*)\]/);
+      if (oldMatch) {
+         const oldStrArray = oldMatch[1].split(',').map(s => s.trim().replace(/"/g, '')).filter(Boolean);
+         // If lengths differ or contents differ, it changed
+         if (oldStrArray.length !== originsArr.length || !originsArr.every(x => oldStrArray.includes(x))) {
+           fmStr = fmStr.replace(/origin_nodes:\s*\[[^\]]*\]/, `origin_nodes: ${originStr}`);
+           changed = true;
+         }
+      } else {
+         // handle origin_nodes: [] edge cases without brackets or multiline
+         fmStr = fmStr.replace(/origin_nodes:.*$/, `origin_nodes: ${originStr}`);
+         changed = true;
+      }
+    } else {
+      fmStr += `\norigin_nodes: ${originStr}`;
+      changed = true;
+    }
+    
+    // Inject missing truthFields if entirely missing
+    if (!fmStr.includes('valence:')) {
+      fmStr += `\nvalence: "mixed"\nfriction: ""`;
+      changed = true;
+    }
+    
+    if (changed) {
+      if (!dryRun) {
+        const newContent = content.replace(match[1], fmStr);
+        fs.writeFileSync(node.file, newContent, 'utf8');
+      }
+      console.log(`  🔧 Backfilled: ${id} -> [${originsArr.length} cross-connections]`);
+      modifiedCount++;
+    }
+  }
+  console.log(`\nURUKU BACKFILL COMPLETE. Processed and updated ${modifiedCount} file mappings.\n`);
 }
 
 const args = process.argv.slice(2);

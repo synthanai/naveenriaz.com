@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"decision whiplash\" this week?"
 quote_top: "Inconsistent leadership creates whiplash, killing team commitment and trust."
 quote_bottom: "Leaders, acknowledge your mistakes."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Perseverance and mature wisdom together extend a legacy.

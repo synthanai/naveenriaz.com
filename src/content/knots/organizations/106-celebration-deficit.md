@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"celebration deficit\" this week?"
 quote_top: "Harvest without feast depletes the farmer and team motivation."
 quote_bottom: "Stop, celebrate, renew."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Wealth from generosity never diminishes.

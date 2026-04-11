@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"decision laundering\" this week?"
 quote_top: "Laundered decisions: clean surface, hollow inside; fake legitimacy."
 quote_bottom: "Honest advocacy beats theater."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 All that is desired is achieved if the mind harbors no anger.

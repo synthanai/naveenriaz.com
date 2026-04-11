@@ -19,6 +19,9 @@ fusion_point:
     - "Developer talent migration patterns"
 quote_top: "Technology fades, but values and principles persist through time."
 quote_bottom: "Principles transcend technology."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Values That Outlive the Technology

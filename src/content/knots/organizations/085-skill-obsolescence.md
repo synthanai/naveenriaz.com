@@ -32,6 +32,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"skill obsolescence\" this week?"
 quote_top: "Competence in yesterday's world becomes obsolescence in today's."
 quote_bottom: "Adapt or become extinct."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The work of the wise: meet joyfully, part meaningfully.

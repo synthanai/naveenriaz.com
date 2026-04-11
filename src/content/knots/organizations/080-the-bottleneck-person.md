@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the bottleneck person\" this week?"
 quote_top: "A bottleneck person chokes flow. Organization starves."
 quote_bottom: "Redistribute before damage."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 One who seeks no ease in good times builds resilience for hard times.

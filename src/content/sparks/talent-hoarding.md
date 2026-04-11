@@ -10,6 +10,9 @@ tags: ["capability", "talent", "retention"]
 description: "Hoarding talent is the fastest way to lose it."
 quote_top: "Talent needs growth; managers who block it lose more than they gain."
 quote_bottom: "Grip tight, slip fast."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A manager has a brilliant engineer. The engineer asks to transfer to a team that would stretch their skills. The manager blocks the move. "We cannot afford to lose you right now."

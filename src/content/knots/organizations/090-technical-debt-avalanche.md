@@ -32,6 +32,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"technical debt avalanche\" this week?"
 quote_top: "Technical debt: layers of fragility await swift collapse."
 quote_bottom: "Address it immediately."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Lacking resources is no shame. Lacking effort despite knowing is.

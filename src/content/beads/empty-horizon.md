@@ -7,6 +7,9 @@ born_from_knot: "009"
 date: 2026-03-31
 quote_top: Grand vision needs granular scaffolding, not quicksand.
 quote_bottom: Build the future, or perish.
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Leaders often paint a compelling picture of a ten-year horizon while ignoring the bureaucratic quicksand the team is stuck in today.

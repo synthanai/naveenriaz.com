@@ -8,6 +8,9 @@ quote_top: "The all-in-one AI agent\nis the new monolith.\nIt is accountable for
 quote_bottom: "Composability beats capability.\nEvery single time."
 tags: ["ai-governance", "architecture", "microservices"]
 description: "One agent to rule them all is one agent to fail them all."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The industry is building monolithic AI agents: one system that reads, writes, decides, audits, and publishes. It does everything. It is accountable for nothing.

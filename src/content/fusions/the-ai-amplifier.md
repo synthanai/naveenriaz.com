@@ -17,6 +17,9 @@ fusion_point:
     - "The Four Signals foundation (People, Process, Architecture, Measure)"
 quote_top: "AI promises velocity, but creates inventory problems in rigid systems."
 quote_bottom: "Speed without true flow is gridlock."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The AI Amplifier

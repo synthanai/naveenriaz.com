@@ -30,6 +30,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"harmony addiction\" this week?"
 quote_top: "Harmony addiction: teams suppress conflict, lose productive disagreement capacity."
 quote_bottom: "Comfort becomes the priority."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 To discern the true nature of anything, whatever it may seem, is wisdom.

@@ -28,6 +28,9 @@ untie_practices:
   - "When the center is real, alignment emerges naturally, meetings become shorter because decisions h..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"gravitational void\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The touchstone of greatness is one's deeds.

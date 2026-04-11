@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"burnout normalization\" this week?"
 quote_top: "Burnout is not happening to your team, it as your team."
 quote_bottom: "It's the culture."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 One who sees hardship as natural will never truly suffer.

@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"meeting to decision ratio\" this week?"
 quote_top: "Activity consuming more than it produces is organizational death."
 quote_bottom: "Exhaustion isn't output."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 An enterprise that destroys its capital while seeking gain is the death of initiative.

@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"hippo effect\" this week?"
 quote_top: "Authority warps truth like gravity warps light"
 quote_bottom: "Power blinds analysis"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A person's stature rises to match their will.

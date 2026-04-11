@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"technology sprawl\" this week?"
 quote_top: "Technology sprawl: great intent, chaotic outcome."
 quote_bottom: "Consolidate or perish."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Don't start any task until you've found the right conditions.

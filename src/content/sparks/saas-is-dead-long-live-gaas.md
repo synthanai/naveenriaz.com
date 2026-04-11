@@ -7,6 +7,9 @@ quote_top: "Every SaaS company\nis about to become\na GaaS company."
 quote_bottom: "Token budgets will\njoin salary packages."
 tags: ["nvidia", "openclaw", "agentic-os", "enterprise"]
 description: "The agent OS era just got a CEO endorsement."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Jensen Huang stood on stage and compared OpenClaw to Linux and HTTP.

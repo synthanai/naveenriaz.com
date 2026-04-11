@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"handoff failure\" this week?"
 quote_top: "Customers experience the seams, not the teams themselves."
 quote_bottom: "Fix the baton drops."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Poverty among the wise hurts less than wealth among the ignorant.

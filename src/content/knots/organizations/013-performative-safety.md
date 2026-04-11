@@ -30,6 +30,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"performative safety\" this week?"
 quote_top: "Performative safety: the performance continues even after the audience sees backstage."
 quote_bottom: "The immune system attacks itself."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Wisdom is discerning the truth in whatever is said, by whomever it's said.

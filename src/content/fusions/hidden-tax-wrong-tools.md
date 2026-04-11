@@ -17,6 +17,9 @@ fusion_point:
     - "Purpose-built vs general-purpose systems"
 quote_top: "Borrowing tools for unintended uses levies an invisible, expensive tax."
 quote_bottom: "Optimize for machine, not human."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 You are paying a tax you cannot see.

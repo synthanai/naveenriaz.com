@@ -8,6 +8,9 @@ quote_top: "We started a bakery\nto feed the neighbourhood.\nNow we deliver cold
 quote_bottom: "Efficiency without purpose\nis a faster route to nowhere."
 tags: ["identity", "purpose", "leadership"]
 description: "When the 'how' gets so sophisticated it eats the 'why' for breakfast."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 We started a bakery to feed the neighbourhood. The bread was warm. People queued. The purpose was visible in every loaf.

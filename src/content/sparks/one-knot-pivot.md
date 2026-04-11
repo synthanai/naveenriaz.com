@@ -9,6 +9,9 @@ quote_top: "Most organisational dysfunction\nis not twenty separate problems.\nI
 quote_bottom: "Focus is not a luxury.\nIt is leverage."
 tags: ["systems-thinking", "diagnosis", "leadership"]
 description: "Before starting the next initiative, find the one knot that unravels the rest."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A leadership team lists problems on a whiteboard. Low morale. High turnover. Missed deadlines. Communication gaps. Twenty items. Twenty workstreams assigned.

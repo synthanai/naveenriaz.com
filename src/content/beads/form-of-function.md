@@ -7,6 +7,9 @@ born_from_knot: "012"
 date: 2026-03-31
 quote_top: "Before collapse, purpose silently drains while performance takes center stage."
 quote_bottom: "Metrics mislead; purpose prevails."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 The core decays long before the surface shows structural failure.
 

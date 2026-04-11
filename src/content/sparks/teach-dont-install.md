@@ -9,6 +9,9 @@ tags: ["consulting", "teaching", "mbs", "organisational-health"]
 description: "The consultant's value is not in the tools they install. It is in the thinking they transmit."
 quote_top: "Install tools, automate tasks, but capability remains elusive."
 quote_bottom: "True growth requires internalizing change."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 There are two types of AI consultants.

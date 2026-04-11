@@ -5,6 +5,8 @@ essence: "The most useful meetings are the ones where you don't learn a new idea
 signal_type: resonance
 tags: ["AI", "partnership", "product", "domain-intelligence", "market-expansion"]
 origin_nodes: ["primitive-sync", "2026-04-07"]
+valence: "mixed"
+friction: ""
 ---
 
 I spent 70 minutes with a small AI product firm building exactly what I believed in privately.

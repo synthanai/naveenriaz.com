@@ -7,6 +7,9 @@ born_from_knot: "010"
 date: 2026-03-31
 quote_top: "High-performing silos expose a low-performing ecosystem."
 quote_bottom: "Fortresses harm the whole."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 When a team must build walls to protect its efficiency or psychological safety from the rest of the enterprise, they become cultural orphans.
 

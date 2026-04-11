@@ -34,6 +34,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"values wallpaper\" this week?"
 quote_top: "Virtue lives in the mind, not on the wall"
 quote_bottom: "The rest is empty noise"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Spotless mind is all of virtue. The rest is empty noise.

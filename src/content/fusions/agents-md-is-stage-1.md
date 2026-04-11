@@ -19,6 +19,9 @@ fusion_point:
     - "The 6th convergence: industry standardising what was already built as a complete architecture"
 quote_top: "AGENTS.md defines project rules for AI, like READMEs for humans."
 quote_bottom: "Context not constraint."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # AGENTS.md Is Stage 1

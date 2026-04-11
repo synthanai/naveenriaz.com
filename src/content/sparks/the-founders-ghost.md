@@ -8,6 +8,9 @@ tags: ["identity", "legacy", "leadership"]
 description: "There is a difference between honouring a legacy and being trapped by one."
 quote_top: "Legacy honors intent, not rigid adherence to outdated forms."
 quote_bottom: "Adapt or be trapped."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 "We do it this way because that is how the founder set it up."

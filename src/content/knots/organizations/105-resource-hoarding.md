@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"resource hoarding\" this week?"
 quote_top: "Resource hoarding starves your organization's downstream ecosystem."
 quote_bottom: "Redistribute for collective vitality."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 To give and live with honor: no greater profit exists.

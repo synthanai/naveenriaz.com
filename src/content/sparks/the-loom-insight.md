@@ -8,6 +8,9 @@ quote_top: "Organisational problems are\nnot independent whiteboard items.\nThey
 quote_bottom: "Pull one and three others move.\nTrace the thread backwards."
 tags: ["systems-thinking", "patterns", "ai"]
 description: "Organisational problems are not independent. They are threads in a loom."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A CTO fixes the deployment pipeline. Three months later, the incident rate drops. Six months later, developer morale improves. Nobody connects the two.

@@ -8,6 +8,9 @@ quote_top: "Decision laundering:\nTaking a private choice and running\nit throug
 quote_bottom: "Honesty is always\nfaster than theatre."
 tags: ["decisions", "leadership", "trust"]
 description: "When decisions are pre-made and meetings are theatre."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The decision was already made. The meeting existed to make it look collaborative.

@@ -8,6 +8,9 @@ tags: ["decisions", "alignment", "leadership"]
 description: "When nobody agrees on what winning looks like, nobody wins."
 quote_top: "Ambiguous success ensures everyone optimizes for their own interpretation."
 quote_bottom: "Moving but not converging."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Ask five people on your team what "success" looks like this quarter. You will get six answers.

@@ -5,6 +5,7 @@ tags: ["phase5", "shadow", "against-type"]
 description: ""
 valence: "mixed"
 status: "awaiting-human"
+origin_nodes: ["sparks:2026-04-12-the-signal-i-chased-for-six-months-that-was-noise"]
 ---
 
 ## Capture Request (Campaign: Phase 5: Against Type)

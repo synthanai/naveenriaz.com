@@ -19,6 +19,9 @@ fusion_point:
     - "Organisational health as a living system"
 quote_top: "AI skills commoditize fast; true value lies beyond mere procedures."
 quote_bottom: "Judgment, not tools, is key."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Tool Installer

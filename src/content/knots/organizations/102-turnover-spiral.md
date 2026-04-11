@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"turnover spiral\" this week?"
 quote_top: "Turnover spirals are self-sustaining chain reactions, ignored until too late."
 quote_bottom: "Stop the spiral, save the team."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Greatness comes to those who persevere and gain clarity.

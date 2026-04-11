@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"urgency addiction\" this week?"
 quote_top: "Overstretch exceeds what was sought, creating manufactured urgency."
 quote_bottom: "Urgency is friction."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Excess effort loses gains. The losses from overstretch exceed what was sought.

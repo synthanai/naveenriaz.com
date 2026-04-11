@@ -7,6 +7,9 @@ quote_top: "Using AI well is a social skill.\nIt is not a technical one."
 quote_bottom: "The tool is invisible.\nThe posture is everything."
 tags: ["anthropic", "education", "collaborator-posture", "social-skill"]
 description: "The best technology disappears. What remains is the relationship."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Drew Bent leads education at Anthropic. He says something most AI discourse misses entirely.

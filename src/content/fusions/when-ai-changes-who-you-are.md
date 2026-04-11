@@ -19,6 +19,9 @@ fusion_point:
     - "Liminality in anthropological transition rituals"
 quote_top: "AI isn't just new tools, it's an identity shift."
 quote_bottom: "Redefine your work self."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # When AI Changes Who You Are

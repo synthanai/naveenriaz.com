@@ -30,6 +30,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"recognition deficit\" this week?"
 quote_top: "Invisible value sustains organizations and entire forests."
 quote_bottom: "Recognize unseen roots."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The world honors those who do good with grace.

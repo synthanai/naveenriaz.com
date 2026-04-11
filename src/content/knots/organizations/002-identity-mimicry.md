@@ -34,6 +34,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"identity mimicry\" this week?"
 quote_top: "Identity mimicry is fear wearing a strategy hat."
 quote_bottom: "See the camouflage."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 One who knows themselves knows all.

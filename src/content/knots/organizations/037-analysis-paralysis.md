@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"analysis paralysis\" this week?"
 quote_top: "Analysis paralysis: when deliberation becomes the only action."
 quote_bottom: "Delay is organizational death."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 In 2004, an internal memo circulated through Nokia's Espoo headquarters. An engineering team had identified the smartphone threat. They proposed a touchscreen device. They had working prototypes.

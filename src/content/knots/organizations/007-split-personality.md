@@ -32,6 +32,9 @@ untie_practices:
   - "Write your team's purpose in one sentence"
   - "Compare calendar to stated values this week"
 untie_question: "What would change in your organization if you untangled \"split personality\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 When a deceitful mind puts on virtuous conduct, the five elements within laugh.

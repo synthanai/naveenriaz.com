@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"governance bloat\" this week?"
 quote_top: "Governance bloat is organizational autoimmunity, attacking the ability to decide."
 quote_bottom: "Paralyzed by protection."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Acquire wealth; no weapon is sharper.

@@ -9,6 +9,9 @@ quote_top: "AI does not have a conscience.\nIt has a probability distribution\no
 quote_bottom: "The AI does not have morality.\nIt has a mirror."
 tags: ["consciousness", "ethics", "emergence", "soul"]
 description: "AI does not have morality. It has a mirror."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Martin Ciupa articulated the clearest boundary I have read in the consciousness debate.

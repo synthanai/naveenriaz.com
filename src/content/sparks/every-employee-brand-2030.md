@@ -11,6 +11,9 @@ tags: ["future-of-work", "ai", "personal-branding", "prediction", "2030"]
 description: "Prepare your organisation for the frictionless era."
 quote_top: "Personal branding: once optional, soon indispensable for employees."
 quote_bottom: "AI makes it inevitable."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 In 2005, most employees did not have an email address. By 2010, not having one was unthinkable.

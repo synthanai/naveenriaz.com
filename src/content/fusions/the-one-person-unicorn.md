@@ -19,6 +19,9 @@ fusion_point:
     - "The OS replaces the org chart: agents need departments, not just prompts"
 quote_top: "One-person billion-dollar companies are coming and VCs are not ready."
 quote_bottom: "Orchestras need conductors."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The One-Person Unicorn

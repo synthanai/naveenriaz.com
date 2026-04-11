@@ -28,6 +28,9 @@ untie_practices:
   - "When belonging is real, discretionary effort rises naturally, people contribute beyond their role..."
   - "Replace one \"that's how we do it\" with \"why?\""
 untie_question: "What would change in your organization if you untangled \"belonging fracture\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The loveless live only for themselves. The loving give even their bones for others.

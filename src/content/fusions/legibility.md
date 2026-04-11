@@ -19,6 +19,9 @@ fusion_point:
     - "Constraints as enablers: restriction produces better outcomes than freedom, in code and in organisations"
 quote_top: "Imposing legibility kills complexity, creates bureaucracy."
 quote_bottom: "Organic complexity thrives."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Legibility

@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"success ambiguity\" this week?"
 quote_top: "No defined success means your initiative cannot end."
 quote_bottom: "It will consume resources forever."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A true fortress has resources, location, and worthy people.

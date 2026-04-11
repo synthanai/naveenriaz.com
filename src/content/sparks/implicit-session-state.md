@@ -10,6 +10,9 @@ tags: ["ai-governance", "architecture", "context"]
 description: Memory should be infrastructure, not a chore.
 quote_top: "AI conversations always start from zero: users carry the entire context."
 quote_bottom: "Memory should be infrastructure."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Open a new chat. Paste your context. Explain who you are, what you are working on, what happened last time. The AI responds helpfully. Close the window. Next session, repeat from scratch.

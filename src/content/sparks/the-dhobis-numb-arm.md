@@ -10,6 +10,9 @@ tags: ["energy", "burnout", "culture"]
 description: "Burnout isn't a badge. It's a system failure of busy-ness."
 quote_top: "Crisp shirts hide numb arms; question the system, not the person."
 quote_bottom: "Burnout is systemic, not commitment."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 In India, the dhobi irons clothes on the street until his arm goes numb. Nobody asks about the arm. The shirts are crisp. That is the only metric.

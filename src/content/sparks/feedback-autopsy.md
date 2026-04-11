@@ -8,6 +8,9 @@ quote_top: "Annual reviews are comfortable\nfor the reviewer, but\nthey are usel
 quote_bottom: "Feedback delayed is\nfeedback denied."
 tags: ["culture", "feedback", "management"]
 description: "Feedback delayed is feedback denied."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A developer ships flawed code in April. Nobody says anything. December's annual review mentions "attention to detail." The developer stares at the page. They cannot remember the incident.

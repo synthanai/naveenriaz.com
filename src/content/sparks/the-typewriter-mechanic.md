@@ -8,6 +8,9 @@ quote_top: "The best typewriter mechanic\nin the world still could not\nsave the
 quote_bottom: "Mastering an obsolete skill\nis not building a new one."
 tags: ["capability", "innovation", "obsolescence"]
 description: "Mastering a dying skill is not the same as building a new one."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Around 1985, the best typewriter mechanic in the world perfected their craft. Every ribbon change flawless. Every key alignment precise.

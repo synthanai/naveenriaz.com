@@ -27,6 +27,9 @@ untie_practices:
   - "Transformation progress is measured by changed behavior, not by completed workstreams."
   - "When transformation is measured by behavior instead of governance, programs become leaner, timeli..."
 untie_question: "What would change in your organization if you untangled \"transformation theater\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 One who acts without understanding the means will find themselves as lost as one who understands but never acts.

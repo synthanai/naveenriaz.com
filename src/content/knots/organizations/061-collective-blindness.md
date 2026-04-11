@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"collective blindness\" this week?"
 quote_top: "Organizations have eyes but collective blindness creates unseen gaps."
 quote_bottom: "See the scotoma."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Those who foresee what is coming are never shaken.

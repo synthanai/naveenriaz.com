@@ -8,6 +8,9 @@ quote_top: "The dashboard says green.\nThe team says they are drowning.\nWhich d
 quote_bottom: "Data is a lantern.\nIt is never a compass."
 tags: ["intelligence", "data", "culture"]
 description: "When data replaces judgement instead of informing it."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 "What does the data say?" has become the highest form of organisational prayer. No decision moves without a dashboard blessing.

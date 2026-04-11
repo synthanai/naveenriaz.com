@@ -7,6 +7,9 @@ born_from_knot: "002"
 date: 2026-03-30
 quote_top: "Mimicry: the safest form of failure, a slow death of the soul."
 quote_bottom: "Weave your own pattern."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 Mimicry is the safest form of failure.
 

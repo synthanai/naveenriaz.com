@@ -9,6 +9,9 @@ quote_top: "Platforms will absorb features.\nThe standalone feature-as-a-product
 quote_bottom: "Features get absorbed.\nPhilosophies do not."
 tags: ["platform-absorption", "moat", "identity", "survival"]
 description: "Features get absorbed. Philosophy does not."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Meta acquired Manus for its agentic capabilities. Figma integrated Anthropic to turn code into design. Salesforce built AgentForce to eliminate middleware.

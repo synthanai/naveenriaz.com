@@ -1,6 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 
-// Shared truth fields — every primitive can hold the full emotional spectrum
+// Shared truth fields — every atom can hold the full emotional spectrum
 const truthFields = {
   valence: z.enum(['luminous', 'dark', 'mixed']).default('mixed'),
   emotional_range: z.array(z.string()).optional(),
@@ -10,7 +10,7 @@ const truthFields = {
   residue: z.string().optional(),     // What still has not been resolved?
 };
 
-// Context fields — travel, coaching, teaching etc. as input channels, not primitives
+// Context fields — travel, coaching, teaching etc. as input channels, not atoms
 const contextFields = {
   context: z.enum(['travel', 'coaching', 'teaching', 'building', 'reading']).optional(),
   context_location: z.string().optional(),

@@ -20,6 +20,9 @@ fusion_point:
     - "Wilcock's Doing-Being-Becoming-Belonging as the dimensions of occupational health"
 quote_top: "Occupational therapy mirrors the architecture of living organizations."
 quote_bottom: "Profound, unsettling precision."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The OT Mirror

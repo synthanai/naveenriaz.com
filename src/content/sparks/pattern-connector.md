@@ -11,6 +11,9 @@ tags: ["systems-thinking", "patterns", "ai-era"]
 description: "Anyone can see the thread. Few can see the weave."
 quote_top: "Cross-domain vision weaves patterns, not just threads, through the loom."
 quote_bottom: "See the weave, not just the thread."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A factory has a quality issue. Marketing underperforms. The support queue grows. Three teams, three budgets, three consultants.

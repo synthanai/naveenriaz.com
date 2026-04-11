@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"silo syndrome\" this week?"
 quote_top: "Organizational silos prevent the cross-pollination of perspectives"
 quote_bottom: "Innovation demands contamination"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The loveless keep everything for themselves. The loving give even their bones.

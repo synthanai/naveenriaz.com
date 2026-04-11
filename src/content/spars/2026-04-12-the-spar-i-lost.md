@@ -5,6 +5,7 @@ tags: ["phase5", "shadow", "against-type"]
 description: ""
 valence: "dark"
 status: "awaiting-human"
+origin_nodes: []
 ---
 
 ## Capture Request (Campaign: Phase 5: Against Type)

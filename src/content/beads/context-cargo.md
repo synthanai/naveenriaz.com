@@ -7,6 +7,9 @@ born_from_knot: "006"
 date: 2026-03-31
 quote_top: "Rituals without context are cargo cults, not magic."
 quote_bottom: "Understand the soul, not the shell."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 We borrow the Spotify model, the Google sprints, the Netflix vacation policy.
 

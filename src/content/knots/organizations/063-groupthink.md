@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"groupthink\" this week?"
 quote_top: "Groupthink isn't alignment; it's a dangerous echo chamber."
 quote_bottom: "Silence speaks loud losses."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Speaking is easy. Doing as spoken is difficult.

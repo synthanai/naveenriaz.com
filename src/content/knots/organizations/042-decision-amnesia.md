@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"decision amnesia\" this week?"
 quote_top: "Knowing without doing is incomplete. Live what you learn."
 quote_bottom: "Apply your knowledge."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Learn thoroughly what should be learned. Having learned, live by it.

@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"loyalty extraction\" this week?"
 quote_top: "Loyalty isn't a tax, it's a mutual investment."
 quote_bottom: "One-sided loyalty is demand."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The land of a ruler who does not seek and administer justice daily will perish daily.

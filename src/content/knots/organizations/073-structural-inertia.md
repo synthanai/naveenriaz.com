@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"structural inertia\" this week?"
 quote_top: "Structure changed, but human behavior ossified."
 quote_bottom: "Inertia conquers all."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 From the outside, the restructure looked decisive. New org chart. Cleaner reporting lines. A memo from the CEO about "operating with agility." The slides were beautiful. The announcement video had music.

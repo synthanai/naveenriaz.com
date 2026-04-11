@@ -30,6 +30,9 @@ untie_practices:
   - "Pair one experienced person with one new person"
   - "Dedicate one hour this week to skill-building"
 untie_question: "What would change in your organization if you untangled \"onboarding failure\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Wealth without planning vanishes like sight without eyes.

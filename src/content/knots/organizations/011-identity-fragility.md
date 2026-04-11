@@ -34,6 +34,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"identity fragility\" this week?"
 quote_top: "Untested commitment shatters under pressure, revealing identity fragility."
 quote_bottom: "Stress-test your core."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Like the tortoise drawing in its limbs, one who masters the senses finds lasting security.

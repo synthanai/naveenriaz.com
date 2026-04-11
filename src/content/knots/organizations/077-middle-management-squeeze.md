@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"middle management squeeze\" this week?"
 quote_top: "Middle managers carry the organization, unseen, until they buckle."
 quote_bottom: "Reinforce the unseen columns."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The world endures because of those with good character.

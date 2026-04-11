@@ -17,6 +17,9 @@ fusion_point:
   idea_b: "XoT reasoning topologies (14+ structures, Besta et al. 2025)"
 quote_top: "LLM reasoning picks structures by coin toss, not purpose."
 quote_bottom: "Why reason? The gap."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Intent of Thought

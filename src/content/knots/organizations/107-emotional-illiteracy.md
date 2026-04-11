@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"emotional illiteracy\" this week?"
 quote_top: "Ignoring emotions is ignoring your organization's operating system."
 quote_bottom: "Read the room first."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 One flaw in wisdom pushes wholeness far away.

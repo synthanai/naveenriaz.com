@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"autonomy starvation\" this week?"
 quote_top: "Control stifles genius; autonomy unleashes organizational greatness."
 quote_bottom: "Give roots room to grow."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Harsh rule that chains people is the heaviest burden.

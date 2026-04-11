@@ -32,6 +32,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"diversity without inclusion\" this week?"
 quote_top: "Diverse hires muted by cultural norms are visual diversity, not audible diversity."
 quote_bottom: "Presence is not power."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Touching brings joy to the body. Hearing words brings joy to the ear.

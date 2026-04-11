@@ -19,6 +19,9 @@ fusion_point:
     - "Ashby's Law of Requisite Variety as the scientific justification"
 quote_top: "Premature convergence is a universal failure across all domains"
 quote_bottom: "SPAR prevents catastrophic consequences"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # SPAR Is Not an AI Feature

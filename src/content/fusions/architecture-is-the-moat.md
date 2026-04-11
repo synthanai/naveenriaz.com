@@ -18,6 +18,9 @@ fusion_point:
     - ".context/ folder: persistent context transforms AI coding (Giffen)"
 quote_top: "Your value isn't the AI model, but the architecture around it."
 quote_bottom: "Architecture creates compound intelligence."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Architecture Is the Moat

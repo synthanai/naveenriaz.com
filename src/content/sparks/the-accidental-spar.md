@@ -10,6 +10,9 @@ quote_bottom: "Convergent evolution is evidence\nof environmental necessity."
 tags: ["spar", "convergent-evolution", "multi-agent"]
 description: "Independent convergence is the strongest form of validation."
 fusion_link: "/fusions/agreement-is-a-bug"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A developer I have never met just published my architecture.

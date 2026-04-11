@@ -32,6 +32,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"purpose amnesia\" this week?"
 quote_top: "Purpose attenuates when it's not amplified."
 quote_bottom: "Re-amplify your reason."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 I hired a woman last March. Brilliant. Two Masters degrees. She came from a competitor.

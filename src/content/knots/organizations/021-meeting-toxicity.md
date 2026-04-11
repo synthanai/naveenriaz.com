@@ -30,6 +30,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"meeting toxicity\" this week?"
 quote_top: "Useless meetings are invasive species colonizing broken decision-making systems"
 quote_bottom: "Cancel one meeting-nobody will notice"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Never speak useless words. To speak them is to speak nothing at all.

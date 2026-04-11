@@ -11,6 +11,9 @@ tags: ["ai-governance", "architecture", "readiness"]
 description: "Most companies are adopting AI. Almost nobody is ready for it."
 quote_top: "AI adoption surges, but scaling stalls without foundational architecture."
 quote_bottom: "Build the foundation first."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 McKinsey's 2024 State of AI: 72% of companies are adopting AI tools. Only 26% are scaling them beyond pilots.

@@ -10,6 +10,9 @@ tags: ["structure", "process", "efficiency"]
 description: "Processes are geological. They accumulate. They rarely erode."
 quote_top: "Bad processes begin as good intentions for real problems."
 quote_bottom: "Problems disappear; processes remain."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Nobody installs a bad process on purpose. Every sign-off, every approval chain, every mandatory template was once a sensible response to a real problem.

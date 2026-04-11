@@ -19,6 +19,9 @@ fusion_point:
     - "The iceberg illusion in complex systems"
 quote_top: "Agent demos impress; production often remains a distant dream."
 quote_bottom: "AI reliability is messy."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Agentic Iceberg

@@ -7,6 +7,9 @@ quote_top: "An NYU professor banned AI\nand solved a Soul problem\nwith a Body f
 quote_bottom: "She banned the calculator\ninstead of teaching mathematics."
 tags: ["education", "ai-empowerment", "purpose-amnesia"]
 description: "Students are not cheating because AI exists. They have forgotten why they are learning."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 An NYU professor banned AI from her classroom. She replaced laptops with $1 spiral notebooks. Students now write everything by hand. The post got 11,000 likes on X.

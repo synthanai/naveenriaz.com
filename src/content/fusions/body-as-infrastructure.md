@@ -19,6 +19,9 @@ fusion_point:
     - "The Oasis Effect: novelty prevents cognitive stagnation, at individual and organisational scales"
 quote_top: "Your body isn't transport; it's your cognitive infrastructure."
 quote_bottom: "Move to think."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Body as Infrastructure

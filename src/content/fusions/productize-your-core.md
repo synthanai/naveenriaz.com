@@ -19,6 +19,9 @@ fusion_point:
     - "The 200-year reversal: from industrial standardisation back to individual uniqueness"
 quote_top: "Productize Yourself is incomplete; it hides your core."
 quote_bottom: "Identity fuels specific knowledge."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Productize Your CORE

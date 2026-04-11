@@ -8,6 +8,9 @@ quote_top: "Most automation targets the task.\nYou generate something faster\nth
 quote_bottom: "Automate for efficiency.\nOrchestrate for evolution."
 tags: ["ai-governance", "orchestration", "automation"]
 description: "Automate for efficiency. Orchestrate for evolution."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A task: "Generate a weekly report." An intent: "Keep the team informed so they make better decisions."

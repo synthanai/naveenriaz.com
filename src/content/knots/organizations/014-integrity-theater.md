@@ -30,6 +30,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"integrity theater\" this week?"
 quote_top: "Integrity is living it, not a quarterly performance event."
 quote_bottom: "Performance vanishes when audience leaves."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech.

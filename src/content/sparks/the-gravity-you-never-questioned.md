@@ -9,6 +9,9 @@ tags: ["identity", "attention", "systems", "action"]
 description: "Discipline is the wrong framework for transformation. You are fighting gravity."
 quote_top: "Action and transformation \nfail because we fight \ngravity with willpower."
 quote_bottom: "It is about shifting \nyour internal thermostat."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 You already know what you need to do, but you are caught in a loop.

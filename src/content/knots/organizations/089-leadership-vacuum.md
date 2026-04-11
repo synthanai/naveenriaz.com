@@ -32,6 +32,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"leadership vacuum\" this week?"
 quote_top: "Vacuums create instability, nature demands filling with consequences."
 quote_bottom: "Poor succession makes unstable leadership."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 One who doesn't prepare in good times suffers in hard times.

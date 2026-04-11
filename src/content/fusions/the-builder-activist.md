@@ -19,6 +19,9 @@ fusion_point:
     - "The Web3-to-AI migration pattern"
 quote_top: "Credentials filter talent; artifacts build trust, disrupting established norms."
 quote_bottom: "Builders beat gatekeepers."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Builder-Activist

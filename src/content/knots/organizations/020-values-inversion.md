@@ -30,6 +30,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"values inversion\" this week?"
 quote_top: "Real values are funded behaviors, not wall posters."
 quote_bottom: "Budget speaks louder than words."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Some appear bright as the crab's-eye seed outside, but inside they are black as its core.

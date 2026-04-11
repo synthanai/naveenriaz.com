@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"strategic myopia\" this week?"
 quote_top: "Short-sighted focus is leadership failure at its worst."
 quote_bottom: "Look far, lead well."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 One who acts without knowing the method finds ruin.

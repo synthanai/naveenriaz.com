@@ -19,6 +19,9 @@ fusion_point:
     - "Boundary management as Soul-layer protection"
 quote_top: "These aren't productivity tips, they are governance in disguise."
 quote_bottom: "Structure isn't always obvious."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Governance Instinct

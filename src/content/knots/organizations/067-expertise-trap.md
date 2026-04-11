@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"expertise trap\" this week?"
 quote_top: "Expertise became a cage preventing broader understanding."
 quote_bottom: "See beyond your field."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Numbers and letters are the two eyes of the living.

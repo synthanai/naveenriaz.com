@@ -7,6 +7,9 @@ born_from_knot: "008"
 date: 2026-03-31
 quote_top: "Commodify your organization's soul, and bankruptcy inevitably follows."
 quote_bottom: "Authenticity fuels, extraction kills."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 You cannot commodify the soul of your organisation without bankrupting it.
 

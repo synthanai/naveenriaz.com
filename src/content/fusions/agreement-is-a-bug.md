@@ -17,6 +17,9 @@ fusion_point:
     - "Convergent evolution as validation of architectural necessity"
 quote_top: "Convergent evolution of multi-agent systems is not a coincidence."
 quote_bottom: "Externalize disagreement, empower agents."
+origin_nodes: ["sparks:the-accidental-spar"]
+valence: "mixed"
+friction: ""
 ---
 
 A builder I have never met just published my architecture.

@@ -9,6 +9,9 @@ tags: ["self-improving", "workflow-evolution", "oqc"]
 description: "The workflow IS the product. The output is a side effect."
 quote_top: "He did not design the system, he grew it iteratively."
 quote_bottom: "Workflow evolution IS the product."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Klaus Kaan made 24 commits to a single file. Each commit encoded a lesson learned from watching his AI agent fail.

@@ -11,6 +11,9 @@ tags: ["skills-gap", "evidence", "consulting", "market"]
 description: "The market for AI skill guidance is enormous. The quality bar is underground."
 quote_top: "AI guidance: massive demand, shockingly low quality bar."
 quote_bottom: "Unverified listicles go viral."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A post listing 7 AI skills got 1.7 million views. It had zero citations. Zero evidence. Zero methodology. The skills were ranked by one person's anecdotal network observations.

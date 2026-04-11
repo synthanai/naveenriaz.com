@@ -8,6 +8,9 @@ quote_top: "Unanimous agreement in meetings\ndoes not mean people are aligned.\n
 quote_bottom: "Alignment born from fear\nis silence with better posture."
 tags: ["decisions", "groupthink", "leadership"]
 description: "Unanimous agreement is often unanimous silence."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A leadership team votes on strategy. Unanimous. Everyone nods. "Great, we are aligned."

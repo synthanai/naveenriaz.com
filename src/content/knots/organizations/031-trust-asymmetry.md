@@ -29,6 +29,9 @@ untie_practices:
   - "Say \"I was wrong\" about one small thing"
   - "Share one piece of information you'd normally hold"
 untie_question: "What would change in your organization if you untangled \"trust asymmetry\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Trusting a stranger without discernment brings endless suffering.

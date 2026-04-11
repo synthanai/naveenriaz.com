@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"cognitive debt\" this week?"
 quote_top: "Companies accrue cognitive debt by avoiding deep structural thinking."
 quote_bottom: "Solutions without understanding lead to ruin."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Knowledge is the fortress unbreachable even by enemies.

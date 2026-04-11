@@ -7,6 +7,9 @@ born_from_knot: "011"
 date: 2026-03-31
 quote_top: "Values are easy to hold until crisis strikes."
 quote_bottom: "Authenticity truly tested in fire."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 It is easy to hold strong values when the market is up and the quarter is smooth.
 

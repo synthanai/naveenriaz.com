@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"organizational antibodies\" this week?"
 quote_top: "Organizations reject beneficial change: not with hostility, but systemic friction."
 quote_bottom: "Culture protects itself from new."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Harsh words and excessive punishment grind down strength like a file on metal.

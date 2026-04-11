@@ -19,6 +19,9 @@ fusion_point:
     - "Data sovereignty as a developer right"
 quote_top: "Your AI knows your mental models better than you do."
 quote_bottom: "You cannot export it."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Your AI Knows More About You

@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"competence doubt\" this week?"
 quote_top: "Winning great trust is an accomplishment, not a given."
 quote_bottom: "Earned trust empowers experts."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The rarest of rare achievements is winning the trust of the great.

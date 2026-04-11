@@ -7,6 +7,9 @@ born_from_knot: "004"
 date: 2026-03-31
 quote_top: "Slowness isn't talent problem but alignment problem."
 quote_bottom: "Undeclared intent creates friction."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 Most of the slowness in your organisation is not a talent problem. It is an alignment problem.
 

@@ -32,6 +32,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"learning doing imbalance\" this week?"
 quote_top: "Learning needs doing. Doing needs learning. Both create growth."
 quote_bottom: "Balance the cycle."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Learn thoroughly. Then live by that learning.

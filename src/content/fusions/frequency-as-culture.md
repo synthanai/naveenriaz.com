@@ -19,6 +19,9 @@ fusion_point:
     - "Shadow integration: the suppressed patterns in an organisation are not threats to be eliminated but information to be integrated"
 quote_top: "Culture is frequency: every interaction, decision resonates."
 quote_bottom: "Vibrate at your worst."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Frequency as Culture

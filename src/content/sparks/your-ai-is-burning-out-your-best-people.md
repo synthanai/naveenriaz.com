@@ -9,6 +9,9 @@ tags: ["ai-fatigue", "burnout", "edc", "governance"]
 description: "The paradox: the tool that promised relief became the source of exhaustion."
 quote_top: "AI shifts burden from creation to relentless verification."
 quote_bottom: "Productivity reverses with more tools."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Here is a pattern nobody is discussing.

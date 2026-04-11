@@ -30,6 +30,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"fear culture\" this week?"
 quote_top: "Fear creates a quiet landscape of survival, not professionalism."
 quote_bottom: "Silence is fear's echo."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Raise the rod high but strike gently.

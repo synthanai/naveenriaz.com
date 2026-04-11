@@ -19,6 +19,9 @@ fusion_point:
     - "The VC blindspot: VCs still fund headcount when AI replaces it"
 quote_top: "AI makes original leverage commonplace, orchestrate for true power."
 quote_bottom: "Orchestration, not production, is key."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # What Naval Missed

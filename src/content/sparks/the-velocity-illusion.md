@@ -11,6 +11,9 @@ tags: ["velocity-illusion", "edc", "ai-governance"]
 description: "Speed without comprehension is not velocity. It is drift."
 quote_top: "Velocity without understanding is not speed; it is entropy."
 quote_bottom: "Synthetic comprehension masks accumulating debt."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A Wipro delivery head coined a term that names what we all feel but cannot articulate: the Illusion of Velocity.

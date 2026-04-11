@@ -7,6 +7,9 @@ born_from_knot: "007"
 date: 2026-03-31
 quote_top: "Culture cannot fix the flaws of bad organizational structure."
 quote_bottom: "Structure impacts everything."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 We are often told that strong culture alone can scale an organisation.
 

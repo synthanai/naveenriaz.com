@@ -27,6 +27,9 @@ untie_practices:
   - "An annual process audit removes any approval step that cannot justify its continued existence wit..."
   - "When processes are audited for relevance, bureaucracy shrinks, speed returns, and teams spend the..."
 untie_question: "What would change in your organization if you untangled \"process sediment\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Even accumulated hardships cannot destroy one who stands firm.

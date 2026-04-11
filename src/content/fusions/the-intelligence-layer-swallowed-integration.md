@@ -19,6 +19,9 @@ fusion_point:
     - "The Agent Substrate inversion: systems become AI-readable instead of AI conforming to one protocol"
 quote_top: "AI swallowed the integration layer whole, rendering standards obsolete."
 quote_bottom: "Models learn; translators die."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Intelligence Layer Swallowed Integration

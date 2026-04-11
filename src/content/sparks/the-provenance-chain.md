@@ -11,6 +11,9 @@ tags: ["provenance", "vault-kit", "audit-trail", "convergent-evolution"]
 description: "When two systems independently invent the same trust architecture, the pattern is structural."
 quote_top: "Blockchain architecture makes agent interactions tamper-evident with cryptographic receipts."
 quote_bottom: "When trust is needed, chain it."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Nyk built a Local Agent Control Plane (LACP) for managing Claude and Codex agents. Its fifth memory layer is provenance: SHA-256 hash-chained session receipts that create a tamper-evident record of every agent interaction.

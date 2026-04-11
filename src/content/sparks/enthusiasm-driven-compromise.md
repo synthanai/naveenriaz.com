@@ -7,6 +7,9 @@ quote_top: "Every technology adoption\narc is the same: excitement\nerodes gover
 quote_bottom: "The enthusiasm IS\nthe compromise."
 tags: ["edc", "governance", "prediction", "validation"]
 description: "A framework that predicted a phenomenon before the industry observed it. That is the gold standard of validation."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 We named this pattern before the industry discovered it.

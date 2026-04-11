@@ -7,6 +7,9 @@ born_from_knot: "001"
 date: 2026-03-30
 quote_top: "Amnesia: not lost memories, just eroded signals."
 quote_bottom: "Untie the noise."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 Amnesia is just the erosion of the signal.
 

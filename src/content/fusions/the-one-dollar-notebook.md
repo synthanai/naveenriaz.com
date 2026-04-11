@@ -18,6 +18,9 @@ fusion_point:
     - "Purpose Amnesia as root cause"
 quote_top: "Handwriting transforms; AI erodes. Choose authentic human mess."
 quote_bottom: "Identity forged by hand."
+origin_nodes: ["sparks:the-1-dollar-notebook-fallacy"]
+valence: "mixed"
+friction: ""
 ---
 
 # AI Notes vs Hand Written Notes

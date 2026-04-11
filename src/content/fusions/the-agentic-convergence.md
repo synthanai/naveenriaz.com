@@ -19,6 +19,9 @@ fusion_point:
     - "Middle managers squeezed out of coordination (Agent Substrate replacing information routers)"
 quote_top: "The middle layer is dying, everywhere, simultaneously."
 quote_bottom: "AI absorbs coordination."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Agentic Convergence

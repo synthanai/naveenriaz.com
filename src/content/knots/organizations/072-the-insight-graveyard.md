@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the insight graveyard\" this week?"
 quote_top: "Insights without action are precisely like artifacts without excavation."
 quote_bottom: "Dig them up. Act now."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The more you learn, the more you discover ignorance.

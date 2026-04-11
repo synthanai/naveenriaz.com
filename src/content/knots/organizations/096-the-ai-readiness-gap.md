@@ -32,6 +32,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the ai readiness gap\" this week?"
 quote_top: "AI dreams crash on shaky data foundation."
 quote_bottom: "Build solid, then soar."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Avoiding harm and standing firm.

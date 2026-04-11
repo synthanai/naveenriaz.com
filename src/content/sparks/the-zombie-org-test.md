@@ -10,6 +10,9 @@ tags: ["structure", "leadership", "self-awareness"]
 description: "The test that separates living organisations from undead ones."
 quote_top: "Lack of leadership reveals zombie organizations, not discipline."
 quote_bottom: "Adapt or perish."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 If every senior leader disappeared for 30 days, would the organisation adapt or just keep doing last month's work on autopilot?

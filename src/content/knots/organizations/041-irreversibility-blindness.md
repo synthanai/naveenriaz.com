@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"irreversibility blindness\" this week?"
 quote_top: "Some decisions are one-way doors, with permanent consequences."
 quote_bottom: "Discern irreversible decisions wisely."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Those who foresee what is coming are never shaken by what arrives.

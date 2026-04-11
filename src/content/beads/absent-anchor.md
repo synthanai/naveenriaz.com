@@ -7,6 +7,9 @@ born_from_knot: "003"
 date: 2026-03-31
 quote_top: "Founder's systems fail when environments change. Adapt or die."
 quote_bottom: "Evolve beyond embalming."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 The commonly accepted lie is that preserving a founder's original systems is the best way to honour their legacy.
 

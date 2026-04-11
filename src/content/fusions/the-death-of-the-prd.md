@@ -19,6 +19,9 @@ fusion_point:
     - "Context Engineer as the surviving role (curating, not translating)"
 quote_top: "LLMs speak both languages natively, ending the PRD era."
 quote_bottom: "The translator is here."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Death of the PRD

@@ -15,6 +15,9 @@ fusion_point:
   ideas: []
 quote_top: "AI fatigue: a self-reinforcing spiral of tools, choices, and trust."
 quote_bottom: Break the cycle with a framework.
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Three Fatigues

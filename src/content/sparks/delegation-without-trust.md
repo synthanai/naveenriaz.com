@@ -8,6 +8,9 @@ quote_top: "If you cannot tolerate them\ndoing it differently,\nyou have not del
 quote_bottom: "You have simply\ndistributed your anxiety."
 tags: ["trust", "delegation", "leadership"]
 description: "If you cannot let go of the wheel, you have not delegated. You have distributed your anxiety."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 "I trust you completely. Just send me the draft before you share it. And CC me on the emails. And check with me before the meeting."

@@ -27,6 +27,9 @@ untie_practices:
   - "Decisions are made by a named decision-maker who considers all input."
   - "When decisions are owned instead of averaged, outcomes sharpen, implementation commitment rises, ..."
 untie_question: "What would change in your organization if you untangled \"consensus trap\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Pursuing virtue steadily along the right path is the mark of lasting greatness.

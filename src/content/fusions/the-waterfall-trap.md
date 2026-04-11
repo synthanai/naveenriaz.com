@@ -19,6 +19,9 @@ fusion_point:
     - "Living cognitive systems (circular, adaptive, emergent)"
 quote_top: "Waterfall framework: a relic repackaged for AI’s unique chaos."
 quote_bottom: "Old model, new name."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Waterfall Trap

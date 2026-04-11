@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"resistance misdiagnosis\" this week?"
 quote_top: "Resistance is a symptom, not the disease. Diagnose it."
 quote_bottom: "Painkillers hide problems"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely.

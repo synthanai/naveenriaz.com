@@ -7,6 +7,9 @@ born_from_knot: "001"
 date: 2026-03-30
 quote_top: "Purpose isn't a salary, but it's essential for engagement, driving out costly apathy."
 quote_bottom: "When 'why' is clear, 'how' becomes inexpensive, fueling action over inertia."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 You cannot pay salaries with purpose, but you cannot pay people to care without it either.
 

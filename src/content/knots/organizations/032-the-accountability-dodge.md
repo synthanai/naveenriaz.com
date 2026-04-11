@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the accountability dodge\" this week?"
 quote_top: "Shared accountability dilutes ownership into nothingness"
 quote_bottom: "Name one owner"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Fortune abandons the leader who doubts a capable person mid-task.

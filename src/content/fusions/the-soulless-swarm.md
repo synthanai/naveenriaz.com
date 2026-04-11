@@ -19,6 +19,9 @@ fusion_point:
     - "Organisational Soul in living systems"
 quote_top: "AI agents create thousands of skills without human intervention."
 quote_bottom: "Evolution at high speed."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Soulless Swarm

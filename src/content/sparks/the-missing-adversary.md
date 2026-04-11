@@ -9,6 +9,9 @@ tags: ["semantic-review", "adversarial-testing", "knowledge-quality"]
 description: "Structure checks compliance. Semantic review checks truth."
 quote_top: "AI validates structure, but reality demands truth and adversarial testing."
 quote_bottom: "Structure is not truth."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Most AI-powered knowledge systems validate structure. Does the note have a title? Is the format correct? Are the links valid?

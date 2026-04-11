@@ -11,6 +11,9 @@ tags: ["agent-commerce", "mcp", "sales-funnel", "future"]
 description: "When agents have wallets, forms become extinct."
 quote_top: "AI agents will soon make purchases via API calls"
 quote_bottom: "Is your product ready"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Nyk wrote a provocation: "Your next buyer won't fill out a form. It will hit an MCP endpoint with a budget."

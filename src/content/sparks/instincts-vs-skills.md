@@ -10,6 +10,9 @@ tags: ["ai-governance", "skills", "architecture"]
 description: "20 years of engineering instinct becomes liability when the medium changes."
 quote_top: "AI code: Looks familiar, but fails in unfamiliar ways."
 quote_bottom: "Old instincts are now liabilities."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A senior developer reviews AI-generated code. Their instinct says "this looks fine." Twenty years of pattern recognition, firing automatically. The code ships.

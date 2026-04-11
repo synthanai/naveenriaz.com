@@ -8,6 +8,9 @@ quote_top: "When values are on the wall\nbut nobody actually lives them,\nthe wa
 quote_bottom: "Culture is not what you declare.\nIt is what you tolerate."
 tags: ["identity", "values", "culture"]
 description: "Framed values that nobody lives are just decoration."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Walk into any corporate lobby. Framed on the wall, clean font: "Integrity. Innovation. Collaboration. Excellence."

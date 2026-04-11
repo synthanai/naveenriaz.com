@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"risk theater\" this week?"
 quote_top: "Risk registers predict comfortable storms, not real ones."
 quote_bottom: "Anticipate beyond the known."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The wise foresee outcomes. The unwise cannot know what approaches.

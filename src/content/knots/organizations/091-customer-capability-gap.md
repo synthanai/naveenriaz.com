@@ -32,6 +32,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"customer capability gap\" this week?"
 quote_top: "Broken promises shatter customer trust, leading to business failure."
 quote_bottom: "Deliver less, promise less."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Challenges strengthen the resolute. The wavering break.

@@ -27,6 +27,9 @@ untie_practices:
   - "Every change initiative has a sponsor who maintains monthly visibility."
   - "When sponsorship is rhythmic instead of episodic, initiatives maintain visibility, resources stay..."
 untie_question: "What would change in your organization if you untangled \"sponsorship evaporation\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The great fear small company. The small surround themselves with it.

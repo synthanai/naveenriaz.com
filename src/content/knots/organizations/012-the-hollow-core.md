@@ -34,6 +34,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the hollow core\" this week?"
 quote_top: "Valluvar's standard isn't growth; it's elevation, not expansion."
 quote_bottom: "Meaning shrinks, numbers grow."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 In all you think, think of rising.

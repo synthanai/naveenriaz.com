@@ -19,6 +19,9 @@ fusion_point:
     - "The missing Soul layer: anonymous agents have no identity, no accountability, no cultural grounding"
 quote_top: "AI reputation needs soul, not just clever scoring."
 quote_bottom: "Measure how, not just what."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # Why AI Agent Reputation Needs a Soul

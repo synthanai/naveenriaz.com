@@ -19,6 +19,9 @@ fusion_point:
     - "The training data argument: LLMs are pre-trained CLI experts"
 quote_top: "Text streams to AI tokens: fifty years, same computing conclusion."
 quote_bottom: "Simple text wins."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The 50-Year Convergence

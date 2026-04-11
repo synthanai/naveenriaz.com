@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"knowledge hoarding\" this week?"
 quote_top: "Knowledge not shared is contraband not currency."
 quote_bottom: "Share to create value."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 The learned value sharing knowledge; it is their greatest currency.

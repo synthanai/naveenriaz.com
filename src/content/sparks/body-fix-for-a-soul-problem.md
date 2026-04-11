@@ -9,6 +9,9 @@ tags: ["mbs", "diagnostics", "organisational-health"]
 description: "The most common misdiagnosis in organisations: fixing the visible layer instead of the causal one."
 quote_top: "Interventions amplify problems when targeting visible layers, not the root."
 quote_bottom: "Fix the soul, not the body."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 A team is underperforming. Management restructures. Performance does not improve.

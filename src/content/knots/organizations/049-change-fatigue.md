@@ -27,6 +27,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"change fatigue\" this week?"
 quote_top: "Laugh in the face of hardship, for defiance conquers all."
 quote_bottom: "Defiance conquers all."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Laugh when hardship arrives. Nothing defeats adversity like defiance.

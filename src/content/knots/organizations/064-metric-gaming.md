@@ -31,6 +31,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"metric gaming\" this week?"
 quote_top: "Metrics lie, dashboards green: You're optimizing the wrong thing."
 quote_bottom: "Failure by the numbers."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 One who speaks truth from the heart surpasses those who practice austerity and charity.

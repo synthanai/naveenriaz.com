@@ -27,6 +27,9 @@ untie_practices:
   - "Counter-positions are explicitly invited before any decision is finalized."
   - "When dissent is safe, decisions improve, blind spots surface before implementation, and the best ..."
 untie_question: "What would change in your organization if you untangled \"dissent suppression\" this week?"
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Speak words that have purpose. Never speak words without purpose.

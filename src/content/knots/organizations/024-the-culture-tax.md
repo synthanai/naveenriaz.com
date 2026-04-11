@@ -30,6 +30,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the culture tax\" this week?"
 quote_top: "Culture tax silently bleeds value, exceeding strategy costs."
 quote_bottom: "Invisible, yet devastating."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Fortune abandons the leader who distrusts a capable worker mid-task.

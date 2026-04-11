@@ -8,6 +8,9 @@ quote_top: "Prompt-tuning an AI system\nwhile ignoring its architecture\nis like
 quote_bottom: "Stop painting windows.\nStart digging foundations."
 tags: ["ai-governance", "architecture", "debugging"]
 description: "Prompt-tuning a broken harness is repainting windows on a sinking house."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Your house has a broken foundation. Cracks in the walls. Water seeping through the floor. Your solution: repaint the window frames.

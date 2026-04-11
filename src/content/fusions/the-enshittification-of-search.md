@@ -19,6 +19,9 @@ fusion_point:
     - "Platform sovereignty as organisational survival: owned channels as the only durable distribution"
 quote_top: "Google transforms content into its own AI-generated replacement."
 quote_bottom: "Your content becomes Google's."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 # The Enshittification of Search

@@ -29,6 +29,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"momentum decay\" this week?"
 quote_top: "Decay is the silent killer of initiatives, requiring no decision."
 quote_bottom: "Sustained energy prevents organizational gravity."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Effort creates fortune. Lack of effort invites poverty.

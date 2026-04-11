@@ -34,6 +34,9 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"vision inflation\" this week?"
 quote_top: "Grand visions inflate; daily work grounds us."
 quote_bottom: "Execution, not ambition, defines impact."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 "We need to think bigger," Ravi said, pulling up the new slide deck. Three pillars. A flywheel diagram. The words GLOBAL IMPACT in 48-point type.

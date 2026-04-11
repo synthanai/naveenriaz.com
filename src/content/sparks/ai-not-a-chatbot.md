@@ -8,6 +8,9 @@ quote_top: "If your AI strategy\nstarts with a chatbot,\nyou just built a lobby.
 quote_bottom: "The real architecture\nlives behind it."
 tags: ["ai-governance", "architecture", "systems-thinking"]
 description: "The chatbot is the lobby. The building is behind it."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Ask most executives about their AI strategy: "We deployed a chatbot." That is like saying your transportation strategy is a bicycle in the lobby.

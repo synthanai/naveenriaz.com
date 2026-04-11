@@ -11,6 +11,9 @@ tags: ["anthropic", "skill-atrophy", "inquiry-mode", "rct"]
 description: "Delegation atrophies. Inquiry amplifies. The tool is neutral. The mode is everything."
 quote_top: "AI tools can make us dumber. The illusion of speed deceives."
 quote_bottom: "Inquiry preserves skill."
+origin_nodes: []
+valence: "mixed"
+friction: ""
 ---
 
 Anthropic studied its own product and published the uncomfortable result.
