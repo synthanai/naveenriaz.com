@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"fear culture\" this week?"
 quote_top: "Fear creates a quiet landscape of survival, not professionalism."
 quote_bottom: "Silence is fear's echo."
-origin_nodes: []
+origin_nodes: ["knots:018-siloed-synergy", "knots/organizations/018-siloed-synergy", "knots/organizations/020-values-inversion"]
 valence: "mixed"
 friction: ""
 ---

@@ -34,7 +34,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"identity mimicry\" this week?"
 quote_top: "Identity mimicry is fear wearing a strategy hat."
 quote_bottom: "See the camouflage."
-origin_nodes: []
+origin_nodes: ["knots:001-purpose-amnesia", "knots/organizations/001-purpose-amnesia", "knots/organizations/003-founders-ghost"]
 valence: "mixed"
 friction: ""
 ---

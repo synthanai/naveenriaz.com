@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"decision laundering\" this week?"
 quote_top: "Laundered decisions: clean surface, hollow inside; fake legitimacy."
 quote_bottom: "Honest advocacy beats theater."
-origin_nodes: []
+origin_nodes: ["knots:037-analysis-paralysis", "sparks:decision-laundering", "knots/organizations/037-analysis-paralysis", "knots/organizations/039-consensus-trap", "sparks/decision-laundering"]
 valence: "mixed"
 friction: ""
 ---

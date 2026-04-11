@@ -34,7 +34,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"founders ghost\" this week?"
 quote_top: "Founders' ghosts: governing the living from the grave."
 quote_bottom: "Haunting, not loyalty."
-origin_nodes: []
+origin_nodes: ["knots:002-identity-mimicry", "sparks:the-founders-ghost", "knots/organizations/002-identity-mimicry", "knots/organizations/004-values-wallpaper"]
 valence: "mixed"
 friction: ""
 ---

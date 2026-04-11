@@ -30,7 +30,7 @@ untie_practices:
   - "Pair one experienced person with one new person"
   - "Dedicate one hour this week to skill-building"
 untie_question: "What would change in your organization if you untangled \"onboarding failure\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:093-learning-doing-imbalance", "knots/organizations/093-learning-doing-imbalance", "knots/organizations/095-diversity-without-inclusion"]
 valence: "mixed"
 friction: ""
 ---

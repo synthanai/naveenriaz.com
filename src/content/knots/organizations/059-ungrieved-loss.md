@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"ungrieved loss\" this week?"
 quote_top: "Organizational change buries loss, fostering silent resistance and sabotage."
 quote_bottom: "Acknowledge grief; it's vital."
-origin_nodes: []
+origin_nodes: ["knots:058-success-ambiguity", "knots/organizations/058-success-ambiguity", "knots/organizations/060-consultant-dependency"]
 valence: "mixed"
 friction: ""
 ---

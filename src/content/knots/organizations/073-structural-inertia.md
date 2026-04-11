@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"structural inertia\" this week?"
 quote_top: "Structure changed, but human behavior ossified."
 quote_bottom: "Inertia conquers all."
-origin_nodes: []
+origin_nodes: ["knots:072-the-insight-graveyard", "knots/organizations/072-the-insight-graveyard", "knots/organizations/074-silo-syndrome"]
 valence: "mixed"
 friction: ""
 ---

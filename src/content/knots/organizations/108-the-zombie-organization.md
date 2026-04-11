@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the zombie organization\" this week?"
 quote_top: "Zombie organizations walk and talk, but their purpose is long gone."
 quote_bottom: "The body walks. The mind is gone."
-origin_nodes: []
+origin_nodes: ["knots:107-emotional-illiteracy", "knots/organizations/107-emotional-illiteracy"]
 valence: "mixed"
 friction: ""
 ---

@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"recognition deficit\" this week?"
 quote_top: "Invisible value sustains organizations and entire forests."
 quote_bottom: "Recognize unseen roots."
-origin_nodes: []
+origin_nodes: ["knots:021-meeting-toxicity", "knots/organizations/021-meeting-toxicity", "knots/organizations/023-belonging-fracture"]
 valence: "mixed"
 friction: ""
 ---

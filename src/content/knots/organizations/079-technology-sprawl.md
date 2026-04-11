@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"technology sprawl\" this week?"
 quote_top: "Technology sprawl: great intent, chaotic outcome."
 quote_bottom: "Consolidate or perish."
-origin_nodes: []
+origin_nodes: ["knots:078-governance-bloat", "knots/organizations/078-governance-bloat", "knots/organizations/080-the-bottleneck-person"]
 valence: "mixed"
 friction: ""
 ---

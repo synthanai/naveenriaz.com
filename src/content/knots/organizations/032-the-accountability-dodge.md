@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the accountability dodge\" this week?"
 quote_top: "Shared accountability dilutes ownership into nothingness"
 quote_bottom: "Name one owner"
-origin_nodes: []
+origin_nodes: ["knots:031-trust-asymmetry", "knots/organizations/031-trust-asymmetry", "knots/organizations/033-surveillance-culture"]
 valence: "mixed"
 friction: ""
 ---

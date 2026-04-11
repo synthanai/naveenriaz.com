@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the culture tax\" this week?"
 quote_top: "Culture tax silently bleeds value, exceeding strategy costs."
 quote_bottom: "Invisible, yet devastating."
-origin_nodes: []
+origin_nodes: ["knots:023-belonging-fracture", "sparks:the-culture-tax", "knots/organizations/023-belonging-fracture", "knots/organizations/025-broken-promises-loop", "sparks/the-culture-tax"]
 valence: "mixed"
 friction: ""
 ---

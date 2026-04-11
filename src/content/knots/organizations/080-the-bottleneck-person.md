@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the bottleneck person\" this week?"
 quote_top: "A bottleneck person chokes flow. Organization starves."
 quote_bottom: "Redistribute before damage."
-origin_nodes: []
+origin_nodes: ["knots:079-technology-sprawl", "knots/organizations/079-technology-sprawl", "knots/organizations/081-over-centralization"]
 valence: "mixed"
 friction: ""
 ---

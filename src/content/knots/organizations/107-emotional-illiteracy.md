@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"emotional illiteracy\" this week?"
 quote_top: "Ignoring emotions is ignoring your organization's operating system."
 quote_bottom: "Read the room first."
-origin_nodes: []
+origin_nodes: ["knots:106-celebration-deficit", "knots/organizations/106-celebration-deficit", "knots/organizations/108-the-zombie-organization"]
 valence: "mixed"
 friction: ""
 ---

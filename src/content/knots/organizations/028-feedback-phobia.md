@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"feedback phobia\" this week?"
 quote_top: "Truth-tellers disturb the powerful and are despised in organizations"
 quote_bottom: "Honesty comes with a cost"
-origin_nodes: []
+origin_nodes: ["knots:027-delegation-without-trust", "knots/organizations/027-delegation-without-trust", "knots/organizations/029-competence-doubt"]
 valence: "mixed"
 friction: ""
 ---

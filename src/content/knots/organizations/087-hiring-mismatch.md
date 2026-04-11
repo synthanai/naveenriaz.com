@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"hiring mismatch\" this week?"
 quote_top: "Credentials don't guarantee context. Measure fit, not just skills."
 quote_bottom: "Mismatch dissolves everything."
-origin_nodes: []
+origin_nodes: ["knots:086-talent-hoarding", "knots/organizations/086-talent-hoarding", "knots/organizations/088-knowledge-extinction"]
 valence: "mixed"
 friction: ""
 ---

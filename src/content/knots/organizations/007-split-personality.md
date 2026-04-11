@@ -32,7 +32,7 @@ untie_practices:
   - "Write your team's purpose in one sentence"
   - "Compare calendar to stated values this week"
 untie_question: "What would change in your organization if you untangled \"split personality\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:006-legacy-denial", "knots/organizations/006-legacy-denial", "knots/organizations/008-purpose-commodification"]
 valence: "mixed"
 friction: ""
 ---

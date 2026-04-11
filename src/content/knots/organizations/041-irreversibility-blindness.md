@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"irreversibility blindness\" this week?"
 quote_top: "Some decisions are one-way doors, with permanent consequences."
 quote_bottom: "Discern irreversible decisions wisely."
-origin_nodes: []
+origin_nodes: ["knots:040-hippo-effect", "knots/organizations/040-hippo-effect", "knots/organizations/042-decision-amnesia"]
 valence: "mixed"
 friction: ""
 ---

@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"metric gaming\" this week?"
 quote_top: "Metrics lie, dashboards green: You're optimizing the wrong thing."
 quote_bottom: "Failure by the numbers."
-origin_nodes: []
+origin_nodes: ["knots:063-groupthink", "knots/organizations/063-groupthink", "knots/organizations/065-innovation-theater"]
 valence: "mixed"
 friction: ""
 ---

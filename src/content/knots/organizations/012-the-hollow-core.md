@@ -34,7 +34,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the hollow core\" this week?"
 quote_top: "Valluvar's standard isn't growth; it's elevation, not expansion."
 quote_bottom: "Meaning shrinks, numbers grow."
-origin_nodes: []
+origin_nodes: ["knots:011-identity-fragility", "knots/organizations/011-identity-fragility", "knots/organizations/013-performative-safety"]
 valence: "mixed"
 friction: ""
 ---

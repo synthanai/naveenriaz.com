@@ -27,7 +27,7 @@ untie_practices:
   - "Every matrix role has one primary accountability owner."
   - "When matrix accountability is primary, employees navigate with clarity, conflicts are resolved by..."
 untie_question: "What would change in your organization if you untangled \"matrix madness\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:083-scaling-pains", "knots/organizations/083-scaling-pains", "knots/organizations/085-skill-obsolescence"]
 valence: "mixed"
 friction: ""
 ---

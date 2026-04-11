@@ -34,7 +34,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"cultural orphans\" this week?"
 quote_top: "Culture is the stories told in the parking lot, the unwritten map."
 quote_bottom: "It's transmitted or it dies."
-origin_nodes: []
+origin_nodes: ["knots:009-vision-inflation", "knots/organizations/009-vision-inflation", "knots/organizations/011-identity-fragility"]
 valence: "mixed"
 friction: ""
 ---

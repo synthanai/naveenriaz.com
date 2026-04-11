@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"organizational antibodies\" this week?"
 quote_top: "Organizations reject beneficial change: not with hostility, but systemic friction."
 quote_bottom: "Culture protects itself from new."
-origin_nodes: []
+origin_nodes: ["knots:055-sponsorship-evaporation", "knots/organizations/055-sponsorship-evaporation", "knots/organizations/057-rhetoric-reality-gap"]
 valence: "mixed"
 friction: ""
 ---

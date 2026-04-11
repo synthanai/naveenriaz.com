@@ -2,7 +2,7 @@
 title: "Placeholder"
 date: 2026-04-11
 what_ended: "Placeholder for the ashes collection."
-origin_nodes: []
+origin_nodes: ["awes:placeholder", "claws:placeholder", "digs:placeholder", "spars:placeholder", "syncs:placeholder", "voids:placeholder", "wows:placeholder", "awes/placeholder", "claws/placeholder", "digs/placeholder", "spars/placeholder", "syncs/placeholder", "voids/placeholder", "wows/placeholder"]
 valence: "mixed"
 friction: ""
 ---

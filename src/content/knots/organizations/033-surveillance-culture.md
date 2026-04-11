@@ -29,7 +29,7 @@ untie_practices:
   - "Say \"I was wrong\" about one small thing"
   - "Share one piece of information you'd normally hold"
 untie_question: "What would change in your organization if you untangled \"surveillance culture\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:032-the-accountability-dodge", "knots/organizations/032-the-accountability-dodge", "knots/organizations/034-gossip-economy"]
 valence: "mixed"
 friction: ""
 ---

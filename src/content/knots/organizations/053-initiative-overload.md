@@ -27,7 +27,7 @@ untie_practices:
   - "Before any new initiative is approved, the aggregate change load on affected teams is assessed."
   - "When initiatives are sequenced by capacity, each one receives full attention, completion rates ri..."
 untie_question: "What would change in your organization if you untangled \"initiative overload\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:052-momentum-decay", "knots/organizations/052-momentum-decay", "knots/organizations/054-pilot-purgatory"]
 valence: "mixed"
 friction: ""
 ---

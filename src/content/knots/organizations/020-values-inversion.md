@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"values inversion\" this week?"
 quote_top: "Real values are funded behaviors, not wall posters."
 quote_bottom: "Budget speaks louder than words."
-origin_nodes: []
+origin_nodes: ["knots:019-fear-culture", "knots/organizations/019-fear-culture", "knots/organizations/021-meeting-toxicity"]
 valence: "mixed"
 friction: ""
 ---

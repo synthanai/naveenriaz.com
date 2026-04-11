@@ -32,7 +32,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"learning doing imbalance\" this week?"
 quote_top: "Learning needs doing. Doing needs learning. Both create growth."
 quote_bottom: "Balance the cycle."
-origin_nodes: []
+origin_nodes: ["knots:092-outsourcing-identity", "knots/organizations/092-outsourcing-identity", "knots/organizations/094-onboarding-failure"]
 valence: "mixed"
 friction: ""
 ---

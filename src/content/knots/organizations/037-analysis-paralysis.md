@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"analysis paralysis\" this week?"
 quote_top: "Analysis paralysis: when deliberation becomes the only action."
 quote_bottom: "Delay is organizational death."
-origin_nodes: []
+origin_nodes: ["knots:036-trust-bankruptcy", "knots/organizations/036-trust-bankruptcy", "knots/organizations/038-decision-laundering"]
 valence: "mixed"
 friction: ""
 ---

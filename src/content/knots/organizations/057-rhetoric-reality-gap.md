@@ -27,7 +27,7 @@ untie_practices:
   - "Every stated commitment has a corresponding action, budget, and timeline."
   - "When rhetoric is held accountable to reality, trust in communication rebuilds, employees engage w..."
 untie_question: "What would change in your organization if you untangled \"rhetoric reality gap\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:056-organizational-antibodies", "knots/organizations/056-organizational-antibodies", "knots/organizations/058-success-ambiguity"]
 valence: "mixed"
 friction: ""
 ---

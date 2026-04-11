@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"governance bloat\" this week?"
 quote_top: "Governance bloat is organizational autoimmunity, attacking the ability to decide."
 quote_bottom: "Paralyzed by protection."
-origin_nodes: []
+origin_nodes: ["knots:077-middle-management-squeeze", "knots/organizations/077-middle-management-squeeze", "knots/organizations/079-technology-sprawl"]
 valence: "mixed"
 friction: ""
 ---

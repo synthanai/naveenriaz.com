@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"scaling pains\" this week?"
 quote_top: "Growth brings pain. Structures break when organisms expand."
 quote_bottom: "Adapt or crumble."
-origin_nodes: []
+origin_nodes: ["knots:082-handoff-failure", "knots/organizations/082-handoff-failure", "knots/organizations/084-matrix-madness"]
 valence: "mixed"
 friction: ""
 ---

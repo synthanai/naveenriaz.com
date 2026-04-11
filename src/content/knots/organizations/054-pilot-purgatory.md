@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"pilot purgatory\" this week?"
 quote_top: "Pilot success doesn't predict field survival. Scale requires ecosystem adaptation."
 quote_bottom: "Stop growing the petri dish."
-origin_nodes: []
+origin_nodes: ["knots:053-initiative-overload", "knots/organizations/053-initiative-overload", "knots/organizations/055-sponsorship-evaporation"]
 valence: "mixed"
 friction: ""
 ---

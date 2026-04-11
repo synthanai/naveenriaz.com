@@ -29,7 +29,7 @@ untie_practices:
   - "Say \"I was wrong\" about one small thing"
   - "Share one piece of information you'd normally hold"
 untie_question: "What would change in your organization if you untangled \"broken promises loop\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:024-the-culture-tax", "knots/organizations/024-the-culture-tax", "knots/organizations/026-invisible-contracts"]
 valence: "mixed"
 friction: ""
 ---

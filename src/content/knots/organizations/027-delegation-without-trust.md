@@ -29,7 +29,7 @@ untie_practices:
   - "Say \"I was wrong\" about one small thing"
   - "Share one piece of information you'd normally hold"
 untie_question: "What would change in your organization if you untangled \"delegation without trust\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:026-invisible-contracts", "sparks:delegation-without-trust", "knots/organizations/026-invisible-contracts", "knots/organizations/028-feedback-phobia", "sparks/delegation-without-trust"]
 valence: "mixed"
 friction: ""
 ---

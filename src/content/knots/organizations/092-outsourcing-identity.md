@@ -32,7 +32,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"outsourcing identity\" this week?"
 quote_top: "Outsourcing functions bleeds organizational self-knowledge and identity."
 quote_bottom: "Identity cannot be outsourced."
-origin_nodes: []
+origin_nodes: ["knots:091-customer-capability-gap", "knots/organizations/091-customer-capability-gap", "knots/organizations/093-learning-doing-imbalance"]
 valence: "mixed"
 friction: ""
 ---

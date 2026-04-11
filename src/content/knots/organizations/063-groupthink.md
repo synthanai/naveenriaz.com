@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"groupthink\" this week?"
 quote_top: "Groupthink isn't alignment; it's a dangerous echo chamber."
 quote_bottom: "Silence speaks loud losses."
-origin_nodes: []
+origin_nodes: ["knots:062-learning-disability", "knots/organizations/062-learning-disability", "knots/organizations/064-metric-gaming"]
 valence: "mixed"
 friction: ""
 ---

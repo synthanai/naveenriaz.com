@@ -29,7 +29,7 @@ untie_practices:
   - "Ask \"what do we know that we're not using?\""
   - "Create one cross-team knowledge connection this week"
 untie_question: "What would change in your organization if you untangled \"data worship\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:067-expertise-trap", "sparks:data-worship", "knots/organizations/067-expertise-trap", "knots/organizations/069-cognitive-debt", "sparks/data-worship"]
 valence: "mixed"
 friction: ""
 ---

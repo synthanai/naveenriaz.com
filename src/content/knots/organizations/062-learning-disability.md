@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"learning disability\" this week?"
 quote_top: "Learning disability: organizations absorb information, cannot change behavior"
 quote_bottom: "Mistakes erode, deepen grooves"
-origin_nodes: []
+origin_nodes: ["knots:061-collective-blindness", "knots/organizations/061-collective-blindness", "knots/organizations/063-groupthink"]
 valence: "mixed"
 friction: ""
 ---

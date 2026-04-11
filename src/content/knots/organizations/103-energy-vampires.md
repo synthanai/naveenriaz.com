@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"energy vampires\" this week?"
 quote_top: "Your processes drain everyone through design, not malice."
 quote_bottom: "Audit and cancel them."
-origin_nodes: []
+origin_nodes: ["knots:102-turnover-spiral", "knots/organizations/102-turnover-spiral", "knots/organizations/104-urgency-addiction"]
 valence: "mixed"
 friction: ""
 ---

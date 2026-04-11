@@ -29,7 +29,7 @@ untie_practices:
   - "Ask \"what do we know that we're not using?\""
   - "Create one cross-team knowledge connection this week"
 untie_question: "What would change in your organization if you untangled \"forecast addiction\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:069-cognitive-debt", "knots/organizations/069-cognitive-debt", "knots/organizations/071-knowledge-hoarding"]
 valence: "mixed"
 friction: ""
 ---

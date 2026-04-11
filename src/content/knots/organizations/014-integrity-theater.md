@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"integrity theater\" this week?"
 quote_top: "Integrity is living it, not a quarterly performance event."
 quote_bottom: "Performance vanishes when audience leaves."
-origin_nodes: []
+origin_nodes: ["knots:013-performative-safety", "knots/organizations/013-performative-safety", "knots/organizations/015-gravitational-void"]
 valence: "mixed"
 friction: ""
 ---

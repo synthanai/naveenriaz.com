@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"meaning drought\" this week?"
 quote_top: "Competent teams deliver work, but often miss the point."
 quote_bottom: "Meaning is the operating system."
-origin_nodes: []
+origin_nodes: ["knots:097-burnout-normalization", "knots/organizations/097-burnout-normalization", "knots/organizations/099-autonomy-starvation"]
 valence: "mixed"
 friction: ""
 ---

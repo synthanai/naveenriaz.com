@@ -32,7 +32,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"technical debt avalanche\" this week?"
 quote_top: "Technical debt: layers of fragility await swift collapse."
 quote_bottom: "Address it immediately."
-origin_nodes: []
+origin_nodes: ["knots:089-leadership-vacuum", "knots/organizations/089-leadership-vacuum", "knots/organizations/091-customer-capability-gap"]
 valence: "mixed"
 friction: ""
 ---

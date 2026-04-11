@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"hippo effect\" this week?"
 quote_top: "Authority warps truth like gravity warps light"
 quote_bottom: "Power blinds analysis"
-origin_nodes: []
+origin_nodes: ["knots:039-consensus-trap", "knots/organizations/039-consensus-trap", "knots/organizations/041-irreversibility-blindness"]
 valence: "mixed"
 friction: ""
 ---

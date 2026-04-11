@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"resource hoarding\" this week?"
 quote_top: "Resource hoarding starves your organization's downstream ecosystem."
 quote_bottom: "Redistribute for collective vitality."
-origin_nodes: []
+origin_nodes: ["knots:104-urgency-addiction", "knots/organizations/104-urgency-addiction", "knots/organizations/106-celebration-deficit"]
 valence: "mixed"
 friction: ""
 ---

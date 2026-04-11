@@ -34,7 +34,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"vision inflation\" this week?"
 quote_top: "Grand visions inflate; daily work grounds us."
 quote_bottom: "Execution, not ambition, defines impact."
-origin_nodes: []
+origin_nodes: ["knots:008-purpose-commodification", "knots/organizations/008-purpose-commodification", "knots/organizations/010-cultural-orphans"]
 valence: "mixed"
 friction: ""
 ---

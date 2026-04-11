@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the presenteeism tax\" this week?"
 quote_top: "Empty presence holds no place; stop taxing teams for existing."
 quote_bottom: "Measure output, not hours."
-origin_nodes: []
+origin_nodes: ["knots:100-reward-misalignment", "sparks:the-presenteeism-tax", "knots/organizations/100-reward-misalignment", "knots/organizations/102-turnover-spiral", "sparks/the-presenteeism-tax"]
 valence: "mixed"
 friction: ""
 ---

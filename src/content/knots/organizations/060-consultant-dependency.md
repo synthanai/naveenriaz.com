@@ -27,7 +27,7 @@ untie_practices:
   - "Every consulting engagement includes a capability transfer milestone: what internal skill will ex..."
   - "When capability transfer is the metric, consulting engagements build lasting strength, the organi..."
 untie_question: "What would change in your organization if you untangled \"consultant dependency\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:059-ungrieved-loss", "knots/organizations/059-ungrieved-loss", "knots/organizations/061-collective-blindness"]
 valence: "mixed"
 friction: ""
 ---

@@ -32,7 +32,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"knowledge extinction\" this week?"
 quote_top: "Resignation means knowledge extinction, irrecoverable context lost forever."
 quote_bottom: "Transfer, don't extinguish."
-origin_nodes: []
+origin_nodes: ["knots:087-hiring-mismatch", "knots/organizations/087-hiring-mismatch", "knots/organizations/089-leadership-vacuum"]
 valence: "mixed"
 friction: ""
 ---

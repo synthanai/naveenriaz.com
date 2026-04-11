@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the insight graveyard\" this week?"
 quote_top: "Insights without action are precisely like artifacts without excavation."
 quote_bottom: "Dig them up. Act now."
-origin_nodes: []
+origin_nodes: ["knots:071-knowledge-hoarding", "knots/organizations/071-knowledge-hoarding", "knots/organizations/073-structural-inertia"]
 valence: "mixed"
 friction: ""
 ---

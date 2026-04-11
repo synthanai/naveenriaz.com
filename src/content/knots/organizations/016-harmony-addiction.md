@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"harmony addiction\" this week?"
 quote_top: "Harmony addiction: teams suppress conflict, lose productive disagreement capacity."
 quote_bottom: "Comfort becomes the priority."
-origin_nodes: []
+origin_nodes: ["knots:015-gravitational-void", "knots/organizations/015-gravitational-void", "knots/organizations/017-transparency-paradox"]
 valence: "mixed"
 friction: ""
 ---

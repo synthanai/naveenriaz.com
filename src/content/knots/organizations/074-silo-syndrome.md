@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"silo syndrome\" this week?"
 quote_top: "Organizational silos prevent the cross-pollination of perspectives"
 quote_bottom: "Innovation demands contamination"
-origin_nodes: []
+origin_nodes: ["knots:073-structural-inertia", "knots/organizations/073-structural-inertia", "knots/organizations/075-process-sediment"]
 valence: "mixed"
 friction: ""
 ---

@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"resistance misdiagnosis\" this week?"
 quote_top: "Resistance is a symptom, not the disease. Diagnose it."
 quote_bottom: "Painkillers hide problems"
-origin_nodes: []
+origin_nodes: ["knots:050-transformation-theater", "knots/organizations/050-transformation-theater", "knots/organizations/052-momentum-decay"]
 valence: "mixed"
 friction: ""
 ---

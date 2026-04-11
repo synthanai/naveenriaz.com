@@ -32,7 +32,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"customer capability gap\" this week?"
 quote_top: "Broken promises shatter customer trust, leading to business failure."
 quote_bottom: "Deliver less, promise less."
-origin_nodes: []
+origin_nodes: ["knots:090-technical-debt-avalanche", "knots/organizations/090-technical-debt-avalanche", "knots/organizations/092-outsourcing-identity"]
 valence: "mixed"
 friction: ""
 ---

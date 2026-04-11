@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"competence doubt\" this week?"
 quote_top: "Winning great trust is an accomplishment, not a given."
 quote_bottom: "Earned trust empowers experts."
-origin_nodes: []
+origin_nodes: ["knots:028-feedback-phobia", "knots/organizations/028-feedback-phobia", "knots/organizations/030-loyalty-extraction"]
 valence: "mixed"
 friction: ""
 ---

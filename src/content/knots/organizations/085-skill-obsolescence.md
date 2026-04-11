@@ -32,7 +32,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"skill obsolescence\" this week?"
 quote_top: "Competence in yesterday's world becomes obsolescence in today's."
 quote_bottom: "Adapt or become extinct."
-origin_nodes: []
+origin_nodes: ["knots:084-matrix-madness", "knots/organizations/084-matrix-madness", "knots/organizations/086-talent-hoarding"]
 valence: "mixed"
 friction: ""
 ---

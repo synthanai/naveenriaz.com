@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"momentum decay\" this week?"
 quote_top: "Decay is the silent killer of initiatives, requiring no decision."
 quote_bottom: "Sustained energy prevents organizational gravity."
-origin_nodes: []
+origin_nodes: ["knots:051-resistance-misdiagnosis", "knots/organizations/051-resistance-misdiagnosis", "knots/organizations/053-initiative-overload"]
 valence: "mixed"
 friction: ""
 ---

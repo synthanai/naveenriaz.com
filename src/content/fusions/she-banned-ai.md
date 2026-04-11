@@ -19,7 +19,7 @@ fusion_point:
     - "Control dressed as trust (subtraction ≠ relationship)"
 quote_top: "Banning AI misses the real problem with education."
 quote_bottom: "Fix the assessment."
-origin_nodes: ["sparks:the-1-dollar-notebook-fallacy"]
+origin_nodes: ["sparks:the-1-dollar-notebook-fallacy", "sparks/the-1-dollar-notebook-fallacy"]
 valence: "mixed"
 friction: ""
 ---

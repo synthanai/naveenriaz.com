@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"urgency addiction\" this week?"
 quote_top: "Overstretch exceeds what was sought, creating manufactured urgency."
 quote_bottom: "Urgency is friction."
-origin_nodes: []
+origin_nodes: ["knots:103-energy-vampires", "knots/organizations/103-energy-vampires", "knots/organizations/105-resource-hoarding"]
 valence: "mixed"
 friction: ""
 ---

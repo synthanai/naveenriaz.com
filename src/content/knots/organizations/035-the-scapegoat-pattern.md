@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"the scapegoat pattern\" this week?"
 quote_top: "Scapegoating: the system attacks healthy tissue, not the pathogen."
 quote_bottom: "Autoimmune disorder; host destroyed."
-origin_nodes: []
+origin_nodes: ["knots:034-gossip-economy", "knots/organizations/034-gossip-economy", "knots/organizations/036-trust-bankruptcy"]
 valence: "mixed"
 friction: ""
 ---

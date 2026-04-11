@@ -32,7 +32,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"talent hoarding\" this week?"
 quote_top: "Talent hoarding loses growth; eventually, the talent leaves entirely."
 quote_bottom: "Output, potential gone."
-origin_nodes: []
+origin_nodes: ["knots:085-skill-obsolescence", "sparks:talent-hoarding", "knots/organizations/085-skill-obsolescence", "knots/organizations/087-hiring-mismatch", "sparks/talent-hoarding"]
 valence: "mixed"
 friction: ""
 ---

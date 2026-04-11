@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"gossip economy\" this week?"
 quote_top: "Intelligence without compassion is incomplete; wisdom demands empathy."
 quote_bottom: "Feel another's pain."
-origin_nodes: []
+origin_nodes: ["knots:033-surveillance-culture", "knots/organizations/033-surveillance-culture", "knots/organizations/035-the-scapegoat-pattern"]
 valence: "mixed"
 friction: ""
 ---

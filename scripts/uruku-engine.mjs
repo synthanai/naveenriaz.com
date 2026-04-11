@@ -42,15 +42,59 @@ function buildCampaign(campaignName) {
     
     // We only spawn if it doesn't already exist to prevent overwrites
     if (!fs.existsSync(outFile)) {
+      // Schema-aware frontmatter per atom type
+      const schemaFields = {
+        sparks: [
+          `signal: "STUB: Awaiting human capture."`,
+          `source: "SYNTHAI"`,
+          `temperature: "🔥🔥"`,
+          `tags: ["phase5", "shadow", "against-type"]`,
+          `description: ""`,
+        ],
+        fusions: [
+          `categories: ["shadow"]`,
+          `tags: ["phase5", "shadow", "against-type"]`,
+          `description: ""`,
+        ],
+        knots: [
+          `knot_number: 0`,
+          `domain: "personal"`,
+          `series: "shadow"`,
+          `series_number: 0`,
+          `slug_name: "${safeTitle}"`,
+          `description: ""`,
+          `punch_line_1: ""`,
+          `punch_line_2: ""`,
+        ],
+        beads: [
+          `essence: "STUB: Awaiting human capture."`,
+          `resonance: ""`,
+        ],
+        spars: [
+          `description: ""`,
+          `tags: ["phase5", "shadow", "against-type"]`,
+        ],
+        claws: [
+          `grip: ""`,
+          `release: ""`,
+          `resonance: ""`,
+        ],
+        wows: [ `essence: ""` ],
+        awes: [ `essence: ""` ],
+        syncs: [ `essence: ""` ],
+        digs: [ `essence: ""` ],
+      };
+
+      const extra = (schemaFields[stub.type] || []).join('\n');
+
       const yaml = [
         '---',
         `title: "${stub.hook}"`,
         `date: ${todayDate}`,
-        `tags: ["phase5", "shadow", "against-type"]`,
-        `description: ""`,
+        extra,
         `valence: "${stub.truth.valence}"`,
-        `status: "awaiting-human"`,
         `origin_nodes: []`,
+        `status: "awaiting-human"`,
         '---',
         '',
         `## Capture Request (Campaign: ${campaignData.name})`,
@@ -69,24 +113,32 @@ function buildCampaign(campaignName) {
   console.log(`\nURUKU CAMPAIGN QUEUED.\n`);
 }
 
-// ─── Frontmatter Parsing Helpers ─────────────────────────────────────
+// ─── Frontmatter Parsing Helpers (Hardened) ──────────────────────────
 function parseFM(content) {
   const match = content.match(/^---\n([\s\S]*?)\n---/);
   if (!match) return {};
   const fmStr = match[1];
   const obj = {};
-  fmStr.split('\n').forEach(line => {
-    const colon = line.indexOf(':');
-    if (colon === -1) return;
-    const k = line.slice(0, colon).trim();
-    let v = line.slice(colon + 1).trim();
+  
+  // Hardened regex for top-level keys: looks for Start-of-Line [key]: [value]
+  // Handles multi-line values by capturing until the next top-level key
+  const keyRegex = /^([a-zA-Z0-9_-]+):\s*([\s\S]*?)(?=\n[a-zA-Z0-9_-]+:|$)/gm;
+  let m;
+  while ((m = keyRegex.exec(fmStr)) !== null) {
+    const k = m[1].trim();
+    let v = m[2].trim();
+    
+    // Simple array parsing
     if (v.startsWith('[') && v.endsWith(']')) {
       const inner = v.slice(1, -1).trim();
-      obj[k] = inner ? inner.split(',').map(s => s.trim().replace(/^"|"$/g, '').replace(/^'|'$/g, '')) : [];
+      obj[k] = inner ? inner.split(',').map(s => s.trim().replace(/^["']|["']$/g, '')) : [];
+    } else if (v.startsWith('- ')) {
+      // Simple multi-line list (YAML style)
+      obj[k] = v.split('\n').map(li => li.replace(/^- /, '').trim().replace(/^["']|["']$/g, ''));
     } else {
-      obj[k] = v.replace(/^"|"$/g, '').replace(/^'|'$/g, '');
+      obj[k] = v.replace(/^["']|["']$/g, '');
     }
-  });
+  }
   return obj;
 }
 
@@ -120,15 +172,22 @@ function runBackfill(dryRun) {
   
   // 1. Load everything into memory
   for (const prim of primDirs) {
-    const files = getFilesTree(path.join(CONTENT_DIR, prim));
+    const dirPath = path.join(CONTENT_DIR, prim);
+    const files = getFilesTree(dirPath);
     for (const f of files) {
       const content = fs.readFileSync(f, 'utf8');
-      const slugMatch = f.match(/([^\/]+)\.md$/);
-      if (!slugMatch) continue;
       
-      const slug = slugMatch[1];
-      const id = `${prim}:${slug}`;
-      allNodes[id] = { file: f, content, fm: parseFM(content), newOrigins: new Set() };
+      // Use relative path from content dir as ID (e.g. "knots/organizations/053...")
+      const relPath = path.relative(CONTENT_DIR, f).replace(/\.md$/, '');
+      const id = relPath;
+      
+      allNodes[id] = { 
+        file: f, 
+        content, 
+        fm: parseFM(content), 
+        newOrigins: new Set(),
+        type: prim
+      };
     }
   }
 
@@ -144,60 +203,116 @@ function runBackfill(dryRun) {
     const node = allNodes[id];
     
     if (node.fm.prev_knot) {
-      const pSlug = node.fm.prev_knot.split('/').pop();
-      const foundKnot = Object.keys(allNodes).find(k => k.startsWith('knots:') && k.includes(pSlug));
-      if (foundKnot) node.newOrigins.add(foundKnot);
+      const pTarget = node.fm.prev_knot.replace(/^["']|["']$/g, '');
+      const foundKnot = Object.keys(allNodes).find(k => k.endsWith(pTarget) && k.startsWith('knots'));
+      if (foundKnot) {
+        node.newOrigins.add(foundKnot);
+        // Force bidirectional for explicit trails
+        if (allNodes[foundKnot]) allNodes[foundKnot].newOrigins.add(id);
+      }
     }
 
     if (node.fm.next_knot) {
-      const nSlug = node.fm.next_knot.split('/').pop();
-      const nextKnotId = Object.keys(allNodes).find(k => k.startsWith('knots:') && k.includes(nSlug));
-      if (nextKnotId && allNodes[nextKnotId]) {
-        allNodes[nextKnotId].newOrigins.add(id);
+      const nTarget = node.fm.next_knot.replace(/^["']|["']$/g, '');
+      const foundKnot = Object.keys(allNodes).find(k => k.endsWith(nTarget) && k.startsWith('knots'));
+      if (foundKnot) {
+        node.newOrigins.add(foundKnot);
+        if (allNodes[foundKnot]) allNodes[foundKnot].newOrigins.add(id);
       }
     }
     
     if (node.fm.born_from_knot) {
       const bfn = String(node.fm.born_from_knot);
-      const foundKnot = Object.keys(allNodes).find(k => k.startsWith('knots:') && String(allNodes[k].fm.knot_number) === bfn);
+      const foundKnot = Object.keys(allNodes).find(k => k.startsWith('knots') && String(allNodes[k].fm.knot_number) === bfn);
       if (foundKnot) node.newOrigins.add(foundKnot);
     }
     
-    // Spark -> Fusion logic. 
-    // If Spark A has fusion_link /fusions/B, then B's origin_nodes should include Spark A
+    // Spark -> Fusion logic
     if (node.fm.fusion_link) {
-      const fSlug = node.fm.fusion_link.split('/').pop();
-      const fusionId = Object.keys(allNodes).find(k => k.startsWith('fusions:') && k.includes(fSlug));
+      const fSlug = node.fm.fusion_link.split('/').pop().replace(/^["']|["']$/g, '');
+      const fusionId = Object.keys(allNodes).find(k => k.startsWith('fusions') && k.endsWith(fSlug));
       if (fusionId && allNodes[fusionId]) {
         allNodes[fusionId].newOrigins.add(id);
       }
     }
   }
   
-  // 4. Compute Implicit semantic boundaries intersection
+  // 4. Compute Implicit connections (three strategies)
   const ids = Object.keys(allNodes);
+  
+  // Helper: extract the bare slug
+  function bareSlug(id) {
+    const parts = id.split('/');
+    const last = parts[parts.length - 1];
+    return last.replace(/^\d+-/, '');
+  }
+  
+  // Helper: collect all semantic tokens 
+  function getTokens(node) {
+    const tokens = new Set();
+    (node.fm.tags || []).forEach(t => tokens.add(t));
+    (node.fm.categories || []).forEach(c => tokens.add(c));
+    if (node.fm.series) tokens.add(node.fm.series);
+    if (node.fm.domain) tokens.add(node.fm.domain);
+    return tokens;
+  }
+  
   for (let i = 0; i < ids.length; i++) {
     for (let j = i + 1; j < ids.length; j++) {
       const idA = ids[i];
       const idB = ids[j];
       const nodeA = allNodes[idA];
       const nodeB = allNodes[idB];
+      const typeA = nodeA.type;
+      const typeB = nodeB.type;
       
-      const tagsA = nodeA.fm.tags || [];
-      const tagsB = nodeB.fm.tags || [];
-      const intersection = tagsA.filter(t => tagsB.includes(t));
+      let connected = false;
+      let reason = "";
       
-      // Minimum 2 identical semantic tags for natural connection
-      if (intersection.length >= 2) {
-        const partsA = idA.split(':');
-        const partsB = idB.split(':');
-        
-        // Directionality: Spark flows outward into Heavier primitives (Fusion / Knot)
-        if (partsA[0] === 'sparks' && ['fusions', 'knots'].includes(partsB[0])) {
-          nodeB.newOrigins.add(idA);
-        } else if (partsB[0] === 'sparks' && ['fusions', 'knots'].includes(partsA[0])) {
-          nodeA.newOrigins.add(idB);
+      // Strategy 1: Slug-name proximity
+      const slugA = bareSlug(idA);
+      const slugB = bareSlug(idB);
+      if (slugA && slugB && slugA === slugB) {
+        connected = true;
+        reason = "slug_overlap";
+      }
+      
+      // Strategy 2: Semantic token intersection
+      if (!connected) {
+        const tokensA = getTokens(nodeA);
+        const tokensB = getTokens(nodeB);
+        const intersection = [...tokensA].filter(t => tokensB.has(t));
+        if (intersection.length >= 2) {
+          connected = true;
+          reason = `tags [${intersection.join(',')}]`;
         }
+      }
+      
+      // Strategy 3: slug_name field match
+      if (!connected) {
+        const snA = (nodeA.fm.slug_name || '').replace(/^["']|["']$/g, '');
+        const snB = (nodeB.fm.slug_name || '').replace(/^["']|["']$/g, '');
+        if (snA && slugB && (snA === slugB)) { connected = true; reason = "slug_name_A"; }
+        if (snB && slugA && (snB === slugA)) { connected = true; reason = "slug_name_B"; }
+      }
+      
+      if (connected) {
+        // Weight order: sparks < fusions < beads/claws < knots < spars
+        const weight = { sparks: 1, fusions: 2, beads: 3, claws: 3, wows: 3, awes: 3, syncs: 3, digs: 3, knots: 4, spars: 5, ashes: 6, voids: 6 };
+        const wA = weight[typeA] || 3;
+        const wB = weight[typeB] || 3;
+        
+        if (wA < wB) {
+          nodeB.newOrigins.add(idA);
+        } else if (wB < wA) {
+          nodeA.newOrigins.add(idB);
+        } else if (typeA !== typeB) {
+          // Cross-type same weight
+          nodeA.newOrigins.add(idB);
+          nodeB.newOrigins.add(idA);
+        }
+        // NOTE: We intentionally avoid same-type-same-weight implicit links to avoid noise 
+        // unless they share very high tag volume (handled in strategy 2)
       }
     }
   }

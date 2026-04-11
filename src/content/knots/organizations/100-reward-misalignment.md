@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"reward misalignment\" this week?"
 quote_top: "Your system rewards the wrong behavior, teaches what to replicate."
 quote_bottom: "Incentives condition the organism."
-origin_nodes: []
+origin_nodes: ["knots:099-autonomy-starvation", "knots/organizations/099-autonomy-starvation", "knots/organizations/101-the-presenteeism-tax"]
 valence: "mixed"
 friction: ""
 ---

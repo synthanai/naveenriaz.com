@@ -27,7 +27,7 @@ untie_practices:
   - "Decisions are made by a named decision-maker who considers all input."
   - "When decisions are owned instead of averaged, outcomes sharpen, implementation commitment rises, ..."
 untie_question: "What would change in your organization if you untangled \"consensus trap\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:038-decision-laundering", "sparks:the-consensus-trap", "knots/organizations/038-decision-laundering", "knots/organizations/040-hippo-effect"]
 valence: "mixed"
 friction: ""
 ---

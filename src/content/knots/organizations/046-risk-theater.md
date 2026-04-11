@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"risk theater\" this week?"
 quote_top: "Risk registers predict comfortable storms, not real ones."
 quote_bottom: "Anticipate beyond the known."
-origin_nodes: []
+origin_nodes: ["knots:045-meeting-to-decision-ratio", "knots/organizations/045-meeting-to-decision-ratio", "knots/organizations/047-information-overload"]
 valence: "mixed"
 friction: ""
 ---

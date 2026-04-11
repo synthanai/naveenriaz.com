@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"success ambiguity\" this week?"
 quote_top: "No defined success means your initiative cannot end."
 quote_bottom: "It will consume resources forever."
-origin_nodes: []
+origin_nodes: ["knots:057-rhetoric-reality-gap", "sparks:success-ambiguity", "knots/organizations/057-rhetoric-reality-gap", "knots/organizations/059-ungrieved-loss", "sparks/success-ambiguity"]
 valence: "mixed"
 friction: ""
 ---

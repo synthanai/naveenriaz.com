@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"meeting to decision ratio\" this week?"
 quote_top: "Activity consuming more than it produces is organizational death."
 quote_bottom: "Exhaustion isn't output."
-origin_nodes: []
+origin_nodes: ["knots:044-decision-fragmentation", "knots/organizations/044-decision-fragmentation", "knots/organizations/046-risk-theater"]
 valence: "mixed"
 friction: ""
 ---

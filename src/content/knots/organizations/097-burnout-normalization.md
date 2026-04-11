@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"burnout normalization\" this week?"
 quote_top: "Burnout is not happening to your team, it as your team."
 quote_bottom: "It's the culture."
-origin_nodes: []
+origin_nodes: ["knots:096-the-ai-readiness-gap", "knots/organizations/096-the-ai-readiness-gap", "knots/organizations/098-meaning-drought"]
 valence: "mixed"
 friction: ""
 ---

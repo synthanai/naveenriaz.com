@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"handoff failure\" this week?"
 quote_top: "Customers experience the seams, not the teams themselves."
 quote_bottom: "Fix the baton drops."
-origin_nodes: []
+origin_nodes: ["knots:081-over-centralization", "knots/organizations/081-over-centralization", "knots/organizations/083-scaling-pains"]
 valence: "mixed"
 friction: ""
 ---

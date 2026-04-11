@@ -34,7 +34,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"identity fragility\" this week?"
 quote_top: "Untested commitment shatters under pressure, revealing identity fragility."
 quote_bottom: "Stress-test your core."
-origin_nodes: []
+origin_nodes: ["knots:010-cultural-orphans", "knots/organizations/010-cultural-orphans", "knots/organizations/012-the-hollow-core"]
 valence: "mixed"
 friction: ""
 ---

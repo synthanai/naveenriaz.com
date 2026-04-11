@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"performative safety\" this week?"
 quote_top: "Performative safety: the performance continues even after the audience sees backstage."
 quote_bottom: "The immune system attacks itself."
-origin_nodes: []
+origin_nodes: ["knots:012-the-hollow-core", "knots/organizations/012-the-hollow-core", "knots/organizations/014-integrity-theater"]
 valence: "mixed"
 friction: ""
 ---

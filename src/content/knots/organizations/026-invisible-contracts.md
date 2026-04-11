@@ -29,7 +29,7 @@ untie_practices:
   - "Say \"I was wrong\" about one small thing"
   - "Share one piece of information you'd normally hold"
 untie_question: "What would change in your organization if you untangled \"invisible contracts\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:025-broken-promises-loop", "knots/organizations/025-broken-promises-loop", "knots/organizations/027-delegation-without-trust"]
 valence: "mixed"
 friction: ""
 ---

@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"decision amnesia\" this week?"
 quote_top: "Knowing without doing is incomplete. Live what you learn."
 quote_bottom: "Apply your knowledge."
-origin_nodes: []
+origin_nodes: ["knots:041-irreversibility-blindness", "knots/organizations/041-irreversibility-blindness", "knots/organizations/043-dissent-suppression"]
 valence: "mixed"
 friction: ""
 ---

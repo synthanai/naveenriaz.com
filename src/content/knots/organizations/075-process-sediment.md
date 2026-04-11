@@ -27,7 +27,7 @@ untie_practices:
   - "An annual process audit removes any approval step that cannot justify its continued existence wit..."
   - "When processes are audited for relevance, bureaucracy shrinks, speed returns, and teams spend the..."
 untie_question: "What would change in your organization if you untangled \"process sediment\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:074-silo-syndrome", "sparks:process-sediment", "knots/organizations/074-silo-syndrome", "knots/organizations/076-role-ambiguity", "sparks/process-sediment"]
 valence: "mixed"
 friction: ""
 ---

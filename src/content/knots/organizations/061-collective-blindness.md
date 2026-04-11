@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"collective blindness\" this week?"
 quote_top: "Organizations have eyes but collective blindness creates unseen gaps."
 quote_bottom: "See the scotoma."
-origin_nodes: []
+origin_nodes: ["knots:060-consultant-dependency", "knots/organizations/060-consultant-dependency", "knots/organizations/062-learning-disability"]
 valence: "mixed"
 friction: ""
 ---

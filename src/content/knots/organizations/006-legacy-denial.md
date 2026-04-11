@@ -34,7 +34,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"legacy denial\" this week?"
 quote_top: "Denying past failures poisons your organization's future."
 quote_bottom: "Confront scars, unlock growth."
-origin_nodes: []
+origin_nodes: ["knots:005-mission-drift", "knots/organizations/005-mission-drift", "knots/organizations/007-split-personality"]
 valence: "mixed"
 friction: ""
 ---

@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"transparency paradox\" this week?"
 quote_top: "Transparency can destroy trust by amplifying every small mistake"
 quote_bottom: "Visibility is not always trust"
-origin_nodes: []
+origin_nodes: ["knots:016-harmony-addiction", "knots/organizations/016-harmony-addiction", "knots/organizations/018-siloed-synergy"]
 valence: "mixed"
 friction: ""
 ---

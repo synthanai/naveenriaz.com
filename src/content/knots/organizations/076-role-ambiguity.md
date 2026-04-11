@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"role ambiguity\" this week?"
 quote_top: "Role ambiguity cripples teams, transforming flexibility into chaos."
 quote_bottom: "Clarity unlocks productivity."
-origin_nodes: []
+origin_nodes: ["knots:075-process-sediment", "knots/organizations/075-process-sediment", "knots/organizations/077-middle-management-squeeze"]
 valence: "mixed"
 friction: ""
 ---

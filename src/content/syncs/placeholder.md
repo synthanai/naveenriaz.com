@@ -4,7 +4,7 @@ essence: "Harmonic convergence"
 date: 2026-04-09
 quote_top: "No content provided means no essence to define."
 quote_bottom: "An empty post yields empty insights."
-origin_nodes: []
+origin_nodes: ["awes:placeholder", "claws:placeholder", "digs:placeholder", "wows:placeholder", "awes/placeholder", "claws/placeholder", "digs/placeholder", "wows/placeholder"]
 valence: "mixed"
 friction: ""
 ---

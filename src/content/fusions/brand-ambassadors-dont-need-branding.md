@@ -20,7 +20,7 @@ fusion_point:
     - "The competitive trust gap between prepared and unprepared organisations"
 quote_top: "Personal branding will be as essential as email by 2030."
 quote_bottom: "AI makes it frictionless."
-origin_nodes: ["sparks:every-employee-brand-2030"]
+origin_nodes: ["sparks:every-employee-brand-2030", "sparks/every-employee-brand-2030"]
 valence: "mixed"
 friction: ""
 ---

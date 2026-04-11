@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"over centralization\" this week?"
 quote_top: "Over-centralization treats distributed intelligence as a threat, not a resource."
 quote_bottom: "The market lost."
-origin_nodes: []
+origin_nodes: ["knots:080-the-bottleneck-person", "knots/organizations/080-the-bottleneck-person", "knots/organizations/082-handoff-failure"]
 valence: "mixed"
 friction: ""
 ---

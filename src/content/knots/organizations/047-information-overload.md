@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"information overload\" this week?"
 quote_top: "Information abundance creates paralysis, not clarity."
 quote_bottom: "Too much data kills understanding."
-origin_nodes: []
+origin_nodes: ["knots:046-risk-theater", "knots/organizations/046-risk-theater", "knots/organizations/048-decision-whiplash"]
 valence: "mixed"
 friction: ""
 ---

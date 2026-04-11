@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"decision fragmentation\" this week?"
 quote_top: "Fragmented decisions: individually rational, collectively catastrophic."
 quote_bottom: "Incoherence kills innovation."
-origin_nodes: []
+origin_nodes: ["knots:043-dissent-suppression", "knots/organizations/043-dissent-suppression", "knots/organizations/045-meeting-to-decision-ratio"]
 valence: "mixed"
 friction: ""
 ---

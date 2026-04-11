@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"loyalty extraction\" this week?"
 quote_top: "Loyalty isn't a tax, it's a mutual investment."
 quote_bottom: "One-sided loyalty is demand."
-origin_nodes: []
+origin_nodes: ["knots:029-competence-doubt", "knots/organizations/029-competence-doubt", "knots/organizations/031-trust-asymmetry"]
 valence: "mixed"
 friction: ""
 ---

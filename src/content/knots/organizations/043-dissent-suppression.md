@@ -27,7 +27,7 @@ untie_practices:
   - "Counter-positions are explicitly invited before any decision is finalized."
   - "When dissent is safe, decisions improve, blind spots surface before implementation, and the best ..."
 untie_question: "What would change in your organization if you untangled \"dissent suppression\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:042-decision-amnesia", "knots/organizations/042-decision-amnesia", "knots/organizations/044-decision-fragmentation"]
 valence: "mixed"
 friction: ""
 ---

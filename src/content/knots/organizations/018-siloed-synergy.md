@@ -30,7 +30,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"siloed synergy\" this week?"
 quote_top: "Leaders without bold critics face ruin, not from enemies."
 quote_bottom: "Isolation kills innovation."
-origin_nodes: []
+origin_nodes: ["knots:017-transparency-paradox", "knots/organizations/017-transparency-paradox", "knots/organizations/019-fear-culture"]
 valence: "mixed"
 friction: ""
 ---

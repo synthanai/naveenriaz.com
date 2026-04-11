@@ -31,7 +31,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"trust bankruptcy\" this week?"
 quote_top: "Trust can go bankrupt, draining all goodwill."
 quote_bottom: "Zero balance remains."
-origin_nodes: []
+origin_nodes: ["knots:035-the-scapegoat-pattern", "knots/organizations/035-the-scapegoat-pattern", "knots/organizations/037-analysis-paralysis"]
 valence: "mixed"
 friction: ""
 ---

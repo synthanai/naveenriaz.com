@@ -27,7 +27,7 @@ untie_practices:
   - "Transformation progress is measured by changed behavior, not by completed workstreams."
   - "When transformation is measured by behavior instead of governance, programs become leaner, timeli..."
 untie_question: "What would change in your organization if you untangled \"transformation theater\" this week?"
-origin_nodes: []
+origin_nodes: ["knots:049-change-fatigue", "knots/organizations/049-change-fatigue", "knots/organizations/051-resistance-misdiagnosis"]
 valence: "mixed"
 friction: ""
 ---

@@ -32,7 +32,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"leadership vacuum\" this week?"
 quote_top: "Vacuums create instability, nature demands filling with consequences."
 quote_bottom: "Poor succession makes unstable leadership."
-origin_nodes: []
+origin_nodes: ["knots:088-knowledge-extinction", "knots/organizations/088-knowledge-extinction", "knots/organizations/090-technical-debt-avalanche"]
 valence: "mixed"
 friction: ""
 ---

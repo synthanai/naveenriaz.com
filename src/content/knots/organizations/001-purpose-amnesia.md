@@ -32,7 +32,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"purpose amnesia\" this week?"
 quote_top: "Purpose attenuates when it's not amplified."
 quote_bottom: "Re-amplify your reason."
-origin_nodes: []
+origin_nodes: ["sparks:purpose-amnesia", "knots/organizations/002-identity-mimicry", "sparks/purpose-amnesia"]
 valence: "mixed"
 friction: ""
 ---

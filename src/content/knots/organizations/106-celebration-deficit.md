@@ -29,7 +29,7 @@ untie_practices:
 untie_question: "What would change in your organization if you untangled \"celebration deficit\" this week?"
 quote_top: "Harvest without feast depletes the farmer and team motivation."
 quote_bottom: "Stop, celebrate, renew."
-origin_nodes: []
+origin_nodes: ["knots:105-resource-hoarding", "knots/organizations/105-resource-hoarding", "knots/organizations/107-emotional-illiteracy"]
 valence: "mixed"
 friction: ""
 ---
