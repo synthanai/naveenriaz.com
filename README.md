@@ -47,34 +47,36 @@ Think of a **Primitive** as a specialized container for an idea. Instead of dump
 
 | Primitive | Dimension | Length | Layman Definition |
 | :--- | :--- | :--- | :--- |
-| **Spark** | Think (Mind) | Short | A quick, 108-word observation or raw idea you picked up from the world. |
-| **Fusion** | Think (Mind) | Long | A deep essay that combines multiple Sparks into a big-picture theory linking philosophy to execution. |
-| **Knot** | Work (Body) | Short | A specific, sticky problem or friction point you noticed in a system. |
-| **Claw** | Work (Body) | Long | A bad habit or legacy rule ("Law") that drags an organization down over time. |
-| **Dig** | Work (Body) | Long | Deep research into history or literature to extract useful frameworks. |
-| **Wow** | Play (Soul) | Short | A quick "aha!" moment where your perspective suddenly shifts. |
-| **Awe** | Play (Soul) | Long | A deep emotional story about witnessing something beautiful or profoundly well-designed. |
-| **Bead** | Play (Soul) | Long | A piece of hard-earned tactical wisdom or a practical solution built from actual execution. |
-| **Sync** | Vibe (Resonance) | Short | A quick connection with a person or idea that perfectly matches your frequency. |
-| **SPAR** | Vibe (Resonance) | Long | A structured, multi-player debate (often with AI) used to stress-test your reasoning. |
+| **Spark** | Think (Mind) | Short | Compressed field captures. Signals that excite, disturb, or destabilise. |
+| **Fusion** | Think (Mind) | Long | Cross-domain collision. Where multiple signals fuse into structural essays. |
+| **Claw** | Think (Mind) | Long | Rules that ossified into traps. Legacy constraints and anti-patterns. |
+| **Knot** | Work (Body) | Short | Systemic friction named and felt. Diagnostic patterns inside living systems. |
+| **Bead** | Work (Body) | Long | Earned tactical wisdom. Solutions that work now because something failed first. |
+| **Dig** | Work (Body) | Long | Deep excavation into history and literature to extract useful frameworks. |
+| **Wow** | Play (Soul) | Short | Sudden reframes. The moment understanding shifted toward delight or disillusionment. |
+| **Awe** | Play (Soul) | Long | Deep witness. Beauty, grief, or seeing something profoundly well-made. |
+| **Ashes** | Play (Soul) | Short | Acknowledgment without conclusion. Something that ended or had to let burn. |
+| **Sync** | Vibe (Resonance) | Short | Immediate resonance. The moment two systems vibrated together, or the static before. |
+| **SPAR** | Vibe (Resonance) | Long | Structured friction. Multi-player deliberation that stress-tests reasoning. |
+| **Void** | Vibe (Resonance) | Short/Long | The explicit absence of resonance. Immunological boundaries and severed connections. |
 
-### Cognitive Routing
+### Experiences
 
-The primitives form a dynamic neural network mapping how intelligence flows across four canonical pathways:
+The primitives form a dynamic neural network mapping how intelligence flows across canonical human experiences:
 
-1. **The Crucible (Friction-First):** `Knot → Claw → Bead` (Extracting values from systemic constraints)
-2. **The Scholar (Research-First):** `Spark → Dig → Fusion` (Tracking external signals to historical roots)
-3. **The Collision (Resonance-First):** `Sync → SPAR → Wow → Fusion` (Mindset shifts via high-friction interactions)
-4. **The Transmuter (Value-First):** `Bead → SPAR → Knot` (Applying established value to unravel specific tangles)
-
-**The Master Resonance Loop (Ouroboros):** traverses every node to form a biological lifecycle — `Knot → Dig → Claw → Wow → Awe → Bead → Spark → Fusion → Sync → SPAR → [Back to Knot...]`.
+1. **The System Failure:** `Knot → Claw → Bead` (From diagnostic friction to legacy constraint to earned wisdom)
+2. **The Obsession:** `Spark → Dig → Fusion` (Tracking external signals to historical roots and forming structural essays)
+3. **The Intellectual Collision:** `Sync → SPAR → Wow → Fusion` (Mindset shifts via high-friction dialectic interactions)
+4. **The Intervention:** `Bead → SPAR → Knot` (Applying established value to unravel specific tangles)
+5. **The Metabolic Life:** (Ouroboros) Traversing every node in a biological lifecycle representing continuous adaptation.
 
 ## Architecture
 
 ```text
 src/
 ├── components/         Astro components (Header, Footer, layour specific chunks)
-├── content/            The 10 Primitive collections
+├── content/            The 12 Primitive collections
+│   ├── ashes/
 │   ├── awes/
 │   ├── beads/
 │   ├── claws/
@@ -84,6 +86,7 @@ src/
 │   ├── sparks/
 │   ├── spars/
 │   ├── syncs/
+│   ├── voids/
 │   └── wows/
 ├── data/               JSON data (pulse, concepts, arena SPARs)
 ├── layouts/            Base + Page layouts
@@ -97,7 +100,7 @@ src/
 
 **Design**: SYNTHAI Parchment (dark-mode-first, ancient warmth meets digital precision)
 
-**Data**: Live ecosystem pulse generated from 24 repos, 1000+ commits, 19 knowledge items
+**Data**: Live ecosystem pulse directly generated from source (*Note: README metrics are approximate. Live site shows ~35 repos, 1500+ commits, and 20 KIs.*)
 
 ## Tamil Roots
 
@@ -108,7 +111,7 @@ Every dimension has a Tamil root word, a Thirukkural verse, and a transliteratio
 | Think | சிந்தனை (Sinthanai) | Disciplined examination through friction |
 | Work | செயல் (Seyal) | Action: the bridge between insight and impact |
 | Play | ஆன்மா (Aanma) | Soul: the uncodifiable remainder |
-| Vibe | ஒலுக்கம் (Olukkam) | Resonance: when two systems vibrate at the same frequency |
+| Vibe | ஒத்திசை (Othisai) | Resonance: when two systems vibrate at the same frequency |
 
 ## Development
 

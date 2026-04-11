@@ -3,7 +3,7 @@ import { getCollection, type CollectionKey } from 'astro:content';
 export type SlugMap = Record<string, string[]>;
 
 export const PRIMITIVE_COLLECTIONS: CollectionKey[] = [
-  'fusions', 'knots', 'sparks', 'beads', 'claws', 'wows', 'awes', 'syncs', 'digs', 'spars'
+  'fusions', 'knots', 'sparks', 'beads', 'claws', 'wows', 'awes', 'syncs', 'digs', 'spars', 'ashes', 'voids'
 ];
 
 let _cachedGraph: SlugMap | null = null;

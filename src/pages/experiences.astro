@@ -56,35 +56,55 @@ import TamilRoot from "../components/TamilRoot.astro";
 
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-md);">
           <!-- Think -->
-          <div class="card card--mind" style="padding: var(--space-lg);">
-            <h3 style="color: var(--mind-color); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: var(--space-sm);">Think</h3>
-            <p style="margin-bottom: var(--space-sm);"><strong>Sparks</strong> (Short): Compressed field captures. Signals that excite, disturb, or destabilise, constrained to 108 words.</p>
-            <p style="margin-bottom: var(--space-sm);"><strong>Fusions</strong> (Long): Cross-domain collision. Where multiple signals fuse, resist, or fracture into structural essays.</p>
-            <p style="margin: 0;"><strong>Claws</strong> (Long): Rules that ossified into traps. Legacy constraints and anti-patterns, including the ones I once defended.</p>
+          <div class="dim-card dim-card--mind">
+            <div class="dim-header">
+              <span class="glow-dot" style="color: var(--mind-color);"></span>
+              <h3 style="color: var(--mind-color); font-size: 1.5rem; margin: 0; font-weight: 500;">Think</h3>
+            </div>
+            <div style="margin-top: 1rem; color: var(--text-secondary); font-size: 0.9rem; line-height: 1.6;">
+              <p style="margin-bottom: var(--space-sm);"><strong>Sparks</strong> (Short): Compressed field captures. Signals that excite, disturb, or destabilise, constrained to 108 words.</p>
+              <p style="margin-bottom: var(--space-sm);"><strong>Fusions</strong> (Long): Cross-domain collision. Where multiple signals fuse, resist, or fracture into structural essays.</p>
+              <p style="margin: 0;"><strong>Claws</strong> (Long): Rules that ossified into traps. Legacy constraints and anti-patterns, including the ones I once defended.</p>
+            </div>
           </div>
 
           <!-- Work -->
-          <div class="card card--body" style="padding: var(--space-lg);">
-            <h3 style="color: var(--body-color); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: var(--space-sm);">Work</h3>
-            <p style="margin-bottom: var(--space-sm);"><strong>Knots</strong> (Short): Systemic friction named and felt. Diagnostic patterns inside living systems, including the ones I helped tangle.</p>
-            <p style="margin-bottom: var(--space-sm);"><strong>Beads</strong> (Long): Earned tactical wisdom. The solutions that work now because something else failed first.</p>
-            <p style="margin: 0;"><strong>Digs</strong> (Long): Deep excavation into history and literature. What I found sometimes supported my thesis. Sometimes it collapsed it.</p>
+          <div class="dim-card dim-card--body">
+            <div class="dim-header">
+              <span class="glow-dot" style="color: var(--body-color);"></span>
+              <h3 style="color: var(--body-color); font-size: 1.5rem; margin: 0; font-weight: 500;">Work</h3>
+            </div>
+            <div style="margin-top: 1rem; color: var(--text-secondary); font-size: 0.9rem; line-height: 1.6;">
+              <p style="margin-bottom: var(--space-sm);"><strong>Knots</strong> (Short): Systemic friction named and felt. Diagnostic patterns inside living systems, including the ones I helped tangle.</p>
+              <p style="margin-bottom: var(--space-sm);"><strong>Beads</strong> (Long): Earned tactical wisdom. The solutions that work now because something else failed first.</p>
+              <p style="margin: 0;"><strong>Digs</strong> (Long): Deep excavation into history and literature. What I found sometimes supported my thesis. Sometimes it collapsed it.</p>
+            </div>
           </div>
 
           <!-- Play -->
-          <div class="card card--soul" style="padding: var(--space-lg);">
-            <h3 style="color: var(--soul-color); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: var(--space-sm);">Play</h3>
-            <p style="margin-bottom: var(--space-sm);"><strong>Wows</strong> (Short): Sudden reframes. The moment understanding shifted, whether toward delight or disillusionment.</p>
-            <p style="margin-bottom: var(--space-sm);"><strong>Awes</strong> (Long): Deep witness. Beauty, grief, smallness, or the ache of seeing something so well-made it revealed how far I still had to go.</p>
-            <p style="margin: 0;"><strong>Ashes</strong> (Short): Acknowledgment without conclusion. Something that ended, failed, or had to be let burn. No lesson extracted. Just the record.</p>
+          <div class="dim-card dim-card--soul">
+            <div class="dim-header">
+              <span class="glow-dot" style="color: var(--soul-color);"></span>
+              <h3 style="color: var(--soul-color); font-size: 1.5rem; margin: 0; font-weight: 500;">Play</h3>
+            </div>
+            <div style="margin-top: 1rem; color: var(--text-secondary); font-size: 0.9rem; line-height: 1.6;">
+              <p style="margin-bottom: var(--space-sm);"><strong>Wows</strong> (Short): Sudden reframes. The moment understanding shifted, whether toward delight or disillusionment.</p>
+              <p style="margin-bottom: var(--space-sm);"><strong>Awes</strong> (Long): Deep witness. Beauty, grief, smallness, or the ache of seeing something so well-made it revealed how far I still had to go.</p>
+              <p style="margin: 0;"><strong>Ashes</strong> (Short): Acknowledgment without conclusion. Something that ended, failed, or had to be let burn. No lesson extracted. Just the record.</p>
+            </div>
           </div>
 
           <!-- Vibe -->
-          <div class="card" style="padding: var(--space-lg); border-left: 4px solid var(--vibe-color);">
-            <h3 style="color: var(--vibe-color); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: var(--space-sm);">Vibe</h3>
-            <p style="margin-bottom: var(--space-sm);"><strong>Syncs</strong> (Short): Immediate resonance, or its absence. The moment two systems vibrated together, and sometimes, the static before they did.</p>
-            <p style="margin-bottom: var(--space-sm);"><strong>SPARs</strong> (Long): Structured friction. Multi-player deliberation that stress-tests reasoning, including the times the reasoning lost.</p>
-            <p style="margin: 0;"><strong>Voids</strong> (Short/Long): The explicit absence of resonance. Immunological boundaries mapping where static, drifts, and vetoes severed the connection.</p>
+          <div class="dim-card dim-card--vibe">
+            <div class="dim-header">
+              <span class="glow-dot" style="color: var(--vibe-color);"></span>
+              <h3 style="color: var(--vibe-color); font-size: 1.5rem; margin: 0; font-weight: 500;">Vibe</h3>
+            </div>
+            <div style="margin-top: 1rem; color: var(--text-secondary); font-size: 0.9rem; line-height: 1.6;">
+              <p style="margin-bottom: var(--space-sm);"><strong>Syncs</strong> (Short): Immediate resonance, or its absence. The moment two systems vibrated together, and sometimes, the static before they did.</p>
+              <p style="margin-bottom: var(--space-sm);"><strong>SPARs</strong> (Long): Structured friction. Multi-player deliberation that stress-tests reasoning, including the times the reasoning lost.</p>
+              <p style="margin: 0;"><strong>Voids</strong> (Short/Long): The explicit absence of resonance. Immunological boundaries mapping where static, drifts, and vetoes severed the connection.</p>
+            </div>
           </div>
         </div>
       </section>
