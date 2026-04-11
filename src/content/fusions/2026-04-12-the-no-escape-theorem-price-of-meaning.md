@@ -18,17 +18,13 @@ fusion_point:
 quote_top: "The price of meaning is interference. Within this theorem class, there is no escape."
 quote_bottom: "Stop 'fixing' semantic memory. Start grounding it in an episodic Body."
 origin_nodes: ["theories/price-of-meaning/research.md"]
-valence: "neutral"
+valence: "mixed"
 friction: "High technical friction in current RAG/KG industry standards"
 ---
 
-Your RAG system is dying.
-
-It started perfectly. You gave your AI agent a few hundred documents, a vector database, and some sleek embedding models. Retrieval was crisp. Accuracy was 90%+. You felt like you had cracked the code for "long-term memory."
-
 Then you added the next thousand documents. Then ten thousand.
 
-Suddenly, the agent started "forgetting." Not because the data was deleted—it was right there in the database—but because it was getting *crowded*. Retrieval results started returning semantically similar items that were factually wrong. Forgetting curves that looked suspiciously like human memory started to appear.
+Suddenly, the agent started "forgetting." Not because the data was deleted, it was right there in the database, but because it was getting *crowded*. Retrieval results started returning semantically similar items that were factually wrong. Forgetting curves that looked suspiciously like human memory started to appear.
 
 You thought it was a bug. You tried to "fix" it by increasing the nominal dimensions (1024 to 4096), tuning the HNSW parameters, or switching to a Knowledge Graph.
 
@@ -56,7 +52,7 @@ In the SYNTHAI ecosystem, we have long advocated for the **Mind-Body-Soul** tria
 
 **Semantic Retrieval is the "Mind."** It is beautiful, flexible, and capable of generalization. But as the "Price of Meaning" proves, the Mind cannot be the sole keeper of truth. If you rely on the Mind for storage, it will eventually hallucinate because it thinks in patterns, not in precise records.
 
-**The Principled Path is the "Body."** Ashwin identifies three exits from the theorem. One is impossible (infinite dimensions). One is useless (abandoning meaning). The only viable path—**Option 2**—is to augment the semantic layer with an **exact episodic record.**
+**The Principled Path is the "Body."** Ashwin identifies three exits from the theorem. One is impossible (infinite dimensions). One is useless (abandoning meaning). The only viable path (Option 2) is to augment the semantic layer with an **exact episodic record.**
 
 This is why SYNTHAI uses markdown-based filesystems (Body) as the single source of truth (SSOT). We don't try to "fix" the vector database. We treat the semantic layer (Mind) as a *navigation tool* and the filesystem (Body) as the *episodic grounding*.
 
