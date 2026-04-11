@@ -43,8 +43,8 @@ const AtomLabels: Record<string, { label: string; icon: string }> = {
       {forwardPaths.map(path => {
          const [col, pSlug] = path.split(':');
          const meta = AtomLabels[col] || { label: col, icon: '🔗' };
-         // Naive formatting for the display name
-         const displayName = pSlug.replace(/-/g, ' ');
+         // Strip date prefix (YYYY-MM-DD-) from slug for clean display
+         const displayName = pSlug.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/-/g, ' ');
          
          return (
            <li>
