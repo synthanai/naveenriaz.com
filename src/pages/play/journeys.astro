@@ -1,0 +1,107 @@
+---
+/**
+ * Journeys Aggregation Page
+ * Aggregates content from across all primitives where context == 'travel'.
+ */
+import "../../styles/global.css";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import { getCollection } from "astro:content";
+
+const sparks = await getCollection("sparks");
+const fusions = await getCollection("fusions");
+const knots = await getCollection("knots");
+const claws = await getCollection("claws");
+const digs = await getCollection("digs");
+const wows = await getCollection("wows");
+const awes = await getCollection("awes");
+const beads = await getCollection("beads");
+const syncs = await getCollection("syncs");
+const spars = await getCollection("spars");
+const ashes = await getCollection("ashes");
+const voids = await getCollection("voids");
+
+const allDocs = [
+  ...sparks.map(d => ({...d, primitive: 'sparks'})),
+  ...fusions.map(d => ({...d, primitive: 'fusions'})),
+  ...knots.map(d => ({...d, primitive: 'knots'})),
+  ...claws.map(d => ({...d, primitive: 'claws'})),
+  ...digs.map(d => ({...d, primitive: 'digs'})),
+  ...wows.map(d => ({...d, primitive: 'wows'})),
+  ...awes.map(d => ({...d, primitive: 'awes'})),
+  ...beads.map(d => ({...d, primitive: 'beads'})),
+  ...syncs.map(d => ({...d, primitive: 'syncs'})),
+  ...spars.map(d => ({...d, primitive: 'spars'})),
+  ...ashes.map(d => ({...d, primitive: 'ashes'})),
+  ...voids.map(d => ({...d, primitive: 'voids'}))
+];
+
+const travelNodes = allDocs.filter((doc) => doc.data.context === 'travel');
+
+// Sort by date descending
+const sortedNodes = travelNodes.sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Journeys | Naveen Riaz</title>
+    <meta
+      name="description"
+      content="Travel is a perceptual mode, not an output form. A curated map of ideas, friction, and connections captured on the road."
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body class="section-play">
+    <Header activeNav="play" />
+
+    <main class="container container--narrow">
+      <section class="page-hero section">
+        <h1>Journeys</h1>
+        <p class="page-subtitle">The Context of Motion.</p>
+        <p>
+          Travel is a perceptual mode, not an output form. 
+          When traveling, you do not create a "travel post"—you extract a Spark, untangle a Knot, or hit a Void. 
+          Here is a cross-primitive slice of intelligence captured across the globe.
+        </p>
+      </section>
+
+      <section class="section--tight">
+        {sortedNodes.length === 0 ? (
+          <p>No journey records populated yet. The road awaits.</p>
+        ) : (
+          <div class="topic-list">
+            {sortedNodes.map((entry) => (
+              <a href={`/${entry.primitive}/${entry.slug}`} style="text-decoration: none;">
+                <div class="topic-item">
+                  <div class="topic-meta" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+                    <span style="font-size: 0.75rem; text-transform: uppercase; color: var(--color-gold, #ffd700); font-weight: bold; font-family: 'Outfit', sans-serif;">
+                      {entry.primitive.toUpperCase()}
+                    </span>
+                    <span style="font-size: 0.8rem; color: var(--text-muted);">
+                      {entry.data.context_location || "Unknown"}
+                    </span>
+                  </div>
+                  <h3>
+                    {entry.data.title || entry.data.display_title || "Untitled"}
+                  </h3>
+                  <p>
+                    {entry.data.description || entry.data.signal || entry.data.essence || entry.data.what_ended || entry.data.grip || "Context capture."}
+                  </p>
+                </div>
+              </a>
+            ))}
+          </div>
+        )}
+      </section>
+
+      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
+    </main>
+
+    <Footer />
+  </body>
+</html>

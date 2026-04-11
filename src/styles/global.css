@@ -374,7 +374,8 @@ strong {
 /* ── Responsive ─────────────────────────────────────────────── */
 @media (max-width: 768px) {
   body {
-    padding-bottom: 72px; /* clearance for mobile tab bar */
+    padding-bottom: 72px;
+    /* clearance for mobile tab bar */
   }
 
   .container {
@@ -575,6 +576,7 @@ strong {
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
+
 .section-pulse h2 {
   color: var(--text-primary);
 }
@@ -608,6 +610,11 @@ strong {
 
 .c-soul {
   color: var(--soul-color);
+  font-weight: 600;
+}
+
+.c-aura {
+  color: var(--vibe-color);
   font-weight: 600;
 }
 
@@ -803,6 +810,23 @@ strong {
   opacity: 0.5;
   font-style: normal;
   letter-spacing: 0.05em;
+}
+
+/* Home: Origin (Why This Exists) */
+.origin-section {
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.origin-text {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  line-height: 2;
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.origin-text em {
+  color: var(--accent);
 }
 
 /* Home: Vibe CTA */
@@ -1359,7 +1383,8 @@ strong {
   }
 
   .topic-list {
-    grid-template-columns: 1fr !important; /* override inline styles */
+    grid-template-columns: 1fr !important;
+    /* override inline styles */
   }
 
   .connect-grid {

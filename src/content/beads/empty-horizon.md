@@ -1,13 +1,14 @@
 ---
-title: "The Empty Horizon"
-essence: "A vision not tied to daily reality is just a corporate hallucination."
-resonance: "Connects abstraction to action. Employees ignore grandeur that contradicts their daily operational constraints."
+title: The Empty Horizon
+essence: A vision not tied to daily reality is just a corporate hallucination.
+resonance: Connects abstraction to action. Employees ignore grandeur that contradicts their daily operational constraints.
 kural_number: 472
 born_from_knot: "009"
 date: 2026-03-31
-quote_top: "Grand vision needs granular scaffolding, not quicksand."
-quote_bottom: "Build the future, or perish."
+quote_top: Grand vision needs granular scaffolding, not quicksand.
+quote_bottom: Build the future, or perish.
 ---
+
 Leaders often paint a compelling picture of a ten-year horizon while ignoring the bureaucratic quicksand the team is stuck in today.
 
 The broader the vision, the higher the requirement for granular scaffolding.

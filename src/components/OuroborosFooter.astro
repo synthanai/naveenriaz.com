@@ -15,8 +15,8 @@ try {
   console.error("Error fetching forward paths for Ouroboros Footer", e);
 }
 
-// Maps primitive types to nice readable labels / icons
-const PrimitiveLabels: Record<string, { label: string; icon: string }> = {
+// Maps atom types to nice readable labels / icons
+const AtomLabels: Record<string, { label: string; icon: string }> = {
   fusions: { label: 'Fusion', icon: '🌌' },
   knots: { label: 'Knot', icon: '🪢' },
   sparks: { label: 'Spark', icon: '✨' },
@@ -26,21 +26,22 @@ const PrimitiveLabels: Record<string, { label: string; icon: string }> = {
   awes: { label: 'Awe', icon: '🏔️' },
   syncs: { label: 'Sync', icon: '🤝' },
   digs: { label: 'Dig', icon: '⛏️' },
-  spars: { label: 'SPAR', icon: '⚔️' }
+  spars: { label: 'SPAR', icon: '⚔️' },
+  ashes: { label: 'Ash', icon: '🕯️' }
 };
 ---
 
 <div class="ouroboros-footer">
   <div class="ouroboros-header">
     <h3>The Master Resonance Loop</h3>
-    <p>You have unpacked this {PrimitiveLabels[collection]?.label || 'Node'}. Where to next?</p>
+    <p>You have unpacked this {AtomLabels[collection]?.label || 'Node'}. Where to next?</p>
   </div>
   
   {forwardPaths.length > 0 ? (
     <ul class="ouroboros-paths">
       {forwardPaths.map(path => {
          const [col, pSlug] = path.split(':');
-         const meta = PrimitiveLabels[col] || { label: col, icon: '🔗' };
+         const meta = AtomLabels[col] || { label: col, icon: '🔗' };
          // Naive formatting for the display name
          const displayName = pSlug.replace(/-/g, ' ');
          

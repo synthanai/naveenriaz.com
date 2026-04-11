@@ -1,0 +1,197 @@
+---
+/**
+ * Experiences Page
+ * The full system map of how my life flows thru all atomic dimensions.
+ * Moved from homepage to give it room and reduce homepage cognitive load.
+ */
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import TamilRoot from "../components/TamilRoot.astro";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Experiences | Naveen Riaz</title>
+    <meta
+      name="description"
+      content="How my life flows thru all atomic dimensions. A dynamic 12-atom neural network mapping Think, Work, Play, and Vibe."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Experiences | Naveen Riaz" />
+    <meta property="og:description" content="Experiences: How my life flows thru all atomic dimensions." />
+    <meta property="og:image" content="https://naveenriaz.com/og-image.png" />
+    <meta property="og:url" content="https://naveenriaz.com/experiences/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <Header />
+
+    <main class="container container--narrow">
+      <section class="page-hero section">
+        <h1>
+          <p class="page-title">Experiences</p>
+          <p class="page-subtitle">How my life flows thru all atomic dimensions</p>
+        </h1>
+      </section>
+
+      <section class="section--tight">
+        <p>
+          The 12 atoms are not isolated containers. They form a dynamic neural network, with 5 named routing paths describing how content moves between dimensions. Every piece published here entered through one of these pathways.
+        </p>
+      </section>
+
+      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
+
+      <!-- ═══ The 12 Atoms ═══ -->
+      <section class="section--tight">
+        <h2>The 12 Atoms</h2>
+        <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: var(--space-xl);">
+          Each atom defined by function, not occasion. What cognitive operation it performs, what emotions it can hold.
+        </p>
+
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-md);">
+          <!-- Think -->
+          <div class="card card--mind" style="padding: var(--space-lg);">
+            <h3 style="color: var(--mind-color); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: var(--space-sm);">Think</h3>
+            <p style="margin-bottom: var(--space-sm);"><strong>Sparks</strong> (Short): Compressed field captures. Signals that excite, disturb, or destabilise, constrained to 108 words.</p>
+            <p style="margin-bottom: var(--space-sm);"><strong>Fusions</strong> (Long): Cross-domain collision. Where multiple signals fuse, resist, or fracture into structural essays.</p>
+            <p style="margin: 0;"><strong>Claws</strong> (Long): Rules that ossified into traps. Legacy constraints and anti-patterns, including the ones I once defended.</p>
+          </div>
+
+          <!-- Work -->
+          <div class="card card--body" style="padding: var(--space-lg);">
+            <h3 style="color: var(--body-color); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: var(--space-sm);">Work</h3>
+            <p style="margin-bottom: var(--space-sm);"><strong>Knots</strong> (Short): Systemic friction named and felt. Diagnostic patterns inside living systems, including the ones I helped tangle.</p>
+            <p style="margin-bottom: var(--space-sm);"><strong>Beads</strong> (Long): Earned tactical wisdom. The solutions that work now because something else failed first.</p>
+            <p style="margin: 0;"><strong>Digs</strong> (Long): Deep excavation into history and literature. What I found sometimes supported my thesis. Sometimes it collapsed it.</p>
+          </div>
+
+          <!-- Play -->
+          <div class="card card--soul" style="padding: var(--space-lg);">
+            <h3 style="color: var(--soul-color); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: var(--space-sm);">Play</h3>
+            <p style="margin-bottom: var(--space-sm);"><strong>Wows</strong> (Short): Sudden reframes. The moment understanding shifted, whether toward delight or disillusionment.</p>
+            <p style="margin-bottom: var(--space-sm);"><strong>Awes</strong> (Long): Deep witness. Beauty, grief, smallness, or the ache of seeing something so well-made it revealed how far I still had to go.</p>
+            <p style="margin: 0;"><strong>Ashes</strong> (Short): Acknowledgment without conclusion. Something that ended, failed, or had to be let burn. No lesson extracted. Just the record.</p>
+          </div>
+
+          <!-- Vibe -->
+          <div class="card" style="padding: var(--space-lg); border-left: 4px solid var(--vibe-color);">
+            <h3 style="color: var(--vibe-color); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: var(--space-sm);">Vibe</h3>
+            <p style="margin-bottom: var(--space-sm);"><strong>Syncs</strong> (Short): Immediate resonance, or its absence. The moment two systems vibrated together, and sometimes, the static before they did.</p>
+            <p style="margin-bottom: var(--space-sm);"><strong>SPARs</strong> (Long): Structured friction. Multi-player deliberation that stress-tests reasoning, including the times the reasoning lost.</p>
+            <p style="margin: 0;"><strong>Voids</strong> (Short/Long): The explicit absence of resonance. Immunological boundaries mapping where static, drifts, and vetoes severed the connection.</p>
+          </div>
+        </div>
+      </section>
+
+      <div class="divider"><img src="/logo-h.svg" alt="ஃ" /></div>
+
+      <!-- ═══ Human Experiences ═══ -->
+      <section class="section--tight">
+        <h2>The 5 Core Experiences</h2>
+
+        <div style="display: flex; flex-direction: column; gap: var(--space-md);">
+          <!-- 1. The System Failure -->
+          <div class="dim-card" style="padding: 1.5rem; border-left: 3px solid var(--body-color);">
+            <div style="font-size: 0.75rem; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase;">1. The System Failure</div>
+            <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+              <span style="color: var(--body-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--body-color); border-radius: 4px; font-size: 0.9rem;">Knot</span>
+              <span style="color: var(--text-muted);">→</span>
+              <span style="color: var(--body-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--body-color); border-radius: 4px; font-size: 0.9rem;">Claw</span>
+              <span style="color: var(--text-muted);">→</span>
+              <span style="color: var(--soul-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--soul-color); border-radius: 4px; font-size: 0.9rem;">Bead</span>
+            </div>
+            <div style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 10px;">Hitting an unbearable operational wall, diagnosing the ossified rule causing it, and extracting a hard-won tactical lesson for the future.</div>
+          </div>
+
+          <!-- 2. The Obsession -->
+          <div class="dim-card" style="padding: 1.5rem; border-left: 3px solid var(--mind-color);">
+            <div style="font-size: 0.75rem; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase;">2. The Obsession</div>
+            <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+              <span style="color: var(--mind-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--mind-color); border-radius: 4px; font-size: 0.9rem;">Spark</span>
+              <span style="color: var(--text-muted);">→</span>
+              <span style="color: var(--body-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--body-color); border-radius: 4px; font-size: 0.9rem;">Dig</span>
+              <span style="color: var(--text-muted);">→</span>
+              <span style="color: var(--mind-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--mind-color); border-radius: 4px; font-size: 0.9rem;">Fusion</span>
+            </div>
+            <div style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 10px;">A passing signal catches fire in the mind, triggering a deep historical excavation before finally synthesizing into a structural thesis.</div>
+          </div>
+
+          <!-- 3. The Intellectual Collision -->
+          <div class="dim-card" style="padding: 1.5rem; border-left: 3px solid var(--vibe-color);">
+            <div style="font-size: 0.75rem; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase;">3. The Intellectual Collision</div>
+            <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+              <span style="color: var(--vibe-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--vibe-color); border-radius: 4px; font-size: 0.9rem;">Sync</span>
+              <span style="color: var(--text-muted);">→</span>
+              <span style="color: var(--vibe-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--vibe-color); border-radius: 4px; font-size: 0.9rem;">SPAR</span>
+              <span style="color: var(--text-muted);">→</span>
+              <span style="color: var(--soul-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--soul-color); border-radius: 4px; font-size: 0.9rem;">Wow</span>
+              <span style="color: var(--text-muted);">→</span>
+              <span style="color: var(--mind-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--mind-color); border-radius: 4px; font-size: 0.9rem;">Fusion</span>
+            </div>
+            <div style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 10px;">Meeting a mind that resonates, fiercely clashing frameworks, suffering a sudden paradigm shift, and rewriting a worldview in the aftermath.</div>
+          </div>
+
+          <!-- 4. The Intervention -->
+          <div class="dim-card" style="padding: 1.5rem; border-left: 3px solid var(--soul-color);">
+            <div style="font-size: 0.75rem; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase;">4. The Intervention</div>
+            <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+              <span style="color: var(--soul-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--soul-color); border-radius: 4px; font-size: 0.9rem;">Bead</span>
+              <span style="color: var(--text-muted);">→</span>
+              <span style="color: var(--vibe-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--vibe-color); border-radius: 4px; font-size: 0.9rem;">SPAR</span>
+              <span style="color: var(--text-muted);">→</span>
+              <span style="color: var(--body-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--body-color); border-radius: 4px; font-size: 0.9rem;">Knot</span>
+            </div>
+            <div style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 10px;">Applying hard-won wisdom to a client's struggle, meeting fierce resistance, and suddenly uncovering an entirely new underlying pathology.</div>
+          </div>
+
+          <!-- 5. The Metabolic Life -->
+          <div class="dim-card" style="padding: 1.5rem; border: 1px solid rgba(255,255,255,0.08); border-left: 3px solid var(--text-primary); margin-top: var(--space-sm);">
+            <div style="font-size: 0.75rem; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase;">5. The Metabolic Life</div>
+            <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+              <span style="color: var(--body-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--body-color); border-radius: 4px; font-size: 0.8rem;">Knot</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--body-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--body-color); border-radius: 4px; font-size: 0.8rem;">Dig</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--body-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--body-color); border-radius: 4px; font-size: 0.8rem;">Claw</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--soul-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--soul-color); border-radius: 4px; font-size: 0.8rem;">Wow</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--soul-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--soul-color); border-radius: 4px; font-size: 0.8rem;">Awe</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--soul-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--soul-color); border-radius: 4px; font-size: 0.8rem;">Bead</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--mind-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--mind-color); border-radius: 4px; font-size: 0.8rem;">Spark</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--mind-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--mind-color); border-radius: 4px; font-size: 0.8rem;">Fusion</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--vibe-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--vibe-color); border-radius: 4px; font-size: 0.8rem;">Sync</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--vibe-color); font-weight: bold; padding: 4px 10px; border: 1px solid var(--vibe-color); border-radius: 4px; font-size: 0.8rem;">SPAR</span>
+              <span style="color: var(--text-muted); font-size: 0.8rem;">→</span>
+              <span style="color: var(--body-color); font-weight: bold; padding: 4px 10px; border: 1px dashed var(--body-color); opacity: 0.6; border-radius: 4px; font-size: 0.8rem;">Knot...</span>
+            </div>
+            <div style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 10px;">The infinite, messy act of living. Synthesising experience across Work, Play, Think, and Vibe without end.</div>
+          </div>
+        </div>
+      </section>
+
+      <TamilRoot
+        tamil="கற்றல்"
+        transliteration="Katral"
+        meaning="Learning. Not just acquiring knowledge, but the act of weaving new understanding into living practice."
+        kural={`தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்\nகற்றனைத் தூறும் அறிவு.`}
+        kuralNumber={396}
+        kuralTranslation="Like a well that springs as you dig, knowledge springs as you learn."
+      />
+    </main>
+
+    <Footer />
+
+  </body>
+</html>

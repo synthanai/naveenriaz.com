@@ -129,5 +129,5 @@ This is a personal knowledge platform. You're welcome to clone, fork, learn from
 ---
 
 <p align="center">
-  <em>Every organisation is alive. Nurture its Mind, Body & Soul. Watch it thrive.</em>
+  <em>Every organisation is alive. Nurture its Mind, Body & Soul. Watch the Aura thrive!</em>
 </p>

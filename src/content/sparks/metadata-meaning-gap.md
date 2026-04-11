@@ -1,13 +1,13 @@
 ---
-title: "The Metadata-Meaning Gap"
+title: The Metadata-Meaning Gap
 date: 2026-03-30
 signal: "A search engine finds documents containing 'trust.' A knowledge system understands that the trust problem connects to a hiring decision made six months ago."
-source: "SYNTHAI"
-temperature: "🔥🔥"
-quote_top: "Most AI knowledge systems\nare just search engines\nwith a language model on top."
-quote_bottom: "Stop building smarter search.\nStart building understanding."
+source: SYNTHAI
+temperature: 🔥🔥
+quote_top: Most AI knowledge systems\nare just search engines\nwith a language model on top.
+quote_bottom: Stop building smarter search.\nStart building understanding.
 tags: ["ai-governance", "rag", "knowledge"]
-description: "Most AI knowledge systems are search engines with a language model on top."
+description: Most AI knowledge systems are search engines with a language model on top.
 ---
 
 A search engine finds documents containing "trust." A knowledge system understands that the trust problem connects to a hiring decision made six months ago and the feedback culture that was never established.
