@@ -1,6 +1,6 @@
 /* ═══════════════════════════════════════════════════════════════
-   SYNTHAI Design System — Tier 2: Digital Dark
-   naveenriaz.com — The Nebula
+   SYNTHAI Design System: Tier 2: Digital Dark
+   naveenriaz.com: The Nebula
    Dark-mode-first. Ancient warmth meets digital precision.
    Three-tier brand architecture (SPAR #002 verdict).
    ═══════════════════════════════════════════════════════════════ */
@@ -20,7 +20,7 @@
   --bg-card-hover: #000000;
   --bg-surface: #000000;
 
-  /* Text — two levels only: 100% and 80% */
+  /* Text (two levels only: 100% and 80%) */
   --text-primary: #ffffff;
   --text-secondary: rgba(255, 255, 255, 0.8);
   --text-muted: rgba(255, 255, 255, 0.8);
@@ -524,7 +524,7 @@ strong {
 }
 
 /* ══════════════════════════════════════════════════════════════
-   PAGE STYLES — Consolidated from per-page <style> blocks
+   PAGE STYLES: Consolidated from per-page <style> blocks
    ══════════════════════════════════════════════════════════════ */
 
 /* ── Shared: Page Hero ─────────────────────────────────────── */

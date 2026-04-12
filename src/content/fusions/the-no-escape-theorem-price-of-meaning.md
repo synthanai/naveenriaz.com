@@ -42,7 +42,7 @@ Here is why:
 
 1. **Finite Dimensionality**: While we talk about "4096-dimensional embeddings," language itself only has about 10 to 50 truly independent dimensions of meaning. This is the **Effective Dimensionality** ($d_{eff}$).
 2. **The Crowding Problem**: When you pack millions of memories into a space with only 15 meaningful directions, they *must* overlap. New memories land near old ones not because they are related, but because there is nowhere else to go.
-3. **Geometric Vulnerability**: Interference isn't an engineering flaw; it’s a property of the manifold. Every model Ashwin’s team tested—from vector DBs to Knowledge Graphs—converged to the same $d_{eff} \approx 10-15$.
+3. **Geometric Vulnerability**: Interference isn't an engineering flaw; it’s a property of the manifold. Every model Ashwin’s team tested, from vector DBs to Knowledge Graphs, converged to the same $d_{eff} \approx 10-15$.
 
 The result? Power-law forgetting ($b \approx 0.3-0.7$) that perfectly matches human forgetting curves from 1885. This isn't AI being "artistic." It's geometry asserting its limits.
 
@@ -70,7 +70,7 @@ If you are building agentic systems for your organization, stop trying to find t
 2. **Use Semantics for Generalization only**: Let the "Mind" hunt for patterns, but let the "Body" verify the facts.
 3. **Integrate Symbolic Verifiers**: Use BM25 (keyword search) or structured query layers as a mandatory fallback. They are "immune" to the geometric interference that kills vector search.
 
-The "No-Escape Theorem" tells us that the price of meaning is interference. You can’t avoid paying it. But you can choose *how* you pay it—by building architectures that respect the limits of geometry rather than pretending they don't exist.
+The "No-Escape Theorem" tells us that the price of meaning is interference. You can’t avoid paying it. But you can choose *how* you pay it: by building architectures that respect the limits of geometry rather than pretending they don't exist.
 
 ---
 *Based on the research "The Price of Meaning: Why Every Semantic Memory System Forgets" by Ashwin Gopinath (Sentra).*

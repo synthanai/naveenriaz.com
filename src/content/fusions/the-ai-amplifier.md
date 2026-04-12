@@ -129,7 +129,7 @@ The organisations winning with AI in 2026 are not the ones who adopted it fastes
 
 They practiced before they turned up the volume. 
 
-Generating 1,000 lines of code in seconds merely shifts the burden. Value has permanently moved from execution to judgment. Specifically, it has moved to *taste*—the acquired, lived experience required to look at ten AI-generated options and know precisely which nine to kill.
+Generating 1,000 lines of code in seconds merely shifts the burden. Value has permanently moved from execution to judgment. Specifically, it has moved to *taste* (the acquired, lived experience required to look at ten AI-generated options and know precisely which nine to kill).
 
 One-line distillation: **The factors that determine AI success are the same factors that determined software delivery success before AI existed.** 
 
