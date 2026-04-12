@@ -1,6 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 
-// Shared truth fields: every atom can hold the full emotional spectrum
+// Shared truth fields: every moment can hold the full emotional spectrum
 const truthFields = {
   valence: z.enum(['luminous', 'dark', 'mixed']).default('mixed'),
   emotional_range: z.array(z.string()).optional(),
@@ -10,7 +10,7 @@ const truthFields = {
   residue: z.string().optional(),     // What still has not been resolved?
 };
 
-// Context fields: travel, coaching, teaching etc. as input channels, not atoms
+// Context fields: travel, coaching, teaching etc. as input channels, not moments
 const contextFields = {
   context: z.enum(['travel', 'coaching', 'teaching', 'building', 'reading']).optional(),
   context_location: z.string().optional(),
@@ -186,8 +186,8 @@ const spars = defineCollection({
   }),
 });
 
-// The 11th atom: things that ended, failed, or had to be let burn (apoptosis)
-const ashes = defineCollection({
+// The 11th moment: things that ended, failed, or had to be let burn (apoptosis)
+const scars = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
@@ -198,7 +198,7 @@ const ashes = defineCollection({
   }),
 });
 
-// The 12th atom: Anti-Resonance. The immunological boundary.
+// The 12th moment: Anti-Resonance. The immunological boundary.
 const voids = defineCollection({
   type: 'content',
   schema: z.object({
@@ -212,5 +212,5 @@ const voids = defineCollection({
   }),
 });
 
-export const collections = { fusions, knots, sparks, beads, claws, wows, awes, syncs, digs, spars, ashes, voids };
+export const collections = { fusions, knots, sparks, beads, claws, wows, awes, syncs, digs, spars, scars, voids };
 

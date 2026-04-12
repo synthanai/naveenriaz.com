@@ -26,7 +26,7 @@ friction: ""
 
 # AGENTS.md Is Stage 1
 
-Five major tools adopted AGENTS.md within months of its release. Kilo Code, Cursor, Windsurf, OpenAI Codex, GitHub Copilot. The spec is clean: a markdown file that tells AI agents how your project works. Build commands, test commands, coding standards, project architecture. A README, but for machines instead of humans.
+Five major tools adopted AGENTS.md within months of its release. Kilo Code, Cursor, Windsurf, OpenAI Torus, GitHub Copilot. The spec is clean: a markdown file that tells AI agents how your project works. Build commands, test commands, coding standards, project architecture. A README, but for machines instead of humans.
 
 It is exactly right. It is also the first step of four.
 

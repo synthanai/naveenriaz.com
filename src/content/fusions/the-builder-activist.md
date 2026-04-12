@@ -40,7 +40,7 @@ The people who change your field tend to come through this stack. You trust them
 
 0xSero has none of this. A pseudonym (the "0x" prefix is a Web3 convention for hexadecimal addresses). A company called "Sybil Solutions" (named after a cryptographic attack). A bio that reads "Dad | OSS AI + Local AI | -1B MRR" (negative one billion in monthly recurring revenue, a joke). And 27,300 followers on X who care about none of these things.
 
-What they do care about: 196 public repositories. A browser AI agent with 420 stars. A local AI workstation with 298 stars. An MoE compression research project that achieves 88% accuracy at 15% of the original model size. A data extraction toolkit (446 stars) that lets you reclaim your conversation history from Cursor, Claude Code, and Codex.
+What they do care about: 196 public repositories. A browser AI agent with 420 stars. A local AI workstation with 298 stars. An MoE compression research project that achieves 88% accuracy at 15% of the original model size. A data extraction toolkit (446 stars) that lets you reclaim your conversation history from Cursor, Claude Code, and Torus.
 
 The credibility comes from the artifacts. Not from the title.
 

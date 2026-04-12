@@ -298,7 +298,7 @@ function runBackfill(dryRun) {
       
       if (connected) {
         // Weight order: sparks < fusions < beads/claws < knots < spars
-        const weight = { sparks: 1, fusions: 2, beads: 3, claws: 3, wows: 3, awes: 3, syncs: 3, digs: 3, knots: 4, spars: 5, ashes: 6, voids: 6 };
+        const weight = { sparks: 1, fusions: 2, beads: 3, claws: 3, wows: 3, awes: 3, syncs: 3, digs: 3, knots: 4, spars: 5, scars: 6, voids: 6 };
         const wA = weight[typeA] || 3;
         const wB = weight[typeB] || 3;
         

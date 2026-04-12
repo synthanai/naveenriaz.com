@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://naveenriaz.com">Live Site</a> · 
   <a href="#architecture">Architecture</a> · 
-  <a href="#content-architecture-primitives">Primitives</a> · 
+  <a href="#content-architecture-moments">Moments</a> · 
   <a href="#license">License</a>
 </p>
 
@@ -31,7 +31,7 @@ This one organises by **dimension of thought**:
    Think      Work     ← How I Think (Mind) · What I Build (Body)
 ```
 
-**Think** is where frameworks live: [SPAR](https://naveenriaz.com/spars) (structured multi-persona deliberation), [STEAL](https://naveenriaz.com/sparks) (intelligence capture), [CODEX](https://naveenriaz.com/think) (cognitive architecture).
+**Think** is where frameworks live: [SPAR](https://naveenriaz.com/spars) (structured multi-persona deliberation), [STEAL](https://naveenriaz.com/sparks) (intelligence capture), [TORUS](https://naveenriaz.com/think) (cognitive architecture).
 
 **Work** is proof: books, papers, tools, shipped things. Three layers: what I aspire to build (Soul), what my mind is cooking (Mind), what has shipped (Body).
 
@@ -41,11 +41,11 @@ This one organises by **dimension of thought**:
 
 The ஃ (Ayudha Ezhuthu) at the centre is the Tamil vowel that connects all three dots.
 
-## Content Architecture (Primitives)
+## Content Architecture (Moments)
 
-Think of a **Primitive** as a specialized container for an idea. Instead of dumping every thought into a generic "blog post", intelligence goes into specialized atomic shapes based on depth (Short/Long) and dimension (Think, Work, Play, Vibe).
+Think of a **Moment** as a specialized container for an idea. Instead of dumping every thought into a generic "blog post", intelligence goes into specialized atomic shapes based on depth (Short/Long) and dimension (Think, Work, Play, Vibe).
 
-| Primitive | Dimension | Length | Layman Definition |
+| Moment | Dimension | Length | Layman Definition |
 | :--- | :--- | :--- | :--- |
 | **Spark** | Think (Mind) | Short | Compressed field captures. Signals that excite, disturb, or destabilise. |
 | **Fusion** | Think (Mind) | Long | Cross-domain collision. Where multiple signals fuse into structural essays. |
@@ -55,14 +55,14 @@ Think of a **Primitive** as a specialized container for an idea. Instead of dump
 | **Dig** | Work (Body) | Long | Deep excavation into history and literature to extract useful frameworks. |
 | **Wow** | Play (Soul) | Short | Sudden reframes. The moment understanding shifted toward delight or disillusionment. |
 | **Awe** | Play (Soul) | Long | Deep witness. Beauty, grief, or seeing something profoundly well-made. |
-| **Ashes** | Play (Soul) | Short | Acknowledgment without conclusion. Something that ended or had to let burn. |
+| **Scars** | Play (Soul) | Short | Acknowledgment without conclusion. Something that ended or had to let burn. |
 | **Sync** | Vibe (Resonance) | Short | Immediate resonance. The moment two systems vibrated together, or the static before. |
 | **SPAR** | Vibe (Resonance) | Long | Structured friction. Multi-player deliberation that stress-tests reasoning. |
 | **Void** | Vibe (Resonance) | Short/Long | The explicit absence of resonance. Immunological boundaries and severed connections. |
 
 ### Experiences
 
-The primitives form a dynamic neural network mapping how intelligence flows across canonical human experiences:
+The moments form a dynamic neural network mapping how intelligence flows across canonical human experiences:
 
 1. **The System Failure:** `Knot → Claw → Bead` (From diagnostic friction to legacy constraint to earned wisdom)
 2. **The Obsession:** `Spark → Dig → Fusion` (Tracking external signals to historical roots and forming structural essays)
@@ -75,8 +75,8 @@ The primitives form a dynamic neural network mapping how intelligence flows acro
 ```text
 src/
 ├── components/         Astro components (Header, Footer, layour specific chunks)
-├── content/            The 12 Primitive collections
-│   ├── ashes/
+├── content/            The 12 Moment collections
+│   ├── scars/
 │   ├── awes/
 │   ├── beads/
 │   ├── claws/
@@ -90,7 +90,7 @@ src/
 │   └── wows/
 ├── data/               JSON data (pulse, concepts, arena SPARs)
 ├── layouts/            Base + Page layouts
-├── pages/              Pages across Think / Work / Play / Vibe and individual primitives
+├── pages/              Pages across Think / Work / Play / Vibe and individual moments
 └── styles/
     ├── brand-tokens.css  Design system tokens (MBS color palette)
     └── global.css        Global styles

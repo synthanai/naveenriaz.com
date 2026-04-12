@@ -7,4 +7,4 @@ valence: "dark"
 origin_nodes: ["beads:the-lesson-that-came-too-late", "fusions:two-ideas-that-should-have-connected-but-didnt", "knots:the-knot-i-tied", "sparks:the-signal-i-chased-for-six-months-that-was-noise"]
 ---
 
-*Yet to conceive. This atom is waiting for the right moment to be born.*
+*Yet to conceive. This moment is waiting for the right moment to be born.*

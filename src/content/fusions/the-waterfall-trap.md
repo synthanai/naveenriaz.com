@@ -4,7 +4,7 @@ display_title: "The Waterfall Trap"
 display_subtitle: "439 stars for a framework that moves in one direction. Software doesn't."
 date: 2026-03-16
 categories: ["ai-emergence", "pattern"]
-tags: ["ai-coding", "sparc", "waterfall", "emergence", "methodology", "codex"]
+tags: ["ai-coding", "sparc", "waterfall", "emergence", "methodology", "torus"]
 description: "AI coding frameworks are reinventing the waterfall. 5 linear phases, zero feedback loops. Here is what they are missing."
 source_research: "frameworks/sparc-framework/research.md"
 fusion_type: "public"

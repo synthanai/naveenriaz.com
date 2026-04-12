@@ -27,7 +27,7 @@ function getFilesTree(dir) {
 }
 
 // Map of collection names to their source subdirectories relative to src/content
-const COLLECTIONS = ['fusions', 'knots', 'sparks', 'beads', 'claws', 'wows', 'awes', 'syncs', 'digs', 'spars', 'ashes', 'voids'];
+const COLLECTIONS = ['fusions', 'knots', 'sparks', 'beads', 'claws', 'wows', 'awes', 'syncs', 'digs', 'spars', 'scars', 'voids'];
 
 function resolveInternalLink(url) {
   // 1. Image Assets

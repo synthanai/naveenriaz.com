@@ -14,7 +14,7 @@ friction: ""
 
 Jensen Huang stood on stage and compared OpenClaw to Linux and HTTP.
 
-Not a product. Not a framework. A civilisational layer. The operating system for AI agents: resource management, tool orchestration, scheduling, I/O, sub-agent spawning. Every primitive of a traditional OS, rebuilt for agents.
+Not a product. Not a framework. A civilisational layer. The operating system for AI agents: resource management, tool orchestration, scheduling, I/O, sub-agent spawning. Every moment of a traditional OS, rebuilt for agents.
 
 Then he said something radical: every SaaS company will become a GaaS (Generative-as-a-Service) company. Token budgets will join salary packages. AI factories will replace data centres.
 

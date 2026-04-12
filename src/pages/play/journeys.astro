@@ -1,7 +1,7 @@
 ---
 /**
  * Journeys Aggregation Page
- * Aggregates content from across all atoms where context == 'travel'.
+ * Aggregates content from across all moments where context == 'travel'.
  */
 import "../../styles/global.css";
 import Header from "../../components/Header.astro";
@@ -18,22 +18,22 @@ const awes = await getCollection("awes");
 const beads = await getCollection("beads");
 const syncs = await getCollection("syncs");
 const spars = await getCollection("spars");
-const ashes = await getCollection("ashes");
+const scars = await getCollection("scars");
 const voids = await getCollection("voids");
 
 const allDocs = [
-  ...sparks.map(d => ({...d, atom: 'sparks'})),
-  ...fusions.map(d => ({...d, atom: 'fusions'})),
-  ...knots.map(d => ({...d, atom: 'knots'})),
-  ...claws.map(d => ({...d, atom: 'claws'})),
-  ...digs.map(d => ({...d, atom: 'digs'})),
-  ...wows.map(d => ({...d, atom: 'wows'})),
-  ...awes.map(d => ({...d, atom: 'awes'})),
-  ...beads.map(d => ({...d, atom: 'beads'})),
-  ...syncs.map(d => ({...d, atom: 'syncs'})),
-  ...spars.map(d => ({...d, atom: 'spars'})),
-  ...ashes.map(d => ({...d, atom: 'ashes'})),
-  ...voids.map(d => ({...d, atom: 'voids'}))
+  ...sparks.map(d => ({...d, moment: 'sparks'})),
+  ...fusions.map(d => ({...d, moment: 'fusions'})),
+  ...knots.map(d => ({...d, moment: 'knots'})),
+  ...claws.map(d => ({...d, moment: 'claws'})),
+  ...digs.map(d => ({...d, moment: 'digs'})),
+  ...wows.map(d => ({...d, moment: 'wows'})),
+  ...awes.map(d => ({...d, moment: 'awes'})),
+  ...beads.map(d => ({...d, moment: 'beads'})),
+  ...syncs.map(d => ({...d, moment: 'syncs'})),
+  ...spars.map(d => ({...d, moment: 'spars'})),
+  ...scars.map(d => ({...d, moment: 'scars'})),
+  ...voids.map(d => ({...d, moment: 'voids'}))
 ];
 
 const travelNodes = allDocs.filter((doc) => doc.data.context === 'travel');
@@ -66,7 +66,7 @@ const sortedNodes = travelNodes.sort(
         <p>
           Travel is a perceptual mode, not an output form. 
           When traveling, you do not create a "travel post", you extract a Spark, untangle a Knot, or hit a Void. 
-          Here is a cross-atom slice of intelligence captured across the globe.
+          Here is a cross-moment slice of intelligence captured across the globe.
         </p>
       </section>
 
@@ -76,11 +76,11 @@ const sortedNodes = travelNodes.sort(
         ) : (
           <div class="topic-list">
             {sortedNodes.map((entry) => (
-              <a href={`/${entry.atom}/${entry.slug}`} style="text-decoration: none;">
+              <a href={`/${entry.moment}/${entry.slug}`} style="text-decoration: none;">
                 <div class="topic-item">
                   <div class="topic-meta" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
                     <span style="font-size: 0.75rem; text-transform: uppercase; color: var(--color-gold, #ffd700); font-weight: bold; font-family: 'Outfit', sans-serif;">
-                      {entry.atom.toUpperCase()}
+                      {entry.moment.toUpperCase()}
                     </span>
                     <span style="font-size: 0.8rem; color: var(--text-muted);">
                       {entry.data.context_location || "Unknown"}

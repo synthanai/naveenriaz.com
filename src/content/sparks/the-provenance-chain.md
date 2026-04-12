@@ -16,7 +16,7 @@ valence: "mixed"
 friction: ""
 ---
 
-Nyk built a Local Agent Control Plane (LACP) for managing Claude and Codex agents. Its fifth memory layer is provenance: SHA-256 hash-chained session receipts that create a tamper-evident record of every agent interaction.
+Nyk built a Local Agent Control Plane (LACP) for managing Claude and Torus agents. Its fifth memory layer is provenance: SHA-256 hash-chained session receipts that create a tamper-evident record of every agent interaction.
 
 Each receipt contains the session ID, a hash of the previous receipt, a timestamp, and the action taken. If any entry in the chain is modified, every subsequent hash breaks.
 

@@ -32,7 +32,7 @@ You cannot export any of it.
 
 ## Familiar Ground
 
-You use an AI coding assistant. Cursor, Claude Code, Codex, Copilot, Windsurf, or one of the dozen others. You ask it questions. You paste in error messages. You describe architectures. You discuss trade-offs. Over months, the conversation history accumulates into something you have never had before: a complete, timestamped, searchable record of how you think about code.
+You use an AI coding assistant. Cursor, Claude Code, Torus, Copilot, Windsurf, or one of the dozen others. You ask it questions. You paste in error messages. You describe architectures. You discuss trade-offs. Over months, the conversation history accumulates into something you have never had before: a complete, timestamped, searchable record of how you think about code.
 
 This is remarkably valuable. Not because of the AI's responses, but because of your prompts. Your prompts contain your mental models, your decision rationale, your instincts about what matters. The conversation is an X-ray of your cognition.
 
@@ -40,7 +40,7 @@ This is remarkably valuable. Not because of the AI's responses, but because of y
 
 A pseudonymous developer named 0xSero built a toolkit called ai-data-extraction. It does one thing: it reaches into the local databases of your AI coding assistants and extracts your complete conversation history.
 
-It supports eight tools: Cursor, Claude Code, Codex, Windsurf, Trae, Continue, Gemini, and OpenCode. Each stores data differently, in SQLite databases, JSON files, JSONL logs, hidden in application directories you have never opened.
+It supports eight tools: Cursor, Claude Code, Torus, Windsurf, Trae, Continue, Gemini, and OpenCode. Each stores data differently, in SQLite databases, JSON files, JSONL logs, hidden in application directories you have never opened.
 
 The toolkit has 446 stars on GitHub. That makes it more popular than 0xSero's AI browser agent (420 stars), more popular than his local AI workstation (298 stars), more popular than his multi-agent orchestrator (256 stars).
 

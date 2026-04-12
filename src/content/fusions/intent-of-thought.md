@@ -122,14 +122,14 @@ Six distinct levels exist at which intent operates in reasoning. The first five 
 
   <!-- Footer note -->
   <text x="400" y="472" text-anchor="middle" fill="#5a5145" font-family="system-ui" font-size="11" font-style="italic">← No prior work governs topology selection based on purpose →</text>
-  <text x="400" y="500" text-anchor="middle" fill="#D4A843" font-family="system-ui" font-size="11">IoT fills this gap with three primitives: Purpose, Anti-Purpose, Success Signal</text>
+  <text x="400" y="500" text-anchor="middle" fill="#D4A843" font-family="system-ui" font-size="11">IoT fills this gap with three moments: Purpose, Anti-Purpose, Success Signal</text>
 </svg>
 
 ## The IoT Solution
 
-Intent of Thought (IoT) is a pre-reasoning checkpoint with three primitives:
+Intent of Thought (IoT) is a pre-reasoning checkpoint with three moments:
 
-| Primitive | Question It Answers | Example |
+| Moment | Question It Answers | Example |
 |-----------|---------------------|---------|
 | **Purpose** | *What are we trying to achieve?* | "Map causal relationships between hospital readmission factors" |
 | **Anti-Purpose** | *What would make this reasoning worthless?* | "Treating factors as independent when they interact" |
@@ -137,7 +137,7 @@ Intent of Thought (IoT) is a pre-reasoning checkpoint with three primitives:
 
 Given that specification, the topology becomes a *consequence* of the purpose: interconnected causal factors with feedback loops demand a Graph-of-Thought, not a Chain. A sequential proof demands a Chain, not a Tree. The purpose tells you.
 
-The third primitive, the Anti-Purpose, deserves attention. It is not the negation of the Purpose. It is the specific way reasoning can fail while *appearing* to succeed. "Treating correlated factors as independent" looks like valid reasoning, produces clean output, and is completely wrong. The Anti-Purpose catches exactly this kind of failure.
+The third moment, the Anti-Purpose, deserves attention. It is not the negation of the Purpose. It is the specific way reasoning can fail while *appearing* to succeed. "Treating correlated factors as independent" looks like valid reasoning, produces clean output, and is completely wrong. The Anti-Purpose catches exactly this kind of failure.
 
 ## What This Means
 
@@ -155,4 +155,4 @@ You already pick reasoning structures for your AI systems, whether you are build
 
 What would change if you made that selection explicit, with a stated purpose, a named failure mode, and a clear success signal?
 
-The [Intent of Thought repository](https://github.com/synthanai/intent-of-thought) and the full paper are open for inspection. The gap is real, the three primitives are simple, and the question is whether you are willing to ask "why" before you ask "how."
+The [Intent of Thought repository](https://github.com/synthanai/intent-of-thought) and the full paper are open for inspection. The gap is real, the three moments are simple, and the question is whether you are willing to ask "why" before you ask "how."

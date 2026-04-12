@@ -8,4 +8,4 @@ valence: "mixed"
 origin_nodes: ["sparks:the-signal-i-chased-for-six-months-that-was-noise"]
 ---
 
-*Yet to conceive. This atom is waiting for the right moment to be born.*
+*Yet to conceive. This moment is waiting for the right moment to be born.*

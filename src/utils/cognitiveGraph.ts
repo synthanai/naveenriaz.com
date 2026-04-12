@@ -2,8 +2,8 @@ import { getCollection, type CollectionKey } from 'astro:content';
 
 export type SlugMap = Record<string, string[]>;
 
-export const ATOM_COLLECTIONS: CollectionKey[] = [
-  'fusions', 'knots', 'sparks', 'beads', 'claws', 'wows', 'awes', 'syncs', 'digs', 'spars', 'ashes', 'voids'
+export const MOMENT_COLLECTIONS: CollectionKey[] = [
+  'fusions', 'knots', 'sparks', 'beads', 'claws', 'wows', 'awes', 'syncs', 'digs', 'spars', 'scars', 'voids'
 ];
 
 let _cachedGraph: SlugMap | null = null;
@@ -19,7 +19,7 @@ export async function buildReverseGraph(): Promise<SlugMap> {
   const allNodes: any[] = [];
   
   // 1. Gather all nodes
-  for (const collectionName of ATOM_COLLECTIONS) {
+  for (const collectionName of MOMENT_COLLECTIONS) {
     try {
       const items = await getCollection(collectionName as any);
       if (!items) continue;
@@ -95,7 +95,7 @@ export async function buildReverseGraph(): Promise<SlugMap> {
         const intersection = tagsA.filter(t => tagsB.includes(t));
 
         // If they share 2 or more semantic tags natively, establish an organic resonance connection.
-        // We assume directionality based on atom depth: Spark (Mind) -> Knot (Body)
+        // We assume directionality based on moment depth: Spark (Mind) -> Knot (Body)
         if (intersection.length >= 2) {
            // We route Spark -> Fusion OR Spark -> Knot
            if (nodeA.collection === 'sparks' && (nodeB.collection === 'fusions' || nodeB.collection === 'knots')) {

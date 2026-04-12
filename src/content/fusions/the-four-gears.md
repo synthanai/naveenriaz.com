@@ -4,7 +4,7 @@ display_title: "The Four Gears"
 display_subtitle: "Your AI thinks in one gear. It needs four."
 date: 2026-03-16
 categories: ["pattern"]
-tags: ["cognition", "frameworks", "ai-architecture", "codex", "variations"]
+tags: ["cognition", "frameworks", "ai-architecture", "torus", "variations"]
 description: "Most cognitive frameworks describe what you do. None describe how you think while doing it. Four cognitive gears change everything."
 source_research: "SPAR Deep Ultra: Variations of Cognition (2026-03-07)"
 fusion_type: "public"

@@ -1,8 +1,8 @@
-# LOON — Neural Canvas (naveenriaz.com)
+# LOON - Neural Canvas (naveenriaz.com)
 
 > *Reflecting backward on what this concept has become*
 
-## Entry: 2026-03-18 — The Exhibition Layer Paradox
+## Entry: 2026-03-18 - The Exhibition Layer Paradox
 
 **Trigger**: `/audit-ecosystem --full` revealed Neural Canvas has 18 workflow references, 3 SPAR citations, 10,007 files, 20 published articles, but **zero LOONs**. The most visible concept in the ecosystem had never been reflected upon.
 
@@ -36,15 +36,15 @@ Neural Canvas is **metabolically alive** but **reflectively dormant**. This LOON
 
 *Next LOON: After next 5 articles are published (expected Q2 2026)*
 
-## Entry: 2026-04-09 — The Neural Awakening
+## Entry: 2026-04-09 - The Neural Awakening
 
-**Trigger**: The `index.astro` and primitive routing systems were radically redesigned via SPAR deep debate to formalize the primitive logic.
+**Trigger**: The `index.astro` and moment routing systems were radically redesigned via SPAR deep debate to formalize the moment logic.
 
 ### Thread Check (Did the NOOL hold?)
 | NOOL Layer | Expected (from NOOL) | Actual | Drift |
 |------------|---------------------|--------|-------|
 | **Intent** | Serve as public radiation point translating internal intelligence | Successfully mapped the internal intelligence to the external canvas via Cognitive Routing | Aligned |
-| **Abstraction** | SEQUENCING intelligence into primitives | Implemented perfectly in UI | Aligned |
+| **Abstraction** | SEQUENCING intelligence into moments | Implemented perfectly in UI | Aligned |
 
 ### Chain Audit (Did the HOW work?)
 | Step | NOOL Expected | Actual Status | Lesson |
@@ -52,8 +52,8 @@ Neural Canvas is **metabolically alive** but **reflectively dormant**. This LOON
 | 3 | Build Graphical Logic | Done | Raw native CSS flex-boxes rendered the 4 Canonical Pathways far better than heavy Mermaid scripts. |
 
 ### Unexpected Signals
-- We discovered through a `[/spar]deep` dialectic that the primitives form **Four Canonical Pathways** depending on the entry vector (Crucible, Scholar, Collision, Transmuter).
-- A second `[/spar]deep` discovered the **Master Resonance Loop** (The Ouroboros), proving that a single ultimate signal traces all primitives infinitely. What began as a static layout became a biologic cycle.
+- We discovered through a `[/spar]deep` dialectic that the moments form **Four Canonical Pathways** depending on the entry vector (Crucible, Scholar, Collision, Transmuter).
+- A second `[/spar]deep` discovered the **Master Resonance Loop** (The Ouroboros), proving that a single ultimate signal traces all moments infinitely. What began as a static layout became a biologic cycle.
 
 ### The Knot 🪢
 > [HUMAN: Write one sentence of crystallized learning down below]

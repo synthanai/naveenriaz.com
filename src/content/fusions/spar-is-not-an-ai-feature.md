@@ -55,7 +55,7 @@ Each domain reinvented the same mechanism independently. Structured adversarial 
 
 The AI industry frames multi-agent debate as an AI feature. "Look, our agents argue with each other." This framing limits the concept to a technical capability.
 
-But structured adversarial friction is not an AI feature. It is a governance primitive. It appears in every domain where premature convergence has catastrophic consequences. The fact that AI agents can implement it is a delivery mechanism, not the insight itself.
+But structured adversarial friction is not an AI feature. It is a governance moment. It appears in every domain where premature convergence has catastrophic consequences. The fact that AI agents can implement it is a delivery mechanism, not the insight itself.
 
 ## ⚛️ The Fusion
 
@@ -74,7 +74,7 @@ The universal pattern: every domain that fails catastrophically from premature c
 | "Multi-agent debate" | Mechanism design for adversarial governance |
 | "AI agents argue" | Requisite variety for complex decisions |
 | "Reduce sycophancy" | Prevent premature convergence |
-| "Technical feature" | Governance primitive |
+| "Technical feature" | Governance moment |
 | Domain: AI only | Domain: universal (finance, military, academia, orgs) |
 
 ## The New Pattern
@@ -102,7 +102,7 @@ The question is not whether your decisions need it. The question is whether you 
 *This fusion emerged from a STEAL on SPAR's cross-domain application patterns, mapping SPAR to game theory mechanism design, cybernetics requisite variety, and economic stress testing.*
 
 <!--
-STATEMENT: Every domain has a name for premature convergence: Groupthink (orgs), Sycophancy (AI), Minsky Moments (finance), Local Minima (maths). Every domain independently invented the same fix: structured adversarial friction. SPAR formalises the universal mechanism. It is not an AI feature. It is a governance primitive.
+STATEMENT: Every domain has a name for premature convergence: Groupthink (orgs), Sycophancy (AI), Minsky Moments (finance), Local Minima (maths). Every domain independently invented the same fix: structured adversarial friction. SPAR formalises the universal mechanism. It is not an AI feature. It is a governance moment.
 
 QUESTION: Your board agrees unanimously. Your AI agent confirms every instruction. Your strategy has not been challenged in six months. Is that alignment or is that premature convergence? The Minsky Moment is always more expensive than the friction that would have prevented it.
 

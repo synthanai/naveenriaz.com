@@ -8,4 +8,4 @@ valence: "dark"
 origin_nodes: ["fusions:two-ideas-that-should-have-connected-but-didnt", "sparks:the-signal-i-chased-for-six-months-that-was-noise"]
 ---
 
-*Yet to conceive. This atom is waiting for the right moment to be born.*
+*Yet to conceive. This moment is waiting for the right moment to be born.*
