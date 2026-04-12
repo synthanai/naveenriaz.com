@@ -141,7 +141,7 @@ For AI agents, this is a design lever. Instead of building 47 specialised tools,
 
 For human teams, this is a facilitation lever. Instead of saying "let's brainstorm," you say "let's brainstorm engagingly: bring one idea from a completely different field and let's see where our domains engage." The instruction changes the cognition.
 
-The evidence is already in front of you: the [SPAR protocol](https://naveenriaz.com/collisions/intent-of-thought/) pioneered variation-awareness through its Style axis (adversarial, steelman, consensus). It was the first verb with a cognitive gear selector. The discovery is that *every* verb deserves one.
+The evidence is already in front of you: the [SPAR protocol](/fusions/intent-of-thought) pioneered variation-awareness through its Style axis (adversarial, steelman, consensus). It was the first verb with a cognitive gear selector. The discovery is that *every* verb deserves one.
 
 ## The Question
 

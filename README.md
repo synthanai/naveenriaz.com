@@ -31,11 +31,11 @@ This one organises by **dimension of thought**:
    Think      Work     ← How I Think (Mind) · What I Build (Body)
 ```
 
-**Think** is where frameworks live: [SPAR](https://naveenriaz.com/think/spar/) (structured multi-persona deliberation), [STEAL](https://naveenriaz.com/think/steal/) (intelligence capture), [CODEX](https://naveenriaz.com/think/codex/) (cognitive architecture).
+**Think** is where frameworks live: [SPAR](https://naveenriaz.com/spars) (structured multi-persona deliberation), [STEAL](https://naveenriaz.com/sparks) (intelligence capture), [CODEX](https://naveenriaz.com/think) (cognitive architecture).
 
 **Work** is proof: books, papers, tools, shipped things. Three layers: what I aspire to build (Soul), what my mind is cooking (Mind), what has shipped (Body).
 
-**Play** is the fire underneath: Tamil roots, philosophical detours, origin stories, [CORE identity](https://naveenriaz.com/play/core/) (Calling, Origin, Reason, Endurance).
+**Play** is the fire underneath: Tamil roots, philosophical detours, origin stories, [CORE identity](https://naveenriaz.com/play) (Calling, Origin, Reason, Endurance).
 
 **Vibe** is the invitation: speaking, consulting, coaching. "Every engagement starts the same way: a conversation."
 

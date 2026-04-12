@@ -90,7 +90,7 @@ And if you cannot answer that, are you building a practice, or a countdown?
 
 ---
 
-*This fusion emerged from a [STEAL on @aiedge_'s viral AI skills article](https://x.com/aiedge_/status/2031735799994265818) (12 March 2026, 1.7M views). The research that grounded it lives in [concepts/ai-skills-wealth-gap-2026](/research/concepts/ai-skills-wealth-gap-2026). For a deeper exploration of the value shift from execution to judgment, see the [ADAPT Your Career](/ebooks/adapt-your-career) micro-guide.*
+*This fusion emerged from a [STEAL on @aiedge_'s viral AI skills article](https://x.com/aiedge_/status/2031735799994265818) (12 March 2026, 1.7M views). The research that grounded it lives in concepts/ai-skills-wealth-gap-2026. For a deeper exploration of the value shift from execution to judgment, see the ADAPT Your Career micro-guide.*
 
 <!--
 STATEMENT: 1.7 million people shared a list of 7 AI skills for wealth. Zero citations. Zero evidence. The real skill gap it reveals: tool installers vs. diagnostic physicians. One commoditises in 18 months. The other compounds for years.

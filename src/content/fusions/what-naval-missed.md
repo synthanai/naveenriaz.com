@@ -71,7 +71,7 @@ The missing layer in Naval's framework is the Operating System:
 
 Why? Because ungoverned agents produce at scale but compound errors at scale too. A thousand lines of unreviewed code is not an asset. It is technical debt at machine speed. A hundred articles with no editorial standard is not content marketing. It is noise.
 
-![Naval's leverage framework updated for 2026: Code and Media, once scarce leverage, are now commodities. The new moat is the Operating System that governs the agents producing them.](/images/collisions/what-naval-missed.png)
+> *Note: Naval's leverage framework updated for 2026: Code and Media, once scarce leverage, are now commodities. The new moat is the Operating System that governs the agents producing them.*
 
 ## The New Pattern
 

@@ -80,7 +80,7 @@ And if you cannot, at what point does perfect memory become perfect liability?
 
 ![The Governance Gap: Memory Capability vs Governance Requirements](/images/collisions/governance-gap-ai-memory.png)
 
-*Further reading: [Why organisations need structured disagreement before they need AI memory](https://mnaveenriaz.github.io/spar-is-not-an-ai-feature/)*
+*Further reading: [Why organisations need structured disagreement before they need AI memory](/fusions/spar-is-not-an-ai-feature)*
 
 <!-- SOCIAL HOOKS
 Statement: Google open-sourced an AI memory agent that never forgets. The enterprise reaction was not applause. It was alarm. The question has shifted from "Can it remember?" to "Can it remember safely?"

@@ -104,7 +104,7 @@ Can you install governance, or does it have to emerge?
 
 ---
 
-*This fusion emerged from a [STEAL on @aibytekat's viral CTO thread](https://x.com/aibytekat) (20 March 2026, 1.4M views). The research that grounded it lives in [concepts/cto-boundary-operating-systems](/research/concepts/cto-boundary-operating-systems). For a deeper exploration of governance as organisational health, see the [108 Knots: Organisations](/ebooks/108-knots-organisations) ebook.*
+*This fusion emerged from a [STEAL on @aibytekat's viral CTO thread](https://x.com/aibytekat) (20 March 2026, 1.4M views). The research that grounded it lives in concepts/cto-boundary-operating-systems. For a deeper exploration of governance as organisational health, see the 108 Knots: Organisations ebook.*
 
 <!--
 STATEMENT: 18 productivity rules. 1.4 million views. "Reject meetings without agendas." "Let non-critical bugs burn." "Plan Monday on Friday." The internet saw a productivity thread. Sort them by function and they map to formal decision governance theory. Your CTO already runs a governance protocol. They just call it Notion.

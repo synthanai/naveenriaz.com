@@ -93,7 +93,7 @@ If your framework cannot tell you when to go backwards, how do you know you are 
 
 ---
 
-*This fusion emerged from a STEAL on [ruvnet/sparc](https://github.com/ruvnet/sparc) (GitHub, March 2026). The research that grounded it lives in [frameworks/sparc-framework/research.md](/research/frameworks/sparc-framework).*
+*This fusion emerged from a STEAL on [ruvnet/sparc](https://github.com/ruvnet/sparc) (GitHub, March 2026). The research that grounded it lives in frameworks/sparc-framework/research.md.*
 
 <!--
 STATEMENT: AI coding frameworks are reinventing the waterfall. 5 linear phases, zero feedback loops. The geometry of intelligence is circular, not linear. Your framework shapes how you think. Choose carefully.
