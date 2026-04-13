@@ -5,7 +5,7 @@ resonance: "Preserves authentic alignment. Employees can spot a manufactured 'wh
 kural_number: 271
 born_from_knot: "008"
 date: 2026-03-31
-quote_top: "Commodify your organization's soul, and bankruptcy inevitably follows."
+quote_top: "Commodify your organisation's soul, and bankruptcy inevitably follows."
 quote_bottom: "Authenticity fuels, extraction kills."
 origin_nodes: []
 valence: "mixed"

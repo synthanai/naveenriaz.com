@@ -9,8 +9,10 @@ date: 2026-03-17
 description: "Those who plan with resolve achieve exactly what they envision...."
 punch_line_1: "Those who plan with resolve achieve exactly what they envision."
 punch_line_2: "Pilot purgatory is what happens when planning stops at the proof of concept. The resolve to scale was never part of the plan."
-felt_hook: "The conditions for a pilot are never the conditions for an organization."
-kural_tamil: "செயற்கை அறிந்தக் கடைத்தும் உலகத்து\nஇயற்கை அறிந்து செயல்."
+felt_hook: "The conditions for a pilot are never the conditions for an organisation."
+kural_tamil: |-
+  செயற்கை அறிந்தக் கடைத்தும் உலகத்து
+  இயற்கை அறிந்து செயல்.
 kural_translation: "Those who plan with resolve achieve exactly what they envision."
 kural_number: 637
 kural_bridge: "Pilot purgatory is what happens when planning stops at the proof of concept. The resolve to scale was never part of the plan."
@@ -18,14 +20,32 @@ prev_knot: "organizations/053-initiative-overload"
 prev_knot_title: Initiative Overload
 next_knot: "organizations/055-sponsorship-evaporation"
 next_knot_title: Sponsorship Evaporation
-untie_story: "A CEO shared their own fears about the change in a town hall. The vulnerability unlocked honesty across the organization."
+untie_story: "A CEO shared their own fears about the change in a town hall. The vulnerability unlocked honesty across the organisation."
 untie_implement: "Ask your pilot lead: 'what conditions does this need at scale that we can't guarantee?"
-untie_question: 'What would change in your organization if you untangled \"pilot purgatory\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"pilot purgatory\" this week?'
 quote_top: "Pilot success doesn't predict field survival. Scale requires ecosystem adaptation."
 quote_bottom: "Stop growing the petri dish."
 origin_nodes: ["knots:053-initiative-overload", "knots/organizations/053-initiative-overload", "knots/organizations/055-sponsorship-evaporation"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Three years ago, the pilot worked perfectly.
+  
+  Your proof of concept never scaled beyond it.
+  
+  The gap between pilot and organization: culture.
+  
+  Scaling isn't repetition. It's system-level change.
+  
+  What works small fails large for different reasons.
+  
+  Before scaling, ask: "what conditions made this work?"
+  
+  What would change if you named it?
+  
+  #108KNOTS #UntanglingChange #Knot054
+  
+  💡 Teams that scale what works deliberately #thrive.
 ---
 
 Those who plan with resolve achieve exactly what they envision.
@@ -34,7 +54,7 @@ Your pilot worked perfectly. Twelve users. Controlled environment. Handpicked te
 The results were outstanding. The business case was proven. The ROI was compelling.
 That was two years ago. The pilot is still a pilot.
 Scaling was always 'next quarter.' Next quarter became next year. Next year became 'when the conditions are right.'
-The conditions for a pilot are never the conditions for an organization.
+The conditions for a pilot are never the conditions for an organisation.
 
 Barclays' board mandated an agile transformation in 2014.
 I found the internal resistance mapped in consulting reports.
@@ -49,7 +69,7 @@ It says yes while doing nothing.
 Lab success doesn't predict field survival.
 In biology, organisms cultivated in a petri dish thrive under controlled conditions: stable temperature, curated nutrients, no predators. Transfer them to a real ecosystem and most fail. The conditions that enabled growth in the lab, control, protection, attention, don't exist in the wild.
 Organizational pilots are petri dishes: small, controlled, resourced, and observed. The attention itself is a variable. The Hawthorne effect guarantees that watched pilots outperform unwatched operations.
-Scaling a pilot means moving from the dish to the ecosystem. Most organizations never make that leap. They just keep growing the petri dish.
+Scaling a pilot means moving from the dish to the ecosystem. Most organisations never make that leap. They just keep growing the petri dish.
 
 Ask your pilot lead: 'What conditions does this need to work at scale that we can't guarantee?'
 Every honest answer is a gap between the pilot and reality.
@@ -63,7 +83,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The pilot succeeded because of conditions that couldn't be replicated: handpicked team, dedicated support, executive attention, controlled scope. The success proved the concept. It also proved that success required greenhouse conditions the organization couldn't provide at scale.
+The pilot succeeded because of conditions that couldn't be replicated: handpicked team, dedicated support, executive attention, controlled scope. The success proved the concept. It also proved that success required greenhouse conditions the organisation couldn't provide at scale.
 
 **Navigate**
 
@@ -79,4 +99,4 @@ Ask your pilot lead: what conditions does this need at scale that we can't guara
 
 **Emerge**
 
-When pilots are designed for scale, proof of concept extends to proof of reality, and the organization stops accumulating successful experiments that never leave the lab.
+When pilots are designed for scale, proof of concept extends to proof of reality, and the organisation stops accumulating successful experiments that never leave the lab.

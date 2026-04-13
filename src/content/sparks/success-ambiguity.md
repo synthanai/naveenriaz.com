@@ -6,7 +6,7 @@ source: "Decisions"
 temperature: "🔥🔥"
 tags: [alignment, leadership, spar_dialectic]
 description: "When nobody agrees on what winning looks like, nobody wins."
-quote_top: "Ambiguous success ensures everyone optimizes for their own interpretation."
+quote_top: "Ambiguous success ensures everyone optimises for their own interpretation."
 quote_bottom: "Moving but not converging."
 origin_nodes: []
 valence: "mixed"

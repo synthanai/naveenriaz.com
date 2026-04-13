@@ -10,7 +10,9 @@ description: "When you see what is right, act on it...."
 punch_line_1: "When you see what is right, act on it."
 punch_line_2: "Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act."
 felt_hook: "When a problem appears, three people investigate separately. Or nobody does, because each assumes someone else will handle it."
-kural_tamil: "நாடோறும் நாடுக மன்னன் வினைசெய்வான்\nகோடாமை கோடா துலகு."
+kural_tamil: |-
+  நாடோறும் நாடுக மன்னன் வினைசெய்வான்
+  கோடாமை கோடா துலகு.
 kural_translation: "When you see what is right, act on it. Don't look for another reason."
 kural_number: 520
 kural_bridge: "Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act."
@@ -20,12 +22,30 @@ next_knot: "organizations/077-middle-management-squeeze"
 next_knot_title: Middle Management Squeeze
 untie_story: "A hospital created cross-functional pods for patient care. Outcomes improved because the whole team saw the whole patient."
 untie_implement: "Every role has three documented outputs: 'what it produces, what it decides, and what it escalates."
-untie_question: 'What would change in your organization if you untangled \"role ambiguity\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"role ambiguity\" this week?'
 quote_top: "Role ambiguity cripples teams, transforming flexibility into chaos."
 quote_bottom: "Clarity unlocks productivity."
 origin_nodes: ["knots:075-process-sediment", "knots/organizations/075-process-sediment", "knots/organizations/077-middle-management-squeeze"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The blueprint says clear roles. Nobody agrees.
+  
+  Your team has overlapping, undefined responsibilities.
+  
+  Three people own this outcome. Or none do.
+  
+  Ambiguity isn't flexibility. It's structural neglect.
+  
+  Unclear roles produce duplicated effort and blame.
+  
+  Write one sentence: "this person decides this."
+  
+  That confusion? It's designed. By omission. 📐
+  
+  #108KNOTS #UntanglingStructure #Knot076
+  
+  💡 Teams with clear roles and purpose #thrive.
 ---
 
 When you see what is right, act on it.

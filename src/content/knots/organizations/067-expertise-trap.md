@@ -8,10 +8,12 @@ slug_name: expertise-trap
 date: 2026-03-17
 description: "Numbers and letters are the two eyes of the living...."
 punch_line_1: "Numbers and letters are the two eyes of the living."
-punch_line_2: |
+punch_line_2: |-
   The expertise trap blinds one eye: the specialist sees deeply in one domain and nothing outside it.
 felt_hook: "Expertise became a cage. Depth became a limitation."
-kural_tamil: "எவ்வ துறைவது உலகம் உலகத்தோடு\nஅவ்வ துறைவ தறிவு."
+kural_tamil: |-
+  எவ்வ துறைவது உலகம் உலகத்தோடு
+  அவ்வ துறைவ தறிவு.
 kural_translation: "Numbers and letters are the two eyes of the living."
 kural_number: 426
 kural_bridge: |
@@ -22,12 +24,30 @@ next_knot: "organizations/068-data-worship"
 next_knot_title: Data Worship
 untie_story: "A factory floor worker suggested a process change based on pattern they noticed. It saved $200K annually. Nobody had asked before."
 untie_implement: "Ask one expert: 'what question outside your domain should you be asking that you're not?"
-untie_question: 'What would change in your organization if you untangled \"expertise trap\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"expertise trap\" this week?'
 quote_top: "Expertise became a cage preventing broader understanding."
 quote_bottom: "See beyond your field."
 origin_nodes: ["knots:066-strategic-myopia", "knots/organizations/066-strategic-myopia", "knots/organizations/068-data-worship"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The clue was in the specialist's cage.
+  
+  Your expert can't think beyond their domain.
+  
+  Deep expertise became deep tunnel vision.
+  
+  The trap: excellence in a shrinking context.
+  
+  Expertise without breadth becomes irrelevance. Slowly.
+  
+  Ask your expert to solve an adjacent problem.
+  
+  That depth? It's becoming a prison. 🕵️
+  
+  #108KNOTS #UntanglingIntelligence #Knot067
+  
+  💡 Leaders who stay curious beyond expertise #thrive.
 ---
 
 Numbers and letters are the two eyes of the living.
@@ -61,7 +81,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The trap formed because the organization rewarded depth without breadth. The expert's career path was linear: more depth, more specialization, more isolation from adjacent domains.
+The trap formed because the organisation rewarded depth without breadth. The expert's career path was linear: more depth, more specialization, more isolation from adjacent domains.
 
 **Navigate**
 
@@ -77,4 +97,4 @@ Ask one expert: what question outside your domain should you be asking that you'
 
 **Emerge**
 
-When expertise includes breadth, specialists become strategists, cross-domain innovation increases, and the organization builds T-shaped talent instead of I-shaped silos.
+When expertise includes breadth, specialists become strategists, cross-domain innovation increases, and the organisation builds T-shaped talent instead of I-shaped silos.

@@ -13,23 +13,43 @@ felt_hook: "Does your official founding story match the one tenured employees te
 emotion_target: |
   Shame: the organizational instinct to hide what is imperfect
 never_say: ["we've always been", "our journey", "lessons learned (when the lessons were buried)"]
-kural_tamil: "தன்குற்றம் நீக்கிப் பிறர்குற்றங் காண்கிற்பின்\nஎன்குற்ற மாகும் இறைக்கு?"
+kural_tamil: |-
+  தன்குற்றம் நீக்கிப் பிறர்குற்றங் காண்கிற்பின்
+  என்குற்ற மாகும் இறைக்கு?
 kural_translation: "Remove your own faults before seeking others'; that is the mark of a true leader."
 kural_number: 436
-kural_bridge: "Before an organization can move forward, it must face the faults it buried."
+kural_bridge: "Before an organisation can move forward, it must face the faults it buried."
 prev_knot: "organizations/005-mission-drift"
 prev_knot_title: Mission Drift
 next_knot: "organizations/007-split-personality"
 next_knot_title: Split Personality
 untie_story: 'A nonprofit board member asked \"why do donors love us?\" and discovered the reason was different from what leadership assumed.'
-untie_question: 'What would change in your organization if you untangled \"legacy denial\" this week?'
-quote_top: "Denying past failures poisons your organization's future."
+untie_question: 'What would change in your organisation if you untangled \"legacy denial\" this week?'
+quote_top: "Denying past failures poisons your organisation's future."
 quote_bottom: "Confront scars, unlock growth."
 origin_nodes: ["knots:005-mission-drift", "knots/organizations/005-mission-drift", "knots/organizations/007-split-personality"]
 valence: mixed
 status: published
 approved_at: "2026-03-27T03:44:34.682Z"
 published_at: "2026-03-28T13:00:07.605Z"
+linkedin_post: |-
+  Your history has lessons. You're ignoring them.
+  
+  Past failures contain your best intelligence.
+  
+  Denial isn't forgetting. It's active erasure.
+  
+  What you refuse to remember, you repeat.
+  
+  Legacy is data, not just sentiment.
+  
+  Name one past failure never discussed.
+  
+  What if today was different?
+  
+  #108KNOTS #UntanglingIdentity #Knot006
+  
+  💡 Teams that face their legacy honestly #thrive.
 ---
 
 Remove your own faults first.
@@ -55,7 +75,7 @@ Organizational legacy denial is the same. The company still flinches from a woun
 The failed merger shapes every partnership negotiation. The toxic CEO who left in 2018 still determines who's allowed to challenge authority.
 The limb is gone. The wiring hasn't updated.
 
-Find the oldest scar in your organization's history that nobody discusses.
+Find the oldest scar in your organisation's history that nobody discusses.
 Bring it up in your next leadership meeting. Not to assign blame.
 Just ask: "What did we learn from this that we're still not applying?"
 The resistance you feel is proportional to the lesson's value.
@@ -68,11 +88,11 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The organization rewrites its history to remove uncomfortable truths. The difficult founding years, the failed product, the layoffs, the leadership crisis: all erased or reframed as "strategic pivots." This is not dishonesty. It is shame. The organization has no healthy relationship with its own past. Without owning where it has been, it cannot authentically say where it is going.
+The organisation rewrites its history to remove uncomfortable truths. The difficult founding years, the failed product, the layoffs, the leadership crisis: all erased or reframed as "strategic pivots." This is not dishonesty. It is shame. The organisation has no healthy relationship with its own past. Without owning where it has been, it cannot authentically say where it is going.
 
 **Navigate**
 
-The organization can tell its full story, including the hard chapters, without flinching. The past is a teacher, not a threat. New hires learn the real history, not the sanitized version.
+The organisation can tell its full story, including the hard chapters, without flinching. The past is a teacher, not a threat. New hires learn the real history, not the sanitized version.
 
 **Tool**
 
@@ -84,4 +104,4 @@ Ask a tenured employee to tell you the "real founding story," the one that is no
 
 **Emerge**
 
-When legacy is owned, the organization gains credibility. Employees trust leadership more because honesty about the past signals honesty about the present. New initiatives carry more weight because they are not built on a fiction.
+When legacy is owned, the organisation gains credibility. Employees trust leadership more because honesty about the past signals honesty about the present. New initiatives carry more weight because they are not built on a fiction.

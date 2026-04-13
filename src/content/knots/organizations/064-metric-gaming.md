@@ -8,10 +8,12 @@ slug_name: metric-gaming
 date: 2026-03-17
 description: "One who speaks truth from the heart surpasses those who practice austerity and c..."
 punch_line_1: "One who speaks truth from the heart surpasses those who practice austerity and charity."
-punch_line_2: |
+punch_line_2: |-
   Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart.
-felt_hook: "Your organization optimized for the metric and lost sight of the thing the metric was supposed to measure."
-kural_tamil: "தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து\nவேட்டுவன் புள்சிமிழ்த் தற்று."
+felt_hook: "Your organisation optimised for the metric and lost sight of the thing the metric was supposed to measure."
+kural_tamil: |-
+  தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து
+  வேட்டுவன் புள்சிமிழ்த் தற்று.
 kural_translation: "One who speaks truth from the heart surpasses even those who practice austerity and charity."
 kural_number: 274
 kural_bridge: |
@@ -21,13 +23,31 @@ prev_knot_title: Groupthink
 next_knot: "organizations/065-innovation-theater"
 next_knot_title: Innovation Theater
 untie_story: 'A startup built a \"knowledge graph\" of who knows what. Finding expertise dropped from days to minutes.'
-untie_question: 'What would change in your organization if you untangled \"metric gaming\" this week?'
-quote_top: |
+untie_question: 'What would change in your organisation if you untangled \"metric gaming\" this week?'
+quote_top: |-
   Metrics lie, dashboards green: You're optimizing the wrong thing.
 quote_bottom: "Failure by the numbers."
 origin_nodes: ["knots:063-groupthink", "knots/organizations/063-groupthink", "knots/organizations/065-innovation-theater"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  All KPIs are green. Customers leaving.
+  
+  Your dashboard says success. Feels wrong.
+  
+  People optimize what you measure. Exactly.
+  
+  You measured the wrong thing. They delivered.
+  
+  The game design creates the gaming.
+  
+  Ask: "what are we NOT measuring?"
+  
+  That dashboard? It's fiction. Beautiful fiction. 🕵️
+  
+  #108KNOTS #UntanglingIntelligence #Knot064
+  
+  💡 Organizations that measure what matters #thrive.
 ---
 
 One who speaks truth from the heart surpasses those who practice austerity and charity.
@@ -35,7 +55,7 @@ Valluvar ranks honesty above ritual. Truth from the heart, not truth from the sp
 All your KPIs are green. Every target is met. Every dashboard shows progress.
 Customers are leaving. Employees are disengaged. The product is deteriorating.
 The numbers are technically accurate. The story they tell is fiction.
-Your organization optimized for the metric and lost sight of the thing the metric was supposed to measure.
+Your organisation optimised for the metric and lost sight of the thing the metric was supposed to measure.
 
 Target's 2013 data breach exposed 40 million customer credit card numbers.
 I found the metric gaming buried in the incident report.
@@ -45,10 +65,10 @@ When the attackers exfiltrated 11 GB of card data, the security system was funct
 By its own metrics.
 
 When a measure becomes a target, it ceases to be a good measure.
-In economics, Goodhart's Law states that any metric used for control will be optimized at the expense of the thing it was designed to measure. The metric gets gamed. The underlying reality gets ignored.
-Organizational metric gaming follows this law perfectly: teams learn what's measured, then optimize for the measurement. Lines of code shipped. Tickets closed. Features delivered. Calls answered.
+In economics, Goodhart's Law states that any metric used for control will be optimised at the expense of the thing it was designed to measure. The metric gets gamed. The underlying reality gets ignored.
+Organizational metric gaming follows this law perfectly: teams learn what's measured, then optimise for the measurement. Lines of code shipped. Tickets closed. Features delivered. Calls answered.
 Each metric is hit. Each underlying reality, code quality, customer satisfaction, product value, call resolution, deteriorates.
-The dashboard is green. The organization is bleeding.
+The dashboard is green. The organisation is bleeding.
 
 Look at your top three KPIs.
 Now ask: is it possible to hit every target and still fail the customer?
@@ -62,7 +82,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Gaming started when the metric became the target. The team learned what was measured, optimized for the measurement, and lost sight of what the metric was supposed to represent.
+Gaming started when the metric became the target. The team learned what was measured, optimised for the measurement, and lost sight of what the metric was supposed to represent.
 
 **Navigate**
 
@@ -78,4 +98,4 @@ Look at your top three KPIs. Ask: is it possible to hit every target and still f
 
 **Emerge**
 
-When metrics measure outcomes instead of activity, gaming becomes obvious, real performance is visible, and the organization optimizes for value instead of vanity.
+When metrics measure outcomes instead of activity, gaming becomes obvious, real performance is visible, and the organisation optimises for value instead of vanity.

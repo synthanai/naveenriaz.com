@@ -7,12 +7,18 @@ series_number: 7
 slug_name: sponsorship-evaporation
 date: 2026-03-17
 description: "The great fear small company. The small surround themselves with it...."
-quote_top: "The initiative did not lose its business case.\nIt lost its bodyguard."
-quote_bottom: "Sponsorship evaporates when executive attention\nshifts to new priorities."
+quote_top: |-
+  The initiative did not lose its business case.
+  It lost its bodyguard.
+quote_bottom: |-
+  Sponsorship evaporates when executive attention
+  shifts to new priorities.
 punch_line_1: "The great fear small company. The small surround themselves with it."
 punch_line_2: "Sponsorship evaporates when the great (leaders) surround themselves with new priorities and the change initiative is left with small company."
 felt_hook: "The initiative didn't lose its business case. It lost its bodyguard."
-kural_tamil: "தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்\nசெற்றார் செயக்கிடந்த தில்."
+kural_tamil: |-
+  தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்
+  செற்றார் செயக்கிடந்த தில்.
 kural_translation: "The great fear small company; the small surround themselves with it."
 kural_number: 446
 kural_bridge: "Sponsorship evaporates when the great (leaders) surround themselves with new priorities and the change initiative is left with small company."
@@ -22,10 +28,28 @@ next_knot: "organizations/056-organizational-antibodies"
 next_knot_title: Organizational Antibodies
 untie_story: "A school redesigned schedules with teacher input at every stage. The change stuck because teachers owned it completely."
 untie_implement: "If you are sponsoring a change, put one thing on your calendar: 'monthly 15-minute conversation wi..."
-untie_question: 'What would change in your organization if you untangled \"sponsorship evaporation\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"sponsorship evaporation\" this week?'
 origin_nodes: ["knots:054-pilot-purgatory", "knots/organizations/054-pilot-purgatory", "knots/organizations/056-organizational-antibodies"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Three years ago, executives led the change.
+  
+  Your leaders championed it. Then moved on.
+  
+  Sponsorship evaporated around the quarterly review.
+  
+  Abandoned sponsorship signals abandonment to everyone else.
+  
+  Change without persistent sponsorship is an orphan.
+  
+  Reconnect one sponsor to one initiative today.
+  
+  That orphan? It dies without a parent. ⏳
+  
+  #108KNOTS #UntanglingChange #Knot055
+  
+  💡 Leaders who stay with their changes #thrive.
 ---
 
 The great fear small company. The small surround themselves with it.
@@ -77,4 +101,4 @@ If you are sponsoring a change, put one thing on your calendar: monthly 15-minut
 
 **Emerge**
 
-When sponsorship is rhythmic instead of episodic, initiatives maintain visibility, resources stay allocated, and the organization stops killing initiatives through neglect.
+When sponsorship is rhythmic instead of episodic, initiatives maintain visibility, resources stay allocated, and the organisation stops killing initiatives through neglect.

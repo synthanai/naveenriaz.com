@@ -4,8 +4,13 @@ date: 2026-03-30
 signal: "Your values look beautiful on the wall. Now watch the Monday meeting and see which ones actually survive contact with reality."
 source: "Identity"
 temperature: "🔥🔥🔥"
-quote_top: "When values are on the wall\nbut nobody actually lives them,\nthe wall becomes wallpaper."
-quote_bottom: "Culture is not what you declare.\nIt is what you tolerate."
+quote_top: |-
+  When values are on the wall
+  but nobody actually lives them,
+  the wall becomes wallpaper.
+quote_bottom: |-
+  Culture is not what you declare.
+  It is what you tolerate.
 tags: [living_organizations, personal_sovereignty, values]
 description: "Framed values that nobody lives are just decoration."
 origin_nodes: []

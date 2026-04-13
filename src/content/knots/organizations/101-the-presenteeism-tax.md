@@ -10,8 +10,10 @@ description: "In a world that values substance, empty presence holds no place...
 punch_line_1: "In a world that values substance, empty presence holds no place."
 punch_line_2: "Presenteeism counts bodies, not contribution. Eight people are present. Three are productive. The tax is five."
 felt_hook: |
-  Presenteeism taxes the organization in invisible ways: unproductive hours, unnecessary meetings, performative activity, and the energy drain of being present without purpose.
-kural_tamil: "சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச்\nசார்தரா சார்தரு நோய்."
+  Presenteeism taxes the organisation in invisible ways: unproductive hours, unnecessary meetings, performative activity, and the energy drain of being present without purpose.
+kural_tamil: |-
+  சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச்
+  சார்தரா சார்தரு நோய்.
 kural_translation: "In a world that values substance, empty presence holds no place."
 kural_number: 359
 kural_bridge: "Presenteeism counts bodies, not contribution. Eight people are present. Three are productive. The tax is five."
@@ -20,19 +22,37 @@ prev_knot_title: Reward Misalignment
 next_knot: "organizations/102-turnover-spiral"
 next_knot_title: Turnover Spiral
 untie_story: "A startup founder started sharing their own mental health journey publicly. Three team members sought help they had been avoiding."
-untie_question: 'What would change in your organization if you untangled \"the presenteeism tax\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"the presenteeism tax\" this week?'
 quote_top: "Empty presence holds no place; stop taxing teams for existing."
 quote_bottom: "Measure output, not hours."
 origin_nodes: ["knots:100-reward-misalignment", "sparks:the-presenteeism-tax", "knots/organizations/100-reward-misalignment", "knots/organizations/102-turnover-spiral", "sparks/the-presenteeism-tax"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Symptoms: eight bodies present. Three productive.
+  
+  Your organization counts bodies, not contribution.
+  
+  Present but vacant. Employed but disengaged.
+  
+  Showing up sick is rational when visibility matters.
+  
+  Presence doesn't equal production. Ever. Anywhere.
+  
+  Stop measuring where people sit. Measure output.
+  
+  That attendance? It's a performance. Not work. 🩺
+  
+  #108KNOTS #UntanglingEnergy #Knot101
+  
+  💡 Cultures that measure output, not attendance #thrive.
 ---
 
 In a world that values substance, empty presence holds no place.
 Valluvar rejects form without substance.
 Eight bodies present. Three productive.
-Your organization counts presence as contribution. The person at their desk at 7am is 'committed.' The person who leaves at 4pm after producing twice the output is 'not a team player.'
-Presenteeism taxes the organization in invisible ways: unproductive hours, unnecessary meetings, performative activity, and the energy drain of being present without purpose.
+Your organisation counts presence as contribution. The person at their desk at 7am is 'committed.' The person who leaves at 4pm after producing twice the output is 'not a team player.'
+Presenteeism taxes the organisation in invisible ways: unproductive hours, unnecessary meetings, performative activity, and the energy drain of being present without purpose.
 
 SoftBank Corp's domestic telecom operations in Japan reflect the broader karoshi culture that has killed workers across the country.
 I found the research documenting a system where physical presence equals commitment.
@@ -44,7 +64,7 @@ The tax is invisible on every balance sheet and visible on every face.
 Counting investment instead of return is the definition of sunk cost fallacy.
 In economics, the sunk cost fallacy leads decision-makers to continue investing in a losing proposition because they've already invested so much. The investment is visible. The return is irrelevant.
 Presenteeism is the organizational sunk cost fallacy: the investment (hours at desk) is visible. The return (output, quality, impact) is uncounted.
-The organization sees eight bodies and counts eight contributors. The actual contribution could be three. The five unproductive presences are the tax.
+The organisation sees eight bodies and counts eight contributors. The actual contribution could be three. The five unproductive presences are the tax.
 
 Measure output for one week instead of hours.
 Track what was produced, not when people arrived.
@@ -74,4 +94,4 @@ Measure output instead of hours for one week. If the same output happens in six 
 
 **Emerge**
 
-When output is measured, presenteeism disappears, the team self-organizes around energy peaks, and the organization stops paying for presence.
+When output is measured, presenteeism disappears, the team self-organises around energy peaks, and the organisation stops paying for presence.

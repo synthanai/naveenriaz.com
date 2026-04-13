@@ -10,7 +10,9 @@ description: "Deliberate before you act. To deliberate after acting is folly....
 punch_line_1: "Deliberate before you act. To deliberate after acting is folly."
 punch_line_2: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
 felt_hook: "It was also irrelevant by the time it finished."
-kural_tamil: "சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு\nதாழ்ச்சியுள் தங்குதல் தீது."
+kural_tamil: |-
+  சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு
+  தாழ்ச்சியுள் தங்குதல் தீது.
 kural_translation: "Deliberate before you act; to deliberate after acting is folly."
 kural_number: 671
 kural_bridge: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
@@ -20,13 +22,31 @@ next_knot: "organizations/038-decision-laundering"
 next_knot_title: Decision Laundering
 untie_story: 'A team classified every pending decision as \"one-way door\" or \"two-way door.\" Two-thirds resolved within 48 hours.'
 untie_implement: "Ask: 'if forced to decide today with what you know, what would you choose?"
-untie_question: 'What would change in your organization if you untangled \"analysis paralysis\" this week?'
-quote_top: |
+untie_question: 'What would change in your organisation if you untangled \"analysis paralysis\" this week?'
+quote_top: |-
   Analysis paralysis: when deliberation becomes the only action.
 quote_bottom: "Delay is organizational death."
 origin_nodes: ["knots:036-trust-bankruptcy", "knots/organizations/036-trust-bankruptcy", "knots/organizations/038-decision-laundering"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The decision missed its window. Again.
+  
+  Your team analyzed for fourteen months.
+  
+  More data felt responsible. It wasn't.
+  
+  Delay was the decision nobody made.
+  
+  Perfect information never arrives. Decide anyway.
+  
+  Set a deadline. Honor it. Decide.
+  
+  That stall? It has a cost. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot037
+  
+  💡 Teams that decide, not analyze forever #thrive.
 ---
 
 In 2004, an internal memo circulated through Nokia's Espoo headquarters. An engineering team had identified the smartphone threat. They proposed a touchscreen device. They had working prototypes.
@@ -49,7 +69,7 @@ In medicine, they call this diagnostic inertia: the tendency to continue orderin
 
 Organizational analysis paralysis works identically. Each additional report, each new data request, each extra stakeholder review feels like progress. It is actually avoidance wearing the uniform of rigour.
 
-Thiruvalluvar drew a clean line twenty centuries ago: deliberate before you act, to deliberate after acting is folly. Nokia deliberated before, during, and after, until deliberation itself became the only action the organization was capable of taking.
+Thiruvalluvar drew a clean line twenty centuries ago: deliberate before you act, to deliberate after acting is folly. Nokia deliberated before, during, and after, until deliberation itself became the only action the organisation was capable of taking.
 
 Ask yourself: if forced to decide today with what you know, what would you choose?
 
@@ -62,7 +82,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The analysis never ended because ending it meant committing. The organization rewarded thoroughness over judgment. More data felt responsible. It wasn't. It was the most expensive form of procrastination available.
+The analysis never ended because ending it meant committing. The organisation rewarded thoroughness over judgment. More data felt responsible. It wasn't. It was the most expensive form of procrastination available.
 
 **Navigate**
 
@@ -78,4 +98,4 @@ Ask: if forced to decide today with what you know, what would you choose? If you
 
 **Emerge**
 
-When analysis serves decisions instead of replacing them, speed becomes a competitive advantage, teams regain momentum, and the organization starts shipping insights instead of hoarding them.
+When analysis serves decisions instead of replacing them, speed becomes a competitive advantage, teams regain momentum, and the organisation starts shipping insights instead of hoarding them.

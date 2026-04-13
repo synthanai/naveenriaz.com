@@ -4,8 +4,13 @@ date: 2026-03-30
 signal: "You solved the retention problem. Then the knowledge-sharing problem appeared. They were the same problem."
 source: "SYNTHAI"
 temperature: "🔥🔥🔥"
-quote_top: "Organisational problems are\nnot independent whiteboard items.\nThey are threads in a loom."
-quote_bottom: "Pull one and three others move.\nTrace the thread backwards."
+quote_top: |-
+  Organisational problems are
+  not independent whiteboard items.
+  They are threads in a loom.
+quote_bottom: |-
+  Pull one and three others move.
+  Trace the thread backwards.
 tags: [cognitive_architecture, patterns, synthetic_intelligence]
 description: "Organisational problems are not independent. They are threads in a loom."
 origin_nodes: []

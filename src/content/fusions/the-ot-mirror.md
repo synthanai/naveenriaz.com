@@ -18,7 +18,7 @@ fusion_point:
     - "SYNTHAI MBS: Soul, Mind, Body as the architecture of living organisations"
     - "PEO model (1996): Person-Environment-Occupation transaction as the mechanism of adaptive performance"
     - "Wilcock's Doing-Being-Becoming-Belonging as the dimensions of occupational health"
-quote_top: "Occupational therapy mirrors the architecture of living organizations."
+quote_top: "Occupational therapy mirrors the architecture of living organisations."
 quote_bottom: "Profound, unsettling precision."
 origin_nodes: []
 valence: "mixed"

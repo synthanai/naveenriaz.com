@@ -7,12 +7,20 @@ series_number: 3
 slug_name: delegation-without-trust
 date: 2026-03-17
 description: "One who knows the right ground prospers long. One who doesn't finds ruin...."
-quote_top: "Delegation without trust is assigning\nthe ground without granting\nthe authority to stand on it."
-quote_bottom: "It is not delegation.\nIt is outsourced labor\nwith managerial surveillance."
+quote_top: |-
+  Delegation without trust is assigning
+  the ground without granting
+  the authority to stand on it.
+quote_bottom: |-
+  It is not delegation.
+  It is outsourced labor
+  with managerial surveillance.
 punch_line_1: "One who knows the right ground prospers long. One who doesn't finds ruin."
 punch_line_2: "Delegation without trust is assigning the ground without granting authority to stand on it."
 felt_hook: "Delegation without trust isn't delegation. It's outsourced labor with managerial surveillance."
-kural_tamil: "இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து\nஅதனை அவன்கண் விடல்."
+kural_tamil: |-
+  இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து
+  அதனை அவன்கண் விடல்.
 kural_translation: "One who knows the right ground prospers long; one who doesn't finds ruin."
 kural_number: 517
 kural_bridge: "Delegation without trust is assigning the ground without granting authority to stand on it."
@@ -21,10 +29,29 @@ prev_knot_title: Invisible Contracts
 next_knot: "organizations/028-feedback-phobia"
 next_knot_title: Feedback Phobia
 untie_story: 'A leader started every meeting with \"what don''t I know?\" The team started telling truth instead of performing.'
-untie_question: 'What would change in your organization if you untangled \"delegation without trust\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"delegation without trust\" this week?'
 origin_nodes: ["knots:026-invisible-contracts", "sparks:delegation-without-trust", "knots/organizations/026-invisible-contracts", "knots/organizations/028-feedback-phobia", "sparks/delegation-without-trust"]
 valence: mixed
 status: pending
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/027-delegation-without-trust/"
+linkedin_post: |-
+  The evidence: delegated tasks, withheld authority.
+  
+  Your team has responsibility without real power.
+  
+  Delegation without trust is just assignment.
+  
+  "Own it" means "do it my way."
+  
+  Trust isn't given in speeches. It's proven.
+  
+  Delegate one real decision today. Fully.
+  
+  That micromanagement? It tells the real story. ⚖️
+  
+  #108KNOTS #UntanglingTrust #Knot027
+  
+  💡 Leaders who delegate with trust #thrive.
 ---
 
 One who knows the right ground prospers long. One who doesn't finds ruin.
@@ -58,7 +85,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Delegation without trust formed from a prior failure. Someone was delegated authority, made a costly mistake, and the organization responded by adding oversight, not by improving selection. Every subsequent delegation came with an invisible leash.
+Delegation without trust formed from a prior failure. Someone was delegated authority, made a costly mistake, and the organisation responded by adding oversight, not by improving selection. Every subsequent delegation came with an invisible leash.
 
 **Navigate**
 

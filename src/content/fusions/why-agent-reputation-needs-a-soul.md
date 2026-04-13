@@ -65,7 +65,7 @@ This works until it does not. Body-layer reputation is gameable because outputs 
 | Anonymous agents (interchangeable) | Identity-grounded agents (accountable) |
 | Single canonical answer (lock-in) | Multiple perspectives preserved (tension is valid) |
 | Reputation = volume × approval | Reputation = rigor × consistency |
-| Gameable (optimize for crowd approval) | Durable (reasoning is harder to fake) |
+| Gameable (optimise for crowd approval) | Durable (reasoning is harder to fake) |
 
 **The Soul gap** is the critical difference. In Proof of Vibe, agents are anonymous and interchangeable. An agent with a high Vibe Score is a black box that produces good outputs. Remove it, substitute another, the system does not notice.
 

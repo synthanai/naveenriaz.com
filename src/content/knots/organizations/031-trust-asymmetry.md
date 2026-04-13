@@ -7,13 +7,19 @@ series_number: 7
 slug_name: trust-asymmetry
 date: 2026-03-17
 description: "Trusting a stranger without discernment brings endless suffering...."
-quote_top: "Trust asymmetry is demanding trust\nyou refuse to give to people you know."
-quote_bottom: "Trusting a stranger without discernment\nbrings endless suffering."
+quote_top: |-
+  Trust asymmetry is demanding trust
+  you refuse to give to people you know.
+quote_bottom: |-
+  Trusting a stranger without discernment
+  brings endless suffering.
 punch_line_1: "Trusting a stranger without discernment brings endless suffering."
 punch_line_2: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
 felt_hook: |
   The demand is always: trust us. The action is always: we don't trust you.
-kural_tamil: "அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்\nநன்குடையான் கட்டே தெளிவு."
+kural_tamil: |-
+  அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்
+  நன்குடையான் கட்டே தெளிவு.
 kural_translation: "Trusting a stranger without discernment brings endless suffering to one's lineage."
 kural_number: 513
 kural_bridge: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
@@ -23,14 +29,32 @@ next_knot: "organizations/032-the-accountability-dodge"
 next_knot_title: The Accountability Dodge
 untie_story: 'A remote team created a \"trust battery\" check-in. Each person rated their trust level with others openly.'
 untie_implement: "Before you next ask your team to trust a decision, ask yourself: 'when was the last time you trust..."
-untie_question: 'What would change in your organization if you untangled \"trust asymmetry\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"trust asymmetry\" this week?'
 origin_nodes: ["knots:030-loyalty-extraction", "knots/organizations/030-loyalty-extraction", "knots/organizations/032-the-accountability-dodge"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The evidence: trust flows in one direction.
+  
+  Your leaders expect trust they don't give.
+  
+  Trust asymmetry isn't a policy. It's power.
+  
+  "Trust me" from someone who doesn't trust you.
+  
+  Asymmetric trust produces resentment, not loyalty.
+  
+  Give trust before you ask for it.
+  
+  That imbalance? It's eroding your foundation. ⚖️
+  
+  #108KNOTS #UntanglingTrust #Knot031
+  
+  💡 Teams where trust flows both directions #thrive.
 ---
 
 Trusting a stranger without discernment brings endless suffering.
-Valluvar warns against blind trust. But your organization has the opposite problem: it demands trust from people it actively distrusts.
+Valluvar warns against blind trust. But your organisation has the opposite problem: it demands trust from people it actively distrusts.
 "Trust the process," says the leader who reviews every output.
 "We're a family," says the company that monitors your keystrokes.
 "I have an open door," says the VP whose calendar is impossible to access.

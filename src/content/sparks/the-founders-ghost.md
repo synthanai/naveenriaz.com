@@ -3,7 +3,7 @@ title: "The Founder's Ghost"
 date: 2026-03-30
 signal: "We do it this way because that is how the founder set it up. But the founder left in 2008."
 source: "Identity"
-temperature: "🔥"
+temperature: "🔥🔥"
 tags: [leadership, legacy, personal_sovereignty]
 description: "There is a difference between honouring a legacy and being trapped by one."
 quote_top: "Legacy honors intent, not rigid adherence to outdated forms."

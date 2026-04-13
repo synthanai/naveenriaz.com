@@ -8,10 +8,12 @@ slug_name: collective-blindness
 date: 2026-03-17
 description: "Those who foresee what is coming are never shaken...."
 punch_line_1: "Those who foresee what is coming are never shaken."
-punch_line_2: |
+punch_line_2: |-
   Collective blindness is the organizational scotoma: the signal everyone can see but nobody processes.
-felt_hook: "The organization had eyes. It didn't have sight."
-kural_tamil: "காணாதான் காட்டுவான் தான்காணான் காணாதான்\nகண்டானாம் தான்கண்ட வாறு."
+felt_hook: "The organisation had eyes. It didn't have sight."
+kural_tamil: |-
+  காணாதான் காட்டுவான் தான்காணான் காணாதான்
+  கண்டானாம் தான்கண்ட வாறு.
 kural_translation: "Those who foresee what is coming are never shaken by what arrives."
 kural_number: 849
 kural_bridge: |
@@ -21,19 +23,37 @@ prev_knot_title: Consultant Dependency
 next_knot: "organizations/062-learning-disability"
 next_knot_title: Learning Disability
 untie_story: "A team replaced their monthly report with a weekly 5-minute standup. Decision quality improved because information was fresher."
-untie_question: 'What would change in your organization if you untangled \"collective blindness\" this week?'
-quote_top: "Organizations have eyes but collective blindness creates unseen gaps."
+untie_question: 'What would change in your organisation if you untangled \"collective blindness\" this week?'
+quote_top: "Organisations have eyes but collective blindness creates unseen gaps."
 quote_bottom: "See the scotoma."
 origin_nodes: ["knots:060-consultant-dependency", "knots/organizations/060-consultant-dependency", "knots/organizations/062-learning-disability"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The clue was in the feedback survey.
+  
+  Your organization collects data it never reads.
+  
+  Knowledge exists. Nobody connects the dots.
+  
+  Collective knowledge exceeds individual awareness. Always.
+  
+  Distributed intelligence without synthesis equals ignorance.
+  
+  Read the last survey. Act on one thing.
+  
+  That untapped intelligence? It's already speaking. 🕵️
+  
+  #108KNOTS #UntanglingIntelligence #Knot061
+  
+  💡 Organizations that see clearly together #thrive.
 ---
 
 Those who foresee what is coming are never shaken.
-Valluvar values anticipation. But your organization collects signals it never processes.
+Valluvar values anticipation. But your organisation collects signals it never processes.
 The customer feedback survey said it three quarters ago. The exit interviews repeated it. The Glassdoor reviews confirmed it.
 Nobody was surprised when the crisis hit. Because the data had been available for months.
-The organization had eyes. It didn't have sight.
+The organisation had eyes. It didn't have sight.
 
 Swissair was called 'the flying bank' because it was considered the safest investment in aviation.
 I mapped its 'hunter strategy' through the research.
@@ -48,9 +68,9 @@ The problem was that nobody held all 12 rationales in their head simultaneously 
 A scotoma hides in plain sight.
 In ophthalmology, a scotoma is a blind spot in the visual field. The eye is functional. The retina receives light. But the brain doesn't process a specific region. The patient doesn't see darkness; they see nothing at all in that spot. The blindness is invisible to itself.
 Organizational collective blindness works identically: the data enters the system. Reports are generated. Dashboards are updated. But the meaning in a specific area isn't processed.
-The organization doesn't see a gap. It sees a complete picture that happens to be missing the most important part.
+The organisation doesn't see a gap. It sees a complete picture that happens to be missing the most important part.
 
-Pull up the last three surprises your organization experienced.
+Pull up the last three surprises your organisation experienced.
 Now search for whether the signal existed before the surprise.
 Emails, surveys, reports, conversations.
 If the signal was there and nobody acted on it, you don't have an intelligence problem.
@@ -63,7 +83,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The organization collected signals through surveys, reports, and feedback channels but had no mechanism to synthesize them into actionable patterns. Data entered the system. Meaning did not.
+The organisation collected signals through surveys, reports, and feedback channels but had no mechanism to synthesize them into actionable patterns. Data entered the system. Meaning did not.
 
 **Navigate**
 
@@ -71,12 +91,12 @@ A quarterly signal review aggregates feedback from all channels and identifies r
 
 **Tool**
 
-CORE / Identity: the diagnostic that asks what signals the organization is ignoring about itself. Identity surfaces the scotoma by making the blind spot the subject of inquiry.
+CORE / Identity: the diagnostic that asks what signals the organisation is ignoring about itself. Identity surfaces the scotoma by making the blind spot the subject of inquiry.
 
 **Implement**
 
-Pull up the last three surprises your organization experienced. Search for whether the signal existed before the surprise. If it did, you don't have an intelligence problem. You have a scotoma.
+Pull up the last three surprises your organisation experienced. Search for whether the signal existed before the surprise. If it did, you don't have an intelligence problem. You have a scotoma.
 
 **Emerge**
 
-When signals are synthesized into patterns, surprises become rare, early warnings become actionable, and the organization develops peripheral vision.
+When signals are synthesized into patterns, surprises become rare, early warnings become actionable, and the organisation develops peripheral vision.

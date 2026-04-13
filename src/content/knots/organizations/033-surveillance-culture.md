@@ -7,13 +7,19 @@ series_number: 9
 slug_name: surveillance-culture
 date: 2026-03-17
 description: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes...."
-quote_top: "The monitoring saw every keystroke.\nIt did not see the talent leaving."
-quote_bottom: "Surveillance sees everything except\nwhat it destroys."
+quote_top: |-
+  The monitoring saw every keystroke.
+  It did not see the talent leaving.
+quote_bottom: |-
+  Surveillance sees everything except
+  what it destroys.
 punch_line_1: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
-punch_line_2: |
+punch_line_2: |-
   Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks.
 felt_hook: "The monitoring saw every keystroke. It didn't see the talent leaving."
-kural_tamil: "கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்\nகளைகட் டதனொடு நேர்."
+kural_tamil: |-
+  கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்
+  களைகட் டதனொடு நேர்.
 kural_translation: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
 kural_number: 550
 kural_bridge: |
@@ -23,15 +29,33 @@ prev_knot_title: The Accountability Dodge
 next_knot: "organizations/034-gossip-economy"
 next_knot_title: Gossip Economy
 untie_story: "A school principal apologized publicly for a policy mistake. Students said it was the first time an adult modeled accountability."
-untie_question: 'What would change in your organization if you untangled \"surveillance culture\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"surveillance culture\" this week?'
 origin_nodes: ["knots:032-the-accountability-dodge", "knots/organizations/032-the-accountability-dodge", "knots/organizations/034-gossip-economy"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The evidence: monitoring everywhere. Trust nowhere.
+  
+  Your tools track everything your team does.
+  
+  Surveillance signals distrust louder than words.
+  
+  Tracking replaces trust. Compliance replaces commitment.
+  
+  Watched people perform. They don't contribute.
+  
+  Remove one monitoring tool. Observe what happens.
+  
+  That watching? It's the opposite of trust. ⚖️
+  
+  #108KNOTS #UntanglingTrust #Knot033
+  
+  💡 Organizations that trust instead of surveil #thrive.
 ---
 
 A cruel ruler's realm will collapse under miseries unseen even by his own eyes.
 Valluvar's paradox: the tyrant watches everything, yet misses the destruction he causes.
-Your organization installed monitoring software last year. Screenshots every five minutes. Keystroke logging. Application usage tracking. "Productivity analytics," they called it.
+Your organisation installed monitoring software last year. Screenshots every five minutes. Keystroke logging. Application usage tracking. "Productivity analytics," they called it.
 Productivity went up 12%. The numbers were beautiful.
 Four of your best engineers left within six months. The exit interviews said "career growth." The real reason was shorter: "I'm not a prisoner."
 The monitoring saw every keystroke. It didn't see the talent leaving.
@@ -64,7 +88,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Surveillance was introduced as a solution to a trust deficit. Instead of rebuilding trust, the organization automated distrust. The tools measured activity, not output. People optimized for what was measured: visible busyness, not invisible value.
+Surveillance was introduced as a solution to a trust deficit. Instead of rebuilding trust, the organisation automated distrust. The tools measured activity, not output. People optimised for what was measured: visible busyness, not invisible value.
 
 **Navigate**
 
@@ -80,4 +104,4 @@ Remove one monitoring tool this week. Measure what happens to output, not activi
 
 **Emerge**
 
-When surveillance drops, initiative returns, creative risk-taking resumes, and the organization starts measuring what matters instead of what's easy to count.
+When surveillance drops, initiative returns, creative risk-taking resumes, and the organisation starts measuring what matters instead of what's easy to count.

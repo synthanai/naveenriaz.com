@@ -10,7 +10,9 @@ description: "Some appear bright as the crab's-eye seed outside, but inside they
 punch_line_1: "Some appear bright as the crab's-eye seed outside, but inside they are black as its core."
 punch_line_2: "Declared values are the bright exterior. The budget is the dark core that reveals the truth."
 felt_hook: "The values and the budget are telling two different stories. Only one of them is true."
-kural_tamil: "புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி\nமுக்கிற் கரியார் உடைத்து."
+kural_tamil: |-
+  புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி
+  முக்கிற் கரியார் உடைத்து.
 kural_translation: "Some appear bright as the crab's-eye seed outside, but inside they are black as its core."
 kural_number: 277
 kural_bridge: "Declared values are the bright exterior. The budget is the dark core that reveals the truth."
@@ -19,7 +21,7 @@ prev_knot_title: Fear Culture
 next_knot: "organizations/021-meeting-toxicity"
 next_knot_title: Meeting Toxicity
 untie_story: 'A factory introduced \"mistake of the month\" celebrations. Error reporting went up 400%. Error rates went down 60%.'
-untie_question: 'What would change in your organization if you untangled \"values inversion\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"values inversion\" this week?'
 quote_top: "Real values are funded behaviors, not wall posters."
 quote_bottom: "Budget speaks louder than words."
 origin_nodes: ["knots:019-fear-culture", "knots/organizations/019-fear-culture", "knots/organizations/021-meeting-toxicity"]
@@ -27,11 +29,29 @@ valence: mixed
 status: published
 approved_at: "2026-04-11T11:05:45.521Z"
 published_at: "2026-04-11T12:10:00.302Z"
+linkedin_post: |-
+  A visitor would notice the contradictions.
+  
+  Your values say "people first." Budget disagrees.
+  
+  What you reward contradicts what you declare.
+  
+  The real values are in the budget.
+  
+  Declared values without funded values: fiction.
+  
+  Compare your values poster to budget allocations.
+  
+  That inversion? It's louder than words. 🔬
+  
+  #108KNOTS #UntanglingCulture #Knot020
+  
+  💡 Cultures where values match behavior #thrive.
 ---
 
 Some appear bright as the crab's-eye seed outside, but inside they are black as its core.
 Valluvar's image is precise: a seed that's red on the surface and black at the center. Beautiful contradiction. Invisible dishonesty.
-Your organization's values poster says "people first."
+Your organisation's values poster says "people first."
 Your Q3 budget cut training, froze hiring, and reduced the wellness benefit. But the C-suite retreat in Bali? That survived every round of cuts.
 The values and the budget are telling two different stories. Only one of them is true.
 

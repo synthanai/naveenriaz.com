@@ -10,7 +10,9 @@ description: "Wisdom is discerning the truth in whatever is said, by whomever it
 punch_line_1: "Wisdom is discerning the truth in whatever is said, by whomever it's said."
 punch_line_2: "When safety is performed, the truth behind every word is hidden, not heard."
 felt_hook: "Everyone is speaking. Nobody is saying anything true."
-kural_tamil: "வாய்மை எனப்படுவது யாதெனின் யாதொன்றும்\nதீமை இலாத சொலல்."
+kural_tamil: |-
+  வாய்மை எனப்படுவது யாதெனின் யாதொன்றும்
+  தீமை இலாத சொலல்.
 kural_translation: "Wisdom is discerning the truth in whatever is said, by whomever it's said."
 kural_number: 291
 kural_bridge: "When safety is performed, the truth behind every word is hidden, not heard."
@@ -19,8 +21,8 @@ prev_knot_title: The Hollow Core
 next_knot: "organizations/014-integrity-theater"
 next_knot_title: Integrity Theater
 untie_story: 'A company banned \"that''s how we do it\" for one month. Seventeen process improvements emerged from the constraint.'
-untie_question: 'What would change in your organization if you untangled \"performative safety\" this week?'
-quote_top: |
+untie_question: 'What would change in your organisation if you untangled \"performative safety\" this week?'
+quote_top: |-
   Performative safety: the performance continues even after the audience sees backstage.
 quote_bottom: "The immune system attacks itself."
 origin_nodes: ["knots:012-the-hollow-core", "knots/organizations/012-the-hollow-core", "knots/organizations/014-integrity-theater"]
@@ -28,6 +30,24 @@ valence: mixed
 status: published
 approved_at: "2026-04-04T10:54:09.525Z"
 published_at: "2026-04-04T10:54:30.592Z"
+linkedin_post: |-
+  A visitor would notice the careful smiles.
+  
+  Your team performs safety. Constantly. Exhaustingly.
+  
+  Everyone says "it's fine." It's not.
+  
+  Real safety sounds messy. Yours sounds rehearsed.
+  
+  Performed safety blocks actual honesty. Always.
+  
+  Ask: "what can't be said here?"
+  
+  That politeness? It's protection, not trust. 🔬
+  
+  #108KNOTS #UntanglingCulture #Knot013
+  
+  💡 Cultures built on honesty, not performance #thrive.
 ---
 
 Wisdom is discerning the truth in whatever is said, by whomever it's said.

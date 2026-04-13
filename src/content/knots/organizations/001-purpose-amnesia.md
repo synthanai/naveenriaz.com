@@ -6,14 +6,16 @@ series: identity
 series_number: 1
 slug_name: purpose-amnesia
 date: 2026-03-17
-description: "Can your newest hire tell a stranger what your organization stands for, without reading a document?"
+description: "Can your newest hire tell a stranger what your organisation stands for, without reading a document?"
 punch_line_1: "The mission didn't die."
 punch_line_2: "It is starving while you are busy."
-felt_hook: "Can your newest hire tell a stranger what your organization stands for, without reading a document?"
+felt_hook: "Can your newest hire tell a stranger what your organisation stands for, without reading a document?"
 emotion_target: |
   Hollowness: the specific emptiness of working somewhere that can't explain why it exists
 never_say: ["realign with purpose", "revisit our mission", "purpose workshop"]
-kural_tamil: "அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை\nமறத்தலின் ஊங்கில்லை கேடு."
+kural_tamil: |-
+  அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை
+  மறத்தலின் ஊங்கில்லை கேடு.
 kural_translation: "No greater gain than virtue; no greater ruin than forgetting it."
 kural_number: 32
 kural_bridge: "Purpose forgotten is virtue abandoned."
@@ -21,7 +23,7 @@ next_knot: "organizations/002-identity-mimicry"
 next_knot_title: Identity Mimicry
 untie_story: "A startup founder revisited their original pitch deck after three years of drift. Reading it aloud to the team brought tears. They remembered."
 untie_implement: "ask: 'Why does this team exist?' Write down the exact words."
-untie_question: 'What would change in your organization if you untangled \"purpose amnesia\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"purpose amnesia\" this week?'
 quote_top: "Purpose attenuates when it's not amplified."
 quote_bottom: "Re-amplify your reason."
 origin_nodes: ["sparks:purpose-amnesia", "knots/organizations/002-identity-mimicry", "sparks/purpose-amnesia"]
@@ -29,6 +31,24 @@ valence: mixed
 status: published
 approved_at: "2026-03-23T09:01:36.676Z"
 published_at: "2026-03-23T12:17:38.977Z"
+linkedin_post: |-
+  Why did you join this company?
+  
+  Ask your team that same question.
+  
+  Most organizations start with clear purpose.
+  
+  The purpose didn't die. It starved.
+  
+  Purpose needs feeding, not just framing.
+  
+  Ask one person today: "why here?"
+  
+  That silence? It has a name.
+  
+  #108KNOTS #UntanglingIdentity #Knot001 #NaveenRiaz
+  
+  💡 Organizations that remember who they are #thrive.
 ---
 
 I hired a woman last March. Brilliant. Two Masters degrees. She came from a competitor.
@@ -62,11 +82,11 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The purpose was never distributed. It lived in the founder's head, maybe in a passionate all-hands speech from 2016. When that person left, went quiet, or got busy, the signal disappeared. This is not a caring failure. It is a transmission failure. The organization never built a mechanism to pass the "why" from one person to many.
+The purpose was never distributed. It lived in the founder's head, maybe in a passionate all-hands speech from 2016. When that person left, went quiet, or got busy, the signal disappeared. This is not a caring failure. It is a transmission failure. The organisation never built a mechanism to pass the "why" from one person to many.
 
 **Navigate**
 
-Every person on the team can explain why the organization exists without checking a document. The purpose lives in conversation, not on a slide.
+Every person on the team can explain why the organisation exists without checking a document. The purpose lives in conversation, not on a slide.
 
 **Tool**
 

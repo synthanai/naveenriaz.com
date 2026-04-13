@@ -7,12 +7,19 @@ series_number: 2
 slug_name: transformation-theater
 date: 2026-03-17
 description: "One who acts without understanding the means will find themselves as lost as one..."
-quote_top: "The transformation exists on PowerPoint.\nIt does not exist in practice."
-quote_bottom: "Transformation theater produces\nunderstanding without means\nand activity without change."
+quote_top: |-
+  The transformation exists on PowerPoint.
+  It does not exist in practice.
+quote_bottom: |-
+  Transformation theater produces
+  understanding without means
+  and activity without change.
 punch_line_1: "One who acts without understanding the means will find themselves as lost as one who understands but never acts."
 punch_line_2: "Transformation theater produces understanding without means and activity without change."
 felt_hook: "The transformation exists on PowerPoint. It doesn't exist in practice."
-kural_tamil: "ஆகாறு அளவிட்டி தாயினுங் கேடில்லை\nபோகாறு அகலாக் கடை."
+kural_tamil: |-
+  ஆகாறு அளவிட்டி தாயினுங் கேடில்லை
+  போகாறு அகலாக் கடை.
 kural_translation: "One who acts without understanding the means will find themselves as lost as one who understands but never acts."
 kural_number: 478
 kural_bridge: "Transformation theater produces understanding without means and activity without change."
@@ -21,15 +28,33 @@ prev_knot_title: Change Fatigue
 next_knot: "organizations/051-resistance-misdiagnosis"
 next_knot_title: Resistance Misdiagnosis
 untie_story: 'A hospital named their change \"Operation Sunrise\" and celebrated small wins weekly. Eighteen months later, the culture had transformed.'
-untie_question: 'What would change in your organization if you untangled \"transformation theater\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"transformation theater\" this week?'
 origin_nodes: ["knots:049-change-fatigue", "knots/organizations/049-change-fatigue", "knots/organizations/051-resistance-misdiagnosis"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Three years ago, you planned this transformation.
+  
+  Your roadmap still says "Phase 1: Assessment."
+  
+  The plan was beautiful. Execution: abandoned.
+  
+  Transformation theater substitutes announcements for action.
+  
+  If the plan hasn't moved, it's decoration.
+  
+  Kill one stalled initiative today. Publicly.
+  
+  Start somewhere.
+  
+  #108KNOTS #UntanglingChange #Knot050
+  
+  💡 Organizations that change for real #thrive.
 ---
 
 One who acts without understanding the means will find themselves as lost as one who understands but never acts.
 Valluvar describes two failure modes: action without understanding, and understanding without action. Transformation theater occupies both.
-Three years ago, your organization planned this transformation. The roadmap was detailed. The consulting firm was prestigious. The executive sponsor was visible.
+Three years ago, your organisation planned this transformation. The roadmap was detailed. The consulting firm was prestigious. The executive sponsor was visible.
 The roadmap still says 'Phase 1: Assessment.'
 The plan was beautiful. Execution was abandoned somewhere between the stakeholder mapping and the first budget review.
 The transformation exists on PowerPoint. It doesn't exist in practice.

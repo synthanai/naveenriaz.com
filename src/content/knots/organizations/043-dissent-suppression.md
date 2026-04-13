@@ -7,13 +7,19 @@ series_number: 7
 slug_name: dissent-suppression
 date: 2026-03-17
 description: "Speak words that have purpose. Never speak words without purpose...."
-quote_top: "The brightest idea was killed by silence.\nNot by argument. Not by data."
-quote_bottom: "Suppressed ideas do not disappear.\nThey go underground."
+quote_top: |-
+  The brightest idea was killed by silence.
+  Not by argument. Not by data.
+quote_bottom: |-
+  Suppressed ideas do not disappear.
+  They go underground.
 punch_line_1: "Speak words that have purpose. Never speak words without purpose."
-punch_line_2: |
+punch_line_2: |-
   Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room.
 felt_hook: "They calculated the cost of speaking up, weighed it against the cost of staying quiet, and chose survival."
-kural_tamil: "சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க\nசொல்லிற் பயனிலாச் சொல்."
+kural_tamil: |-
+  சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க
+  சொல்லிற் பயனிலாச் சொல்.
 kural_translation: "Speak words that have purpose; never speak words that serve none."
 kural_number: 200
 kural_bridge: |
@@ -23,14 +29,32 @@ prev_knot_title: Decision Amnesia
 next_knot: "organizations/044-decision-fragmentation"
 next_knot_title: Decision Fragmentation
 untie_story: "A CEO made their decision-making criteria public. People stopped guessing what leadership valued and started aligning."
-untie_question: 'What would change in your organization if you untangled \"dissent suppression\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"dissent suppression\" this week?'
 origin_nodes: ["knots:042-decision-amnesia", "knots/organizations/042-decision-amnesia", "knots/organizations/044-decision-fragmentation"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The brightest idea was killed by silence.
+  
+  Your team self-censors before speaking up.
+  
+  Dissent feels dangerous. So it disappears.
+  
+  Suppressed ideas resurface as "I told you so."
+  
+  Innovation requires protected disagreement. Period.
+  
+  Say: "what's the unpopular view here?"
+  
+  That missing voice? It had the answer. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot043
+  
+  💡 Cultures where disagreement is safe #thrive.
 ---
 
 Speak words that have purpose. Never speak words without purpose.
-Valluvar values purposeful speech. But dissent suppression inverts his rule: in your organization, the purposeful words are silenced, and the purposeless ones fill the room.
+Valluvar values purposeful speech. But dissent suppression inverts his rule: in your organisation, the purposeful words are silenced, and the purposeless ones fill the room.
 The brightest idea in your last meeting was killed by silence. Not by argument. Not by data. By the absence of permission to disagree.
 Someone saw the flaw. Someone had the alternative. Someone knew the direction was wrong.
 They calculated the cost of speaking up, weighed it against the cost of staying quiet, and chose survival.
@@ -42,7 +66,7 @@ What I found interesting in the research was the absence of data.
 Hastings made the Qwikster decision on intuition, believing customers would embrace the separation.
 He ignored internal data showing that millions of subscribers used both services.
 The reversal proved the data had been right all along.
-Sometimes the confession of an organization is the speed of its U-turn.
+Sometimes the confession of an organisation is the speed of its U-turn.
 
 Suppressed ideas don't disappear. They go underground.
 In genetics, gene silencing is an epigenetic mechanism that deactivates genes without deleting them. The gene still exists in the DNA. It's still there. It's been tagged for suppression. Under certain conditions, it can reactivate.

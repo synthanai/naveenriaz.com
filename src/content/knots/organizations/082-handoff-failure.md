@@ -10,7 +10,9 @@ description: "Poverty among the wise hurts less than wealth among the ignorant..
 punch_line_1: "Poverty among the wise hurts less than wealth among the ignorant."
 punch_line_2: "Handoff failure transfers the baton from a capable team to the gap between teams, where expertise goes to zero."
 felt_hook: "Each team is competent. The space between them is competence-free."
-kural_tamil: "தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால்\nஒத்தாங்கு ஒறுப்பது வேந்து."
+kural_tamil: |-
+  தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால்
+  ஒத்தாங்கு ஒறுப்பது வேந்து.
 kural_translation: "Poverty in the hands of the wise hurts less than wealth in the hands of the ignorant."
 kural_number: 561
 kural_bridge: "Handoff failure transfers the baton from a capable team to the gap between teams, where expertise goes to zero."
@@ -20,12 +22,30 @@ next_knot: "organizations/083-scaling-pains"
 next_knot_title: Scaling Pains
 untie_story: "A retail chain gave store managers authority to make local decisions up to $5K. Response time to customer issues dropped 80%."
 untie_implement: "Every handoff has a documented protocol: 'what information transfers, in what format, and who conf..."
-untie_question: 'What would change in your organization if you untangled \"handoff failure\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"handoff failure\" this week?'
 quote_top: "Customers experience the seams, not the teams themselves."
 quote_bottom: "Fix the baton drops."
 origin_nodes: ["knots:081-over-centralization", "knots/organizations/081-over-centralization", "knots/organizations/083-scaling-pains"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The blueprint says teams communicate. Handoffs say otherwise.
+  
+  Your customers experience the seams between teams.
+  
+  Where teams hand off, quality drops.
+  
+  Handoff failure isn't carelessness. It's design absence.
+  
+  The seam between teams is your weakest point.
+  
+  Map your three worst customer handoff points.
+  
+  Name it. Then own it. 📐
+  
+  #108KNOTS #UntanglingStructure #Knot082
+  
+  💡 Organizations that design seamless handoffs #thrive.
 ---
 
 Poverty among the wise hurts less than wealth among the ignorant.
@@ -72,4 +92,4 @@ Map one customer journey. Mark every handoff point. Ask: what information is los
 
 **Emerge**
 
-When handoffs are designed, customers experience seamlessness, context compounds across teams, and the organization stops losing intelligence at every boundary.
+When handoffs are designed, customers experience seamlessness, context compounds across teams, and the organisation stops losing intelligence at every boundary.

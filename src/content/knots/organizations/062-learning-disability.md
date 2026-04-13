@@ -8,24 +8,44 @@ slug_name: learning-disability
 date: 2026-03-17
 description: "The learned stand tall. The unlearned remain low...."
 punch_line_1: "The learned stand tall. The unlearned remain low."
-punch_line_2: "Organizations with learning disabilities repeat their mistakes not from ignorance but from an inability to convert experience into knowledge."
+punch_line_2: "Organisations with learning disabilities repeat their mistakes not from ignorance but from an inability to convert experience into knowledge."
 felt_hook: "They were captured and buried. Nobody read them. The learning never became practice."
-kural_tamil: "உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்\nகடையரே கல்லா தவர்."
+kural_tamil: |-
+  உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்
+  கடையரே கல்லா தவர்.
 kural_translation: "Even in humble circumstance, the learned stand tall; the unlearned remain low in any condition."
 kural_number: 395
-kural_bridge: "Organizations with learning disabilities repeat their mistakes not from ignorance but from an inability to convert experience into knowledge."
+kural_bridge: "Organisations with learning disabilities repeat their mistakes not from ignorance but from an inability to convert experience into knowledge."
 prev_knot: "organizations/061-collective-blindness"
 prev_knot_title: Collective Blindness
 next_knot: "organizations/063-groupthink"
 next_knot_title: Groupthink
 untie_story: 'A company created a \"lessons learned\" wiki editable by anyone. In six months it became the most-visited internal page.'
-untie_question: 'What would change in your organization if you untangled \"learning disability\" this week?'
-quote_top: |
-  Learning disability: organizations absorb information, cannot change behavior
+untie_question: 'What would change in your organisation if you untangled \"learning disability\" this week?'
+quote_top: |-
+  Learning disability: organisations absorb information, cannot change behavior
 quote_bottom: "Mistakes erode, deepen grooves"
 origin_nodes: ["knots:061-collective-blindness", "knots/organizations/061-collective-blindness", "knots/organizations/063-groupthink"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The clue was in the same mistakes.
+  
+  Your team repeats errors from two years ago.
+  
+  Lessons learned were documented. Then filed. Forgotten.
+  
+  Filing isn't learning. Behavior change is.
+  
+  The lesson was captured but never applied.
+  
+  After every project: "what changes because of this?"
+  
+  One thread. 🕵
+  
+  #108KNOTS #UntanglingIntelligence #Knot062
+  
+  💡 Teams that learn from failure #thrive.
 ---
 
 The learned stand tall. The unlearned remain low.
@@ -42,7 +62,7 @@ In 2019: Epstein-linked accounts that should never have been opened.
 After each scandal, Deutsche Bank commissioned an external review, appointed new compliance officers, and published new policies.
 The policies layered on top of, not instead of, the culture that caused the failure.
 By 2023, Deutsche Bank had paid $18 billion in fines across 20 years.
-Learning disability means the organization can absorb information but cannot change behavior.
+Learning disability means the organisation can absorb information but cannot change behavior.
 
 Learning disability is geological.
 In geology, erosion follows the path of least resistance. A river cuts a channel. The next flood follows the same channel. Each cycle deepens the groove until the landscape is permanently shaped by the original path.
@@ -79,4 +99,4 @@ After your next post-mortem, assign one recommendation to one person with a dead
 
 **Emerge**
 
-When lessons are connected to decisions, the same mistake stops recurring, institutional knowledge compounds, and the organization evolves through experience instead of repeating it.
+When lessons are connected to decisions, the same mistake stops recurring, institutional knowledge compounds, and the organisation evolves through experience instead of repeating it.

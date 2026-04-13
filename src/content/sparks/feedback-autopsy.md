@@ -4,8 +4,13 @@ date: 2026-03-30
 signal: "A developer ships flawed code in April. December's review mentions 'attention to detail.' The developer cannot remember what happened."
 source: "Culture"
 temperature: "🔥🔥🔥"
-quote_top: "Annual reviews are comfortable\nfor the reviewer, but\nthey are useless for the reviewed."
-quote_bottom: "Feedback delayed is\nfeedback denied."
+quote_top: |-
+  Annual reviews are comfortable
+  for the reviewer, but
+  they are useless for the reviewed.
+quote_bottom: |-
+  Feedback delayed is
+  feedback denied.
 tags: [feedback, living_organizations]
 description: "Feedback delayed is feedback denied."
 origin_nodes: []

@@ -8,11 +8,13 @@ slug_name: learning-doing-imbalance
 date: 2026-03-17
 description: "Learn thoroughly. Then live by that learning...."
 punch_line_1: "Learn thoroughly. Then live by that learning."
-punch_line_2: |
+punch_line_2: |-
   Learning-doing imbalance breaks both halves: the team ships without learning, or learns without shipping. Neither alone produces growth.
 felt_hook: |
   Both imbalances produce the same result: no growth.
-kural_tamil: "கற்க கசடறக் கற்பவை கற்றபின்\nநிற்க அதற்குத் தக."
+kural_tamil: |-
+  கற்க கசடறக் கற்பவை கற்றபின்
+  நிற்க அதற்குத் தக.
 kural_translation: "Learn thoroughly. Then live by that learning."
 kural_number: 391
 kural_bridge: |
@@ -25,12 +27,30 @@ untie_story: "A tech company open-sourced their internal training materials. Ext
 untie_implement: "After every sprint, protect 30 minutes for: 'what did this sprint teach us?"
 # DUPLICATE_KEY_REMOVED: untie_implement: "Every sprint includes a protected learning review: 'one question answered, one pattern identified,..."
 # DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
-untie_question: 'What would change in your organization if you untangled \"learning doing imbalance\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"learning doing imbalance\" this week?'
 quote_top: "Learning needs doing. Doing needs learning. Both create growth."
 quote_bottom: "Balance the cycle."
 origin_nodes: ["knots:092-outsourcing-identity", "knots/organizations/092-outsourcing-identity", "knots/organizations/094-onboarding-failure"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Your team shipped 47 features last quarter.
+  
+  They repeated three mistakes from last quarter.
+  
+  Shipping is visible. Repeating is invisible.
+  
+  Action without reflection is expensive repetition.
+  
+  Reflection isn't slacking. Not reflecting is costlier.
+  
+  Schedule one reflection session as a deliverable.
+  
+  That hamster wheel? It's spinning. Going nowhere. 🏋️
+  
+  #108KNOTS #UntanglingCapability #Knot093
+  
+  💡 Teams that balance learning and doing #thrive.
 ---
 
 Learn thoroughly. Then live by that learning.
@@ -81,4 +101,4 @@ After every sprint, protect 30 minutes for: what did this sprint teach us? If no
 
 **Emerge**
 
-When learning and doing are balanced, quality improves, mistakes stop recurring, and the organization builds capability alongside output.
+When learning and doing are balanced, quality improves, mistakes stop recurring, and the organisation builds capability alongside output.

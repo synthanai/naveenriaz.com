@@ -8,10 +8,12 @@ slug_name: decision-whiplash
 date: 2026-03-17
 description: "Perseverance and mature wisdom together extend a legacy...."
 punch_line_1: "Perseverance and mature wisdom together extend a legacy."
-punch_line_2: |
+punch_line_2: |-
   Decision whiplash destroys perseverance: when direction reverses without explanation, the team stops building because nothing stays built.
 felt_hook: "So they've stopped committing. Why invest deeply in a direction that might change by Friday?"
-kural_tamil: "ஆபயன் குன்றும் அறுதொழிலோர் நூல்மறப்பர்\nகாவலன் காவான் எனின்."
+kural_tamil: |-
+  ஆபயன் குன்றும் அறுதொழிலோர் நூல்மறப்பர்
+  காவலன் காவான் எனின்.
 kural_translation: "Perseverance and mature wisdom together extend a dynasty's legacy."
 kural_number: 560
 kural_bridge: |
@@ -23,12 +25,30 @@ next_knot_title: Change Fatigue
 untie_story: 'A leadership team did a \"decision autopsy\" monthly. They learned more from reviewing decisions than from making new ones.'
 untie_implement: "Next time you reverse a decision, say three things: 'what was decided before, why it's changing, a..."
 # DUPLICATE_KEY_REMOVED: untie_implement: "When a decision is reversed, three things are stated: 'what was decided before, why it's changing,..."
-untie_question: 'What would change in your organization if you untangled \"decision whiplash\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"decision whiplash\" this week?'
 quote_top: "Inconsistent leadership creates whiplash, killing team commitment and trust."
 quote_bottom: "Leaders, acknowledge your mistakes."
 origin_nodes: ["knots:047-information-overload", "knots/organizations/047-information-overload", "knots/organizations/049-change-fatigue"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The decision was made. And unmade. Twice.
+  
+  Your organization reverses decisions without acknowledging it.
+  
+  Reversals without rationale destroy team confidence.
+  
+  The reversal isn't the problem. Silence is.
+  
+  Explain WHY the decision changed. Every time.
+  
+  Next reversal: explain in one sentence.
+  
+  That whiplash? It's eroding everyone's trust. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot048
+  
+  💡 Organizations with steady, trusted direction #thrive.
 ---
 
 Perseverance and mature wisdom together extend a legacy.
@@ -82,4 +102,4 @@ Next time you reverse a decision, say three things: what was decided before, why
 
 **Emerge**
 
-When reversals are acknowledged, trust survives the change, teams invest fully in the new direction, and the organization builds a culture of honest adaptation instead of silent pivoting.
+When reversals are acknowledged, trust survives the change, teams invest fully in the new direction, and the organisation builds a culture of honest adaptation instead of silent pivoting.

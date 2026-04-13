@@ -10,7 +10,9 @@ description: "Greatness is concealing others' flaws. Smallness is concealing one
 punch_line_1: "Greatness is concealing others' flaws. Smallness is concealing one's own."
 punch_line_2: "Transparency weaponized to expose rather than protect is smallness wearing a noble mask."
 felt_hook: "The same transparency that was supposed to build trust now builds anxiety. Every action is visible. Every failure is public. Every learning moment is also a judgment moment."
-kural_tamil: "நட்டார்போல் நல்லவை சொல்லினும் ஒட்டார்சொல்\nஒல்லை உணரப் படும்."
+kural_tamil: |-
+  நட்டார்போல் நல்லவை சொல்லினும் ஒட்டார்சொல்
+  ஒல்லை உணரப் படும்.
 kural_translation: "Greatness is concealing others' flaws; smallness is concealing one's own."
 kural_number: 826
 kural_bridge: "Transparency weaponized to expose rather than protect is smallness wearing a noble mask."
@@ -21,7 +23,7 @@ next_knot_title: Siloed Synergy
 untie_story: 'A remote team instituted \"virtual coffee\" where random pairs met weekly. Loneliness scores dropped by half measurably.'
 untie_implement: "Ask three people on your team: 'Does our transparency policy make you braver or more careful?' If..."
 # DUPLICATE_KEY_REMOVED: untie_implement: "Transparency is practiced with discretion: 'information is shared to build trust, not to expose."
-untie_question: 'What would change in your organization if you untangled \"transparency paradox\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"transparency paradox\" this week?'
 quote_top: Transparency can destroy trust by amplifying every small mistake
 quote_bottom: Visibility is not always trust
 origin_nodes: ["knots:016-harmony-addiction", "knots/organizations/016-harmony-addiction", "knots/organizations/018-siloed-synergy"]
@@ -29,11 +31,29 @@ valence: mixed
 status: published
 approved_at: "2026-04-05T09:31:44.401Z"
 published_at: "2026-04-08T06:19:38.043Z"
+linkedin_post: |-
+  A visitor would notice the glass walls.
+  
+  Your organization shares everything. Trusts nothing.
+  
+  Total visibility creates total performance anxiety.
+  
+  Transparency without safety is surveillance with branding.
+  
+  More information doesn't mean more trust.
+  
+  Ask: "does transparency make people safer?"
+  
+  That openness? It's a one-way mirror. 🔬
+  
+  ## RAPS REVIEW
+  
+  💡 Cultures where transparency is practiced #thrive.
 ---
 
 Greatness is concealing others' flaws. Smallness is concealing one's own.
 Valluvar draws a devastating line between two kinds of hiding.
-Your organization built a transparency culture. Open calendars. Open Slack channels. Open performance reviews. Open everything.
+Your organisation built a transparency culture. Open calendars. Open Slack channels. Open performance reviews. Open everything.
 It tells investors it has "nothing to hide."
 But watch what happens when someone makes a mistake in that fishbowl.
 The same transparency that was supposed to build trust now builds anxiety. Every action is visible. Every failure is public. Every learning moment is also a judgment moment.

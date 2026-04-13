@@ -9,8 +9,10 @@ date: 2026-03-17
 description: "Excess effort loses gains. The losses from overstretch exceed what was sought...."
 punch_line_1: "Excess effort loses gains. The losses from overstretch exceed what was sought."
 punch_line_2: "Urgency addiction overloads the system until the losses from constant urgency exceed any gains from speed."
-felt_hook: "The organization isn't productive. It's reactive. And it's addicted to the reaction."
-kural_tamil: "கலங்காது கண்ட வினைக்கண் துளங்காது\nதூக்கங் கடிந்து செயல்."
+felt_hook: "The organisation isn't productive. It's reactive. And it's addicted to the reaction."
+kural_tamil: |-
+  கலங்காது கண்ட வினைக்கண் துளங்காது
+  தூக்கங் கடிந்து செயல்.
 kural_translation: "Excess effort loses gains; the losses from overstretch exceed what was originally sought."
 kural_number: 668
 kural_bridge: "Urgency addiction overloads the system until the losses from constant urgency exceed any gains from speed."
@@ -20,12 +22,30 @@ next_knot: "organizations/105-resource-hoarding"
 next_knot_title: Resource Hoarding
 untie_story: 'A nonprofit scheduled quarterly \"rest sprints\" where the team worked at 60% capacity. Long-term output increased over the year.'
 untie_implement: "Every incoming request is triaged: 'urgent-important, urgent-unimportant, not-urgent-important, no..."
-untie_question: 'What would change in your organization if you untangled \"urgency addiction\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"urgency addiction\" this week?'
 quote_top: "Overstretch exceeds what was sought, creating manufactured urgency."
 quote_bottom: "Urgency is friction."
 origin_nodes: ["knots:103-energy-vampires", "knots/organizations/103-energy-vampires", "knots/organizations/105-resource-hoarding"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Symptoms: everything urgent. Nothing important. Always.
+  
+  Your team runs on adrenaline, not strategy.
+  
+  Firefighting feels heroic. Prevention feels invisible.
+  
+  Urgency is addictive. Importance is boring.
+  
+  When everything is urgent, nothing matters.
+  
+  Protect 20% of time for important work.
+  
+  That rush? It's faking productivity. Dangerously. 🩺
+  
+  #108KNOTS #UntanglingEnergy #Knot104
+  
+  💡 Organizations that protect important work #thrive.
 ---
 
 Excess effort loses gains. The losses from overstretch exceed what was sought.
@@ -33,7 +53,7 @@ Valluvar warns against the diminishing returns of overextension.
 Everything is urgent. Nothing is important. Always.
 Your team runs on adrenaline, not strategy. Every email is flagged. Every message is 'ASAP.' Every task is a fire.
 When everything is urgent, nothing is. The word loses meaning. The system loses the ability to distinguish between genuine emergencies and manufactured ones.
-The organization isn't productive. It's reactive. And it's addicted to the reaction.
+The organisation isn't productive. It's reactive. And it's addicted to the reaction.
 
 Ricardo Semler inherited Semco from his father and immediately began dismantling the urgency culture.
 I studied the transformation through his books and the academic research.

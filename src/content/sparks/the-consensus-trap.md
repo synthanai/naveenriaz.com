@@ -4,11 +4,11 @@ date: 2026-03-30
 signal: If your meetings end with comfortable consensus every time, the problem is that someone stopped disagreeing.
 source: Decisions
 temperature: "🔥🔥"
-quote_top: |
+quote_top: |-
   Unanimous agreement 
   means people 
   stopped disagreeing.
-quote_bottom: |
+quote_bottom: |-
   Alignment 
   born from fear
   is silence 

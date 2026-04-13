@@ -13,7 +13,9 @@ felt_hook: "Can you trace your biggest initiative this quarter back to your miss
 emotion_target: |
   Disorientation: the slow realization you've become something you never intended
 never_say: ["strategic pivot", "evolving our mission", "growth requires flexibility"]
-kural_tamil: "எண்ணித் துணிக கருமம் துணிந்தபின்\nஎண்ணுவம் என்பது இழுக்கு."
+kural_tamil: |-
+  எண்ணித் துணிக கருமம் துணிந்தபின்
+  எண்ணுவம் என்பது இழுக்கு.
 kural_translation: "Think well before acting; to deliberate after deciding is a failure."
 kural_number: 467
 kural_bridge: "Mission drift is the failure of never re-examining the original decision."
@@ -22,8 +24,8 @@ prev_knot_title: Values Wallpaper
 next_knot: "organizations/006-legacy-denial"
 next_knot_title: Legacy Denial
 untie_story: "A retail chain asked every store to define their purpose locally. The answers were better than any consulting deck."
-untie_question: 'What would change in your organization if you untangled \"mission drift\" this week?'
-quote_top: |
+untie_question: 'What would change in your organisation if you untangled \"mission drift\" this week?'
+quote_top: |-
   Mission drift: a hundred small compromises replace your purpose.
 quote_bottom: "Purpose fades, drift wins."
 origin_nodes: ["knots:004-values-wallpaper", "knots/organizations/004-values-wallpaper", "knots/organizations/006-legacy-denial"]
@@ -31,6 +33,24 @@ valence: mixed
 status: published
 approved_at: "2026-03-23T12:13:58.384Z"
 published_at: "2026-03-27T03:45:11.028Z"
+linkedin_post: |-
+  When did the mission quietly change?
+  
+  Your original purpose made perfect strategic sense.
+  
+  Revenue pulled it sideways. Nobody objected.
+  
+  Drift isn't dramatic. It's imperceptible. Daily.
+  
+  Mission drift happens one decision at time.
+  
+  Compare today's priorities to founding documents.
+  
+  That distance? It happened while you watched. 🪞
+  
+  #108KNOTS #UntanglingIdentity #Knot005
+  
+  💡 Organizations with a clear mission #thrive.
 ---
 
 Think well before acting. To deliberate after deciding is a failure.
@@ -66,7 +86,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The mission didn't change in a meeting. It changed in a hundred small decisions where revenue was chosen over purpose, and nobody noticed because each choice was small. Growth pressure creates a gravitational pull away from the founding intent. Without an identity anchor, the organization drifts toward whatever the market rewards, one quarter at a time.
+The mission didn't change in a meeting. It changed in a hundred small decisions where revenue was chosen over purpose, and nobody noticed because each choice was small. Growth pressure creates a gravitational pull away from the founding intent. Without an identity anchor, the organisation drifts toward whatever the market rewards, one quarter at a time.
 
 **Navigate**
 
@@ -82,4 +102,4 @@ Open your calendar for last week. Map every meeting to your mission statement. F
 
 **Emerge**
 
-When drift is named, strategy meetings gain a filter. "Does this serve the mission or the margin?" becomes a legitimate question. The organization stops accidentally becoming something it never intended to be.
+When drift is named, strategy meetings gain a filter. "Does this serve the mission or the margin?" becomes a legitimate question. The organisation stops accidentally becoming something it never intended to be.

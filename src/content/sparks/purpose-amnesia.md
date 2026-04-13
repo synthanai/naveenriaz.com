@@ -4,8 +4,13 @@ date: 2026-03-30
 signal: "We started a bakery to feed the neighbourhood. Now we optimise delivery routes for bread that arrives cold."
 source: "Identity"
 temperature: "🔥🔥"
-quote_top: "We started a bakery\nto feed the neighbourhood.\nNow we deliver cold bread."
-quote_bottom: "Efficiency without purpose\nis a faster route to nowhere."
+quote_top: |-
+  We started a bakery
+  to feed the neighbourhood.
+  Now we deliver cold bread.
+quote_bottom: |-
+  Efficiency without purpose
+  is a faster route to nowhere.
 tags: [leadership, personal_sovereignty]
 description: "When the 'how' gets so sophisticated it eats the 'why' for breakfast."
 origin_nodes: []

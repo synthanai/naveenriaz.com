@@ -8,10 +8,12 @@ slug_name: information-overload
 date: 2026-03-17
 description: "Numbers and letters are the two eyes of all living beings...."
 punch_line_1: "Numbers and letters are the two eyes of all living beings."
-punch_line_2: |
+punch_line_2: |-
   Information overload blinds both eyes: too many numbers and too many words produce paralysis, not clarity.
 felt_hook: "The team knows everything. It understands nothing."
-kural_tamil: "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்\nமெய்ப்பொருள் காண்ப தறிவு."
+kural_tamil: |-
+  எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்
+  மெய்ப்பொருள் காண்ப தறிவு.
 kural_translation: "Numbers and letters are the two eyes of all living beings."
 kural_number: 423
 kural_bridge: |
@@ -22,12 +24,30 @@ next_knot: "organizations/048-decision-whiplash"
 next_knot_title: Decision Whiplash
 untie_story: 'A company created \"decision rights\" documentation. Three overlapping owners became one clear owner per decision.'
 untie_implement: "Each decision has three identified signals: 'the metrics that would change the decision if they mo..."
-untie_question: 'What would change in your organization if you untangled \"information overload\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"information overload\" this week?'
 quote_top: "Information abundance creates paralysis, not clarity."
 quote_bottom: "Too much data kills understanding."
 origin_nodes: ["knots:046-risk-theater", "knots/organizations/046-risk-theater", "knots/organizations/048-decision-whiplash"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  More data. More reports. Worse decisions.
+  
+  Your team drowns in dashboards every morning.
+  
+  Information abundance creates decision paralysis. Reliably.
+  
+  More data doesn't clarify. It overwhelms.
+  
+  The signal hides inside the noise.
+  
+  Ask: "what three numbers actually matter?"
+  
+  That overload? It's noise wearing data's clothes. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot047
+  
+  💡 Teams that filter signal from noise #thrive.
 ---
 
 Numbers and letters are the two eyes of all living beings.
@@ -44,7 +64,7 @@ Citi was bailed out and changed nothing structural.
 In 2008, subprime mortgage exposure required a $45 billion government bailout.
 Citi restructured on paper and changed nothing cultural.
 In 2022, a 'fat finger' error sent $900 million to the wrong counterparty because the same risk systems remained.
-Each time, the organization escalated its commitment to the same architecture rather than admitting the architecture was broken.
+Each time, the organisation escalated its commitment to the same architecture rather than admitting the architecture was broken.
 
 More light doesn't always mean better visibility.
 In optics, light pollution occurs when excessive artificial light washes out the night sky. Stars that are easily visible in dark conditions become invisible when surrounded by ambient light. The signal hasn't weakened. The noise has overwhelmed it.

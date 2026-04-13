@@ -6,10 +6,10 @@ source: Change
 temperature: "🔥🔥"
 tags: ["change", "leadership", "living_organizations"]
 description: Resistance is not the problem. Exhaustion is.
-quote_top: |
+quote_top: |-
   Change Fatigue: 
   Unproductive Initiatives
-quote_bottom: |
+quote_bottom: |-
   Stop starting!
   Start finishing!
 origin_nodes: [""]

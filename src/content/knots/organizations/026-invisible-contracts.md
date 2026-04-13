@@ -7,13 +7,20 @@ series_number: 2
 slug_name: invisible-contracts
 date: 2026-03-17
 description: "I would conceal this pain, but like spring water for those who dig, it only flow..."
-quote_top: "Organizations have contracts nobody signed,\nrules nobody wrote,\nand expectations nobody negotiated."
-quote_bottom: "Invisible contracts\nare the real governance."
+quote_top: |-
+  Organisations have contracts nobody signed,
+  rules nobody wrote,
+  and expectations nobody negotiated.
+quote_bottom: |-
+  Invisible contracts
+  are the real governance.
 punch_line_1: "I would conceal this pain, but like spring water for those who dig, it only flows more."
-punch_line_2: |
+punch_line_2: |-
   Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find.
 felt_hook: "Nobody posted these on a wall. Everyone obeys them."
-kural_tamil: "மனத்தொடு வாய்மை மொழியின் தவத்தொடு\nதானஞ்செய் வாரின் தலை."
+kural_tamil: |-
+  மனத்தொடு வாய்மை மொழியின் தவத்தொடு
+  தானஞ்செய் வாரின் தலை.
 kural_translation: "I would conceal this pain, but like spring water for those who dig, it only flows more."
 kural_number: 295
 kural_bridge: |
@@ -24,15 +31,33 @@ next_knot: "organizations/027-delegation-without-trust"
 next_knot_title: Delegation Without Trust
 untie_story: "A company published their financial results to all employees monthly. The transparency eliminated the rumor mill completely."
 untie_implement: "Ask your team: ''What's expected here that nobody ever agreed to?' The first answer will be safe."
-untie_question: 'What would change in your organization if you untangled \"invisible contracts\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"invisible contracts\" this week?'
 origin_nodes: ["knots:025-broken-promises-loop", "knots/organizations/025-broken-promises-loop", "knots/organizations/027-delegation-without-trust"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The evidence: unspoken rules nobody signed.
+  
+  Your team follows agreements they never made.
+  
+  Invisible contracts control behavior more than policies.
+  
+  Nobody negotiated them. Everyone obeys them.
+  
+  What's expected but never explicitly agreed?
+  
+  Surface one invisible contract this week.
+  
+  One thread.
+  
+  #108KNOTS #UntanglingTrust #Knot026
+  
+  💡 Teams with visible contracts #thrive.
 ---
 
 I would conceal this pain, but like spring water for those who dig, it only flows more.
 Valluvar describes something hidden that grows the more you examine it.
-Your organization has contracts nobody signed. Rules nobody wrote. Expectations nobody negotiated.
+Your organisation has contracts nobody signed. Rules nobody wrote. Expectations nobody negotiated.
 Don't email the CEO directly. Don't disagree in the all-hands. Don't leave before your manager. Don't take your full vacation. Don't bring up the layoff from 2019.
 Nobody posted these on a wall. Everyone obeys them.
 
@@ -45,7 +70,7 @@ Demolish one and the structure collapses.
 
 Invisible contracts are the real governance.
 In law, implied terms are obligations that exist in a contract even when they're not explicitly written. Common law creates them from precedent, custom, and reasonable expectation. You're bound by terms you never read.
-Organizations create implied contracts the same way: through precedent, through consequence, through the stories people tell about what happened to the last person who violated the unwritten rule.
+Organisations create implied contracts the same way: through precedent, through consequence, through the stories people tell about what happened to the last person who violated the unwritten rule.
 The employee handbook is the explicit contract. The invisible contracts are the ones that actually govern behavior.
 They're stronger because they're enforced socially, not legally.
 

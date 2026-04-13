@@ -8,13 +8,15 @@ slug_name: the-ai-readiness-gap
 date: 2026-03-17
 description: "Avoiding harm and standing firm...."
 punch_line_1: "Avoiding harm and standing firm."
-punch_line_2: "The AI readiness gap means the organization can't avoid the harm of poor data or stand firm on the foundation of its AI strategy because neither exists."
+punch_line_2: "The AI readiness gap means the organisation can't avoid the harm of poor data or stand firm on the foundation of its AI strategy because neither exists."
 felt_hook: "The AI strategy was written from the destination backward. The foundation was never assessed."
-kural_tamil: "கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்\nஎற்றா விழுமந் தரும்."
+kural_tamil: |-
+  கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்
+  எற்றா விழுமந் தரும்.
 kural_translation: |
   Avoiding harm and standing firm: these two define the path, say the wise.
 kural_number: 663
-kural_bridge: "The AI readiness gap means the organization can't avoid the harm of poor data or stand firm on the foundation of its AI strategy because neither exists."
+kural_bridge: "The AI readiness gap means the organisation can't avoid the harm of poor data or stand firm on the foundation of its AI strategy because neither exists."
 prev_knot: "organizations/095-diversity-without-inclusion"
 prev_knot_title: Diversity Without Inclusion
 next_knot: "organizations/097-burnout-normalization"
@@ -24,12 +26,30 @@ untie_story: |
 untie_implement: "Before your next AI project, answer: 'Is the data clean?"
 # DUPLICATE_KEY_REMOVED: untie_implement: "Every AI initiative begins with a data readiness audit: 'clean, documented, accessible."
 # DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
-untie_question: 'What would change in your organization if you untangled \"the ai readiness gap\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"the ai readiness gap\" this week?'
 quote_top: "AI dreams crash on shaky data foundation."
 quote_bottom: "Build solid, then soar."
 origin_nodes: ["knots:095-diversity-without-inclusion", "sparks:the-ai-readiness-gap", "knots/organizations/095-diversity-without-inclusion", "knots/organizations/097-burnout-normalization", "sparks/the-ai-readiness-gap"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Your AI strategy is 47 pages long.
+  
+  Your data quality is: unknown. Honestly.
+  
+  AI amplifies whatever already exists. Everything.
+  
+  Good gets faster. Bad gets worse. Both.
+  
+  AI doesn't fix. It photographs in high resolution.
+  
+  Fix the process before automating it.
+  
+  That anxiety? It's amplification waiting to happen. 🏋️
+  
+  #108KNOTS #UntanglingCapability #Knot096
+  
+  💡 Organizations that build AI readiness #thrive.
 ---
 
 Avoiding harm and standing firm.
@@ -82,4 +102,4 @@ Before your next AI project, answer: Is the data clean? Documented? Accessible? 
 
 **Emerge**
 
-When readiness precedes ambition, AI investments produce returns, teams build on solid ground, and the organization stops confusing AI strategy with AI capability.
+When readiness precedes ambition, AI investments produce returns, teams build on solid ground, and the organisation stops confusing AI strategy with AI capability.

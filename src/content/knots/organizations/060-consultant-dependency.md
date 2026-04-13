@@ -7,15 +7,21 @@ series_number: 12
 slug_name: consultant-dependency
 date: 2026-03-17
 description: "One who acts without knowing the method destroys their own work...."
-quote_top: "You bought a transformation.\nYou did not build one."
-quote_bottom: "External capability creates\ninternal atrophy."
+quote_top: |-
+  You bought a transformation.
+  You did not build one.
+quote_bottom: |-
+  External capability creates
+  internal atrophy.
 punch_line_1: "One who acts without knowing the method destroys their own work."
-punch_line_2: "Consultant dependency means the method lives in an external body. When that body leaves, the organization can't act because it never learned how."
+punch_line_2: "Consultant dependency means the method lives in an external body. When that body leaves, the organisation can't act because it never learned how."
 felt_hook: "You bought a transformation. You didn't build one."
-kural_tamil: "ஆகாறு அளவிட்டி தாயினுங் கேடில்லை\nபோகாறு அகலாக் கடை."
+kural_tamil: |-
+  ஆகாறு அளவிட்டி தாயினுங் கேடில்லை
+  போகாறு அகலாக் கடை.
 kural_translation: "One who acts without knowing the method destroys their own work; one who knows the method achieves everything."
 kural_number: 478
-kural_bridge: "Consultant dependency means the method lives in an external body. When that body leaves, the organization can't act because it never learned how."
+kural_bridge: "Consultant dependency means the method lives in an external body. When that body leaves, the organisation can't act because it never learned how."
 prev_knot: "organizations/059-ungrieved-loss"
 prev_knot_title: Ungrieved Loss
 next_knot: "organizations/061-collective-blindness"
@@ -24,17 +30,35 @@ untie_story: |
   A bank branch manager asked monthly: \"what should we stop doing?\" Removing friction accelerated adoption faster than adding features.
 untie_implement: "Before hiring the next consultant, ask: 'what internal capability will exist after they leave?"
 # DUPLICATE_KEY_REMOVED: untie_implement: "Every consulting engagement includes a capability transfer milestone: 'what internal skill will ex..."
-untie_question: 'What would change in your organization if you untangled \"consultant dependency\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"consultant dependency\" this week?'
 origin_nodes: ["knots:059-ungrieved-loss", "knots/organizations/059-ungrieved-loss", "knots/organizations/061-collective-blindness"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Three years ago, you believed your consultants.
+  
+  Your transformation was designed by outsiders.
+  
+  They left. The change left with them.
+  
+  Imported change doesn't survive the importers.
+  
+  Sustainable change is built, not bought.
+  
+  Name one change that came from inside.
+  
+  That dependency? It's not strategy. It's rental. ⏳
+  
+  #108KNOTS #UntanglingChange #Knot060
+  
+  💡 Organizations that build internal capability #thrive.
 ---
 
 One who acts without knowing the method destroys their own work.
 Valluvar ties success to understanding the method yourself. Not hiring someone who knows it.
-Three years ago, you hired consultants to transform your organization. They were brilliant. They brought frameworks, benchmarks, industry comparisons, and a project plan color-coded in four dimensions.
+Three years ago, you hired consultants to transform your organisation. They were brilliant. They brought frameworks, benchmarks, industry comparisons, and a project plan color-coded in four dimensions.
 They left. The change left with them.
-Not because the change was bad. Because the capability to sustain it never transferred from the consultant's laptop to your organization's muscle memory.
+Not because the change was bad. Because the capability to sustain it never transferred from the consultant's laptop to your organisation's muscle memory.
 You bought a transformation. You didn't build one.
 
 3G Capital acquired Kraft in 2015 and imposed zero-based budgeting overnight.
@@ -51,7 +75,7 @@ It was the assumption that a food company's institutional knowledge, its recipes
 External capability creates internal atrophy.
 In medicine, prolonged use of a prosthetic or assistive device can lead to muscle atrophy in the supported limb. The body adapts to the support by reducing investment in the muscles it replaces. Remove the support and the limb is weaker than before.
 Consultant dependency works identically: when an external firm handles strategy, change management, or organizational design, the internal muscles for those functions atrophy.
-The organization doesn't just return to baseline when the consultants leave. It falls below it. The muscles it once had have weakened from disuse.
+The organisation doesn't just return to baseline when the consultants leave. It falls below it. The muscles it once had have weakened from disuse.
 The dependency deepens with each engagement.
 
 Before hiring the next consultant, ask: 'What internal capability will exist after they leave that doesn't exist today?'
@@ -66,7 +90,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Dependency formed because the consultants' incentive was to deliver, not to transfer. At $2,000 per day, the economic model rewarded continuation, not capability building. The organization outsourced thinking and never negotiated for the skill to think independently.
+Dependency formed because the consultants' incentive was to deliver, not to transfer. At $2,000 per day, the economic model rewarded continuation, not capability building. The organisation outsourced thinking and never negotiated for the skill to think independently.
 
 **Navigate**
 
@@ -82,4 +106,4 @@ Before hiring the next consultant, ask: what internal capability will exist afte
 
 **Emerge**
 
-When capability transfer is the metric, consulting engagements build lasting strength, the organization becomes self-sufficient over time, and the dependency cycle breaks.
+When capability transfer is the metric, consulting engagements build lasting strength, the organisation becomes self-sufficient over time, and the dependency cycle breaks.

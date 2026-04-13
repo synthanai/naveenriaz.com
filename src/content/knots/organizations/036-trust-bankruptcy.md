@@ -10,7 +10,9 @@ description: "Even heaven and earth cannot repay an unsolicited act of kindness.
 punch_line_1: "Even heaven and earth cannot repay an unsolicited act of kindness."
 punch_line_2: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
 felt_hook: "This is trust bankruptcy. The account reads zero."
-kural_tamil: "செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி\nஎச்சத்திற் கேமாப்பு உடைத்து."
+kural_tamil: |-
+  செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி
+  எச்சத்திற் கேமாப்பு உடைத்து.
 kural_translation: "Even heaven and earth cannot repay an unsolicited act of kindness."
 kural_number: 112
 kural_bridge: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
@@ -19,17 +21,35 @@ prev_knot_title: The Scapegoat Pattern
 next_knot: "organizations/037-analysis-paralysis"
 next_knot_title: Analysis Paralysis
 untie_story: "A board chair admitted they didn't understand the technology. The CTO's trust in leadership increased immediately and permanently."
-untie_question: 'What would change in your organization if you untangled \"trust bankruptcy\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"trust bankruptcy\" this week?'
 quote_top: "Trust can go bankrupt, draining all goodwill."
 quote_bottom: "Zero balance remains."
 origin_nodes: ["knots:035-the-scapegoat-pattern", "knots/organizations/035-the-scapegoat-pattern", "knots/organizations/037-analysis-paralysis"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The evidence: trust account reads zero.
+  
+  Your organization depleted every trust reserve.
+  
+  Bankruptcy isn't sudden. It's accumulated withdrawals.
+  
+  Every broken promise was a withdrawal.
+  
+  Zero trust means zero discretionary effort.
+  
+  Make one deposit before the next withdrawal.
+  
+  That emptiness? It's trust bankruptcy. Terminal. ⚖️
+  
+  #108KNOTS #UntanglingTrust #Knot036
+  
+  💡 Organizations that invest in trust #thrive.
 ---
 
 Even heaven and earth cannot repay an unsolicited act of kindness.
 Valluvar places grace, the unrequested gift, above all repayment. The highest form of trust.
-Now imagine an organization where every deposit has been withdrawn.
+Now imagine an organisation where every deposit has been withdrawn.
 No grace remains. No benefit of the doubt. No assumption of good intent.
 When your CEO announces a new initiative, people don't ask "what does this mean?" They ask "what's really going on?"
 When HR sends a survey, people don't think "they want to listen." They think "they're building a case."
@@ -46,7 +66,7 @@ Trust bankruptcy occurs when the bank blames the customer for a withdrawal the b
 
 Trust bankruptcy isn't sudden. It's compound.
 In finance, insolvency occurs when withdrawals consistently exceed deposits over time. Each withdrawal, a broken promise, a secret restructure, a retaliatory reassignment, reduces the balance. Each deposit, a kept commitment, a transparent decision, a genuine apology, adds to it.
-Most organizations make withdrawals daily and deposits quarterly.
+Most organisations make withdrawals daily and deposits quarterly.
 The math is inevitable. The balance approaches zero. Then passes it.
 And here's the terminal insight: once trust is bankrupt, even genuine deposits are suspected. The kind gesture is decoded as manipulation. The honest conversation is filtered for ulterior motive.
 The bankruptcy makes deposits impossible. That's what makes it terminal.
@@ -80,4 +100,4 @@ Make one deposit before your next withdrawal. One kept promise. One honest admis
 
 **Emerge**
 
-When trust is treated as an asset (not an abstraction), leadership becomes more careful with withdrawals, deposits become habitual, and the organization rebuilds the reserve that makes everything else possible.
+When trust is treated as an asset (not an abstraction), leadership becomes more careful with withdrawals, deposits become habitual, and the organisation rebuilds the reserve that makes everything else possible.

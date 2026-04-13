@@ -5,8 +5,13 @@ source: "Link"
 source_url: "https://github.com/0xNyk/council-of-high-intelligence"
 signal: "A Solana developer independently invented persona-based dialectic reasoning with polarity pairs, anti-convergence enforcement, and domain triads, without knowing SPAR exists."
 temperature: "🔥🔥🔥"
-quote_top: "A developer I have never met\nindependently published\nmy entire architecture."
-quote_bottom: "Convergent evolution is evidence\nof environmental necessity."
+quote_top: |-
+  A developer I have never met
+  independently published
+  my entire architecture.
+quote_bottom: |-
+  Convergent evolution is evidence
+  of environmental necessity.
 tags: [agentic_systems, spar_dialectic]
 description: "Independent convergence is the strongest form of validation."
 fusion_link: "/fusions/agreement-is-a-bug"

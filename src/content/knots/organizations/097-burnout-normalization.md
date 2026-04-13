@@ -8,28 +8,48 @@ slug_name: burnout-normalization
 date: 2026-03-17
 description: "One who sees hardship as natural will never truly suffer...."
 punch_line_1: "One who sees hardship as natural will never truly suffer."
-punch_line_2: "Organizations who see exhaustion as natural have normalized suffering. The team craves rest but the culture says hardship is the price."
+punch_line_2: "Organisations who see exhaustion as natural have normalized suffering. The team craves rest but the culture says hardship is the price."
 felt_hook: "Burnout isn't happening to your team. It's happening as your team. It's become the culture."
-kural_tamil: "அடுக்கி வரினும் அழிவிலான் உற்ற\nஇடுக்கண் இடுக்கட் படும்."
+kural_tamil: |-
+  அடுக்கி வரினும் அழிவிலான் உற்ற
+  இடுக்கண் இடுக்கட் படும்.
 kural_translation: "One who doesn't crave pleasure and sees hardship as natural will never truly suffer."
 kural_number: 625
-kural_bridge: "Organizations who see exhaustion as natural have normalized suffering. The team craves rest but the culture says hardship is the price."
+kural_bridge: "Organisations who see exhaustion as natural have normalized suffering. The team craves rest but the culture says hardship is the price."
 prev_knot: "organizations/096-the-ai-readiness-gap"
 prev_knot_title: The Ai Readiness Gap
 next_knot: "organizations/098-meaning-drought"
 next_knot_title: Meaning Drought
 untie_story: 'A CEO declared \"no meetings before 10am.\" Morning productivity increased 40%. Nobody missed the early meetings at all.'
 untie_implement: "Ask your team: 'when was the last time you felt rested?"
-untie_question: 'What would change in your organization if you untangled \"burnout normalization\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"burnout normalization\" this week?'
 quote_top: "Burnout is not happening to your team, it as your team."
 quote_bottom: "It's the culture."
 origin_nodes: ["knots:096-the-ai-readiness-gap", "knots/organizations/096-the-ai-readiness-gap", "knots/organizations/098-meaning-drought"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Exhaustion is the loudest badge here.
+  
+  Your wellness program launched last Monday.
+  
+  The 60-hour expectation didn't change Tuesday.
+  
+  You built a gym. Building's burning.
+  
+  Burnout isn't personal. It's architectural failure.
+  
+  Reward output quality, not input hours.
+  
+  That exhaustion? It's not commitment. It's design. 🩺
+  
+  #108KNOTS #UntanglingEnergy #Knot097
+  
+  💡 Organizations that protect their people's energy #thrive.
 ---
 
 One who sees hardship as natural will never truly suffer.
-Valluvar describes personal equanimity. Your organization turned equanimity into exploitation.
+Valluvar describes personal equanimity. Your organisation turned equanimity into exploitation.
 Exhaustion is the loudest badge here. Worn proudly. Exchanged competitively.
 Your wellness program launched last Monday. The all-hands meeting about work-life balance ended at 8pm. The executive who championed mental health sends emails at midnight.
 Burnout isn't happening to your team. It's happening as your team. It's become the culture.
@@ -78,4 +98,4 @@ Ask your team: when was the last time you felt rested? If the average is measure
 
 **Emerge**
 
-When sustainable pace is cultural, creativity returns, retention improves, and the organization discovers that less input can produce more output.
+When sustainable pace is cultural, creativity returns, retention improves, and the organisation discovers that less input can produce more output.

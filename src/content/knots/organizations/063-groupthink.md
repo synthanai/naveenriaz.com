@@ -8,10 +8,12 @@ slug_name: groupthink
 date: 2026-03-17
 description: "Speaking is easy. Doing as spoken is difficult...."
 punch_line_1: "Speaking is easy. Doing as spoken is difficult."
-punch_line_2: |
+punch_line_2: |-
   Groupthink makes speaking easy because everyone says the same thing. The difficulty is hidden: nobody speaks the truth.
 felt_hook: "Alignment means different perspectives converge on a shared conclusion. Groupthink means nobody had a different perspective to begin with, or nobody felt safe enough to voice it."
-kural_tamil: "இடிக்குந் துணையாரை யாள்வரை யாரே\nகெடுக்குந் தகைமை யவர்."
+kural_tamil: |-
+  இடிக்குந் துணையாரை யாள்வரை யாரே
+  கெடுக்குந் தகைமை யவர்.
 kural_translation: "Speaking is easy for anyone; doing as spoken is the difficult part."
 kural_number: 447
 kural_bridge: |
@@ -21,12 +23,30 @@ prev_knot_title: Learning Disability
 next_knot: "organizations/064-metric-gaming"
 next_knot_title: Metric Gaming
 untie_story: "A hospital shared near-miss data across departments without blame. The cross-pollination prevented three serious incidents."
-untie_question: 'What would change in your organization if you untangled \"groupthink\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"groupthink\" this week?'
 quote_top: "Groupthink isn't alignment; it's a dangerous echo chamber."
 quote_bottom: "Silence speaks loud losses."
 origin_nodes: ["knots:062-learning-disability", "knots/organizations/062-learning-disability", "knots/organizations/064-metric-gaming"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The clue was in the echo chamber.
+  
+  Your team agrees on everything. Enthusiastically.
+  
+  Same backgrounds. Same perspectives. Same blindspots.
+  
+  Uniformity feels efficient. It's actually fragile.
+  
+  Diverse thinking prevents collapse. Groupthink accelerates it.
+  
+  Invite one outsider to the next decision.
+  
+  That agreement? It's the blind leading. 🕵️
+  
+  #108KNOTS #UntanglingIntelligence #Knot063
+  
+  💡 Cultures where independent thinking survives #thrive.
 ---
 
 Speaking is easy. Doing as spoken is difficult.

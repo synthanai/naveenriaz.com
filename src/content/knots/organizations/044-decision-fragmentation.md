@@ -10,7 +10,9 @@ description: "Those who know the weight of words speak only after understanding 
 punch_line_1: "Those who know the weight of words speak only after understanding the full assembly."
 punch_line_2: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."
 felt_hook: "Each decision was rational in isolation. Together, they created three incompatible systems, three duplicated budgets, and three teams who discovered each other at the integration meeting."
-kural_tamil: "பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்\nவேந்தர்க்கு வேண்டும் பொழுது."
+kural_tamil: |-
+  பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்
+  வேந்தர்க்கு வேண்டும் பொழுது.
 kural_translation: "Those who know the weight of words speak only after understanding the full assembly."
 kural_number: 481
 kural_bridge: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."
@@ -20,18 +22,36 @@ next_knot: "organizations/045-meeting-to-decision-ratio"
 next_knot_title: Meeting To Decision Ratio
 untie_story: 'A startup stopped consensus-seeking and moved to \"consult then decide.\" Meetings shortened. Quality stayed the same.'
 untie_implement: "Before making any cross-team decision, ask: 'who else is deciding something similar right now?"
-untie_question: 'What would change in your organization if you untangled \"decision fragmentation\" this week?'
-quote_top: |
+untie_question: 'What would change in your organisation if you untangled \"decision fragmentation\" this week?'
+quote_top: |-
   Fragmented decisions: individually rational, collectively catastrophic.
 quote_bottom: "Incoherence kills innovation."
 origin_nodes: ["knots:043-dissent-suppression", "knots/organizations/043-dissent-suppression", "knots/organizations/045-meeting-to-decision-ratio"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Three teams made the same decision differently.
+  
+  Your organization decided this thing three times.
+  
+  Nobody knew the others were deciding.
+  
+  Fragmented decisions create contradictory commitments. Everywhere.
+  
+  Without a decision register, chaos is inevitable.
+  
+  Log every decision in one shared place.
+  
+  That duplication? It's multiplying your waste. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot044
+  
+  💡 Teams with clear decision ownership #thrive.
 ---
 
 Those who know the weight of words speak only after understanding the full assembly.
 Valluvar insists: understand the whole before contributing a part.
-Three teams in your organization made the same decision last quarter. Differently.
+Three teams in your organisation made the same decision last quarter. Differently.
 Team A chose vendor X. Team B chose vendor Y. Team C built it in-house.
 Nobody knew the others were deciding. Nobody asked. Nobody checked.
 Each decision was rational in isolation. Together, they created three incompatible systems, three duplicated budgets, and three teams who discovered each other at the integration meeting.
@@ -45,7 +65,7 @@ It died from an excess of people empowered to say no.
 
 Fragmented decisions scatter energy like scattered files scatter performance.
 In computing, disk fragmentation occurs when files are stored in non-contiguous blocks across a hard drive. Each file is complete. Each block is valid. But reading them requires the system to jump between scattered locations, dramatically slowing performance.
-Organizational decision fragmentation works the same way: each local decision is sound. But when the organization tries to operate as a whole, it's jumping between contradictory commitments, incompatible systems, and duplicated investments.
+Organizational decision fragmentation works the same way: each local decision is sound. But when the organisation tries to operate as a whole, it's jumping between contradictory commitments, incompatible systems, and duplicated investments.
 The decisions aren't wrong. They're scattered. And scattered decisions produce the same result as no decisions: incoherent action.
 
 Before making any decision with cross-team implications, ask one question: 'Who else is deciding something similar right now?'
@@ -67,7 +87,7 @@ Before any decision with cross-team implications, the decision-maker identifies 
 
 **Tool**
 
-DMG / Decision Map: the visual representation of in-flight decisions across the organization. When decisions are mapped, fragmentation becomes visible before it produces duplication.
+DMG / Decision Map: the visual representation of in-flight decisions across the organisation. When decisions are mapped, fragmentation becomes visible before it produces duplication.
 
 **Implement**
 
@@ -75,4 +95,4 @@ Before making any cross-team decision, ask: who else is deciding something simil
 
 **Emerge**
 
-When decisions are visible across teams, duplication drops, resources consolidate, and the organization starts making coherent choices instead of contradictory local ones.
+When decisions are visible across teams, duplication drops, resources consolidate, and the organisation starts making coherent choices instead of contradictory local ones.

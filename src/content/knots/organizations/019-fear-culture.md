@@ -10,7 +10,9 @@ description: "Raise the rod high but strike gently...."
 punch_line_1: "Raise the rod high but strike gently."
 punch_line_2: "Fear-driven authority raises the rod. Wise leadership knows when not to strike."
 felt_hook: "A visitor would call it professional. An insider calls it survival."
-kural_tamil: "இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன்\nஉறைகடுகி ஒல்லைக் கெடும்."
+kural_tamil: |-
+  இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன்
+  உறைகடுகி ஒல்லைக் கெடும்.
 kural_translation: "Raise the rod high but strike gently, if lasting prosperity is your aim."
 kural_number: 564
 kural_bridge: "Fear-driven authority raises the rod. Wise leadership knows when not to strike."
@@ -19,7 +21,7 @@ prev_knot_title: Siloed Synergy
 next_knot: "organizations/020-values-inversion"
 next_knot_title: Values Inversion
 untie_story: "A sales team replaced individual bonuses with team bonuses. Collaboration increased. Revenue followed three months later."
-untie_question: 'What would change in your organization if you untangled \"fear culture\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"fear culture\" this week?'
 quote_top: "Fear creates a quiet landscape of survival, not professionalism."
 quote_bottom: "Silence is fear's echo."
 origin_nodes: ["knots:018-siloed-synergy", "knots/organizations/018-siloed-synergy", "knots/organizations/020-values-inversion"]
@@ -27,11 +29,29 @@ valence: mixed
 status: published
 approved_at: "2026-04-10T05:27:55.675Z"
 published_at: "2026-04-13T11:46:26.350Z"
+linkedin_post: |-
+  A visitor would notice the quiet corridors.
+  
+  Your team moves carefully around each other.
+  
+  Fear looks like compliance. Sounds like silence.
+  
+  Nobody challenges the boss. Nobody challenges anything.
+  
+  Fear-driven compliance is obedience, not engagement.
+  
+  Ask your team: "what scares you here?"
+  
+  That caution? It's fear wearing professionalism. 🔬
+  
+  #108KNOTS #UntanglingCulture #Knot019
+  
+  💡 Teams that name fear and move through it #thrive.
 ---
 
 Raise the rod high but strike gently.
 Valluvar's advice to rulers is nuanced: Presence of power, restraint in its use.
-Now look at your organization. The rod is always high. And it always strikes.
+Now look at your organisation. The rod is always high. And it always strikes.
 Nobody challenges the boss. Nobody challenges anything. The corridors are quiet. The emails are careful. The Slack messages are edited three times before sending.
 A visitor would call it professional. An insider calls it survival.
 

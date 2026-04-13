@@ -8,23 +8,43 @@ slug_name: competence-doubt
 date: 2026-03-17
 description: "The rarest of rare achievements is winning the trust of the great...."
 punch_line_1: "The rarest of rare achievements is winning the trust of the great."
-punch_line_2: "Competence doubt is what happens when an organization has the great but refuses to trust them."
+punch_line_2: "Competence doubt is what happens when an organisation has the great but refuses to trust them."
 felt_hook: 'The system installed the hesitation. The system calls it \"rigor.\"'
-kural_tamil: "அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்\nஇன்மை அரிதே வெளிறு."
+kural_tamil: |-
+  அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்
+  இன்மை அரிதே வெளிறு.
 kural_translation: "The rarest of rare achievements is winning and keeping the trust of the great."
 kural_number: 503
-kural_bridge: "Competence doubt is what happens when an organization has the great but refuses to trust them."
+kural_bridge: "Competence doubt is what happens when an organisation has the great but refuses to trust them."
 prev_knot: "organizations/028-feedback-phobia"
 prev_knot_title: Feedback Phobia
 next_knot: "organizations/030-loyalty-extraction"
 next_knot_title: Loyalty Extraction
 untie_story: "A CEO called a customer who had a bad experience. The customer became their biggest advocate after one call."
-untie_question: 'What would change in your organization if you untangled \"competence doubt\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"competence doubt\" this week?'
 quote_top: "Winning great trust is an accomplishment, not a given."
 quote_bottom: "Earned trust empowers experts."
 origin_nodes: ["knots:028-feedback-phobia", "knots/organizations/028-feedback-phobia", "knots/organizations/030-loyalty-extraction"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The evidence: your expert hesitates constantly.
+  
+  Your best people second-guess every decision.
+  
+  They're not incompetent. They're doubted. Regularly.
+  
+  Competence without confidence produces paralysis, not results.
+  
+  The doubt was installed by the system.
+  
+  Tell one expert: "I trust your judgment."
+  
+  That hesitation? It was taught. Not born. ⚖️
+  
+  #108KNOTS #UntanglingTrust #Knot029
+  
+  💡 Teams that build competence confidence #thrive.
 ---
 
 The rarest of rare achievements is winning the trust of the great.
@@ -57,7 +77,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Doubt was installed by the organization's review culture. Every decision required validation. Every expert needed sign-off. The system treated competence as perpetually provisional. Over time, the experts internalized the system's doubt as their own.
+Doubt was installed by the organisation's review culture. Every decision required validation. Every expert needed sign-off. The system treated competence as perpetually provisional. Over time, the experts internalized the system's doubt as their own.
 
 **Navigate**
 
@@ -73,4 +93,4 @@ Find one expert on your team. Tell them: 'I trust your call on this. No review n
 
 **Emerge**
 
-When doubt dissolves, decision velocity increases, expertise compounds instead of stalling, and the organization stops paying senior salaries for junior-level authority.
+When doubt dissolves, decision velocity increases, expertise compounds instead of stalling, and the organisation stops paying senior salaries for junior-level authority.

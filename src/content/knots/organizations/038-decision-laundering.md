@@ -10,7 +10,9 @@ description: "All that is desired is achieved if the mind harbors no anger...."
 punch_line_1: "All that is desired is achieved if the mind harbors no anger."
 punch_line_2: "Decision laundering exists because the real decision harbors something the group can't openly acknowledge."
 felt_hook: "The meeting wasn't deliberation. It was ratification. A group of intelligent people performing consensus for a conclusion that one person had already reached."
-kural_tamil: "குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல்\nவடுவன்று வேந்தன் தொழில்."
+kural_tamil: |-
+  குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல்
+  வடுவன்று வேந்தன் தொழில்.
 kural_translation: "All that is desired is achieved if the mind harbors no anger."
 kural_number: 549
 kural_bridge: "Decision laundering exists because the real decision harbors something the group can't openly acknowledge."
@@ -20,13 +22,31 @@ next_knot: "organizations/039-consensus-trap"
 next_knot_title: Consensus Trap
 untie_story: "A director stopped attending decisions below their level. The team made better decisions faster without the hierarchy present."
 untie_implement: "Before your next meeting, ask honestly: 'have I already decided?"
-untie_question: 'What would change in your organization if you untangled \"decision laundering\" this week?'
-quote_top: |
+untie_question: 'What would change in your organisation if you untangled \"decision laundering\" this week?'
+quote_top: |-
   Laundered decisions: clean surface, hollow inside; fake legitimacy.
 quote_bottom: "Honest advocacy beats theater."
 origin_nodes: ["knots:037-analysis-paralysis", "sparks:decision-laundering", "knots/organizations/037-analysis-paralysis", "knots/organizations/039-consensus-trap", "sparks/decision-laundering"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The decision was already made. Secretly.
+  
+  Your meeting performed deliberation. Just theater.
+  
+  The real decision happened before the room.
+  
+  Laundered decisions protect the decider from accountability.
+  
+  If it's decided, don't perform the debate.
+  
+  Name the actual decider. Out loud.
+  
+  Notice. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot038
+  
+  💡 Organizations with transparent decisions #thrive.
 ---
 
 All that is desired is achieved if the mind harbors no anger.

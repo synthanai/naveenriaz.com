@@ -8,10 +8,12 @@ slug_name: energy-vampires
 date: 2026-03-17
 description: "Even harsh truth is acceptable. Useless pleasant words are not...."
 punch_line_1: "Even harsh truth is acceptable. Useless pleasant words are not."
-punch_line_2: |
+punch_line_2: |-
   Energy vampires drain through useless pleasant interaction: meetings that produce nothing, conversations that circle without resolving.
 felt_hook: "Each interaction extracts energy without depositing value. The participants leave lighter in spirit and heavier in resentment."
-kural_tamil: "அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்\nபுன்சொல் உரைப்பான் பொறை."
+kural_tamil: |-
+  அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்
+  புன்சொல் உரைப்பான் பொறை.
 kural_translation: "Even harsh truth from the wise is acceptable; useless pleasant words are not."
 kural_number: 189
 kural_bridge: |
@@ -23,12 +25,30 @@ next_knot_title: Urgency Addiction
 untie_story: |
   A factory added a 15-minute walking break to every shift. Injury rates dropped. Quality scores rose. Cost: zero.
 untie_implement: "Every recurring process has a quarterly energy audit: 'does this process produce more value than i..."
-untie_question: 'What would change in your organization if you untangled \"energy vampires\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"energy vampires\" this week?'
 quote_top: "Your processes drain everyone through design, not malice."
 quote_bottom: "Audit and cancel them."
 origin_nodes: ["knots:102-turnover-spiral", "knots/organizations/102-turnover-spiral", "knots/organizations/104-urgency-addiction"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Symptoms: depleted after every interaction. Consistently.
+  
+  Your process drains everyone it touches.
+  
+  The drain isn't people. It's architecture.
+  
+  Most energy vampires are engaged people in broken systems.
+  
+  Fix the process, not the person.
+  
+  Identify one process that drains everyone.
+  
+  That exhaustion? The system created it. 🩺
+  
+  #108KNOTS #UntanglingEnergy #Knot103
+  
+  💡 Teams that name their energy drains #thrive.
 ---
 
 Even harsh truth is acceptable. Useless pleasant words are not.

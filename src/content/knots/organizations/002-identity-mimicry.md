@@ -6,23 +6,25 @@ series: identity
 series_number: 2
 slug_name: identity-mimicry
 date: 2026-03-17
-description: 'Does your organization describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''s adopt Google''''s approach."'
+description: 'Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''s adopt Google''''s approach."'
 punch_line_1: "Copying someone's identity feels like strategy."
 punch_line_2: "It's actually surrender."
-felt_hook: 'Does your organization describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''s adopt Google''''s approach."'
+felt_hook: 'Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''s adopt Google''''s approach."'
 emotion_target: |
   Inauthenticity: the discomfort of performing someone else's identity
 never_say: ["best practices", "industry standard", "we should be more like X"]
-kural_tamil: "பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து\nஅஞ்சு மவன்கற்ற நூல்."
+kural_tamil: |-
+  பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து
+  அஞ்சு மவன்கற்ற நூல்.
 kural_translation: "One who knows themselves knows all; they hold their wisdom as lasting honour."
 kural_number: 727
-kural_bridge: "Organizations that copy others have stopped knowing themselves."
+kural_bridge: "Organisations that copy others have stopped knowing themselves."
 prev_knot: "organizations/001-purpose-amnesia"
 prev_knot_title: Purpose Amnesia
 next_knot: "organizations/003-founders-ghost"
 next_knot_title: Founders Ghost
 untie_story: "A hospital discovered nurses had created their own purpose statement because the official one felt hollow. Leadership adopted it instead."
-untie_question: 'What would change in your organization if you untangled \"identity mimicry\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"identity mimicry\" this week?'
 quote_top: "Identity mimicry is fear wearing a strategy hat."
 quote_bottom: "See the camouflage."
 origin_nodes: ["knots:001-purpose-amnesia", "knots/organizations/001-purpose-amnesia", "knots/organizations/003-founders-ghost"]
@@ -30,10 +32,28 @@ valence: mixed
 status: published
 approved_at: "2026-03-23T12:13:19.988Z"
 published_at: "2026-03-24T12:00:20.980Z"
+linkedin_post: |-
+  Whose identity are you actually copying?
+  
+  Your brand deck looks strangely familiar.
+  
+  Copying winners feels safe. It isn't.
+  
+  Borrowed identity erodes from the inside.
+  
+  Mimicry replaces discovery. Comfort replaces truth.
+  
+  Name one thing only YOU do.
+  
+  Notice.
+  
+  #108KNOTS #UntanglingIdentity #Knot002
+  
+  💡 Teams that name their identity #thrive.
 ---
 
 One who knows themselves knows all.
-Valluvar's point was about individuals, but watch what happens when an organization loses that self-knowledge.
+Valluvar's point was about individuals, but watch what happens when an organisation loses that self-knowledge.
 It starts copying. The Spotify of logistics. The Apple of supply chain. The Netflix of HR.
 Everyone in the room nods. Nobody believes it.
 But nobody says that out loud, because the consultancy that delivered the rebrand cost more than your annual training budget.
@@ -65,11 +85,11 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The organization never discovered its own identity. Instead, it borrowed one. "We should be like Netflix." "Let's adopt Google's culture." The mimicry feels strategic because it references success. But copying someone else's identity is not strategy. It is surrender. The real cause: nobody sat with the discomfort of asking "who are WE?" long enough to find an honest answer.
+The organisation never discovered its own identity. Instead, it borrowed one. "We should be like Netflix." "Let's adopt Google's culture." The mimicry feels strategic because it references success. But copying someone else's identity is not strategy. It is surrender. The real cause: nobody sat with the discomfort of asking "who are WE?" long enough to find an honest answer.
 
 **Navigate**
 
-The organization can describe what makes it different from every competitor, and that description sounds like nobody else. The identity is discovered, not imported.
+The organisation can describe what makes it different from every competitor, and that description sounds like nobody else. The identity is discovered, not imported.
 
 **Tool**
 

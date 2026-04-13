@@ -7,13 +7,19 @@ series_number: 10
 slug_name: forecast-addiction
 date: 2026-03-17
 description: "Truth seen by one without understanding. Goodness from one without compassion...."
-quote_top: "The addiction is not to accuracy.\nIt is to the feeling of certainty."
-quote_bottom: "Forecasts without understanding are\nlike truth without comprehension."
+quote_top: |-
+  The addiction is not to accuracy.
+  It is to the feeling of certainty.
+quote_bottom: |-
+  Forecasts without understanding are
+  like truth without comprehension.
 punch_line_1: "Truth seen by one without understanding. Goodness from one without compassion."
-punch_line_2: |
+punch_line_2: |-
   Forecasts without understanding are like truth without comprehension: the prediction exists but the insight doesn't.
 felt_hook: "The addiction isn't to accuracy. It's to the feeling of certainty."
-kural_tamil: "அமைந்தாங் கொழுகான் அளவறியான் தன்னை\nவியந்தான் விரைந்து கெடும்."
+kural_tamil: |-
+  அமைந்தாங் கொழுகான் அளவறியான் தன்னை
+  வியந்தான் விரைந்து கெடும்.
 kural_translation: "Goodness from one without compassion is like truth seen by one without understanding."
 kural_number: 474
 kural_bridge: |
@@ -23,10 +29,28 @@ prev_knot_title: Cognitive Debt
 next_knot: "organizations/071-knowledge-hoarding"
 next_knot_title: Knowledge Hoarding
 untie_story: 'A team created a \"decision quality\" dashboard tracking not outcomes but process quality. Better process led to better outcomes.'
-untie_question: 'What would change in your organization if you untangled \"forecast addiction\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"forecast addiction\" this week?'
 origin_nodes: ["knots:069-cognitive-debt", "knots/organizations/069-cognitive-debt", "knots/organizations/071-knowledge-hoarding"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The clue was in the forecast accuracy.
+  
+  Your predictions are consistently wrong. Still trusted.
+  
+  Forecasts feel like intelligence. They're often guesswork.
+  
+  Confidence in predictions replaces preparation for surprises.
+  
+  Forecast addiction prevents readiness for the unknown.
+  
+  Replace one forecast with one contingency plan.
+  
+  Choose one. Act on it. 🕵
+  
+  #108KNOTS #UntanglingIntelligence #Knot070
+  
+  💡 Organizations that prepare instead of predict #thrive.
 ---
 
 Truth seen by one without understanding. Goodness from one without compassion.
@@ -48,7 +72,7 @@ The forecast became more important than the firm.
 
 Forecasts are certainty prosthetics for uncertain minds.
 In psychology, certainty bias is the tendency to overweight confidence in predictions, regardless of their accuracy. The illusion of control suggests that producing a prediction, the act of forecasting itself, creates a feeling of control over outcomes.
-Organizational forecast addiction leverages both: the organization craves certainty. Forecasts provide it. When the forecast is wrong, the organization doesn't abandon forecasting. It refines the model, doubles down on the process, and produces a new forecast with equal conviction.
+Organizational forecast addiction leverages both: the organisation craves certainty. Forecasts provide it. When the forecast is wrong, the organisation doesn't abandon forecasting. It refines the model, doubles down on the process, and produces a new forecast with equal conviction.
 The addiction is to the comfort of prediction, not to the accuracy of it.
 
 Pull up your last four quarterly forecasts. Compare each to actuals.
@@ -63,7 +87,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Forecast addiction persisted because the organization couldn't tolerate uncertainty. The forecast wasn't valued for accuracy. It was valued for the feeling of control it provided.
+Forecast addiction persisted because the organisation couldn't tolerate uncertainty. The forecast wasn't valued for accuracy. It was valued for the feeling of control it provided.
 
 **Navigate**
 
@@ -79,4 +103,4 @@ Compare your last four quarterly forecasts to actuals. If accuracy is below 80%,
 
 **Emerge**
 
-When uncertainty is acknowledged, planning becomes adaptive, decisions are made with honest information, and the organization stops confusing confidence with competence.
+When uncertainty is acknowledged, planning becomes adaptive, decisions are made with honest information, and the organisation stops confusing confidence with competence.

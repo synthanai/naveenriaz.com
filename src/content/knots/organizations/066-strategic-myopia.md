@@ -10,7 +10,9 @@ description: "One who acts without knowing the method finds ruin...."
 punch_line_1: "One who acts without knowing the method finds ruin."
 punch_line_2: "Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus."
 felt_hook: "But nobody looks at five-year trajectories when the quarterly bonus depends on the next thirteen weeks."
-kural_tamil: "ஆகாறு அளவிட்டி தாயினுங் கேடில்லை\nபோகாறு அகலாக் கடை."
+kural_tamil: |-
+  ஆகாறு அளவிட்டி தாயினுங் கேடில்லை
+  போகாறு அகலாக் கடை.
 kural_translation: "One who acts without knowing the method finds ruin; one who knows the method achieves."
 kural_number: 478
 kural_bridge: "Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus."
@@ -20,12 +22,30 @@ next_knot: "organizations/067-expertise-trap"
 next_knot_title: Expertise Trap
 untie_story: 'A nonprofit held quarterly \"what surprised us\" sessions. The surprises were always more valuable than the confirmations.'
 untie_implement: "Add one agenda item to your next planning session: 'what is true today that won't be true in three..."
-untie_question: 'What would change in your organization if you untangled \"strategic myopia\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"strategic myopia\" this week?'
 quote_top: "Short-sighted focus is leadership failure at its worst."
 quote_bottom: "Look far, lead well."
 origin_nodes: ["knots:065-innovation-theater", "knots/organizations/065-innovation-theater", "knots/organizations/067-expertise-trap"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The clue was in the industry report.
+  
+  Your competitor moved six months before you.
+  
+  Strategic myopia isn't about bad scanning.
+  
+  You saw the signal. Didn't act.
+  
+  The problem isn't awareness. It's response time.
+  
+  What signal are you seeing right now?
+  
+  What's the first knot to pull? 🕵
+  
+  #108KNOTS #UntanglingIntelligence #Knot066
+  
+  💡 Organizations with long-term vision #thrive.
 ---
 
 One who acts without knowing the method finds ruin.
@@ -48,7 +68,7 @@ It's standing on top of the future and failing to look down.
 Myopia doesn't mean blindness. It means wrong focal length.
 In ophthalmology, myopia occurs when the eye focuses light in front of the retina instead of on it. Close objects are sharp. Distant objects are blurred. The eye works perfectly, just at the wrong distance.
 Organizational strategic myopia is focal-length failure: the near-term is sharp, quarterly targets, monthly reports, weekly metrics. The long-term is blurred, market shifts, technology disruptions, demographic changes.
-The organization sees perfectly. It just can't see far enough.
+The organisation sees perfectly. It just can't see far enough.
 And the most important objects are always in the distance.
 
 In your next planning session, add one agenda item: 'What is true today that won't be true in three years?'
@@ -78,4 +98,4 @@ Add one agenda item to your next planning session: what is true today that won't
 
 **Emerge**
 
-When the organization sees beyond the quarter, strategic investments happen early, market shifts are anticipated instead of reacted to, and the competitive position strengthens over time.
+When the organisation sees beyond the quarter, strategic investments happen early, market shifts are anticipated instead of reacted to, and the competitive position strengthens over time.

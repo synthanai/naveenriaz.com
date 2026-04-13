@@ -3,8 +3,13 @@ title: "SaaS is Dead. Long Live GaaS."
 date: 2026-03-20
 signal: "Jensen Huang declared OpenClaw 'as big as Linux' and predicted every SaaS company will become a GaaS company, paying employees token budgets worth 50% of base salary."
 temperature: "🔥🔥"
-quote_top: "Every SaaS company\nis about to become\na GaaS company."
-quote_bottom: "Token budgets will\njoin salary packages."
+quote_top: |-
+  Every SaaS company
+  is about to become
+  a GaaS company.
+quote_bottom: |-
+  Token budgets will
+  join salary packages.
 tags: [agentic-os, agentic_systems, living_organizations, nvidia]
 description: "The agent OS era just got a CEO endorsement."
 origin_nodes: []

@@ -15,7 +15,9 @@ felt_hook: |
 emotion_target: |
   Cynicism: the distance between the poster and the paycheck
 never_say: ["moonshot", "change the world", "audacious goals (when disconnected from daily reality)"]
-kural_tamil: "உளவரை தூக்காத ஒப்புர வாண்மை\nவளவரை வல்லைக் கெடும்."
+kural_tamil: |-
+  உளவரை தூக்காத ஒப்புர வாண்மை
+  வளவரை வல்லைக் கெடும்.
 kural_translation: "One who does not measure themselves will seem to exist but will vanish without trace."
 kural_number: 480
 kural_bridge: "A vision that outgrows its operational capacity vanishes into irrelevance."
@@ -25,7 +27,7 @@ next_knot: "organizations/010-cultural-orphans"
 next_knot_title: Cultural Orphans
 untie_story: 'A factory team created a \"why we make this\" video. Absenteeism dropped. They connected product to purpose visually.'
 untie_implement: "Ask three frontline workers: 'How does your work this week connect to our vision?' If they laugh,..."
-untie_question: 'What would change in your organization if you untangled \"vision inflation\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"vision inflation\" this week?'
 quote_top: "Grand visions inflate; daily work grounds us."
 quote_bottom: "Execution, not ambition, defines impact."
 origin_nodes: ["knots:008-purpose-commodification", "knots/organizations/008-purpose-commodification", "knots/organizations/010-cultural-orphans"]
@@ -33,6 +35,24 @@ valence: mixed
 status: published
 approved_at: "2026-03-30T05:07:45.104Z"
 published_at: "2026-03-31T11:22:07.139Z"
+linkedin_post: |-
+  "We're going to change the world."
+  
+  Your vision statement promises revolutionary transformation.
+  
+  The ambition grew faster than capability.
+  
+  Inflated vision makes real progress feel small.
+  
+  Grand visions paralyze more than they inspire.
+  
+  Shrink the vision to next quarter.
+  
+  That disconnection? It's the inflation talking. 🪞
+  
+  #108KNOTS #UntanglingIdentity #Knot009
+  
+  💡 Leaders with grounded vision #thrive.
 ---
 
 "We need to think bigger," Ravi said, pulling up the new slide deck. Three pillars. A flywheel diagram. The words GLOBAL IMPACT in 48-point type.
@@ -74,7 +94,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The vision says "change the world." The daily work is spreadsheets and status reports. The gap between the rhetoric and the reality is not motivating. It is demoralizing. Leaders confuse aspiration with inspiration. When the vision exceeds the organization's capacity to deliver on it, people stop believing. They perform enthusiasm in meetings and feel cynicism in the elevator.
+The vision says "change the world." The daily work is spreadsheets and status reports. The gap between the rhetoric and the reality is not motivating. It is demoralizing. Leaders confuse aspiration with inspiration. When the vision exceeds the organisation's capacity to deliver on it, people stop believing. They perform enthusiasm in meetings and feel cynicism in the elevator.
 
 **Navigate**
 
@@ -90,4 +110,4 @@ Ask three frontline workers: "How does your work this week connect to our vision
 
 **Emerge**
 
-When the vision is right-sized, it becomes a compass instead of a poster. Teams self-organize toward it because the connection to their work is obvious. The gap between "what we say" and "what we do" closes without a program.
+When the vision is right-sized, it becomes a compass instead of a poster. Teams self-organise toward it because the connection to their work is obvious. The gap between "what we say" and "what we do" closes without a program.

@@ -6,14 +6,16 @@ series: identity
 series_number: 11
 slug_name: identity-fragility
 date: 2026-03-17
-description: "Has your organization survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
+description: "Has your organisation survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
 punch_line_1: Free beliefs are the first to break
 punch_line_2: "when the storm hits."
-felt_hook: "Has your organization survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
+felt_hook: "Has your organisation survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
 emotion_target: |
   Betrayal: the moment the stated values collapsed under pressure
 never_say: ["our values are non-negotiable (when they have already been negotiated)"]
-kural_tamil: "ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்\nஎழுமையும் ஏமாப் புடைத்து."
+kural_tamil: |-
+  ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்
+  எழுமையும் ஏமாப் புடைத்து.
 kural_translation: "Like the tortoise drawing in its limbs, one who masters the five senses finds lasting security."
 kural_number: 126
 kural_bridge: "An identity never tested is a shell never drawn in. It looks solid until pressure arrives."
@@ -23,7 +25,7 @@ next_knot: "organizations/012-the-hollow-core"
 next_knot_title: The Hollow Core
 untie_story: "A marketing agency discovered their best client work happened when the team knew WHY the client mattered to the world."
 untie_implement: "Run a tabletop exercise in your next leadership meeting: 'Revenue drops 20% this quarter."
-untie_question: 'What would change in your organization if you untangled \"identity fragility\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"identity fragility\" this week?'
 quote_top: "Untested commitment shatters under pressure, revealing identity fragility."
 quote_bottom: "Stress-test your core."
 origin_nodes: ["knots:010-cultural-orphans", "knots/organizations/010-cultural-orphans", "knots/organizations/012-the-hollow-core"]
@@ -31,6 +33,24 @@ valence: mixed
 status: published
 approved_at: "2026-03-30T05:08:36.688Z"
 published_at: "2026-04-02T12:03:05.381Z"
+linkedin_post: |-
+  One bad quarter shattered everything. Why?
+  
+  Your identity collapsed under market pressure.
+  
+  Strong identity bends. Fragile identity breaks.
+  
+  The crisis didn't cause the fracture.
+  
+  Fragile identity was the pre-existing condition.
+  
+  Test your identity: what survives failure?
+  
+  That vulnerability? It was always there. 🪞
+  
+  #108KNOTS #UntanglingIdentity #Knot011
+  
+  💡 Identities built on truth, not fear #thrive.
 ---
 
 Like the tortoise drawing in its limbs, one who masters the senses finds lasting security.
@@ -50,7 +70,7 @@ This isn't about weak commitment. It's about untested commitment.
 In materials science, resilience is measured by yield strength: the exact point of stress where a material permanently deforms.
 Below that threshold, the metal springs back. Above it, the shape changes forever.
 You don't know your yield strength until something pushes past it.
-Most organizations discover their identity was brittle only after the first real pressure test, when it's too late to reinforce anything.
+Most organisations discover their identity was brittle only after the first real pressure test, when it's too late to reinforce anything.
 
 Run a stress test on your core value today.
 Pick the one you're proudest of and ask honestly:
@@ -66,11 +86,11 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The identity was performative, not constitutional. It was never stress-tested. The organization said "people first" until a bad quarter made "revenue first" necessary. The values collapsed because they were decorations, not load-bearing walls. Identity fragility reveals itself only under pressure: the first market shock, the first layoff, the first hard choice between profit and principle.
+The identity was performative, not constitutional. It was never stress-tested. The organisation said "people first" until a bad quarter made "revenue first" necessary. The values collapsed because they were decorations, not load-bearing walls. Identity fragility reveals itself only under pressure: the first market shock, the first layoff, the first hard choice between profit and principle.
 
 **Navigate**
 
-The organization has survived a crisis and emerged with its values intact. The identity held under pressure because it was structural, not aspirational. People trust "who we are" because they saw it tested and it held.
+The organisation has survived a crisis and emerged with its values intact. The identity held under pressure because it was structural, not aspirational. People trust "who we are" because they saw it tested and it held.
 
 **Tool**
 
@@ -82,4 +102,4 @@ Run a tabletop exercise in your next leadership meeting: "Revenue drops 20% this
 
 **Emerge**
 
-When the identity is stress-tested before the crisis, leaders respond with coherence instead of panic. The team trusts the organization because they know the principles are real, not performative. Talent stays through hard times because the soul stays.
+When the identity is stress-tested before the crisis, leaders respond with coherence instead of panic. The team trusts the organisation because they know the principles are real, not performative. Talent stays through hard times because the soul stays.

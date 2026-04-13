@@ -7,12 +7,19 @@ series_number: 3
 slug_name: gravitational-void
 date: 2026-03-17
 description: "The touchstone of greatness is one's deeds...."
-quote_top: "Without a gravitational center,\nhighly capable teams drift\nwith no shared orbit."
-quote_bottom: "There is motion,\nbut no alignment."
+quote_top: |-
+  Without a gravitational center,
+  highly capable teams drift
+  with no shared orbit.
+quote_bottom: |-
+  There is motion,
+  but no alignment.
 punch_line_1: "The touchstone of greatness is one's deeds."
 punch_line_2: "Without a gravitational center, deeds scatter. Greatness requires pull."
 felt_hook: "You've felt this. You finish a productive week and still feel empty."
-kural_tamil: "பற்றற்ற கண்ணும் பழைமைபா ராட்டுதல்\nசுற்றத்தார் கண்ணே உள."
+kural_tamil: |-
+  பற்றற்ற கண்ணும் பழைமைபா ராட்டுதல்
+  சுற்றத்தார் கண்ணே உள.
 kural_translation: "The touchstone of greatness and smallness alike is one's deeds."
 kural_number: 521
 kural_bridge: "Without a gravitational center, deeds scatter. Greatness requires pull."
@@ -21,16 +28,34 @@ prev_knot_title: Integrity Theater
 next_knot: "organizations/016-harmony-addiction"
 next_knot_title: Harmony Addiction
 untie_story: "A manager replaced the annual survey with weekly one-question pulses. Response rate went from 34% to 91% immediately."
-untie_question: 'What would change in your organization if you untangled \"gravitational void\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"gravitational void\" this week?'
 origin_nodes: ["knots:014-integrity-theater", "knots/organizations/014-integrity-theater", "knots/organizations/016-harmony-addiction"]
 valence: mixed
 status: published
 approved_at: "2026-04-05T09:31:14.795Z"
 published_at: "2026-04-06T09:27:08.413Z"
+linkedin_post: |-
+  A visitor would notice the emptiness.
+  
+  Your team moves, but nothing pulls them.
+  
+  No center. No gravity. Just motion.
+  
+  Without attraction, alignment is just coincidence.
+  
+  The void produces drift disguised as freedom.
+  
+  What would pull your team back together?
+  
+  That drift? Nobody is steering. Nobody. 🔬
+  
+  #108KNOTS #UntanglingCulture #Knot015
+  
+  💡 Organizations with gravitational pull #thrive.
 ---
 
 The touchstone of greatness is one's deeds.
-Valluvar's test is operational: what you do reveals what you are. But what happens when an organization does plenty, yet nothing connects?
+Valluvar's test is operational: what you do reveals what you are. But what happens when an organisation does plenty, yet nothing connects?
 Everyone is busy. Everyone is delivering. Nobody can explain what it all adds up to.
 The team moves, but nothing pulls them in the same direction. There's motion, but no orbit.
 You've felt this. You finish a productive week and still feel empty.
@@ -46,7 +71,7 @@ This is what happens when the center disappears.
 In astrophysics, rogue planets are celestial bodies ejected from their star system. They drift through space with no gravitational anchor, no orbit, no relationship to anything else.
 They're still planets. They still have mass and momentum. They're not destroyed.
 They're just alone.
-Organizations without a gravitational center produce rogue teams: highly capable groups drifting through the company with no orbit, no alignment, no pull toward a shared purpose.
+Organisations without a gravitational center produce rogue teams: highly capable groups drifting through the company with no orbit, no alignment, no pull toward a shared purpose.
 
 In your next standup, don't ask what people are working on.
 Ask: "What is this team being pulled toward?"
@@ -63,7 +88,7 @@ The gravitational center was never explicitly defined, or it was defined and nev
 
 **Navigate**
 
-Every team member can explain what pulls the organization together, without checking a document. The purpose creates orbit, not the calendar.
+Every team member can explain what pulls the organisation together, without checking a document. The purpose creates orbit, not the calendar.
 
 **Tool**
 

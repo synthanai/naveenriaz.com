@@ -7,12 +7,20 @@ series_number: 11
 slug_name: belonging-fracture
 date: 2026-03-17
 description: "The loveless live only for themselves. The loving give even their bones for othe..."
-quote_top: "People do not quit from belonging fracture.\nThey disengage.\nThey stop offering ideas."
-quote_bottom: "Belonging is not teamwork.\nIt is an irreplaceability\nfelt by both sides."
+quote_top: |-
+  People do not quit from belonging fracture.
+  They disengage.
+  They stop offering ideas.
+quote_bottom: |-
+  Belonging is not teamwork.
+  It is an irreplaceability
+  felt by both sides.
 punch_line_1: "The loveless live only for themselves. The loving give even their bones for others."
 punch_line_2: "Belonging is the organizational form of love. Without it, everyone is just working for themselves."
 felt_hook: "Belonging isn't teamwork. It's something the org chart can't draw and the survey can't capture."
-kural_tamil: "அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்\nஎன்பும் உரியர் பிறர்க்கு."
+kural_tamil: |-
+  அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்
+  என்பும் உரியர் பிறர்க்கு.
 kural_translation: "The loveless live only for themselves; the loving give even their bones for others."
 kural_number: 72
 kural_bridge: "Belonging is the organizational form of love. Without it, everyone is just working for themselves."
@@ -22,10 +30,30 @@ next_knot: "organizations/024-the-culture-tax"
 next_knot_title: The Culture Tax
 untie_story: "A bank branch let tellers redesign their own workflows. Customer satisfaction improved because tellers were happier serving."
 untie_implement: "Ask every person on your team, one-on-one: 'What would be lost if you left?' If they can't answer..."
-untie_question: 'What would change in your organization if you untangled \"belonging fracture\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"belonging fracture\" this week?'
 origin_nodes: ["knots:022-recognition-deficit", "knots/organizations/022-recognition-deficit", "knots/organizations/024-the-culture-tax"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  A visitor would notice the separate tables.
+  
+  Your team works together. Belongs separately.
+  
+  Belonging isn't teamwork. It's something deeper.
+  
+  People perform without belonging. They just don't stay.
+  
+  The fracture happens before the resignation.
+  
+  Ask: "does everyone here feel they belong?"
+  
+  That loneliness? It's hiding in plain sight. 🔬
+  
+  #108KNOTS #UntanglingCulture #Knot023
+  
+  💡 Organizations where people belong #thrive.
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/023-belonging-fracture/"
+published_at: "2026-04-13T13:09:00.583Z"
 ---
 
 The loveless live only for themselves. The loving give even their bones for others.

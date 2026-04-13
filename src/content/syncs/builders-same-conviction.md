@@ -1,5 +1,5 @@
 ---
-title: "When Two Builders Realize They Built the Same Thing"
+title: "When Two Builders Realise They Built the Same Thing"
 date: 2026-04-07
 essence: "The most useful meetings are the ones where you don't learn a new idea. You meet someone who arrived at the same idea by a completely different road."
 signal_type: resonance

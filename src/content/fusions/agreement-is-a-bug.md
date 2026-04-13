@@ -50,7 +50,7 @@ The convergence runs deeper than the general architecture. The structural detail
 
 **Anti-recursion rules.** Nyk discovered that Socrates and Feynman, when unconstrained, enter an infinite questioning loop that consumes the entire context window. He invented the "Hemlock Rule": if Socrates asks a question already answered with evidence, force a 50-word position statement. No more questions. I encountered the exact same failure mode with a questioning-oriented "breaker" agent. The problem is structural, not prompt-level: questioning-oriented agents will question forever unless you build hard stops.
 
-**Domain-specific configurations.** Nyk defines 11 triads (architecture, strategy, ethics, debugging, etc.), each selecting 3 thinkers optimized for that domain's tensions. My system routes agents dynamically by domain. Same solution: not every decision needs all perspectives. Match the tension profile to the problem.
+**Domain-specific configurations.** Nyk defines 11 triads (architecture, strategy, ethics, debugging, etc.), each selecting 3 thinkers optimised for that domain's tensions. My system routes agents dynamically by domain. Same solution: not every decision needs all perspectives. Match the tension profile to the problem.
 
 **Blind spot declaration.** Every Nyk agent explicitly states what it misses. Socrates misses "hidden premises everyone accepts." Lao Tzu misses "when the solution is to stop trying." This is not humility. It is structural self-awareness, so the coordinator can ensure the roster's blind spots are covered by other agents.
 

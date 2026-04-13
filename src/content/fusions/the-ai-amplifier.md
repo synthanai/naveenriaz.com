@@ -52,7 +52,7 @@ We call this **Bottleneck Misalignment**. AI speeds up the code generation phase
 
 Here is where three ideas collide.
 
-**The promise of AI velocity** focuses entirely on the individual developer. It measures keystrokes, completion rates, and PRs opened. It is a local optimization. 
+**The promise of AI velocity** focuses entirely on the individual developer. It measures keystrokes, completion rates, and PRs opened. It is a local optimisation. 
 
 **Bottleneck misalignment** occurs because software delivery is a system constraint problem. Code sitting in a review queue is unverified inventory. Generating that inventory faster simply increases the holding cost and cognitive load of the system.
 

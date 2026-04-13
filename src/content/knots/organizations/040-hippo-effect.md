@@ -10,7 +10,9 @@ description: "A person's stature rises to match their will...."
 punch_line_1: "A person's stature rises to match their will."
 punch_line_2: "The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the room."
 felt_hook: "Then the SVP offered his 'initial thinking.' After that, the data didn't matter."
-kural_tamil: "பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்\nசால மிகுத்துப் பெயின்."
+kural_tamil: |-
+  பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்
+  சால மிகுத்துப் பெயின்.
 kural_translation: "As a flower rises to the water's height, so does a person's stature rise to match their will."
 kural_number: 475
 kural_bridge: "The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the room."
@@ -20,12 +22,30 @@ next_knot: "organizations/041-irreversibility-blindness"
 next_knot_title: Irreversibility Blindness
 untie_story: |
   A founder set a rule: any decision reversible within 30 days gets made in 24 hours. Velocity tripled.
-untie_question: 'What would change in your organization if you untangled \"hippo effect\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"hippo effect\" this week?'
 quote_top: Authority warps truth like gravity warps light
 quote_bottom: Power blinds analysis
 origin_nodes: ["knots:039-consensus-trap", "knots/organizations/039-consensus-trap", "knots/organizations/041-irreversibility-blindness"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The highest-paid person's opinion won. Again.
+  
+  Your data lost to seniority. Predictably.
+  
+  Authority overrules evidence. Every meeting. Reliably.
+  
+  The room defers to title, not truth.
+  
+  Hierarchy and evidence are different authorities.
+  
+  Ask the junior person to speak first.
+  
+  That deference? It's killing your intelligence. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot040
+  
+  💡 Organizations where the best idea wins #thrive.
 ---
 
 A person's stature rises to match their will.
@@ -78,4 +98,4 @@ In your next decision meeting, have the most senior person speak last. Watch whe
 
 **Emerge**
 
-When authority listens before speaking, better ideas survive, junior talent develops faster, and the organization starts making decisions based on evidence instead of deference.
+When authority listens before speaking, better ideas survive, junior talent develops faster, and the organisation starts making decisions based on evidence instead of deference.

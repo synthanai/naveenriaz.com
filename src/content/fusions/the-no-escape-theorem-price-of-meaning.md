@@ -64,7 +64,7 @@ The industry is currently pivoting to GraphRAG as the "savior" of memory. But Go
 
 ## What This Means for Your Architecture
 
-If you are building agentic systems for your organization, stop trying to find the "perfect" embedding model. It doesn't exist. Instead, you must build for the **principled solution**:
+If you are building agentic systems for your organisation, stop trying to find the "perfect" embedding model. It doesn't exist. Instead, you must build for the **principled solution**:
 
 1. **Decouple Storage from Reasoning**: Use high-fidelity episodic records (plain text, markdown, precise logs) for storage.
 2. **Use Semantics for Generalization only**: Let the "Mind" hunt for patterns, but let the "Body" verify the facts.

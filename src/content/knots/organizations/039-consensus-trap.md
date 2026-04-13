@@ -7,12 +7,18 @@ series_number: 3
 slug_name: consensus-trap
 date: 2026-03-17
 description: "Pursuing virtue steadily along the right path is the mark of lasting greatness...."
-quote_top: "Consensus felt like alignment.\nIt was exhaustion."
-quote_bottom: "Consensus traps virtue\ninto formless agreement."
+quote_top: |-
+  Consensus felt like alignment.
+  It was exhaustion.
+quote_bottom: |-
+  Consensus traps virtue
+  into formless agreement.
 punch_line_1: "Pursuing virtue steadily along the right path is the mark of lasting greatness."
 punch_line_2: "Consensus traps virtue into formless agreement. The right path requires someone to choose it, not everyone to agree on it."
 felt_hook: "The difference between alignment and exhaustion is invisible from the outside."
-kural_tamil: "ஆக்கம் கருதி முதலிழக்கும் செய்வினை\nஊக்கார் அறிவுடை யார்."
+kural_tamil: |-
+  ஆக்கம் கருதி முதலிழக்கும் செய்வினை
+  ஊக்கார் அறிவுடை யார்.
 kural_translation: "Pursuing virtue steadily along the right path is the mark of those who achieve lasting greatness."
 kural_number: 463
 kural_bridge: "Consensus traps virtue into formless agreement. The right path requires someone to choose it, not everyone to agree on it."
@@ -21,10 +27,28 @@ prev_knot_title: Decision Laundering
 next_knot: "organizations/040-hippo-effect"
 next_knot_title: Hippo Effect
 untie_story: 'A company introduced \"decision journals\" where leaders recorded their reasoning. Retrospectives became about process, not blame.'
-untie_question: 'What would change in your organization if you untangled \"consensus trap\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"consensus trap\" this week?'
 origin_nodes: ["knots:038-decision-laundering", "sparks:the-consensus-trap", "knots/organizations/038-decision-laundering", "knots/organizations/040-hippo-effect"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Everyone agreed. Nobody was actually convinced.
+  
+  Your team values consensus above correctness.
+  
+  Consensus isn't alignment. It's exhaustion disguised.
+  
+  The best idea lost to the loudest patience.
+  
+  When everyone agrees, nobody truly decided.
+  
+  Ask: "does anyone actually disagree? Honestly?"
+  
+  That unanimity? It's surrender, not agreement. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot039
+  
+  💡 Leaders who seek dissent, not consensus #thrive.
 ---
 
 Pursuing virtue steadily along the right path is the mark of lasting greatness.
@@ -49,7 +73,7 @@ The decision exists. It just has no energy in it.
 Next time your team seeks consensus, try this instead: ask each person to name their actual first choice. Not the compromise. The real one.
 If seven people have seven different first choices, you don't need consensus. You need a decision-maker.
 Appoint one. Let them choose. Let them be wrong. Let them learn.
-That's how organizations build judgment. Not by averaging it away.
+That's how organisations build judgment. Not by averaging it away.
 
 That comfortable mediocrity has a name. **Consensus Trap**.
 And once you see it, you can't unsee it.

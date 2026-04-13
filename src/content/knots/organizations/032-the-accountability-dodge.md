@@ -10,7 +10,9 @@ description: "Fortune abandons the leader who doubts a capable person mid-task..
 punch_line_1: "Fortune abandons the leader who doubts a capable person mid-task."
 punch_line_2: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
 felt_hook: "Shared accountability is diluted accountability. Always."
-kural_tamil: "வானோக்கி வாழும் உலகெல்லாம் மன்னவன்\nகோல் நோக்கி வாழுங் குடி."
+kural_tamil: |-
+  வானோக்கி வாழும் உலகெல்லாம் மன்னவன்
+  கோல் நோக்கி வாழுங் குடி.
 kural_translation: "Fortune abandons the leader who doubts a capable person in the midst of work."
 kural_number: 542
 kural_bridge: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
@@ -19,12 +21,30 @@ prev_knot_title: Trust Asymmetry
 next_knot: "organizations/033-surveillance-culture"
 next_knot_title: Surveillance Culture
 untie_story: "A supplier relationship was rebuilt after one honest conversation about a delivery failure. Honesty saved the contract."
-untie_question: 'What would change in your organization if you untangled \"the accountability dodge\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"the accountability dodge\" this week?'
 quote_top: Shared accountability dilutes ownership into nothingness
 quote_bottom: Name one owner
 origin_nodes: ["knots:031-trust-asymmetry", "knots/organizations/031-trust-asymmetry", "knots/organizations/033-surveillance-culture"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The evidence: nobody owns the failure.
+  
+  Your team has collective responsibility for nothing.
+  
+  "We all own it" means nobody does.
+  
+  Shared accountability is diluted accountability. Always.
+  
+  When everyone is responsible, nobody is.
+  
+  Name one owner for one outcome today.
+  
+  That diffusion? It's accountability's disappearing act. ⚖️
+  
+  #108KNOTS #UntanglingTrust #Knot032
+  
+  💡 Cultures where ownership has a name #thrive.
 ---
 
 Fortune abandons the leader who doubts a capable person mid-task.
@@ -61,7 +81,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Accountability diffused because collective ownership felt collaborative. Assigning one name felt accusatory. The organization confused shared responsibility with shared accountability. Over time, 'we all own it' became 'nobody owns it,' and nobody noticed the transition.
+Accountability diffused because collective ownership felt collaborative. Assigning one name felt accusatory. The organisation confused shared responsibility with shared accountability. Over time, 'we all own it' became 'nobody owns it,' and nobody noticed the transition.
 
 **Navigate**
 

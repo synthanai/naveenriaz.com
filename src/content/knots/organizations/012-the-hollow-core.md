@@ -15,7 +15,9 @@ felt_hook: |
 emotion_target: |
   Grief: the recognition that something essential was lost and nobody mourned it
 never_say: ["purpose-driven", "core values alignment", "strategic clarity"]
-kural_tamil: "உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது\nதள்ளினுந் தள்ளாமை நீர்த்து."
+kural_tamil: |-
+  உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது
+  தள்ளினுந் தள்ளாமை நீர்த்து.
 kural_translation: "In all you think, think of rising; even if you fail, the aspiration itself ennobles."
 kural_number: 596
 kural_bridge: "A hollow core is what remains when the aspiration to rise has been replaced by the aspiration to grow."
@@ -23,9 +25,9 @@ prev_knot: "organizations/011-identity-fragility"
 prev_knot_title: Identity Fragility
 next_knot: "organizations/013-performative-safety"
 next_knot_title: Performative Safety
-untie_story: "A church congregation realized their identity was their practice, not their building. Moving locations proved it clearly."
+untie_story: "A church congregation realised their identity was their practice, not their building. Moving locations proved it clearly."
 untie_implement: "At your next board or leadership meeting, add one agenda item: 'What did we deepen this quarter?'..."
-untie_question: 'What would change in your organization if you untangled \"the hollow core\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"the hollow core\" this week?'
 quote_top: "Valluvar's standard isn't growth; it's elevation, not expansion."
 quote_bottom: "Meaning shrinks, numbers grow."
 origin_nodes: ["knots:011-identity-fragility", "knots/organizations/011-identity-fragility", "knots/organizations/013-performative-safety"]
@@ -33,6 +35,24 @@ valence: mixed
 status: published
 approved_at: "2026-03-30T05:09:00.687Z"
 published_at: "2026-04-03T12:40:48.218Z"
+linkedin_post: |-
+  What does your organization truly believe?
+  
+  Not the poster. The actual practiced truth.
+  
+  Everything functions. Nothing has a center.
+  
+  The hollow core produces competent emptiness.
+  
+  Without a core, direction is just motion.
+  
+  Name one belief that costs you something.
+  
+  That void? It's at the center. 🪞
+  
+  #108KNOTS #UntanglingIdentity #Knot012
+  
+  💡 Organizations with a core that holds #thrive.
 ---
 
 In all you think, think of rising.
@@ -54,7 +74,7 @@ Nobody gets promoted for maintaining the core.
 The system rewards expansion, and competent hollowness scales perfectly.
 In thermodynamics, heat death is the state where a system has maximum entropy: everything is evenly distributed, and nothing can do work anymore.
 The energy is technically still there. But there's no gradient, no difference, no tension left to drive anything.
-An organization with a hollow core is the same: all the resources are present, all the people are busy, but there's no animating force pulling it in any direction.
+An organisation with a hollow core is the same: all the resources are present, all the people are busy, but there's no animating force pulling it in any direction.
 Motion without intention. Activity without aliveness.
 
 Ask your leadership team one question tomorrow.
@@ -71,11 +91,11 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The organization grew outward while the center emptied. More headcount, more revenue, more products, less meaning. This is not because leaders do not care about purpose. It is because growth is easier to measure than depth, so the system rewards hollowing. The metrics dashboard is full. The soul dashboard is empty. Nobody built one.
+The organisation grew outward while the center emptied. More headcount, more revenue, more products, less meaning. This is not because leaders do not care about purpose. It is because growth is easier to measure than depth, so the system rewards hollowing. The metrics dashboard is full. The soul dashboard is empty. Nobody built one.
 
 **Navigate**
 
-Growth and depth increase together. The organization can point to what it stands for with the same precision that it points to its revenue. The center is full, not just the edges.
+Growth and depth increase together. The organisation can point to what it stands for with the same precision that it points to its revenue. The center is full, not just the edges.
 
 **Tool**
 
@@ -87,4 +107,4 @@ At your next board or leadership meeting, add one agenda item: "What did we deep
 
 **Emerge**
 
-When depth is measured alongside growth, the organization stops feeling like a machine and starts feeling like a living system. People describe their work with pride, not just accomplishment. The best people stay because they are building something that matters, not just something that scales.
+When depth is measured alongside growth, the organisation stops feeling like a machine and starts feeling like a living system. People describe their work with pride, not just accomplishment. The best people stay because they are building something that matters, not just something that scales.

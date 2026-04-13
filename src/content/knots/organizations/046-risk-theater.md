@@ -10,7 +10,9 @@ description: "The wise foresee outcomes. The unwise cannot know what approaches.
 punch_line_1: "The wise foresee outcomes. The unwise cannot know what approaches."
 punch_line_2: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
 felt_hook: "The risk register managed the risks that were easy to articulate, not the risks that were likely to occur."
-kural_tamil: "உடைத்தம் வலியறியார் ஊக்கத்தின் ஊக்கி\nஇடைக்கண் முரிந்தார் பலர்."
+kural_tamil: |-
+  உடைத்தம் வலியறியார் ஊக்கத்தின் ஊக்கி
+  இடைக்கண் முரிந்தார் பலர்.
 kural_translation: "The wise foresee outcomes; the unwise cannot know what approaches."
 kural_number: 473
 kural_bridge: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
@@ -19,12 +21,30 @@ prev_knot_title: Meeting To Decision Ratio
 next_knot: "organizations/047-information-overload"
 next_knot_title: Information Overload
 untie_story: "A manager tracked how many decisions they made vs. delegated weekly. The ratio improved from 90/10 to 40/60 in a quarter."
-untie_question: 'What would change in your organization if you untangled \"risk theater\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"risk theater\" this week?'
 quote_top: "Risk registers predict comfortable storms, not real ones."
 quote_bottom: "Anticipate beyond the known."
 origin_nodes: ["knots:045-meeting-to-decision-ratio", "knots/organizations/045-meeting-to-decision-ratio", "knots/organizations/047-information-overload"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Your risk register is impressive. And fictional.
+  
+  Your organization performs risk management beautifully.
+  
+  The slides look rigorous. Reality disagrees.
+  
+  Measured risk replaces actual risk literacy.
+  
+  Risk theater is compliance without comprehension.
+  
+  Name one risk not on any register.
+  
+  Name it. Then own it. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot046
+  
+  💡 Leaders who face real risk honestly #thrive.
 ---
 
 The wise foresee outcomes. The unwise cannot know what approaches.
@@ -49,7 +69,7 @@ In meteorology, forecast models are built on historical data and known atmospher
 Organizational risk theater operates identically: risk registers are built on known categories. They excel at predicting risks that look like past risks. But the risks that are most damaging are precisely the ones that don't match any previous pattern.
 The model is confident. The storm is somewhere else entirely.
 
-Look at your risk register. Now look at the last three actual disruptions your organization experienced.
+Look at your risk register. Now look at the last three actual disruptions your organisation experienced.
 How many of them were on the register?
 If the answer is zero, your risk register isn't wrong. It's performing a different function: reassuring stakeholders that risk is managed.
 Risk literacy would mean saying: 'We don't know what we don't know, and here's how we'll respond when the unknown arrives.'
@@ -77,4 +97,4 @@ Compare your risk register to the last three actual disruptions. If none were re
 
 **Emerge**
 
-When risk literacy replaces risk theater, the organization stops being surprised by predictable disruptions and starts building genuine adaptive capacity.
+When risk literacy replaces risk theater, the organisation stops being surprised by predictable disruptions and starts building genuine adaptive capacity.

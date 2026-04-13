@@ -7,8 +7,13 @@ signal: "Action and transformation fail because we fight gravity with willpower 
 temperature: "🔥🔥"
 tags: [action, attention, cognitive_architecture, personal_sovereignty]
 description: "Discipline is the wrong framework for transformation. You are fighting gravity."
-quote_top: "Action and transformation \nfail because we fight \ngravity with willpower."
-quote_bottom: "It is about shifting \nyour internal thermostat."
+quote_top: |-
+  Action and transformation 
+  fail because we fight 
+  gravity with willpower.
+quote_bottom: |-
+  It is about shifting 
+  your internal thermostat.
 origin_nodes: []
 valence: "mixed"
 friction: ""

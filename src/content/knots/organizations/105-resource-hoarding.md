@@ -8,11 +8,13 @@ slug_name: resource-hoarding
 date: 2026-03-17
 description: |
   To give and live with honor: no greater profit exists....
-punch_line_1: |
+punch_line_1: |-
   To give and live with honor: no greater profit exists.
 punch_line_2: "Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits."
 felt_hook: "Meanwhile, the team across the hall is working weekends because they can't hire fast enough. The budget that could solve their problem sits unspent in another department's reserve."
-kural_tamil: "காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்\nஅன்னநீ ரார்க்கே உள."
+kural_tamil: |-
+  காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்
+  அன்னநீ ரார்க்கே உள.
 kural_translation: |
   To give and live with honor: there is no greater profit in life.
 kural_number: 527
@@ -22,17 +24,35 @@ prev_knot_title: Urgency Addiction
 next_knot: "organizations/106-celebration-deficit"
 next_knot_title: Celebration Deficit
 untie_story: 'A tech team replaced their retrospective with a monthly \"energy retrospective.\" What drained us? What charged us? Actions followed.'
-untie_question: 'What would change in your organization if you untangled \"resource hoarding\" this week?'
-quote_top: "Resource hoarding starves your organization's downstream ecosystem."
+untie_question: 'What would change in your organisation if you untangled \"resource hoarding\" this week?'
+quote_top: "Resource hoarding starves your organisation's downstream ecosystem."
 quote_bottom: "Redistribute for collective vitality."
 origin_nodes: ["knots:104-urgency-addiction", "knots/organizations/104-urgency-addiction", "knots/organizations/106-celebration-deficit"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Symptoms: one team drowning. One team surplus.
+  
+  Your departments hoard people and budgets.
+  
+  "If I give them up: gone forever."
+  
+  Nobody hoards when reallocation is temporary.
+  
+  Resource hoarding is rational when giving means losing.
+  
+  Make lending safe and returning guaranteed.
+  
+  That scarcity? It's designed by fear. 🩺
+  
+  #108KNOTS #UntanglingEnergy #Knot105
+  
+  💡 Teams that share resources generously #thrive.
 ---
 
 To give and live with honor: no greater profit exists.
 Valluvar places generosity at the center of a meaningful life.
-One team is drowning. One team has surplus. They're in the same organization.
+One team is drowning. One team has surplus. They're in the same organisation.
 Your departments hoard people and budgets like wartime rations. Each team justifies its allocation as 'minimum viable.' Each defends its headcount as 'barely sufficient.'
 Meanwhile, the team across the hall is working weekends because they can't hire fast enough. The budget that could solve their problem sits unspent in another department's reserve.
 
@@ -68,7 +88,7 @@ Resource sharing is tracked and credited. Leaders who lend resources to other te
 
 **Tool**
 
-CORE / Legacy: the framework that measures what a leader gives to the broader organization. Legacy makes generosity visible and rewarded.
+CORE / Legacy: the framework that measures what a leader gives to the broader organisation. Legacy makes generosity visible and rewarded.
 
 **Implement**
 

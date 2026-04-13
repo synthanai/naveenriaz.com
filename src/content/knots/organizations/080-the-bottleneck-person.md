@@ -9,8 +9,10 @@ date: 2026-03-17
 description: "One who seeks no ease in good times builds resilience for hard times...."
 punch_line_1: "One who seeks no ease in good times builds resilience for hard times."
 punch_line_2: "The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop."
-felt_hook: "They're not hoarding power. They're drowning in it. The organization funneled everything through one point because that point was reliable. Now that reliability is the constraint."
-kural_tamil: "கருவியும் காலமும் செய்கையும் செய்யும்\nஅருவினையும் மாண்டது அமைச்சு."
+felt_hook: "They're not hoarding power. They're drowning in it. The organisation funneled everything through one point because that point was reliable. Now that reliability is the constraint."
+kural_tamil: |-
+  கருவியும் காலமும் செய்கையும் செய்யும்
+  அருவினையும் மாண்டது அமைச்சு.
 kural_translation: "One who seeks no pleasure in prosperity gains immunity from pain in adversity."
 kural_number: 631
 kural_bridge: "The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop."
@@ -19,19 +21,37 @@ prev_knot_title: Technology Sprawl
 next_knot: "organizations/081-over-centralization"
 next_knot_title: Over Centralization
 untie_story: "A tech company moved from project teams to product teams. Continuity replaced context-switching. Quality followed."
-untie_question: 'What would change in your organization if you untangled \"the bottleneck person\" this week?'
-quote_top: "A bottleneck person chokes flow. Organization starves."
+untie_question: 'What would change in your organisation if you untangled \"the bottleneck person\" this week?'
+quote_top: "A bottleneck person chokes flow. Organisation starves."
 quote_bottom: "Redistribute before damage."
 origin_nodes: ["knots:079-technology-sprawl", "knots/organizations/079-technology-sprawl", "knots/organizations/081-over-centralization"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The blueprint says "distributed leadership." One person decides.
+  
+  Your organization stops when one person stops.
+  
+  That person is overloaded. Always. Predictably.
+  
+  The bottleneck isn't capacity. It's architecture.
+  
+  Single-point dependency is a design choice.
+  
+  Identify who blocks everything. Redistribute one decision.
+  
+  That dependency? It's a ticking clock. 📐
+  
+  #108KNOTS #UntanglingStructure #Knot080
+  
+  💡 Organizations that distribute knowledge #thrive.
 ---
 
 One who seeks no ease in good times builds resilience for hard times.
-Valluvar warns against complacency. But your organization built a different kind of vulnerability.
-The organization stops when one person stops. Not because they're irreplaceable. Because the system was built to flow through them.
+Valluvar warns against complacency. But your organisation built a different kind of vulnerability.
+The organisation stops when one person stops. Not because they're irreplaceable. Because the system was built to flow through them.
 Every approval requires their signature. Every decision requires their input. Every escalation lands on their desk.
-They're not hoarding power. They're drowning in it. The organization funneled everything through one point because that point was reliable. Now that reliability is the constraint.
+They're not hoarding power. They're drowning in it. The organisation funneled everything through one point because that point was reliable. Now that reliability is the constraint.
 
 Accenture restructures like other companies hold town halls: regularly and with diminishing impact.
 I counted five major reorganizations between 2014 and 2024.
@@ -41,7 +61,7 @@ The addiction to restructuring is indistinguishable from the fear of committing 
 
 Flow restricted to a single pipe narrows everything.
 In hydraulics, a bottleneck occurs when a wide flow is forced through a narrow pipe. The flow rate is determined not by the capacity of the system, but by the narrowest point.
-Organizational bottleneck persons work identically: the organization's capacity is determined not by the team's ability, but by one person's bandwidth.
+Organizational bottleneck persons work identically: the organisation's capacity is determined not by the team's ability, but by one person's bandwidth.
 The pipe doesn't know it's the bottleneck. It just processes flow as fast as it can. But the system upstream is waiting, and the system downstream is starved.
 
 Identify the person who, if they disappeared for a month, would create the most damage.
@@ -71,4 +91,4 @@ Identify the person whose absence would cause the most disruption. Redistribute 
 
 **Emerge**
 
-When flow is distributed, the organization gains resilience, the bottleneck person regains capacity, and the team discovers latent talent that was hidden behind the queue.
+When flow is distributed, the organisation gains resilience, the bottleneck person regains capacity, and the team discovers latent talent that was hidden behind the queue.

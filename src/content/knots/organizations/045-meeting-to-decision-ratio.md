@@ -10,7 +10,9 @@ description: "An enterprise that destroys its capital while seeking gain is the 
 punch_line_1: "An enterprise that destroys its capital while seeking gain is the death of initiative."
 punch_line_2: "Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment."
 felt_hook: "You left every meeting with more questions, fewer answers, and a follow-up on the calendar."
-kural_tamil: "எண்ணிய எண்ணியாங்கு எய்துவர் எண்ணியார்\nதிண்ணியர் ஆகப் பெறின்."
+kural_tamil: |-
+  எண்ணிய எண்ணியாங்கு எய்துவர் எண்ணியார்
+  திண்ணியர் ஆகப் பெறின்.
 kural_translation: "An enterprise that destroys its capital while seeking gain is the death of initiative."
 kural_number: 666
 kural_bridge: "Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment."
@@ -20,12 +22,30 @@ next_knot: "organizations/046-risk-theater"
 next_knot_title: Risk Theater
 untie_story: 'A school board created a \"student impact test\" for every policy decision. Three pending policies were reversed.'
 untie_implement: "Track one metric this week: 'did each meeting produce a decision?"
-untie_question: 'What would change in your organization if you untangled \"meeting to decision ratio\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"meeting to decision ratio\" this week?'
 quote_top: "Activity consuming more than it produces is organizational death."
 quote_bottom: "Exhaustion isn't output."
 origin_nodes: ["knots:044-decision-fragmentation", "knots/organizations/044-decision-fragmentation", "knots/organizations/046-risk-theater"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Fourteen meetings. Zero decisions. Last month.
+  
+  Your calendar is dense. Your output isn't.
+  
+  Meetings feel productive. They're not. Usually.
+  
+  Activity replaces output. Nobody notices the difference.
+  
+  Decisions per meeting is your real KPI.
+  
+  End every meeting with: "what did we decide?"
+  
+  That ratio? It reveals the truth. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot045
+  
+  💡 Organizations that decide in meetings #thrive.
 ---
 
 An enterprise that destroys its capital while seeking gain is the death of initiative.
@@ -47,7 +67,7 @@ Sunk cost doesn't feel like a fallacy when it's your money.
 
 A high meeting-to-decision ratio is friction consuming the machine.
 In engineering, mechanical advantage measures how much useful work a machine produces relative to the effort applied. Friction is the enemy: it converts applied energy into waste heat without producing any useful output.
-Organizations with high meeting-to-decision ratios are high-friction machines: enormous energy goes in, minimal output comes out. The energy isn't wasted visibly. It's converted into discussions, alignments, updates, and check-ins that feel like work but produce no decisions.
+Organisations with high meeting-to-decision ratios are high-friction machines: enormous energy goes in, minimal output comes out. The energy isn't wasted visibly. It's converted into discussions, alignments, updates, and check-ins that feel like work but produce no decisions.
 The machine is running. The gears are turning. Nothing is being built.
 
 For every meeting this week, track one metric: did this meeting produce a decision?

@@ -10,7 +10,9 @@ description: "People who fall from position are like hair fallen from the head..
 punch_line_1: "People who fall from position are like hair fallen from the head."
 punch_line_2: "Hoarded talent is still present but no longer growing. The person is there; their potential has been severed."
 felt_hook: "The talent isn't hoarded maliciously. It's hoarded rationally. The manager's incentive is team output. Moving the best person out reduces output. So the best person stays."
-kural_tamil: "வாரி பெருக்கி வளம்படுத்து உற்றவை\nஆராய்வான் செய்க வினை."
+kural_tamil: |-
+  வாரி பெருக்கி வளம்படுத்து உற்றவை
+  ஆராய்வான் செய்க வினை.
 kural_translation: |
   People who fall from their position are like hair fallen from the head: still present, but no longer part of the whole.
 kural_number: 512
@@ -22,12 +24,30 @@ next_knot_title: Hiring Mismatch
 untie_story: "A company replaced annual training with monthly micro-challenges. Completion went from 40% to 92%. Skills actually transferred."
 untie_implement: "Ask every manager: 'is there someone you'd be afraid to lose?"
 # DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
-untie_question: 'What would change in your organization if you untangled \"talent hoarding\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"talent hoarding\" this week?'
 quote_top: "Talent hoarding loses growth; eventually, the talent leaves entirely."
 quote_bottom: "Output, potential gone."
 origin_nodes: ["knots:085-skill-obsolescence", "sparks:talent-hoarding", "knots/organizations/085-skill-obsolescence", "knots/organizations/087-hiring-mismatch", "sparks/talent-hoarding"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Here's your best performer. They're trapped.
+  
+  Your managers keep top talent in place.
+  
+  Hoarding disguised as "they're too important here."
+  
+  The person grows bitter. Then leaves entirely.
+  
+  Talent hoarding is retention-by-imprisonment. It fails.
+  
+  Release one trapped talent to another team.
+  
+  Start somewhere. 🏋
+  
+  #108KNOTS #UntanglingCapability #Knot086
+  
+  💡 Organizations that share their talent #thrive.
 ---
 
 People who fall from position are like hair fallen from the head.
@@ -48,7 +68,7 @@ It extinguished knowledge that existed in no document, only in the neural pathwa
 Capital trapped in low-yield accounts loses value through opportunity cost.
 In economics, resources locked in unproductive allocations can't compound elsewhere. The investor sees stable returns but misses the exponential growth available in better-fit investments.
 Talent hoarding works identically: the top performer produces reliably for their current team. But their potential compounds at a fraction of the rate it would in a role with more challenge, broader scope, or greater learning.
-The manager retains the output. The organization loses the growth. And eventually, the talent leaves entirely, taking both output and potential to a competitor.
+The manager retains the output. The organisation loses the growth. And eventually, the talent leaves entirely, taking both output and potential to a competitor.
 
 Ask every manager: is there someone on your team you'd be afraid to lose?
 Now ask: what growth path are you providing them?
@@ -70,7 +90,7 @@ Talent mobility is measured. Managers are rewarded for developing and releasing 
 
 **Tool**
 
-CORE / Legacy: the framework that measures what a manager gives to the organization, not just what their team produces. Legacy makes talent development visible.
+CORE / Legacy: the framework that measures what a manager gives to the organisation, not just what their team produces. Legacy makes talent development visible.
 
 **Implement**
 
@@ -78,4 +98,4 @@ Ask every manager: is there someone you'd be afraid to lose? What growth path ar
 
 **Emerge**
 
-When mobility is rewarded, talent flows to highest-value roles, manager quality improves, and the organization stops losing people because it refused to grow them.
+When mobility is rewarded, talent flows to highest-value roles, manager quality improves, and the organisation stops losing people because it refused to grow them.

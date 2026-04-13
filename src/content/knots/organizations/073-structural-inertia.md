@@ -10,7 +10,9 @@ description: "As the flower rises to the water height, so does stature match the
 punch_line_1: "As the flower rises to the water height, so does stature match the will."
 punch_line_2: "Structural inertia holds the flower at yesterday's water level while today's water has risen."
 felt_hook: "The restructure changed the diagram. It didn't change the organism."
-kural_tamil: "பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்\nசால மிகுத்துப் பெயின்."
+kural_tamil: |-
+  பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்
+  சால மிகுத்துப் பெயின்.
 kural_translation: "As the flower rises to the water's height, so does stature rise to match the will."
 kural_number: 475
 kural_bridge: "Structural inertia holds the flower at yesterday's water level while today's water has risen."
@@ -21,12 +23,30 @@ next_knot_title: Silo Syndrome
 untie_story: "A company eliminated one management layer. Span of control increased but decision speed doubled and satisfaction rose."
 untie_implement: "Ask two questions about your last restructure: 'what behavior changed?"
 # DUPLICATE_KEY_REMOVED: untie_implement: "Every restructure includes behavioral change indicators: 'specific actions that should change as a..."
-untie_question: 'What would change in your organization if you untangled \"structural inertia\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"structural inertia\" this week?'
 quote_top: "Structure changed, but human behavior ossified."
 quote_bottom: "Inertia conquers all."
 origin_nodes: ["knots:072-the-insight-graveyard", "knots/organizations/072-the-insight-graveyard", "knots/organizations/074-silo-syndrome"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The blueprint says agile. The building isn't.
+  
+  Your org chart was redrawn last year.
+  
+  Lines changed. Behavior stayed exactly the same.
+  
+  Restructuring without rewiring is rearranging furniture.
+  
+  Structure follows behavior, not the other way.
+  
+  Change one process before one org chart line.
+  
+  That reorg? It moved nothing real. 📐
+  
+  #108KNOTS #UntanglingStructure #Knot073
+  
+  💡 Organizations that redesign for the future #thrive.
 ---
 
 From the outside, the restructure looked decisive. New org chart. Cleaner reporting lines. A memo from the CEO about "operating with agility." The slides were beautiful. The announcement video had music.

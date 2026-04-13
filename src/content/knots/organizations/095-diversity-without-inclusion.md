@@ -10,8 +10,10 @@ description: "Touching brings joy to the body. Hearing words brings joy to the e
 punch_line_1: "Touching brings joy to the body. Hearing words brings joy to the ear."
 punch_line_2: "Diversity without inclusion is like having children present but never hearing their words. Presence without voice is not participation."
 felt_hook: |
-  The organization has invested in representation: diverse hiring pipelines, inclusive job descriptions, demographic targets. The portfolio of faces changed. The portfolio of ideas didn't.
-kural_tamil: "குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்\nமத஧க்கண் மறுப்போல் உயர்ந்து."
+  The organisation has invested in representation: diverse hiring pipelines, inclusive job descriptions, demographic targets. The portfolio of faces changed. The portfolio of ideas didn't.
+kural_tamil: |-
+  குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்
+  மத஧க்கண் மறுப்போல் உயர்ந்து.
 kural_translation: "Touching the body of your children brings joy; hearing their words brings joy to the ear."
 kural_number: 957
 kural_bridge: "Diversity without inclusion is like having children present but never hearing their words. Presence without voice is not participation."
@@ -22,19 +24,37 @@ next_knot_title: The Ai Readiness Gap
 untie_story: 'A consulting firm created peer-teaching \"guilds\" by specialty. Knowledge that was locked in individuals became organizational capability.'
 untie_implement: "Meeting architecture includes structural mechanisms for diverse input: 'written pre-reads, round-r..."
 # DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
-untie_question: 'What would change in your organization if you untangled \"diversity without inclusion\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"diversity without inclusion\" this week?'
 quote_top: "Diverse hires muted by cultural norms are visual diversity, not audible diversity."
 quote_bottom: "Presence is not power."
 origin_nodes: ["knots:094-onboarding-failure", "knots/organizations/094-onboarding-failure", "knots/organizations/096-the-ai-readiness-gap"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Your team photo looks diverse. Meetings don't sound it.
+  
+  Presence is not power. Being counted isn't counting.
+  
+  Different faces. Same three voices deciding.
+  
+  Diversity without inclusion is expensive decoration.
+  
+  You hired diversity. Did you design for it?
+  
+  Measure whose ideas influence decisions. Not headcount.
+  
+  That silence? Those voices matter. Unheard. 🏋️
+  
+  #108KNOTS #UntanglingCapability #Knot095
+  
+  💡 Cultures where inclusion is real #thrive.
 ---
 
 Touching brings joy to the body. Hearing words brings joy to the ear.
 Valluvar wants both: the presence and the voice.
 Your team photo looks diverse. The meetings don't sound diverse.
 Presence is not power. Being counted isn't counting. Being hired isn't being heard.
-The organization has invested in representation: diverse hiring pipelines, inclusive job descriptions, demographic targets. The portfolio of faces changed. The portfolio of ideas didn't.
+The organisation has invested in representation: diverse hiring pipelines, inclusive job descriptions, demographic targets. The portfolio of faces changed. The portfolio of ideas didn't.
 
 Pinterest's 2020 reckoning came from inside.
 Former employees, including Ifeoma Ozoma and Aerica Shimizu Banks, publicly documented systemic pay gaps.
@@ -59,7 +79,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Inclusion failed because the organization designed for one communication style. Meeting structures, feedback mechanisms, and decision processes all favored assertive, extroverted, Western-norm behavior.
+Inclusion failed because the organisation designed for one communication style. Meeting structures, feedback mechanisms, and decision processes all favored assertive, extroverted, Western-norm behavior.
 
 **Navigate**
 

@@ -7,15 +7,23 @@ series_number: 8
 slug_name: purpose-commodification
 date: 2026-03-17
 description: "Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which one is yours?"
-quote_top: "A purpose statement that could\nbelong to any company on the planet,\nbelongs to none."
-quote_bottom: "When purpose is generic,\nit protects nothing, filters nothing,\nand inspires nothing."
+quote_top: |-
+  A purpose statement that could
+  belong to any company on the planet,
+  belongs to none.
+quote_bottom: |-
+  When purpose is generic,
+  it protects nothing, filters nothing,
+  and inspires nothing.
 punch_line_1: "The purpose is still there."
 punch_line_2: "Someone just made it comfortable."
 felt_hook: "Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which one is yours?"
 emotion_target: |
   Interchangeability: the feeling that your organization could be swapped and nobody would notice
 never_say: ["empower", "unlock potential", "world-class (the holy trinity of generic)"]
-kural_tamil: "சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க\nசொல்லிற் பயனிலாச் சொல்."
+kural_tamil: |-
+  சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க
+  சொல்லிற் பயனிலாச் சொல்.
 kural_translation: "Speak words that serve a purpose; never speak words that serve none."
 kural_number: 200
 kural_bridge: "When purpose is smoothed for mass appeal, the words serve nobody."
@@ -24,12 +32,30 @@ prev_knot_title: Split Personality
 next_knot: "organizations/009-vision-inflation"
 next_knot_title: Vision Inflation
 untie_story: "A school principal asked students what the school stood for. Their answers rebuilt the mission statement authentically."
-untie_question: 'What would change in your organization if you untangled \"purpose commodification\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"purpose commodification\" this week?'
 origin_nodes: ["knots:007-split-personality", "knots/organizations/007-split-personality", "knots/organizations/009-vision-inflation"]
 valence: mixed
 status: published
 approved_at: "2026-03-27T03:44:36.989Z"
 published_at: "2026-03-30T05:07:43.126Z"
+linkedin_post: |-
+  Your purpose statement is a product.
+  
+  Someone packaged meaning into a tagline.
+  
+  Purpose was real once. Then: marketing.
+  
+  Commodified purpose feels hollow. It should.
+  
+  When purpose becomes brand, soul disappears.
+  
+  Strip the branding. What purpose remains?
+  
+  That emptiness? It used to mean something. 🪞
+  
+  #108KNOTS #UntanglingIdentity #Knot008
+  
+  💡 Teams that protect their purpose #thrive.
 ---
 
 Speak words that serve a purpose. Never speak words that serve none.
@@ -69,15 +95,15 @@ The purpose statement sounds like every competitor's purpose statement because i
 
 **Navigate**
 
-The purpose statement could not belong to any other organization. It is specific enough to say no to opportunities, honest enough to sound unfashionable, and true enough that employees quote it without being prompted.
+The purpose statement could not belong to any other organisation. It is specific enough to say no to opportunities, honest enough to sound unfashionable, and true enough that employees quote it without being prompted.
 
 **Tool**
 
-**CORE / Reason**: the gravitational center that must be excavated, not manufactured. Reason is the answer to "why does THIS organization exist, and what would be lost if it disappeared?"
+**CORE / Reason**: the gravitational center that must be excavated, not manufactured. Reason is the answer to "why does THIS organisation exist, and what would be lost if it disappeared?"
 
 **Implement**
 
-Put your purpose statement next to your top 3 competitors' purpose statements. Remove the company names. If a stranger cannot tell which one is yours, the purpose is commodified. Now rewrite it in one sentence that only your organization could honestly say.
+Put your purpose statement next to your top 3 competitors' purpose statements. Remove the company names. If a stranger cannot tell which one is yours, the purpose is commodified. Now rewrite it in one sentence that only your organisation could honestly say.
 
 **Emerge**
 

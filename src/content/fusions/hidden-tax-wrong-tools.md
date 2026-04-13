@@ -16,7 +16,7 @@ fusion_point:
     - "AI agent infrastructure (machine-centric execution)"
     - "Purpose-built vs general-purpose systems"
 quote_top: "Borrowing tools for unintended uses levies an invisible, expensive tax."
-quote_bottom: "Optimize for machine, not human."
+quote_bottom: "Optimise for machine, not human."
 origin_nodes: []
 valence: "mixed"
 friction: ""

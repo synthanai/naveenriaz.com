@@ -8,29 +8,49 @@ slug_name: recognition-deficit
 date: 2026-03-17
 description: "The world honors those who do good with grace...."
 punch_line_1: "The world honors those who do good with grace."
-punch_line_2: "The world honors visible grace. Organizations forget the invisible labor that holds them together."
+punch_line_2: "The world honors visible grace. Organisations forget the invisible labor that holds them together."
 felt_hook: "The crisis hero gets the award. The quiet builder gets nothing."
-kural_tamil: "ஆற்றுவார் ஆற்றல் பணிதல் அதுசான்றோர்\nமாற்றாரை மாற்றும் படை."
+kural_tamil: |-
+  ஆற்றுவார் ஆற்றல் பணிதல் அதுசான்றோர்
+  மாற்றாரை மாற்றும் படை.
 kural_translation: "The world honors those who do good with grace and genuine benefit."
 kural_number: 985
-kural_bridge: "The world honors visible grace. Organizations forget the invisible labor that holds them together."
+kural_bridge: "The world honors visible grace. Organisations forget the invisible labor that holds them together."
 prev_knot: "organizations/021-meeting-toxicity"
 prev_knot_title: Meeting Toxicity
 next_knot: "organizations/023-belonging-fracture"
 next_knot_title: Belonging Fracture
 untie_story: "A school created student-led culture committees. Adults were surprised at how much students wanted to contribute."
-untie_question: 'What would change in your organization if you untangled \"recognition deficit\" this week?'
-quote_top: "Invisible value sustains organizations and entire forests."
+untie_question: 'What would change in your organisation if you untangled \"recognition deficit\" this week?'
+quote_top: "Invisible value sustains organisations and entire forests."
 quote_bottom: "Recognize unseen roots."
 origin_nodes: ["knots:021-meeting-toxicity", "knots/organizations/021-meeting-toxicity", "knots/organizations/023-belonging-fracture"]
 valence: mixed
 status: published
 published_at: "2026-04-13T11:46:48.321Z"
+linkedin_post: |-
+  A visitor would notice invisible contributions.
+  
+  Your best people are often least recognized.
+  
+  Crisis heroes get awards. Quiet builders don't.
+  
+  Visibility is rewarded. Value is often invisible.
+  
+  Unrecognized contribution produces silent disengagement. Slowly.
+  
+  Thank someone whose work nobody sees today.
+  
+  One change. One day. Start now. 🔬
+  
+  #108KNOTS #UntanglingCulture #Knot022
+  
+  💡 People who feel recognized #thrive.
 ---
 
 The world honors those who do good with grace.
 Valluvar's promise: do well, and the world will notice.
-Except it doesn't. Not inside your organization.
+Except it doesn't. Not inside your organisation.
 Your best people are often your least visible. The engineer who quietly fixes the production bug at 2 AM. The project manager who absorbs the client's rage so the team can focus. The operations lead whose work only becomes visible when she takes a vacation and everything breaks.
 The crisis hero gets the award. The quiet builder gets nothing.
 
@@ -76,4 +96,4 @@ Think of the person on your team whose absence would cause the most disruption. 
 
 **Emerge**
 
-When recognition reaches the root network, retention stabilizes, quiet builders stop dimming their output, and the organization starts retaining the people who hold it together.
+When recognition reaches the root network, retention stabilizes, quiet builders stop dimming their output, and the organisation starts retaining the people who hold it together.

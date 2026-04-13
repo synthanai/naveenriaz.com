@@ -8,11 +8,13 @@ slug_name: knowledge-hoarding
 date: 2026-03-17
 description: "The learned value sharing knowledge; it is their greatest currency...."
 punch_line_1: "The learned value sharing knowledge; it is their greatest currency."
-punch_line_2: |
+punch_line_2: |-
   Knowledge hoarding turns that currency into a deflationary spiral: the more you hold, the less the system circulates.
 felt_hook: |
-  Each person is individually rational: knowledge is power. In an organization that rewards visibility over contribution, being the only one who knows something is job security.
-kural_tamil: "அரங்கின்றி வட்டாடி யற்றே நிரம்பிய\nநூலின்றிக் கோட்டி கொளல்."
+  Each person is individually rational: knowledge is power. In an organisation that rewards visibility over contribution, being the only one who knows something is job security.
+kural_tamil: |-
+  அரங்கின்றி வட்டாடி யற்றே நிரம்பிய
+  நூலின்றிக் கோட்டி கொளல்.
 kural_translation: "The learned value sharing their knowledge; it is their greatest currency."
 kural_number: 401
 kural_bridge: |
@@ -22,19 +24,37 @@ prev_knot_title: Forecast Addiction
 next_knot: "organizations/072-the-insight-graveyard"
 next_knot_title: The Insight Graveyard
 untie_story: 'A CEO instituted \"skip-level\" meetings monthly. The unfiltered information changed three strategic priorities within a quarter.'
-untie_question: 'What would change in your organization if you untangled \"knowledge hoarding\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"knowledge hoarding\" this week?'
 quote_top: "Knowledge not shared is contraband not currency."
 quote_bottom: "Share to create value."
 origin_nodes: ["knots:070-forecast-addiction", "knots/organizations/070-forecast-addiction", "knots/organizations/072-the-insight-graveyard"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The clue was in the information architecture.
+  
+  Your team hoards knowledge like currency.
+  
+  Knowing what others don't is power.
+  
+  Knowledge silos aren't accidental. They're strategic.
+  
+  Information hoarding protects individuals, harms organizations.
+  
+  Share one piece of hoarded knowledge today.
+  
+  That secret? It's costing collective intelligence. 🕵️
+  
+  #108KNOTS #UntanglingIntelligence #Knot071
+  
+  💡 Cultures where knowledge flows freely #thrive.
 ---
 
 The learned value sharing knowledge; it is their greatest currency.
 Valluvar connects learning to sharing. Knowledge that doesn't circulate isn't currency, it's contraband.
 Your team hoards knowledge like gold. Not maliciously. Strategically.
 The engineer who's the only one who understands the legacy system. The analyst who keeps her models in personal folders. The manager who holds institutional memory like a bargaining chip.
-Each person is individually rational: knowledge is power. In an organization that rewards visibility over contribution, being the only one who knows something is job security.
+Each person is individually rational: knowledge is power. In an organisation that rewards visibility over contribution, being the only one who knows something is job security.
 
 Handelsbanken is a Swedish bank that inverted the banking model.
 I found the research compelling.
@@ -49,7 +69,7 @@ It is an architectural decision that makes hoarding structurally impossible.
 Knowledge that doesn't circulate loses value.
 In economics, currency hoarding creates deflationary spirals: when people hoard money instead of spending it, the velocity of money decreases. Less circulation means less economic activity. More hoarding. Less circulation. The spiral deepens.
 Knowledge hoarding creates the same dynamic: when individuals keep expertise private, organizational knowledge velocity drops. Less sharing means less building on each other's work. Less collaboration. More silos. More hoarding.
-The organization has experts. It doesn't have collective intelligence.
+The organisation has experts. It doesn't have collective intelligence.
 The knowledge exists. It just doesn't flow.
 
 Share one piece of undocumented knowledge today.
@@ -65,7 +85,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Hoarding was rational because the organization rewarded individual expertise over collective intelligence. Being the only one who knew something was job security. Sharing knowledge was giving away power.
+Hoarding was rational because the organisation rewarded individual expertise over collective intelligence. Being the only one who knew something was job security. Sharing knowledge was giving away power.
 
 **Navigate**
 
@@ -81,4 +101,4 @@ Share one piece of undocumented knowledge today. A conversation, not a document.
 
 **Emerge**
 
-When sharing is rewarded, collective intelligence grows, single-point-of-failure risks diminish, and the organization becomes smarter than any individual in it.
+When sharing is rewarded, collective intelligence grows, single-point-of-failure risks diminish, and the organisation becomes smarter than any individual in it.

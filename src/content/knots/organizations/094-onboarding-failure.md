@@ -7,13 +7,19 @@ series_number: 10
 slug_name: onboarding-failure
 date: 2026-03-17
 description: "Wealth without planning vanishes like sight without eyes...."
-quote_top: "The investment in recruiting is visible.\nThe investment in integration is invisible."
-quote_bottom: "Onboarding failure acquires talent\nwithout planning for their integration."
+quote_top: |-
+  The investment in recruiting is visible.
+  The investment in integration is invisible.
+quote_bottom: |-
+  Onboarding failure acquires talent
+  without planning for their integration.
 punch_line_1: "Wealth without planning vanishes like sight without eyes."
 punch_line_2: "Onboarding failure acquires talent without planning for their integration. The hire was expensive. The runway was absent."
 felt_hook: |
   The investment in recruiting is visible: sourcing fees, interview hours, negotiation cycles. The investment in integration is invisible: the new hire navigating an undocumented culture, finding information through trial and error, building relationships without a map.
-kural_tamil: "உவப்பத் தலைக்கூடி உள்ளப் பிரிதல்\nஅனைத்தே புலவர் தொழில்."
+kural_tamil: |-
+  உவப்பத் தலைக்கூடி உள்ளப் பிரிதல்
+  அனைத்தே புலவர் தொழில்.
 kural_translation: "Wealth acquired without planning vanishes like sight without eyes."
 kural_number: 394
 kural_bridge: "Onboarding failure acquires talent without planning for their integration. The hire was expensive. The runway was absent."
@@ -23,10 +29,28 @@ next_knot: "organizations/095-diversity-without-inclusion"
 next_knot_title: Diversity Without Inclusion
 untie_story: "A sales team switched from product training to customer-empathy training. Win rates improved more from understanding buyers than features."
 untie_implement: "Ask each person: 'what skill would transform your work?'"
-untie_question: 'What would change in your organization if you untangled \"onboarding failure\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"onboarding failure\" this week?'
 origin_nodes: ["knots:093-learning-doing-imbalance", "knots/organizations/093-learning-doing-imbalance", "knots/organizations/095-diversity-without-inclusion"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Day one: orientation deck. Day 180: productive.
+  
+  Your new hires wait months to contribute.
+  
+  Onboarding is paperwork, not path-to-impact.
+  
+  The fastest integration is real work immediately.
+  
+  Contribution speed is your onboarding metric.
+  
+  Give real work with a mentor day one.
+  
+  One change. One day. Start now. 🏋
+  
+  #108KNOTS #UntanglingCapability #Knot094
+  
+  💡 Organizations that onboard for impact #thrive.
 ---
 
 Wealth without planning vanishes like sight without eyes.
@@ -40,7 +64,7 @@ I read all 2,000 pages of their handbook.
 It's not an internal wiki.
 It's published on the internet for anyone to read: compensation formulas, promotion criteria, meeting norms, even how to handle underperformance.
 New employees don't need a guide.
-The organization has already told them everything.
+The organisation has already told them everything.
 This is the anti-pattern of onboarding failure: instead of hoping new hires absorb culture through osmosis, write the culture down and let them read it before day one.
 
 A crash landing wastes everything the flight achieved.
@@ -59,7 +83,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-Onboarding failed because the hiring investment had visible ROI metrics and the onboarding investment didn't. The organization measured time-to-fill but not time-to-productivity.
+Onboarding failed because the hiring investment had visible ROI metrics and the onboarding investment didn't. The organisation measured time-to-fill but not time-to-productivity.
 
 **Navigate**
 
@@ -67,7 +91,7 @@ Every hire has a 90-day integration plan with weekly milestones. The plan is wri
 
 **Tool**
 
-CORE / Legacy: the framework that measures what the organization invests in its new members. Legacy ensures the landing is as planned as the recruitment flight.
+CORE / Legacy: the framework that measures what the organisation invests in its new members. Legacy ensures the landing is as planned as the recruitment flight.
 
 **Implement**
 
@@ -75,4 +99,4 @@ Plan the next hire's first 90 days before day one. Week 1: who they meet. Month 
 
 **Emerge**
 
-When onboarding is planned, time-to-productivity drops, early attrition decreases, and the organization stops losing the investment it made in recruiting.
+When onboarding is planned, time-to-productivity drops, early attrition decreases, and the organisation stops losing the investment it made in recruiting.

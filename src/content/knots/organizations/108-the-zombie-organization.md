@@ -1,5 +1,5 @@
 ---
-title: the-zombie-organization
+title: the-zombie-organisation
 knot_number: 108
 domain: organizations
 series: energy
@@ -8,31 +8,51 @@ slug_name: the-zombie-organization
 date: 2026-03-17
 description: "The wise stand in eternal fame. The world endures through their legacy...."
 punch_line_1: "The wise stand in eternal fame. The world endures through their legacy."
-punch_line_2: "The zombie organization moves without wisdom, endures without legacy. It operates but leaves nothing behind."
+punch_line_2: "The zombie organisation moves without wisdom, endures without legacy. It operates but leaves nothing behind."
 felt_hook: "The purpose left years ago. The machinery kept running. The zombie walks."
-kural_tamil: "ஊருணி நீர்நிறைந் தற்றே உலகவாம்\nபேரறி வாளன் திரு."
+kural_tamil: |-
+  ஊருணி நீர்நிறைந் தற்றே உலகவாம்
+  பேரறி வாளன் திரு.
 kural_translation: "The wise stand in eternal fame; this world endures through their legacy."
 kural_number: 215
-kural_bridge: "The zombie organization moves without wisdom, endures without legacy. It operates but leaves nothing behind."
+kural_bridge: "The zombie organisation moves without wisdom, endures without legacy. It operates but leaves nothing behind."
 prev_knot: "organizations/107-emotional-illiteracy"
 prev_knot_title: Emotional Illiteracy
-untie_story: "A leadership team modeled leaving at 5pm. Within three months, the entire organization's average work hours normalized to healthy."
+untie_story: "A leadership team modeled leaving at 5pm. Within three months, the entire organisation's average work hours normalized to healthy."
 untie_implement: "Ask the first person you see: 'why does this organization exist?"
 # DUPLICATE_KEY_REMOVED: untie_implement: "An annual organizational health audit measures all nine dimensions: 'identity, culture, trust, dec..."
-untie_question: 'What would change in your organization if you untangled \"the zombie organization\" this week?'
-quote_top: "Zombie organizations walk and talk, but their purpose is long gone."
+untie_question: 'What would change in your organisation if you untangled \"the zombie organisation\" this week?'
+quote_top: "Zombie organisations walk and talk, but their purpose is long gone."
 quote_bottom: "The body walks. The mind is gone."
 origin_nodes: ["knots:107-emotional-illiteracy", "knots/organizations/107-emotional-illiteracy"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Symptoms: operating. Diagnosis: not alive. Terminal.
+  
+  Your organization moves but doesn't breathe.
+  
+  Revenue: adequate. Purpose: forgotten. Energy: gone.
+  
+  Nobody killed it. It starved. Slowly.
+  
+  The zombie is 107 knots left untangled.
+  
+  Find what's still alive. Water it.
+  
+  That question? It's the only one left. 🩺
+  
+  #108KNOTS #UntanglingEnergy #Knot108
+  
+  💡 Organizations that choose to be alive #thrive.
 ---
 
 The wise stand in eternal fame. The world endures through their legacy.
 Valluvar's ultimate measure: does what you build outlast you?
 Symptoms: operating. Diagnosis: not alive. Terminal.
-Your organization moves but doesn't breathe. It processes but doesn't think. It produces but doesn't create.
+Your organisation moves but doesn't breathe. It processes but doesn't think. It produces but doesn't create.
 The systems work. The meetings happen. The reports are filed. The targets are hit.
-But nobody can explain what the organization is for anymore. Not what it does. What it's for.
+But nobody can explain what the organisation is for anymore. Not what it does. What it's for.
 The purpose left years ago. The machinery kept running. The zombie walks.
 
 Carillion was the UK's second-largest construction company. 43,000 employees. £5.2 billion in revenue.
@@ -41,23 +61,23 @@ The company had liabilities of £7 billion. The pension fund had a £2.6 billion
 The board had approved £80 million in executive bonuses in the three years before collapse.
 The revenue was real. The contracts were real. The cash was not.
 Carillion was a zombie: it walked and talked and employed and built, but the vital signs had flatlined years earlier.
-The organization was dead before anyone noticed it had stopped breathing.
+The organisation was dead before anyone noticed it had stopped breathing.
 
 Clinical death and biological death are different conditions.
 In biology, clinical death occurs when the heart stops. But brain death is the irreversible threshold. An organism can be clinically dead with organ function maintained artificially. The body processes. The organs work. But consciousness, the thing that makes life more than mechanics, is absent.
-Zombie organizations are clinically alive: financials functioning, employees present, products shipping. But organizational consciousness, purpose, innovation, adaptation, genuine human connection, is absent.
+Zombie organisations are clinically alive: financials functioning, employees present, products shipping. But organizational consciousness, purpose, innovation, adaptation, genuine human connection, is absent.
 The body walks. The mind is gone.
-And the most unsettling thing about a zombie organization: it doesn't know it's dead.
+And the most unsettling thing about a zombie organisation: it doesn't know it's dead.
 
 Ask one question to the first person you see tomorrow at work:
-'Why does this organization exist?'
+'Why does this organisation exist?'
 Not what it does. Not what it sells. Why it exists.
 If they can't answer, or if their answer sounds like the 'About Us' page read by someone who's never visited the site,
 you're inside the zombie.
 The cure isn't a new strategy.
 It's a new heartbeat.
 
-That walking dead has a name. **The Zombie Organization**.
+That walking dead has a name. **The Zombie Organisation**.
 And once you see it, you can't unsee it.
 
 This is knot 108. The last thread.
@@ -68,22 +88,22 @@ Start with the one that hurts the most.
 
 **Uproot**
 
-The organization became a zombie because each system (purpose, identity, culture, intelligence, structure, capability, energy) degraded independently. No single failure killed it. The accumulated decay across all systems produced a body that moved without consciousness.
+The organisation became a zombie because each system (purpose, identity, culture, intelligence, structure, capability, energy) degraded independently. No single failure killed it. The accumulated decay across all systems produced a body that moved without consciousness.
 
 **Navigate**
 
-An annual organizational health audit measures all nine dimensions: identity, culture, trust, decisions, change, intelligence, structure, capability, energy. When all nine are healthy, the organization is alive.
+An annual organizational health audit measures all nine dimensions: identity, culture, trust, decisions, change, intelligence, structure, capability, energy. When all nine are healthy, the organisation is alive.
 
 **Tool**
 
-CORE / complete framework: the integrated diagnostic that measures organizational vitality across all dimensions. CORE asks: is this organization alive, or is it merely operating?
+CORE / complete framework: the integrated diagnostic that measures organizational vitality across all dimensions. CORE asks: is this organisation alive, or is it merely operating?
 
 **Implement**
 
-Ask the first person you see: why does this organization exist? If the answer sounds recited rather than felt, the zombie walks. The cure is not strategy. It's a new heartbeat.
+Ask the first person you see: why does this organisation exist? If the answer sounds recited rather than felt, the zombie walks. The cure is not strategy. It's a new heartbeat.
 
 **Emerge**
 
-When all nine dimensions are tended, the organization doesn't just operate. It lives. It breathes. It creates. It leaves a legacy.
+When all nine dimensions are tended, the organisation doesn't just operate. It lives. It breathes. It creates. It leaves a legacy.
 
 And that is the 108th knot, untied.

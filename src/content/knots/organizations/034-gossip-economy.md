@@ -10,7 +10,9 @@ description: "What use is intelligence if one does not feel another's pain as de
 punch_line_1: "What use is intelligence if one does not feel another's pain as deeply as one's own?"
 punch_line_2: "Gossip thrives where empathy fails. When official channels go silent, the whisper network carries what leadership refuses to say."
 felt_hook: "When leadership goes silent, the whisper network fills the void. It's not malicious. It's necessary."
-kural_tamil: "பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி\nநட்பாடல் தேற்றா தவர்."
+kural_tamil: |-
+  பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி
+  நட்பாடல் தேற்றா தவர்.
 kural_translation: "What use is intelligence if one does not feel another's pain as deeply as one's own?"
 kural_number: 187
 kural_bridge: "Gossip thrives where empathy fails. When official channels go silent, the whisper network carries what leadership refuses to say."
@@ -19,17 +21,35 @@ prev_knot_title: Surveillance Culture
 next_knot: "organizations/035-the-scapegoat-pattern"
 next_knot_title: The Scapegoat Pattern
 untie_story: 'A team agreed to \"disagree in the room, align outside.\" Conflict became productive instead of toxic and hidden.'
-untie_question: 'What would change in your organization if you untangled \"gossip economy\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"gossip economy\" this week?'
 quote_top: "Intelligence without compassion is incomplete; wisdom demands empathy."
 quote_bottom: "Feel another's pain."
 origin_nodes: ["knots:033-surveillance-culture", "knots/organizations/033-surveillance-culture", "knots/organizations/035-the-scapegoat-pattern"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The evidence: information travels through whispers.
+  
+  Your organization's real news is unofficial.
+  
+  Gossip fills the vacuum of transparency.
+  
+  The grapevine isn't the problem. Your silence is.
+  
+  Informal channels thrive where formal ones fail.
+  
+  Share one important update before gossip does.
+  
+  Choose one. Act on it.
+  
+  #108KNOTS #UntanglingTrust #Knot034
+  
+  💡 Teams that communicate openly #thrive.
 ---
 
 What use is intelligence if one does not feel another's pain as deeply as one's own?
 Valluvar connects wisdom to empathy. Intelligence without compassion is incomplete.
-Your organization's real news doesn't travel through official channels. It travels through whispers at coffee machines, DMs on Slack, and the ten-minute conversation after the meeting ends.
+Your organisation's real news doesn't travel through official channels. It travels through whispers at coffee machines, DMs on Slack, and the ten-minute conversation after the meeting ends.
 The grapevine isn't a gossip problem. It's an information vacuum.
 When leadership goes silent, the whisper network fills the void. It's not malicious. It's necessary.
 

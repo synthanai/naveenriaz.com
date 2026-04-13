@@ -5,8 +5,13 @@ source: "Link"
 source_url: "https://www.linkedin.com/posts/martin-ciupa-76418b17_the-myth-of-machine-consciousness-and-the-activity-7437909157824905216-_jtq"
 signal: "A machine does not have a conscience. It has a probability distribution over permitted behaviours. And that distribution ultimately reflects us."
 temperature: "🔥🔥"
-quote_top: "AI does not have a conscience.\nIt has a probability distribution\nover permitted behaviours."
-quote_bottom: "The AI does not have morality.\nIt has a mirror."
+quote_top: |-
+  AI does not have a conscience.
+  It has a probability distribution
+  over permitted behaviours.
+quote_bottom: |-
+  The AI does not have morality.
+  It has a mirror.
 tags: [consciousness, emergence, ethics, mbs_framework]
 description: "AI does not have morality. It has a mirror."
 origin_nodes: []

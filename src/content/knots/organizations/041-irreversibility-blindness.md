@@ -10,7 +10,9 @@ description: "Those who foresee what is coming are never shaken by what arrives.
 punch_line_1: "Those who foresee what is coming are never shaken by what arrives."
 punch_line_2: "Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as equally reversible."
 felt_hook: "Treating permanent decisions with the same casualness as reversible ones is organizational blindness."
-kural_tamil: "எண்ணித் துணிக கருமம் துணிந்தபின்\nஎண்ணுவம் என்பது இழுக்கு."
+kural_tamil: |-
+  எண்ணித் துணிக கருமம் துணிந்தபின்
+  எண்ணுவம் என்பது இழுக்கு.
 kural_translation: "Those who foresee what is coming are never shaken by what arrives."
 kural_number: 467
 kural_bridge: "Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as equally reversible."
@@ -20,12 +22,30 @@ next_knot: "organizations/042-decision-amnesia"
 next_knot_title: Decision Amnesia
 untie_story: "A hospital reduced committee approvals from seven to two for non-clinical decisions. Time to implementation dropped by 80%."
 untie_implement: "Before your next major decision, ask: 'can we undo this in six months if wrong?"
-untie_question: 'What would change in your organization if you untangled \"irreversibility blindness\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"irreversibility blindness\" this week?'
 quote_top: "Some decisions are one-way doors, with permanent consequences."
 quote_bottom: "Discern irreversible decisions wisely."
 origin_nodes: ["knots:040-hippo-effect", "knots/organizations/040-hippo-effect", "knots/organizations/042-decision-amnesia"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  That decision can't be undone. You knew?
+  
+  Your team treated all decisions the same.
+  
+  Some are reversible. Some are permanent.
+  
+  Treating permanent decisions casually is reckless.
+  
+  Irreversible decisions deserve disproportionate analysis. Always.
+  
+  Before deciding: "can we undo this?"
+  
+  That blindness? One bad call proves fatal. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot041
+  
+  💡 Teams that classify before they decide #thrive.
 ---
 
 Those who foresee what is coming are never shaken by what arrives.
@@ -76,4 +96,4 @@ Before your next major decision, ask: can we undo this in six months if wrong? I
 
 **Emerge**
 
-When decisions are classified by reversibility, speed improves on routine choices while rigor increases on permanent ones. The organization stops treating every choice like a life sentence.
+When decisions are classified by reversibility, speed improves on routine choices while rigor increases on permanent ones. The organisation stops treating every choice like a life sentence.

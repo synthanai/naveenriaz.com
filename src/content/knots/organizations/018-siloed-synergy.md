@@ -9,8 +9,10 @@ date: 2026-03-17
 description: "A leader without bold critics will ruin himself, even without enemies...."
 punch_line_1: "A leader without bold critics will ruin himself, even without enemies."
 punch_line_2: "Silos form not from malice but from the absence of friction between groups."
-felt_hook: "Most organizations reward the word. Almost none reward the cost."
-kural_tamil: "காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்\nஅன்னநீ ரார்க்கே உள."
+felt_hook: "Most organisations reward the word. Almost none reward the cost."
+kural_tamil: |-
+  காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்
+  அன்னநீ ரார்க்கே உள.
 kural_translation: "A leader without bold critics will ruin himself even without enemies."
 kural_number: 527
 kural_bridge: "Silos form not from malice but from the absence of friction between groups."
@@ -19,7 +21,7 @@ prev_knot_title: Transparency Paradox
 next_knot: "organizations/019-fear-culture"
 next_knot_title: Fear Culture
 untie_story: "A CEO ate lunch in the cafeteria every Thursday. Within six months, three organizational problems surfaced and were solved."
-untie_question: 'What would change in your organization if you untangled \"siloed synergy\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"siloed synergy\" this week?'
 quote_top: "Leaders without bold critics face ruin, not from enemies."
 quote_bottom: "Isolation kills innovation."
 origin_nodes: ["knots:017-transparency-paradox", "knots/organizations/017-transparency-paradox", "knots/organizations/019-fear-culture"]
@@ -27,13 +29,31 @@ valence: mixed
 status: published
 approved_at: "2026-04-09T06:12:27.715Z"
 published_at: "2026-04-09T06:12:34.687Z"
+linkedin_post: |-
+  A visitor would notice: teams don't talk.
+  
+  Your org chart says "collaborative culture."
+  
+  But collaboration requires effort. Heroic individual effort.
+  
+  Silos don't form from bad intent.
+  
+  They form from budgets and reporting lines.
+  
+  Name one outcome requiring two team deliveries.
+  
+  What would change if you named it? 🔬
+  
+  #108KNOTS #UntanglingCulture #Knot018
+  
+  💡 Organizations that connect across silos #thrive.
 ---
 
 A leader without bold critics will ruin himself, even without enemies.
 Valluvar's warning: isolation kills. Not from attack, but from absence.
 Your org chart says "collaborative culture." But open Slack and count how many cross-team conversations happened this week that weren't escalations.
 Collaboration isn't a word on a slide. It's a behavior that costs time, ego, and the willingness to be wrong in front of someone who doesn't report to you.
-Most organizations reward the word. Almost none reward the cost.
+Most organisations reward the word. Almost none reward the cost.
 
 BHS was sold for £1.
 One pound.
@@ -77,4 +97,4 @@ Name one outcome this quarter that requires delivery from two separate teams. No
 
 **Emerge**
 
-When structure enables connection, knowledge flows laterally, duplication drops, and the organization stops needing "cross-functional workshops" because the functions already cross.
+When structure enables connection, knowledge flows laterally, duplication drops, and the organisation stops needing "cross-functional workshops" because the functions already cross.

@@ -10,7 +10,9 @@ description: "Greatness comes to those who persevere and gain clarity...."
 punch_line_1: "Greatness comes to those who persevere and gain clarity."
 punch_line_2: "Turnover spirals because nobody perseveres long enough to gain clarity. Each departure adds difficulty, reducing the reason to stay."
 felt_hook: "Each departure increased the load on those remaining. Each increased load reduced the reason to stay. The spiral has its own gravity."
-kural_tamil: "மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்\nஇன்னான் எனப்படுஞ் சொல்."
+kural_tamil: |-
+  மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்
+  இன்னான் எனப்படுஞ் சொல்.
 kural_translation: "Greatness comes to one who understands difficulty, perseveres, and gains clarity."
 kural_number: 453
 kural_bridge: "Turnover spirals because nobody perseveres long enough to gain clarity. Each departure adds difficulty, reducing the reason to stay."
@@ -21,12 +23,30 @@ next_knot_title: Energy Vampires
 untie_story: 'A school created \"brain breaks\" every 45 minutes. Student attention improved. Teacher satisfaction improved alongside it.'
 untie_implement: "After each resignation, ask: 'who else is now more likely to leave because this person left?"
 # DUPLICATE_KEY_REMOVED: untie_implement: "Every departure triggers a spiral assessment: 'who else is now more likely to leave?"
-untie_question: 'What would change in your organization if you untangled \"turnover spiral\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"turnover spiral\" this week?'
 quote_top: "Turnover spirals are self-sustaining chain reactions, ignored until too late."
 quote_bottom: "Stop the spiral, save the team."
 origin_nodes: ["knots:101-the-presenteeism-tax", "knots/organizations/101-the-presenteeism-tax", "knots/organizations/103-energy-vampires"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Symptoms: two left. Three more followed.
+  
+  Your best people leave first. Then more.
+  
+  Each departure increases load on survivors.
+  
+  The spiral is physics, not morale.
+  
+  Turnover isn't random. It's cascading architecture.
+  
+  When someone leaves, reduce scope. Don't redistribute.
+  
+  What's the first knot to pull?
+  
+  #108KNOTS #UntanglingEnergy #Knot102
+  
+  💡 Organizations that retain their people #thrive.
 ---
 
 Greatness comes to those who persevere and gain clarity.
@@ -51,7 +71,7 @@ Chain reactions are self-sustaining once critical mass is reached.
 In physics, a chain reaction occurs when the output of one reaction triggers subsequent reactions. Below critical mass, the reactions fizzle. Above it, they become self-sustaining and accelerating.
 Turnover spirals are chain reactions: the first departure (the trigger) increases stress on remaining people. Some of them leave (the reaction), further increasing stress, triggering more departures.
 Below critical mass, the team absorbs the loss. Above it, the spiral becomes self-sustaining.
-The organization doesn't notice the critical mass until it's passed.
+The organisation doesn't notice the critical mass until it's passed.
 
 When someone resigns, ask two questions:
 1. Why are they leaving? (exit interview)
@@ -66,7 +86,7 @@ And once you see it, you can't unsee it.
 
 **Uproot**
 
-The spiral formed because the organization treated departures as individual events instead of systemic signals. Exit interviews were filed. Patterns weren't analyzed.
+The spiral formed because the organisation treated departures as individual events instead of systemic signals. Exit interviews were filed. Patterns weren't analyzed.
 
 **Navigate**
 

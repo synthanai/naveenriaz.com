@@ -4,8 +4,13 @@ date: 2026-03-30
 signal: "If you are checking every AI output by hand, you have not built an autonomous system. You have built a homework generator."
 source: "SYNTHAI"
 temperature: "🔥🔥🔥"
-quote_top: "If you check every AI output\nby hand, you have not built\nan autonomous system."
-quote_bottom: "You have built a\nhomework generator."
+quote_top: |-
+  If you check every AI output
+  by hand, you have not built
+  an autonomous system.
+quote_bottom: |-
+  You have built a
+  homework generator.
 tags: [ai-governance, quality, skill_economy]
 description: "Trust is not built on output volume. It is built on verified output quality."
 origin_nodes: []

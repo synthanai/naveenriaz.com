@@ -10,7 +10,9 @@ description: "Learn thoroughly what should be learned. Having learned, live by i
 punch_line_1: "Learn thoroughly what should be learned. Having learned, live by it."
 punch_line_2: "Decision amnesia is the organizational failure to learn from its own decisions, forgetting the rationale, the context, and the lesson."
 felt_hook: "Now you're about to make the same decision again. Without knowing you've already made it."
-kural_tamil: "கற்க கசடறக் கற்பவை கற்றபின்\nநிற்க அதற்குத் தக."
+kural_tamil: |-
+  கற்க கசடறக் கற்பவை கற்றபின்
+  நிற்க அதற்குத் தக.
 kural_translation: "Learn thoroughly what should be learned; having learned, live by that learning."
 kural_number: 391
 kural_bridge: "Decision amnesia is the organizational failure to learn from its own decisions, forgetting the rationale, the context, and the lesson."
@@ -21,18 +23,36 @@ next_knot_title: Dissent Suppression
 untie_story: 'A team assigned a \"devil''s advocate\" each meeting. The dissenter role was rotated. Groupthink evaporated quickly.'
 untie_implement: "For your next significant decision, write down: 'what you decided, why, and what would need to cha..."
 # DUPLICATE_KEY_REMOVED: untie_implement: "Every significant decision is recorded with three elements: 'what was decided, why, and what condi..."
-untie_question: 'What would change in your organization if you untangled \"decision amnesia\" this week?'
+untie_question: 'What would change in your organisation if you untangled \"decision amnesia\" this week?'
 quote_top: "Knowing without doing is incomplete. Live what you learn."
 quote_bottom: "Apply your knowledge."
 origin_nodes: ["knots:041-irreversibility-blindness", "knots/organizations/041-irreversibility-blindness", "knots/organizations/043-dissent-suppression"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  Why was that decision made? Nobody knows.
+  
+  Your past decisions have no documented reasoning.
+  
+  Context evaporated. Only the outcome remains.
+  
+  Without rationale, you can't learn from past.
+  
+  Decisions without reasons are unrepeatable accidents.
+  
+  Record WHY, not just WHAT, each time.
+  
+  What if today was different? 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot042
+  
+  💡 Organizations that remember why they decided #thrive.
 ---
 
 Learn thoroughly what should be learned. Having learned, live by it.
 Valluvar connects learning to living: knowledge without application is incomplete.
 Why was that decision made? Nobody knows.
-Your organization decided to pivot the product three years ago. It was a significant choice. Resources shifted. Teams reorganized. Strategy changed.
+Your organisation decided to pivot the product three years ago. It was a significant choice. Resources shifted. Teams reorganized. Strategy changed.
 Today, the people who made the decision have moved on. The documentation was a Slack thread that's been archived. The reasoning was 'understood at the time.'
 Now you're about to make the same decision again. Without knowing you've already made it.
 
@@ -46,7 +66,7 @@ This is committee disease at its most lethal: distributed knowledge, distributed
 The BBC's committee structure didn't fail to protect them.
 It was architecturally incapable of protecting them.
 
-Organizations that can't remember their decisions can't learn from them.
+Organisations that can't remember their decisions can't learn from them.
 In neurology, anterograde amnesia is the inability to form new long-term memories. The patient can recall the distant past but cannot remember what happened yesterday. Every day begins fresh, without the benefit of recent experience.
 Organizational decision amnesia works the same way: the company can describe its founding principles but cannot explain why it chose its current strategy. The distant past is mythology. The recent past is fog.
 Every new leader inherits decisions without context. Without context, they can only judge outcomes. Without understanding why something was chosen, they can only evaluate whether it worked, never whether the reasoning was sound.
@@ -78,4 +98,4 @@ For your next significant decision, write down: what you decided, why, and what 
 
 **Emerge**
 
-When decisions have memory, the organization stops repeating mistakes, new leaders inherit wisdom instead of mystery, and institutional knowledge compounds over generations.
+When decisions have memory, the organisation stops repeating mistakes, new leaders inherit wisdom instead of mystery, and institutional knowledge compounds over generations.

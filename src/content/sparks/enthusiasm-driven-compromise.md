@@ -3,8 +3,13 @@ title: "Enthusiasm-Driven Compromise"
 date: 2026-03-20
 signal: "Every technology adoption follows the same arc: excitement erodes the governance needed to use it well. The enthusiasm IS the compromise. We predicted AI fatigue before the industry observed it."
 temperature: "🔥🔥🔥"
-quote_top: "Every technology adoption\narc is the same: excitement\nerodes governance."
-quote_bottom: "The enthusiasm IS\nthe compromise."
+quote_top: |-
+  Every technology adoption
+  arc is the same: excitement
+  erodes governance.
+quote_bottom: |-
+  The enthusiasm IS
+  the compromise.
 tags: [edc, governance, prediction, validation]
 description: "A framework that predicted a phenomenon before the industry observed it. That is the gold standard of validation."
 origin_nodes: []

@@ -8,10 +8,12 @@ slug_name: the-scapegoat-pattern
 date: 2026-03-17
 description: "Deliberate before you decide. To deliberate after deciding is disgrace...."
 punch_line_1: "Deliberate before you decide. To deliberate after deciding is disgrace."
-punch_line_2: |
+punch_line_2: |-
   Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.
 felt_hook: "It's not random. The scapegoat is selected for their position, not their culpability. They're visible enough to absorb blame but not powerful enough to deflect it."
-kural_tamil: "அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்\nகுற்றம் மறையா வழி."
+kural_tamil: |-
+  அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்
+  குற்றம் மறையா வழி.
 kural_translation: "Deliberate before you decide; to deliberate after deciding is disgrace."
 kural_number: 846
 kural_bridge: |
@@ -22,18 +24,36 @@ next_knot: "organizations/036-trust-bankruptcy"
 next_knot_title: Trust Bankruptcy
 untie_story: "A company shared their strategic uncertainties with staff. People responded with solutions instead of anxiety about unknowns."
 untie_implement: "Next time a project fails, ask two questions: ''Who is being blamed?' and 'What systemic factor ma..."
-untie_question: 'What would change in your organization if you untangled \"the scapegoat pattern\" this week?'
-quote_top: |
+untie_question: 'What would change in your organisation if you untangled \"the scapegoat pattern\" this week?'
+quote_top: |-
   Scapegoating: the system attacks healthy tissue, not the pathogen.
 quote_bottom: "Autoimmune disorder; host destroyed."
 origin_nodes: ["knots:034-gossip-economy", "knots/organizations/034-gossip-economy", "knots/organizations/036-trust-bankruptcy"]
 valence: mixed
 status: pending
+linkedin_post: |-
+  The evidence: same person blamed every time.
+  
+  Your organization has a designated scapegoat.
+  
+  The pattern protects the system from learning.
+  
+  Blame absorbs accountability. Everyone else stays clean.
+  
+  Scapegoating prevents diagnosis. The real cause hides.
+  
+  Ask: "who always gets blamed?" Then ask why.
+  
+  That pattern? It's protecting a dysfunction. ⚖️
+  
+  #108KNOTS #UntanglingTrust #Knot035
+  
+  💡 Cultures without scapegoats #thrive.
 ---
 
 Deliberate before you decide. To deliberate after deciding is disgrace.
 Valluvar's standard is precise: think first, then commit. Reversing that order is failure.
-Scapegoating is the ultimate reversal: the decision is made, the outcome fails, and then the organization deliberates, not about the decision, but about who to blame.
+Scapegoating is the ultimate reversal: the decision is made, the outcome fails, and then the organisation deliberates, not about the decision, but about who to blame.
 The same person gets blamed every time. Have you noticed?
 It's not random. The scapegoat is selected for their position, not their culpability. They're visible enough to absorb blame but not powerful enough to deflect it.
 
@@ -79,4 +99,4 @@ Next time a project fails, ask two questions: 'Who is being blamed?' and 'What s
 
 **Emerge**
 
-When blame is replaced by diagnosis, the same failure stops recurring, people take on risky projects without fear of being the next target, and the organization starts learning from its mistakes.
+When blame is replaced by diagnosis, the same failure stops recurring, people take on risky projects without fear of being the next target, and the organisation starts learning from its mistakes.
