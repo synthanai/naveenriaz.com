@@ -20,8 +20,8 @@ prev_knot_title: Skill Obsolescence
 next_knot: "organizations/087-hiring-mismatch"
 next_knot_title: Hiring Mismatch
 untie_story: "A company replaced annual training with monthly micro-challenges. Completion went from 40% to 92%. Skills actually transferred."
-- "Ask every manager: 'is there someone you''d be afraid to lose?"'
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Ask every manager: 'is there someone you'd be afraid to lose?"
+# DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"talent hoarding\" this week?'
 quote_top: "Talent hoarding loses growth; eventually, the talent leaves entirely."
 quote_bottom: "Output, potential gone."

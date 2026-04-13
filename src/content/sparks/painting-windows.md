@@ -11,6 +11,10 @@ description: "Prompt-tuning a broken harness is repainting windows on a sinking 
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-03-31T11:12:32.027Z"
+published_at: "2026-03-31T11:12:39.702Z"
 ---
 
 Your house has a broken foundation. Cracks in the walls. Water seeping through the floor. Your solution: repaint the window frames.

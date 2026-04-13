@@ -5,8 +5,6 @@ source: "Link"
 source_url: "https://nyk.dev"
 signal: "A builder predicts your next customer will not fill out a form. It will hit an MCP endpoint with a budget. Agent commerce is coming, and most sales funnels are not ready."
 temperature: "🔥"
-
-
 tags: [agent-commerce, future, mcp, sales-funnel]
 description: "When agents have wallets, forms become extinct."
 quote_top: "AI agents will soon make purchases via API calls"
@@ -14,6 +12,10 @@ quote_bottom: "Is your product ready"
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-22T13:37:43.783Z"
+published_at: "2026-03-22T13:37:55.457Z"
 ---
 
 Nyk wrote a provocation: "Your next buyer won't fill out a form. It will hit an MCP endpoint with a budget."

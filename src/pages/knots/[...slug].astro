@@ -1,17 +1,17 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import KnotLayout from '../../layouts/KnotLayout.astro';
 
 export async function getStaticPaths() {
   const knots = await getCollection('knots');
   return knots.map((knot) => ({
-    params: { slug: knot.slug },
+    params: { slug: knot.id },
     props: { knot },
   }));
 }
 
 const { knot } = Astro.props;
-const { Content } = await knot.render();
+const { Content } = await render(knot);
 const d = knot.data;
 ---
 

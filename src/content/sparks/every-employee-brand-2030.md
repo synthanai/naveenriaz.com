@@ -5,8 +5,6 @@ source: "Link"
 source_url: "https://naveenriaz.com/fusions/brand-ambassadors-dont-need-branding"
 signal: "Visionary Prediction (2030): AI removes personal branding friction (creation, consistency, language, personality). Universality becomes infrastructural, like email."
 temperature: "🔥🔥🔥"
-
-
 tags: ["2030", "personal_sovereignty", "prediction", "skill_economy", "synthetic_intelligence"]
 description: "Prepare your organisation for the frictionless era."
 quote_top: "Personal branding: once optional, soon indispensable for employees."
@@ -14,6 +12,10 @@ quote_bottom: "AI makes it inevitable."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-03-30T05:56:02.768Z"
+published_at: "2026-03-30T05:56:09.473Z"
 ---
 
 In 2005, most employees did not have an email address. By 2010, not having one was unthinkable.

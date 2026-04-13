@@ -5,8 +5,6 @@ source: "Link"
 source_url: "https://github.com/0xNyk/lacp"
 signal: "A control plane for AI coding agents uses SHA-256 hash-chained session receipts to create tamper-evident provenance, independently reinventing the audit trail pattern."
 temperature: "🔥🔥"
-
-
 tags: [agentic_systems, institutional_memory, provenance, vault-kit]
 description: "When two systems independently invent the same trust architecture, the pattern is structural."
 quote_top: "Blockchain architecture makes agent interactions tamper-evident with cryptographic receipts."
@@ -14,6 +12,10 @@ quote_bottom: "When trust is needed, chain it."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-20T13:48:42.164Z"
+published_at: "2026-03-29T11:25:25.935Z"
 ---
 
 Nyk built a Local Agent Control Plane (LACP) for managing Claude and Torus agents. Its fifth memory layer is provenance: SHA-256 hash-chained session receipts that create a tamper-evident record of every agent interaction.

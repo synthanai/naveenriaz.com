@@ -11,6 +11,8 @@ description: "When decisions are pre-made and meetings are theatre."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending-review
+added: 2026-03-30
 ---
 
 The decision was already made. The meeting existed to make it look collaborative.

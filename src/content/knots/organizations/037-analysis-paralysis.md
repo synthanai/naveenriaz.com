@@ -19,7 +19,7 @@ prev_knot_title: Trust Bankruptcy
 next_knot: "organizations/038-decision-laundering"
 next_knot_title: Decision Laundering
 untie_story: 'A team classified every pending decision as \"one-way door\" or \"two-way door.\" Two-thirds resolved within 48 hours.'
-- "Ask: 'if forced to decide today with what you know, what would you choose?"'
+untie_implement: "Ask: 'if forced to decide today with what you know, what would you choose?"
 untie_question: 'What would change in your organization if you untangled \"analysis paralysis\" this week?'
 quote_top: |
   Analysis paralysis: when deliberation becomes the only action.

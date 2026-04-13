@@ -19,7 +19,7 @@ prev_knot_title: The Ai Readiness Gap
 next_knot: "organizations/098-meaning-drought"
 next_knot_title: Meaning Drought
 untie_story: 'A CEO declared \"no meetings before 10am.\" Morning productivity increased 40%. Nobody missed the early meetings at all.'
-- "Ask your team: 'when was the last time you felt rested?"'
+untie_implement: "Ask your team: 'when was the last time you felt rested?"
 untie_question: 'What would change in your organization if you untangled \"burnout normalization\" this week?'
 quote_top: "Burnout is not happening to your team, it as your team."
 quote_bottom: "It's the culture."

@@ -12,6 +12,10 @@ quote_bottom: "It is about shifting \nyour internal thermostat."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-04-03
+approved_at: "2026-04-09T07:09:12.909Z"
+published_at: "2026-04-09T07:09:19.369Z"
 ---
 
 You already know what you need to do, but you are caught in a loop.

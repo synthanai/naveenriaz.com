@@ -19,8 +19,8 @@ prev_knot_title: Irreversibility Blindness
 next_knot: "organizations/043-dissent-suppression"
 next_knot_title: Dissent Suppression
 untie_story: 'A team assigned a \"devil''s advocate\" each meeting. The dissenter role was rotated. Groupthink evaporated quickly.'
-- "For your next significant decision, write down: 'what you decided, why, and what would need to cha..."'
-- "Every significant decision is recorded with three elements: 'what was decided, why, and what condi..."'
+untie_implement: "For your next significant decision, write down: 'what you decided, why, and what would need to cha..."
+# DUPLICATE_KEY_REMOVED: untie_implement: "Every significant decision is recorded with three elements: 'what was decided, why, and what condi..."
 untie_question: 'What would change in your organization if you untangled \"decision amnesia\" this week?'
 quote_top: "Knowing without doing is incomplete. Live what you learn."
 quote_bottom: "Apply your knowledge."

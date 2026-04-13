@@ -20,8 +20,8 @@ prev_knot_title: Knowledge Extinction
 next_knot: "organizations/090-technical-debt-avalanche"
 next_knot_title: Technical Debt Avalanche
 untie_story: "A team dedicated 10% of sprint time to skill-building. Within two quarters, they could handle work that previously required contractors."
-- "Succession is measured by readiness: 'is the successor making real decisions today that the incumb..."'
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Succession is measured by readiness: 'is the successor making real decisions today that the incumb..."
+# DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"leadership vacuum\" this week?'
 quote_top: "Vacuums create instability, nature demands filling with consequences."
 quote_bottom: "Poor succession makes unstable leadership."

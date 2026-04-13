@@ -19,7 +19,7 @@ prev_knot_title: Hippo Effect
 next_knot: "organizations/042-decision-amnesia"
 next_knot_title: Decision Amnesia
 untie_story: "A hospital reduced committee approvals from seven to two for non-clinical decisions. Time to implementation dropped by 80%."
-- "Before your next major decision, ask: 'can we undo this in six months if wrong?"'
+untie_implement: "Before your next major decision, ask: 'can we undo this in six months if wrong?"
 untie_question: 'What would change in your organization if you untangled \"irreversibility blindness\" this week?'
 quote_top: "Some decisions are one-way doors, with permanent consequences."
 quote_bottom: "Discern irreversible decisions wisely."

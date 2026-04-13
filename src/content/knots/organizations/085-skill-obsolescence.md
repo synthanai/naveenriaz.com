@@ -22,7 +22,7 @@ next_knot: "organizations/086-talent-hoarding"
 next_knot_title: Talent Hoarding
 untie_story: |
   A manager asked each team member: \"when are you at your best?\" Then redesigned work assignments to match strengths.
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"skill obsolescence\" this week?'
 quote_top: "Competence in yesterday's world becomes obsolescence in today's."
 quote_bottom: "Adapt or become extinct."

@@ -1,17 +1,17 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import FusionLayout from '../../layouts/FusionLayout.astro';
 
 export async function getStaticPaths() {
   const fusions = await getCollection('fusions');
   return fusions.map((fusion) => ({
-    params: { slug: fusion.slug },
+    params: { slug: fusion.id },
     props: { fusion },
   }));
 }
 
 const { fusion } = Astro.props;
-const { Content } = await fusion.render();
+const { Content } = await render(fusion);
 const d = fusion.data;
 ---
 

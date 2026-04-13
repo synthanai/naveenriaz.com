@@ -22,7 +22,7 @@ prev_knot_title: Loyalty Extraction
 next_knot: "organizations/032-the-accountability-dodge"
 next_knot_title: The Accountability Dodge
 untie_story: 'A remote team created a \"trust battery\" check-in. Each person rated their trust level with others openly.'
-- "Before you next ask your team to trust a decision, ask yourself: 'when was the last time you trust..."'
+untie_implement: "Before you next ask your team to trust a decision, ask yourself: 'when was the last time you trust..."
 untie_question: 'What would change in your organization if you untangled \"trust asymmetry\" this week?'
 origin_nodes: ["knots:030-loyalty-extraction", "knots/organizations/030-loyalty-extraction", "knots/organizations/032-the-accountability-dodge"]
 valence: mixed

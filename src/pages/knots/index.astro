@@ -101,7 +101,7 @@ const domainOrder = ['organizations', 'education'];
                       const num = String(knot.data.knot_number).padStart(3, '0');
                       const [sc] = seriesColors[seriesName];
                       return (
-                        <a href={`/knots/${knot.slug}`} class="knot-card" style={`--kc: ${sc}; --kg: ${glowColor}`}>
+                        <a href={`/knots/${knot.id}`} class="knot-card" style={`--kc: ${sc}; --kg: ${glowColor}`}>
                           <span class="knot-card__num" style={`color: ${sc}`}>#{num}</span>
                           <span class="knot-card__title">{knot.data.title.replace(/-/g, ' ')}</span>
                           <span class="knot-card__punch">{knot.data.punch_line_2}</span>

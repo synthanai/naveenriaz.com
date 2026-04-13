@@ -1,17 +1,17 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import SparkLayout from '../../layouts/SparkLayout.astro';
 
 export async function getStaticPaths() {
   const sparks = await getCollection('sparks');
   return sparks.map((spark) => ({
-    params: { slug: spark.slug },
+    params: { slug: spark.id },
     props: { spark },
   }));
 }
 
 const { spark } = Astro.props;
-const { Content } = await spark.render();
+const { Content } = await render(spark);
 const d = spark.data;
 ---
 

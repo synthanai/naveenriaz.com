@@ -23,7 +23,7 @@ prev_knot_title: Broken Promises Loop
 next_knot: "organizations/027-delegation-without-trust"
 next_knot_title: Delegation Without Trust
 untie_story: "A company published their financial results to all employees monthly. The transparency eliminated the rumor mill completely."
-- "Ask your team: '''What''s expected here that nobody ever agreed to?'' The first answer will be safe."'
+untie_implement: "Ask your team: ''What's expected here that nobody ever agreed to?' The first answer will be safe."
 untie_question: 'What would change in your organization if you untangled \"invisible contracts\" this week?'
 origin_nodes: ["knots:025-broken-promises-loop", "knots/organizations/025-broken-promises-loop", "knots/organizations/027-delegation-without-trust"]
 valence: mixed

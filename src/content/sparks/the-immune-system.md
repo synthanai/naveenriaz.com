@@ -3,8 +3,6 @@ title: "The Immune System"
 date: 2026-03-20
 signal: "A solo practitioner independently converged on multi-agent architecture, adversarial review loops, and self-improving workflows, calling the adversarial layer 'the immune system.'"
 temperature: "🔥🔥🔥"
-
-
 tags: [agentic_systems, self-improving, spar_dialectic]
 description: "Three independent builders. Same architecture. The pattern is structural."
 quote_top: "AI reasoning improves through forced disagreement before synthesis."
@@ -12,6 +10,10 @@ quote_bottom: "Necessity, not preference."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-20T12:42:23.756Z"
+published_at: "2026-03-24T11:59:58.461Z"
 ---
 
 Klaus Kaan is a solo developer. He built a system where one AI agent writes code, a second reviews it adversarially, and a third arbitrates conflicts. He calls the adversarial layer "the immune system."

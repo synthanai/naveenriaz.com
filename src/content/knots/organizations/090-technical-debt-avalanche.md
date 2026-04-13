@@ -19,7 +19,7 @@ prev_knot_title: Leadership Vacuum
 next_knot: "organizations/091-customer-capability-gap"
 next_knot_title: Customer Capability Gap
 untie_story: 'A factory created \"skill walls\" showing what each person could do. Cross-training became visible and gamified naturally.'
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"technical debt avalanche\" this week?'
 quote_top: |
   Technical debt: layers of fragility await swift collapse.

@@ -19,7 +19,7 @@ prev_knot_title: Energy Vampires
 next_knot: "organizations/105-resource-hoarding"
 next_knot_title: Resource Hoarding
 untie_story: 'A nonprofit scheduled quarterly \"rest sprints\" where the team worked at 60% capacity. Long-term output increased over the year.'
-- "Every incoming request is triaged: 'urgent-important, urgent-unimportant, not-urgent-important, no..."'
+untie_implement: "Every incoming request is triaged: 'urgent-important, urgent-unimportant, not-urgent-important, no..."
 untie_question: 'What would change in your organization if you untangled \"urgency addiction\" this week?'
 quote_top: "Overstretch exceeds what was sought, creating manufactured urgency."
 quote_bottom: "Urgency is friction."

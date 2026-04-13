@@ -10,6 +10,10 @@ description: "The best technology disappears. What remains is the relationship."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-20T12:52:52.577Z"
+published_at: "2026-03-25T05:27:40.679Z"
 ---
 
 Drew Bent leads education at Anthropic. He says something most AI discourse misses entirely.

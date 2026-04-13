@@ -34,7 +34,7 @@ const allSpars = (await getCollection("spars")).sort(
               year: "numeric",
             });
             return (
-              <a href={`/spars/${spar.slug}/`} class="spar-list-item">
+              <a href={`/spars/${spar.id}/`} class="spar-list-item">
                 <div class="spar-item-meta">
                   <span class="spar-item-date">{formattedDate}</span>
                   {spar.data.confidence && <span class="spar-confidence-badge">{spar.data.confidence}</span>}

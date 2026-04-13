@@ -21,7 +21,7 @@ prev_knot_title: Expertise Trap
 next_knot: "organizations/069-cognitive-debt"
 next_knot_title: Cognitive Debt
 untie_story: 'A company banned \"reply all\" for one week. Signal-to-noise ratio improved. They kept the ban permanently after.'
-- "Before your next data review, ask: 'what decision would we make with no data at all?"'
+untie_implement: "Before your next data review, ask: 'what decision would we make with no data at all?"
 untie_question: 'What would change in your organization if you untangled \"data worship\" this week?'
 origin_nodes: ["knots:067-expertise-trap", "sparks:data-worship", "knots/organizations/067-expertise-trap", "knots/organizations/069-cognitive-debt", "sparks/data-worship"]
 valence: mixed

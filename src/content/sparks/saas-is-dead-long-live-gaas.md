@@ -10,6 +10,10 @@ description: "The agent OS era just got a CEO endorsement."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-21T07:54:38.780Z"
+published_at: "2026-03-21T08:14:38.699Z"
 ---
 
 Jensen Huang stood on stage and compared OpenClaw to Linux and HTTP.

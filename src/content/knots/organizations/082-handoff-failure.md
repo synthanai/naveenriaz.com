@@ -19,7 +19,7 @@ prev_knot_title: Over Centralization
 next_knot: "organizations/083-scaling-pains"
 next_knot_title: Scaling Pains
 untie_story: "A retail chain gave store managers authority to make local decisions up to $5K. Response time to customer issues dropped 80%."
-- "Every handoff has a documented protocol: 'what information transfers, in what format, and who conf..."'
+untie_implement: "Every handoff has a documented protocol: 'what information transfers, in what format, and who conf..."
 untie_question: 'What would change in your organization if you untangled \"handoff failure\" this week?'
 quote_top: "Customers experience the seams, not the teams themselves."
 quote_bottom: "Fix the baton drops."

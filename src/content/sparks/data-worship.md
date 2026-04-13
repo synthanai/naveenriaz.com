@@ -11,6 +11,8 @@ description: "When data replaces judgement instead of informing it."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending-review
+added: 2026-03-30
 ---
 
 "What does the data say?" has become the highest form of organisational prayer. No decision moves without a dashboard blessing.

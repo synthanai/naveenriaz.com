@@ -3,7 +3,7 @@ title: "Feedback Autopsy"
 date: 2026-03-30
 signal: "A developer ships flawed code in April. December's review mentions 'attention to detail.' The developer cannot remember what happened."
 source: "Culture"
-temperature: "🔥🔥"
+temperature: "🔥🔥🔥"
 quote_top: "Annual reviews are comfortable\nfor the reviewer, but\nthey are useless for the reviewed."
 quote_bottom: "Feedback delayed is\nfeedback denied."
 tags: [feedback, living_organizations]
@@ -11,6 +11,8 @@ description: "Feedback delayed is feedback denied."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending-review
+added: 2026-03-30
 ---
 
 A developer ships flawed code in April. Nobody says anything. December's annual review mentions "attention to detail." The developer stares at the page. They cannot remember the incident.

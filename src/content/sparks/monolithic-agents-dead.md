@@ -3,7 +3,7 @@ title: "Monolithic Agents Are Dead"
 date: 2026-03-30
 signal: "The all-in-one AI agent is the new monolith. It will fail for exactly the same reasons monolithic software failed."
 source: "SYNTHAI"
-temperature: "🔥🔥🔥"
+temperature: "🔥🔥"
 quote_top: "The all-in-one AI agent\nis the new monolith.\nIt is accountable for nothing."
 quote_bottom: "Composability beats capability.\nEvery single time."
 tags: [ai-governance, cognitive_architecture, development_shift]
@@ -11,6 +11,10 @@ description: "One agent to rule them all is one agent to fail them all."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-04-06T13:35:25.345Z"
+published_at: "2026-04-06T13:35:30.022Z"
 ---
 
 The industry is building monolithic AI agents: one system that reads, writes, decides, audits, and publishes. It does everything. It is accountable for nothing.

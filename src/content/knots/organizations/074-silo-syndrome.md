@@ -19,7 +19,7 @@ prev_knot_title: Structural Inertia
 next_knot: "organizations/075-process-sediment"
 next_knot_title: Process Sediment
 untie_story: "A team reorganized around customer journeys instead of functions. Handoff errors dropped by 70% in the first quarter."
-- "Walk to another department and ask: 'what do you need from us that you''re not getting?"'
+untie_implement: "Walk to another department and ask: 'what do you need from us that you're not getting?"
 untie_question: 'What would change in your organization if you untangled \"silo syndrome\" this week?'
 quote_top: Organizational silos prevent the cross-pollination of perspectives
 quote_bottom: Innovation demands contamination

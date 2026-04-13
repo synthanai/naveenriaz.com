@@ -5,8 +5,6 @@ source: "Link"
 source_url: "https://nyk.dev"
 signal: "A builder with 155+ repos and 2.8k GitHub stars says the model was never the product. The harness (orchestration, quality gates, memory, policy, context engineering) is the product."
 temperature: "🔥🔥"
-
-
 tags: [agentic_systems, builderz, context_engineering]
 description: "The value is not in the model. It is in the governance around it."
 quote_top: "Harness, not model, defines the future of AI products."
@@ -14,6 +12,10 @@ quote_bottom: "Governance over raw capability."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-20T12:53:53.744Z"
+published_at: "2026-03-21T08:15:29.753Z"
 ---
 
 Nyk has shipped 32 products. Built 155 repositories. Earned 2,800 GitHub stars on a single project. His thesis in one sentence: "The harness is the product. The model never was."

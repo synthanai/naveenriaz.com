@@ -22,7 +22,7 @@ next_knot: "organizations/089-leadership-vacuum"
 next_knot_title: Leadership Vacuum
 untie_story: |
   A startup created \"T-shaped\" development plans: deep in one skill, broad across two others. Versatility increased.
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"knowledge extinction\" this week?'
 quote_top: "Resignation means knowledge extinction, irrecoverable context lost forever."
 quote_bottom: "Transfer, don't extinguish."

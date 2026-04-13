@@ -21,7 +21,7 @@ prev_knot_title: Recognition Deficit
 next_knot: "organizations/024-the-culture-tax"
 next_knot_title: The Culture Tax
 untie_story: "A bank branch let tellers redesign their own workflows. Customer satisfaction improved because tellers were happier serving."
-- "Ask every person on your team, one-on-one: '\"What would be lost if you left?\" If they can''t answer..."'
+untie_implement: "Ask every person on your team, one-on-one: 'What would be lost if you left?' If they can't answer..."
 untie_question: 'What would change in your organization if you untangled \"belonging fracture\" this week?'
 origin_nodes: ["knots:022-recognition-deficit", "knots/organizations/022-recognition-deficit", "knots/organizations/024-the-culture-tax"]
 valence: mixed

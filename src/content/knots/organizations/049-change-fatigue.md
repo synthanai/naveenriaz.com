@@ -19,7 +19,7 @@ prev_knot_title: Decision Whiplash
 next_knot: "organizations/050-transformation-theater"
 next_knot_title: Transformation Theater
 untie_story: 'A company held a \"funeral\" for the old process before launching the new. Mourning enabled moving forward.'
-- "Ask your team: 'how many transformations are you currently in the middle of?"'
+untie_implement: "Ask your team: 'how many transformations are you currently in the middle of?"
 untie_question: 'What would change in your organization if you untangled \"change fatigue\" this week?'
 quote_top: "Laugh in the face of hardship, for defiance conquers all."
 quote_bottom: "Defiance conquers all."

@@ -21,9 +21,9 @@ next_knot: "organizations/097-burnout-normalization"
 next_knot_title: Burnout Normalization
 untie_story: |
   A leader asked their team: \"what skill would transform your career?\" Then funded one course per person per quarter.
-- "Before your next AI project, answer: 'Is the data clean?"'
-- "Every AI initiative begins with a data readiness audit: 'clean, documented, accessible."'
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Before your next AI project, answer: 'Is the data clean?"
+# DUPLICATE_KEY_REMOVED: untie_implement: "Every AI initiative begins with a data readiness audit: 'clean, documented, accessible."
+# DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"the ai readiness gap\" this week?'
 quote_top: "AI dreams crash on shaky data foundation."
 quote_bottom: "Build solid, then soar."

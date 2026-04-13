@@ -22,8 +22,8 @@ next_knot: "organizations/061-collective-blindness"
 next_knot_title: Collective Blindness
 untie_story: |
   A bank branch manager asked monthly: \"what should we stop doing?\" Removing friction accelerated adoption faster than adding features.
-- "Before hiring the next consultant, ask: 'what internal capability will exist after they leave?"'
-- "Every consulting engagement includes a capability transfer milestone: 'what internal skill will ex..."'
+untie_implement: "Before hiring the next consultant, ask: 'what internal capability will exist after they leave?"
+# DUPLICATE_KEY_REMOVED: untie_implement: "Every consulting engagement includes a capability transfer milestone: 'what internal skill will ex..."
 untie_question: 'What would change in your organization if you untangled \"consultant dependency\" this week?'
 origin_nodes: ["knots:059-ungrieved-loss", "knots/organizations/059-ungrieved-loss", "knots/organizations/061-collective-blindness"]
 valence: mixed

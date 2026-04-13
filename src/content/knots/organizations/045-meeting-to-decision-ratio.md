@@ -19,7 +19,7 @@ prev_knot_title: Decision Fragmentation
 next_knot: "organizations/046-risk-theater"
 next_knot_title: Risk Theater
 untie_story: 'A school board created a \"student impact test\" for every policy decision. Three pending policies were reversed.'
-- "Track one metric this week: 'did each meeting produce a decision?"'
+untie_implement: "Track one metric this week: 'did each meeting produce a decision?"
 untie_question: 'What would change in your organization if you untangled \"meeting to decision ratio\" this week?'
 quote_top: "Activity consuming more than it produces is organizational death."
 quote_bottom: "Exhaustion isn't output."

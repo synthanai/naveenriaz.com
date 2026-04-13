@@ -19,7 +19,7 @@ prev_knot_title: Middle Management Squeeze
 next_knot: "organizations/079-technology-sprawl"
 next_knot_title: Technology Sprawl
 untie_story: "A nonprofit merged two overlapping committees. Meeting hours halved. Output quality improved because accountability was clearer."
-- "Every governance body has an annual ROI review: 'decisions produced divided by hours consumed."'
+untie_implement: "Every governance body has an annual ROI review: 'decisions produced divided by hours consumed."
 untie_question: 'What would change in your organization if you untangled \"governance bloat\" this week?'
 quote_top: "Governance bloat is organizational autoimmunity, attacking the ability to decide."
 quote_bottom: "Paralyzed by protection."

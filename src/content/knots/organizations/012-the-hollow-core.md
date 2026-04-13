@@ -24,7 +24,7 @@ prev_knot_title: Identity Fragility
 next_knot: "organizations/013-performative-safety"
 next_knot_title: Performative Safety
 untie_story: "A church congregation realized their identity was their practice, not their building. Moving locations proved it clearly."
-- "At your next board or leadership meeting, add one agenda item: '\"What did we deepen this quarter?\"..."'
+untie_implement: "At your next board or leadership meeting, add one agenda item: 'What did we deepen this quarter?'..."
 untie_question: 'What would change in your organization if you untangled \"the hollow core\" this week?'
 quote_top: "Valluvar's standard isn't growth; it's elevation, not expansion."
 quote_bottom: "Meaning shrinks, numbers grow."

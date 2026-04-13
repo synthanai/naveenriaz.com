@@ -3,14 +3,22 @@ title: Change Fatigue
 date: 2026-03-30
 signal: "Your team isn't resistant to change. They're exhausted by the volume of change that leads nowhere."
 source: Change
-temperature: 🔥🔥🔥
+temperature: "🔥🔥"
 tags: ["change", "leadership", "living_organizations"]
 description: Resistance is not the problem. Exhaustion is.
-quote_top: "Change fatigue: a rational response to endless, unproductive initiatives."
-quote_bottom: Stop starting, start finishing.
+quote_top: |
+  Change Fatigue: 
+  Unproductive Initiatives
+quote_bottom: |
+  Stop starting!
+  Start finishing!
 origin_nodes: [""]
 valence: mixed
 friction: ""
+status: approved
+added: 2026-03-30
+approved_at: "2026-04-13T10:46:42.618Z"
+published_at: "2026-04-13T10:43:27.418Z"
 ---
 
 Gartner's 2022 research: employees' willingness to support enterprise change dropped from 74% in 2016 to 43%. Not because people hate change. Because they have been through too many changes that led nowhere.

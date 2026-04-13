@@ -21,7 +21,7 @@ prev_knot_title: Pilot Purgatory
 next_knot: "organizations/056-organizational-antibodies"
 next_knot_title: Organizational Antibodies
 untie_story: "A school redesigned schedules with teacher input at every stage. The change stuck because teachers owned it completely."
-- "If you are sponsoring a change, put one thing on your calendar: 'monthly 15-minute conversation wi..."'
+untie_implement: "If you are sponsoring a change, put one thing on your calendar: 'monthly 15-minute conversation wi..."
 untie_question: 'What would change in your organization if you untangled \"sponsorship evaporation\" this week?'
 origin_nodes: ["knots:054-pilot-purgatory", "knots/organizations/054-pilot-purgatory", "knots/organizations/056-organizational-antibodies"]
 valence: mixed

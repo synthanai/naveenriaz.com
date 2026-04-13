@@ -19,8 +19,8 @@ prev_knot_title: The Presenteeism Tax
 next_knot: "organizations/103-energy-vampires"
 next_knot_title: Energy Vampires
 untie_story: 'A school created \"brain breaks\" every 45 minutes. Student attention improved. Teacher satisfaction improved alongside it.'
-- "After each resignation, ask: 'who else is now more likely to leave because this person left?"'
-- "Every departure triggers a spiral assessment: 'who else is now more likely to leave?"'
+untie_implement: "After each resignation, ask: 'who else is now more likely to leave because this person left?"
+# DUPLICATE_KEY_REMOVED: untie_implement: "Every departure triggers a spiral assessment: 'who else is now more likely to leave?"
 untie_question: 'What would change in your organization if you untangled \"turnover spiral\" this week?'
 quote_top: "Turnover spirals are self-sustaining chain reactions, ignored until too late."
 quote_bottom: "Stop the spiral, save the team."

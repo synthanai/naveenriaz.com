@@ -10,6 +10,10 @@ description: "A framework that predicted a phenomenon before the industry observ
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-20T12:43:56.647Z"
+published_at: "2026-03-30T05:07:21.288Z"
 ---
 
 We named this pattern before the industry discovered it.

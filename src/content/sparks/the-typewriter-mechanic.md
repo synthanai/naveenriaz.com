@@ -11,6 +11,10 @@ description: "Mastering a dying skill is not the same as building a new one."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-04-06T09:26:42.816Z"
+published_at: "2026-04-06T09:26:47.621Z"
 ---
 
 Around 1985, the best typewriter mechanic in the world perfected their craft. Every ribbon change flawless. Every key alignment precise.

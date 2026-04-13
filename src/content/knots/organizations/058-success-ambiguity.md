@@ -21,7 +21,7 @@ prev_knot_title: Rhetoric Reality Gap
 next_knot: "organizations/059-ungrieved-loss"
 next_knot_title: Ungrieved Loss
 untie_story: 'A tech team measured \"behavior change\" instead of \"system adoption.\" The shift in metrics revealed the real picture.'
-- "Every initiative has a single-sentence success definition: 'a measurable end state that, when achi..."'
+untie_implement: "Every initiative has a single-sentence success definition: 'a measurable end state that, when achi..."
 untie_question: 'What would change in your organization if you untangled \"success ambiguity\" this week?'
 quote_top: "No defined success means your initiative cannot end."
 quote_bottom: "It will consume resources forever."

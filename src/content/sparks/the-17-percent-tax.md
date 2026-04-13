@@ -5,8 +5,6 @@ source: "Link"
 source_url: "https://www.anthropic.com/research/AI-assistance-coding-skills"
 signal: "Anthropic's own RCT found developers using Claude scored 17% lower on comprehension. But one group, those who asked instead of delegated, performed just as well."
 temperature: "🔥🔥🔥"
-
-
 tags: [inquiry-mode, rct, skill_economy, synthetic_intelligence]
 description: "Delegation atrophies. Inquiry amplifies. The tool is neutral. The mode is everything."
 quote_top: "AI tools can make us dumber. The illusion of speed deceives."
@@ -14,6 +12,10 @@ quote_bottom: "Inquiry preserves skill."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-20T12:42:02.081Z"
+published_at: "2026-03-21T08:17:13.146Z"
 ---
 
 Anthropic studied its own product and published the uncomfortable result.

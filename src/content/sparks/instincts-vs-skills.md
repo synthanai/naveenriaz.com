@@ -4,8 +4,6 @@ date: 2026-03-30
 signal: "Your instincts about code are right. Your instincts about AI configuration are wrong. The gap will cost you."
 source: "SYNTHAI"
 temperature: "🔥🔥"
-
-
 tags: [ai-governance, cognitive_architecture, skill_economy]
 description: "20 years of engineering instinct becomes liability when the medium changes."
 quote_top: "AI code: Looks familiar, but fails in unfamiliar ways."
@@ -13,6 +11,8 @@ quote_bottom: "Old instincts are now liabilities."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending-review
+added: 2026-03-30
 ---
 
 A senior developer reviews AI-generated code. Their instinct says "this looks fine." Twenty years of pattern recognition, firing automatically. The code ships.

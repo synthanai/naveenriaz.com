@@ -12,6 +12,8 @@ description: "Before starting the next initiative, find the one knot that unrave
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending-review
+added: 2026-03-30
 ---
 
 A leadership team lists problems on a whiteboard. Low morale. High turnover. Missed deadlines. Communication gaps. Twenty items. Twenty workstreams assigned.

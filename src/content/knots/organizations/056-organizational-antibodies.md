@@ -19,7 +19,7 @@ prev_knot_title: Sponsorship Evaporation
 next_knot: "organizations/057-rhetoric-reality-gap"
 next_knot_title: Rhetoric Reality Gap
 untie_story: 'A company assigned \"change buddies\" to pair skeptics with early adopters. Peer influence outperformed training by 3x.'
-- "If your change team succeeded and was then reorganized, ask: 'was the change discontinued because ..."'
+untie_implement: "If your change team succeeded and was then reorganized, ask: 'was the change discontinued because ..."
 untie_question: 'What would change in your organization if you untangled \"organizational antibodies\" this week?'
 quote_top: |
   Organizations reject beneficial change: not with hostility, but systemic friction.

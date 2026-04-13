@@ -21,7 +21,7 @@ prev_knot_title: Scaling Pains
 next_knot: "organizations/085-skill-obsolescence"
 next_knot_title: Skill Obsolescence
 untie_story: "A small business owner realized they were the bottleneck in every process. They removed themselves from three. All three improved."
-- "Ask one person in your matrix: 'when your managers disagree, how do you decide?"'
+untie_implement: "Ask one person in your matrix: 'when your managers disagree, how do you decide?"
 untie_question: 'What would change in your organization if you untangled \"matrix madness\" this week?'
 origin_nodes: ["knots:083-scaling-pains", "knots/organizations/083-scaling-pains", "knots/organizations/085-skill-obsolescence"]
 valence: mixed

@@ -19,7 +19,7 @@ prev_knot_title: Role Ambiguity
 next_knot: "organizations/078-governance-bloat"
 next_knot_title: Governance Bloat
 untie_story: "A factory redesigned the floor layout based on workflow, not department. Production increased 15% with same headcount."
-- "Middle managers are periodically asked: 'what are you carrying that nobody sees?"'
+untie_implement: "Middle managers are periodically asked: 'what are you carrying that nobody sees?"
 untie_question: 'What would change in your organization if you untangled \"middle management squeeze\" this week?'
 quote_top: "Middle managers carry the organization, unseen, until they buckle."
 quote_bottom: "Reinforce the unseen columns."

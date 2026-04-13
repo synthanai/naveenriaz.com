@@ -21,7 +21,7 @@ prev_knot_title: Strategic Myopia
 next_knot: "organizations/068-data-worship"
 next_knot_title: Data Worship
 untie_story: "A factory floor worker suggested a process change based on pattern they noticed. It saved $200K annually. Nobody had asked before."
-- "Ask one expert: 'what question outside your domain should you be asking that you''re not?"'
+untie_implement: "Ask one expert: 'what question outside your domain should you be asking that you're not?"
 untie_question: 'What would change in your organization if you untangled \"expertise trap\" this week?'
 quote_top: "Expertise became a cage preventing broader understanding."
 quote_bottom: "See beyond your field."

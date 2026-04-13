@@ -20,7 +20,7 @@ prev_knot_title: Handoff Failure
 next_knot: "organizations/084-matrix-madness"
 next_knot_title: Matrix Madness
 untie_story: 'A company created a \"structural debt\" register like technical debt. Quarterly reviews addressed the most costly misalignments first.'
-- "At every 50% growth milestone, one structural review is mandatory: 'communications, decision proto..."'
+untie_implement: "At every 50% growth milestone, one structural review is mandatory: 'communications, decision proto..."
 untie_question: 'What would change in your organization if you untangled \"scaling pains\" this week?'
 quote_top: "Growth brings pain. Structures break when organisms expand."
 quote_bottom: "Adapt or crumble."

@@ -20,8 +20,8 @@ prev_knot_title: Onboarding Failure
 next_knot: "organizations/096-the-ai-readiness-gap"
 next_knot_title: The Ai Readiness Gap
 untie_story: 'A consulting firm created peer-teaching \"guilds\" by specialty. Knowledge that was locked in individuals became organizational capability.'
-- "Meeting architecture includes structural mechanisms for diverse input: 'written pre-reads, round-r..."'
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Meeting architecture includes structural mechanisms for diverse input: 'written pre-reads, round-r..."
+# DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"diversity without inclusion\" this week?'
 quote_top: "Diverse hires muted by cultural norms are visual diversity, not audible diversity."
 quote_bottom: "Presence is not power."

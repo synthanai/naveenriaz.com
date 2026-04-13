@@ -21,7 +21,7 @@ prev_knot_title: Risk Theater
 next_knot: "organizations/048-decision-whiplash"
 next_knot_title: Decision Whiplash
 untie_story: 'A company created \"decision rights\" documentation. Three overlapping owners became one clear owner per decision.'
-- "Each decision has three identified signals: 'the metrics that would change the decision if they mo..."'
+untie_implement: "Each decision has three identified signals: 'the metrics that would change the decision if they mo..."
 untie_question: 'What would change in your organization if you untangled \"information overload\" this week?'
 quote_top: "Information abundance creates paralysis, not clarity."
 quote_bottom: "Too much data kills understanding."

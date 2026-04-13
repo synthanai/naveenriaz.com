@@ -19,8 +19,8 @@ prev_knot_title: Technical Debt Avalanche
 next_knot: "organizations/092-outsourcing-identity"
 next_knot_title: Outsourcing Identity
 untie_story: "A nonprofit invested in leadership development for middle managers. Eighteen months later, three internal promotions replaced expensive external hires."
-- "Ask your customer-facing team: 'what do we promise that we can''t consistently deliver?"'
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Ask your customer-facing team: 'what do we promise that we can't consistently deliver?"
+# DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"customer capability gap\" this week?'
 quote_top: "Broken promises shatter customer trust, leading to business failure."
 quote_bottom: "Deliver less, promise less."

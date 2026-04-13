@@ -19,7 +19,7 @@ prev_knot_title: Transformation Theater
 next_knot: "organizations/052-momentum-decay"
 next_knot_title: Momentum Decay
 untie_story: 'A team created a \"change fatigue thermometer\" visible to leadership. When it hit red, they paused and recovered.'
-- "Ask the three most resistant people: 'what would need to be true for this change to work for you?"'
+untie_implement: "Ask the three most resistant people: 'what would need to be true for this change to work for you?"
 untie_question: 'What would change in your organization if you untangled \"resistance misdiagnosis\" this week?'
 quote_top: "Resistance is a symptom, not the disease. Diagnose it."
 quote_bottom: Painkillers hide problems

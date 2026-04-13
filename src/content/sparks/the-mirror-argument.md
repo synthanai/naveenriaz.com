@@ -12,6 +12,10 @@ description: "AI does not have morality. It has a mirror."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-20T13:49:02.937Z"
+published_at: "2026-03-28T12:59:44.182Z"
 ---
 
 Martin Ciupa articulated the clearest boundary I have read in the consciousness debate.

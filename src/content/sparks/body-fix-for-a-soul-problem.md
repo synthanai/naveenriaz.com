@@ -3,8 +3,6 @@ title: "Body Fix for a Soul Problem"
 date: 2026-03-20
 signal: "Organisations restructure when they need purpose. Teams add process when they need trust. Leaders hire when they need clarity. The pattern repeats everywhere: treating symptoms at the wrong layer."
 temperature: "🔥🔥"
-
-
 tags: [diagnostics, living_organizations, mbs_framework]
 description: "The most common misdiagnosis in organisations: fixing the visible layer instead of the causal one."
 quote_top: "Interventions amplify problems when targeting visible layers, not the root."
@@ -12,6 +10,10 @@ quote_bottom: "Fix the soul, not the body."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-25T11:19:22.460Z"
+published_at: "2026-03-29T11:25:53.108Z"
 ---
 
 A team is underperforming. Management restructures. Performance does not improve.

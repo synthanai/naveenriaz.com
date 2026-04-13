@@ -19,7 +19,7 @@ prev_knot_title: Dissent Suppression
 next_knot: "organizations/045-meeting-to-decision-ratio"
 next_knot_title: Meeting To Decision Ratio
 untie_story: 'A startup stopped consensus-seeking and moved to \"consult then decide.\" Meetings shortened. Quality stayed the same.'
-- "Before making any cross-team decision, ask: 'who else is deciding something similar right now?"'
+untie_implement: "Before making any cross-team decision, ask: 'who else is deciding something similar right now?"
 untie_question: 'What would change in your organization if you untangled \"decision fragmentation\" this week?'
 quote_top: |
   Fragmented decisions: individually rational, collectively catastrophic.

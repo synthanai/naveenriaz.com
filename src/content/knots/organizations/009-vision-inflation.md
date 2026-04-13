@@ -24,7 +24,7 @@ prev_knot_title: Purpose Commodification
 next_knot: "organizations/010-cultural-orphans"
 next_knot_title: Cultural Orphans
 untie_story: 'A factory team created a \"why we make this\" video. Absenteeism dropped. They connected product to purpose visually.'
-- "Ask three frontline workers: '\"How does your work this week connect to our vision?\" If they laugh,..."'
+untie_implement: "Ask three frontline workers: 'How does your work this week connect to our vision?' If they laugh,..."
 untie_question: 'What would change in your organization if you untangled \"vision inflation\" this week?'
 quote_top: "Grand visions inflate; daily work grounds us."
 quote_bottom: "Execution, not ambition, defines impact."

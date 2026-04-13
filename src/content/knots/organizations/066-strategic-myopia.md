@@ -19,7 +19,7 @@ prev_knot_title: Innovation Theater
 next_knot: "organizations/067-expertise-trap"
 next_knot_title: Expertise Trap
 untie_story: 'A nonprofit held quarterly \"what surprised us\" sessions. The surprises were always more valuable than the confirmations.'
-- "Add one agenda item to your next planning session: 'what is true today that won''t be true in three..."'
+untie_implement: "Add one agenda item to your next planning session: 'what is true today that won't be true in three..."
 untie_question: 'What would change in your organization if you untangled \"strategic myopia\" this week?'
 quote_top: "Short-sighted focus is leadership failure at its worst."
 quote_bottom: "Look far, lead well."

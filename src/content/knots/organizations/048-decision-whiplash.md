@@ -21,8 +21,8 @@ prev_knot_title: Information Overload
 next_knot: "organizations/049-change-fatigue"
 next_knot_title: Change Fatigue
 untie_story: 'A leadership team did a \"decision autopsy\" monthly. They learned more from reviewing decisions than from making new ones.'
-- "Next time you reverse a decision, say three things: 'what was decided before, why it''s changing, a..."'
-- "When a decision is reversed, three things are stated: 'what was decided before, why it''s changing,..."'
+untie_implement: "Next time you reverse a decision, say three things: 'what was decided before, why it's changing, a..."
+# DUPLICATE_KEY_REMOVED: untie_implement: "When a decision is reversed, three things are stated: 'what was decided before, why it's changing,..."
 untie_question: 'What would change in your organization if you untangled \"decision whiplash\" this week?'
 quote_top: "Inconsistent leadership creates whiplash, killing team commitment and trust."
 quote_bottom: "Leaders, acknowledge your mistakes."

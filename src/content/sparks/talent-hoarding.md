@@ -4,8 +4,6 @@ date: 2026-03-30
 signal: "The manager who never lets good people move is the manager who makes good people leave."
 source: "Capability"
 temperature: "🔥🔥"
-
-
 tags: [capability, retention, skill_economy]
 description: "Hoarding talent is the fastest way to lose it."
 quote_top: "Talent needs growth; managers who block it lose more than they gain."
@@ -13,6 +11,10 @@ quote_bottom: "Grip tight, slip fast."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-04-09T06:12:52.657Z"
+published_at: "2026-04-09T06:12:56.549Z"
 ---
 
 A manager has a brilliant engineer. The engineer asks to transfer to a team that would stretch their skills. The manager blocks the move. "We cannot afford to lose you right now."

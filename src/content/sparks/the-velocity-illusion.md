@@ -5,8 +5,6 @@ source: "Link"
 source_url: "https://www.linkedin.com/pulse/architects-dilemma-why-our-best-developers-slower-age-raghuveeran-sincc"
 signal: "Senior engineers are 20% slower with AI on complex tasks. Junior engineers are faster but produce code they cannot explain. Speed increased. Understanding collapsed."
 temperature: "🔥🔥🔥"
-
-
 tags: [ai-governance, edc, velocity-illusion]
 description: "Speed without comprehension is not velocity. It is drift."
 quote_top: "Velocity without understanding is not speed; it is entropy."
@@ -14,6 +12,10 @@ quote_bottom: "Synthetic comprehension masks accumulating debt."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-20T12:42:49.872Z"
+published_at: "2026-03-23T08:54:57.709Z"
 ---
 
 A Wipro delivery head coined a term that names what we all feel but cannot articulate: the Illusion of Velocity.

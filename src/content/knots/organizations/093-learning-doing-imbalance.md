@@ -22,9 +22,9 @@ prev_knot_title: Outsourcing Identity
 next_knot: "organizations/094-onboarding-failure"
 next_knot_title: Onboarding Failure
 untie_story: "A tech company open-sourced their internal training materials. External contributions improved the materials beyond what internal teams could."
-- "After every sprint, protect 30 minutes for: 'what did this sprint teach us?"'
-- "Every sprint includes a protected learning review: 'one question answered, one pattern identified,..."'
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "After every sprint, protect 30 minutes for: 'what did this sprint teach us?"
+# DUPLICATE_KEY_REMOVED: untie_implement: "Every sprint includes a protected learning review: 'one question answered, one pattern identified,..."
+# DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"learning doing imbalance\" this week?'
 quote_top: "Learning needs doing. Doing needs learning. Both create growth."
 quote_bottom: "Balance the cycle."

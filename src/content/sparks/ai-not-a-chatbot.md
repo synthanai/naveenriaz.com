@@ -11,6 +11,10 @@ description: "The chatbot is the lobby. The building is behind it."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-04-05T09:30:10.265Z"
+published_at: "2026-04-05T09:30:16.193Z"
 ---
 
 Ask most executives about their AI strategy: "We deployed a chatbot." That is like saying your transportation strategy is a bicycle in the lobby.

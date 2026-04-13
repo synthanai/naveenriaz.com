@@ -25,8 +25,7 @@ quote_bottom: "Work hides behind Calendars."
 origin_nodes: ["knots:020-values-inversion", "knots/organizations/020-values-inversion", "knots/organizations/022-recognition-deficit"]
 valence: mixed
 status: published
-custom_comment: |
-  🪢 Read this knot: https://naveenriaz.com/knots/organizations/021-meeting-toxicity/
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/021-meeting-toxicity/"
 custom_linkedin: |
   🪢 KNOTS · Untangling Organisations
   🌡️ Untangling Culture

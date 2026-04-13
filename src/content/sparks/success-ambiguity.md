@@ -11,6 +11,10 @@ quote_bottom: "Moving but not converging."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-04-03T12:40:01.108Z"
+published_at: "2026-04-03T12:40:05.195Z"
 ---
 
 Ask five people on your team what "success" looks like this quarter. You will get six answers.

@@ -22,7 +22,7 @@ next_knot: "organizations/104-urgency-addiction"
 next_knot_title: Urgency Addiction
 untie_story: |
   A factory added a 15-minute walking break to every shift. Injury rates dropped. Quality scores rose. Cost: zero.
-- "Every recurring process has a quarterly energy audit: 'does this process produce more value than i..."'
+untie_implement: "Every recurring process has a quarterly energy audit: 'does this process produce more value than i..."
 untie_question: 'What would change in your organization if you untangled \"energy vampires\" this week?'
 quote_top: "Your processes drain everyone through design, not malice."
 quote_bottom: "Audit and cancel them."

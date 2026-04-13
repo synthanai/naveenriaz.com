@@ -3,9 +3,7 @@ title: "The Culture Tax"
 date: 2026-03-30
 signal: "Nobody sees the culture tax on a line item. But it is there, in every interaction, every day."
 source: "Culture"
-temperature: "🔥🔥🔥"
-
-
+temperature: "🔥🔥"
 tags: [cost, leadership, living_organizations]
 description: "Bad culture costs more than bad strategy. It just never appears on the balance sheet."
 quote_top: "Culture tax silently drains, costing more than just money."
@@ -13,6 +11,10 @@ quote_bottom: "Invisibility hides its true cost."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-04-01T06:03:40.618Z"
+published_at: "2026-04-04T10:38:05.167Z"
 ---
 
 Nobody sees the culture tax on a line item. But it is there.

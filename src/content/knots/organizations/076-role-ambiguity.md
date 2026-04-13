@@ -19,7 +19,7 @@ prev_knot_title: Process Sediment
 next_knot: "organizations/077-middle-management-squeeze"
 next_knot_title: Middle Management Squeeze
 untie_story: "A hospital created cross-functional pods for patient care. Outcomes improved because the whole team saw the whole patient."
-- "Every role has three documented outputs: 'what it produces, what it decides, and what it escalates."'
+untie_implement: "Every role has three documented outputs: 'what it produces, what it decides, and what it escalates."
 untie_question: 'What would change in your organization if you untangled \"role ambiguity\" this week?'
 quote_top: "Role ambiguity cripples teams, transforming flexibility into chaos."
 quote_bottom: "Clarity unlocks productivity."

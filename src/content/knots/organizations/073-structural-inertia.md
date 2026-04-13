@@ -19,8 +19,8 @@ prev_knot_title: The Insight Graveyard
 next_knot: "organizations/074-silo-syndrome"
 next_knot_title: Silo Syndrome
 untie_story: "A company eliminated one management layer. Span of control increased but decision speed doubled and satisfaction rose."
-- "Ask two questions about your last restructure: 'what behavior changed?"'
-- "Every restructure includes behavioral change indicators: 'specific actions that should change as a..."'
+untie_implement: "Ask two questions about your last restructure: 'what behavior changed?"
+# DUPLICATE_KEY_REMOVED: untie_implement: "Every restructure includes behavioral change indicators: 'specific actions that should change as a..."
 untie_question: 'What would change in your organization if you untangled \"structural inertia\" this week?'
 quote_top: "Structure changed, but human behavior ossified."
 quote_bottom: "Inertia conquers all."

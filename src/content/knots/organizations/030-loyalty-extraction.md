@@ -20,7 +20,7 @@ prev_knot_title: Competence Doubt
 next_knot: "organizations/031-trust-asymmetry"
 next_knot_title: Trust Asymmetry
 untie_story: "A hospital introduced peer feedback rounds where nurses coached nurses. Quality improved because trust replaced hierarchy."
-- "Ask yourself: 'in the last six months, what has your organization done to earn loyalty?"'
+untie_implement: "Ask yourself: 'in the last six months, what has your organization done to earn loyalty?"
 untie_question: 'What would change in your organization if you untangled \"loyalty extraction\" this week?'
 quote_top: "Loyalty isn't a tax, it's a mutual investment."
 quote_bottom: "One-sided loyalty is demand."

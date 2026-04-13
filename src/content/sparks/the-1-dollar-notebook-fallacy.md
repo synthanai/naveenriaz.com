@@ -10,6 +10,10 @@ description: "Students are not cheating because AI exists. They have forgotten w
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-23T08:56:02.387Z"
+published_at: "2026-03-23T08:56:12.803Z"
 ---
 
 An NYU professor banned AI from her classroom. She replaced laptops with $1 spiral notebooks. Students now write everything by hand. The post got 11,000 likes on X.

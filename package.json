@@ -10,6 +10,7 @@
         "build": "astro build",
         "build:local": "npm run pulse && astro build",
         "preview": "astro preview",
+        "postinstall": "python3 scripts/patch-astro-loader.py",
         "astro": "astro"
     },
     "dependencies": {

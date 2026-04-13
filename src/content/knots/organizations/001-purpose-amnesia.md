@@ -20,7 +20,7 @@ kural_bridge: "Purpose forgotten is virtue abandoned."
 next_knot: "organizations/002-identity-mimicry"
 next_knot_title: Identity Mimicry
 untie_story: "A startup founder revisited their original pitch deck after three years of drift. Reading it aloud to the team brought tears. They remembered."
-- "ask: '\"Why does this team exist?\" Write down the exact words."'
+untie_implement: "ask: 'Why does this team exist?' Write down the exact words."
 untie_question: 'What would change in your organization if you untangled \"purpose amnesia\" this week?'
 quote_top: "Purpose attenuates when it's not amplified."
 quote_bottom: "Re-amplify your reason."

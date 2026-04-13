@@ -3,14 +3,23 @@ title: The Consensus Trap
 date: 2026-03-30
 signal: If your meetings end with comfortable consensus every time, the problem is that someone stopped disagreeing.
 source: Decisions
-temperature: 🔥🔥
-quote_top: Unanimous agreement in meetings\ndoes not mean people are aligned.\nIt means people stopped disagreeing.
-quote_bottom: Alignment born from fear\nis silence with better posture.
+temperature: "🔥🔥"
+quote_top: |
+  Unanimous agreement 
+  means people 
+  stopped disagreeing.
+quote_bottom: |
+  Alignment 
+  born from fear
+  is silence 
+  with better posture.
 tags: ["cognitive_friction", "leadership", "spar_dialectic"]
 description: Unanimous agreement is often unanimous silence.
 origin_nodes: [""]
 valence: mixed
 friction: ""
+status: pending-review
+added: 2026-03-30
 ---
 
 A leadership team votes on strategy. Unanimous. Everyone nods. "Great, we are aligned."

@@ -3,7 +3,7 @@ title: "Purpose Amnesia"
 date: 2026-03-30
 signal: "We started a bakery to feed the neighbourhood. Now we optimise delivery routes for bread that arrives cold."
 source: "Identity"
-temperature: "🔥🔥🔥"
+temperature: "🔥🔥"
 quote_top: "We started a bakery\nto feed the neighbourhood.\nNow we deliver cold bread."
 quote_bottom: "Efficiency without purpose\nis a faster route to nowhere."
 tags: [leadership, personal_sovereignty]
@@ -11,6 +11,10 @@ description: "When the 'how' gets so sophisticated it eats the 'why' for breakfa
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-04-09T06:23:22.536Z"
+published_at: "2026-04-09T06:23:28.275Z"
 ---
 
 We started a bakery to feed the neighbourhood. The bread was warm. People queued. The purpose was visible in every loaf.

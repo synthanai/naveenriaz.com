@@ -21,9 +21,9 @@ prev_knot_title: Talent Hoarding
 next_knot: "organizations/088-knowledge-extinction"
 next_knot_title: Knowledge Extinction
 untie_story: "A hospital paired experienced nurses with new ones for their first six months. Retention of new nurses doubled."
-- "After your next interview, ask: 'what does this team need that our interview didn''t measure?"'
-- "Every hiring process includes a fit assessment: 'working style, cultural norms, team dynamics."'
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "After your next interview, ask: 'what does this team need that our interview didn't measure?"
+# DUPLICATE_KEY_REMOVED: untie_implement: "Every hiring process includes a fit assessment: 'working style, cultural norms, team dynamics."
+# DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"hiring mismatch\" this week?'
 quote_top: "Credentials don't guarantee context. Measure fit, not just skills."
 quote_bottom: "Mismatch dissolves everything."

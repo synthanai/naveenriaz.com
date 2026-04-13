@@ -24,7 +24,8 @@ quote_top: "Invisible value sustains organizations and entire forests."
 quote_bottom: "Recognize unseen roots."
 origin_nodes: ["knots:021-meeting-toxicity", "knots/organizations/021-meeting-toxicity", "knots/organizations/023-belonging-fracture"]
 valence: mixed
-status: pending
+status: published
+published_at: "2026-04-13T11:46:48.321Z"
 ---
 
 The world honors those who do good with grace.

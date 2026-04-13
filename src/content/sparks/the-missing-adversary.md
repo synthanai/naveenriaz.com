@@ -3,8 +3,6 @@ title: "The Missing Adversary"
 date: 2026-03-20
 signal: "A knowledge management system generates boundary cases to break its own claims before publishing them. Your AI writes great notes. Who checks if they are true?"
 temperature: "🔥🔥"
-
-
 tags: [institutional_memory, semantic-review, spar_dialectic]
 description: "Structure checks compliance. Semantic review checks truth."
 quote_top: "AI validates structure, but reality demands truth and adversarial testing."
@@ -12,6 +10,10 @@ quote_bottom: "Structure is not truth."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-20T12:53:21.301Z"
+published_at: "2026-03-27T03:43:47.982Z"
 ---
 
 Most AI-powered knowledge systems validate structure. Does the note have a title? Is the format correct? Are the links valid?

@@ -23,7 +23,7 @@ prev_knot_title: Metric Gaming
 next_knot: "organizations/066-strategic-myopia"
 next_knot_title: Strategic Myopia
 untie_story: "A school created student-led research projects on school problems. Students produced insights adults had missed for years."
-- "Ask your innovation team: 'of the ideas generated in the last twelve months, how many are now in p..."'
+untie_implement: "Ask your innovation team: 'of the ideas generated in the last twelve months, how many are now in p..."
 untie_question: 'What would change in your organization if you untangled \"innovation theater\" this week?'
 origin_nodes: ["knots:064-metric-gaming", "sparks:innovation-theater", "knots/organizations/064-metric-gaming", "knots/organizations/066-strategic-myopia", "sparks/innovation-theater"]
 valence: mixed

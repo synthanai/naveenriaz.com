@@ -22,7 +22,7 @@ prev_knot_title: Cultural Orphans
 next_knot: "organizations/012-the-hollow-core"
 next_knot_title: The Hollow Core
 untie_story: "A marketing agency discovered their best client work happened when the team knew WHY the client mattered to the world."
-- "Run a tabletop exercise in your next leadership meeting: '\"Revenue drops 20% this quarter."'
+untie_implement: "Run a tabletop exercise in your next leadership meeting: 'Revenue drops 20% this quarter."
 untie_question: 'What would change in your organization if you untangled \"identity fragility\" this week?'
 quote_top: "Untested commitment shatters under pressure, revealing identity fragility."
 quote_bottom: "Stress-test your core."

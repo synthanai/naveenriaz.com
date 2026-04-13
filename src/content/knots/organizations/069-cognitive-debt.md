@@ -22,7 +22,7 @@ prev_knot_title: Data Worship
 next_knot: "organizations/070-forecast-addiction"
 next_knot_title: Forecast Addiction
 untie_story: "A leadership team read one book together per quarter and discussed it. Shared mental models improved strategic alignment."
-- "Two hours per week are protected for structured thinking: 'root cause analysis, pattern identifica..."'
+untie_implement: "Two hours per week are protected for structured thinking: 'root cause analysis, pattern identifica..."
 untie_question: 'What would change in your organization if you untangled \"cognitive debt\" this week?'
 quote_top: "Companies accrue cognitive debt by avoiding deep structural thinking."
 quote_bottom: "Solutions without understanding lead to ruin."

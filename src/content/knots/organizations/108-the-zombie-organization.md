@@ -17,8 +17,8 @@ kural_bridge: "The zombie organization moves without wisdom, endures without leg
 prev_knot: "organizations/107-emotional-illiteracy"
 prev_knot_title: Emotional Illiteracy
 untie_story: "A leadership team modeled leaving at 5pm. Within three months, the entire organization's average work hours normalized to healthy."
-- "Ask the first person you see: 'why does this organization exist?"'
-- "An annual organizational health audit measures all nine dimensions: 'identity, culture, trust, dec..."'
+untie_implement: "Ask the first person you see: 'why does this organization exist?"
+# DUPLICATE_KEY_REMOVED: untie_implement: "An annual organizational health audit measures all nine dimensions: 'identity, culture, trust, dec..."
 untie_question: 'What would change in your organization if you untangled \"the zombie organization\" this week?'
 quote_top: "Zombie organizations walk and talk, but their purpose is long gone."
 quote_bottom: "The body walks. The mind is gone."

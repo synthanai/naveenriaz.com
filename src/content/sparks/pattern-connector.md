@@ -5,8 +5,6 @@ signal: "Three teams, three problems, three consultants. But it was one thread w
 source: "SYNTHAI"
 source_url: "https://naveenriaz.com/sparks"
 temperature: "🔥🔥"
-
-
 tags: [cognitive_architecture, patterns, synthetic_intelligence]
 description: "Anyone can see the thread. Few can see the weave."
 quote_top: "Cross-domain vision weaves patterns, not just threads, through the loom."
@@ -14,6 +12,8 @@ quote_bottom: "See the weave, not just the thread."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending-review
+added: 2026-03-30
 ---
 
 A factory has a quality issue. Marketing underperforms. The support queue grows. Three teams, three budgets, three consultants.

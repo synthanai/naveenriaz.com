@@ -19,7 +19,7 @@ prev_knot_title: Initiative Overload
 next_knot: "organizations/055-sponsorship-evaporation"
 next_knot_title: Sponsorship Evaporation
 untie_story: "A CEO shared their own fears about the change in a town hall. The vulnerability unlocked honesty across the organization."
-- "Ask your pilot lead: 'what conditions does this need at scale that we can''t guarantee?"'
+untie_implement: "Ask your pilot lead: 'what conditions does this need at scale that we can't guarantee?"
 untie_question: 'What would change in your organization if you untangled \"pilot purgatory\" this week?'
 quote_top: "Pilot success doesn't predict field survival. Scale requires ecosystem adaptation."
 quote_bottom: "Stop growing the petri dish."

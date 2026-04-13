@@ -10,6 +10,10 @@ description: "AI generates artifacts. It does not generate the reasoning chains 
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-20
+approved_at: "2026-03-24T12:00:53.999Z"
+published_at: "2026-03-24T12:01:01.247Z"
 ---
 
 An AI generates a solution. The developer accepts it. The code works. The PR merges. Everyone moves on.

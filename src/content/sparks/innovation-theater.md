@@ -4,8 +4,6 @@ date: 2026-03-30
 signal: "The hackathon produced 30 ideas. None were funded. The innovation lab has a ping pong table and no budget."
 source: "Capability"
 temperature: "🔥🔥🔥"
-
-
 tags: [capability, innovation, living_organizations]
 description: "When innovation is a performance, not a practice."
 quote_top: "Ideation without execution: the comfortable illusion of progress."
@@ -13,6 +11,10 @@ quote_bottom: "Innovation theater changes nothing."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-04-13T10:27:11.734Z"
+published_at: "2026-04-13T10:27:18.667Z"
 ---
 
 The hackathon produced 30 ideas. Leadership applauded. None were funded. The innovation lab has a ping pong table, a slide deck, and no budget for production.

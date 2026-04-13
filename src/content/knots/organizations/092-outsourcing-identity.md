@@ -19,7 +19,7 @@ prev_knot_title: Customer Capability Gap
 next_knot: "organizations/093-learning-doing-imbalance"
 next_knot_title: Learning Doing Imbalance
 untie_story: "A school invited professionals to co-teach one lesson per month. Students saw how classroom learning connected to real work."
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"outsourcing identity\" this week?'
 quote_top: "Outsourcing functions bleeds organizational self-knowledge and identity."
 quote_bottom: "Identity cannot be outsourced."

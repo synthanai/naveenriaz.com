@@ -4,8 +4,6 @@ date: 2026-03-30
 signal: "The person at their desk doing nothing costs more than the person who stayed home."
 source: "Energy"
 temperature: "🔥🔥"
-
-
 tags: [living_organizations, mbs_framework, productivity]
 description: "The person at their desk doing nothing costs more than the empty desk."
 quote_top: "Empty minds in full chairs cost more than absent employees."
@@ -13,6 +11,10 @@ quote_bottom: "Presence is not performance."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: published
+added: 2026-03-30
+approved_at: "2026-04-08T05:52:15.072Z"
+published_at: "2026-04-08T05:52:52.072Z"
 ---
 
 Every manager can spot an empty chair. Almost nobody can spot a full chair with an empty mind behind it.

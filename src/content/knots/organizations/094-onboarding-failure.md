@@ -22,7 +22,7 @@ prev_knot_title: Learning Doing Imbalance
 next_knot: "organizations/095-diversity-without-inclusion"
 next_knot_title: Diversity Without Inclusion
 untie_story: "A sales team switched from product training to customer-empathy training. Win rates improved more from understanding buyers than features."
-- "Ask each person: '\"what skill would transform your work?\""'
+untie_implement: "Ask each person: 'what skill would transform your work?'"
 untie_question: 'What would change in your organization if you untangled \"onboarding failure\" this week?'
 origin_nodes: ["knots:093-learning-doing-imbalance", "knots/organizations/093-learning-doing-imbalance", "knots/organizations/095-diversity-without-inclusion"]
 valence: mixed

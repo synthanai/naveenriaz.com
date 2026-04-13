@@ -19,7 +19,7 @@ prev_knot_title: Analysis Paralysis
 next_knot: "organizations/039-consensus-trap"
 next_knot_title: Consensus Trap
 untie_story: "A director stopped attending decisions below their level. The team made better decisions faster without the hierarchy present."
-- "Before your next meeting, ask honestly: 'have I already decided?"'
+untie_implement: "Before your next meeting, ask honestly: 'have I already decided?"
 untie_question: 'What would change in your organization if you untangled \"decision laundering\" this week?'
 quote_top: |
   Laundered decisions: clean surface, hollow inside; fake legitimacy.

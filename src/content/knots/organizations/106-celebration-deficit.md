@@ -19,7 +19,7 @@ prev_knot_title: Resource Hoarding
 next_knot: "organizations/107-emotional-illiteracy"
 next_knot_title: Emotional Illiteracy
 untie_story: 'A manager stopped asking \"are you busy?\" and started asking \"do you have what you need?\" The shift changed the culture.'
-- "Every completed milestone has a mandatory 'exhale moment': 'a simple, time-bounded acknowledgment ..."'
+untie_implement: "Every completed milestone has a mandatory 'exhale moment': 'a simple, time-bounded acknowledgment ..."
 untie_question: 'What would change in your organization if you untangled \"celebration deficit\" this week?'
 quote_top: "Harvest without feast depletes the farmer and team motivation."
 quote_bottom: "Stop, celebrate, renew."

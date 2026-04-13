@@ -26,7 +26,7 @@ origin_nodes: ["knots:018-siloed-synergy", "knots/organizations/018-siloed-syner
 valence: mixed
 status: published
 approved_at: "2026-04-10T05:27:55.675Z"
-published_at: "2026-04-10T05:27:59.173Z"
+published_at: "2026-04-13T11:46:26.350Z"
 ---
 
 Raise the rod high but strike gently.

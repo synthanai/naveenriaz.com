@@ -21,7 +21,7 @@ prev_knot_title: Gossip Economy
 next_knot: "organizations/036-trust-bankruptcy"
 next_knot_title: Trust Bankruptcy
 untie_story: "A company shared their strategic uncertainties with staff. People responded with solutions instead of anxiety about unknowns."
-- "Next time a project fails, ask two questions: '''Who is being blamed?'' and ''What systemic factor ma..."'
+untie_implement: "Next time a project fails, ask two questions: ''Who is being blamed?' and 'What systemic factor ma..."
 untie_question: 'What would change in your organization if you untangled \"the scapegoat pattern\" this week?'
 quote_top: |
   Scapegoating: the system attacks healthy tissue, not the pathogen.
