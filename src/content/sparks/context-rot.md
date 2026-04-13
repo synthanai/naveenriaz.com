@@ -5,7 +5,7 @@ signal: "Every AI-generated artifact starts decaying the moment it is created. T
 temperature: "🔥"
 quote_top: "Every AI-generated artifact\ndecays the moment it's created.\nThe context window closes."
 quote_bottom: "Capture the reasoning chain.\nDocument the why."
-tags: [6r, context_engineering, institutional_memory]
+tags: ["6r", "context_engineering", "institutional_memory"]
 description: "AI generates artifacts. It does not generate the reasoning chains that explain them."
 origin_nodes: []
 valence: "mixed"

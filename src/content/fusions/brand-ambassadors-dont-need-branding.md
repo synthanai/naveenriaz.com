@@ -4,7 +4,7 @@ display_title: "By 2030, Every Employee Will Have a Personal Brand"
 display_subtitle: "AI will make personal branding as frictionless as email. The question is not if. It is whether your organisation will be ready."
 date: 2026-03-29
 categories: ["living-orgs", "pattern"]
-tags: [2030, brand-ambassador, living_organizations, mbs_framework, personal_sovereignty, predictions, skill_economy, synthetic_intelligence]
+tags: ["2030", "brand-ambassador", "living_organizations", "mbs_framework", "personal_sovereignty", "predictions", "skill_economy", "synthetic_intelligence"]
 description: "AI will remove every friction that makes personal branding optional. Organisations that prepare now will outperform those that wait."
 source_research: "SPAR Deep Ultra, Personal Branding × Brand Ambassadorship (2026-03-28)"
 fusion_type: "public"

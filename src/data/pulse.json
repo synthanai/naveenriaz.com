@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-11T15:04:36.974Z",
+  "generatedAt": "2026-04-13T09:29:04.921Z",
   "pulse": {
     "repos": 35,
-    "researchFiles": 12445,
-    "bookChapters": 22,
-    "booksCount": 46,
-    "papers": 5,
-    "workflows": 107,
-    "skills": 27,
+    "researchFiles": 0,
+    "bookChapters": 0,
+    "booksCount": 0,
+    "papers": 0,
+    "workflows": 17,
+    "skills": 28,
     "knowledgeItems": 20,
-    "publications": 9,
-    "totalCommits": 1567,
-    "lastActivity": "2026-04-12T00:57:49+10:00"
+    "publications": 0,
+    "totalCommits": 1645,
+    "lastActivity": "2026-04-13T17:34:34+10:00"
   },
   "ki": [
     {

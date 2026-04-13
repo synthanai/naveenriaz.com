@@ -4,7 +4,7 @@ display_title: "The Builder-Activist"
 display_subtitle: "No degree. No lab. No funding. 196 repos and a manifesto that starts with 'Open Source must win.'"
 date: 2026-03-21
 categories: ["ai-emergence", "pattern"]
-tags: [0xsero, builder-activist, credentials, leadership, open-source, synthetic_intelligence, web3]
+tags: ["0xsero", "builder-activist", "credentials", "leadership", "open-source", "synthetic_intelligence", "web3"]
 description: "A pseudonymous developer with 196 repos just 11x'd Apple's AI benchmark. The 'Builder-Activist' is a new archetype."
 source_research: "persons/leaders/0xsero/research.md"
 fusion_type: "public"
