@@ -6,7 +6,7 @@ source: "Structure"
 temperature: "🔥🔥🔥"
 
 
-tags: ["structure", "leadership", "self-awareness"]
+tags: [cognitive_architecture, leadership, personal_sovereignty]
 description: "The test that separates living organisations from undead ones."
 quote_top: "Lack of leadership reveals zombie organizations, not discipline."
 quote_bottom: "Adapt or perish."

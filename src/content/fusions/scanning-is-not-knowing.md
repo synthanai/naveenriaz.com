@@ -4,7 +4,7 @@ display_title: "Scanning Is Not Knowing"
 display_subtitle: "Your AI has a million-token context window. It still forgets what it learned yesterday."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["context-engineering", "memory", "knowledge-management", "context-window", "context-amnesia"]
+tags: [context_engineering, institutional_memory]
 description: "A million-token context window is not memory. It's a bigger scanner. Memory requires structure, and your AI has none."
 source_research: "concepts/nyk-claude-obsidian-memory-stack/research.md"
 fusion_type: "public"

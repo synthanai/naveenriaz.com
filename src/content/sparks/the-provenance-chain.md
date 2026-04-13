@@ -7,7 +7,7 @@ signal: "A control plane for AI coding agents uses SHA-256 hash-chained session 
 temperature: "🔥🔥"
 
 
-tags: ["provenance", "vault-kit", "audit-trail", "convergent-evolution"]
+tags: [agentic_systems, institutional_memory, provenance, vault-kit]
 description: "When two systems independently invent the same trust architecture, the pattern is structural."
 quote_top: "Blockchain architecture makes agent interactions tamper-evident with cryptographic receipts."
 quote_bottom: "When trust is needed, chain it."

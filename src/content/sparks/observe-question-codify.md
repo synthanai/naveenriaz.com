@@ -5,7 +5,7 @@ signal: "A practitioner turned 24 commits to a single config file into a self-im
 temperature: "🔥"
 
 
-tags: ["self-improving", "workflow-evolution", "oqc"]
+tags: [oqc, self-improving, workflow_protocols]
 description: "The workflow IS the product. The output is a side effect."
 quote_top: "He did not design the system, he grew it iteratively."
 quote_bottom: "Workflow evolution IS the product."

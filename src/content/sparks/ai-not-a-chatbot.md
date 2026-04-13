@@ -6,7 +6,7 @@ source: "SYNTHAI"
 temperature: "🔥🔥🔥"
 quote_top: "If your AI strategy\nstarts with a chatbot,\nyou just built a lobby."
 quote_bottom: "The real architecture\nlives behind it."
-tags: ["ai-governance", "architecture", "systems-thinking"]
+tags: [ai-governance, cognitive_architecture]
 description: "The chatbot is the lobby. The building is behind it."
 origin_nodes: []
 valence: "mixed"

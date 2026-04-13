@@ -6,7 +6,7 @@ source: "Capability"
 temperature: "🔥🔥"
 
 
-tags: ["capability", "talent", "retention"]
+tags: [capability, retention, skill_economy]
 description: "Hoarding talent is the fastest way to lose it."
 quote_top: "Talent needs growth; managers who block it lose more than they gain."
 quote_bottom: "Grip tight, slip fast."

@@ -4,7 +4,7 @@ date: 2026-03-30
 signal: "If you asked five people on your team what 'success' looks like this quarter, you would get six answers."
 source: "Decisions"
 temperature: "🔥🔥"
-tags: ["decisions", "alignment", "leadership"]
+tags: [alignment, leadership, spar_dialectic]
 description: "When nobody agrees on what winning looks like, nobody wins."
 quote_top: "Ambiguous success ensures everyone optimizes for their own interpretation."
 quote_bottom: "Moving but not converging."

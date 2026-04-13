@@ -4,7 +4,7 @@ display_title: "The One-Person Unicorn"
 display_subtitle: "Sam Altman and Dario Amodei both predict a solo billion-dollar founder. The bottleneck is not the AI. It's the operating system."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["solo-founder", "one-person-unicorn", "operating-system", "governance", "ai-agents", "startup"]
+tags: [agentic_systems, governance, operating-system, strategic_leverage]
 description: "Both AI lab CEOs predict a solo billion-dollar founder. The bottleneck isn't models. It's the governance OS the founder needs to orchestrate them."
 source_research: "concepts/one-person-unicorn-ai-founder/research.md"
 fusion_type: "public"

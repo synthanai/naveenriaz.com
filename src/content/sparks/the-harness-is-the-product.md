@@ -7,7 +7,7 @@ signal: "A builder with 155+ repos and 2.8k GitHub stars says the model was neve
 temperature: "🔥🔥"
 
 
-tags: ["agent-infrastructure", "context-engineering", "builderz"]
+tags: [agentic_systems, builderz, context_engineering]
 description: "The value is not in the model. It is in the governance around it."
 quote_top: "Harness, not model, defines the future of AI products."
 quote_bottom: "Governance over raw capability."

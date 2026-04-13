@@ -6,7 +6,7 @@ source: "Decisions"
 temperature: "🔥🔥"
 quote_top: "Unanimous agreement in meetings\ndoes not mean people are aligned.\nIt means people stopped disagreeing."
 quote_bottom: "Alignment born from fear\nis silence with better posture."
-tags: ["decisions", "groupthink", "leadership"]
+tags: [cognitive_friction, leadership, spar_dialectic]
 description: "Unanimous agreement is often unanimous silence."
 origin_nodes: []
 valence: "mixed"

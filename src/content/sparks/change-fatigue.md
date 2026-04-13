@@ -6,7 +6,7 @@ source: "Change"
 temperature: "🔥🔥🔥"
 
 
-tags: ["change", "leadership", "culture"]
+tags: [change, leadership, living_organizations]
 description: "Resistance is not the problem. Exhaustion is."
 quote_top: "Change fatigue: a rational response to endless, unproductive initiatives."
 quote_bottom: "Stop starting, start finishing."

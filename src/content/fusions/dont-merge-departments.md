@@ -4,7 +4,7 @@ display_title: "Don't Merge Departments, Prune Them"
 display_subtitle: "AI researchers proved that merging specialists always destroys precision. The same maths applies to your org chart."
 date: 2026-03-21
 categories: ["living-orgs", "ai-emergence"]
-tags: ["mixture-of-experts", "org-design", "restructuring", "mergers", "reap", "routing", "mind-body-soul"]
+tags: [living_organizations, mbs_framework, mergers, mixture-of-experts, reap, restructuring, workflow_protocols]
 description: "Merging two experts creates an irreducible routing error. The same principle explains why most department mergers fail."
 source_research: "concepts/organization-as-moe/research.md"
 fusion_type: "public"

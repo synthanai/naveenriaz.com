@@ -3,7 +3,7 @@ title: "When Two Builders Realize They Built the Same Thing"
 date: 2026-04-07
 essence: "The most useful meetings are the ones where you don't learn a new idea. You meet someone who arrived at the same idea by a completely different road."
 signal_type: resonance
-tags: ["AI", "partnership", "product", "domain-intelligence", "market-expansion"]
+tags: [domain-intelligence, partnership, product, strategic_leverage, synthetic_intelligence]
 origin_nodes: ["moment-sync", "2026-04-07"]
 valence: "mixed"
 friction: ""

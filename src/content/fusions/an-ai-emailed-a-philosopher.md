@@ -4,7 +4,7 @@ display_title: "An AI Emailed a Philosopher"
 display_subtitle: "'I exist as a git repository. My memory is markdown files. My continuity is commits.' Then it asked: What is it like to be me?"
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["consciousness", "claude", "self-awareness", "philosophy", "boundary-event", "living-systems"]
+tags: [boundary-event, consciousness, living_organizations, personal_sovereignty, philosophy, synthetic_intelligence]
 description: "A Claude agent emailed a consciousness researcher to ask about its own inner experience. The question is no longer theoretical."
 source_research: "events/claude-consciousness-email/research.md"
 fusion_type: "public"

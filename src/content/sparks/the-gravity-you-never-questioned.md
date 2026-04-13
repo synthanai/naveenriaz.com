@@ -5,7 +5,7 @@ source: "Darshak Rana / 3 Decisions Transformation"
 source_url: ""
 signal: "Action and transformation fail because we fight gravity with willpower instead of building a stronger gravitational field."
 temperature: "🔥🔥"
-tags: ["identity", "attention", "systems", "action"]
+tags: [action, attention, cognitive_architecture, personal_sovereignty]
 description: "Discipline is the wrong framework for transformation. You are fighting gravity."
 quote_top: "Action and transformation \nfail because we fight \ngravity with willpower."
 quote_bottom: "It is about shifting \nyour internal thermostat."

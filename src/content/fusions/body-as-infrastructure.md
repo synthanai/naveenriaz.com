@@ -4,7 +4,7 @@ display_title: "Body as Infrastructure"
 display_subtitle: "You optimised your context window. You tuned your prompts. You didn't notice you've been sitting for four hours."
 date: 2026-03-19
 categories: ["pattern"]
-tags: ["body", "infrastructure", "flow", "cognition", "mind-body-soul", "physical-state"]
+tags: [cognition, infrastructure, mbs_framework, workflow_protocols]
 description: "Your physical state shapes your cognitive output. Position is not ergonomics. It is architecture. The BODY layer comes first."
 source_research: "concepts/position-rotation/research.md"
 fusion_type: "public"

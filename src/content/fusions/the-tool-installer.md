@@ -4,7 +4,7 @@ display_title: "The Tool Installer"
 display_subtitle: "1.7 million people shared a list of 7 AI skills. Zero citations. Zero evidence. And it reveals the real skill gap."
 date: 2026-03-16
 categories: ["ai-emergence", "pattern"]
-tags: ["ai-consulting", "tool-stacking", "judgment", "mind-body-soul", "value-shift", "commoditization"]
+tags: [ai-consulting, commoditization, mbs_framework, skill_economy, spar_dialectic, tool-stacking]
 description: "The most-shared AI skills list has zero evidence. It reveals the real gap: tool installers vs. diagnostic physicians."
 source_research: "concepts/ai-skills-wealth-gap-2026/research.md"
 fusion_type: "public"

@@ -6,7 +6,7 @@ source: "Structure"
 temperature: "🔥🔥"
 
 
-tags: ["structure", "process", "efficiency"]
+tags: [cognitive_architecture, efficiency, workflow_protocols]
 description: "Processes are geological. They accumulate. They rarely erode."
 quote_top: "Bad processes begin as good intentions for real problems."
 quote_bottom: "Problems disappear; processes remain."

@@ -6,7 +6,7 @@ source: SYNTHAI
 temperature: 🔥🔥
 
 
-tags: ["ai-governance", "architecture", "context"]
+tags: [ai-governance, cognitive_architecture, context_engineering]
 description: Memory should be infrastructure, not a chore.
 quote_top: "AI conversations always start from zero: users carry the entire context."
 quote_bottom: "Memory should be infrastructure."

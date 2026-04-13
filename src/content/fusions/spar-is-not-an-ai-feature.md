@@ -4,7 +4,7 @@ display_title: "SPAR Is Not an AI Feature"
 display_subtitle: "Every domain has a name for premature convergence. Groupthink. Sycophancy. Minsky Moments. SPAR solves all of them."
 date: 2026-03-19
 categories: ["pattern"]
-tags: ["spar", "mechanism-design", "game-theory", "groupthink", "adversarial-review", "governance"]
+tags: [cognitive_friction, game-theory, governance, mechanism-design, spar_dialectic]
 description: "Every domain fights premature convergence. Game theory, finance, cybernetics. SPAR is the universal mechanism design."
 source_research: "concepts/spar-cross-domain-application/research.md"
 fusion_type: "public"

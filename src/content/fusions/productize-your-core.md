@@ -4,7 +4,7 @@ display_title: "Productize Your CORE"
 display_subtitle: "Naval said find your specific knowledge. He forgot to tell you where to look."
 date: 2026-03-19
 categories: ["pattern"]
-tags: ["naval-ravikant", "core-identity", "specific-knowledge", "leverage", "productize-yourself", "identity"]
+tags: [mbs_framework, naval-ravikant, personal_sovereignty, productize-yourself, strategic_leverage]
 description: "Naval's 'Productize Yourself' says find specific knowledge. CORE says it's already there. Identity is the source code."
 source_research: "frameworks/productize-yourself-naval/research.md"
 fusion_type: "public"

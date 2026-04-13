@@ -4,7 +4,7 @@ display_title: "Frequency as Culture"
 display_subtitle: "You do not choose your culture. You resonate into it. And every bad meeting lowers the frequency for everyone."
 date: 2026-03-19
 categories: ["living-organisations"]
-tags: ["culture", "frequency", "organisational-design", "shadow-work", "living-systems", "resonance"]
+tags: [cognitive_friction, frequency, living_organizations, resonance]
 description: "Culture is not a poster on the wall. It is a frequency. And your organisation vibrates at the level of its worst unaddressed pattern."
 source_research: "concepts/dream-dimension-navigation/research.md"
 fusion_type: "public"

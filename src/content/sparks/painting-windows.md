@@ -6,7 +6,7 @@ source: "SYNTHAI"
 temperature: "🔥🔥🔥"
 quote_top: "Prompt-tuning an AI system\nwhile ignoring its architecture\nis like painting a sinking house."
 quote_bottom: "Stop painting windows.\nStart digging foundations."
-tags: ["ai-governance", "architecture", "debugging"]
+tags: [ai-governance, cognitive_architecture, development_shift]
 description: "Prompt-tuning a broken harness is repainting windows on a sinking house."
 origin_nodes: []
 valence: "mixed"

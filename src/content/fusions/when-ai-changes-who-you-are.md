@@ -4,7 +4,7 @@ display_title: "When AI Changes Who You Are"
 display_subtitle: "The quiet crisis in workplaces isn't about tools. It's about identity."
 date: 2026-03-19
 categories: ["ai-emergence", "living-orgs"]
-tags: ["ai-adoption", "identity", "organisational-soul", "mind-body-soul", "emergence", "living-systems"]
+tags: [ai-adoption, emergence, living_organizations, mbs_framework, personal_sovereignty]
 description: "AI adoption isn't a skills gap. It's an identity crisis. When your tools change faster than your sense of self, something deeper breaks."
 source_research: "persons/rangaprabhu-parthasarathy/research.md"
 fusion_type: "public"

@@ -6,7 +6,7 @@ source: "SYNTHAI"
 temperature: "🔥🔥"
 
 
-tags: ["ai-governance", "skills", "architecture"]
+tags: [ai-governance, cognitive_architecture, skill_economy]
 description: "20 years of engineering instinct becomes liability when the medium changes."
 quote_top: "AI code: Looks familiar, but fails in unfamiliar ways."
 quote_bottom: "Old instincts are now liabilities."

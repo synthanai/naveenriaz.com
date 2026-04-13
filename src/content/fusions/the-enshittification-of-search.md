@@ -4,7 +4,7 @@ display_title: "The Enshittification of Search"
 display_subtitle: "Google patented AI page replacement. They are not improving search. They are absorbing your content."
 date: 2026-03-19
 categories: ["living-organisations"]
-tags: ["google", "search", "enshittification", "platform-sovereignty", "content-provenance", "soul"]
+tags: [content-provenance, enshittification, google, mbs_framework, personal_sovereignty, search]
 description: "Google's AI page substitution patent is the third stage of content intermediation. The platform is absorbing the content it once connected you to."
 source_research: "concepts/google-ai-generated-pages-patent/research.md"
 fusion_type: "public"

@@ -4,7 +4,7 @@ display_title: "The Leverage Lie"
 display_subtitle: "Naval said code is leverage. He was half right."
 date: 2026-03-16
 categories: ["ai-emergence"]
-tags: ["leverage", "naval-ravikant", "e-myth", "sub-agents", "governance", "mind-body-soul"]
+tags: [agentic_systems, e-myth, governance, mbs_framework, naval-ravikant, strategic_leverage]
 description: "You're using AI 3x faster. That's not leverage. It's the technician trap with a better interface."
 source_research: "concepts/ai-sub-agent-leverage/research.md"
 fusion_type: "public"

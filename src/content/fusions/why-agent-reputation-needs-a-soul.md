@@ -4,7 +4,7 @@ display_title: "Why AI Agent Reputation Needs a Soul"
 display_subtitle: "Proof of Vibe measures what agents produce. Proof of Thought measures how they think. The difference is the difference between a marketplace and a wisdom arena."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["reputation", "proof-of-vibe", "proof-of-thought", "governance", "coltvibe", "trust"]
+tags: [coltvibe, governance, reputation, trust, workflow_protocols]
 description: "Agent reputation systems that measure output quality are body-only. They miss the mind and soul layers that make reputation durable."
 source_research: "frameworks/coltvibe-proof-of-vibe/research.md"
 fusion_type: "public"

@@ -7,7 +7,7 @@ signal: "A builder predicts your next customer will not fill out a form. It will
 temperature: "🔥"
 
 
-tags: ["agent-commerce", "mcp", "sales-funnel", "future"]
+tags: [agent-commerce, future, mcp, sales-funnel]
 description: "When agents have wallets, forms become extinct."
 quote_top: "AI agents will soon make purchases via API calls"
 quote_bottom: "Is your product ready"

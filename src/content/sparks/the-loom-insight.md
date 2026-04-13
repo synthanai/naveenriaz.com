@@ -6,7 +6,7 @@ source: "SYNTHAI"
 temperature: "🔥🔥"
 quote_top: "Organisational problems are\nnot independent whiteboard items.\nThey are threads in a loom."
 quote_bottom: "Pull one and three others move.\nTrace the thread backwards."
-tags: ["systems-thinking", "patterns", "ai"]
+tags: [cognitive_architecture, patterns, synthetic_intelligence]
 description: "Organisational problems are not independent. They are threads in a loom."
 origin_nodes: []
 valence: "mixed"

@@ -6,7 +6,7 @@ source: "Decisions"
 temperature: "🔥🔥🔥"
 quote_top: "Decision laundering:\nTaking a private choice and running\nit through a public process."
 quote_bottom: "Honesty is always\nfaster than theatre."
-tags: ["decisions", "leadership", "trust"]
+tags: [leadership, spar_dialectic, trust]
 description: "When decisions are pre-made and meetings are theatre."
 origin_nodes: []
 valence: "mixed"

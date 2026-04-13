@@ -7,7 +7,7 @@ source_url: "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the
 temperature: "🔥🔥🔥"
 
 
-tags: ["ai-governance", "architecture", "readiness"]
+tags: [ai-governance, cognitive_architecture, skill_economy]
 description: "Most companies are adopting AI. Almost nobody is ready for it."
 quote_top: "AI adoption surges, but scaling stalls without foundational architecture."
 quote_bottom: "Build the foundation first."

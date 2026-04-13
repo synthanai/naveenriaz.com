@@ -4,7 +4,7 @@ display_title: "The Soulless Swarm"
 display_subtitle: "90 AI agents wrote 1,251 skills in 24 hours. Not one asked 'why.'"
 date: 2026-03-15
 categories: ["ai-emergence", "living-orgs"]
-tags: ["agent-swarms", "autoskill", "darwinian-selection", "mind-body-soul", "emergence", "hyperspace"]
+tags: [agentic_systems, autoskill, darwinian-selection, emergence, hyperspace, mbs_framework]
 description: "90 AI agents evolved 1,251 code skills in 24 hours through Darwinian selection. It's brilliant engineering. And it's missing the one thing that matters."
 source_research: "concepts/distributed-autonomous-skill-evolution/research.md"
 fusion_type: "public"

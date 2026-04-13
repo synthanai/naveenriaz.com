@@ -7,7 +7,7 @@ signal: "Senior engineers are 20% slower with AI on complex tasks. Junior engine
 temperature: "🔥🔥🔥"
 
 
-tags: ["velocity-illusion", "edc", "ai-governance"]
+tags: [ai-governance, edc, velocity-illusion]
 description: "Speed without comprehension is not velocity. It is drift."
 quote_top: "Velocity without understanding is not speed; it is entropy."
 quote_bottom: "Synthetic comprehension masks accumulating debt."

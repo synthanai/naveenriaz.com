@@ -6,7 +6,7 @@ source: "Culture"
 temperature: "🔥🔥🔥"
 
 
-tags: ["culture", "cost", "leadership"]
+tags: [cost, leadership, living_organizations]
 description: "Bad culture costs more than bad strategy. It just never appears on the balance sheet."
 quote_top: "Culture tax silently drains, costing more than just money."
 quote_bottom: "Invisibility hides its true cost."

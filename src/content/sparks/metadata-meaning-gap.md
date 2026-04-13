@@ -6,7 +6,7 @@ source: SYNTHAI
 temperature: 🔥🔥
 quote_top: Most AI knowledge systems\nare just search engines\nwith a language model on top.
 quote_bottom: Stop building smarter search.\nStart building understanding.
-tags: ["ai-governance", "rag", "knowledge"]
+tags: [ai-governance, institutional_memory]
 description: Most AI knowledge systems are search engines with a language model on top.
 origin_nodes: []
 valence: "mixed"

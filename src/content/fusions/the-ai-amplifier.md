@@ -2,7 +2,7 @@
 title: "The AI Amplifier: Why Faster Coding Makes Broken Teams Slower"
 date: 2026-03-16
 categories: ["ai-emergence"]
-tags: ["ai-tools", "dora-metrics", "architecture", "bottleneck-misalignment", "four-signals"]
+tags: [agentic_systems, cognitive_architecture, cognitive_friction, dora-metrics, four-signals]
 description: "Generating code 46% faster just means you hit your deployment bottleneck 46% faster. Why AI demands foundational rigour."
 source_research: "2-research/framework/four-signals/research.md"
 fusion_type: "public"

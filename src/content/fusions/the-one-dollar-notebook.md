@@ -2,7 +2,7 @@
 title: "AI Notes vs Hand Written Notes"
 date: 2026-03-10
 categories: ["spar", "ai-emergence"]
-tags: ["spar-showcase", "education", "ai", "handwriting", "pena", "purpose-amnesia", "methodology"]
+tags: [education, handwriting, pena, purpose-amnesia, spar-showcase, synthetic_intelligence, workflow_protocols]
 description: "An NYU professor and I both believe in handwriting. We disagree on AI. I put the disagreement through 8 AI personas. What emerged was a third option neither of us proposed."
 source_research: "concepts/ai-classroom-regression/signals.md"
 fusion_type: "public"

@@ -6,7 +6,7 @@ source: "SYNTHAI"
 temperature: "🔥🔥"
 quote_top: "Most automation targets the task.\nYou generate something faster\nthat should have been redesigned."
 quote_bottom: "Automate for efficiency.\nOrchestrate for evolution."
-tags: ["ai-governance", "orchestration", "automation"]
+tags: [ai-governance, orchestration, skill_economy]
 description: "Automate for efficiency. Orchestrate for evolution."
 origin_nodes: []
 valence: "mixed"

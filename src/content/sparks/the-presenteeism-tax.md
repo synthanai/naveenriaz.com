@@ -6,7 +6,7 @@ source: "Energy"
 temperature: "🔥🔥"
 
 
-tags: ["energy", "productivity", "management"]
+tags: [living_organizations, mbs_framework, productivity]
 description: "The person at their desk doing nothing costs more than the empty desk."
 quote_top: "Empty minds in full chairs cost more than absent employees."
 quote_bottom: "Presence is not performance."

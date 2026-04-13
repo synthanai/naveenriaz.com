@@ -4,7 +4,7 @@ display_title: "The Agentic Iceberg"
 display_subtitle: "Your demo agent works. Your platform doesn't exist yet."
 date: 2026-03-16
 categories: ["ai-emergence"]
-tags: ["agentic-ai", "infrastructure", "production", "engineering", "platform"]
+tags: [agentic_systems, engineering, infrastructure, platform, production]
 description: "Every impressive agent demo is sitting on top of invisible platform work that took longer to build than the agent itself. Here's what's under the waterline."
 source_research: "2-research/concept/agentic-infrastructure/research.md"
 fusion_type: "public"

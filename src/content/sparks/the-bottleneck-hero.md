@@ -6,7 +6,7 @@ source: "Structure"
 temperature: "🔥🔥"
 
 
-tags: ["structure", "risk", "leadership"]
+tags: [cognitive_architecture, leadership, risk]
 description: "Hero culture is risk culture in disguise."
 quote_top: "The hero: a perceived strength, an actual architectural flaw."
 quote_bottom: "Hero culture is fragility."

@@ -6,7 +6,7 @@ source: "Energy"
 temperature: "🔥🔥🔥"
 
 
-tags: ["energy", "burnout", "culture"]
+tags: [cognitive_friction, living_organizations, mbs_framework]
 description: "Burnout isn't a badge. It's a system failure of busy-ness."
 quote_top: "Crisp shirts hide numb arms; question the system, not the person."
 quote_bottom: "Burnout is systemic, not commitment."

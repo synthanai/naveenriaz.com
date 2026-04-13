@@ -7,7 +7,7 @@ signal: "A Solana developer independently invented persona-based dialectic reaso
 temperature: "🔥🔥🔥"
 quote_top: "A developer I have never met\nindependently published\nmy entire architecture."
 quote_bottom: "Convergent evolution is evidence\nof environmental necessity."
-tags: ["spar", "convergent-evolution", "multi-agent"]
+tags: [agentic_systems, spar_dialectic]
 description: "Independent convergence is the strongest form of validation."
 fusion_link: "/fusions/agreement-is-a-bug"
 origin_nodes: []

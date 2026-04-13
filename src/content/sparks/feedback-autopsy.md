@@ -6,7 +6,7 @@ source: "Culture"
 temperature: "🔥🔥"
 quote_top: "Annual reviews are comfortable\nfor the reviewer, but\nthey are useless for the reviewed."
 quote_bottom: "Feedback delayed is\nfeedback denied."
-tags: ["culture", "feedback", "management"]
+tags: [feedback, living_organizations]
 description: "Feedback delayed is feedback denied."
 origin_nodes: []
 valence: "mixed"

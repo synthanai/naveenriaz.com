@@ -4,7 +4,7 @@ display_title: "The Governance Instinct"
 display_subtitle: "A viral thread on CTO productivity secretly described governance theory. 18 operating systems. 1.4 million views. Zero awareness of what they actually are."
 date: 2026-03-21
 categories: ["living-orgs", "pattern"]
-tags: ["dms", "boundary-management", "governance", "decision-making", "productivity", "living-systems", "soul-layer"]
+tags: [boundary-management, governance, living_organizations, mbs_framework, productivity, spar_dialectic]
 description: "18 viral productivity rules map 1:1 to governance theory. The best leaders govern by instinct. What if we made it visible?"
 source_research: "concepts/cto-boundary-operating-systems/research.md"
 fusion_type: "public"

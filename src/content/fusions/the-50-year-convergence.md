@@ -4,7 +4,7 @@ display_title: "The 50-Year Convergence"
 display_subtitle: "Unix decided everything is text in 1970. LLMs decided everything is tokens in 2020. Same conclusion."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["unix", "llm", "convergence", "cli", "terminal", "text-streams", "agent-architecture"]
+tags: [agentic_systems, convergence, development_shift, synthetic_intelligence, text-streams, unix]
 description: "Unix and LLMs, separated by 50 years, converged on the same interface: text in, text out. That's not a trend. It's a truth."
 source_research: "concepts/nix-agent-unix-llm-convergence/research.md"
 fusion_type: "public"

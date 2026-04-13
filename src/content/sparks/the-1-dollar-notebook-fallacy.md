@@ -5,7 +5,7 @@ signal: "An NYU professor banned AI and gave students $1 notebooks. She solved a
 temperature: "🔥🔥"
 quote_top: "An NYU professor banned AI\nand solved a Soul problem\nwith a Body fix."
 quote_bottom: "She banned the calculator\ninstead of teaching mathematics."
-tags: ["education", "ai-empowerment", "purpose-amnesia"]
+tags: [ai-empowerment, education, purpose-amnesia]
 description: "Students are not cheating because AI exists. They have forgotten why they are learning."
 origin_nodes: []
 valence: "mixed"

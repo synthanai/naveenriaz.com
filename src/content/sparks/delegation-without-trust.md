@@ -6,7 +6,7 @@ source: "Trust"
 temperature: "🔥🔥"
 quote_top: "If you cannot tolerate them\ndoing it differently,\nyou have not delegated."
 quote_bottom: "You have simply\ndistributed your anxiety."
-tags: ["trust", "delegation", "leadership"]
+tags: [delegation, leadership, trust]
 description: "If you cannot let go of the wheel, you have not delegated. You have distributed your anxiety."
 origin_nodes: []
 valence: "mixed"

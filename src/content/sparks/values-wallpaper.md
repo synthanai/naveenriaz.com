@@ -6,7 +6,7 @@ source: "Identity"
 temperature: "🔥🔥"
 quote_top: "When values are on the wall\nbut nobody actually lives them,\nthe wall becomes wallpaper."
 quote_bottom: "Culture is not what you declare.\nIt is what you tolerate."
-tags: ["identity", "values", "culture"]
+tags: [living_organizations, personal_sovereignty, values]
 description: "Framed values that nobody lives are just decoration."
 origin_nodes: []
 valence: "mixed"

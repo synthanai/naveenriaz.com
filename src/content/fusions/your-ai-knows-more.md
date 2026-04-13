@@ -4,7 +4,7 @@ display_title: "Your AI Knows More About You"
 display_subtitle: "446 developers want their AI data back. That's more stars than any AI model or agent this builder shipped."
 date: 2026-03-21
 categories: ["ai-emergence", "pattern"]
-tags: ["data-sovereignty", "ai-coding-assistants", "tacit-knowledge", "extraction", "privacy", "local-ai"]
+tags: [development_shift, institutional_memory, personal_sovereignty, synthetic_intelligence]
 description: "Your AI conversation history contains your problem-solving patterns, decision rationale, and coding style. You don't own it."
 source_research: "concepts/ai-data-sovereignty/research.md"
 fusion_type: "public"

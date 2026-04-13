@@ -4,7 +4,7 @@ display_title: "AGENTS.md Is Stage 1"
 display_subtitle: "The industry just standardised a README for AI agents. It's necessary. It's also the first step of four."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["agent-configuration", "agents-md", "governance", "maturity-model", "context-engineering", "operating-system"]
+tags: [agentic_systems, context_engineering, governance, maturity-model, operating-system]
 description: "AGENTS.md standardises instructions for AI agents. It solves Stage 1. The real gap is governance, reasoning, and culture."
 source_research: "concepts/agents-md-configuration-standard/research.md"
 fusion_type: "public"

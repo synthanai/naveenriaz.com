@@ -4,7 +4,7 @@ display_title: "Architecture Is the Moat"
 display_subtitle: "Three practitioners. Three domains. One conclusion: your AI model doesn't matter."
 date: 2026-03-08
 categories: ["ai-emergence", "architecture"]
-tags: ["compound-intelligence", "context-engineering", "moat", "convergence"]
+tags: [compound-intelligence, context_engineering, convergence, strategic_leverage]
 description: "Three unrelated practitioners, working in different domains, published in the same month, arrived at the same conclusion: your value is the architecture around AI, not the model."
 fusion_type: "public"
 fusion_nool:

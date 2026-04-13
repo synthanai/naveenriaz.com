@@ -4,7 +4,7 @@ display_title: "She Banned AI"
 display_subtitle: "An NYU professor replaced laptops with $1 notebooks. She fixed the symptom. The disease is older than AI."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["education", "ai-ban", "purpose-amnesia", "mind-body-soul", "assessment", "prohibition"]
+tags: [ai-ban, assessment, education, mbs_framework, prohibition, purpose-amnesia]
 description: "A professor banned AI and bought notebooks. She solved a Soul problem with a Body fix. The pattern is fifty years old."
 source_research: "concepts/ai-classroom-regression/research.md"
 fusion_type: "public"

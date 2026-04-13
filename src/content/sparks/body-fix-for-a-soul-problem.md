@@ -5,7 +5,7 @@ signal: "Organisations restructure when they need purpose. Teams add process whe
 temperature: "🔥🔥"
 
 
-tags: ["mbs", "diagnostics", "organisational-health"]
+tags: [diagnostics, living_organizations, mbs_framework]
 description: "The most common misdiagnosis in organisations: fixing the visible layer instead of the causal one."
 quote_top: "Interventions amplify problems when targeting visible layers, not the root."
 quote_bottom: "Fix the soul, not the body."

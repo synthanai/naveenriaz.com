@@ -5,7 +5,7 @@ signal: "Anthropic's Education Lead says the gap between average and elite AI us
 temperature: "🔥🔥"
 quote_top: "Using AI well is a social skill.\nIt is not a technical one."
 quote_bottom: "The tool is invisible.\nThe posture is everything."
-tags: ["anthropic", "education", "collaborator-posture", "social-skill"]
+tags: [collaborator-posture, education, social-skill, synthetic_intelligence]
 description: "The best technology disappears. What remains is the relationship."
 origin_nodes: []
 valence: "mixed"

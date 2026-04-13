@@ -5,7 +5,7 @@ signal: "Productivity gains from AI tools can reverse past a threshold. Not dimi
 temperature: "🔥🔥🔥"
 
 
-tags: ["ai-fatigue", "burnout", "edc", "governance"]
+tags: [cognitive_friction, edc, governance]
 description: "The paradox: the tool that promised relief became the source of exhaustion."
 quote_top: "AI shifts burden from creation to relentless verification."
 quote_bottom: "Productivity reverses with more tools."

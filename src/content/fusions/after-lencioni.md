@@ -4,7 +4,7 @@ display_title: "After Lencioni"
 display_subtitle: "The 5 Dysfunctions tell you what to fix. SYNTHAI tells you what emerges when you do."
 date: 2026-03-23
 categories: ["organisations"]
-tags: ["patrick-lencioni", "five-dysfunctions", "emergence", "organizational-health", "stars-principles"]
+tags: [emergence, five-dysfunctions, living_organizations, patrick-lencioni, stars-principles]
 description: "Lencioni's masterpiece diagnosed the baseline of team failure. But resolving dysfunction is not the end state-it is the prerequisite for emergence."
 source_research: "frameworks/five-dysfunctions-of-a-team/research.md"
 fusion_type: "public"

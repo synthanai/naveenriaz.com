@@ -2,7 +2,7 @@
 title: "Agreement is a Bug: When Two Builders Independently Discover the Same AI Architecture"
 date: 2026-03-20
 categories: ["ai-emergence"]
-tags: ["spar", "multi-agent", "adversarial-deliberation", "convergent-evolution", "architecture"]
+tags: [agentic_systems, cognitive_architecture, spar_dialectic]
 description: "A Solana builder and a living systems theorist, separated by domain and continent, both arrived at the same architecture: force AI agents to disagree before they agree. When two independent systems converge, the pattern is not accidental."
 source_research: "methodologies/council-of-high-intelligence/signals.md"
 fusion_type: "public"

@@ -5,7 +5,7 @@ signal: "A knowledge management system generates boundary cases to break its own
 temperature: "🔥🔥"
 
 
-tags: ["semantic-review", "adversarial-testing", "knowledge-quality"]
+tags: [institutional_memory, semantic-review, spar_dialectic]
 description: "Structure checks compliance. Semantic review checks truth."
 quote_top: "AI validates structure, but reality demands truth and adversarial testing."
 quote_bottom: "Structure is not truth."

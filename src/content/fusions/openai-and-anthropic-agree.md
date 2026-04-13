@@ -4,7 +4,7 @@ display_title: "OpenAI and Anthropic Agree"
 display_subtitle: "Two competing AI labs independently converged on the same agent architecture. When competitors agree, you are looking at a truth."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["openai", "anthropic", "shell-commands", "agent-architecture", "convergence", "unix"]
+tags: [agentic_systems, convergence, development_shift, synthetic_intelligence, unix]
 description: "OpenAI and Anthropic independently built the same agent loop: model + shell commands + feedback. When competitors converge, the pattern is fundamental."
 source_research: "concepts/openai-responses-api-agent-loop/research.md"
 fusion_type: "public"

@@ -7,7 +7,7 @@ signal: "Meta absorbed a $2B AI startup. Figma turned code into design without d
 temperature: "🔥🔥"
 quote_top: "Platforms will absorb features.\nThe standalone feature-as-a-product\nis going to die."
 quote_bottom: "Features get absorbed.\nPhilosophies do not."
-tags: ["platform-absorption", "moat", "identity", "survival"]
+tags: [personal_sovereignty, platform-absorption, strategic_leverage, survival]
 description: "Features get absorbed. Philosophy does not."
 origin_nodes: []
 valence: "mixed"

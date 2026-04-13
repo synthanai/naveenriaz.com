@@ -2,7 +2,7 @@
 title: "The Governance Gap: Why Your AI Agent's Perfect Memory is a Liability"
 date: 2026-03-31
 categories: ["ai-emergence"]
-tags: ["ai-agents", "memory", "governance", "infrastructure", "enterprise"]
+tags: [agentic_systems, governance, infrastructure, institutional_memory, living_organizations]
 description: "Google open-sourced an AI agent that never forgets. Enterprise critics asked the only question that matters: can it remember safely?"
 source_research: "concepts/always-on-memory-agent/signals.md"
 fusion_type: "public"

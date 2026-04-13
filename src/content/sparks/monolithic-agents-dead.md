@@ -6,7 +6,7 @@ source: "SYNTHAI"
 temperature: "🔥🔥🔥"
 quote_top: "The all-in-one AI agent\nis the new monolith.\nIt is accountable for nothing."
 quote_bottom: "Composability beats capability.\nEvery single time."
-tags: ["ai-governance", "architecture", "microservices"]
+tags: [ai-governance, cognitive_architecture, development_shift]
 description: "One agent to rule them all is one agent to fail them all."
 origin_nodes: []
 valence: "mixed"

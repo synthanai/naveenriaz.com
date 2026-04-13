@@ -5,7 +5,7 @@ signal: "Most AI consultants install tools. The valuable ones teach organisation
 temperature: "🔥"
 
 
-tags: ["consulting", "teaching", "mbs", "organisational-health"]
+tags: [consulting, living_organizations, mbs_framework, teaching]
 description: "The consultant's value is not in the tools they install. It is in the thinking they transmit."
 quote_top: "Install tools, automate tasks, but capability remains elusive."
 quote_bottom: "True growth requires internalizing change."

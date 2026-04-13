@@ -5,7 +5,7 @@ signal: "A solo practitioner independently converged on multi-agent architecture
 temperature: "🔥🔥🔥"
 
 
-tags: ["convergent-evolution", "self-improving", "adversarial-review"]
+tags: [agentic_systems, self-improving, spar_dialectic]
 description: "Three independent builders. Same architecture. The pattern is structural."
 quote_top: "AI reasoning improves through forced disagreement before synthesis."
 quote_bottom: "Necessity, not preference."

@@ -6,7 +6,7 @@ source: "Capability"
 temperature: "🔥🔥🔥"
 
 
-tags: ["capability", "innovation", "culture"]
+tags: [capability, innovation, living_organizations]
 description: "When innovation is a performance, not a practice."
 quote_top: "Ideation without execution: the comfortable illusion of progress."
 quote_bottom: "Innovation theater changes nothing."

@@ -7,7 +7,7 @@ signal: "Anthropic's own RCT found developers using Claude scored 17% lower on c
 temperature: "🔥🔥🔥"
 
 
-tags: ["anthropic", "skill-atrophy", "inquiry-mode", "rct"]
+tags: [inquiry-mode, rct, skill_economy, synthetic_intelligence]
 description: "Delegation atrophies. Inquiry amplifies. The tool is neutral. The mode is everything."
 quote_top: "AI tools can make us dumber. The illusion of speed deceives."
 quote_bottom: "Inquiry preserves skill."

@@ -2,7 +2,7 @@
 title: "The Hidden Tax: Why Your AI Agent is Paying for Pixels It Never Sees"
 date: 2026-03-20
 categories: ["ai-emergence"]
-tags: ["infrastructure", "ai-agents", "architecture", "purpose"]
+tags: [agentic_systems, cognitive_architecture, infrastructure, personal_sovereignty]
 description: "Every AI agent using Chrome headless is spinning up image decoders and GPU compositors for something that never renders a pixel. The cost is invisible."
 source_research: "frameworks/lightpanda/signals.md"
 fusion_type: "public"

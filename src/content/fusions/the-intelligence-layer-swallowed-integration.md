@@ -4,7 +4,7 @@ display_title: "The Intelligence Layer Swallowed Integration"
 display_subtitle: "MCP was supposed to be the USB for AI. Sixteen months later, the models learned to read."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["mcp", "agent-substrate", "layer-collapse", "integration", "cli", "shell-first", "perplexity"]
+tags: [agentic_systems, cognitive_friction, development_shift, integration, mcp, perplexity]
 description: "MCP promised universal AI tool integration. Model literacy killed it. The Intelligence Layer just ate the Integration Layer whole."
 source_research: "events/mcp-death-agent-substrate/research.md"
 fusion_type: "public"

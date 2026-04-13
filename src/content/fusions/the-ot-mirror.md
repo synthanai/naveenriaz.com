@@ -4,7 +4,7 @@ display_title: "The OT Mirror"
 display_subtitle: "A profession born in WWI trenches independently built the same architecture that SYNTHAI uses for organisations. That's not coincidence. That's convergence."
 date: 2026-03-20
 categories: ["living-orgs"]
-tags: ["occupational-therapy", "MBS", "convergence", "MOHO", "systems-thinking", "living-systems"]
+tags: [MOHO, cognitive_architecture, convergence, living_organizations, mbs_framework, occupational-therapy]
 description: "Occupational Therapy and SYNTHAI, separated by a century, built the same three-layer architecture. Volition, Habituation, Performance Capacity. Soul, Mind, Body."
 source_research: "concepts/occupational-therapy/research.md"
 fusion_type: "public"

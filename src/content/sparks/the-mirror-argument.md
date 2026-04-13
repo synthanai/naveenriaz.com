@@ -7,7 +7,7 @@ signal: "A machine does not have a conscience. It has a probability distribution
 temperature: "🔥🔥"
 quote_top: "AI does not have a conscience.\nIt has a probability distribution\nover permitted behaviours."
 quote_bottom: "The AI does not have morality.\nIt has a mirror."
-tags: ["consciousness", "ethics", "emergence", "soul"]
+tags: [consciousness, emergence, ethics, mbs_framework]
 description: "AI does not have morality. It has a mirror."
 origin_nodes: []
 valence: "mixed"

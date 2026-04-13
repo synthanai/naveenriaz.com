@@ -4,7 +4,7 @@ display_title: "The Agentic Convergence"
 display_subtitle: "Three separate research signals pointed to the same conclusion: the middle layer is dying. In software and in organisations."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["agentic-convergence", "middle-management", "translation-layer", "integration", "ai-transition"]
+tags: [agentic_systems, integration, middle-management, synthetic_intelligence, workflow_protocols]
 description: "Three independent research signals converge: integration frameworks, product managers, and middle managers are all being squeezed out by the same pattern."
 source_research: "concepts/modern-ai-pm/research.md"
 fusion_type: "public"

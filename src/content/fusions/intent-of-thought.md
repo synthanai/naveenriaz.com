@@ -4,7 +4,7 @@ display_title: "Intent of Thought"
 display_subtitle: "You're picking the wrong thinking structure. You don't even know it."
 date: 2026-03-06
 categories: ["ai-emergence"]
-tags: ["intent-of-thought", "llm-reasoning", "topology-governance", "chain-of-thought", "spar"]
+tags: [chain-of-thought, cognitive_architecture, intent-of-thought, spar_dialectic, synthetic_intelligence]
 description: "LLMs can reason in chains, trees, and graphs. But nobody asks WHY before picking one. That is the gap."
 source_research: "concepts/intention-of-thought/research.md"
 fusion_type: "public"

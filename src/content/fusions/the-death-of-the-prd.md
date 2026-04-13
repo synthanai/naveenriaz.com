@@ -4,7 +4,7 @@ display_title: "The Death of the PRD"
 display_subtitle: "The Product Requirements Document existed because humans couldn't speak each other's language. LLMs can."
 date: 2026-03-19
 categories: ["ai-emergence"]
-tags: ["product-management", "prd", "translation-layer", "context-engineering", "role-convergence"]
+tags: [context_engineering, prd, product-management, role-convergence, workflow_protocols]
 description: "The PRD existed to translate between customers and engineers. LLMs close that gap natively. The translation layer is dead."
 source_research: "concepts/modern-ai-pm/research.md"
 fusion_type: "public"

@@ -4,7 +4,7 @@ display_title: "What Naval Missed"
 display_subtitle: "In 2018, Code and Media were leverage. In 2026, they're commodities. The moat moved."
 date: 2026-03-19
 categories: ["pattern"]
-tags: ["naval-ravikant", "leverage", "ai-agents", "operating-system", "solo-founder", "productize-yourself"]
+tags: [agentic_systems, naval-ravikant, operating-system, productize-yourself, strategic_leverage]
 description: "Naval's leverage framework assumed Code and Media were hard. AI made them easy. The new leverage is the OS that governs your agents."
 source_research: "concepts/productize-yourself-naval-framework/research.md"
 fusion_type: "public"

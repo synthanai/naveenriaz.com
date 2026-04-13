@@ -6,7 +6,7 @@ source: "Capability"
 temperature: "🔥🔥"
 quote_top: "The best typewriter mechanic\nin the world still could not\nsave the typewriter."
 quote_bottom: "Mastering an obsolete skill\nis not building a new one."
-tags: ["capability", "innovation", "obsolescence"]
+tags: [capability, innovation, skill_economy]
 description: "Mastering a dying skill is not the same as building a new one."
 origin_nodes: []
 valence: "mixed"

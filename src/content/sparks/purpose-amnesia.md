@@ -6,7 +6,7 @@ source: "Identity"
 temperature: "🔥🔥🔥"
 quote_top: "We started a bakery\nto feed the neighbourhood.\nNow we deliver cold bread."
 quote_bottom: "Efficiency without purpose\nis a faster route to nowhere."
-tags: ["identity", "purpose", "leadership"]
+tags: [leadership, personal_sovereignty]
 description: "When the 'how' gets so sophisticated it eats the 'why' for breakfast."
 origin_nodes: []
 valence: "mixed"

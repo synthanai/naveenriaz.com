@@ -4,7 +4,7 @@ display_title: The Three Fatigues
 display_subtitle: "Everyone talks about AI fatigue. It's actually three fatigues feeding each other."
 date: 2026-03-07
 categories: ["ai-emergence", "mbs"]
-tags: ["ai-fatigue", "decision-fatigue", "judgement-fatigue", "paradox", "mind-body-soul"]
+tags: [cognitive_friction, mbs_framework, spar_dialectic]
 description: "Everyone's talking about AI fatigue. But what are we actually tired of? It's not one thing. It's three. And they feed each other in a paradox."
 fusion_type: public
 fusion_nool: 

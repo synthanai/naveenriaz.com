@@ -6,7 +6,7 @@ source: "SYNTHAI"
 temperature: "🔥🔥"
 quote_top: "If you check every AI output\nby hand, you have not built\nan autonomous system."
 quote_bottom: "You have built a\nhomework generator."
-tags: ["ai-governance", "quality", "automation"]
+tags: [ai-governance, quality, skill_economy]
 description: "Trust is not built on output volume. It is built on verified output quality."
 origin_nodes: []
 valence: "mixed"

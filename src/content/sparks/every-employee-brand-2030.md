@@ -7,7 +7,7 @@ signal: "Visionary Prediction (2030): AI removes personal branding friction (cre
 temperature: "🔥🔥🔥"
 
 
-tags: ["future-of-work", "ai", "personal-branding", "prediction", "2030"]
+tags: [2030, personal_sovereignty, prediction, skill_economy, synthetic_intelligence]
 description: "Prepare your organisation for the frictionless era."
 quote_top: "Personal branding: once optional, soon indispensable for employees."
 quote_bottom: "AI makes it inevitable."

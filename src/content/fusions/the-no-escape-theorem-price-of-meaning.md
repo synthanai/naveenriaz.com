@@ -2,7 +2,7 @@
 title: "The No-Escape Theorem: Why Your AI Will Always Forget"
 date: 2026-04-12
 categories: ["ai-emergence", "cognitive-architecture"]
-tags: ["memory", "rag", "knowledge-graphs", "geometric-vulnerability", "ashwin-gopinath", "synthai"]
+tags: [ashwin-gopinath, cognitive_friction, institutional_memory, synthai]
 description: "Semantic memory systems like RAG and Knowledge Graphs are mathematically guaranteed to fail as they scale. Discover the 'No-Escape Theorem' and the only principled path forward for durable AI intelligence."
 source_research: "theories/price-of-meaning/signals.md"
 fusion_type: "public"

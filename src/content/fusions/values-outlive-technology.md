@@ -4,7 +4,7 @@ display_title: "The Values That Outlive the Technology"
 display_subtitle: "Web3 builders didn't die in the crypto winter. They evolved, carried their DNA into AI, and won $436 million in new funding."
 date: 2026-03-21
 categories: ["pattern", "ai-emergence"]
-tags: ["web3", "ai", "migration", "self-sovereignty", "values", "decentralisation", "open-source"]
+tags: [decentralisation, migration, open-source, personal_sovereignty, synthetic_intelligence, values, web3]
 description: "Self-sovereignty survived from cypherpunks to Bitcoin to DeFi to local AI. Technologies die. Values transfer."
 source_research: "movements/web3-to-ai-migration/research.md"
 fusion_type: "public"

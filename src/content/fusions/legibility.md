@@ -4,7 +4,7 @@ display_title: "Legibility"
 display_subtitle: "RadHash made software readable by AI. The same principle applied to organisations would change everything."
 date: 2026-03-19
 categories: ["living-organisations"]
-tags: ["legibility", "transparency", "ai-readable", "modular-os", "organisational-design", "radhash"]
+tags: [ai-readable, legibility, living_organizations, modular-os, radhash, transparency]
 description: "Structural legibility (making systems readable by AI) is solved for code. It is unsolved for organisations. That is the next frontier."
 source_research: "frameworks/radhash-modular-os/research.md"
 fusion_type: "public"

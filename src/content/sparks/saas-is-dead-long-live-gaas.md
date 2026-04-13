@@ -5,7 +5,7 @@ signal: "Jensen Huang declared OpenClaw 'as big as Linux' and predicted every Sa
 temperature: "🔥🔥"
 quote_top: "Every SaaS company\nis about to become\na GaaS company."
 quote_bottom: "Token budgets will\njoin salary packages."
-tags: ["nvidia", "openclaw", "agentic-os", "enterprise"]
+tags: [agentic-os, agentic_systems, living_organizations, nvidia]
 description: "The agent OS era just got a CEO endorsement."
 origin_nodes: []
 valence: "mixed"
