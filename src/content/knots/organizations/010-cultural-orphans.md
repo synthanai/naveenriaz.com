@@ -1,42 +1,35 @@
 ---
-
-title: "cultural-orphans"
+title: cultural-orphans
 knot_number: 10
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 10
-slug_name: "cultural-orphans"
+slug_name: cultural-orphans
 date: 2026-03-17
 description: "Can a new hire, six months in, explain your culture to a stranger using their own words, not the company's?"
-
-
 punch_line_1: "The new hire knows every system."
 punch_line_2: "Nobody has told them the story."
 felt_hook: "Can a new hire, six months in, explain your culture to a stranger using their own words, not the company's?"
-emotion_target: "Isolation: being inside an organization but outside its soul"
+emotion_target: |
+  Isolation: being inside an organization but outside its soul
 never_say: ["onboarding program", "culture deck", "employee handbook covers it"]
 kural_tamil: "அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை\nபண்பும் பயனும் அது."
 kural_translation: "A home with love and virtue is character and purpose itself."
 kural_number: 45
 kural_bridge: "A team without cultural belonging is a home without love."
 prev_knot: "organizations/009-vision-inflation"
-prev_knot_title: "Vision Inflation"
+prev_knot_title: Vision Inflation
 next_knot: "organizations/011-identity-fragility"
-next_knot_title: "Identity Fragility"
-untie_story: "A law firm partner realized their stated culture was \"innovation\" but every decision rewarded conformity. They picked one."
-untie_practices:
-  - "Pair your newest hire with a tenured person for one lunch this week."
-  - "A new hire, six months in, can explain the culture to a stranger using their own words, not the c..."
-  - "When cultural transmission is deliberate, new hires reach cultural fluency in months instead of y..."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"cultural orphans\" this week?"
+next_knot_title: Identity Fragility
+untie_story: 'A law firm partner realized their stated culture was \"innovation\" but every decision rewarded conformity. They picked one.'
+untie_question: 'What would change in your organization if you untangled \"cultural orphans\" this week?'
 quote_top: "Culture is the stories told in the parking lot, the unwritten map."
 quote_bottom: "It's transmitted or it dies."
 origin_nodes: ["knots:009-vision-inflation", "knots/organizations/009-vision-inflation", "knots/organizations/011-identity-fragility"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-30T05:07:45.912Z"
+published_at: "2026-04-01T06:04:50.067Z"
 ---
 
 A home with love and virtue is character itself.

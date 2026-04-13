@@ -1,5 +1,4 @@
 ---
-
 title: technology-sprawl
 knot_number: 79
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 7
 slug_name: technology-sprawl
 date: 2026-03-17
 description: "Don't start any task until you've found the right conditions...."
-
-
 punch_line_1: "Don't start any task until you've found the right conditions."
 punch_line_2: "Technology sprawl starts every tool without finding the right conditions for any of them."
 felt_hook: "The blueprint says unified systems. Reality says ecosystem chaos."
@@ -18,20 +15,17 @@ kural_translation: "Don't start any task, and don't dismiss any, until you've fo
 kural_number: 662
 kural_bridge: "Technology sprawl starts every tool without finding the right conditions for any of them."
 prev_knot: "organizations/078-governance-bloat"
-prev_knot_title: "Governance Bloat"
+prev_knot_title: Governance Bloat
 next_knot: "organizations/080-the-bottleneck-person"
-next_knot_title: "The Bottleneck Person"
+next_knot_title: The Bottleneck Person
 untie_story: "A school restructured teacher teams by student cohort instead of subject. Student experience improved as teachers collaborated on the whole child."
-untie_practices:
-  - "Audit your tech stack this week."
-  - "A quarterly technology inventory maps all tools to functions."
-  - "When tools are consolidated, integration costs drop, data flows freely, and the team spends time ..."
-untie_question: "What would change in your organization if you untangled \"technology sprawl\" this week?"
-quote_top: "Technology sprawl: great intent, chaotic outcome."
+untie_question: 'What would change in your organization if you untangled \"technology sprawl\" this week?'
+quote_top: |
+  Technology sprawl: great intent, chaotic outcome.
 quote_bottom: "Consolidate or perish."
 origin_nodes: ["knots:078-governance-bloat", "knots/organizations/078-governance-bloat", "knots/organizations/080-the-bottleneck-person"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Don't start any task until you've found the right conditions.

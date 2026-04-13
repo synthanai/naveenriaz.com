@@ -1,5 +1,4 @@
 ---
-
 title: invisible-contracts
 knot_number: 26
 domain: organizations
@@ -11,27 +10,24 @@ description: "I would conceal this pain, but like spring water for those who dig
 quote_top: "Organizations have contracts nobody signed,\nrules nobody wrote,\nand expectations nobody negotiated."
 quote_bottom: "Invisible contracts\nare the real governance."
 punch_line_1: "I would conceal this pain, but like spring water for those who dig, it only flows more."
-punch_line_2: "Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find."
+punch_line_2: |
+  Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find.
 felt_hook: "Nobody posted these on a wall. Everyone obeys them."
 kural_tamil: "மனத்தொடு வாய்மை மொழியின் தவத்தொடு\nதானஞ்செய் வாரின் தலை."
 kural_translation: "I would conceal this pain, but like spring water for those who dig, it only flows more."
 kural_number: 295
-kural_bridge: "Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find."
+kural_bridge: |
+  Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find.
 prev_knot: "organizations/025-broken-promises-loop"
-prev_knot_title: "Broken Promises Loop"
+prev_knot_title: Broken Promises Loop
 next_knot: "organizations/027-delegation-without-trust"
-next_knot_title: "Delegation Without Trust"
+next_knot_title: Delegation Without Trust
 untie_story: "A company published their financial results to all employees monthly. The transparency eliminated the rumor mill completely."
-untie_practices:
-  - "Ask your team: 'What's expected here that nobody ever agreed to?' The first answer will be safe."
-  - "Every behavioral expectation in the team is explicitly stated, negotiated, and revisable."
-  - "When invisible contracts become visible, people stop self-censoring from fear of unknown conseque..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"invisible contracts\" this week?"
+- "Ask your team: '''What''s expected here that nobody ever agreed to?'' The first answer will be safe."'
+untie_question: 'What would change in your organization if you untangled \"invisible contracts\" this week?'
 origin_nodes: ["knots:025-broken-promises-loop", "knots/organizations/025-broken-promises-loop", "knots/organizations/027-delegation-without-trust"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 I would conceal this pain, but like spring water for those who dig, it only flows more.

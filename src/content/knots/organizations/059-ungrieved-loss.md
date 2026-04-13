@@ -1,5 +1,4 @@
 ---
-
 title: ungrieved-loss
 knot_number: 59
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 11
 slug_name: ungrieved-loss
 date: 2026-03-17
 description: "The noble do not treat suffering as cause for despair...."
-
-
 punch_line_1: "The noble do not treat suffering as cause for despair."
 punch_line_2: "Organizations demand nobility from their people by refusing to acknowledge that change means loss, and loss requires grieving."
 felt_hook: "Leadership celebrated the new direction. The team mourned the old one. In silence. Because mourning in a forward-looking organization feels like disloyalty."
@@ -18,20 +15,16 @@ kural_translation: "The noble do not treat their body's suffering as cause for d
 kural_number: 627
 kural_bridge: "Organizations demand nobility from their people by refusing to acknowledge that change means loss, and loss requires grieving."
 prev_knot: "organizations/058-success-ambiguity"
-prev_knot_title: "Success Ambiguity"
+prev_knot_title: Success Ambiguity
 next_knot: "organizations/060-consultant-dependency"
-next_knot_title: "Consultant Dependency"
+next_knot_title: Consultant Dependency
 untie_story: "A government agency celebrated the 100-day mark of their change with a storytelling event. Momentum was renewed."
-untie_practices:
-  - "Before your next change, name what's being lost."
-  - "Every significant change includes an explicit acknowledgment of what is being lost."
-  - "When loss is acknowledged, transitions become emotionally complete, energy redirects from undergr..."
-untie_question: "What would change in your organization if you untangled \"ungrieved loss\" this week?"
+untie_question: 'What would change in your organization if you untangled \"ungrieved loss\" this week?'
 quote_top: "Organizational change buries loss, fostering silent resistance and sabotage."
 quote_bottom: "Acknowledge grief; it's vital."
 origin_nodes: ["knots:058-success-ambiguity", "knots/organizations/058-success-ambiguity", "knots/organizations/060-consultant-dependency"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The noble do not treat suffering as cause for despair.

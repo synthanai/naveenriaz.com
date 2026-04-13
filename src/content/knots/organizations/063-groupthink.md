@@ -1,5 +1,4 @@
 ---
-
 title: groupthink
 knot_number: 63
 domain: organizations
@@ -8,32 +7,26 @@ series_number: 3
 slug_name: groupthink
 date: 2026-03-17
 description: "Speaking is easy. Doing as spoken is difficult...."
-
-
 punch_line_1: "Speaking is easy. Doing as spoken is difficult."
-punch_line_2: "Groupthink makes speaking easy because everyone says the same thing. The difficulty is hidden: nobody speaks the truth."
+punch_line_2: |
+  Groupthink makes speaking easy because everyone says the same thing. The difficulty is hidden: nobody speaks the truth.
 felt_hook: "Alignment means different perspectives converge on a shared conclusion. Groupthink means nobody had a different perspective to begin with, or nobody felt safe enough to voice it."
 kural_tamil: "இடிக்குந் துணையாரை யாள்வரை யாரே\nகெடுக்குந் தகைமை யவர்."
 kural_translation: "Speaking is easy for anyone; doing as spoken is the difficult part."
 kural_number: 447
-kural_bridge: "Groupthink makes speaking easy because everyone says the same thing. The difficulty is hidden: nobody speaks the truth."
+kural_bridge: |
+  Groupthink makes speaking easy because everyone says the same thing. The difficulty is hidden: nobody speaks the truth.
 prev_knot: "organizations/062-learning-disability"
-prev_knot_title: "Learning Disability"
+prev_knot_title: Learning Disability
 next_knot: "organizations/064-metric-gaming"
-next_knot_title: "Metric Gaming"
+next_knot_title: Metric Gaming
 untie_story: "A hospital shared near-miss data across departments without blame. The cross-pollination prevented three serious incidents."
-untie_practices:
-  - "assign one person to present the strongest counter-argument."
-  - "Every major decision includes a structured counter-argument presented with the same rigor as the ..."
-  - "When dissent is welcomed, decision quality improves, blind spots are identified before they becom..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"groupthink\" this week?"
+untie_question: 'What would change in your organization if you untangled \"groupthink\" this week?'
 quote_top: "Groupthink isn't alignment; it's a dangerous echo chamber."
 quote_bottom: "Silence speaks loud losses."
 origin_nodes: ["knots:062-learning-disability", "knots/organizations/062-learning-disability", "knots/organizations/064-metric-gaming"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Speaking is easy. Doing as spoken is difficult.

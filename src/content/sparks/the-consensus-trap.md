@@ -10,7 +10,7 @@ tags: ["cognitive_friction", "leadership", "spar_dialectic"]
 description: Unanimous agreement is often unanimous silence.
 origin_nodes: [""]
 valence: mixed
-friction: 
+friction: ""
 ---
 
 A leadership team votes on strategy. Unanimous. Everyone nods. "Great, we are aligned."

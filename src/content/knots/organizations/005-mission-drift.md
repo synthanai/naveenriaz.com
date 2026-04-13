@@ -1,42 +1,36 @@
 ---
-
-title: "mission-drift"
+title: mission-drift
 knot_number: 5
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 5
-slug_name: "mission-drift"
+slug_name: mission-drift
 date: 2026-03-17
 description: "Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?"
-
-
 punch_line_1: "Nobody abandons the mission."
 punch_line_2: "They just stop saying no."
 felt_hook: "Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?"
-emotion_target: "Disorientation: the slow realization you've become something you never intended"
+emotion_target: |
+  Disorientation: the slow realization you've become something you never intended
 never_say: ["strategic pivot", "evolving our mission", "growth requires flexibility"]
 kural_tamil: "எண்ணித் துணிக கருமம் துணிந்தபின்\nஎண்ணுவம் என்பது இழுக்கு."
 kural_translation: "Think well before acting; to deliberate after deciding is a failure."
 kural_number: 467
 kural_bridge: "Mission drift is the failure of never re-examining the original decision."
 prev_knot: "organizations/004-values-wallpaper"
-prev_knot_title: "Values Wallpaper"
+prev_knot_title: Values Wallpaper
 next_knot: "organizations/006-legacy-denial"
-next_knot_title: "Legacy Denial"
+next_knot_title: Legacy Denial
 untie_story: "A retail chain asked every store to define their purpose locally. The answers were better than any consulting deck."
-untie_practices:
-  - "Open your calendar for last week."
-  - "Every major initiative can be traced back to the mission statement in under two sentences."
-  - "When drift is named, strategy meetings gain a filter."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"mission drift\" this week?"
-quote_top: "Mission drift: a hundred small compromises replace your purpose."
+untie_question: 'What would change in your organization if you untangled \"mission drift\" this week?'
+quote_top: |
+  Mission drift: a hundred small compromises replace your purpose.
 quote_bottom: "Purpose fades, drift wins."
 origin_nodes: ["knots:004-values-wallpaper", "knots/organizations/004-values-wallpaper", "knots/organizations/006-legacy-denial"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-23T12:13:58.384Z"
+published_at: "2026-03-27T03:45:11.028Z"
 ---
 
 Think well before acting. To deliberate after deciding is a failure.

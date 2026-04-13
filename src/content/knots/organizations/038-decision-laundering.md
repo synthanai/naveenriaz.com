@@ -1,5 +1,4 @@
 ---
-
 title: decision-laundering
 knot_number: 38
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 2
 slug_name: decision-laundering
 date: 2026-03-17
 description: "All that is desired is achieved if the mind harbors no anger...."
-
-
 punch_line_1: "All that is desired is achieved if the mind harbors no anger."
 punch_line_2: "Decision laundering exists because the real decision harbors something the group can't openly acknowledge."
 felt_hook: "The meeting wasn't deliberation. It was ratification. A group of intelligent people performing consensus for a conclusion that one person had already reached."
@@ -18,20 +15,18 @@ kural_translation: "All that is desired is achieved if the mind harbors no anger
 kural_number: 549
 kural_bridge: "Decision laundering exists because the real decision harbors something the group can't openly acknowledge."
 prev_knot: "organizations/037-analysis-paralysis"
-prev_knot_title: "Analysis Paralysis"
+prev_knot_title: Analysis Paralysis
 next_knot: "organizations/039-consensus-trap"
-next_knot_title: "Consensus Trap"
+next_knot_title: Consensus Trap
 untie_story: "A director stopped attending decisions below their level. The team made better decisions faster without the hierarchy present."
-untie_practices:
-  - "Before your next meeting, ask honestly: have I already decided?"
-  - "When a leader has a strong position, they state it openly and invite challenge."
-  - "When decisions are made transparently, trust deepens, meeting time drops dramatically, and teams ..."
-untie_question: "What would change in your organization if you untangled \"decision laundering\" this week?"
-quote_top: "Laundered decisions: clean surface, hollow inside; fake legitimacy."
+- "Before your next meeting, ask honestly: 'have I already decided?"'
+untie_question: 'What would change in your organization if you untangled \"decision laundering\" this week?'
+quote_top: |
+  Laundered decisions: clean surface, hollow inside; fake legitimacy.
 quote_bottom: "Honest advocacy beats theater."
 origin_nodes: ["knots:037-analysis-paralysis", "sparks:decision-laundering", "knots/organizations/037-analysis-paralysis", "knots/organizations/039-consensus-trap", "sparks/decision-laundering"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 All that is desired is achieved if the mind harbors no anger.

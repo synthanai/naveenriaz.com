@@ -1,5 +1,4 @@
 ---
-
 title: surveillance-culture
 knot_number: 33
 domain: organizations
@@ -11,27 +10,23 @@ description: "A cruel ruler's realm will collapse under miseries unseen even by 
 quote_top: "The monitoring saw every keystroke.\nIt did not see the talent leaving."
 quote_bottom: "Surveillance sees everything except\nwhat it destroys."
 punch_line_1: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
-punch_line_2: "Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks."
+punch_line_2: |
+  Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks.
 felt_hook: "The monitoring saw every keystroke. It didn't see the talent leaving."
 kural_tamil: "கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்\nகளைகட் டதனொடு நேர்."
 kural_translation: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
 kural_number: 550
-kural_bridge: "Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks."
+kural_bridge: |
+  Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks.
 prev_knot: "organizations/032-the-accountability-dodge"
-prev_knot_title: "The Accountability Dodge"
+prev_knot_title: The Accountability Dodge
 next_knot: "organizations/034-gossip-economy"
-next_knot_title: "Gossip Economy"
+next_knot_title: Gossip Economy
 untie_story: "A school principal apologized publicly for a policy mistake. Students said it was the first time an adult modeled accountability."
-untie_practices:
-  - "Remove one monitoring tool this week."
-  - "Trust is the default."
-  - "When surveillance drops, initiative returns, creative risk-taking resumes, and the organization s..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"surveillance culture\" this week?"
+untie_question: 'What would change in your organization if you untangled \"surveillance culture\" this week?'
 origin_nodes: ["knots:032-the-accountability-dodge", "knots/organizations/032-the-accountability-dodge", "knots/organizations/034-gossip-economy"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 A cruel ruler's realm will collapse under miseries unseen even by his own eyes.

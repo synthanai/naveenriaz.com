@@ -1,5 +1,4 @@
 ---
-
 title: fear-culture
 knot_number: 19
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 7
 slug_name: fear-culture
 date: 2026-03-17
 description: "Raise the rod high but strike gently...."
-
-
 punch_line_1: "Raise the rod high but strike gently."
 punch_line_2: "Fear-driven authority raises the rod. Wise leadership knows when not to strike."
 felt_hook: "A visitor would call it professional. An insider calls it survival."
@@ -18,21 +15,18 @@ kural_translation: "Raise the rod high but strike gently, if lasting prosperity 
 kural_number: 564
 kural_bridge: "Fear-driven authority raises the rod. Wise leadership knows when not to strike."
 prev_knot: "organizations/018-siloed-synergy"
-prev_knot_title: "Siloed Synergy"
+prev_knot_title: Siloed Synergy
 next_knot: "organizations/020-values-inversion"
-next_knot_title: "Values Inversion"
+next_knot_title: Values Inversion
 untie_story: "A sales team replaced individual bonuses with team bonuses. Collaboration increased. Revenue followed three months later."
-untie_practices:
-  - "Walk to lunch with one team member."
-  - "The most junior person in the room can challenge the most senior person's idea, and the room trea..."
-  - "When fear dissolves (not through slogans, but through repeated safety), initiative replaces compl..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"fear culture\" this week?"
+untie_question: 'What would change in your organization if you untangled \"fear culture\" this week?'
 quote_top: "Fear creates a quiet landscape of survival, not professionalism."
 quote_bottom: "Silence is fear's echo."
 origin_nodes: ["knots:018-siloed-synergy", "knots/organizations/018-siloed-synergy", "knots/organizations/020-values-inversion"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-04-10T05:27:55.675Z"
+published_at: "2026-04-10T05:27:59.173Z"
 ---
 
 Raise the rod high but strike gently.

@@ -1,5 +1,4 @@
 ---
-
 title: performative-safety
 knot_number: 13
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 1
 slug_name: performative-safety
 date: 2026-03-17
 description: "Wisdom is discerning the truth in whatever is said, by whomever it's said...."
-
-
 punch_line_1: "Wisdom is discerning the truth in whatever is said, by whomever it's said."
 punch_line_2: "When safety is performed, the truth behind every word is hidden, not heard."
 felt_hook: "Everyone is speaking. Nobody is saying anything true."
@@ -18,21 +15,19 @@ kural_translation: "Wisdom is discerning the truth in whatever is said, by whome
 kural_number: 291
 kural_bridge: "When safety is performed, the truth behind every word is hidden, not heard."
 prev_knot: "organizations/012-the-hollow-core"
-prev_knot_title: "The Hollow Core"
+prev_knot_title: The Hollow Core
 next_knot: "organizations/014-integrity-theater"
-next_knot_title: "Integrity Theater"
-untie_story: "A company banned \"that's how we do it\" for one month. Seventeen process improvements emerged from the constraint."
-untie_practices:
-  - "replace \"what went well?\" with \"what can't be said in this team right now?\" Time the silence."
-  - "Every team member can surface a hard truth without rehearsal."
-  - "When safety is real, feedback becomes bi-directional, mistakes become learning moments instead of..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"performative safety\" this week?"
-quote_top: "Performative safety: the performance continues even after the audience sees backstage."
+next_knot_title: Integrity Theater
+untie_story: 'A company banned \"that''s how we do it\" for one month. Seventeen process improvements emerged from the constraint.'
+untie_question: 'What would change in your organization if you untangled \"performative safety\" this week?'
+quote_top: |
+  Performative safety: the performance continues even after the audience sees backstage.
 quote_bottom: "The immune system attacks itself."
 origin_nodes: ["knots:012-the-hollow-core", "knots/organizations/012-the-hollow-core", "knots/organizations/014-integrity-theater"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-04-04T10:54:09.525Z"
+published_at: "2026-04-04T10:54:30.592Z"
 ---
 
 Wisdom is discerning the truth in whatever is said, by whomever it's said.

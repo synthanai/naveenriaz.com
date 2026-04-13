@@ -1,5 +1,4 @@
 ---
-
 title: analysis-paralysis
 knot_number: 37
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 1
 slug_name: analysis-paralysis
 date: 2026-03-17
 description: "Deliberate before you act. To deliberate after acting is folly...."
-
-
 punch_line_1: "Deliberate before you act. To deliberate after acting is folly."
 punch_line_2: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
 felt_hook: "It was also irrelevant by the time it finished."
@@ -18,20 +15,18 @@ kural_translation: "Deliberate before you act; to deliberate after acting is fol
 kural_number: 671
 kural_bridge: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
 prev_knot: "organizations/036-trust-bankruptcy"
-prev_knot_title: "Trust Bankruptcy"
+prev_knot_title: Trust Bankruptcy
 next_knot: "organizations/038-decision-laundering"
-next_knot_title: "Decision Laundering"
-untie_story: "A team classified every pending decision as \"one-way door\" or \"two-way door.\" Two-thirds resolved within 48 hours."
-untie_practices:
-  - "Ask: if forced to decide today with what you know, what would you choose?"
-  - "The team can distinguish between reversible and significant decisions and applies proportional de..."
-  - "When analysis serves decisions instead of replacing them, speed becomes a competitive advantage, ..."
-untie_question: "What would change in your organization if you untangled \"analysis paralysis\" this week?"
-quote_top: "Analysis paralysis: when deliberation becomes the only action."
+next_knot_title: Decision Laundering
+untie_story: 'A team classified every pending decision as \"one-way door\" or \"two-way door.\" Two-thirds resolved within 48 hours.'
+- "Ask: 'if forced to decide today with what you know, what would you choose?"'
+untie_question: 'What would change in your organization if you untangled \"analysis paralysis\" this week?'
+quote_top: |
+  Analysis paralysis: when deliberation becomes the only action.
 quote_bottom: "Delay is organizational death."
 origin_nodes: ["knots:036-trust-bankruptcy", "knots/organizations/036-trust-bankruptcy", "knots/organizations/038-decision-laundering"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 In 2004, an internal memo circulated through Nokia's Espoo headquarters. An engineering team had identified the smartphone threat. They proposed a touchscreen device. They had working prototypes.

@@ -1,5 +1,4 @@
 ---
-
 title: broken-promises-loop
 knot_number: 25
 domain: organizations
@@ -11,27 +10,23 @@ description: "Guard yourself from anger. Unguarded, anger will destroy you...."
 quote_top: "No single broken promise is devastating.\nBut each one adds a micro-crack."
 quote_bottom: "Organizations, like bridges,\ndo not show fatigue\nuntil they fracture."
 punch_line_1: "Guard yourself from anger. Unguarded, anger will destroy you."
-punch_line_2: "A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it."
+punch_line_2: |
+  A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it.
 felt_hook: "Your team remembers every unkept commitment. Every single one."
 kural_tamil: "கறுத்துஇன்னா செய்தவக் கண்ணும் மறுத்தின்னா\nசெய்யாமை மாசற்றார் கோள்."
 kural_translation: "Guard yourself from anger; unguarded, anger will destroy you."
 kural_number: 312
-kural_bridge: "A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it."
+kural_bridge: |
+  A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it.
 prev_knot: "organizations/024-the-culture-tax"
-prev_knot_title: "The Culture Tax"
+prev_knot_title: The Culture Tax
 next_knot: "organizations/026-invisible-contracts"
-next_knot_title: "Invisible Contracts"
-untie_story: "A manager said \"I was wrong about that decision\" in a team meeting. Trust scores jumped overnight measurably."
-untie_practices:
-  - "Keep one small promise today."
-  - "Every commitment made to the team is tracked and honored."
-  - "When promises are kept consistently, skepticism fades, planning becomes reliable, and teams stop ..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"broken promises loop\" this week?"
+next_knot_title: Invisible Contracts
+untie_story: 'A manager said \"I was wrong about that decision\" in a team meeting. Trust scores jumped overnight measurably.'
+untie_question: 'What would change in your organization if you untangled \"broken promises loop\" this week?'
 origin_nodes: ["knots:024-the-culture-tax", "knots/organizations/024-the-culture-tax", "knots/organizations/026-invisible-contracts"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 There is a bridge in your city that looks perfectly solid.

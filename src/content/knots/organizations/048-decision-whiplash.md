@@ -1,5 +1,4 @@
 ---
-
 title: decision-whiplash
 knot_number: 48
 domain: organizations
@@ -8,30 +7,28 @@ series_number: 12
 slug_name: decision-whiplash
 date: 2026-03-17
 description: "Perseverance and mature wisdom together extend a legacy...."
-
-
 punch_line_1: "Perseverance and mature wisdom together extend a legacy."
-punch_line_2: "Decision whiplash destroys perseverance: when direction reverses without explanation, the team stops building because nothing stays built."
+punch_line_2: |
+  Decision whiplash destroys perseverance: when direction reverses without explanation, the team stops building because nothing stays built.
 felt_hook: "So they've stopped committing. Why invest deeply in a direction that might change by Friday?"
 kural_tamil: "ஆபயன் குன்றும் அறுதொழிலோர் நூல்மறப்பர்\nகாவலன் காவான் எனின்."
 kural_translation: "Perseverance and mature wisdom together extend a dynasty's legacy."
 kural_number: 560
-kural_bridge: "Decision whiplash destroys perseverance: when direction reverses without explanation, the team stops building because nothing stays built."
+kural_bridge: |
+  Decision whiplash destroys perseverance: when direction reverses without explanation, the team stops building because nothing stays built.
 prev_knot: "organizations/047-information-overload"
-prev_knot_title: "Information Overload"
+prev_knot_title: Information Overload
 next_knot: "organizations/049-change-fatigue"
-next_knot_title: "Change Fatigue"
-untie_story: "A leadership team did a \"decision autopsy\" monthly. They learned more from reviewing decisions than from making new ones."
-untie_practices:
-  - "Next time you reverse a decision, say three things: what was decided before, why it's changing, a..."
-  - "When a decision is reversed, three things are stated: what was decided before, why it's changing,..."
-  - "When reversals are acknowledged, trust survives the change, teams invest fully in the new directi..."
-untie_question: "What would change in your organization if you untangled \"decision whiplash\" this week?"
+next_knot_title: Change Fatigue
+untie_story: 'A leadership team did a \"decision autopsy\" monthly. They learned more from reviewing decisions than from making new ones.'
+- "Next time you reverse a decision, say three things: 'what was decided before, why it''s changing, a..."'
+- "When a decision is reversed, three things are stated: 'what was decided before, why it''s changing,..."'
+untie_question: 'What would change in your organization if you untangled \"decision whiplash\" this week?'
 quote_top: "Inconsistent leadership creates whiplash, killing team commitment and trust."
 quote_bottom: "Leaders, acknowledge your mistakes."
 origin_nodes: ["knots:047-information-overload", "knots/organizations/047-information-overload", "knots/organizations/049-change-fatigue"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Perseverance and mature wisdom together extend a legacy.

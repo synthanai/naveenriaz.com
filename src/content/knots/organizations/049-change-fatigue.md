@@ -1,5 +1,4 @@
 ---
-
 title: change-fatigue
 knot_number: 49
 domain: organizations
@@ -16,20 +15,17 @@ kural_translation: "Laugh when hardship arrives; nothing defeats adversity like 
 kural_number: 619
 kural_bridge: "Change fatigue is what happens when the organization has faced so many hardships that defiance has been exhausted."
 prev_knot: "organizations/048-decision-whiplash"
-prev_knot_title: "Decision Whiplash"
+prev_knot_title: Decision Whiplash
 next_knot: "organizations/050-transformation-theater"
-next_knot_title: "Transformation Theater"
-untie_story: "A company held a \"funeral\" for the old process before launching the new. Mourning enabled moving forward."
-untie_practices:
-  - "Ask your team: how many transformations are you currently in the middle of?"
-  - "The organization runs no more than two change initiatives simultaneously."
-  - "When change is sequenced instead of stacked, each initiative gets full investment, adoption becom..."
-untie_question: "What would change in your organization if you untangled \"change fatigue\" this week?"
+next_knot_title: Transformation Theater
+untie_story: 'A company held a \"funeral\" for the old process before launching the new. Mourning enabled moving forward.'
+- "Ask your team: 'how many transformations are you currently in the middle of?"'
+untie_question: 'What would change in your organization if you untangled \"change fatigue\" this week?'
 quote_top: "Laugh in the face of hardship, for defiance conquers all."
 quote_bottom: "Defiance conquers all."
 origin_nodes: ["knots:048-decision-whiplash", "sparks:change-fatigue", "knots/organizations/048-decision-whiplash", "knots/organizations/050-transformation-theater", "sparks/change-fatigue"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Laugh when hardship arrives. Nothing defeats adversity like defiance.

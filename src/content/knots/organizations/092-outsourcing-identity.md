@@ -1,5 +1,4 @@
 ---
-
 title: outsourcing-identity
 knot_number: 92
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 8
 slug_name: outsourcing-identity
 date: 2026-03-17
 description: "Examine virtues, examine faults, choose accordingly...."
-
-
 punch_line_1: "Examine virtues, examine faults, choose accordingly."
 punch_line_2: "Outsourcing identity means the organization stopped examining its own virtues and faults because someone else does the thinking."
 felt_hook: "You didn't just outsource the function. You outsourced the identity."
@@ -18,23 +15,17 @@ kural_translation: "Examine virtues, examine faults, see which prevails, and cho
 kural_number: 441
 kural_bridge: "Outsourcing identity means the organization stopped examining its own virtues and faults because someone else does the thinking."
 prev_knot: "organizations/091-customer-capability-gap"
-prev_knot_title: "Customer Capability Gap"
+prev_knot_title: Customer Capability Gap
 next_knot: "organizations/093-learning-doing-imbalance"
-next_knot_title: "Learning Doing Imbalance"
+next_knot_title: Learning Doing Imbalance
 untie_story: "A school invited professionals to co-teach one lesson per month. Students saw how classroom learning connected to real work."
-untie_practices:
-  - "List your core capabilities."
-  - "Core capabilities are defined and protected in-house."
-  - "When core capabilities are protected, the organization maintains its unique value, innovation cap..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"outsourcing identity\" this week?"
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"outsourcing identity\" this week?'
 quote_top: "Outsourcing functions bleeds organizational self-knowledge and identity."
 quote_bottom: "Identity cannot be outsourced."
 origin_nodes: ["knots:091-customer-capability-gap", "knots/organizations/091-customer-capability-gap", "knots/organizations/093-learning-doing-imbalance"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Examine virtues, examine faults, choose accordingly.

@@ -1,5 +1,4 @@
 ---
-
 title: trust-asymmetry
 knot_number: 31
 domain: organizations
@@ -12,26 +11,22 @@ quote_top: "Trust asymmetry is demanding trust\nyou refuse to give to people you
 quote_bottom: "Trusting a stranger without discernment\nbrings endless suffering."
 punch_line_1: "Trusting a stranger without discernment brings endless suffering."
 punch_line_2: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
-felt_hook: "The demand is always: trust us. The action is always: we don't trust you."
+felt_hook: |
+  The demand is always: trust us. The action is always: we don't trust you.
 kural_tamil: "அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்\nநன்குடையான் கட்டே தெளிவு."
 kural_translation: "Trusting a stranger without discernment brings endless suffering to one's lineage."
 kural_number: 513
 kural_bridge: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
 prev_knot: "organizations/030-loyalty-extraction"
-prev_knot_title: "Loyalty Extraction"
+prev_knot_title: Loyalty Extraction
 next_knot: "organizations/032-the-accountability-dodge"
-next_knot_title: "The Accountability Dodge"
-untie_story: "A remote team created a \"trust battery\" check-in. Each person rated their trust level with others openly."
-untie_practices:
-  - "Before you next ask your team to trust a decision, ask yourself: when was the last time you trust..."
-  - "Trust flows bidirectionally."
-  - "When trust flows both ways, the team stops performing compliance and starts contributing discreti..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"trust asymmetry\" this week?"
+next_knot_title: The Accountability Dodge
+untie_story: 'A remote team created a \"trust battery\" check-in. Each person rated their trust level with others openly.'
+- "Before you next ask your team to trust a decision, ask yourself: 'when was the last time you trust..."'
+untie_question: 'What would change in your organization if you untangled \"trust asymmetry\" this week?'
 origin_nodes: ["knots:030-loyalty-extraction", "knots/organizations/030-loyalty-extraction", "knots/organizations/032-the-accountability-dodge"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Trusting a stranger without discernment brings endless suffering.

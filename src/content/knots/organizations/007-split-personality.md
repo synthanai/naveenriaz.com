@@ -1,11 +1,10 @@
 ---
-
-title: "split-personality"
+title: split-personality
 knot_number: 7
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 7
-slug_name: "split-personality"
+slug_name: split-personality
 date: 2026-03-17
 description: 'If you ask Sales and Engineering "what kind of company are we?", do they describe the same organization?'
 quote_top: "One brand going one way in public.\nA completely different culture operating\nbehind the walls."
@@ -13,28 +12,25 @@ quote_bottom: "The cost of a split identity\nis not confusion.\nIt is exhaustion
 punch_line_1: "Organizations don't fear failure."
 punch_line_2: "They fear clarity."
 felt_hook: 'If you ask Sales and Engineering "what kind of company are we?", do they describe the same organization?'
-emotion_target: "Exhaustion: the cost of context-switching between two identities every day"
+emotion_target: |
+  Exhaustion: the cost of context-switching between two identities every day
 never_say: ["we're both", "it depends on the team", "healthy tension (when it is actually exhaustion)"]
 kural_tamil: "வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்\nஐந்தும் அகத்தே நகும்."
 kural_translation: "When a deceitful mind puts on virtuous conduct, the five elements within laugh."
 kural_number: 271
 kural_bridge: "When the external brand contradicts the internal culture, the whole system knows."
 prev_knot: "organizations/006-legacy-denial"
-prev_knot_title: "Legacy Denial"
+prev_knot_title: Legacy Denial
 next_knot: "organizations/008-purpose-commodification"
-next_knot_title: "Purpose Commodification"
-untie_story: "A tech company lost three key people. Exit interviews all said the same thing: \"I forgot why I was here.\""
-untie_practices:
-  - "List your top 3 strategic initiatives."
-  - "The organization can say \"we are this, and we are NOT that\" without anxiety."
-  - "When the identity is singular, marketing becomes coherent, hiring criteria sharpen, and the team ..."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"split personality\" this week?"
+next_knot_title: Purpose Commodification
+untie_story: |
+  A tech company lost three key people. Exit interviews all said the same thing: \"I forgot why I was here.\"
+untie_question: 'What would change in your organization if you untangled \"split personality\" this week?'
 origin_nodes: ["knots:006-legacy-denial", "knots/organizations/006-legacy-denial", "knots/organizations/008-purpose-commodification"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-27T03:44:36.000Z"
+published_at: "2026-03-29T11:26:08.742Z"
 ---
 
 When a deceitful mind puts on virtuous conduct, the five elements within laugh.

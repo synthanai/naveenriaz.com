@@ -1,5 +1,4 @@
 ---
-
 title: over-centralization
 knot_number: 81
 domain: organizations
@@ -8,30 +7,26 @@ series_number: 9
 slug_name: over-centralization
 date: 2026-03-17
 description: "Those who understand duty maintain generosity...."
-
-
 punch_line_1: "Those who understand duty maintain generosity."
-punch_line_2: "Over-centralization is the failure to distribute duty: headquarters decides, everywhere else executes."
+punch_line_2: |
+  Over-centralization is the failure to distribute duty: headquarters decides, everywhere else executes.
 felt_hook: "Over-centralization treats distributed intelligence as a threat rather than a resource."
 kural_tamil: "இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து\nஅதனை அவன்கண் விடல்."
 kural_translation: "Those who understand duty maintain generosity even in hard times."
 kural_number: 517
-kural_bridge: "Over-centralization is the failure to distribute duty: headquarters decides, everywhere else executes."
+kural_bridge: |
+  Over-centralization is the failure to distribute duty: headquarters decides, everywhere else executes.
 prev_knot: "organizations/080-the-bottleneck-person"
-prev_knot_title: "The Bottleneck Person"
+prev_knot_title: The Bottleneck Person
 next_knot: "organizations/082-handoff-failure"
-next_knot_title: "Handoff Failure"
+next_knot_title: Handoff Failure
 untie_story: "A government agency mapped all approval chains. Seven of twelve had steps that added no value. They removed them."
-untie_practices:
-  - "Give one local team authority over one decision this quarter."
-  - "Local teams have decision authority within defined parameters."
-  - "When local intelligence is trusted, markets are served more accurately, decision speed improves, ..."
-untie_question: "What would change in your organization if you untangled \"over centralization\" this week?"
+untie_question: 'What would change in your organization if you untangled \"over centralization\" this week?'
 quote_top: "Over-centralization treats distributed intelligence as a threat, not a resource."
 quote_bottom: "The market lost."
 origin_nodes: ["knots:080-the-bottleneck-person", "knots/organizations/080-the-bottleneck-person", "knots/organizations/082-handoff-failure"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Those who understand duty maintain generosity.

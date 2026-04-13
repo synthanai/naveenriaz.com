@@ -1,5 +1,4 @@
 ---
-
 title: the-bottleneck-person
 knot_number: 80
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 8
 slug_name: the-bottleneck-person
 date: 2026-03-17
 description: "One who seeks no ease in good times builds resilience for hard times...."
-
-
 punch_line_1: "One who seeks no ease in good times builds resilience for hard times."
 punch_line_2: "The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop."
 felt_hook: "They're not hoarding power. They're drowning in it. The organization funneled everything through one point because that point was reliable. Now that reliability is the constraint."
@@ -18,20 +15,16 @@ kural_translation: "One who seeks no pleasure in prosperity gains immunity from 
 kural_number: 631
 kural_bridge: "The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop."
 prev_knot: "organizations/079-technology-sprawl"
-prev_knot_title: "Technology Sprawl"
+prev_knot_title: Technology Sprawl
 next_knot: "organizations/081-over-centralization"
-next_knot_title: "Over Centralization"
+next_knot_title: Over Centralization
 untie_story: "A tech company moved from project teams to product teams. Continuity replaced context-switching. Quality followed."
-untie_practices:
-  - "Identify the person whose absence would cause the most disruption."
-  - "No single person is required for more than three decision categories."
-  - "When flow is distributed, the organization gains resilience, the bottleneck person regains capaci..."
-untie_question: "What would change in your organization if you untangled \"the bottleneck person\" this week?"
+untie_question: 'What would change in your organization if you untangled \"the bottleneck person\" this week?'
 quote_top: "A bottleneck person chokes flow. Organization starves."
 quote_bottom: "Redistribute before damage."
 origin_nodes: ["knots:079-technology-sprawl", "knots/organizations/079-technology-sprawl", "knots/organizations/081-over-centralization"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who seeks no ease in good times builds resilience for hard times.

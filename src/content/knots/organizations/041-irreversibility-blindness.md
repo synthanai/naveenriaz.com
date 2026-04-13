@@ -1,5 +1,4 @@
 ---
-
 title: irreversibility-blindness
 knot_number: 41
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 5
 slug_name: irreversibility-blindness
 date: 2026-03-17
 description: "Those who foresee what is coming are never shaken by what arrives...."
-
-
 punch_line_1: "Those who foresee what is coming are never shaken by what arrives."
 punch_line_2: "Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as equally reversible."
 felt_hook: "Treating permanent decisions with the same casualness as reversible ones is organizational blindness."
@@ -18,20 +15,17 @@ kural_translation: "Those who foresee what is coming are never shaken by what ar
 kural_number: 467
 kural_bridge: "Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as equally reversible."
 prev_knot: "organizations/040-hippo-effect"
-prev_knot_title: "Hippo Effect"
+prev_knot_title: Hippo Effect
 next_knot: "organizations/042-decision-amnesia"
-next_knot_title: "Decision Amnesia"
+next_knot_title: Decision Amnesia
 untie_story: "A hospital reduced committee approvals from seven to two for non-clinical decisions. Time to implementation dropped by 80%."
-untie_practices:
-  - "Before your next major decision, ask: can we undo this in six months if wrong?"
-  - "Every significant decision is classified as reversible or irreversible before deliberation begins."
-  - "When decisions are classified by reversibility, speed improves on routine choices while rigor inc..."
-untie_question: "What would change in your organization if you untangled \"irreversibility blindness\" this week?"
+- "Before your next major decision, ask: 'can we undo this in six months if wrong?"'
+untie_question: 'What would change in your organization if you untangled \"irreversibility blindness\" this week?'
 quote_top: "Some decisions are one-way doors, with permanent consequences."
 quote_bottom: "Discern irreversible decisions wisely."
 origin_nodes: ["knots:040-hippo-effect", "knots/organizations/040-hippo-effect", "knots/organizations/042-decision-amnesia"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Those who foresee what is coming are never shaken by what arrives.

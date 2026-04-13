@@ -1,5 +1,4 @@
 ---
-
 title: dissent-suppression
 knot_number: 43
 domain: organizations
@@ -11,25 +10,23 @@ description: "Speak words that have purpose. Never speak words without purpose..
 quote_top: "The brightest idea was killed by silence.\nNot by argument. Not by data."
 quote_bottom: "Suppressed ideas do not disappear.\nThey go underground."
 punch_line_1: "Speak words that have purpose. Never speak words without purpose."
-punch_line_2: "Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room."
+punch_line_2: |
+  Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room.
 felt_hook: "They calculated the cost of speaking up, weighed it against the cost of staying quiet, and chose survival."
 kural_tamil: "சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க\nசொல்லிற் பயனிலாச் சொல்."
 kural_translation: "Speak words that have purpose; never speak words that serve none."
 kural_number: 200
-kural_bridge: "Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room."
+kural_bridge: |
+  Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room.
 prev_knot: "organizations/042-decision-amnesia"
-prev_knot_title: "Decision Amnesia"
+prev_knot_title: Decision Amnesia
 next_knot: "organizations/044-decision-fragmentation"
-next_knot_title: "Decision Fragmentation"
+next_knot_title: Decision Fragmentation
 untie_story: "A CEO made their decision-making criteria public. People stopped guessing what leadership valued and started aligning."
-untie_practices:
-  - "require one person to argue against the consensus."
-  - "Counter-positions are explicitly invited before any decision is finalized."
-  - "When dissent is safe, decisions improve, blind spots surface before implementation, and the best ..."
-untie_question: "What would change in your organization if you untangled \"dissent suppression\" this week?"
+untie_question: 'What would change in your organization if you untangled \"dissent suppression\" this week?'
 origin_nodes: ["knots:042-decision-amnesia", "knots/organizations/042-decision-amnesia", "knots/organizations/044-decision-fragmentation"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Speak words that have purpose. Never speak words without purpose.

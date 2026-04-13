@@ -1,5 +1,4 @@
 ---
-
 title: matrix-madness
 knot_number: 84
 domain: organizations
@@ -18,18 +17,15 @@ kural_translation: "The world endures because of those with character; without t
 kural_number: 545
 kural_bridge: "Matrix structures endure only when people of character navigate them. Without character, three bosses equal three competing versions of reality."
 prev_knot: "organizations/083-scaling-pains"
-prev_knot_title: "Scaling Pains"
+prev_knot_title: Scaling Pains
 next_knot: "organizations/085-skill-obsolescence"
-next_knot_title: "Skill Obsolescence"
+next_knot_title: Skill Obsolescence
 untie_story: "A small business owner realized they were the bottleneck in every process. They removed themselves from three. All three improved."
-untie_practices:
-  - "Ask one person in your matrix: when your managers disagree, how do you decide?"
-  - "Every matrix role has one primary accountability owner."
-  - "When matrix accountability is primary, employees navigate with clarity, conflicts are resolved by..."
-untie_question: "What would change in your organization if you untangled \"matrix madness\" this week?"
+- "Ask one person in your matrix: 'when your managers disagree, how do you decide?"'
+untie_question: 'What would change in your organization if you untangled \"matrix madness\" this week?'
 origin_nodes: ["knots:083-scaling-pains", "knots/organizations/083-scaling-pains", "knots/organizations/085-skill-obsolescence"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The world endures because of those with character.

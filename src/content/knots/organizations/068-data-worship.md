@@ -1,5 +1,4 @@
 ---
-
 title: data-worship
 knot_number: 68
 domain: organizations
@@ -18,20 +17,15 @@ kural_translation: "True knowledge is the supreme wealth."
 kural_number: 354
 kural_bridge: "Data worship replaces true knowledge with the appearance of knowing. The data is worshipped, but the insight it points to is never reached."
 prev_knot: "organizations/067-expertise-trap"
-prev_knot_title: "Expertise Trap"
+prev_knot_title: Expertise Trap
 next_knot: "organizations/069-cognitive-debt"
-next_knot_title: "Cognitive Debt"
-untie_story: "A company banned \"reply all\" for one week. Signal-to-noise ratio improved. They kept the ban permanently after."
-untie_practices:
-  - "Before your next data review, ask: what decision would we make with no data at all?"
-  - "Data informs decisions but doesn't make them."
-  - "When data serves judgment instead of replacing it, decisions become faster, leaders regain confid..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"data worship\" this week?"
+next_knot_title: Cognitive Debt
+untie_story: 'A company banned \"reply all\" for one week. Signal-to-noise ratio improved. They kept the ban permanently after.'
+- "Before your next data review, ask: 'what decision would we make with no data at all?"'
+untie_question: 'What would change in your organization if you untangled \"data worship\" this week?'
 origin_nodes: ["knots:067-expertise-trap", "sparks:data-worship", "knots/organizations/067-expertise-trap", "knots/organizations/069-cognitive-debt", "sparks/data-worship"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 True knowledge is the supreme wealth.

@@ -1,5 +1,4 @@
 ---
-
 title: skill-obsolescence
 knot_number: 85
 domain: organizations
@@ -7,10 +6,10 @@ series: capability
 series_number: 1
 slug_name: skill-obsolescence
 date: 2026-03-17
-description: "The work of the wise: meet joyfully, part meaningfully...."
-
-
-punch_line_1: "The work of the wise: meet joyfully, part meaningfully."
+description: |
+  The work of the wise: meet joyfully, part meaningfully....
+punch_line_1: |
+  The work of the wise: meet joyfully, part meaningfully.
 punch_line_2: "Skill obsolescence is the failure to part meaningfully with outdated skills and meet new ones joyfully."
 felt_hook: "Obsolescence isn't incompetence. It's competence in a world that has moved on."
 kural_tamil: "தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்\nகற்றனைத் தூறும் அறிவு."
@@ -18,23 +17,18 @@ kural_translation: "The work of the wise is to meet joyfully and part meaningful
 kural_number: 396
 kural_bridge: "Skill obsolescence is the failure to part meaningfully with outdated skills and meet new ones joyfully."
 prev_knot: "organizations/084-matrix-madness"
-prev_knot_title: "Matrix Madness"
+prev_knot_title: Matrix Madness
 next_knot: "organizations/086-talent-hoarding"
-next_knot_title: "Talent Hoarding"
-untie_story: "A manager asked each team member: \"when are you at your best?\" Then redesigned work assignments to match strengths."
-untie_practices:
-  - "Identify one skill that was essential three years ago and isn't now."
-  - "Skills are reviewed annually against market requirements."
-  - "When skills evolve with the market, the workforce stays competitive, careers compound instead of ..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"skill obsolescence\" this week?"
+next_knot_title: Talent Hoarding
+untie_story: |
+  A manager asked each team member: \"when are you at your best?\" Then redesigned work assignments to match strengths.
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"skill obsolescence\" this week?'
 quote_top: "Competence in yesterday's world becomes obsolescence in today's."
 quote_bottom: "Adapt or become extinct."
 origin_nodes: ["knots:084-matrix-madness", "knots/organizations/084-matrix-madness", "knots/organizations/086-talent-hoarding"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The work of the wise: meet joyfully, part meaningfully.

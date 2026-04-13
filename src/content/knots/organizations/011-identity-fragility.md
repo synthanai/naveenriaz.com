@@ -1,42 +1,36 @@
 ---
-
-title: "identity-fragility"
+title: identity-fragility
 knot_number: 11
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 11
-slug_name: "identity-fragility"
+slug_name: identity-fragility
 date: 2026-03-17
 description: "Has your organization survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
-
-
-punch_line_1: "Free beliefs are the first to break"
+punch_line_1: Free beliefs are the first to break
 punch_line_2: "when the storm hits."
 felt_hook: "Has your organization survived a crisis with its stated values intact? Or did the first market shock reveal which values were decorations?"
-emotion_target: "Betrayal: the moment the stated values collapsed under pressure"
+emotion_target: |
+  Betrayal: the moment the stated values collapsed under pressure
 never_say: ["our values are non-negotiable (when they have already been negotiated)"]
 kural_tamil: "ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்\nஎழுமையும் ஏமாப் புடைத்து."
 kural_translation: "Like the tortoise drawing in its limbs, one who masters the five senses finds lasting security."
 kural_number: 126
 kural_bridge: "An identity never tested is a shell never drawn in. It looks solid until pressure arrives."
 prev_knot: "organizations/010-cultural-orphans"
-prev_knot_title: "Cultural Orphans"
+prev_knot_title: Cultural Orphans
 next_knot: "organizations/012-the-hollow-core"
-next_knot_title: "The Hollow Core"
+next_knot_title: The Hollow Core
 untie_story: "A marketing agency discovered their best client work happened when the team knew WHY the client mattered to the world."
-untie_practices:
-  - "Run a tabletop exercise in your next leadership meeting: \"Revenue drops 20% this quarter."
-  - "The organization has survived a crisis and emerged with its values intact."
-  - "When the identity is stress-tested before the crisis, leaders respond with coherence instead of p..."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"identity fragility\" this week?"
+- "Run a tabletop exercise in your next leadership meeting: '\"Revenue drops 20% this quarter."'
+untie_question: 'What would change in your organization if you untangled \"identity fragility\" this week?'
 quote_top: "Untested commitment shatters under pressure, revealing identity fragility."
 quote_bottom: "Stress-test your core."
 origin_nodes: ["knots:010-cultural-orphans", "knots/organizations/010-cultural-orphans", "knots/organizations/012-the-hollow-core"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-30T05:08:36.688Z"
+published_at: "2026-04-02T12:03:05.381Z"
 ---
 
 Like the tortoise drawing in its limbs, one who masters the senses finds lasting security.

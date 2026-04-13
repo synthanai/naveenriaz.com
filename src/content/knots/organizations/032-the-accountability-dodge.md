@@ -1,5 +1,4 @@
 ---
-
 title: the-accountability-dodge
 knot_number: 32
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 8
 slug_name: the-accountability-dodge
 date: 2026-03-17
 description: "Fortune abandons the leader who doubts a capable person mid-task...."
-
-
 punch_line_1: "Fortune abandons the leader who doubts a capable person mid-task."
 punch_line_2: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
 felt_hook: "Shared accountability is diluted accountability. Always."
@@ -18,22 +15,16 @@ kural_translation: "Fortune abandons the leader who doubts a capable person in t
 kural_number: 542
 kural_bridge: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
 prev_knot: "organizations/031-trust-asymmetry"
-prev_knot_title: "Trust Asymmetry"
+prev_knot_title: Trust Asymmetry
 next_knot: "organizations/033-surveillance-culture"
-next_knot_title: "Surveillance Culture"
+next_knot_title: Surveillance Culture
 untie_story: "A supplier relationship was rebuilt after one honest conversation about a delivery failure. Honesty saved the contract."
-untie_practices:
-  - "Name one owner for one outcome today."
-  - "Every outcome has one named owner."
-  - "When accountability has a name, decisions happen faster, post-mortems produce change instead of r..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"the accountability dodge\" this week?"
-quote_top: "Shared accountability dilutes ownership into nothingness"
-quote_bottom: "Name one owner"
+untie_question: 'What would change in your organization if you untangled \"the accountability dodge\" this week?'
+quote_top: Shared accountability dilutes ownership into nothingness
+quote_bottom: Name one owner
 origin_nodes: ["knots:031-trust-asymmetry", "knots/organizations/031-trust-asymmetry", "knots/organizations/033-surveillance-culture"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Fortune abandons the leader who doubts a capable person mid-task.

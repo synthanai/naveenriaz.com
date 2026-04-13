@@ -1,5 +1,4 @@
 ---
-
 title: consensus-trap
 knot_number: 39
 domain: organizations
@@ -18,18 +17,14 @@ kural_translation: "Pursuing virtue steadily along the right path is the mark of
 kural_number: 463
 kural_bridge: "Consensus traps virtue into formless agreement. The right path requires someone to choose it, not everyone to agree on it."
 prev_knot: "organizations/038-decision-laundering"
-prev_knot_title: "Decision Laundering"
+prev_knot_title: Decision Laundering
 next_knot: "organizations/040-hippo-effect"
-next_knot_title: "Hippo Effect"
-untie_story: "A company introduced \"decision journals\" where leaders recorded their reasoning. Retrospectives became about process, not blame."
-untie_practices:
-  - "Ask each person to name their actual first choice before seeking compromise."
-  - "Decisions are made by a named decision-maker who considers all input."
-  - "When decisions are owned instead of averaged, outcomes sharpen, implementation commitment rises, ..."
-untie_question: "What would change in your organization if you untangled \"consensus trap\" this week?"
+next_knot_title: Hippo Effect
+untie_story: 'A company introduced \"decision journals\" where leaders recorded their reasoning. Retrospectives became about process, not blame.'
+untie_question: 'What would change in your organization if you untangled \"consensus trap\" this week?'
 origin_nodes: ["knots:038-decision-laundering", "sparks:the-consensus-trap", "knots/organizations/038-decision-laundering", "knots/organizations/040-hippo-effect"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Pursuing virtue steadily along the right path is the mark of lasting greatness.

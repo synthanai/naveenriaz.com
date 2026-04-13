@@ -1,5 +1,4 @@
 ---
-
 title: expertise-trap
 knot_number: 67
 domain: organizations
@@ -8,32 +7,27 @@ series_number: 7
 slug_name: expertise-trap
 date: 2026-03-17
 description: "Numbers and letters are the two eyes of the living...."
-
-
 punch_line_1: "Numbers and letters are the two eyes of the living."
-punch_line_2: "The expertise trap blinds one eye: the specialist sees deeply in one domain and nothing outside it."
+punch_line_2: |
+  The expertise trap blinds one eye: the specialist sees deeply in one domain and nothing outside it.
 felt_hook: "Expertise became a cage. Depth became a limitation."
 kural_tamil: "எவ்வ துறைவது உலகம் உலகத்தோடு\nஅவ்வ துறைவ தறிவு."
 kural_translation: "Numbers and letters are the two eyes of the living."
 kural_number: 426
-kural_bridge: "The expertise trap blinds one eye: the specialist sees deeply in one domain and nothing outside it."
+kural_bridge: |
+  The expertise trap blinds one eye: the specialist sees deeply in one domain and nothing outside it.
 prev_knot: "organizations/066-strategic-myopia"
-prev_knot_title: "Strategic Myopia"
+prev_knot_title: Strategic Myopia
 next_knot: "organizations/068-data-worship"
-next_knot_title: "Data Worship"
+next_knot_title: Data Worship
 untie_story: "A factory floor worker suggested a process change based on pattern they noticed. It saved $200K annually. Nobody had asked before."
-untie_practices:
-  - "Ask one expert: what question outside your domain should you be asking that you're not?"
-  - "Experts are periodically rotated into cross-functional roles."
-  - "When expertise includes breadth, specialists become strategists, cross-domain innovation increase..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"expertise trap\" this week?"
+- "Ask one expert: 'what question outside your domain should you be asking that you''re not?"'
+untie_question: 'What would change in your organization if you untangled \"expertise trap\" this week?'
 quote_top: "Expertise became a cage preventing broader understanding."
 quote_bottom: "See beyond your field."
 origin_nodes: ["knots:066-strategic-myopia", "knots/organizations/066-strategic-myopia", "knots/organizations/068-data-worship"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Numbers and letters are the two eyes of the living.

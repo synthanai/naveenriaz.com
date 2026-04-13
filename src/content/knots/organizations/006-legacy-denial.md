@@ -1,42 +1,35 @@
 ---
-
-title: "legacy-denial"
+title: legacy-denial
 knot_number: 6
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 6
-slug_name: "legacy-denial"
+slug_name: legacy-denial
 date: 2026-03-17
 description: "Does your official founding story match the one tenured employees tell at dinner? Or are the hard chapters edited out?"
-
-
 punch_line_1: "The early magic is gone."
 punch_line_2: "The efficient machine is running perfectly."
 felt_hook: "Does your official founding story match the one tenured employees tell at dinner? Or are the hard chapters edited out?"
-emotion_target: "Shame: the organizational instinct to hide what is imperfect"
+emotion_target: |
+  Shame: the organizational instinct to hide what is imperfect
 never_say: ["we've always been", "our journey", "lessons learned (when the lessons were buried)"]
 kural_tamil: "தன்குற்றம் நீக்கிப் பிறர்குற்றங் காண்கிற்பின்\nஎன்குற்ற மாகும் இறைக்கு?"
 kural_translation: "Remove your own faults before seeking others'; that is the mark of a true leader."
 kural_number: 436
 kural_bridge: "Before an organization can move forward, it must face the faults it buried."
 prev_knot: "organizations/005-mission-drift"
-prev_knot_title: "Mission Drift"
+prev_knot_title: Mission Drift
 next_knot: "organizations/007-split-personality"
-next_knot_title: "Split Personality"
-untie_story: "A nonprofit board member asked \"why do donors love us?\" and discovered the reason was different from what leadership assumed."
-untie_practices:
-  - "Ask a tenured employee to tell you the \"real founding story,\" the one that is not on the website."
-  - "The organization can tell its full story, including the hard chapters, without flinching."
-  - "When legacy is owned, the organization gains credibility."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"legacy denial\" this week?"
+next_knot_title: Split Personality
+untie_story: 'A nonprofit board member asked \"why do donors love us?\" and discovered the reason was different from what leadership assumed.'
+untie_question: 'What would change in your organization if you untangled \"legacy denial\" this week?'
 quote_top: "Denying past failures poisons your organization's future."
 quote_bottom: "Confront scars, unlock growth."
 origin_nodes: ["knots:005-mission-drift", "knots/organizations/005-mission-drift", "knots/organizations/007-split-personality"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-27T03:44:34.682Z"
+published_at: "2026-03-28T13:00:07.605Z"
 ---
 
 Remove your own faults first.

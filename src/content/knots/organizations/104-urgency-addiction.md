@@ -1,5 +1,4 @@
 ---
-
 title: urgency-addiction
 knot_number: 104
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 8
 slug_name: urgency-addiction
 date: 2026-03-17
 description: "Excess effort loses gains. The losses from overstretch exceed what was sought...."
-
-
 punch_line_1: "Excess effort loses gains. The losses from overstretch exceed what was sought."
 punch_line_2: "Urgency addiction overloads the system until the losses from constant urgency exceed any gains from speed."
 felt_hook: "The organization isn't productive. It's reactive. And it's addicted to the reaction."
@@ -18,20 +15,17 @@ kural_translation: "Excess effort loses gains; the losses from overstretch excee
 kural_number: 668
 kural_bridge: "Urgency addiction overloads the system until the losses from constant urgency exceed any gains from speed."
 prev_knot: "organizations/103-energy-vampires"
-prev_knot_title: "Energy Vampires"
+prev_knot_title: Energy Vampires
 next_knot: "organizations/105-resource-hoarding"
-next_knot_title: "Resource Hoarding"
-untie_story: "A nonprofit scheduled quarterly \"rest sprints\" where the team worked at 60% capacity. Long-term output increased over the year."
-untie_practices:
-  - "Label every request this week using the priority matrix."
-  - "Every incoming request is triaged: urgent-important, urgent-unimportant, not-urgent-important, no..."
-  - "When urgency is triaged, the adrenaline loop breaks, strategic work gets done, and the team disco..."
-untie_question: "What would change in your organization if you untangled \"urgency addiction\" this week?"
+next_knot_title: Resource Hoarding
+untie_story: 'A nonprofit scheduled quarterly \"rest sprints\" where the team worked at 60% capacity. Long-term output increased over the year.'
+- "Every incoming request is triaged: 'urgent-important, urgent-unimportant, not-urgent-important, no..."'
+untie_question: 'What would change in your organization if you untangled \"urgency addiction\" this week?'
 quote_top: "Overstretch exceeds what was sought, creating manufactured urgency."
 quote_bottom: "Urgency is friction."
 origin_nodes: ["knots:103-energy-vampires", "knots/organizations/103-energy-vampires", "knots/organizations/105-resource-hoarding"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Excess effort loses gains. The losses from overstretch exceed what was sought.

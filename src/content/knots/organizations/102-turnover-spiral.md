@@ -1,5 +1,4 @@
 ---
-
 title: turnover-spiral
 knot_number: 102
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 6
 slug_name: turnover-spiral
 date: 2026-03-17
 description: "Greatness comes to those who persevere and gain clarity...."
-
-
 punch_line_1: "Greatness comes to those who persevere and gain clarity."
 punch_line_2: "Turnover spirals because nobody perseveres long enough to gain clarity. Each departure adds difficulty, reducing the reason to stay."
 felt_hook: "Each departure increased the load on those remaining. Each increased load reduced the reason to stay. The spiral has its own gravity."
@@ -18,20 +15,18 @@ kural_translation: "Greatness comes to one who understands difficulty, persevere
 kural_number: 453
 kural_bridge: "Turnover spirals because nobody perseveres long enough to gain clarity. Each departure adds difficulty, reducing the reason to stay."
 prev_knot: "organizations/101-the-presenteeism-tax"
-prev_knot_title: "The Presenteeism Tax"
+prev_knot_title: The Presenteeism Tax
 next_knot: "organizations/103-energy-vampires"
-next_knot_title: "Energy Vampires"
-untie_story: "A school created \"brain breaks\" every 45 minutes. Student attention improved. Teacher satisfaction improved alongside it."
-untie_practices:
-  - "After each resignation, ask: who else is now more likely to leave because this person left?"
-  - "Every departure triggers a spiral assessment: who else is now more likely to leave?"
-  - "When departures trigger system analysis, root causes are addressed, remaining team members feel h..."
-untie_question: "What would change in your organization if you untangled \"turnover spiral\" this week?"
+next_knot_title: Energy Vampires
+untie_story: 'A school created \"brain breaks\" every 45 minutes. Student attention improved. Teacher satisfaction improved alongside it.'
+- "After each resignation, ask: 'who else is now more likely to leave because this person left?"'
+- "Every departure triggers a spiral assessment: 'who else is now more likely to leave?"'
+untie_question: 'What would change in your organization if you untangled \"turnover spiral\" this week?'
 quote_top: "Turnover spirals are self-sustaining chain reactions, ignored until too late."
 quote_bottom: "Stop the spiral, save the team."
 origin_nodes: ["knots:101-the-presenteeism-tax", "knots/organizations/101-the-presenteeism-tax", "knots/organizations/103-energy-vampires"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Greatness comes to those who persevere and gain clarity.

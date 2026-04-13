@@ -1,5 +1,4 @@
 ---
-
 title: risk-theater
 knot_number: 46
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 10
 slug_name: risk-theater
 date: 2026-03-17
 description: "The wise foresee outcomes. The unwise cannot know what approaches...."
-
-
 punch_line_1: "The wise foresee outcomes. The unwise cannot know what approaches."
 punch_line_2: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
 felt_hook: "The risk register managed the risks that were easy to articulate, not the risks that were likely to occur."
@@ -18,20 +15,16 @@ kural_translation: "The wise foresee outcomes; the unwise cannot know what appro
 kural_number: 473
 kural_bridge: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
 prev_knot: "organizations/045-meeting-to-decision-ratio"
-prev_knot_title: "Meeting To Decision Ratio"
+prev_knot_title: Meeting To Decision Ratio
 next_knot: "organizations/047-information-overload"
-next_knot_title: "Information Overload"
+next_knot_title: Information Overload
 untie_story: "A manager tracked how many decisions they made vs. delegated weekly. The ratio improved from 90/10 to 40/60 in a quarter."
-untie_practices:
-  - "Compare your risk register to the last three actual disruptions."
-  - "The risk function focuses on the unknown and unknowable, not just the categorizable."
-  - "When risk literacy replaces risk theater, the organization stops being surprised by predictable d..."
-untie_question: "What would change in your organization if you untangled \"risk theater\" this week?"
+untie_question: 'What would change in your organization if you untangled \"risk theater\" this week?'
 quote_top: "Risk registers predict comfortable storms, not real ones."
 quote_bottom: "Anticipate beyond the known."
 origin_nodes: ["knots:045-meeting-to-decision-ratio", "knots/organizations/045-meeting-to-decision-ratio", "knots/organizations/047-information-overload"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The wise foresee outcomes. The unwise cannot know what approaches.

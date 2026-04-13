@@ -1,5 +1,4 @@
 ---
-
 title: energy-vampires
 knot_number: 103
 domain: organizations
@@ -8,30 +7,28 @@ series_number: 7
 slug_name: energy-vampires
 date: 2026-03-17
 description: "Even harsh truth is acceptable. Useless pleasant words are not...."
-
-
 punch_line_1: "Even harsh truth is acceptable. Useless pleasant words are not."
-punch_line_2: "Energy vampires drain through useless pleasant interaction: meetings that produce nothing, conversations that circle without resolving."
+punch_line_2: |
+  Energy vampires drain through useless pleasant interaction: meetings that produce nothing, conversations that circle without resolving.
 felt_hook: "Each interaction extracts energy without depositing value. The participants leave lighter in spirit and heavier in resentment."
 kural_tamil: "அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்\nபுன்சொல் உரைப்பான் பொறை."
 kural_translation: "Even harsh truth from the wise is acceptable; useless pleasant words are not."
 kural_number: 189
-kural_bridge: "Energy vampires drain through useless pleasant interaction: meetings that produce nothing, conversations that circle without resolving."
+kural_bridge: |
+  Energy vampires drain through useless pleasant interaction: meetings that produce nothing, conversations that circle without resolving.
 prev_knot: "organizations/102-turnover-spiral"
-prev_knot_title: "Turnover Spiral"
+prev_knot_title: Turnover Spiral
 next_knot: "organizations/104-urgency-addiction"
-next_knot_title: "Urgency Addiction"
-untie_story: "A factory added a 15-minute walking break to every shift. Injury rates dropped. Quality scores rose. Cost: zero."
-untie_practices:
-  - "Audit your recurring meetings."
-  - "Every recurring process has a quarterly energy audit: does this process produce more value than i..."
-  - "When processes are audited for energy return, unnecessary rituals are eliminated, the team's avai..."
-untie_question: "What would change in your organization if you untangled \"energy vampires\" this week?"
+next_knot_title: Urgency Addiction
+untie_story: |
+  A factory added a 15-minute walking break to every shift. Injury rates dropped. Quality scores rose. Cost: zero.
+- "Every recurring process has a quarterly energy audit: 'does this process produce more value than i..."'
+untie_question: 'What would change in your organization if you untangled \"energy vampires\" this week?'
 quote_top: "Your processes drain everyone through design, not malice."
 quote_bottom: "Audit and cancel them."
 origin_nodes: ["knots:102-turnover-spiral", "knots/organizations/102-turnover-spiral", "knots/organizations/104-urgency-addiction"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Even harsh truth is acceptable. Useless pleasant words are not.

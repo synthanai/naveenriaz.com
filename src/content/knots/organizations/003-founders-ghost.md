@@ -1,42 +1,36 @@
 ---
-
-title: "founders-ghost"
+title: founders-ghost
 knot_number: 3
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 3
-slug_name: "founders-ghost"
+slug_name: founders-ghost
 date: 2026-03-17
 description: 'Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?'
-
-
 punch_line_1: "The founder is gone."
 punch_line_2: "The rules are still running the meeting."
 felt_hook: 'Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?'
-emotion_target: "Paralysis: the inability to lead in the present because you are serving the past"
+emotion_target: |
+  Paralysis: the inability to lead in the present because you are serving the past
 never_say: ["the founder's vision", "stay true to our roots (when used to block change)"]
 kural_tamil: "அறனறிந்து மூத்த அறிவுடையார் கேண்மை\nதிறனறிந்து தேர்ந்து கொளல்."
 kural_translation: "The leader who possesses army, people, wealth, counsel, allies, and fortress is a lion among rulers."
 kural_number: 441
 kural_bridge: "The founder built the fortress. The question is whether the walls still protect or imprison."
 prev_knot: "organizations/002-identity-mimicry"
-prev_knot_title: "Identity Mimicry"
+prev_knot_title: Identity Mimicry
 next_knot: "organizations/004-values-wallpaper"
-next_knot_title: "Values Wallpaper"
+next_knot_title: Values Wallpaper
 untie_story: "A CEO attended their own company's onboarding. They couldn't explain the values. That week, they rewrote them with frontline staff."
-untie_practices:
-  - "notice every time someone says \"the founder would have...\" or \"we've always...\" Write these down."
-  - "The organization makes decisions based on its current purpose and context, not on inherited rules..."
-  - "When the ghost is released, the current team gains permission to lead."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"founders ghost\" this week?"
-quote_top: "Founders' ghosts: governing the living from the grave."
+untie_question: 'What would change in your organization if you untangled \"founders ghost\" this week?'
+quote_top: |
+  Founders' ghosts: governing the living from the grave.
 quote_bottom: "Haunting, not loyalty."
 origin_nodes: ["knots:002-identity-mimicry", "sparks:the-founders-ghost", "knots/organizations/002-identity-mimicry", "knots/organizations/004-values-wallpaper"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-23T12:13:35.809Z"
+published_at: "2026-03-25T05:28:10.887Z"
 ---
 
 The founder built the fortress.

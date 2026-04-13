@@ -1,5 +1,4 @@
 ---
-
 title: momentum-decay
 knot_number: 52
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 4
 slug_name: momentum-decay
 date: 2026-03-17
 description: "Effort creates fortune. Lack of effort invites poverty...."
-
-
 punch_line_1: "Effort creates fortune. Lack of effort invites poverty."
 punch_line_2: "Momentum decay is the gap between initial effort and sustained effort. The initiative starts with fortune and drifts into poverty."
 felt_hook: "Nobody cancelled the initiative. That would require a decision. Instead, it decayed. Slowly. Silently. The way things do when nobody is watching."
@@ -18,20 +15,16 @@ kural_translation: "Effort creates fortune; lack of effort invites poverty."
 kural_number: 536
 kural_bridge: "Momentum decay is the gap between initial effort and sustained effort. The initiative starts with fortune and drifts into poverty."
 prev_knot: "organizations/051-resistance-misdiagnosis"
-prev_knot_title: "Resistance Misdiagnosis"
+prev_knot_title: Resistance Misdiagnosis
 next_knot: "organizations/053-initiative-overload"
-next_knot_title: "Initiative Overload"
+next_knot_title: Initiative Overload
 untie_story: "A nonprofit invited skeptics into the change design team. Their objections improved the plan by identifying real barriers."
-untie_practices:
-  - "Find one initiative that started strong and has gone quiet."
-  - "Every active initiative has a monthly executive touchpoint and a quarterly resource review."
-  - "When momentum is maintained through rhythm, initiatives reach completion instead of trailing off,..."
-untie_question: "What would change in your organization if you untangled \"momentum decay\" this week?"
+untie_question: 'What would change in your organization if you untangled \"momentum decay\" this week?'
 quote_top: "Decay is the silent killer of initiatives, requiring no decision."
 quote_bottom: "Sustained energy prevents organizational gravity."
 origin_nodes: ["knots:051-resistance-misdiagnosis", "knots/organizations/051-resistance-misdiagnosis", "knots/organizations/053-initiative-overload"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Effort creates fortune. Lack of effort invites poverty.

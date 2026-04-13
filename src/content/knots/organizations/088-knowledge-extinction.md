@@ -1,5 +1,4 @@
 ---
-
 title: knowledge-extinction
 knot_number: 88
 domain: organizations
@@ -8,33 +7,28 @@ series_number: 4
 slug_name: knowledge-extinction
 date: 2026-03-17
 description: "Even humbled, the learned stand tall...."
-
-
 punch_line_1: "Even humbled, the learned stand tall."
-punch_line_2: "Knowledge extinction lowers the organization permanently: what left can never be relearned because the teacher is gone."
+punch_line_2: |
+  Knowledge extinction lowers the organization permanently: what left can never be relearned because the teacher is gone.
 felt_hook: "All of it lived in one person's head. They gave two weeks notice. The knowledge gave zero."
 kural_tamil: "உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்\nகடையரே கல்லா தவர்."
 kural_translation: "Even humbled, the learned stand tall. The unlearned remain low."
 kural_number: 395
-kural_bridge: "Knowledge extinction lowers the organization permanently: what left can never be relearned because the teacher is gone."
+kural_bridge: |
+  Knowledge extinction lowers the organization permanently: what left can never be relearned because the teacher is gone.
 prev_knot: "organizations/087-hiring-mismatch"
-prev_knot_title: "Hiring Mismatch"
+prev_knot_title: Hiring Mismatch
 next_knot: "organizations/089-leadership-vacuum"
-next_knot_title: "Leadership Vacuum"
-untie_story: "A startup created \"T-shaped\" development plans: deep in one skill, broad across two others. Versatility increased."
-untie_practices:
-  - "Identify three people whose departure would cause the most knowledge damage."
-  - "Critical knowledge holders are identified annually."
-  - "When knowledge is distributed, the organization gains resilience, departures become manageable, a..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"knowledge extinction\" this week?"
+next_knot_title: Leadership Vacuum
+untie_story: |
+  A startup created \"T-shaped\" development plans: deep in one skill, broad across two others. Versatility increased.
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"knowledge extinction\" this week?'
 quote_top: "Resignation means knowledge extinction, irrecoverable context lost forever."
 quote_bottom: "Transfer, don't extinguish."
 origin_nodes: ["knots:087-hiring-mismatch", "knots/organizations/087-hiring-mismatch", "knots/organizations/089-leadership-vacuum"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Even humbled, the learned stand tall.

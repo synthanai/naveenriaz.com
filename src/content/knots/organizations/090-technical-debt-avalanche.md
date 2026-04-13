@@ -1,5 +1,4 @@
 ---
-
 title: technical-debt-avalanche
 knot_number: 90
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 6
 slug_name: technical-debt-avalanche
 date: 2026-03-17
 description: "Lacking resources is no shame. Lacking effort despite knowing is...."
-
-
 punch_line_1: "Lacking resources is no shame. Lacking effort despite knowing is."
 punch_line_2: "Technical debt avalanche is the shame of knowing the debt exists and choosing not to address it until it buries you."
 felt_hook: "Each layer adds fragility. Each workaround adds complexity. The system works. Until it doesn't. And when it doesn't, everything collapses at once."
@@ -18,23 +15,18 @@ kural_translation: "Lacking resources is no shame; lacking effort despite knowin
 kural_number: 538
 kural_bridge: "Technical debt avalanche is the shame of knowing the debt exists and choosing not to address it until it buries you."
 prev_knot: "organizations/089-leadership-vacuum"
-prev_knot_title: "Leadership Vacuum"
+prev_knot_title: Leadership Vacuum
 next_knot: "organizations/091-customer-capability-gap"
-next_knot_title: "Customer Capability Gap"
-untie_story: "A factory created \"skill walls\" showing what each person could do. Cross-training became visible and gamified naturally."
-untie_practices:
-  - "Find one piece of technical debt you've been planning to address."
-  - "Technical debt is tracked as a quantified liability on the organizational balance sheet."
-  - "When debt is actively managed, systems remain maintainable, avalanches are prevented, and the org..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"technical debt avalanche\" this week?"
-quote_top: "Technical debt: layers of fragility await swift collapse."
+next_knot_title: Customer Capability Gap
+untie_story: 'A factory created \"skill walls\" showing what each person could do. Cross-training became visible and gamified naturally.'
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"technical debt avalanche\" this week?'
+quote_top: |
+  Technical debt: layers of fragility await swift collapse.
 quote_bottom: "Address it immediately."
 origin_nodes: ["knots:089-leadership-vacuum", "knots/organizations/089-leadership-vacuum", "knots/organizations/091-customer-capability-gap"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Lacking resources is no shame. Lacking effort despite knowing is.

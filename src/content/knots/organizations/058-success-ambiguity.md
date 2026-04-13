@@ -1,5 +1,4 @@
 ---
-
 title: success-ambiguity
 knot_number: 58
 domain: organizations
@@ -8,30 +7,27 @@ series_number: 10
 slug_name: success-ambiguity
 date: 2026-03-17
 description: "A true fortress has resources, location, and worthy people...."
-
-
 punch_line_1: "A true fortress has resources, location, and worthy people."
-punch_line_2: "Success ambiguity means the change initiative has no fortress: no defined resources, no clear location of victory, no way to know when it's been achieved."
+punch_line_2: |
+  Success ambiguity means the change initiative has no fortress: no defined resources, no clear location of victory, no way to know when it's been achieved.
 felt_hook: "The initiative can't succeed because success was never defined. And it can't fail, because failure requires a standard that doesn't exist."
 kural_tamil: "அழிவதூஉம் ஆவதூஉம் ஆகி வழிபயக்கும்\nஊதியமும் சூழ்ந்து செயல்."
 kural_translation: "A true fortress has resources, location, and worthy people."
 kural_number: 461
-kural_bridge: "Success ambiguity means the change initiative has no fortress: no defined resources, no clear location of victory, no way to know when it's been achieved."
+kural_bridge: |
+  Success ambiguity means the change initiative has no fortress: no defined resources, no clear location of victory, no way to know when it's been achieved.
 prev_knot: "organizations/057-rhetoric-reality-gap"
-prev_knot_title: "Rhetoric Reality Gap"
+prev_knot_title: Rhetoric Reality Gap
 next_knot: "organizations/059-ungrieved-loss"
-next_knot_title: "Ungrieved Loss"
-untie_story: "A tech team measured \"behavior change\" instead of \"system adoption.\" The shift in metrics revealed the real picture."
-untie_practices:
-  - "Define success for one active initiative in one sentence."
-  - "Every initiative has a single-sentence success definition: a measurable end state that, when achi..."
-  - "When success is defined, initiatives complete instead of lingering, resources are freed for new w..."
-untie_question: "What would change in your organization if you untangled \"success ambiguity\" this week?"
+next_knot_title: Ungrieved Loss
+untie_story: 'A tech team measured \"behavior change\" instead of \"system adoption.\" The shift in metrics revealed the real picture.'
+- "Every initiative has a single-sentence success definition: 'a measurable end state that, when achi..."'
+untie_question: 'What would change in your organization if you untangled \"success ambiguity\" this week?'
 quote_top: "No defined success means your initiative cannot end."
 quote_bottom: "It will consume resources forever."
 origin_nodes: ["knots:057-rhetoric-reality-gap", "sparks:success-ambiguity", "knots/organizations/057-rhetoric-reality-gap", "knots/organizations/059-ungrieved-loss", "sparks/success-ambiguity"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 A true fortress has resources, location, and worthy people.

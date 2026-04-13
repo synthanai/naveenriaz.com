@@ -1,5 +1,4 @@
 ---
-
 title: the-presenteeism-tax
 knot_number: 101
 domain: organizations
@@ -8,30 +7,25 @@ series_number: 5
 slug_name: the-presenteeism-tax
 date: 2026-03-17
 description: "In a world that values substance, empty presence holds no place...."
-
-
 punch_line_1: "In a world that values substance, empty presence holds no place."
 punch_line_2: "Presenteeism counts bodies, not contribution. Eight people are present. Three are productive. The tax is five."
-felt_hook: "Presenteeism taxes the organization in invisible ways: unproductive hours, unnecessary meetings, performative activity, and the energy drain of being present without purpose."
+felt_hook: |
+  Presenteeism taxes the organization in invisible ways: unproductive hours, unnecessary meetings, performative activity, and the energy drain of being present without purpose.
 kural_tamil: "சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச்\nசார்தரா சார்தரு நோய்."
 kural_translation: "In a world that values substance, empty presence holds no place."
 kural_number: 359
 kural_bridge: "Presenteeism counts bodies, not contribution. Eight people are present. Three are productive. The tax is five."
 prev_knot: "organizations/100-reward-misalignment"
-prev_knot_title: "Reward Misalignment"
+prev_knot_title: Reward Misalignment
 next_knot: "organizations/102-turnover-spiral"
-next_knot_title: "Turnover Spiral"
+next_knot_title: Turnover Spiral
 untie_story: "A startup founder started sharing their own mental health journey publicly. Three team members sought help they had been avoiding."
-untie_practices:
-  - "Measure output instead of hours for one week."
-  - "Output is the primary metric."
-  - "When output is measured, presenteeism disappears, the team self-organizes around energy peaks, an..."
-untie_question: "What would change in your organization if you untangled \"the presenteeism tax\" this week?"
+untie_question: 'What would change in your organization if you untangled \"the presenteeism tax\" this week?'
 quote_top: "Empty presence holds no place; stop taxing teams for existing."
 quote_bottom: "Measure output, not hours."
 origin_nodes: ["knots:100-reward-misalignment", "sparks:the-presenteeism-tax", "knots/organizations/100-reward-misalignment", "knots/organizations/102-turnover-spiral", "sparks/the-presenteeism-tax"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 In a world that values substance, empty presence holds no place.

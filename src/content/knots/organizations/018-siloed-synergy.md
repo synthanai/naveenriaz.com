@@ -1,5 +1,4 @@
 ---
-
 title: siloed-synergy
 knot_number: 18
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 6
 slug_name: siloed-synergy
 date: 2026-03-17
 description: "A leader without bold critics will ruin himself, even without enemies...."
-
-
 punch_line_1: "A leader without bold critics will ruin himself, even without enemies."
 punch_line_2: "Silos form not from malice but from the absence of friction between groups."
 felt_hook: "Most organizations reward the word. Almost none reward the cost."
@@ -18,21 +15,18 @@ kural_translation: "A leader without bold critics will ruin himself even without
 kural_number: 527
 kural_bridge: "Silos form not from malice but from the absence of friction between groups."
 prev_knot: "organizations/017-transparency-paradox"
-prev_knot_title: "Transparency Paradox"
+prev_knot_title: Transparency Paradox
 next_knot: "organizations/019-fear-culture"
-next_knot_title: "Fear Culture"
+next_knot_title: Fear Culture
 untie_story: "A CEO ate lunch in the cafeteria every Thursday. Within six months, three organizational problems surfaced and were solved."
-untie_practices:
-  - "Name one outcome this quarter that requires delivery from two separate teams."
-  - "Two teams can produce a joint outcome without being assigned to each other."
-  - "When structure enables connection, knowledge flows laterally, duplication drops, and the organiza..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"siloed synergy\" this week?"
+untie_question: 'What would change in your organization if you untangled \"siloed synergy\" this week?'
 quote_top: "Leaders without bold critics face ruin, not from enemies."
 quote_bottom: "Isolation kills innovation."
 origin_nodes: ["knots:017-transparency-paradox", "knots/organizations/017-transparency-paradox", "knots/organizations/019-fear-culture"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-04-09T06:12:27.715Z"
+published_at: "2026-04-09T06:12:34.687Z"
 ---
 
 A leader without bold critics will ruin himself, even without enemies.

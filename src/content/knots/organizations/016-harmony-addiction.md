@@ -1,5 +1,4 @@
 ---
-
 title: harmony-addiction
 knot_number: 16
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 4
 slug_name: harmony-addiction
 date: 2026-03-17
 description: "To discern the true nature of anything, whatever it may seem, is wisdom...."
-
-
 punch_line_1: "To discern the true nature of anything, whatever it may seem, is wisdom."
 punch_line_2: "Harmony that suppresses conflict isn't peace. Wisdom sees through the pleasant surface."
 felt_hook: "It's actually suppression. And if you've been in enough of those meetings, you know exactly which it is by the speed of the consensus."
@@ -18,21 +15,19 @@ kural_translation: "To discern the true nature of anything, whatever it may seem
 kural_number: 185
 kural_bridge: "Harmony that suppresses conflict isn't peace. Wisdom sees through the pleasant surface."
 prev_knot: "organizations/015-gravitational-void"
-prev_knot_title: "Gravitational Void"
+prev_knot_title: Gravitational Void
 next_knot: "organizations/017-transparency-paradox"
-next_knot_title: "Transparency Paradox"
-untie_story: "A hospital unit created a \"culture wall\" where anyone could post observations. The wall became the real dashboard."
-untie_practices:
-  - "explicitly assign one person to argue against the consensus."
-  - "The team can hold a disagreement for an entire meeting without resolving it prematurely."
-  - "When productive conflict becomes normal, decisions get sharper, implementation resistance drops, ..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"harmony addiction\" this week?"
-quote_top: "Harmony addiction: teams suppress conflict, lose productive disagreement capacity."
+next_knot_title: Transparency Paradox
+untie_story: 'A hospital unit created a \"culture wall\" where anyone could post observations. The wall became the real dashboard.'
+untie_question: 'What would change in your organization if you untangled \"harmony addiction\" this week?'
+quote_top: |
+  Harmony addiction: teams suppress conflict, lose productive disagreement capacity.
 quote_bottom: "Comfort becomes the priority."
 origin_nodes: ["knots:015-gravitational-void", "knots/organizations/015-gravitational-void", "knots/organizations/017-transparency-paradox"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-04-05T09:31:29.855Z"
+published_at: "2026-04-07T10:27:34.210Z"
 ---
 
 To discern the true nature of anything, whatever it may seem, is wisdom.

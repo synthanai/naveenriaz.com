@@ -1,42 +1,35 @@
 ---
-
-title: "values-wallpaper"
+title: values-wallpaper
 knot_number: 4
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 4
-slug_name: "values-wallpaper"
+slug_name: values-wallpaper
 date: 2026-03-17
 description: "Can five people across different levels give the same example of a lived value? Or does the violation story come faster than the lived story?"
-
-
 punch_line_1: "The values look great on the wall."
 punch_line_2: "Nobody is looking at the wall."
 felt_hook: "Can five people across different levels give the same example of a lived value? Or does the violation story come faster than the lived story?"
-emotion_target: "Disgust: the instinctive recoil at organized hypocrisy"
+emotion_target: |
+  Disgust: the instinctive recoil at organized hypocrisy
 never_say: ["values alignment", "walk the talk", "culture workshop"]
 kural_tamil: "மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்\nஆகுல நீர பிற."
 kural_translation: "Spotless mind is all of virtue; the rest is empty noise."
 kural_number: 34
 kural_bridge: "Framed values without lived values are noise, not virtue."
 prev_knot: "organizations/003-founders-ghost"
-prev_knot_title: "Founders Ghost"
+prev_knot_title: Founders Ghost
 next_knot: "organizations/005-mission-drift"
-next_knot_title: "Mission Drift"
+next_knot_title: Mission Drift
 untie_story: "An engineering team removed the values poster and replaced it with stories of values lived. Engagement scores jumped 23%."
-untie_practices:
-  - "Pick one value from your wall."
-  - "The values on the wall match the behavior in the hallway."
-  - "When values are discovered (not announced), they become decision filters instead of decorations."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"values wallpaper\" this week?"
+untie_question: 'What would change in your organization if you untangled \"values wallpaper\" this week?'
 quote_top: "Virtue lives in the mind, not on the wall"
-quote_bottom: "The rest is empty noise"
+quote_bottom: The rest is empty noise
 origin_nodes: ["knots:003-founders-ghost", "sparks:values-wallpaper", "knots/organizations/003-founders-ghost", "knots/organizations/005-mission-drift", "sparks/values-wallpaper"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-23T12:13:48.050Z"
+published_at: "2026-03-26T11:00:37.798Z"
 ---
 
 Spotless mind is all of virtue. The rest is empty noise.

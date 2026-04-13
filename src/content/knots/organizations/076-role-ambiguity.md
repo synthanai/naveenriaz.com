@@ -1,5 +1,4 @@
 ---
-
 title: role-ambiguity
 knot_number: 76
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 4
 slug_name: role-ambiguity
 date: 2026-03-17
 description: "When you see what is right, act on it...."
-
-
 punch_line_1: "When you see what is right, act on it."
 punch_line_2: "Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act."
 felt_hook: "When a problem appears, three people investigate separately. Or nobody does, because each assumes someone else will handle it."
@@ -18,20 +15,17 @@ kural_translation: "When you see what is right, act on it. Don't look for anothe
 kural_number: 520
 kural_bridge: "Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act."
 prev_knot: "organizations/075-process-sediment"
-prev_knot_title: "Process Sediment"
+prev_knot_title: Process Sediment
 next_knot: "organizations/077-middle-management-squeeze"
-next_knot_title: "Middle Management Squeeze"
+next_knot_title: Middle Management Squeeze
 untie_story: "A hospital created cross-functional pods for patient care. Outcomes improved because the whole team saw the whole patient."
-untie_practices:
-  - "Write down a recent team decision."
-  - "Every role has three documented outputs: what it produces, what it decides, and what it escalates."
-  - "When roles are clear, duplication disappears, accountability sharpens, and people stop defending ..."
-untie_question: "What would change in your organization if you untangled \"role ambiguity\" this week?"
+- "Every role has three documented outputs: 'what it produces, what it decides, and what it escalates."'
+untie_question: 'What would change in your organization if you untangled \"role ambiguity\" this week?'
 quote_top: "Role ambiguity cripples teams, transforming flexibility into chaos."
 quote_bottom: "Clarity unlocks productivity."
 origin_nodes: ["knots:075-process-sediment", "knots/organizations/075-process-sediment", "knots/organizations/077-middle-management-squeeze"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 When you see what is right, act on it.

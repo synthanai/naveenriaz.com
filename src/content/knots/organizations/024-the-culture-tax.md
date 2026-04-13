@@ -1,5 +1,4 @@
 ---
-
 title: the-culture-tax
 knot_number: 24
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 12
 slug_name: the-culture-tax
 date: 2026-03-17
 description: "Fortune abandons the leader who distrusts a capable worker mid-task...."
-
-
 punch_line_1: "Fortune abandons the leader who distrusts a capable worker mid-task."
 punch_line_2: "The culture tax is the fortune lost to workarounds, redundancies, and political navigation."
 felt_hook: "The political pre-meeting before the actual meeting so nobody is surprised."
@@ -18,21 +15,16 @@ kural_translation: "Fortune abandons the leader who distrusts a capable worker m
 kural_number: 552
 kural_bridge: "The culture tax is the fortune lost to workarounds, redundancies, and political navigation."
 prev_knot: "organizations/023-belonging-fracture"
-prev_knot_title: "Belonging Fracture"
+prev_knot_title: Belonging Fracture
 next_knot: "organizations/025-broken-promises-loop"
-next_knot_title: "Broken Promises Loop"
-untie_story: "A nonprofit held monthly \"campfire\" sessions where anyone could share stories. The stories became the culture."
-untie_practices:
-  - "Pick one project from last quarter."
-  - "The team spends less than 10% of its collective time on workarounds, politics, and redundant comm..."
-  - "When the culture tax drops, velocity increases without hiring, communication becomes direct, and ..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"the culture tax\" this week?"
+next_knot_title: Broken Promises Loop
+untie_story: 'A nonprofit held monthly \"campfire\" sessions where anyone could share stories. The stories became the culture.'
+untie_question: 'What would change in your organization if you untangled \"the culture tax\" this week?'
 quote_top: "Culture tax silently bleeds value, exceeding strategy costs."
 quote_bottom: "Invisible, yet devastating."
 origin_nodes: ["knots:023-belonging-fracture", "sparks:the-culture-tax", "knots/organizations/023-belonging-fracture", "knots/organizations/025-broken-promises-loop", "sparks/the-culture-tax"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Fortune abandons the leader who distrusts a capable worker mid-task.

@@ -1,42 +1,38 @@
 ---
-
-title: "the-hollow-core"
+title: the-hollow-core
 knot_number: 12
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 12
-slug_name: "the-hollow-core"
+slug_name: the-hollow-core
 date: 2026-03-17
-description: "At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow."
-
-
+description: |
+  At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow.
 punch_line_1: "Everything is growing."
 punch_line_2: "Nothing is alive."
-felt_hook: "At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow."
-emotion_target: "Grief: the recognition that something essential was lost and nobody mourned it"
+felt_hook: |
+  At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow.
+emotion_target: |
+  Grief: the recognition that something essential was lost and nobody mourned it
 never_say: ["purpose-driven", "core values alignment", "strategic clarity"]
 kural_tamil: "உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது\nதள்ளினுந் தள்ளாமை நீர்த்து."
 kural_translation: "In all you think, think of rising; even if you fail, the aspiration itself ennobles."
 kural_number: 596
 kural_bridge: "A hollow core is what remains when the aspiration to rise has been replaced by the aspiration to grow."
 prev_knot: "organizations/011-identity-fragility"
-prev_knot_title: "Identity Fragility"
+prev_knot_title: Identity Fragility
 next_knot: "organizations/013-performative-safety"
-next_knot_title: "Performative Safety"
+next_knot_title: Performative Safety
 untie_story: "A church congregation realized their identity was their practice, not their building. Moving locations proved it clearly."
-untie_practices:
-  - "At your next board or leadership meeting, add one agenda item: \"What did we deepen this quarter?\"..."
-  - "Growth and depth increase together."
-  - "When depth is measured alongside growth, the organization stops feeling like a machine and starts..."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"the hollow core\" this week?"
+- "At your next board or leadership meeting, add one agenda item: '\"What did we deepen this quarter?\"..."'
+untie_question: 'What would change in your organization if you untangled \"the hollow core\" this week?'
 quote_top: "Valluvar's standard isn't growth; it's elevation, not expansion."
 quote_bottom: "Meaning shrinks, numbers grow."
 origin_nodes: ["knots:011-identity-fragility", "knots/organizations/011-identity-fragility", "knots/organizations/013-performative-safety"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-30T05:09:00.687Z"
+published_at: "2026-04-03T12:40:48.218Z"
 ---
 
 In all you think, think of rising.

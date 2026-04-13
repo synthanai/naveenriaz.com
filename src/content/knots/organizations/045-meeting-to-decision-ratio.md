@@ -1,5 +1,4 @@
 ---
-
 title: meeting-to-decision-ratio
 knot_number: 45
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 9
 slug_name: meeting-to-decision-ratio
 date: 2026-03-17
 description: "An enterprise that destroys its capital while seeking gain is the death of initi..."
-
-
 punch_line_1: "An enterprise that destroys its capital while seeking gain is the death of initiative."
 punch_line_2: "Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment."
 felt_hook: "You left every meeting with more questions, fewer answers, and a follow-up on the calendar."
@@ -18,20 +15,17 @@ kural_translation: "An enterprise that destroys its capital while seeking gain i
 kural_number: 666
 kural_bridge: "Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment."
 prev_knot: "organizations/044-decision-fragmentation"
-prev_knot_title: "Decision Fragmentation"
+prev_knot_title: Decision Fragmentation
 next_knot: "organizations/046-risk-theater"
-next_knot_title: "Risk Theater"
-untie_story: "A school board created a \"student impact test\" for every policy decision. Three pending policies were reversed."
-untie_practices:
-  - "Track one metric this week: did each meeting produce a decision?"
-  - "Every meeting has a stated decision to be made."
-  - "When meetings serve decisions, calendars open, deep work returns, and the team rediscovers that m..."
-untie_question: "What would change in your organization if you untangled \"meeting to decision ratio\" this week?"
+next_knot_title: Risk Theater
+untie_story: 'A school board created a \"student impact test\" for every policy decision. Three pending policies were reversed.'
+- "Track one metric this week: 'did each meeting produce a decision?"'
+untie_question: 'What would change in your organization if you untangled \"meeting to decision ratio\" this week?'
 quote_top: "Activity consuming more than it produces is organizational death."
 quote_bottom: "Exhaustion isn't output."
 origin_nodes: ["knots:044-decision-fragmentation", "knots/organizations/044-decision-fragmentation", "knots/organizations/046-risk-theater"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 An enterprise that destroys its capital while seeking gain is the death of initiative.

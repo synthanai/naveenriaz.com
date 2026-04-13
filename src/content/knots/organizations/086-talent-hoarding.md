@@ -1,5 +1,4 @@
 ---
-
 title: talent-hoarding
 knot_number: 86
 domain: organizations
@@ -8,33 +7,27 @@ series_number: 2
 slug_name: talent-hoarding
 date: 2026-03-17
 description: "People who fall from position are like hair fallen from the head...."
-
-
 punch_line_1: "People who fall from position are like hair fallen from the head."
 punch_line_2: "Hoarded talent is still present but no longer growing. The person is there; their potential has been severed."
 felt_hook: "The talent isn't hoarded maliciously. It's hoarded rationally. The manager's incentive is team output. Moving the best person out reduces output. So the best person stays."
 kural_tamil: "வாரி பெருக்கி வளம்படுத்து உற்றவை\nஆராய்வான் செய்க வினை."
-kural_translation: "People who fall from their position are like hair fallen from the head: still present, but no longer part of the whole."
+kural_translation: |
+  People who fall from their position are like hair fallen from the head: still present, but no longer part of the whole.
 kural_number: 512
 kural_bridge: "Hoarded talent is still present but no longer growing. The person is there; their potential has been severed."
 prev_knot: "organizations/085-skill-obsolescence"
-prev_knot_title: "Skill Obsolescence"
+prev_knot_title: Skill Obsolescence
 next_knot: "organizations/087-hiring-mismatch"
-next_knot_title: "Hiring Mismatch"
+next_knot_title: Hiring Mismatch
 untie_story: "A company replaced annual training with monthly micro-challenges. Completion went from 40% to 92%. Skills actually transferred."
-untie_practices:
-  - "Ask every manager: is there someone you'd be afraid to lose?"
-  - "Talent mobility is measured."
-  - "When mobility is rewarded, talent flows to highest-value roles, manager quality improves, and the..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"talent hoarding\" this week?"
+- "Ask every manager: 'is there someone you''d be afraid to lose?"'
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"talent hoarding\" this week?'
 quote_top: "Talent hoarding loses growth; eventually, the talent leaves entirely."
 quote_bottom: "Output, potential gone."
 origin_nodes: ["knots:085-skill-obsolescence", "sparks:talent-hoarding", "knots/organizations/085-skill-obsolescence", "knots/organizations/087-hiring-mismatch", "sparks/talent-hoarding"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 People who fall from position are like hair fallen from the head.

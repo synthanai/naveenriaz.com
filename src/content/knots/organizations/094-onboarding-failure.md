@@ -1,5 +1,4 @@
 ---
-
 title: onboarding-failure
 knot_number: 94
 domain: organizations
@@ -12,27 +11,22 @@ quote_top: "The investment in recruiting is visible.\nThe investment in integrat
 quote_bottom: "Onboarding failure acquires talent\nwithout planning for their integration."
 punch_line_1: "Wealth without planning vanishes like sight without eyes."
 punch_line_2: "Onboarding failure acquires talent without planning for their integration. The hire was expensive. The runway was absent."
-felt_hook: "The investment in recruiting is visible: sourcing fees, interview hours, negotiation cycles. The investment in integration is invisible: the new hire navigating an undocumented culture, finding information through trial and error, building relationships without a map."
+felt_hook: |
+  The investment in recruiting is visible: sourcing fees, interview hours, negotiation cycles. The investment in integration is invisible: the new hire navigating an undocumented culture, finding information through trial and error, building relationships without a map.
 kural_tamil: "உவப்பத் தலைக்கூடி உள்ளப் பிரிதல்\nஅனைத்தே புலவர் தொழில்."
 kural_translation: "Wealth acquired without planning vanishes like sight without eyes."
 kural_number: 394
 kural_bridge: "Onboarding failure acquires talent without planning for their integration. The hire was expensive. The runway was absent."
 prev_knot: "organizations/093-learning-doing-imbalance"
-prev_knot_title: "Learning Doing Imbalance"
+prev_knot_title: Learning Doing Imbalance
 next_knot: "organizations/095-diversity-without-inclusion"
-next_knot_title: "Diversity Without Inclusion"
+next_knot_title: Diversity Without Inclusion
 untie_story: "A sales team switched from product training to customer-empathy training. Win rates improved more from understanding buyers than features."
-untie_practices:
-  - "Plan the next hire's first 90 days before day one."
-  - "Every hire has a 90-day integration plan with weekly milestones."
-  - "When onboarding is planned, time-to-productivity drops, early attrition decreases, and the organi..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"onboarding failure\" this week?"
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"onboarding failure\" this week?'
 origin_nodes: ["knots:093-learning-doing-imbalance", "knots/organizations/093-learning-doing-imbalance", "knots/organizations/095-diversity-without-inclusion"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Wealth without planning vanishes like sight without eyes.

@@ -1,5 +1,4 @@
 ---
-
 title: handoff-failure
 knot_number: 82
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 10
 slug_name: handoff-failure
 date: 2026-03-17
 description: "Poverty among the wise hurts less than wealth among the ignorant...."
-
-
 punch_line_1: "Poverty among the wise hurts less than wealth among the ignorant."
 punch_line_2: "Handoff failure transfers the baton from a capable team to the gap between teams, where expertise goes to zero."
 felt_hook: "Each team is competent. The space between them is competence-free."
@@ -18,20 +15,17 @@ kural_translation: "Poverty in the hands of the wise hurts less than wealth in t
 kural_number: 561
 kural_bridge: "Handoff failure transfers the baton from a capable team to the gap between teams, where expertise goes to zero."
 prev_knot: "organizations/081-over-centralization"
-prev_knot_title: "Over Centralization"
+prev_knot_title: Over Centralization
 next_knot: "organizations/083-scaling-pains"
-next_knot_title: "Scaling Pains"
+next_knot_title: Scaling Pains
 untie_story: "A retail chain gave store managers authority to make local decisions up to $5K. Response time to customer issues dropped 80%."
-untie_practices:
-  - "Map one customer journey."
-  - "Every handoff has a documented protocol: what information transfers, in what format, and who conf..."
-  - "When handoffs are designed, customers experience seamlessness, context compounds across teams, an..."
-untie_question: "What would change in your organization if you untangled \"handoff failure\" this week?"
+- "Every handoff has a documented protocol: 'what information transfers, in what format, and who conf..."'
+untie_question: 'What would change in your organization if you untangled \"handoff failure\" this week?'
 quote_top: "Customers experience the seams, not the teams themselves."
 quote_bottom: "Fix the baton drops."
 origin_nodes: ["knots:081-over-centralization", "knots/organizations/081-over-centralization", "knots/organizations/083-scaling-pains"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Poverty among the wise hurts less than wealth among the ignorant.

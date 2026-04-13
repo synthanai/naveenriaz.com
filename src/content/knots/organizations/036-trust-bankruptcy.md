@@ -1,5 +1,4 @@
 ---
-
 title: trust-bankruptcy
 knot_number: 36
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 12
 slug_name: trust-bankruptcy
 date: 2026-03-17
 description: "Even heaven and earth cannot repay an unsolicited act of kindness...."
-
-
 punch_line_1: "Even heaven and earth cannot repay an unsolicited act of kindness."
 punch_line_2: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
 felt_hook: "This is trust bankruptcy. The account reads zero."
@@ -18,22 +15,16 @@ kural_translation: "Even heaven and earth cannot repay an unsolicited act of kin
 kural_number: 112
 kural_bridge: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
 prev_knot: "organizations/035-the-scapegoat-pattern"
-prev_knot_title: "The Scapegoat Pattern"
+prev_knot_title: The Scapegoat Pattern
 next_knot: "organizations/037-analysis-paralysis"
-next_knot_title: "Analysis Paralysis"
+next_knot_title: Analysis Paralysis
 untie_story: "A board chair admitted they didn't understand the technology. The CTO's trust in leadership increased immediately and permanently."
-untie_practices:
-  - "Make one deposit before your next withdrawal."
-  - "Trust deposits exceed trust withdrawals consistently."
-  - "When trust is treated as an asset (not an abstraction), leadership becomes more careful with with..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"trust bankruptcy\" this week?"
+untie_question: 'What would change in your organization if you untangled \"trust bankruptcy\" this week?'
 quote_top: "Trust can go bankrupt, draining all goodwill."
 quote_bottom: "Zero balance remains."
 origin_nodes: ["knots:035-the-scapegoat-pattern", "knots/organizations/035-the-scapegoat-pattern", "knots/organizations/037-analysis-paralysis"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Even heaven and earth cannot repay an unsolicited act of kindness.

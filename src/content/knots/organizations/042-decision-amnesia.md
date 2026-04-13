@@ -1,5 +1,4 @@
 ---
-
 title: decision-amnesia
 knot_number: 42
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 6
 slug_name: decision-amnesia
 date: 2026-03-17
 description: "Learn thoroughly what should be learned. Having learned, live by it...."
-
-
 punch_line_1: "Learn thoroughly what should be learned. Having learned, live by it."
 punch_line_2: "Decision amnesia is the organizational failure to learn from its own decisions, forgetting the rationale, the context, and the lesson."
 felt_hook: "Now you're about to make the same decision again. Without knowing you've already made it."
@@ -18,20 +15,18 @@ kural_translation: "Learn thoroughly what should be learned; having learned, liv
 kural_number: 391
 kural_bridge: "Decision amnesia is the organizational failure to learn from its own decisions, forgetting the rationale, the context, and the lesson."
 prev_knot: "organizations/041-irreversibility-blindness"
-prev_knot_title: "Irreversibility Blindness"
+prev_knot_title: Irreversibility Blindness
 next_knot: "organizations/043-dissent-suppression"
-next_knot_title: "Dissent Suppression"
-untie_story: "A team assigned a \"devil's advocate\" each meeting. The dissenter role was rotated. Groupthink evaporated quickly."
-untie_practices:
-  - "For your next significant decision, write down: what you decided, why, and what would need to cha..."
-  - "Every significant decision is recorded with three elements: what was decided, why, and what condi..."
-  - "When decisions have memory, the organization stops repeating mistakes, new leaders inherit wisdom..."
-untie_question: "What would change in your organization if you untangled \"decision amnesia\" this week?"
+next_knot_title: Dissent Suppression
+untie_story: 'A team assigned a \"devil''s advocate\" each meeting. The dissenter role was rotated. Groupthink evaporated quickly.'
+- "For your next significant decision, write down: 'what you decided, why, and what would need to cha..."'
+- "Every significant decision is recorded with three elements: 'what was decided, why, and what condi..."'
+untie_question: 'What would change in your organization if you untangled \"decision amnesia\" this week?'
 quote_top: "Knowing without doing is incomplete. Live what you learn."
 quote_bottom: "Apply your knowledge."
 origin_nodes: ["knots:041-irreversibility-blindness", "knots/organizations/041-irreversibility-blindness", "knots/organizations/043-dissent-suppression"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Learn thoroughly what should be learned. Having learned, live by it.

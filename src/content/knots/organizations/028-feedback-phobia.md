@@ -1,5 +1,4 @@
 ---
-
 title: feedback-phobia
 knot_number: 28
 domain: organizations
@@ -8,32 +7,26 @@ series_number: 4
 slug_name: feedback-phobia
 date: 2026-03-17
 description: "One who speaks useless words that annoy many will be despised by all...."
-
-
 punch_line_1: "One who speaks useless words that annoy many will be despised by all."
-punch_line_2: "Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system."
+punch_line_2: |
+  Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system.
 felt_hook: "Do you remember? Your team does."
 kural_tamil: "பயனில்சொல் பாராட்டு வானை மகன்எனல்\nமக்கட் பதடி யெனல்."
 kural_translation: "One who speaks useless words that annoy many will be despised by all."
 kural_number: 196
-kural_bridge: "Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system."
+kural_bridge: |
+  Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system.
 prev_knot: "organizations/027-delegation-without-trust"
-prev_knot_title: "Delegation Without Trust"
+prev_knot_title: Delegation Without Trust
 next_knot: "organizations/029-competence-doubt"
-next_knot_title: "Competence Doubt"
-untie_story: "A team created a \"promises made, promises kept\" tracker. Visible accountability built invisible trust over time."
-untie_practices:
-  - "The next time someone tells you something uncomfortable, thank them publicly."
-  - "The person who delivers uncomfortable truth is publicly thanked, not for being brave, but for bei..."
-  - "When feedback flows freely, problems surface early, post-mortems become preventive instead of for..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"feedback phobia\" this week?"
-quote_top: "Truth-tellers disturb the powerful and are despised in organizations"
-quote_bottom: "Honesty comes with a cost"
+next_knot_title: Competence Doubt
+untie_story: 'A team created a \"promises made, promises kept\" tracker. Visible accountability built invisible trust over time.'
+untie_question: 'What would change in your organization if you untangled \"feedback phobia\" this week?'
+quote_top: Truth-tellers disturb the powerful and are despised in organizations
+quote_bottom: Honesty comes with a cost
 origin_nodes: ["knots:027-delegation-without-trust", "knots/organizations/027-delegation-without-trust", "knots/organizations/029-competence-doubt"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who speaks useless words that annoy many will be despised by all.

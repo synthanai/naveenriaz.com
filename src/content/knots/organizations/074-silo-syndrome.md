@@ -1,5 +1,4 @@
 ---
-
 title: silo-syndrome
 knot_number: 74
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 2
 slug_name: silo-syndrome
 date: 2026-03-17
 description: "The loveless keep everything for themselves. The loving give even their bones...."
-
-
 punch_line_1: "The loveless keep everything for themselves. The loving give even their bones."
 punch_line_2: "Silos keep everything for their own department. Cross-functional love would mean sharing budgets, talent, and credit."
 felt_hook: "Each defends its allocation. Each optimizes its metrics. Each celebrates its victories. None of them share credit, resources, or even information without a formal request."
@@ -18,20 +15,17 @@ kural_translation: "The loveless keep everything for themselves; the loving give
 kural_number: 528
 kural_bridge: "Silos keep everything for their own department. Cross-functional love would mean sharing budgets, talent, and credit."
 prev_knot: "organizations/073-structural-inertia"
-prev_knot_title: "Structural Inertia"
+prev_knot_title: Structural Inertia
 next_knot: "organizations/075-process-sediment"
-next_knot_title: "Process Sediment"
+next_knot_title: Process Sediment
 untie_story: "A team reorganized around customer journeys instead of functions. Handoff errors dropped by 70% in the first quarter."
-untie_practices:
-  - "Walk to another department and ask: what do you need from us that you're not getting?"
-  - "At least one KPI per team measures cross-functional outcome."
-  - "When collaboration is rewarded, silos dissolve naturally, information flows across boundaries, an..."
-untie_question: "What would change in your organization if you untangled \"silo syndrome\" this week?"
-quote_top: "Organizational silos prevent the cross-pollination of perspectives"
-quote_bottom: "Innovation demands contamination"
+- "Walk to another department and ask: 'what do you need from us that you''re not getting?"'
+untie_question: 'What would change in your organization if you untangled \"silo syndrome\" this week?'
+quote_top: Organizational silos prevent the cross-pollination of perspectives
+quote_bottom: Innovation demands contamination
 origin_nodes: ["knots:073-structural-inertia", "knots/organizations/073-structural-inertia", "knots/organizations/075-process-sediment"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The loveless keep everything for themselves. The loving give even their bones.

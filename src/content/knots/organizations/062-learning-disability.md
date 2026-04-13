@@ -1,5 +1,4 @@
 ---
-
 title: learning-disability
 knot_number: 62
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 2
 slug_name: learning-disability
 date: 2026-03-17
 description: "The learned stand tall. The unlearned remain low...."
-
-
 punch_line_1: "The learned stand tall. The unlearned remain low."
 punch_line_2: "Organizations with learning disabilities repeat their mistakes not from ignorance but from an inability to convert experience into knowledge."
 felt_hook: "They were captured and buried. Nobody read them. The learning never became practice."
@@ -18,22 +15,17 @@ kural_translation: "Even in humble circumstance, the learned stand tall; the unl
 kural_number: 395
 kural_bridge: "Organizations with learning disabilities repeat their mistakes not from ignorance but from an inability to convert experience into knowledge."
 prev_knot: "organizations/061-collective-blindness"
-prev_knot_title: "Collective Blindness"
+prev_knot_title: Collective Blindness
 next_knot: "organizations/063-groupthink"
-next_knot_title: "Groupthink"
-untie_story: "A company created a \"lessons learned\" wiki editable by anyone. In six months it became the most-visited internal page."
-untie_practices:
-  - "After your next post-mortem, assign one recommendation to one person with a deadline."
-  - "Every post-mortem assigns one recommendation to one person with a deadline and a follow-up."
-  - "When lessons are connected to decisions, the same mistake stops recurring, institutional knowledg..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"learning disability\" this week?"
-quote_top: "Learning disability: organizations absorb information, cannot change behavior"
+next_knot_title: Groupthink
+untie_story: 'A company created a \"lessons learned\" wiki editable by anyone. In six months it became the most-visited internal page.'
+untie_question: 'What would change in your organization if you untangled \"learning disability\" this week?'
+quote_top: |
+  Learning disability: organizations absorb information, cannot change behavior
 quote_bottom: "Mistakes erode, deepen grooves"
 origin_nodes: ["knots:061-collective-blindness", "knots/organizations/061-collective-blindness", "knots/organizations/063-groupthink"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The learned stand tall. The unlearned remain low.

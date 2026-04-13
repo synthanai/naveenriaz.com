@@ -1,5 +1,4 @@
 ---
-
 title: reward-misalignment
 knot_number: 100
 domain: organizations
@@ -8,30 +7,26 @@ series_number: 4
 slug_name: reward-misalignment
 date: 2026-03-17
 description: "When you perceive what is right, do it...."
-
-
 punch_line_1: "When you perceive what is right, do it."
-punch_line_2: "Reward misalignment rewards what isn't right: crisis heroes over preventers, individual stars over team builders."
+punch_line_2: |
+  Reward misalignment rewards what isn't right: crisis heroes over preventers, individual stars over team builders.
 felt_hook: "Your incentive structure teaches the organization what to replicate."
 kural_tamil: "நாடோறும் நாடுக மன்னன் வினைசெய்வான்\nகோடாமை கோடா துலகு."
 kural_translation: "When you clearly perceive what is right, do it. Don't look for another reason."
 kural_number: 520
-kural_bridge: "Reward misalignment rewards what isn't right: crisis heroes over preventers, individual stars over team builders."
+kural_bridge: |
+  Reward misalignment rewards what isn't right: crisis heroes over preventers, individual stars over team builders.
 prev_knot: "organizations/099-autonomy-starvation"
-prev_knot_title: "Autonomy Starvation"
+prev_knot_title: Autonomy Starvation
 next_knot: "organizations/101-the-presenteeism-tax"
-next_knot_title: "The Presenteeism Tax"
-untie_story: "A hospital unit created a \"wellness room\" for staff. Five-minute breaks in a calm space reduced errors measurably."
-untie_practices:
-  - "Reward one preventer publicly this week."
-  - "Prevention is explicitly rewarded alongside crisis response."
-  - "When prevention is rewarded, crises decrease, planning improves, and the organization stops manuf..."
-untie_question: "What would change in your organization if you untangled \"reward misalignment\" this week?"
+next_knot_title: The Presenteeism Tax
+untie_story: 'A hospital unit created a \"wellness room\" for staff. Five-minute breaks in a calm space reduced errors measurably.'
+untie_question: 'What would change in your organization if you untangled \"reward misalignment\" this week?'
 quote_top: "Your system rewards the wrong behavior, teaches what to replicate."
 quote_bottom: "Incentives condition the organism."
 origin_nodes: ["knots:099-autonomy-starvation", "knots/organizations/099-autonomy-starvation", "knots/organizations/101-the-presenteeism-tax"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 When you perceive what is right, do it.

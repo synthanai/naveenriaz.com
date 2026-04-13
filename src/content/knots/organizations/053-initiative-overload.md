@@ -1,5 +1,4 @@
 ---
-
 title: initiative-overload
 knot_number: 53
 domain: organizations
@@ -11,25 +10,23 @@ description: "Consider resources, tools, timing, task, and place before acting..
 quote_top: "The organization looks active.\nPeople are busy."
 quote_bottom: "Nothing is\nactually changing."
 punch_line_1: "Consider resources, tools, timing, task, and place before acting."
-punch_line_2: "Initiative overload ignores all five: resources are split, tools are redundant, timing conflicts, tasks compete, and nothing has a proper place."
+punch_line_2: |
+  Initiative overload ignores all five: resources are split, tools are redundant, timing conflicts, tasks compete, and nothing has a proper place.
 felt_hook: "Together, they're impossible. Because the people executing them, your team, are the same finite humans being asked to deliver seven transformations with the bandwidth for one."
 kural_tamil: "பொருள்கருவி காலம் வினையிடனொடு ஐந்தும்\nஇருள்தீர எண்ணிச் செயல்."
 kural_translation: "Consider resources, tools, timing, task, and place, all five, before acting."
 kural_number: 675
-kural_bridge: "Initiative overload ignores all five: resources are split, tools are redundant, timing conflicts, tasks compete, and nothing has a proper place."
+kural_bridge: |
+  Initiative overload ignores all five: resources are split, tools are redundant, timing conflicts, tasks compete, and nothing has a proper place.
 prev_knot: "organizations/052-momentum-decay"
-prev_knot_title: "Momentum Decay"
+prev_knot_title: Momentum Decay
 next_knot: "organizations/054-pilot-purgatory"
-next_knot_title: "Pilot Purgatory"
+next_knot_title: Pilot Purgatory
 untie_story: "A factory ran old and new processes in parallel for a month. The comparison data convinced the last holdouts."
-untie_practices:
-  - "Count the active change initiatives on your team right now."
-  - "Before any new initiative is approved, the aggregate change load on affected teams is assessed."
-  - "When initiatives are sequenced by capacity, each one receives full attention, completion rates ri..."
-untie_question: "What would change in your organization if you untangled \"initiative overload\" this week?"
+untie_question: 'What would change in your organization if you untangled \"initiative overload\" this week?'
 origin_nodes: ["knots:052-momentum-decay", "knots/organizations/052-momentum-decay", "knots/organizations/054-pilot-purgatory"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Consider resources, tools, timing, task, and place before acting.

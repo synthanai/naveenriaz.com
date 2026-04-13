@@ -1,5 +1,4 @@
 ---
-
 title: leadership-vacuum
 knot_number: 89
 domain: organizations
@@ -8,33 +7,27 @@ series_number: 5
 slug_name: leadership-vacuum
 date: 2026-03-17
 description: "One who doesn't prepare in good times suffers in hard times...."
-
-
 punch_line_1: "One who doesn't prepare in good times suffers in hard times."
 punch_line_2: "The leadership vacuum forms because the organization didn't develop leaders when it could. Now that it needs them, there are none."
-felt_hook: "'Development' meant: a leadership course, a mentoring program, and a stretch project that was too small to stretch."
+felt_hook: |
+  'Development' meant: a leadership course, a mentoring program, and a stretch project that was too small to stretch.
 kural_tamil: "கருவியும் காலமும் செய்கையும் செய்யும்\nஅருவினையும் மாண்டது அமைச்சு."
 kural_translation: "One who doesn't prepare in good times suffers differently in hard times."
 kural_number: 631
 kural_bridge: "The leadership vacuum forms because the organization didn't develop leaders when it could. Now that it needs them, there are none."
 prev_knot: "organizations/088-knowledge-extinction"
-prev_knot_title: "Knowledge Extinction"
+prev_knot_title: Knowledge Extinction
 next_knot: "organizations/090-technical-debt-avalanche"
-next_knot_title: "Technical Debt Avalanche"
+next_knot_title: Technical Debt Avalanche
 untie_story: "A team dedicated 10% of sprint time to skill-building. Within two quarters, they could handle work that previously required contractors."
-untie_practices:
-  - "Identify your successor."
-  - "Succession is measured by readiness: is the successor making real decisions today that the incumb..."
-  - "When leadership is practiced, successors are ready when needed, vacuums don't form, and the organ..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"leadership vacuum\" this week?"
+- "Succession is measured by readiness: 'is the successor making real decisions today that the incumb..."'
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"leadership vacuum\" this week?'
 quote_top: "Vacuums create instability, nature demands filling with consequences."
 quote_bottom: "Poor succession makes unstable leadership."
 origin_nodes: ["knots:088-knowledge-extinction", "knots/organizations/088-knowledge-extinction", "knots/organizations/090-technical-debt-avalanche"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who doesn't prepare in good times suffers in hard times.

@@ -1,5 +1,4 @@
 ---
-
 title: competence-doubt
 knot_number: 29
 domain: organizations
@@ -8,32 +7,24 @@ series_number: 5
 slug_name: competence-doubt
 date: 2026-03-17
 description: "The rarest of rare achievements is winning the trust of the great...."
-
-
 punch_line_1: "The rarest of rare achievements is winning the trust of the great."
 punch_line_2: "Competence doubt is what happens when an organization has the great but refuses to trust them."
-felt_hook: "The system installed the hesitation. The system calls it \"rigor.\""
+felt_hook: 'The system installed the hesitation. The system calls it \"rigor.\"'
 kural_tamil: "அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்\nஇன்மை அரிதே வெளிறு."
 kural_translation: "The rarest of rare achievements is winning and keeping the trust of the great."
 kural_number: 503
 kural_bridge: "Competence doubt is what happens when an organization has the great but refuses to trust them."
 prev_knot: "organizations/028-feedback-phobia"
-prev_knot_title: "Feedback Phobia"
+prev_knot_title: Feedback Phobia
 next_knot: "organizations/030-loyalty-extraction"
-next_knot_title: "Loyalty Extraction"
+next_knot_title: Loyalty Extraction
 untie_story: "A CEO called a customer who had a bad experience. The customer became their biggest advocate after one call."
-untie_practices:
-  - "Find one expert on your team."
-  - "Experts make decisions within their domain without requiring approval."
-  - "When doubt dissolves, decision velocity increases, expertise compounds instead of stalling, and t..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"competence doubt\" this week?"
+untie_question: 'What would change in your organization if you untangled \"competence doubt\" this week?'
 quote_top: "Winning great trust is an accomplishment, not a given."
 quote_bottom: "Earned trust empowers experts."
 origin_nodes: ["knots:028-feedback-phobia", "knots/organizations/028-feedback-phobia", "knots/organizations/030-loyalty-extraction"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The rarest of rare achievements is winning the trust of the great.

@@ -1,5 +1,4 @@
 ---
-
 title: structural-inertia
 knot_number: 73
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 1
 slug_name: structural-inertia
 date: 2026-03-17
 description: "As the flower rises to the water height, so does stature match the will...."
-
-
 punch_line_1: "As the flower rises to the water height, so does stature match the will."
 punch_line_2: "Structural inertia holds the flower at yesterday's water level while today's water has risen."
 felt_hook: "The restructure changed the diagram. It didn't change the organism."
@@ -18,20 +15,18 @@ kural_translation: "As the flower rises to the water's height, so does stature r
 kural_number: 475
 kural_bridge: "Structural inertia holds the flower at yesterday's water level while today's water has risen."
 prev_knot: "organizations/072-the-insight-graveyard"
-prev_knot_title: "The Insight Graveyard"
+prev_knot_title: The Insight Graveyard
 next_knot: "organizations/074-silo-syndrome"
-next_knot_title: "Silo Syndrome"
+next_knot_title: Silo Syndrome
 untie_story: "A company eliminated one management layer. Span of control increased but decision speed doubled and satisfaction rose."
-untie_practices:
-  - "Ask two questions about your last restructure: what behavior changed?"
-  - "Every restructure includes behavioral change indicators: specific actions that should change as a..."
-  - "When restructures target behavior alongside boxes, organizational change becomes real, and the st..."
-untie_question: "What would change in your organization if you untangled \"structural inertia\" this week?"
+- "Ask two questions about your last restructure: 'what behavior changed?"'
+- "Every restructure includes behavioral change indicators: 'specific actions that should change as a..."'
+untie_question: 'What would change in your organization if you untangled \"structural inertia\" this week?'
 quote_top: "Structure changed, but human behavior ossified."
 quote_bottom: "Inertia conquers all."
 origin_nodes: ["knots:072-the-insight-graveyard", "knots/organizations/072-the-insight-graveyard", "knots/organizations/074-silo-syndrome"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 From the outside, the restructure looked decisive. New org chart. Cleaner reporting lines. A memo from the CEO about "operating with agility." The slides were beautiful. The announcement video had music.

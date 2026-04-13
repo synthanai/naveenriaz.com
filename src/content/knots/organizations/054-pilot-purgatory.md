@@ -1,5 +1,4 @@
 ---
-
 title: pilot-purgatory
 knot_number: 54
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 6
 slug_name: pilot-purgatory
 date: 2026-03-17
 description: "Those who plan with resolve achieve exactly what they envision...."
-
-
 punch_line_1: "Those who plan with resolve achieve exactly what they envision."
 punch_line_2: "Pilot purgatory is what happens when planning stops at the proof of concept. The resolve to scale was never part of the plan."
 felt_hook: "The conditions for a pilot are never the conditions for an organization."
@@ -18,20 +15,17 @@ kural_translation: "Those who plan with resolve achieve exactly what they envisi
 kural_number: 637
 kural_bridge: "Pilot purgatory is what happens when planning stops at the proof of concept. The resolve to scale was never part of the plan."
 prev_knot: "organizations/053-initiative-overload"
-prev_knot_title: "Initiative Overload"
+prev_knot_title: Initiative Overload
 next_knot: "organizations/055-sponsorship-evaporation"
-next_knot_title: "Sponsorship Evaporation"
+next_knot_title: Sponsorship Evaporation
 untie_story: "A CEO shared their own fears about the change in a town hall. The vulnerability unlocked honesty across the organization."
-untie_practices:
-  - "Ask your pilot lead: what conditions does this need at scale that we can't guarantee?"
-  - "Every pilot includes a scale plan from day one."
-  - "When pilots are designed for scale, proof of concept extends to proof of reality, and the organiz..."
-untie_question: "What would change in your organization if you untangled \"pilot purgatory\" this week?"
+- "Ask your pilot lead: 'what conditions does this need at scale that we can''t guarantee?"'
+untie_question: 'What would change in your organization if you untangled \"pilot purgatory\" this week?'
 quote_top: "Pilot success doesn't predict field survival. Scale requires ecosystem adaptation."
 quote_bottom: "Stop growing the petri dish."
 origin_nodes: ["knots:053-initiative-overload", "knots/organizations/053-initiative-overload", "knots/organizations/055-sponsorship-evaporation"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Those who plan with resolve achieve exactly what they envision.

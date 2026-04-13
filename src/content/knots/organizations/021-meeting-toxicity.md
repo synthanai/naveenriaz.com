@@ -1,5 +1,4 @@
 ---
-
 title: meeting-toxicity
 knot_number: 21
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 9
 slug_name: meeting-toxicity
 date: 2026-03-17
 description: "Never speak useless words. To speak them is to speak nothing at all...."
-
-
 punch_line_1: "Never speak useless words. To speak them is to speak nothing at all."
 punch_line_2: "A meeting full of useless words is a meeting that never happened, except on the calendar."
 felt_hook: "You left with fewer answers than you entered with."
@@ -18,21 +15,43 @@ kural_translation: "It is good to never speak useless words; to speak them is to
 kural_number: 195
 kural_bridge: "A meeting full of useless words is a meeting that never happened, except on the calendar."
 prev_knot: "organizations/020-values-inversion"
-prev_knot_title: "Values Inversion"
+prev_knot_title: Values Inversion
 next_knot: "organizations/022-recognition-deficit"
-next_knot_title: "Recognition Deficit"
-untie_story: "A startup founder wrote a \"things we DON'T do\" list. It defined culture more sharply than any values poster."
-untie_practices:
-  - "Cancel one recurring meeting this week."
-  - "Every meeting ends with a single documented decision or is canceled."
-  - "When meetings serve decisions instead of replacing them, calendars open, deep work returns, and t..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"meeting toxicity\" this week?"
-quote_top: "Useless meetings are invasive species colonizing broken decision-making systems"
-quote_bottom: "Cancel one meeting-nobody will notice"
+next_knot_title: Recognition Deficit
+untie_story: 'A startup founder wrote a \"things we DON''T do\" list. It defined culture more sharply than any values poster.'
+untie_question: 'What would change in your organization if you untangled \"meeting toxicity\" this week?'
+quote_top: "Meetings replace work."
+quote_bottom: "Work hides behind Calendars."
 origin_nodes: ["knots:020-values-inversion", "knots/organizations/020-values-inversion", "knots/organizations/022-recognition-deficit"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+custom_comment: |
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/021-meeting-toxicity/
+custom_linkedin: |
+  🪢 KNOTS · Untangling Organisations
+  🌡️ Untangling Culture
+  
+  A visitor would count the meetings.
+  
+  Your team meets about meetings. Literally.
+  
+  12 people. 60 minutes. Decisions: none.
+  
+  Meetings replace work. Then multiply. Then compound.
+  
+  Calendar density is inversely proportional to output.
+  
+  Cancel one recurring meeting. See who notices.
+  
+  That packed calendar? It's hiding from work. 🔬
+  
+  #108KNOTS #UntanglingCulture #Knot021
+  
+  💡 Teams that make meetings matter #thrive.
+  
+  KNOT #021: Meeting Toxicity
+approved_at: "2026-04-12T12:16:49.769Z"
+published_at: "2026-04-12T12:16:56.196Z"
 ---
 
 Never speak useless words. To speak them is to speak nothing at all.

@@ -1,5 +1,4 @@
 ---
-
 title: sponsorship-evaporation
 knot_number: 55
 domain: organizations
@@ -18,18 +17,15 @@ kural_translation: "The great fear small company; the small surround themselves 
 kural_number: 446
 kural_bridge: "Sponsorship evaporates when the great (leaders) surround themselves with new priorities and the change initiative is left with small company."
 prev_knot: "organizations/054-pilot-purgatory"
-prev_knot_title: "Pilot Purgatory"
+prev_knot_title: Pilot Purgatory
 next_knot: "organizations/056-organizational-antibodies"
-next_knot_title: "Organizational Antibodies"
+next_knot_title: Organizational Antibodies
 untie_story: "A school redesigned schedules with teacher input at every stage. The change stuck because teachers owned it completely."
-untie_practices:
-  - "If you are sponsoring a change, put one thing on your calendar: monthly 15-minute conversation wi..."
-  - "Every change initiative has a sponsor who maintains monthly visibility."
-  - "When sponsorship is rhythmic instead of episodic, initiatives maintain visibility, resources stay..."
-untie_question: "What would change in your organization if you untangled \"sponsorship evaporation\" this week?"
+- "If you are sponsoring a change, put one thing on your calendar: 'monthly 15-minute conversation wi..."'
+untie_question: 'What would change in your organization if you untangled \"sponsorship evaporation\" this week?'
 origin_nodes: ["knots:054-pilot-purgatory", "knots/organizations/054-pilot-purgatory", "knots/organizations/056-organizational-antibodies"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The great fear small company. The small surround themselves with it.

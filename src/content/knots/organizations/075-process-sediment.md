@@ -1,5 +1,4 @@
 ---
-
 title: process-sediment
 knot_number: 75
 domain: organizations
@@ -12,24 +11,21 @@ quote_top: "Each approval layer made sense when it was added."
 quote_bottom: "Together, they form a geological record\nof organizational fear."
 punch_line_1: "Even accumulated hardships cannot destroy one who stands firm."
 punch_line_2: "Process sediment has accumulated layers of hardship on your team. But unlike Valluvar's hero, nobody chose to stand firm. They just stopped pushing back."
-felt_hook: "Each approval was added for a reason: a past mistake, an audit finding, a compliance requirement. Each layer made sense when it was added. Together, they form a geological record of organizational fear."
+felt_hook: |
+  Each approval was added for a reason: a past mistake, an audit finding, a compliance requirement. Each layer made sense when it was added. Together, they form a geological record of organizational fear.
 kural_tamil: "அச்ச முடையார்க்கு அரணில்லை ஆங்கில்லை\nபொச்சாப் புடையார்க்கு நன்கு."
 kural_translation: "Even accumulated hardships cannot destroy one who stands firm."
 kural_number: 534
 kural_bridge: "Process sediment has accumulated layers of hardship on your team. But unlike Valluvar's hero, nobody chose to stand firm. They just stopped pushing back."
 prev_knot: "organizations/074-silo-syndrome"
-prev_knot_title: "Silo Syndrome"
+prev_knot_title: Silo Syndrome
 next_knot: "organizations/076-role-ambiguity"
-next_knot_title: "Role Ambiguity"
-untie_story: "A startup defined clear \"RACI\" for their top 20 processes. Three discovered they had no owner. All three were failing."
-untie_practices:
-  - "Pick one process with more than three approvals."
-  - "An annual process audit removes any approval step that cannot justify its continued existence wit..."
-  - "When processes are audited for relevance, bureaucracy shrinks, speed returns, and teams spend the..."
-untie_question: "What would change in your organization if you untangled \"process sediment\" this week?"
+next_knot_title: Role Ambiguity
+untie_story: 'A startup defined clear \"RACI\" for their top 20 processes. Three discovered they had no owner. All three were failing.'
+untie_question: 'What would change in your organization if you untangled \"process sediment\" this week?'
 origin_nodes: ["knots:074-silo-syndrome", "sparks:process-sediment", "knots/organizations/074-silo-syndrome", "knots/organizations/076-role-ambiguity", "sparks/process-sediment"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Even accumulated hardships cannot destroy one who stands firm.

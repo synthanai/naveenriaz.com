@@ -1,5 +1,4 @@
 ---
-
 title: burnout-normalization
 knot_number: 97
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 1
 slug_name: burnout-normalization
 date: 2026-03-17
 description: "One who sees hardship as natural will never truly suffer...."
-
-
 punch_line_1: "One who sees hardship as natural will never truly suffer."
 punch_line_2: "Organizations who see exhaustion as natural have normalized suffering. The team craves rest but the culture says hardship is the price."
 felt_hook: "Burnout isn't happening to your team. It's happening as your team. It's become the culture."
@@ -18,20 +15,17 @@ kural_translation: "One who doesn't crave pleasure and sees hardship as natural 
 kural_number: 625
 kural_bridge: "Organizations who see exhaustion as natural have normalized suffering. The team craves rest but the culture says hardship is the price."
 prev_knot: "organizations/096-the-ai-readiness-gap"
-prev_knot_title: "The Ai Readiness Gap"
+prev_knot_title: The Ai Readiness Gap
 next_knot: "organizations/098-meaning-drought"
-next_knot_title: "Meaning Drought"
-untie_story: "A CEO declared \"no meetings before 10am.\" Morning productivity increased 40%. Nobody missed the early meetings at all."
-untie_practices:
-  - "Ask your team: when was the last time you felt rested?"
-  - "Sustainable pace is measured and protected."
-  - "When sustainable pace is cultural, creativity returns, retention improves, and the organization d..."
-untie_question: "What would change in your organization if you untangled \"burnout normalization\" this week?"
+next_knot_title: Meaning Drought
+untie_story: 'A CEO declared \"no meetings before 10am.\" Morning productivity increased 40%. Nobody missed the early meetings at all.'
+- "Ask your team: 'when was the last time you felt rested?"'
+untie_question: 'What would change in your organization if you untangled \"burnout normalization\" this week?'
 quote_top: "Burnout is not happening to your team, it as your team."
 quote_bottom: "It's the culture."
 origin_nodes: ["knots:096-the-ai-readiness-gap", "knots/organizations/096-the-ai-readiness-gap", "knots/organizations/098-meaning-drought"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who sees hardship as natural will never truly suffer.

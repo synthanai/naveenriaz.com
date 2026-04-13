@@ -1,5 +1,4 @@
 ---
-
 title: recognition-deficit
 knot_number: 22
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 10
 slug_name: recognition-deficit
 date: 2026-03-17
 description: "The world honors those who do good with grace...."
-
-
 punch_line_1: "The world honors those who do good with grace."
 punch_line_2: "The world honors visible grace. Organizations forget the invisible labor that holds them together."
 felt_hook: "The crisis hero gets the award. The quiet builder gets nothing."
@@ -18,21 +15,16 @@ kural_translation: "The world honors those who do good with grace and genuine be
 kural_number: 985
 kural_bridge: "The world honors visible grace. Organizations forget the invisible labor that holds them together."
 prev_knot: "organizations/021-meeting-toxicity"
-prev_knot_title: "Meeting Toxicity"
+prev_knot_title: Meeting Toxicity
 next_knot: "organizations/023-belonging-fracture"
-next_knot_title: "Belonging Fracture"
+next_knot_title: Belonging Fracture
 untie_story: "A school created student-led culture committees. Adults were surprised at how much students wanted to contribute."
-untie_practices:
-  - "Think of the person on your team whose absence would cause the most disruption."
-  - "The person whose absence would cause the most disruption is also the person who is most explicitl..."
-  - "When recognition reaches the root network, retention stabilizes, quiet builders stop dimming thei..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"recognition deficit\" this week?"
+untie_question: 'What would change in your organization if you untangled \"recognition deficit\" this week?'
 quote_top: "Invisible value sustains organizations and entire forests."
 quote_bottom: "Recognize unseen roots."
 origin_nodes: ["knots:021-meeting-toxicity", "knots/organizations/021-meeting-toxicity", "knots/organizations/023-belonging-fracture"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The world honors those who do good with grace.

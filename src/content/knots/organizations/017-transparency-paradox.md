@@ -1,5 +1,4 @@
 ---
-
 title: transparency-paradox
 knot_number: 17
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 5
 slug_name: transparency-paradox
 date: 2026-03-17
 description: "Greatness is concealing others' flaws. Smallness is concealing one's own...."
-
-
 punch_line_1: "Greatness is concealing others' flaws. Smallness is concealing one's own."
 punch_line_2: "Transparency weaponized to expose rather than protect is smallness wearing a noble mask."
 felt_hook: "The same transparency that was supposed to build trust now builds anxiety. Every action is visible. Every failure is public. Every learning moment is also a judgment moment."
@@ -18,21 +15,20 @@ kural_translation: "Greatness is concealing others' flaws; smallness is conceali
 kural_number: 826
 kural_bridge: "Transparency weaponized to expose rather than protect is smallness wearing a noble mask."
 prev_knot: "organizations/016-harmony-addiction"
-prev_knot_title: "Harmony Addiction"
+prev_knot_title: Harmony Addiction
 next_knot: "organizations/018-siloed-synergy"
-next_knot_title: "Siloed Synergy"
-untie_story: "A remote team instituted \"virtual coffee\" where random pairs met weekly. Loneliness scores dropped by half measurably."
-untie_practices:
-  - "Ask three people on your team: \"Does our transparency policy make you braver or more careful?\" If..."
-  - "Transparency is practiced with discretion: information is shared to build trust, not to expose."
-  - "When transparency is paired with safety, people share mistakes early, feedback becomes preventive..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"transparency paradox\" this week?"
-quote_top: "Transparency can destroy trust by amplifying every small mistake"
-quote_bottom: "Visibility is not always trust"
+next_knot_title: Siloed Synergy
+untie_story: 'A remote team instituted \"virtual coffee\" where random pairs met weekly. Loneliness scores dropped by half measurably.'
+- "Ask three people on your team: '\"Does our transparency policy make you braver or more careful?\" If..."'
+- "Transparency is practiced with discretion: 'information is shared to build trust, not to expose."'
+untie_question: 'What would change in your organization if you untangled \"transparency paradox\" this week?'
+quote_top: Transparency can destroy trust by amplifying every small mistake
+quote_bottom: Visibility is not always trust
 origin_nodes: ["knots:016-harmony-addiction", "knots/organizations/016-harmony-addiction", "knots/organizations/018-siloed-synergy"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-04-05T09:31:44.401Z"
+published_at: "2026-04-08T06:19:38.043Z"
 ---
 
 Greatness is concealing others' flaws. Smallness is concealing one's own.

@@ -1,5 +1,4 @@
 ---
-
 title: collective-blindness
 knot_number: 61
 domain: organizations
@@ -8,32 +7,26 @@ series_number: 1
 slug_name: collective-blindness
 date: 2026-03-17
 description: "Those who foresee what is coming are never shaken...."
-
-
 punch_line_1: "Those who foresee what is coming are never shaken."
-punch_line_2: "Collective blindness is the organizational scotoma: the signal everyone can see but nobody processes."
+punch_line_2: |
+  Collective blindness is the organizational scotoma: the signal everyone can see but nobody processes.
 felt_hook: "The organization had eyes. It didn't have sight."
 kural_tamil: "காணாதான் காட்டுவான் தான்காணான் காணாதான்\nகண்டானாம் தான்கண்ட வாறு."
 kural_translation: "Those who foresee what is coming are never shaken by what arrives."
 kural_number: 849
-kural_bridge: "Collective blindness is the organizational scotoma: the signal everyone can see but nobody processes."
+kural_bridge: |
+  Collective blindness is the organizational scotoma: the signal everyone can see but nobody processes.
 prev_knot: "organizations/060-consultant-dependency"
-prev_knot_title: "Consultant Dependency"
+prev_knot_title: Consultant Dependency
 next_knot: "organizations/062-learning-disability"
-next_knot_title: "Learning Disability"
+next_knot_title: Learning Disability
 untie_story: "A team replaced their monthly report with a weekly 5-minute standup. Decision quality improved because information was fresher."
-untie_practices:
-  - "Pull up the last three surprises your organization experienced."
-  - "A quarterly signal review aggregates feedback from all channels and identifies recurring patterns."
-  - "When signals are synthesized into patterns, surprises become rare, early warnings become actionab..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"collective blindness\" this week?"
+untie_question: 'What would change in your organization if you untangled \"collective blindness\" this week?'
 quote_top: "Organizations have eyes but collective blindness creates unseen gaps."
 quote_bottom: "See the scotoma."
 origin_nodes: ["knots:060-consultant-dependency", "knots/organizations/060-consultant-dependency", "knots/organizations/062-learning-disability"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Those who foresee what is coming are never shaken.

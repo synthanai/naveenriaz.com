@@ -1,5 +1,4 @@
 ---
-
 title: rhetoric-reality-gap
 knot_number: 57
 domain: organizations
@@ -18,18 +17,14 @@ kural_translation: "Call the one who boasts useless words no son of worth."
 kural_number: 194
 kural_bridge: "Rhetoric without reality is boasting without building. The organization speaks change fluently but builds nothing."
 prev_knot: "organizations/056-organizational-antibodies"
-prev_knot_title: "Organizational Antibodies"
+prev_knot_title: Organizational Antibodies
 next_knot: "organizations/058-success-ambiguity"
-next_knot_title: "Success Ambiguity"
+next_knot_title: Success Ambiguity
 untie_story: "A retail chain let each store adapt the change to local context. The adapted versions outperformed the standardized plan."
-untie_practices:
-  - "Find your organization's most repeated phrase this quarter."
-  - "Every stated commitment has a corresponding action, budget, and timeline."
-  - "When rhetoric is held accountable to reality, trust in communication rebuilds, employees engage w..."
-untie_question: "What would change in your organization if you untangled \"rhetoric reality gap\" this week?"
+untie_question: 'What would change in your organization if you untangled \"rhetoric reality gap\" this week?'
 origin_nodes: ["knots:056-organizational-antibodies", "knots/organizations/056-organizational-antibodies", "knots/organizations/058-success-ambiguity"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Call the one who boasts useless words no son of worth.

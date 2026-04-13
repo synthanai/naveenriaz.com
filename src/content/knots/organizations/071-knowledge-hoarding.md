@@ -1,5 +1,4 @@
 ---
-
 title: knowledge-hoarding
 knot_number: 71
 domain: organizations
@@ -8,32 +7,27 @@ series_number: 11
 slug_name: knowledge-hoarding
 date: 2026-03-17
 description: "The learned value sharing knowledge; it is their greatest currency...."
-
-
 punch_line_1: "The learned value sharing knowledge; it is their greatest currency."
-punch_line_2: "Knowledge hoarding turns that currency into a deflationary spiral: the more you hold, the less the system circulates."
-felt_hook: "Each person is individually rational: knowledge is power. In an organization that rewards visibility over contribution, being the only one who knows something is job security."
+punch_line_2: |
+  Knowledge hoarding turns that currency into a deflationary spiral: the more you hold, the less the system circulates.
+felt_hook: |
+  Each person is individually rational: knowledge is power. In an organization that rewards visibility over contribution, being the only one who knows something is job security.
 kural_tamil: "அரங்கின்றி வட்டாடி யற்றே நிரம்பிய\nநூலின்றிக் கோட்டி கொளல்."
 kural_translation: "The learned value sharing their knowledge; it is their greatest currency."
 kural_number: 401
-kural_bridge: "Knowledge hoarding turns that currency into a deflationary spiral: the more you hold, the less the system circulates."
+kural_bridge: |
+  Knowledge hoarding turns that currency into a deflationary spiral: the more you hold, the less the system circulates.
 prev_knot: "organizations/070-forecast-addiction"
-prev_knot_title: "Forecast Addiction"
+prev_knot_title: Forecast Addiction
 next_knot: "organizations/072-the-insight-graveyard"
-next_knot_title: "The Insight Graveyard"
-untie_story: "A CEO instituted \"skip-level\" meetings monthly. The unfiltered information changed three strategic priorities within a quarter."
-untie_practices:
-  - "Share one piece of undocumented knowledge today."
-  - "Knowledge sharing is explicitly measured and rewarded."
-  - "When sharing is rewarded, collective intelligence grows, single-point-of-failure risks diminish, ..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"knowledge hoarding\" this week?"
+next_knot_title: The Insight Graveyard
+untie_story: 'A CEO instituted \"skip-level\" meetings monthly. The unfiltered information changed three strategic priorities within a quarter.'
+untie_question: 'What would change in your organization if you untangled \"knowledge hoarding\" this week?'
 quote_top: "Knowledge not shared is contraband not currency."
 quote_bottom: "Share to create value."
 origin_nodes: ["knots:070-forecast-addiction", "knots/organizations/070-forecast-addiction", "knots/organizations/072-the-insight-graveyard"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The learned value sharing knowledge; it is their greatest currency.

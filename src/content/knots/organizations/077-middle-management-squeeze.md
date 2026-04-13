@@ -1,5 +1,4 @@
 ---
-
 title: middle-management-squeeze
 knot_number: 77
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 5
 slug_name: middle-management-squeeze
 date: 2026-03-17
 description: "The world endures because of those with good character...."
-
-
 punch_line_1: "The world endures because of those with good character."
 punch_line_2: "Middle managers are the load-bearing columns of an organization. Squeeze them, and the structure crumbles."
 felt_hook: "Middle managers hold the organization together while being squeezed from both directions."
@@ -18,20 +15,17 @@ kural_translation: "The world endures because of those with good character; with
 kural_number: 545
 kural_bridge: "Middle managers are the load-bearing columns of an organization. Squeeze them, and the structure crumbles."
 prev_knot: "organizations/076-role-ambiguity"
-prev_knot_title: "Role Ambiguity"
+prev_knot_title: Role Ambiguity
 next_knot: "organizations/078-governance-bloat"
-next_knot_title: "Governance Bloat"
+next_knot_title: Governance Bloat
 untie_story: "A factory redesigned the floor layout based on workflow, not department. Production increased 15% with same headcount."
-untie_practices:
-  - "Find a middle manager."
-  - "Middle managers are periodically asked: what are you carrying that nobody sees?"
-  - "When middle management load is visible, organizations stop burning out their load-bearing columns..."
-untie_question: "What would change in your organization if you untangled \"middle management squeeze\" this week?"
+- "Middle managers are periodically asked: 'what are you carrying that nobody sees?"'
+untie_question: 'What would change in your organization if you untangled \"middle management squeeze\" this week?'
 quote_top: "Middle managers carry the organization, unseen, until they buckle."
 quote_bottom: "Reinforce the unseen columns."
 origin_nodes: ["knots:076-role-ambiguity", "knots/organizations/076-role-ambiguity", "knots/organizations/078-governance-bloat"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The world endures because of those with good character.

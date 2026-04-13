@@ -1,5 +1,4 @@
 ---
-
 title: governance-bloat
 knot_number: 78
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 6
 slug_name: governance-bloat
 date: 2026-03-17
 description: "Acquire wealth; no weapon is sharper...."
-
-
 punch_line_1: "Acquire wealth; no weapon is sharper."
 punch_line_2: "Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything."
 felt_hook: "The governance framework was designed to reduce risk. It succeeded so well that it eliminated all risk, including the risk of actually accomplishing anything."
@@ -18,20 +15,17 @@ kural_translation: "Acquire wealth; there is no sharper weapon against the arrog
 kural_number: 541
 kural_bridge: "Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything."
 prev_knot: "organizations/077-middle-management-squeeze"
-prev_knot_title: "Middle Management Squeeze"
+prev_knot_title: Middle Management Squeeze
 next_knot: "organizations/079-technology-sprawl"
-next_knot_title: "Technology Sprawl"
+next_knot_title: Technology Sprawl
 untie_story: "A nonprofit merged two overlapping committees. Meeting hours halved. Output quality improved because accountability was clearer."
-untie_practices:
-  - "Count committees."
-  - "Every governance body has an annual ROI review: decisions produced divided by hours consumed."
-  - "When governance is measured by output, committees shrink, decisions accelerate, and the organizat..."
-untie_question: "What would change in your organization if you untangled \"governance bloat\" this week?"
+- "Every governance body has an annual ROI review: 'decisions produced divided by hours consumed."'
+untie_question: 'What would change in your organization if you untangled \"governance bloat\" this week?'
 quote_top: "Governance bloat is organizational autoimmunity, attacking the ability to decide."
 quote_bottom: "Paralyzed by protection."
 origin_nodes: ["knots:077-middle-management-squeeze", "knots/organizations/077-middle-management-squeeze", "knots/organizations/079-technology-sprawl"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Acquire wealth; no weapon is sharper.

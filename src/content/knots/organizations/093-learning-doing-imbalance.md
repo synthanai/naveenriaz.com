@@ -1,5 +1,4 @@
 ---
-
 title: learning-doing-imbalance
 knot_number: 93
 domain: organizations
@@ -8,33 +7,30 @@ series_number: 9
 slug_name: learning-doing-imbalance
 date: 2026-03-17
 description: "Learn thoroughly. Then live by that learning...."
-
-
 punch_line_1: "Learn thoroughly. Then live by that learning."
-punch_line_2: "Learning-doing imbalance breaks both halves: the team ships without learning, or learns without shipping. Neither alone produces growth."
-felt_hook: "Both imbalances produce the same result: no growth."
+punch_line_2: |
+  Learning-doing imbalance breaks both halves: the team ships without learning, or learns without shipping. Neither alone produces growth.
+felt_hook: |
+  Both imbalances produce the same result: no growth.
 kural_tamil: "கற்க கசடறக் கற்பவை கற்றபின்\nநிற்க அதற்குத் தக."
 kural_translation: "Learn thoroughly. Then live by that learning."
 kural_number: 391
-kural_bridge: "Learning-doing imbalance breaks both halves: the team ships without learning, or learns without shipping. Neither alone produces growth."
+kural_bridge: |
+  Learning-doing imbalance breaks both halves: the team ships without learning, or learns without shipping. Neither alone produces growth.
 prev_knot: "organizations/092-outsourcing-identity"
-prev_knot_title: "Outsourcing Identity"
+prev_knot_title: Outsourcing Identity
 next_knot: "organizations/094-onboarding-failure"
-next_knot_title: "Onboarding Failure"
+next_knot_title: Onboarding Failure
 untie_story: "A tech company open-sourced their internal training materials. External contributions improved the materials beyond what internal teams could."
-untie_practices:
-  - "After every sprint, protect 30 minutes for: what did this sprint teach us?"
-  - "Every sprint includes a protected learning review: one question answered, one pattern identified,..."
-  - "When learning and doing are balanced, quality improves, mistakes stop recurring, and the organiza..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"learning doing imbalance\" this week?"
+- "After every sprint, protect 30 minutes for: 'what did this sprint teach us?"'
+- "Every sprint includes a protected learning review: 'one question answered, one pattern identified,..."'
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"learning doing imbalance\" this week?'
 quote_top: "Learning needs doing. Doing needs learning. Both create growth."
 quote_bottom: "Balance the cycle."
 origin_nodes: ["knots:092-outsourcing-identity", "knots/organizations/092-outsourcing-identity", "knots/organizations/094-onboarding-failure"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Learn thoroughly. Then live by that learning.

@@ -1,5 +1,4 @@
 ---
-
 title: resistance-misdiagnosis
 knot_number: 51
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 3
 slug_name: resistance-misdiagnosis
 date: 2026-03-17
 description: "Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisel..."
-
-
 punch_line_1: "Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely."
 punch_line_2: "Change resistance is a symptom. Misdiagnosis treats the symptom (people) while ignoring the origin (system)."
 felt_hook: "The resistance isn't the problem. It's the diagnosis."
@@ -18,20 +15,17 @@ kural_translation: "Diagnose the disease, trace its origin, find the right remed
 kural_number: 948
 kural_bridge: "Change resistance is a symptom. Misdiagnosis treats the symptom (people) while ignoring the origin (system)."
 prev_knot: "organizations/050-transformation-theater"
-prev_knot_title: "Transformation Theater"
+prev_knot_title: Transformation Theater
 next_knot: "organizations/052-momentum-decay"
-next_knot_title: "Momentum Decay"
-untie_story: "A team created a \"change fatigue thermometer\" visible to leadership. When it hit red, they paused and recovered."
-untie_practices:
-  - "Ask the three most resistant people: what would need to be true for this change to work for you?"
-  - "Pushback is treated as diagnostic information, not as a problem to overcome."
-  - "When resistance is understood instead of overridden, change designs improve, adoption becomes vol..."
-untie_question: "What would change in your organization if you untangled \"resistance misdiagnosis\" this week?"
+next_knot_title: Momentum Decay
+untie_story: 'A team created a \"change fatigue thermometer\" visible to leadership. When it hit red, they paused and recovered.'
+- "Ask the three most resistant people: 'what would need to be true for this change to work for you?"'
+untie_question: 'What would change in your organization if you untangled \"resistance misdiagnosis\" this week?'
 quote_top: "Resistance is a symptom, not the disease. Diagnose it."
-quote_bottom: "Painkillers hide problems"
+quote_bottom: Painkillers hide problems
 origin_nodes: ["knots:050-transformation-theater", "knots/organizations/050-transformation-theater", "knots/organizations/052-momentum-decay"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely.

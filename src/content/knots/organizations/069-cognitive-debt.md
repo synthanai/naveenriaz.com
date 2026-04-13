@@ -1,5 +1,4 @@
 ---
-
 title: cognitive-debt
 knot_number: 69
 domain: organizations
@@ -8,32 +7,28 @@ series_number: 9
 slug_name: cognitive-debt
 date: 2026-03-17
 description: "Knowledge is the fortress unbreachable even by enemies...."
-
-
 punch_line_1: "Knowledge is the fortress unbreachable even by enemies."
-punch_line_2: "Cognitive debt weakens the fortress from within: the organization stops investing in thinking and the defense erodes."
-felt_hook: "They've accumulated cognitive debt: the gap between the thinking the organization needs and the thinking the organization does. Every shortcut, every quick fix, every 'we'll figure it out later' adds to the balance."
+punch_line_2: |
+  Cognitive debt weakens the fortress from within: the organization stops investing in thinking and the defense erodes.
+felt_hook: |
+  They've accumulated cognitive debt: the gap between the thinking the organization needs and the thinking the organization does. Every shortcut, every quick fix, every 'we'll figure it out later' adds to the balance.
 kural_tamil: "அறிவற்றங் காக்குங் கருவி செறுவார்க்கும்\nஉள்ளழிக்க லாகா அரண்."
 kural_translation: "Knowledge is the fortress that protects from ruin, unbreachable even by enemies."
 kural_number: 421
-kural_bridge: "Cognitive debt weakens the fortress from within: the organization stops investing in thinking and the defense erodes."
+kural_bridge: |
+  Cognitive debt weakens the fortress from within: the organization stops investing in thinking and the defense erodes.
 prev_knot: "organizations/068-data-worship"
-prev_knot_title: "Data Worship"
+prev_knot_title: Data Worship
 next_knot: "organizations/070-forecast-addiction"
-next_knot_title: "Forecast Addiction"
+next_knot_title: Forecast Addiction
 untie_story: "A leadership team read one book together per quarter and discussed it. Shared mental models improved strategic alignment."
-untie_practices:
-  - "Block two hours this week."
-  - "Two hours per week are protected for structured thinking: root cause analysis, pattern identifica..."
-  - "When thinking is protected, root causes are addressed instead of symptoms, recurring problems sto..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"cognitive debt\" this week?"
+- "Two hours per week are protected for structured thinking: 'root cause analysis, pattern identifica..."'
+untie_question: 'What would change in your organization if you untangled \"cognitive debt\" this week?'
 quote_top: "Companies accrue cognitive debt by avoiding deep structural thinking."
 quote_bottom: "Solutions without understanding lead to ruin."
 origin_nodes: ["knots:068-data-worship", "knots/organizations/068-data-worship", "knots/organizations/070-forecast-addiction"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Knowledge is the fortress unbreachable even by enemies.

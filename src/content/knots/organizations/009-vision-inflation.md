@@ -1,42 +1,38 @@
 ---
-
-title: "vision-inflation"
+title: vision-inflation
 knot_number: 9
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 9
-slug_name: "vision-inflation"
+slug_name: vision-inflation
 date: 2026-03-17
-description: 'Ask three frontline workers: "How does your work this week connect to our vision?" Do they give a real answer or a rehearsed one?'
-
-
+description: |
+  Ask three frontline workers: "How does your work this week connect to our vision?" Do they give a real answer or a rehearsed one?
 punch_line_1: "The vision isn't too big."
 punch_line_2: "It's just too far away to matter."
-felt_hook: 'Ask three frontline workers: "How does your work this week connect to our vision?" Do they give a real answer or a rehearsed one?'
-emotion_target: "Cynicism: the distance between the poster and the paycheck"
+felt_hook: |
+  Ask three frontline workers: "How does your work this week connect to our vision?" Do they give a real answer or a rehearsed one?
+emotion_target: |
+  Cynicism: the distance between the poster and the paycheck
 never_say: ["moonshot", "change the world", "audacious goals (when disconnected from daily reality)"]
 kural_tamil: "உளவரை தூக்காத ஒப்புர வாண்மை\nவளவரை வல்லைக் கெடும்."
 kural_translation: "One who does not measure themselves will seem to exist but will vanish without trace."
 kural_number: 480
 kural_bridge: "A vision that outgrows its operational capacity vanishes into irrelevance."
 prev_knot: "organizations/008-purpose-commodification"
-prev_knot_title: "Purpose Commodification"
+prev_knot_title: Purpose Commodification
 next_knot: "organizations/010-cultural-orphans"
-next_knot_title: "Cultural Orphans"
-untie_story: "A factory team created a \"why we make this\" video. Absenteeism dropped. They connected product to purpose visually."
-untie_practices:
-  - "Ask three frontline workers: \"How does your work this week connect to our vision?\" If they laugh,..."
-  - "The vision connects to this quarter's work in under one sentence."
-  - "When the vision is right-sized, it becomes a compass instead of a poster."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"vision inflation\" this week?"
+next_knot_title: Cultural Orphans
+untie_story: 'A factory team created a \"why we make this\" video. Absenteeism dropped. They connected product to purpose visually.'
+- "Ask three frontline workers: '\"How does your work this week connect to our vision?\" If they laugh,..."'
+untie_question: 'What would change in your organization if you untangled \"vision inflation\" this week?'
 quote_top: "Grand visions inflate; daily work grounds us."
 quote_bottom: "Execution, not ambition, defines impact."
 origin_nodes: ["knots:008-purpose-commodification", "knots/organizations/008-purpose-commodification", "knots/organizations/010-cultural-orphans"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-30T05:07:45.104Z"
+published_at: "2026-03-31T11:22:07.139Z"
 ---
 
 "We need to think bigger," Ravi said, pulling up the new slide deck. Three pillars. A flywheel diagram. The words GLOBAL IMPACT in 48-point type.

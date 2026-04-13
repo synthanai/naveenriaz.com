@@ -1,5 +1,4 @@
 ---
-
 title: gravitational-void
 knot_number: 15
 domain: organizations
@@ -18,19 +17,16 @@ kural_translation: "The touchstone of greatness and smallness alike is one's dee
 kural_number: 521
 kural_bridge: "Without a gravitational center, deeds scatter. Greatness requires pull."
 prev_knot: "organizations/014-integrity-theater"
-prev_knot_title: "Integrity Theater"
+prev_knot_title: Integrity Theater
 next_knot: "organizations/016-harmony-addiction"
-next_knot_title: "Harmony Addiction"
+next_knot_title: Harmony Addiction
 untie_story: "A manager replaced the annual survey with weekly one-question pulses. Response rate went from 34% to 91% immediately."
-untie_practices:
-  - "don't ask what people are working on."
-  - "Every team member can explain what pulls the organization together, without checking a document."
-  - "When the center is real, alignment emerges naturally, meetings become shorter because decisions h..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"gravitational void\" this week?"
+untie_question: 'What would change in your organization if you untangled \"gravitational void\" this week?'
 origin_nodes: ["knots:014-integrity-theater", "knots/organizations/014-integrity-theater", "knots/organizations/016-harmony-addiction"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-04-05T09:31:14.795Z"
+published_at: "2026-04-06T09:27:08.413Z"
 ---
 
 The touchstone of greatness is one's deeds.

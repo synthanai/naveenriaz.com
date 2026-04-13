@@ -1,5 +1,4 @@
 ---
-
 title: belonging-fracture
 knot_number: 23
 domain: organizations
@@ -18,19 +17,15 @@ kural_translation: "The loveless live only for themselves; the loving give even 
 kural_number: 72
 kural_bridge: "Belonging is the organizational form of love. Without it, everyone is just working for themselves."
 prev_knot: "organizations/022-recognition-deficit"
-prev_knot_title: "Recognition Deficit"
+prev_knot_title: Recognition Deficit
 next_knot: "organizations/024-the-culture-tax"
-next_knot_title: "The Culture Tax"
+next_knot_title: The Culture Tax
 untie_story: "A bank branch let tellers redesign their own workflows. Customer satisfaction improved because tellers were happier serving."
-untie_practices:
-  - "Ask every person on your team, one-on-one: \"What would be lost if you left?\" If they can't answer..."
-  - "Every person on the team can name one way in which the team would be diminished without them."
-  - "When belonging is real, discretionary effort rises naturally, people contribute beyond their role..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"belonging fracture\" this week?"
+- "Ask every person on your team, one-on-one: '\"What would be lost if you left?\" If they can''t answer..."'
+untie_question: 'What would change in your organization if you untangled \"belonging fracture\" this week?'
 origin_nodes: ["knots:022-recognition-deficit", "knots/organizations/022-recognition-deficit", "knots/organizations/024-the-culture-tax"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The loveless live only for themselves. The loving give even their bones for others.

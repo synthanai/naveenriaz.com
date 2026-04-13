@@ -1,5 +1,4 @@
 ---
-
 title: meaning-drought
 knot_number: 98
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 2
 slug_name: meaning-drought
 date: 2026-03-17
 description: "One who stands free of folly creates millions...."
-
-
 punch_line_1: "One who stands free of folly creates millions."
 punch_line_2: "Meaning drought is the folly of producing competent work without knowing why. The team performs but can't say why it matters."
 felt_hook: "Meaning drought isn't about bad work. It's about good work disconnected from purpose. The team is competent and empty."
@@ -18,20 +15,16 @@ kural_translation: "One who stands free of arrogance, excess, envy, and folly cr
 kural_number: 1020
 kural_bridge: "Meaning drought is the folly of producing competent work without knowing why. The team performs but can't say why it matters."
 prev_knot: "organizations/097-burnout-normalization"
-prev_knot_title: "Burnout Normalization"
+prev_knot_title: Burnout Normalization
 next_knot: "organizations/099-autonomy-starvation"
-next_knot_title: "Autonomy Starvation"
-untie_story: "A team introduced \"energy audits\" where each person mapped their daily peaks. Work was rescheduled to match. Output improved."
-untie_practices:
-  - "Connect one task to one specific human impact this week."
-  - "Every team can articulate how their work connects to one real human impact."
-  - "When meaning is specific and connected, engagement deepens, discretionary effort returns, and the..."
-untie_question: "What would change in your organization if you untangled \"meaning drought\" this week?"
+next_knot_title: Autonomy Starvation
+untie_story: 'A team introduced \"energy audits\" where each person mapped their daily peaks. Work was rescheduled to match. Output improved.'
+untie_question: 'What would change in your organization if you untangled \"meaning drought\" this week?'
 quote_top: "Competent teams deliver work, but often miss the point."
 quote_bottom: "Meaning is the operating system."
 origin_nodes: ["knots:097-burnout-normalization", "knots/organizations/097-burnout-normalization", "knots/organizations/099-autonomy-starvation"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who stands free of folly creates millions.

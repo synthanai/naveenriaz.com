@@ -1,5 +1,4 @@
 ---
-
 title: the-insight-graveyard
 knot_number: 72
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 12
 slug_name: the-insight-graveyard
 date: 2026-03-17
 description: "The more you learn, the more you discover ignorance...."
-
-
 punch_line_1: "The more you learn, the more you discover ignorance."
 punch_line_2: "The insight graveyard buries what was learned. The more the organization discovers, the more it fails to act on its discoveries."
 felt_hook: "Nobody acted on it. Six months later, the competitor who saw the same pattern shipped the product your research described."
@@ -18,22 +15,16 @@ kural_translation: "The more you learn, the more you discover ignorance, like de
 kural_number: 724
 kural_bridge: "The insight graveyard buries what was learned. The more the organization discovers, the more it fails to act on its discoveries."
 prev_knot: "organizations/071-knowledge-hoarding"
-prev_knot_title: "Knowledge Hoarding"
+prev_knot_title: Knowledge Hoarding
 next_knot: "organizations/073-structural-inertia"
-next_knot_title: "Structural Inertia"
+next_knot_title: Structural Inertia
 untie_story: "A research lab published all failed experiments internally. Three future projects were saved from repeating the same mistakes."
-untie_practices:
-  - "Pull one buried insight from the last twelve months."
-  - "Every research deliverable includes one mandatory action item with a named owner, a deadline, and..."
-  - "When insights are connected to actions, research becomes investment instead of overhead, the orga..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"the insight graveyard\" this week?"
+untie_question: 'What would change in your organization if you untangled \"the insight graveyard\" this week?'
 quote_top: "Insights without action are precisely like artifacts without excavation."
 quote_bottom: "Dig them up. Act now."
 origin_nodes: ["knots:071-knowledge-hoarding", "knots/organizations/071-knowledge-hoarding", "knots/organizations/073-structural-inertia"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The more you learn, the more you discover ignorance.

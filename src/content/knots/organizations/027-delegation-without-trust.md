@@ -1,5 +1,4 @@
 ---
-
 title: delegation-without-trust
 knot_number: 27
 domain: organizations
@@ -18,20 +17,14 @@ kural_translation: "One who knows the right ground prospers long; one who doesn'
 kural_number: 517
 kural_bridge: "Delegation without trust is assigning the ground without granting authority to stand on it."
 prev_knot: "organizations/026-invisible-contracts"
-prev_knot_title: "Invisible Contracts"
+prev_knot_title: Invisible Contracts
 next_knot: "organizations/028-feedback-phobia"
-next_knot_title: "Feedback Phobia"
-untie_story: "A leader started every meeting with \"what don't I know?\" The team started telling truth instead of performing."
-untie_practices:
-  - "Delegate one real decision this week, not a task."
-  - "Delegated authority means delegated decision-making."
-  - "When delegation includes trust, decision speed increases, talent develops faster, and leaders sto..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"delegation without trust\" this week?"
+next_knot_title: Feedback Phobia
+untie_story: 'A leader started every meeting with \"what don''t I know?\" The team started telling truth instead of performing.'
+untie_question: 'What would change in your organization if you untangled \"delegation without trust\" this week?'
 origin_nodes: ["knots:026-invisible-contracts", "sparks:delegation-without-trust", "knots/organizations/026-invisible-contracts", "knots/organizations/028-feedback-phobia", "sparks/delegation-without-trust"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who knows the right ground prospers long. One who doesn't finds ruin.

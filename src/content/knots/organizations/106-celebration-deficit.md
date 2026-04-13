@@ -1,5 +1,4 @@
 ---
-
 title: celebration-deficit
 knot_number: 106
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 10
 slug_name: celebration-deficit
 date: 2026-03-17
 description: "Wealth from generosity never diminishes...."
-
-
 punch_line_1: "Wealth from generosity never diminishes."
 punch_line_2: "Celebration deficit is the absence of generosity toward the team's own achievements. The harvest is extracted. The feast never happens."
 felt_hook: "The team achieved something significant and the organization treated it like a checkpoint, not a summit."
@@ -18,20 +15,17 @@ kural_translation: "Wealth from generosity and core substance never diminish."
 kural_number: 522
 kural_bridge: "Celebration deficit is the absence of generosity toward the team's own achievements. The harvest is extracted. The feast never happens."
 prev_knot: "organizations/105-resource-hoarding"
-prev_knot_title: "Resource Hoarding"
+prev_knot_title: Resource Hoarding
 next_knot: "organizations/107-emotional-illiteracy"
-next_knot_title: "Emotional Illiteracy"
-untie_story: "A manager stopped asking \"are you busy?\" and started asking \"do you have what you need?\" The shift changed the culture."
-untie_practices:
-  - "After your next completed project, stop."
-  - "Every completed milestone has a mandatory 'exhale moment': a simple, time-bounded acknowledgment ..."
-  - "When achievements are celebrated, energy renews, engagement deepens, and the team enters the next..."
-untie_question: "What would change in your organization if you untangled \"celebration deficit\" this week?"
+next_knot_title: Emotional Illiteracy
+untie_story: 'A manager stopped asking \"are you busy?\" and started asking \"do you have what you need?\" The shift changed the culture.'
+- "Every completed milestone has a mandatory 'exhale moment': 'a simple, time-bounded acknowledgment ..."'
+untie_question: 'What would change in your organization if you untangled \"celebration deficit\" this week?'
 quote_top: "Harvest without feast depletes the farmer and team motivation."
 quote_bottom: "Stop, celebrate, renew."
 origin_nodes: ["knots:105-resource-hoarding", "knots/organizations/105-resource-hoarding", "knots/organizations/107-emotional-illiteracy"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Wealth from generosity never diminishes.

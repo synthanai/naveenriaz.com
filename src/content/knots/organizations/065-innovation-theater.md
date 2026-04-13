@@ -1,5 +1,4 @@
 ---
-
 title: innovation-theater
 knot_number: 65
 domain: organizations
@@ -11,27 +10,24 @@ description: "The firmness of enterprise is the firmness of mind. All else is se
 quote_top: "Innovation theater has all the props of creativity\nand none of the commitment."
 quote_bottom: "The display is the output.\nThe organization mistakes the flower\nfor the harvest."
 punch_line_1: "The firmness of enterprise is the firmness of mind. All else is secondary."
-punch_line_2: "Innovation theater has the firmness of a stage set: impressive from the front, nothing behind it."
+punch_line_2: |
+  Innovation theater has the firmness of a stage set: impressive from the front, nothing behind it.
 felt_hook: "Innovation theater has all the props of creativity and none of the commitment."
 kural_tamil: "துணைநலம் ஆக்கம் த்ருஉம் வினைநலம்\nவேண்டிய எல்லாந் தரும்."
 kural_translation: "The firmness of an enterprise is the firmness of one's mind; all else is secondary."
 kural_number: 651
-kural_bridge: "Innovation theater has the firmness of a stage set: impressive from the front, nothing behind it."
+kural_bridge: |
+  Innovation theater has the firmness of a stage set: impressive from the front, nothing behind it.
 prev_knot: "organizations/064-metric-gaming"
-prev_knot_title: "Metric Gaming"
+prev_knot_title: Metric Gaming
 next_knot: "organizations/066-strategic-myopia"
-next_knot_title: "Strategic Myopia"
+next_knot_title: Strategic Myopia
 untie_story: "A school created student-led research projects on school problems. Students produced insights adults had missed for years."
-untie_practices:
-  - "Ask your innovation team: of the ideas generated in the last twelve months, how many are now in p..."
-  - "Every innovation event produces one funded experiment within 30 days."
-  - "When innovation connects to action, ideas reach customers, creative energy compounds instead of d..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"innovation theater\" this week?"
+- "Ask your innovation team: 'of the ideas generated in the last twelve months, how many are now in p..."'
+untie_question: 'What would change in your organization if you untangled \"innovation theater\" this week?'
 origin_nodes: ["knots:064-metric-gaming", "sparks:innovation-theater", "knots/organizations/064-metric-gaming", "knots/organizations/066-strategic-myopia", "sparks/innovation-theater"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 The firmness of enterprise is the firmness of mind. All else is secondary.

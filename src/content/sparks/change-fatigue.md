@@ -1,17 +1,15 @@
 ---
-title: "Change Fatigue"
+title: Change Fatigue
 date: 2026-03-30
 signal: "Your team isn't resistant to change. They're exhausted by the volume of change that leads nowhere."
-source: "Change"
-temperature: "🔥🔥🔥"
-
-
-tags: [change, leadership, living_organizations]
-description: "Resistance is not the problem. Exhaustion is."
+source: Change
+temperature: 🔥🔥🔥
+tags: ["change", "leadership", "living_organizations"]
+description: Resistance is not the problem. Exhaustion is.
 quote_top: "Change fatigue: a rational response to endless, unproductive initiatives."
-quote_bottom: "Stop starting, start finishing."
-origin_nodes: []
-valence: "mixed"
+quote_bottom: Stop starting, start finishing.
+origin_nodes: [""]
+valence: mixed
 friction: ""
 ---
 

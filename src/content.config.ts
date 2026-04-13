@@ -1,13 +1,14 @@
 import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
 
 // Shared truth fields: every moment can hold the full emotional spectrum
 const truthFields = {
   valence: z.enum(['luminous', 'dark', 'mixed']).default('mixed'),
-  emotional_range: z.array(z.string()).optional(),
-  friction: z.string().optional(),    // What resisted here?
-  misread: z.string().optional(),     // What did I get wrong first?
-  cost: z.string().optional(),        // What did this take from me, others, or the work?
-  residue: z.string().optional(),     // What still has not been resolved?
+  emotional_range: z.array(z.string()).optional().nullable(),
+  friction: z.string().optional().nullable(),    // What resisted here?
+  misread: z.string().optional().nullable(),     // What did I get wrong first?
+  cost: z.string().optional().nullable(),        // What did this take from me, others, or the work?
+  residue: z.string().optional().nullable(),     // What still has not been resolved?
 };
 
 // Context fields: travel, coaching, teaching etc. as input channels, not moments
@@ -17,7 +18,7 @@ const contextFields = {
 };
 
 const fusions = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/fusions' }),
   schema: z.object({
     title: z.string(),
     display_title: z.string().optional(),
@@ -45,7 +46,7 @@ const fusions = defineCollection({
 });
 
 const knots = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/knots' }),
   schema: z.object({
     title: z.string(),
     knot_number: z.number(),
@@ -75,7 +76,7 @@ const knots = defineCollection({
 });
 
 const sparks = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/sparks' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
@@ -92,7 +93,7 @@ const sparks = defineCollection({
 });
 
 const beads = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/beads' }),
   schema: z.object({
     title: z.string(),
     essence: z.string(),
@@ -107,7 +108,7 @@ const beads = defineCollection({
 });
 
 const claws = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/claws' }),
   schema: z.object({
     title: z.string(),
     grip: z.string(),
@@ -122,7 +123,7 @@ const claws = defineCollection({
 });
 
 const wows = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/wows' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
@@ -134,7 +135,7 @@ const wows = defineCollection({
 });
 
 const awes = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/awes' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
@@ -146,7 +147,7 @@ const awes = defineCollection({
 });
 
 const syncs = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/syncs' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
@@ -160,7 +161,7 @@ const syncs = defineCollection({
 });
 
 const digs = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/digs' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
@@ -172,7 +173,7 @@ const digs = defineCollection({
 });
 
 const spars = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/spars' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
@@ -188,7 +189,7 @@ const spars = defineCollection({
 
 // The 11th moment: things that ended, failed, or had to be let burn (apoptosis)
 const scars = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/scars' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
@@ -200,7 +201,7 @@ const scars = defineCollection({
 
 // The 12th moment: Anti-Resonance. The immunological boundary.
 const voids = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/voids' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
@@ -213,4 +214,3 @@ const voids = defineCollection({
 });
 
 export const collections = { fusions, knots, sparks, beads, claws, wows, awes, syncs, digs, spars, scars, voids };
-

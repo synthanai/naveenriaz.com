@@ -1,5 +1,4 @@
 ---
-
 title: the-scapegoat-pattern
 knot_number: 35
 domain: organizations
@@ -8,32 +7,28 @@ series_number: 11
 slug_name: the-scapegoat-pattern
 date: 2026-03-17
 description: "Deliberate before you decide. To deliberate after deciding is disgrace...."
-
-
 punch_line_1: "Deliberate before you decide. To deliberate after deciding is disgrace."
-punch_line_2: "Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before."
+punch_line_2: |
+  Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.
 felt_hook: "It's not random. The scapegoat is selected for their position, not their culpability. They're visible enough to absorb blame but not powerful enough to deflect it."
 kural_tamil: "அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்\nகுற்றம் மறையா வழி."
 kural_translation: "Deliberate before you decide; to deliberate after deciding is disgrace."
 kural_number: 846
-kural_bridge: "Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before."
+kural_bridge: |
+  Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.
 prev_knot: "organizations/034-gossip-economy"
-prev_knot_title: "Gossip Economy"
+prev_knot_title: Gossip Economy
 next_knot: "organizations/036-trust-bankruptcy"
-next_knot_title: "Trust Bankruptcy"
+next_knot_title: Trust Bankruptcy
 untie_story: "A company shared their strategic uncertainties with staff. People responded with solutions instead of anxiety about unknowns."
-untie_practices:
-  - "Next time a project fails, ask two questions: 'Who is being blamed?' and 'What systemic factor ma..."
-  - "Post-mortems separate system failures from individual performance."
-  - "When blame is replaced by diagnosis, the same failure stops recurring, people take on risky proje..."
-  - "Say \"I was wrong\" about one small thing"
-  - "Share one piece of information you'd normally hold"
-untie_question: "What would change in your organization if you untangled \"the scapegoat pattern\" this week?"
-quote_top: "Scapegoating: the system attacks healthy tissue, not the pathogen."
+- "Next time a project fails, ask two questions: '''Who is being blamed?'' and ''What systemic factor ma..."'
+untie_question: 'What would change in your organization if you untangled \"the scapegoat pattern\" this week?'
+quote_top: |
+  Scapegoating: the system attacks healthy tissue, not the pathogen.
 quote_bottom: "Autoimmune disorder; host destroyed."
 origin_nodes: ["knots:034-gossip-economy", "knots/organizations/034-gossip-economy", "knots/organizations/036-trust-bankruptcy"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Deliberate before you decide. To deliberate after deciding is disgrace.

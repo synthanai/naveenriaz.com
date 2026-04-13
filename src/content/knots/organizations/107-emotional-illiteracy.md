@@ -1,5 +1,4 @@
 ---
-
 title: emotional-illiteracy
 knot_number: 107
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 11
 slug_name: emotional-illiteracy
 date: 2026-03-17
 description: "One flaw in wisdom pushes wholeness far away...."
-
-
 punch_line_1: "One flaw in wisdom pushes wholeness far away."
 punch_line_2: "Emotional illiteracy is the single flaw that pushes organizational wisdom far away. You can't fix what you can't name."
 felt_hook: "But emotions drive every decision, every collaboration, every conflict. They're the operating system running beneath the spreadsheet. And nobody knows how to read the logs."
@@ -18,20 +15,16 @@ kural_translation: "One flaw in wisdom is enough to push wholeness far away."
 kural_number: 997
 kural_bridge: "Emotional illiteracy is the single flaw that pushes organizational wisdom far away. You can't fix what you can't name."
 prev_knot: "organizations/106-celebration-deficit"
-prev_knot_title: "Celebration Deficit"
+prev_knot_title: Celebration Deficit
 next_knot: "organizations/108-the-zombie-organization"
-next_knot_title: "The Zombie Organization"
+next_knot_title: The Zombie Organization
 untie_story: "A company made Friday afternoons optional. Some worked, some didn't. Trust increased. Output stayed the same over time."
-untie_practices:
-  - "Ask each person to name their current emotional state in one word."
-  - "Team check-ins include one emotional state word from each person."
-  - "When emotions can be named, they can be addressed."
-untie_question: "What would change in your organization if you untangled \"emotional illiteracy\" this week?"
+untie_question: 'What would change in your organization if you untangled \"emotional illiteracy\" this week?'
 quote_top: "Ignoring emotions is ignoring your organization's operating system."
 quote_bottom: "Read the room first."
 origin_nodes: ["knots:106-celebration-deficit", "knots/organizations/106-celebration-deficit", "knots/organizations/108-the-zombie-organization"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One flaw in wisdom pushes wholeness far away.

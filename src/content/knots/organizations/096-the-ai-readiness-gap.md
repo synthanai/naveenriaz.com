@@ -1,5 +1,4 @@
 ---
-
 title: the-ai-readiness-gap
 knot_number: 96
 domain: organizations
@@ -8,33 +7,29 @@ series_number: 12
 slug_name: the-ai-readiness-gap
 date: 2026-03-17
 description: "Avoiding harm and standing firm...."
-
-
 punch_line_1: "Avoiding harm and standing firm."
 punch_line_2: "The AI readiness gap means the organization can't avoid the harm of poor data or stand firm on the foundation of its AI strategy because neither exists."
 felt_hook: "The AI strategy was written from the destination backward. The foundation was never assessed."
 kural_tamil: "கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்\nஎற்றா விழுமந் தரும்."
-kural_translation: "Avoiding harm and standing firm: these two define the path, say the wise."
+kural_translation: |
+  Avoiding harm and standing firm: these two define the path, say the wise.
 kural_number: 663
 kural_bridge: "The AI readiness gap means the organization can't avoid the harm of poor data or stand firm on the foundation of its AI strategy because neither exists."
 prev_knot: "organizations/095-diversity-without-inclusion"
-prev_knot_title: "Diversity Without Inclusion"
+prev_knot_title: Diversity Without Inclusion
 next_knot: "organizations/097-burnout-normalization"
-next_knot_title: "Burnout Normalization"
-untie_story: "A leader asked their team: \"what skill would transform your career?\" Then funded one course per person per quarter."
-untie_practices:
-  - "Before your next AI project, answer: Is the data clean?"
-  - "Every AI initiative begins with a data readiness audit: clean, documented, accessible."
-  - "When readiness precedes ambition, AI investments produce returns, teams build on solid ground, an..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"the ai readiness gap\" this week?"
+next_knot_title: Burnout Normalization
+untie_story: |
+  A leader asked their team: \"what skill would transform your career?\" Then funded one course per person per quarter.
+- "Before your next AI project, answer: 'Is the data clean?"'
+- "Every AI initiative begins with a data readiness audit: 'clean, documented, accessible."'
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"the ai readiness gap\" this week?'
 quote_top: "AI dreams crash on shaky data foundation."
 quote_bottom: "Build solid, then soar."
 origin_nodes: ["knots:095-diversity-without-inclusion", "sparks:the-ai-readiness-gap", "knots/organizations/095-diversity-without-inclusion", "knots/organizations/097-burnout-normalization", "sparks/the-ai-readiness-gap"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Avoiding harm and standing firm.

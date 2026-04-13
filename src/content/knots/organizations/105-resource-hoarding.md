@@ -1,5 +1,4 @@
 ---
-
 title: resource-hoarding
 knot_number: 105
 domain: organizations
@@ -7,31 +6,28 @@ series: energy
 series_number: 9
 slug_name: resource-hoarding
 date: 2026-03-17
-description: "To give and live with honor: no greater profit exists...."
-
-
-punch_line_1: "To give and live with honor: no greater profit exists."
+description: |
+  To give and live with honor: no greater profit exists....
+punch_line_1: |
+  To give and live with honor: no greater profit exists.
 punch_line_2: "Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits."
 felt_hook: "Meanwhile, the team across the hall is working weekends because they can't hire fast enough. The budget that could solve their problem sits unspent in another department's reserve."
 kural_tamil: "காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்\nஅன்னநீ ரார்க்கே உள."
-kural_translation: "To give and live with honor: there is no greater profit in life."
+kural_translation: |
+  To give and live with honor: there is no greater profit in life.
 kural_number: 527
 kural_bridge: "Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits."
 prev_knot: "organizations/104-urgency-addiction"
-prev_knot_title: "Urgency Addiction"
+prev_knot_title: Urgency Addiction
 next_knot: "organizations/106-celebration-deficit"
-next_knot_title: "Celebration Deficit"
-untie_story: "A tech team replaced their retrospective with a monthly \"energy retrospective.\" What drained us? What charged us? Actions followed."
-untie_practices:
-  - "Lend one resource to another team for one quarter."
-  - "Resource sharing is tracked and credited."
-  - "When sharing is rewarded, resources flow to where they're needed, organizational efficiency impro..."
-untie_question: "What would change in your organization if you untangled \"resource hoarding\" this week?"
+next_knot_title: Celebration Deficit
+untie_story: 'A tech team replaced their retrospective with a monthly \"energy retrospective.\" What drained us? What charged us? Actions followed.'
+untie_question: 'What would change in your organization if you untangled \"resource hoarding\" this week?'
 quote_top: "Resource hoarding starves your organization's downstream ecosystem."
 quote_bottom: "Redistribute for collective vitality."
 origin_nodes: ["knots:104-urgency-addiction", "knots/organizations/104-urgency-addiction", "knots/organizations/106-celebration-deficit"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 To give and live with honor: no greater profit exists.

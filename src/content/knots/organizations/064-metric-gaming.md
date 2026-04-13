@@ -1,5 +1,4 @@
 ---
-
 title: metric-gaming
 knot_number: 64
 domain: organizations
@@ -8,32 +7,27 @@ series_number: 4
 slug_name: metric-gaming
 date: 2026-03-17
 description: "One who speaks truth from the heart surpasses those who practice austerity and c..."
-
-
 punch_line_1: "One who speaks truth from the heart surpasses those who practice austerity and charity."
-punch_line_2: "Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart."
+punch_line_2: |
+  Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart.
 felt_hook: "Your organization optimized for the metric and lost sight of the thing the metric was supposed to measure."
 kural_tamil: "தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து\nவேட்டுவன் புள்சிமிழ்த் தற்று."
 kural_translation: "One who speaks truth from the heart surpasses even those who practice austerity and charity."
 kural_number: 274
-kural_bridge: "Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart."
+kural_bridge: |
+  Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart.
 prev_knot: "organizations/063-groupthink"
-prev_knot_title: "Groupthink"
+prev_knot_title: Groupthink
 next_knot: "organizations/065-innovation-theater"
-next_knot_title: "Innovation Theater"
-untie_story: "A startup built a \"knowledge graph\" of who knows what. Finding expertise dropped from days to minutes."
-untie_practices:
-  - "Look at your top three KPIs."
-  - "Every KPI is paired with a counter-metric that detects gaming."
-  - "When metrics measure outcomes instead of activity, gaming becomes obvious, real performance is vi..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"metric gaming\" this week?"
-quote_top: "Metrics lie, dashboards green: You're optimizing the wrong thing."
+next_knot_title: Innovation Theater
+untie_story: 'A startup built a \"knowledge graph\" of who knows what. Finding expertise dropped from days to minutes.'
+untie_question: 'What would change in your organization if you untangled \"metric gaming\" this week?'
+quote_top: |
+  Metrics lie, dashboards green: You're optimizing the wrong thing.
 quote_bottom: "Failure by the numbers."
 origin_nodes: ["knots:063-groupthink", "knots/organizations/063-groupthink", "knots/organizations/065-innovation-theater"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who speaks truth from the heart surpasses those who practice austerity and charity.

@@ -1,5 +1,4 @@
 ---
-
 title: forecast-addiction
 knot_number: 70
 domain: organizations
@@ -11,27 +10,23 @@ description: "Truth seen by one without understanding. Goodness from one without
 quote_top: "The addiction is not to accuracy.\nIt is to the feeling of certainty."
 quote_bottom: "Forecasts without understanding are\nlike truth without comprehension."
 punch_line_1: "Truth seen by one without understanding. Goodness from one without compassion."
-punch_line_2: "Forecasts without understanding are like truth without comprehension: the prediction exists but the insight doesn't."
+punch_line_2: |
+  Forecasts without understanding are like truth without comprehension: the prediction exists but the insight doesn't.
 felt_hook: "The addiction isn't to accuracy. It's to the feeling of certainty."
 kural_tamil: "அமைந்தாங் கொழுகான் அளவறியான் தன்னை\nவியந்தான் விரைந்து கெடும்."
 kural_translation: "Goodness from one without compassion is like truth seen by one without understanding."
 kural_number: 474
-kural_bridge: "Forecasts without understanding are like truth without comprehension: the prediction exists but the insight doesn't."
+kural_bridge: |
+  Forecasts without understanding are like truth without comprehension: the prediction exists but the insight doesn't.
 prev_knot: "organizations/069-cognitive-debt"
-prev_knot_title: "Cognitive Debt"
+prev_knot_title: Cognitive Debt
 next_knot: "organizations/071-knowledge-hoarding"
-next_knot_title: "Knowledge Hoarding"
-untie_story: "A team created a \"decision quality\" dashboard tracking not outcomes but process quality. Better process led to better outcomes."
-untie_practices:
-  - "Compare your last four quarterly forecasts to actuals."
-  - "Forecasts are accuracy-tracked and presented with explicit uncertainty ranges."
-  - "When uncertainty is acknowledged, planning becomes adaptive, decisions are made with honest infor..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"forecast addiction\" this week?"
+next_knot_title: Knowledge Hoarding
+untie_story: 'A team created a \"decision quality\" dashboard tracking not outcomes but process quality. Better process led to better outcomes.'
+untie_question: 'What would change in your organization if you untangled \"forecast addiction\" this week?'
 origin_nodes: ["knots:069-cognitive-debt", "knots/organizations/069-cognitive-debt", "knots/organizations/071-knowledge-hoarding"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Truth seen by one without understanding. Goodness from one without compassion.

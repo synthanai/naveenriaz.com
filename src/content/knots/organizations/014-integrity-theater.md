@@ -1,5 +1,4 @@
 ---
-
 title: integrity-theater
 knot_number: 14
 domain: organizations
@@ -7,10 +6,10 @@ series: culture
 series_number: 2
 slug_name: integrity-theater
 date: 2026-03-17
-description: "Virtue is never departing from four things: no envy, no greed, no wrath, no hars..."
-
-
-punch_line_1: "Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech."
+description: |
+  Virtue is never departing from four things: no envy, no greed, no wrath, no hars...
+punch_line_1: |
+  Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech.
 punch_line_2: "Integrity isn't the ceremony. It's the daily absence of what corrodes."
 felt_hook: "And somehow, the person who reported harassment last month was quietly moved to a different floor."
 kural_tamil: "பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று\nஏதம் பலவுந் தரும்."
@@ -18,21 +17,18 @@ kural_translation: "Virtue is never departing from freedom of envy, greed, wrath
 kural_number: 275
 kural_bridge: "Integrity isn't the ceremony. It's the daily absence of what corrodes."
 prev_knot: "organizations/013-performative-safety"
-prev_knot_title: "Performative Safety"
+prev_knot_title: Performative Safety
 next_knot: "organizations/015-gravitational-void"
-next_knot_title: "Gravitational Void"
-untie_story: "A team started each Monday with \"one thing I learned last week.\" Within months, learning became the culture norm."
-untie_practices:
-  - "Pick one behavioral standard in your team."
-  - "One rule in the organization is followed identically whether anyone is watching or not."
-  - "When integrity is real, whistleblower hotlines go quiet (not because problems disappear, but beca..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"integrity theater\" this week?"
+next_knot_title: Gravitational Void
+untie_story: 'A team started each Monday with \"one thing I learned last week.\" Within months, learning became the culture norm.'
+untie_question: 'What would change in your organization if you untangled \"integrity theater\" this week?'
 quote_top: "Integrity is living it, not a quarterly performance event."
 quote_bottom: "Performance vanishes when audience leaves."
 origin_nodes: ["knots:013-performative-safety", "knots/organizations/013-performative-safety", "knots/organizations/015-gravitational-void"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-04-05T09:30:52.205Z"
+published_at: "2026-04-05T09:30:55.906Z"
 ---
 
 Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech.

@@ -1,40 +1,34 @@
 ---
-
-title: "purpose-amnesia"
+title: purpose-amnesia
 knot_number: 1
-domain: "organizations"
+domain: organizations
 series: identity
 series_number: 1
-slug_name: "purpose-amnesia"
+slug_name: purpose-amnesia
 date: 2026-03-17
 description: "Can your newest hire tell a stranger what your organization stands for, without reading a document?"
-
-
 punch_line_1: "The mission didn't die."
 punch_line_2: "It is starving while you are busy."
 felt_hook: "Can your newest hire tell a stranger what your organization stands for, without reading a document?"
-emotion_target: "Hollowness: the specific emptiness of working somewhere that can't explain why it exists"
+emotion_target: |
+  Hollowness: the specific emptiness of working somewhere that can't explain why it exists
 never_say: ["realign with purpose", "revisit our mission", "purpose workshop"]
 kural_tamil: "அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை\nமறத்தலின் ஊங்கில்லை கேடு."
 kural_translation: "No greater gain than virtue; no greater ruin than forgetting it."
 kural_number: 32
 kural_bridge: "Purpose forgotten is virtue abandoned."
 next_knot: "organizations/002-identity-mimicry"
-next_knot_title: "Identity Mimicry"
+next_knot_title: Identity Mimicry
 untie_story: "A startup founder revisited their original pitch deck after three years of drift. Reading it aloud to the team brought tears. They remembered."
-untie_practices:
-  - "ask: \"Why does this team exist?\" Write down the exact words."
-  - "Every person on the team can explain why the organization exists without checking a document."
-  - "When the purpose is shared (not just stated), hiring criteria sharpen, meetings have natural filt..."
-  - "Ask one person \"why are you here?\" today"
-  - "Write your team's purpose in one sentence"
-  - "Compare calendar to stated values this week"
-untie_question: "What would change in your organization if you untangled \"purpose amnesia\" this week?"
+- "ask: '\"Why does this team exist?\" Write down the exact words."'
+untie_question: 'What would change in your organization if you untangled \"purpose amnesia\" this week?'
 quote_top: "Purpose attenuates when it's not amplified."
 quote_bottom: "Re-amplify your reason."
 origin_nodes: ["sparks:purpose-amnesia", "knots/organizations/002-identity-mimicry", "sparks/purpose-amnesia"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-03-23T09:01:36.676Z"
+published_at: "2026-03-23T12:17:38.977Z"
 ---
 
 I hired a woman last March. Brilliant. Two Masters degrees. She came from a competitor.

@@ -1,5 +1,4 @@
 ---
-
 title: consultant-dependency
 knot_number: 60
 domain: organizations
@@ -18,18 +17,17 @@ kural_translation: "One who acts without knowing the method destroys their own w
 kural_number: 478
 kural_bridge: "Consultant dependency means the method lives in an external body. When that body leaves, the organization can't act because it never learned how."
 prev_knot: "organizations/059-ungrieved-loss"
-prev_knot_title: "Ungrieved Loss"
+prev_knot_title: Ungrieved Loss
 next_knot: "organizations/061-collective-blindness"
-next_knot_title: "Collective Blindness"
-untie_story: "A bank branch manager asked monthly: \"what should we stop doing?\" Removing friction accelerated adoption faster than adding features."
-untie_practices:
-  - "Before hiring the next consultant, ask: what internal capability will exist after they leave?"
-  - "Every consulting engagement includes a capability transfer milestone: what internal skill will ex..."
-  - "When capability transfer is the metric, consulting engagements build lasting strength, the organi..."
-untie_question: "What would change in your organization if you untangled \"consultant dependency\" this week?"
+next_knot_title: Collective Blindness
+untie_story: |
+  A bank branch manager asked monthly: \"what should we stop doing?\" Removing friction accelerated adoption faster than adding features.
+- "Before hiring the next consultant, ask: 'what internal capability will exist after they leave?"'
+- "Every consulting engagement includes a capability transfer milestone: 'what internal skill will ex..."'
+untie_question: 'What would change in your organization if you untangled \"consultant dependency\" this week?'
 origin_nodes: ["knots:059-ungrieved-loss", "knots/organizations/059-ungrieved-loss", "knots/organizations/061-collective-blindness"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who acts without knowing the method destroys their own work.

@@ -1,5 +1,4 @@
 ---
-
 title: transformation-theater
 knot_number: 50
 domain: organizations
@@ -18,18 +17,14 @@ kural_translation: "One who acts without understanding the means will find thems
 kural_number: 478
 kural_bridge: "Transformation theater produces understanding without means and activity without change."
 prev_knot: "organizations/049-change-fatigue"
-prev_knot_title: "Change Fatigue"
+prev_knot_title: Change Fatigue
 next_knot: "organizations/051-resistance-misdiagnosis"
-next_knot_title: "Resistance Misdiagnosis"
-untie_story: "A hospital named their change \"Operation Sunrise\" and celebrated small wins weekly. Eighteen months later, the culture had transformed."
-untie_practices:
-  - "Ask three frontline employees what has actually changed in their daily work."
-  - "Transformation progress is measured by changed behavior, not by completed workstreams."
-  - "When transformation is measured by behavior instead of governance, programs become leaner, timeli..."
-untie_question: "What would change in your organization if you untangled \"transformation theater\" this week?"
+next_knot_title: Resistance Misdiagnosis
+untie_story: 'A hospital named their change \"Operation Sunrise\" and celebrated small wins weekly. Eighteen months later, the culture had transformed.'
+untie_question: 'What would change in your organization if you untangled \"transformation theater\" this week?'
 origin_nodes: ["knots:049-change-fatigue", "knots/organizations/049-change-fatigue", "knots/organizations/051-resistance-misdiagnosis"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who acts without understanding the means will find themselves as lost as one who understands but never acts.

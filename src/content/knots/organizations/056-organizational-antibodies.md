@@ -1,5 +1,4 @@
 ---
-
 title: organizational-antibodies
 knot_number: 56
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 8
 slug_name: organizational-antibodies
 date: 2026-03-17
 description: "Harsh words and excessive punishment grind down strength like a file on metal...."
-
-
 punch_line_1: "Harsh words and excessive punishment grind down strength like a file on metal."
 punch_line_2: "Organizational antibodies don't use harsh words. They use quiet processes, budget redirections, and scheduling conflicts to file down the foreign tissue."
 felt_hook: "The change worked. The system undid it."
@@ -18,20 +15,18 @@ kural_translation: "Harsh words and excessive punishment grind down a ruler's st
 kural_number: 566
 kural_bridge: "Organizational antibodies don't use harsh words. They use quiet processes, budget redirections, and scheduling conflicts to file down the foreign tissue."
 prev_knot: "organizations/055-sponsorship-evaporation"
-prev_knot_title: "Sponsorship Evaporation"
+prev_knot_title: Sponsorship Evaporation
 next_knot: "organizations/057-rhetoric-reality-gap"
-next_knot_title: "Rhetoric Reality Gap"
-untie_story: "A company assigned \"change buddies\" to pair skeptics with early adopters. Peer influence outperformed training by 3x."
-untie_practices:
-  - "If your change team succeeded and was then reorganized, ask: was the change discontinued because ..."
-  - "Successful innovations are protected from organizational immune response through explicit executi..."
-  - "When antibodies are recognized, successful innovations survive the system's immune response, bene..."
-untie_question: "What would change in your organization if you untangled \"organizational antibodies\" this week?"
-quote_top: "Organizations reject beneficial change: not with hostility, but systemic friction."
+next_knot_title: Rhetoric Reality Gap
+untie_story: 'A company assigned \"change buddies\" to pair skeptics with early adopters. Peer influence outperformed training by 3x.'
+- "If your change team succeeded and was then reorganized, ask: 'was the change discontinued because ..."'
+untie_question: 'What would change in your organization if you untangled \"organizational antibodies\" this week?'
+quote_top: |
+  Organizations reject beneficial change: not with hostility, but systemic friction.
 quote_bottom: "Culture protects itself from new."
 origin_nodes: ["knots:055-sponsorship-evaporation", "knots/organizations/055-sponsorship-evaporation", "knots/organizations/057-rhetoric-reality-gap"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Harsh words and excessive punishment grind down strength like a file on metal.

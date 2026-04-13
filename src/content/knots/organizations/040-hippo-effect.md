@@ -1,5 +1,4 @@
 ---
-
 title: hippo-effect
 knot_number: 40
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 4
 slug_name: hippo-effect
 date: 2026-03-17
 description: "A person's stature rises to match their will...."
-
-
 punch_line_1: "A person's stature rises to match their will."
 punch_line_2: "The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the room."
 felt_hook: "Then the SVP offered his 'initial thinking.' After that, the data didn't matter."
@@ -18,20 +15,17 @@ kural_translation: "As a flower rises to the water's height, so does a person's 
 kural_number: 475
 kural_bridge: "The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the room."
 prev_knot: "organizations/039-consensus-trap"
-prev_knot_title: "Consensus Trap"
+prev_knot_title: Consensus Trap
 next_knot: "organizations/041-irreversibility-blindness"
-next_knot_title: "Irreversibility Blindness"
-untie_story: "A founder set a rule: any decision reversible within 30 days gets made in 24 hours. Velocity tripled."
-untie_practices:
-  - "have the most senior person speak last."
-  - "The most senior person speaks last."
-  - "When authority listens before speaking, better ideas survive, junior talent develops faster, and ..."
-untie_question: "What would change in your organization if you untangled \"hippo effect\" this week?"
-quote_top: "Authority warps truth like gravity warps light"
-quote_bottom: "Power blinds analysis"
+next_knot_title: Irreversibility Blindness
+untie_story: |
+  A founder set a rule: any decision reversible within 30 days gets made in 24 hours. Velocity tripled.
+untie_question: 'What would change in your organization if you untangled \"hippo effect\" this week?'
+quote_top: Authority warps truth like gravity warps light
+quote_bottom: Power blinds analysis
 origin_nodes: ["knots:039-consensus-trap", "knots/organizations/039-consensus-trap", "knots/organizations/041-irreversibility-blindness"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 A person's stature rises to match their will.

@@ -1,5 +1,4 @@
 ---
-
 title: customer-capability-gap
 knot_number: 91
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 7
 slug_name: customer-capability-gap
 date: 2026-03-17
 description: "Challenges strengthen the resolute. The wavering break...."
-
-
 punch_line_1: "Challenges strengthen the resolute. The wavering break."
 punch_line_2: "The customer capability gap is the space between what was promised and what can be delivered. Each broken promise weakens the organization's resolve."
 felt_hook: "The gap between promise and capability isn't a marketing problem. It's a trust problem. Every customer interaction that falls short of the brand promise is a withdrawal from the trust account."
@@ -18,23 +15,18 @@ kural_translation: "Challenges strengthen the resolute; the wavering are broken 
 kural_number: 535
 kural_bridge: "The customer capability gap is the space between what was promised and what can be delivered. Each broken promise weakens the organization's resolve."
 prev_knot: "organizations/090-technical-debt-avalanche"
-prev_knot_title: "Technical Debt Avalanche"
+prev_knot_title: Technical Debt Avalanche
 next_knot: "organizations/092-outsourcing-identity"
-next_knot_title: "Outsourcing Identity"
+next_knot_title: Outsourcing Identity
 untie_story: "A nonprofit invested in leadership development for middle managers. Eighteen months later, three internal promotions replaced expensive external hires."
-untie_practices:
-  - "Ask your customer-facing team: what do we promise that we can't consistently deliver?"
-  - "Every market-facing promise is validated against operational capability before announcement."
-  - "When promises match capability, customer trust builds, retention improves, and the organization c..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"customer capability gap\" this week?"
+- "Ask your customer-facing team: 'what do we promise that we can''t consistently deliver?"'
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"customer capability gap\" this week?'
 quote_top: "Broken promises shatter customer trust, leading to business failure."
 quote_bottom: "Deliver less, promise less."
 origin_nodes: ["knots:090-technical-debt-avalanche", "knots/organizations/090-technical-debt-avalanche", "knots/organizations/092-outsourcing-identity"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Challenges strengthen the resolute. The wavering break.

@@ -1,5 +1,4 @@
 ---
-
 title: values-inversion
 knot_number: 20
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 8
 slug_name: values-inversion
 date: 2026-03-17
 description: "Some appear bright as the crab's-eye seed outside, but inside they are black as ..."
-
-
 punch_line_1: "Some appear bright as the crab's-eye seed outside, but inside they are black as its core."
 punch_line_2: "Declared values are the bright exterior. The budget is the dark core that reveals the truth."
 felt_hook: "The values and the budget are telling two different stories. Only one of them is true."
@@ -18,21 +15,18 @@ kural_translation: "Some appear bright as the crab's-eye seed outside, but insid
 kural_number: 277
 kural_bridge: "Declared values are the bright exterior. The budget is the dark core that reveals the truth."
 prev_knot: "organizations/019-fear-culture"
-prev_knot_title: "Fear Culture"
+prev_knot_title: Fear Culture
 next_knot: "organizations/021-meeting-toxicity"
-next_knot_title: "Meeting Toxicity"
-untie_story: "A factory introduced \"mistake of the month\" celebrations. Error reporting went up 400%. Error rates went down 60%."
-untie_practices:
-  - "Pull up your values statement and your last budget side by side."
-  - "Every stated value has a corresponding budget line."
-  - "When values and budgets align, hiring decisions become clearer, strategic choices have natural fi..."
-  - "Replace one \"that's how we do it\" with \"why?\""
-untie_question: "What would change in your organization if you untangled \"values inversion\" this week?"
+next_knot_title: Meeting Toxicity
+untie_story: 'A factory introduced \"mistake of the month\" celebrations. Error reporting went up 400%. Error rates went down 60%.'
+untie_question: 'What would change in your organization if you untangled \"values inversion\" this week?'
 quote_top: "Real values are funded behaviors, not wall posters."
 quote_bottom: "Budget speaks louder than words."
 origin_nodes: ["knots:019-fear-culture", "knots/organizations/019-fear-culture", "knots/organizations/021-meeting-toxicity"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: published
+approved_at: "2026-04-11T11:05:45.521Z"
+published_at: "2026-04-11T12:10:00.302Z"
 ---
 
 Some appear bright as the crab's-eye seed outside, but inside they are black as its core.

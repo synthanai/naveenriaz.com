@@ -1,5 +1,4 @@
 ---
-
 title: decision-fragmentation
 knot_number: 44
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 8
 slug_name: decision-fragmentation
 date: 2026-03-17
 description: "Those who know the weight of words speak only after understanding the full assem..."
-
-
 punch_line_1: "Those who know the weight of words speak only after understanding the full assembly."
 punch_line_2: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."
 felt_hook: "Each decision was rational in isolation. Together, they created three incompatible systems, three duplicated budgets, and three teams who discovered each other at the integration meeting."
@@ -18,20 +15,18 @@ kural_translation: "Those who know the weight of words speak only after understa
 kural_number: 481
 kural_bridge: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."
 prev_knot: "organizations/043-dissent-suppression"
-prev_knot_title: "Dissent Suppression"
+prev_knot_title: Dissent Suppression
 next_knot: "organizations/045-meeting-to-decision-ratio"
-next_knot_title: "Meeting To Decision Ratio"
-untie_story: "A startup stopped consensus-seeking and moved to \"consult then decide.\" Meetings shortened. Quality stayed the same."
-untie_practices:
-  - "Before making any cross-team decision, ask: who else is deciding something similar right now?"
-  - "Before any decision with cross-team implications, the decision-maker identifies who else is decid..."
-  - "When decisions are visible across teams, duplication drops, resources consolidate, and the organi..."
-untie_question: "What would change in your organization if you untangled \"decision fragmentation\" this week?"
-quote_top: "Fragmented decisions: individually rational, collectively catastrophic."
+next_knot_title: Meeting To Decision Ratio
+untie_story: 'A startup stopped consensus-seeking and moved to \"consult then decide.\" Meetings shortened. Quality stayed the same.'
+- "Before making any cross-team decision, ask: 'who else is deciding something similar right now?"'
+untie_question: 'What would change in your organization if you untangled \"decision fragmentation\" this week?'
+quote_top: |
+  Fragmented decisions: individually rational, collectively catastrophic.
 quote_bottom: "Incoherence kills innovation."
 origin_nodes: ["knots:043-dissent-suppression", "knots/organizations/043-dissent-suppression", "knots/organizations/045-meeting-to-decision-ratio"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Those who know the weight of words speak only after understanding the full assembly.

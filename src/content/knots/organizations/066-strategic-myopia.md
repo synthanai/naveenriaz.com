@@ -1,5 +1,4 @@
 ---
-
 title: strategic-myopia
 knot_number: 66
 domain: organizations
@@ -8,8 +7,6 @@ series_number: 6
 slug_name: strategic-myopia
 date: 2026-03-17
 description: "One who acts without knowing the method finds ruin...."
-
-
 punch_line_1: "One who acts without knowing the method finds ruin."
 punch_line_2: "Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus."
 felt_hook: "But nobody looks at five-year trajectories when the quarterly bonus depends on the next thirteen weeks."
@@ -18,22 +15,17 @@ kural_translation: "One who acts without knowing the method finds ruin; one who 
 kural_number: 478
 kural_bridge: "Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus."
 prev_knot: "organizations/065-innovation-theater"
-prev_knot_title: "Innovation Theater"
+prev_knot_title: Innovation Theater
 next_knot: "organizations/067-expertise-trap"
-next_knot_title: "Expertise Trap"
-untie_story: "A nonprofit held quarterly \"what surprised us\" sessions. The surprises were always more valuable than the confirmations."
-untie_practices:
-  - "Add one agenda item to your next planning session: what is true today that won't be true in three..."
-  - "Every quarterly plan includes one investment that serves the 3-year horizon, funded from current ..."
-  - "When the organization sees beyond the quarter, strategic investments happen early, market shifts ..."
-  - "Ask \"what do we know that we're not using?\""
-  - "Create one cross-team knowledge connection this week"
-untie_question: "What would change in your organization if you untangled \"strategic myopia\" this week?"
+next_knot_title: Expertise Trap
+untie_story: 'A nonprofit held quarterly \"what surprised us\" sessions. The surprises were always more valuable than the confirmations.'
+- "Add one agenda item to your next planning session: 'what is true today that won''t be true in three..."'
+untie_question: 'What would change in your organization if you untangled \"strategic myopia\" this week?'
 quote_top: "Short-sighted focus is leadership failure at its worst."
 quote_bottom: "Look far, lead well."
 origin_nodes: ["knots:065-innovation-theater", "knots/organizations/065-innovation-theater", "knots/organizations/067-expertise-trap"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 One who acts without knowing the method finds ruin.

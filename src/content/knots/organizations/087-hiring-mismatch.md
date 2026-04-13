@@ -1,5 +1,4 @@
 ---
-
 title: hiring-mismatch
 knot_number: 87
 domain: organizations
@@ -9,30 +8,28 @@ slug_name: hiring-mismatch
 date: 2026-03-17
 description: "Even if fate opposes, effort yields its reward...."
 punch_line_1: "Even if fate opposes, effort yields its reward."
-punch_line_2: "Hiring mismatch opposes effort: no amount of work fixes a person placed in the wrong role for the wrong reasons."
+punch_line_2: |
+  Hiring mismatch opposes effort: no amount of work fixes a person placed in the wrong role for the wrong reasons.
 felt_hook: "The candidate was impressive. The role needed something they didn't have. Not skill. Fit."
 kural_tamil: "எனைவகையான் தேறியக் கண்ணும் வினைவகையான்\nவேறாகும் மாந்தர் பலர்."
 kural_translation: "Even if fate opposes, effort yields its rightful reward."
 kural_number: 514
-kural_bridge: "Hiring mismatch opposes effort: no amount of work fixes a person placed in the wrong role for the wrong reasons."
+kural_bridge: |
+  Hiring mismatch opposes effort: no amount of work fixes a person placed in the wrong role for the wrong reasons.
 prev_knot: "organizations/086-talent-hoarding"
-prev_knot_title: "Talent Hoarding"
+prev_knot_title: Talent Hoarding
 next_knot: "organizations/088-knowledge-extinction"
-next_knot_title: "Knowledge Extinction"
+next_knot_title: Knowledge Extinction
 untie_story: "A hospital paired experienced nurses with new ones for their first six months. Retention of new nurses doubled."
-untie_practices:
-  - "After your next interview, ask: what does this team need that our interview didn't measure?"
-  - "Every hiring process includes a fit assessment: working style, cultural norms, team dynamics."
-  - "When fit is assessed alongside skill, retention improves, team cohesion strengthens, and the orga..."
-  - "Ask each person: \"what skill would transform your work?\""
-  - "Pair one experienced person with one new person"
-  - "Dedicate one hour this week to skill-building"
-untie_question: "What would change in your organization if you untangled \"hiring mismatch\" this week?"
+- "After your next interview, ask: 'what does this team need that our interview didn''t measure?"'
+- "Every hiring process includes a fit assessment: 'working style, cultural norms, team dynamics."'
+- "Ask each person: '\"what skill would transform your work?\""'
+untie_question: 'What would change in your organization if you untangled \"hiring mismatch\" this week?'
 quote_top: "Credentials don't guarantee context. Measure fit, not just skills."
 quote_bottom: "Mismatch dissolves everything."
 origin_nodes: ["knots:086-talent-hoarding", "knots/organizations/086-talent-hoarding", "knots/organizations/088-knowledge-extinction"]
-valence: "mixed"
-friction: ""
+valence: mixed
+status: pending
 ---
 
 Even if fate opposes, effort yields its reward.
