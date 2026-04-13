@@ -54,16 +54,13 @@ custom_linkedin: |-
 approved_at: "2026-04-12T12:16:49.769Z"
 published_at: "2026-04-12T12:16:56.196Z"
 linkedin_post: |-
-  🪢 KNOTS · Untangling Organisations
-  🌡️ Untangling Culture
-  
   A visitor would count the meetings.
   
   Your team meets about meetings. Literally.
   
-  12 people. 60 minutes. Decisions: none.
+  12 people. 60 minutes. One decision: none.
   
-  Meetings replace work. Then multiply. Then compound.
+  Meetings replace work. Then multiply. Then metastasize.
   
   Calendar density is inversely proportional to output.
   
@@ -74,8 +71,6 @@ linkedin_post: |-
   #108KNOTS #UntanglingCulture #Knot021
   
   💡 Teams that make meetings matter #thrive.
-  
-  KNOT #021: Meeting Toxicity
 ---
 
 Never speak useless words. To speak them is to speak nothing at all.

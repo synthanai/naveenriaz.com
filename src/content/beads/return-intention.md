@@ -10,6 +10,7 @@ quote_bottom: "Untie the noise."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 Amnesia is just the erosion of the signal.
 

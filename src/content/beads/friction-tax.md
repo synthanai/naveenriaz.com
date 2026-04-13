@@ -10,6 +10,7 @@ quote_bottom: "Undeclared intent creates friction."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 Most of the slowness in your organisation is not a talent problem. It is an alignment problem.
 

@@ -33,7 +33,7 @@ untie_implement: "Ask every person on your team, one-on-one: 'What would be lost
 untie_question: 'What would change in your organisation if you untangled \"belonging fracture\" this week?'
 origin_nodes: ["knots:022-recognition-deficit", "knots/organizations/022-recognition-deficit", "knots/organizations/024-the-culture-tax"]
 valence: mixed
-status: pending
+status: published
 linkedin_post: |-
   A visitor would notice the separate tables.
   
@@ -53,7 +53,7 @@ linkedin_post: |-
   
   💡 Organizations where people belong #thrive.
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/023-belonging-fracture/"
-published_at: "2026-04-13T13:09:00.583Z"
+published_at: "2026-04-13T16:15:44.358Z"
 ---
 
 The loveless live only for themselves. The loving give even their bones for others.

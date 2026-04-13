@@ -10,6 +10,7 @@ quote_bottom: "Metrics mislead; purpose prevails."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 The core decays long before the surface shows structural failure.
 

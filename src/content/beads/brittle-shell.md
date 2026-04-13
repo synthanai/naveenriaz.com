@@ -10,6 +10,7 @@ quote_bottom: "Authenticity truly tested in fire."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 It is easy to hold strong values when the market is up and the quarter is smooth.
 

@@ -10,6 +10,7 @@ quote_bottom: "Scale without purpose is chaos."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 As an organisation grows, the sheer gravity of its scale begins to distort its original architecture.
 

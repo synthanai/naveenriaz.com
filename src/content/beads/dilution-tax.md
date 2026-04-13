@@ -10,6 +10,7 @@ quote_bottom: "Authenticity fuels, extraction kills."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 You cannot commodify the soul of your organisation without bankrupting it.
 

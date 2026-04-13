@@ -10,6 +10,7 @@ quote_bottom: "When 'why' is clear, 'how' becomes inexpensive, fueling action ov
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 You cannot pay salaries with purpose, but you cannot pay people to care without it either.
 

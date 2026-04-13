@@ -10,6 +10,7 @@ quote_bottom: "Weave your own pattern."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 Mimicry is the safest form of failure.
 

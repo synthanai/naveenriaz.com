@@ -10,6 +10,7 @@ quote_bottom: "Understand the soul, not the shell."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 We borrow the Spotify model, the Google sprints, the Netflix vacation policy.
 

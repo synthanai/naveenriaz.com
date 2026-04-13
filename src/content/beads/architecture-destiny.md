@@ -10,6 +10,7 @@ quote_bottom: "Structure impacts everything."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 We are often told that strong culture alone can scale an organisation.
 

@@ -10,6 +10,7 @@ quote_bottom: "Fortresses harm the whole."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 When a team must build walls to protect its efficiency or psychological safety from the rest of the enterprise, they become cultural orphans.
 

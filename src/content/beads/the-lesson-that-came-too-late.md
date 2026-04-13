@@ -6,6 +6,7 @@ resonance: "The gap between knowing and knowing-in-time."
 tags: [against-type, cognitive_friction]
 valence: "dark"
 origin_nodes: ["fusions:two-ideas-that-should-have-connected-but-didnt", "sparks:the-signal-i-chased-for-six-months-that-was-noise"]
+status: pending
 ---
 
 *Yet to conceive. This moment is waiting for the right moment to be born.*
