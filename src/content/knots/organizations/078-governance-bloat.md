@@ -28,7 +28,7 @@ quote_bottom: "Paralyzed by protection."
 origin_nodes: ["knots:077-middle-management-squeeze", "knots/organizations/077-middle-management-squeeze", "knots/organizations/079-technology-sprawl"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says "cross-functional teams." Reality says meetings.
   
   Your governance requires seventeen approvals for action.

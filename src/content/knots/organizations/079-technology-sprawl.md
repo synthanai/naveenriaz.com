@@ -28,7 +28,7 @@ quote_bottom: "Consolidate or perish."
 origin_nodes: ["knots:078-governance-bloat", "knots/organizations/078-governance-bloat", "knots/organizations/080-the-bottleneck-person"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says "unified systems." You have seventeen.
   
   Your teams use different tools for overlapping work.

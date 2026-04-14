@@ -34,7 +34,7 @@ valence: mixed
 status: published
 approved_at: "2026-04-05T09:31:14.795Z"
 published_at: "2026-04-06T09:27:08.413Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice the emptiness.
   
   Your team moves, but nothing pulls them.

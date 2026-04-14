@@ -29,7 +29,7 @@ quote_bottom: "Silence speaks loud losses."
 origin_nodes: ["knots:062-learning-disability", "knots/organizations/062-learning-disability", "knots/organizations/064-metric-gaming"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the echo chamber.
   
   Your team agrees on everything. Enthusiastically.

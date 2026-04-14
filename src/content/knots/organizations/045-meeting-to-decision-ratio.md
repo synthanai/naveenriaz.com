@@ -28,7 +28,7 @@ quote_bottom: "Exhaustion isn't output."
 origin_nodes: ["knots:044-decision-fragmentation", "knots/organizations/044-decision-fragmentation", "knots/organizations/046-risk-theater"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Fourteen meetings. Zero decisions. Last month.
   
   Your calendar is dense. Your output isn't.

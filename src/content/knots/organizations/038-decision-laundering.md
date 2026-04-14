@@ -29,7 +29,7 @@ quote_bottom: "Honest advocacy beats theater."
 origin_nodes: ["knots:037-analysis-paralysis", "sparks:decision-laundering", "knots/organizations/037-analysis-paralysis", "knots/organizations/039-consensus-trap", "sparks/decision-laundering"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The decision was already made. Secretly.
   
   Your meeting performed deliberation. Just theater.

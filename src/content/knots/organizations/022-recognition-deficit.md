@@ -28,7 +28,7 @@ origin_nodes: ["knots:021-meeting-toxicity", "knots/organizations/021-meeting-to
 valence: mixed
 status: published
 published_at: "2026-04-13T11:46:48.321Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice invisible contributions.
   
   Your best people are often least recognized.

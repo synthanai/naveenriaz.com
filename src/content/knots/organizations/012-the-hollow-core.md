@@ -35,7 +35,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-30T05:09:00.687Z"
 published_at: "2026-04-03T12:40:48.218Z"
-linkedin_post: |-
+linkedin_post: |
   What does your organization truly believe?
   
   Not the poster. The actual practiced truth.

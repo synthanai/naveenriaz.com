@@ -31,7 +31,7 @@ quote_bottom: "Transfer, don't extinguish."
 origin_nodes: ["knots:087-hiring-mismatch", "knots/organizations/087-hiring-mismatch", "knots/organizations/089-leadership-vacuum"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Someone resigned. What knowledge just left?
   
   You can't name it. That's the problem.

@@ -35,7 +35,7 @@ untie_question: 'What would change in your organisation if you untangled \"innov
 origin_nodes: ["knots:064-metric-gaming", "sparks:innovation-theater", "knots/organizations/064-metric-gaming", "knots/organizations/066-strategic-myopia", "sparks/innovation-theater"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the silent innovators.
   
   Your best ideas sit in desk drawers.

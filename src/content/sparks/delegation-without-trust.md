@@ -16,8 +16,9 @@ description: "If you cannot let go of the wheel, you have not delegated. You hav
 origin_nodes: []
 valence: "mixed"
 friction: ""
-status: pending-review
+status: published
 added: 2026-03-30
+published_at: "2026-04-14T10:16:48.082Z"
 ---
 
 "I trust you completely. Just send me the draft before you share it. And CC me on the emails. And check with me before the meeting."

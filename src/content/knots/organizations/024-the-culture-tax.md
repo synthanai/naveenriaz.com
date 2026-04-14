@@ -1,33 +1,19 @@
 ---
 title: the-culture-tax
-knot_number: 24
-domain: organizations
-series: culture
-series_number: 12
-slug_name: the-culture-tax
 date: 2026-03-17
+status: published
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/024-the-culture-tax/"
 description: "Fortune abandons the leader who distrusts a capable worker mid-task...."
-punch_line_1: "Fortune abandons the leader who distrusts a capable worker mid-task."
-punch_line_2: "The culture tax is the fortune lost to workarounds, redundancies, and political navigation."
+domain: organizations
 felt_hook: "The political pre-meeting before the actual meeting so nobody is surprised."
+knot_number: 24
+kural_bridge: "The culture tax is the fortune lost to workarounds, redundancies, and political navigation."
+kural_number: 552
 kural_tamil: |-
   வேலொடு நின்றான் இடுவென் றதுபோலும்
   கோலொடு நின்றான் இரவு.
 kural_translation: "Fortune abandons the leader who distrusts a capable worker mid-task."
-kural_number: 552
-kural_bridge: "The culture tax is the fortune lost to workarounds, redundancies, and political navigation."
-prev_knot: "organizations/023-belonging-fracture"
-prev_knot_title: Belonging Fracture
-next_knot: "organizations/025-broken-promises-loop"
-next_knot_title: Broken Promises Loop
-untie_story: 'A nonprofit held monthly \"campfire\" sessions where anyone could share stories. The stories became the culture.'
-untie_question: 'What would change in your organisation if you untangled \"the culture tax\" this week?'
-quote_top: "Culture tax silently bleeds value, exceeding strategy costs."
-quote_bottom: "Invisible, yet devastating."
-origin_nodes: ["knots:023-belonging-fracture", "sparks:the-culture-tax", "knots/organizations/023-belonging-fracture", "knots/organizations/025-broken-promises-loop", "sparks/the-culture-tax"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   A visitor would measure the hidden costs.
   
   Your culture has a tax. Nobody invoices it.
@@ -45,6 +31,26 @@ linkedin_post: |-
   #108KNOTS #UntanglingCulture #Knot024
   
   💡 Cultures that earn their operating cost #thrive.
+next_knot: "organizations/025-broken-promises-loop"
+next_knot_title: Broken Promises Loop
+origin_nodes: [knots:023-belonging-fracture, sparks:the-culture-tax, knots/organizations/023-belonging-fracture, knots/organizations/025-broken-promises-loop, sparks/the-culture-tax]
+prev_knot: "organizations/023-belonging-fracture"
+prev_knot_title: Belonging Fracture
+punch_line_1: "Fortune abandons the leader who distrusts a capable worker mid-task."
+punch_line_2: "The culture tax is the fortune lost to workarounds, redundancies, and political navigation."
+quote_bottom: |-
+  Invisible, 
+  yet devastating!
+quote_top: |-
+  Culture Tax 
+  silently bleeds value.
+series: culture
+series_number: 12
+slug_name: the-culture-tax
+untie_question: 'What would change in your organisation if you untangled \"the culture tax\" this week?'
+untie_story: 'A nonprofit held monthly \"campfire\" sessions where anyone could share stories. The stories became the culture.'
+valence: mixed
+published_at: "2026-04-14T10:28:26.282Z"
 ---
 
 Fortune abandons the leader who distrusts a capable worker mid-task.

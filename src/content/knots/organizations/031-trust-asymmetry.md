@@ -1,39 +1,20 @@
 ---
 title: trust-asymmetry
-knot_number: 31
-domain: organizations
-series: trust
-series_number: 7
-slug_name: trust-asymmetry
 date: 2026-03-17
+status: approved
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/031-trust-asymmetry/"
 description: "Trusting a stranger without discernment brings endless suffering...."
-quote_top: |-
-  Trust asymmetry is demanding trust
-  you refuse to give to people you know.
-quote_bottom: |-
-  Trusting a stranger without discernment
-  brings endless suffering.
-punch_line_1: "Trusting a stranger without discernment brings endless suffering."
-punch_line_2: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
-felt_hook: |
+domain: organizations
+felt_hook: |-
   The demand is always: trust us. The action is always: we don't trust you.
+knot_number: 31
+kural_bridge: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
+kural_number: 513
 kural_tamil: |-
   அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்
   நன்குடையான் கட்டே தெளிவு.
 kural_translation: "Trusting a stranger without discernment brings endless suffering to one's lineage."
-kural_number: 513
-kural_bridge: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
-prev_knot: "organizations/030-loyalty-extraction"
-prev_knot_title: Loyalty Extraction
-next_knot: "organizations/032-the-accountability-dodge"
-next_knot_title: The Accountability Dodge
-untie_story: 'A remote team created a \"trust battery\" check-in. Each person rated their trust level with others openly.'
-untie_implement: "Before you next ask your team to trust a decision, ask yourself: 'when was the last time you trust..."
-untie_question: 'What would change in your organisation if you untangled \"trust asymmetry\" this week?'
-origin_nodes: ["knots:030-loyalty-extraction", "knots/organizations/030-loyalty-extraction", "knots/organizations/032-the-accountability-dodge"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   The evidence: trust flows in one direction.
   
   Your leaders expect trust they don't give.
@@ -51,6 +32,29 @@ linkedin_post: |-
   #108KNOTS #UntanglingTrust #Knot031
   
   💡 Teams where trust flows both directions #thrive.
+next_knot: "organizations/032-the-accountability-dodge"
+next_knot_title: The Accountability Dodge
+origin_nodes: [knots:030-loyalty-extraction, knots/organizations/030-loyalty-extraction, knots/organizations/032-the-accountability-dodge]
+prev_knot: "organizations/030-loyalty-extraction"
+prev_knot_title: Loyalty Extraction
+punch_line_1: "Trusting a stranger without discernment brings endless suffering."
+punch_line_2: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
+quote_bottom: |-
+  Trusting a stranger
+  without discernment
+  brings endless suffering.
+quote_top: |-
+  Trust asymmetry is demanding trust
+  you refuse to give.
+series: trust
+series_number: 7
+slug_name: trust-asymmetry
+untie_implement: |-
+  Before you next ask your team to trust a decision, ask yourself: 'when was the last time you trust...
+untie_question: 'What would change in your organisation if you untangled \"trust asymmetry\" this week?'
+untie_story: 'A remote team created a \"trust battery\" check-in. Each person rated their trust level with others openly.'
+valence: mixed
+approved_at: "2026-04-14T10:37:59.267Z"
 ---
 
 Trusting a stranger without discernment brings endless suffering.

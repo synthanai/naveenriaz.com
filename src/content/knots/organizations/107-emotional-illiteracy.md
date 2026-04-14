@@ -27,7 +27,7 @@ quote_bottom: "Read the room first."
 origin_nodes: ["knots:106-celebration-deficit", "knots/organizations/106-celebration-deficit", "knots/organizations/108-the-zombie-organization"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: "How's the team?" "Fine." Always fine.
   
   Your organization has no vocabulary for feelings.

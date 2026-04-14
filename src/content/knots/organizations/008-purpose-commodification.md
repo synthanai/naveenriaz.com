@@ -38,7 +38,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-27T03:44:36.989Z"
 published_at: "2026-03-30T05:07:43.126Z"
-linkedin_post: |-
+linkedin_post: |
   Your purpose statement is a product.
   
   Someone packaged meaning into a tagline.

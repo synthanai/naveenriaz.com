@@ -28,7 +28,7 @@ quote_bottom: "Discern irreversible decisions wisely."
 origin_nodes: ["knots:040-hippo-effect", "knots/organizations/040-hippo-effect", "knots/organizations/042-decision-amnesia"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   That decision can't be undone. You knew?
   
   Your team treated all decisions the same.

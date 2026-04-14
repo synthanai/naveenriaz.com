@@ -29,7 +29,7 @@ valence: mixed
 status: published
 approved_at: "2026-04-09T06:12:27.715Z"
 published_at: "2026-04-09T06:12:34.687Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice: teams don't talk.
   
   Your org chart says "collaborative culture."

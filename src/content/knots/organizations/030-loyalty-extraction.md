@@ -1,35 +1,20 @@
 ---
 title: loyalty-extraction
-knot_number: 30
-domain: organizations
-series: trust
-series_number: 6
-slug_name: loyalty-extraction
 date: 2026-03-17
+status: approved
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/030-loyalty-extraction/"
 description: "The land of a ruler who does not seek and administer justice daily will perish d..."
-punch_line_1: "The land of a ruler who does not seek and administer justice daily will perish daily."
-punch_line_2: "Loyalty demanded without justice given is extraction. And extraction leads to daily perishing."
-felt_hook: |
+domain: organizations
+felt_hook: |-
   Loyalty isn't a tax you collect from employees. It's an exchange: you invest in them, they invest in you. When the investment becomes one-directional, the word \"loyalty\" stops being a relationship and becomes a demand.
+knot_number: 30
+kural_bridge: "Loyalty demanded without justice given is extraction. And extraction leads to daily perishing."
+kural_number: 516
 kural_tamil: |-
   செய்வானை நாடி வினைநாடிக் காலத்தோடு
   எய்த உணர்ந்து செயல்.
 kural_translation: "The land of a ruler who does not seek and administer justice daily will perish daily."
-kural_number: 516
-kural_bridge: "Loyalty demanded without justice given is extraction. And extraction leads to daily perishing."
-prev_knot: "organizations/029-competence-doubt"
-prev_knot_title: Competence Doubt
-next_knot: "organizations/031-trust-asymmetry"
-next_knot_title: Trust Asymmetry
-untie_story: "A hospital introduced peer feedback rounds where nurses coached nurses. Quality improved because trust replaced hierarchy."
-untie_implement: "Ask yourself: 'in the last six months, what has your organization done to earn loyalty?"
-untie_question: 'What would change in your organisation if you untangled \"loyalty extraction\" this week?'
-quote_top: "Loyalty isn't a tax, it's a mutual investment."
-quote_bottom: "One-sided loyalty is demand."
-origin_nodes: ["knots:029-competence-doubt", "knots/organizations/029-competence-doubt", "knots/organizations/031-trust-asymmetry"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   The evidence: loyalty demanded, never earned.
   
   Your organization expects commitment without reciprocity.
@@ -47,6 +32,28 @@ linkedin_post: |-
   #108KNOTS #UntanglingTrust #Knot030
   
   💡 Organizations that earn loyalty #thrive.
+next_knot: "organizations/031-trust-asymmetry"
+next_knot_title: Trust Asymmetry
+origin_nodes: [knots:029-competence-doubt, knots/organizations/029-competence-doubt, knots/organizations/031-trust-asymmetry]
+prev_knot: "organizations/029-competence-doubt"
+prev_knot_title: Competence Doubt
+punch_line_1: "The land of a ruler who does not seek and administer justice daily will perish daily."
+punch_line_2: "Loyalty demanded without justice given is extraction. And extraction leads to daily perishing."
+quote_bottom: |-
+  One-sided loyalty 
+  is demand.
+quote_top: |-
+  Loyalty isn't a tax, 
+  it's a mutual investment.
+series: trust
+series_number: 6
+slug_name: loyalty-extraction
+untie_implement: |-
+  Ask yourself: 'in the last six months, what has your organization done to earn loyalty?
+untie_question: 'What would change in your organisation if you untangled \"loyalty extraction\" this week?'
+untie_story: "A hospital introduced peer feedback rounds where nurses coached nurses. Quality improved because trust replaced hierarchy."
+valence: mixed
+approved_at: "2026-04-14T10:37:19.515Z"
 ---
 
 The land of a ruler who does not seek and administer justice daily will perish daily.

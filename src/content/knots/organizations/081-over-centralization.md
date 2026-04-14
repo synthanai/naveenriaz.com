@@ -29,7 +29,7 @@ quote_bottom: "The market lost."
 origin_nodes: ["knots:080-the-bottleneck-person", "knots/organizations/080-the-bottleneck-person", "knots/organizations/082-handoff-failure"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says headquarters decides. Everywhere else: executes.
   
   Your local teams know the market best.

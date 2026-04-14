@@ -31,7 +31,7 @@ quote_bottom: "Solutions without understanding lead to ruin."
 origin_nodes: ["knots:068-data-worship", "knots/organizations/068-data-worship", "knots/organizations/070-forecast-addiction"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the thinking deficit.
   
   Your team solves problems but doesn't think.

@@ -32,7 +32,7 @@ untie_question: 'What would change in your organisation if you untangled \"matri
 origin_nodes: ["knots:083-scaling-pains", "knots/organizations/083-scaling-pains", "knots/organizations/085-skill-obsolescence"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says matrix. Everyone says confusion.
   
   Your people report to three bosses simultaneously.

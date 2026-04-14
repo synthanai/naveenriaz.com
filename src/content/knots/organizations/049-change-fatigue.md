@@ -28,7 +28,7 @@ quote_bottom: "Defiance conquers all."
 origin_nodes: ["knots:048-decision-whiplash", "sparks:change-fatigue", "knots/organizations/048-decision-whiplash", "knots/organizations/050-transformation-theater", "sparks/change-fatigue"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Remember when change felt exciting here?
   
   Your team has survived seven transformations.

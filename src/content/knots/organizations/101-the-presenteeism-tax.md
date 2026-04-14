@@ -28,7 +28,7 @@ quote_bottom: "Measure output, not hours."
 origin_nodes: ["knots:100-reward-misalignment", "sparks:the-presenteeism-tax", "knots/organizations/100-reward-misalignment", "knots/organizations/102-turnover-spiral", "sparks/the-presenteeism-tax"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: eight bodies present. Three productive.
   
   Your organization counts bodies, not contribution.

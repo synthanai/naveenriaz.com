@@ -27,7 +27,7 @@ quote_bottom: "Anticipate beyond the known."
 origin_nodes: ["knots:045-meeting-to-decision-ratio", "knots/organizations/045-meeting-to-decision-ratio", "knots/organizations/047-information-overload"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Your risk register is impressive. And fictional.
   
   Your organization performs risk management beautifully.

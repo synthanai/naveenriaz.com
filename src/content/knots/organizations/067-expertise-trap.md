@@ -30,7 +30,7 @@ quote_bottom: "See beyond your field."
 origin_nodes: ["knots:066-strategic-myopia", "knots/organizations/066-strategic-myopia", "knots/organizations/068-data-worship"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the specialist's cage.
   
   Your expert can't think beyond their domain.

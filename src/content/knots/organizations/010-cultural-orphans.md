@@ -32,7 +32,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-30T05:07:45.912Z"
 published_at: "2026-04-01T06:04:50.067Z"
-linkedin_post: |-
+linkedin_post: |
   New hires find no culture to join.
   
   Your organization has roles, not belonging.

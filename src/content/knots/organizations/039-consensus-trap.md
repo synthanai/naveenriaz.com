@@ -31,7 +31,7 @@ untie_question: 'What would change in your organisation if you untangled \"conse
 origin_nodes: ["knots:038-decision-laundering", "sparks:the-consensus-trap", "knots/organizations/038-decision-laundering", "knots/organizations/040-hippo-effect"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Everyone agreed. Nobody was actually convinced.
   
   Your team values consensus above correctness.

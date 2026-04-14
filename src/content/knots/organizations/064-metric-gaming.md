@@ -30,7 +30,7 @@ quote_bottom: "Failure by the numbers."
 origin_nodes: ["knots:063-groupthink", "knots/organizations/063-groupthink", "knots/organizations/065-innovation-theater"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   All KPIs are green. Customers leaving.
   
   Your dashboard says success. Feels wrong.

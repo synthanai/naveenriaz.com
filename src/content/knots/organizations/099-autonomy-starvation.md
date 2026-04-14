@@ -27,7 +27,7 @@ quote_bottom: "Give roots room to grow."
 origin_nodes: ["knots:098-meaning-drought", "knots/organizations/098-meaning-drought", "knots/organizations/100-reward-misalignment"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: big title. Diagnosis: zero authority.
   
   Your team decides nothing above fifty dollars.

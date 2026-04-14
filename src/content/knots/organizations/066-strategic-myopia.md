@@ -28,7 +28,7 @@ quote_bottom: "Look far, lead well."
 origin_nodes: ["knots:065-innovation-theater", "knots/organizations/065-innovation-theater", "knots/organizations/067-expertise-trap"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the industry report.
   
   Your competitor moved six months before you.

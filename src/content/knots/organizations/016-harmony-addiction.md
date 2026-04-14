@@ -30,7 +30,7 @@ valence: mixed
 status: published
 approved_at: "2026-04-05T09:31:29.855Z"
 published_at: "2026-04-07T10:27:34.210Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice: nobody disagrees.
   
   Your team values harmony above everything.

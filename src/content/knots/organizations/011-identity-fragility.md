@@ -33,7 +33,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-30T05:08:36.688Z"
 published_at: "2026-04-02T12:03:05.381Z"
-linkedin_post: |-
+linkedin_post: |
   One bad quarter shattered everything. Why?
   
   Your identity collapsed under market pressure.

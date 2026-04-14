@@ -8,6 +8,7 @@ tags: [against-type, cognitive_friction]
 description: "A spark that turned out to be static. Six months of conviction, zero yield."
 valence: "dark"
 origin_nodes: []
+status: pending
 ---
 
 *Yet to conceive. This moment is waiting for the right moment to be born.*

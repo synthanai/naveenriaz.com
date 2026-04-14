@@ -32,7 +32,7 @@ untie_question: 'What would change in your organisation if you untangled \"trans
 origin_nodes: ["knots:049-change-fatigue", "knots/organizations/049-change-fatigue", "knots/organizations/051-resistance-misdiagnosis"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, you planned this transformation.
   
   Your roadmap still says "Phase 1: Assessment."

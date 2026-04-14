@@ -31,7 +31,7 @@ quote_bottom: "Leaders, acknowledge your mistakes."
 origin_nodes: ["knots:047-information-overload", "knots/organizations/047-information-overload", "knots/organizations/049-change-fatigue"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The decision was made. And unmade. Twice.
   
   Your organization reverses decisions without acknowledging it.

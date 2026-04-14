@@ -33,7 +33,7 @@ untie_question: 'What would change in your organisation if you untangled \"forec
 origin_nodes: ["knots:069-cognitive-debt", "knots/organizations/069-cognitive-debt", "knots/organizations/071-knowledge-hoarding"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the forecast accuracy.
   
   Your predictions are consistently wrong. Still trusted.

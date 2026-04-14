@@ -30,7 +30,7 @@ quote_bottom: "Redistribute for collective vitality."
 origin_nodes: ["knots:104-urgency-addiction", "knots/organizations/104-urgency-addiction", "knots/organizations/106-celebration-deficit"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: one team drowning. One team surplus.
   
   Your departments hoard people and budgets.

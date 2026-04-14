@@ -29,7 +29,7 @@ quote_bottom: "See the scotoma."
 origin_nodes: ["knots:060-consultant-dependency", "knots/organizations/060-consultant-dependency", "knots/organizations/062-learning-disability"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the feedback survey.
   
   Your organization collects data it never reads.

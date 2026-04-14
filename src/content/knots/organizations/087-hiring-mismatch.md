@@ -32,7 +32,7 @@ quote_bottom: "Mismatch dissolves everything."
 origin_nodes: ["knots:086-talent-hoarding", "knots/organizations/086-talent-hoarding", "knots/organizations/088-knowledge-extinction"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Great CV. Terrible fit. Hired anyway.
   
   Your hiring optimizes for credentials, not context.

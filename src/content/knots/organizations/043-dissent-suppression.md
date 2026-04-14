@@ -33,7 +33,7 @@ untie_question: 'What would change in your organisation if you untangled \"disse
 origin_nodes: ["knots:042-decision-amnesia", "knots/organizations/042-decision-amnesia", "knots/organizations/044-decision-fragmentation"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The brightest idea was killed by silence.
   
   Your team self-censors before speaking up.

@@ -28,7 +28,7 @@ quote_bottom: "Mistakes erode, deepen grooves"
 origin_nodes: ["knots:061-collective-blindness", "knots/organizations/061-collective-blindness", "knots/organizations/063-groupthink"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the same mistakes.
   
   Your team repeats errors from two years ago.

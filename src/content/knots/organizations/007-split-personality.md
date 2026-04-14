@@ -39,7 +39,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-27T03:44:36.000Z"
 published_at: "2026-03-29T11:26:08.742Z"
-linkedin_post: |-
+linkedin_post: |
   Your company says one thing externally.
   
   Internally, a different story plays out.

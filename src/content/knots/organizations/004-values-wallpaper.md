@@ -32,7 +32,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-23T12:13:48.050Z"
 published_at: "2026-03-26T11:00:37.798Z"
-linkedin_post: |-
+linkedin_post: |
   Read your values wall. Now watch behavior.
   
   Your company's values are beautifully framed.

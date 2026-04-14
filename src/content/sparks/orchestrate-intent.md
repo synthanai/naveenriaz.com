@@ -35,7 +35,7 @@ custom_linkedin: |-
 added: 2026-03-30
 approved_at: "2026-04-12T12:08:31.599Z"
 published_at: "2026-04-12T12:08:34.345Z"
-linkedin_post: |-
+linkedin_post: |
   ⚡⚡ SPARK: Orchestrate Intent
   
   A task: "Generate a weekly report." An intent: "Keep the team informed so they make better decisions."

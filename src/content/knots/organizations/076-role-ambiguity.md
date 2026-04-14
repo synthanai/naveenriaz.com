@@ -28,7 +28,7 @@ quote_bottom: "Clarity unlocks productivity."
 origin_nodes: ["knots:075-process-sediment", "knots/organizations/075-process-sediment", "knots/organizations/077-middle-management-squeeze"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says clear roles. Nobody agrees.
   
   Your team has overlapping, undefined responsibilities.

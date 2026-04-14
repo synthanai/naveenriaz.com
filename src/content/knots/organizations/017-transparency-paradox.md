@@ -31,7 +31,7 @@ valence: mixed
 status: published
 approved_at: "2026-04-05T09:31:44.401Z"
 published_at: "2026-04-08T06:19:38.043Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice the glass walls.
   
   Your organization shares everything. Trusts nothing.

@@ -1,37 +1,20 @@
 ---
 title: the-scapegoat-pattern
-knot_number: 35
-domain: organizations
-series: trust
-series_number: 11
-slug_name: the-scapegoat-pattern
 date: 2026-03-17
+status: approved
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/035-the-scapegoat-pattern/"
 description: "Deliberate before you decide. To deliberate after deciding is disgrace...."
-punch_line_1: "Deliberate before you decide. To deliberate after deciding is disgrace."
-punch_line_2: |-
-  Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.
+domain: organizations
 felt_hook: "It's not random. The scapegoat is selected for their position, not their culpability. They're visible enough to absorb blame but not powerful enough to deflect it."
+knot_number: 35
+kural_bridge: |-
+  Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.
+kural_number: 846
 kural_tamil: |-
   அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்
   குற்றம் மறையா வழி.
 kural_translation: "Deliberate before you decide; to deliberate after deciding is disgrace."
-kural_number: 846
-kural_bridge: |
-  Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.
-prev_knot: "organizations/034-gossip-economy"
-prev_knot_title: Gossip Economy
-next_knot: "organizations/036-trust-bankruptcy"
-next_knot_title: Trust Bankruptcy
-untie_story: "A company shared their strategic uncertainties with staff. People responded with solutions instead of anxiety about unknowns."
-untie_implement: "Next time a project fails, ask two questions: ''Who is being blamed?' and 'What systemic factor ma..."
-untie_question: 'What would change in your organisation if you untangled \"the scapegoat pattern\" this week?'
-quote_top: |-
-  Scapegoating: the system attacks healthy tissue, not the pathogen.
-quote_bottom: "Autoimmune disorder; host destroyed."
-origin_nodes: ["knots:034-gossip-economy", "knots/organizations/034-gossip-economy", "knots/organizations/036-trust-bankruptcy"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   The evidence: same person blamed every time.
   
   Your organization has a designated scapegoat.
@@ -49,6 +32,27 @@ linkedin_post: |-
   #108KNOTS #UntanglingTrust #Knot035
   
   💡 Cultures without scapegoats #thrive.
+next_knot: "organizations/036-trust-bankruptcy"
+next_knot_title: Trust Bankruptcy
+origin_nodes: [knots:034-gossip-economy, knots/organizations/034-gossip-economy, knots/organizations/036-trust-bankruptcy]
+prev_knot: "organizations/034-gossip-economy"
+prev_knot_title: Gossip Economy
+punch_line_1: "Deliberate before you decide. To deliberate after deciding is disgrace."
+punch_line_2: |-
+  Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.
+quote_bottom: "Autoimmune Disorder."
+quote_top: |-
+  Scapegoating
+  attacks healthy tissue.
+series: trust
+series_number: 11
+slug_name: the-scapegoat-pattern
+untie_implement: |-
+  Next time a project fails, ask two questions: ''Who is being blamed?' and 'What systemic factor ma...
+untie_question: 'What would change in your organisation if you untangled \"the scapegoat pattern\" this week?'
+untie_story: "A company shared their strategic uncertainties with staff. People responded with solutions instead of anxiety about unknowns."
+valence: mixed
+approved_at: "2026-04-14T10:40:36.141Z"
 ---
 
 Deliberate before you decide. To deliberate after deciding is disgrace.

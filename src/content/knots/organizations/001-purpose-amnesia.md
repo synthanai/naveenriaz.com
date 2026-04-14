@@ -31,7 +31,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-23T09:01:36.676Z"
 published_at: "2026-03-23T12:17:38.977Z"
-linkedin_post: |-
+linkedin_post: |
   Why did you join this company?
   
   Ask your team that same question.

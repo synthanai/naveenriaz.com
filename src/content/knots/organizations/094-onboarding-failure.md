@@ -33,7 +33,7 @@ untie_question: 'What would change in your organisation if you untangled \"onboa
 origin_nodes: ["knots:093-learning-doing-imbalance", "knots/organizations/093-learning-doing-imbalance", "knots/organizations/095-diversity-without-inclusion"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Day one: orientation deck. Day 180: productive.
   
   Your new hires wait months to contribute.

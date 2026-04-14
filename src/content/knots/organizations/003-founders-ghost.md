@@ -33,7 +33,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-23T12:13:35.809Z"
 published_at: "2026-03-25T05:28:10.887Z"
-linkedin_post: |-
+linkedin_post: |
   The founder left. The culture didn't.
   
   Your organization still follows invisible rules.

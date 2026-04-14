@@ -29,7 +29,7 @@ quote_bottom: "Delay is organizational death."
 origin_nodes: ["knots:036-trust-bankruptcy", "knots/organizations/036-trust-bankruptcy", "knots/organizations/038-decision-laundering"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The decision missed its window. Again.
   
   Your team analyzed for fourteen months.

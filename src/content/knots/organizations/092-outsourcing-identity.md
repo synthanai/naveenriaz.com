@@ -28,7 +28,7 @@ quote_bottom: "Identity cannot be outsourced."
 origin_nodes: ["knots:091-customer-capability-gap", "knots/organizations/091-customer-capability-gap", "knots/organizations/093-learning-doing-imbalance"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   What does your organization do uniquely? Nothing?
   
   You outsourced support. Then engineering. Then design.

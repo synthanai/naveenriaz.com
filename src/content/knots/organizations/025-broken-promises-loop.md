@@ -1,40 +1,20 @@
 ---
 title: broken-promises-loop
-knot_number: 25
-domain: organizations
-series: trust
-series_number: 1
-slug_name: broken-promises-loop
 date: 2026-03-17
+status: approved
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/025-broken-promises-loop/"
 description: "Guard yourself from anger. Unguarded, anger will destroy you...."
-quote_top: |-
-  No single broken promise is devastating.
-  But each one adds a micro-crack.
-quote_bottom: |-
-  Organisations, like bridges,
-  do not show fatigue
-  until they fracture.
-punch_line_1: "Guard yourself from anger. Unguarded, anger will destroy you."
-punch_line_2: |-
-  A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it.
+domain: organizations
 felt_hook: "Your team remembers every unkept commitment. Every single one."
+knot_number: 25
+kural_bridge: |-
+  A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it.
+kural_number: 312
 kural_tamil: |-
   கறுத்துஇன்னா செய்தவக் கண்ணும் மறுத்தின்னா
   செய்யாமை மாசற்றார் கோள்.
 kural_translation: "Guard yourself from anger; unguarded, anger will destroy you."
-kural_number: 312
-kural_bridge: |
-  A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it.
-prev_knot: "organizations/024-the-culture-tax"
-prev_knot_title: The Culture Tax
-next_knot: "organizations/026-invisible-contracts"
-next_knot_title: Invisible Contracts
-untie_story: 'A manager said \"I was wrong about that decision\" in a team meeting. Trust scores jumped overnight measurably.'
-untie_question: 'What would change in your organisation if you untangled \"broken promises loop\" this week?'
-origin_nodes: ["knots:024-the-culture-tax", "knots/organizations/024-the-culture-tax", "knots/organizations/026-invisible-contracts"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   The evidence appeared in one broken promise.
   
   Your team remembers every unkept commitment.
@@ -52,6 +32,28 @@ linkedin_post: |-
   #108KNOTS #UntanglingTrust #Knot025
   
   💡 Organizations that keep promises #thrive.
+next_knot: "organizations/026-invisible-contracts"
+next_knot_title: Invisible Contracts
+origin_nodes: [knots:024-the-culture-tax, knots/organizations/024-the-culture-tax, knots/organizations/026-invisible-contracts]
+prev_knot: "organizations/024-the-culture-tax"
+prev_knot_title: The Culture Tax
+punch_line_1: "Guard yourself from anger. Unguarded, anger will destroy you."
+punch_line_2: |-
+  A broken promise is a form of organizational anger: a betrayal of intention that destroys the one who breaks it.
+quote_bottom: |-
+  Each broken promise
+  adds a micro-crack.
+quote_top: |-
+  Organisations, 
+  do not show fatigue
+  until they fracture.
+series: trust
+series_number: 1
+slug_name: broken-promises-loop
+untie_question: 'What would change in your organisation if you untangled \"broken promises loop\" this week?'
+untie_story: 'A manager said \"I was wrong about that decision\" in a team meeting. Trust scores jumped overnight measurably.'
+valence: mixed
+approved_at: "2026-04-14T10:33:34.963Z"
 ---
 
 There is a bridge in your city that looks perfectly solid.

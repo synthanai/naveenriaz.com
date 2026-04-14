@@ -53,7 +53,7 @@ custom_linkedin: |-
   KNOT #021: Meeting Toxicity
 approved_at: "2026-04-12T12:16:49.769Z"
 published_at: "2026-04-12T12:16:56.196Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would count the meetings.
   
   Your team meets about meetings. Literally.

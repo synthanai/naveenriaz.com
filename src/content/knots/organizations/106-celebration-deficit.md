@@ -28,7 +28,7 @@ quote_bottom: "Stop, celebrate, renew."
 origin_nodes: ["knots:105-resource-hoarding", "knots/organizations/105-resource-hoarding", "knots/organizations/107-emotional-illiteracy"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: target hit. Next target: higher. Immediately.
   
   Your team finished. Nobody paused to celebrate.

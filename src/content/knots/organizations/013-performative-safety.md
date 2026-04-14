@@ -30,7 +30,7 @@ valence: mixed
 status: published
 approved_at: "2026-04-04T10:54:09.525Z"
 published_at: "2026-04-04T10:54:30.592Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice the careful smiles.
   
   Your team performs safety. Constantly. Exhaustingly.

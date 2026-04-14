@@ -34,7 +34,7 @@ untie_question: 'What would change in your organisation if you untangled \"belon
 origin_nodes: ["knots:022-recognition-deficit", "knots/organizations/022-recognition-deficit", "knots/organizations/024-the-culture-tax"]
 valence: mixed
 status: published
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice the separate tables.
   
   Your team works together. Belongs separately.

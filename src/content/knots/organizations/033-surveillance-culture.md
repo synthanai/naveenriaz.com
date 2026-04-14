@@ -1,39 +1,20 @@
 ---
 title: surveillance-culture
-knot_number: 33
-domain: organizations
-series: trust
-series_number: 9
-slug_name: surveillance-culture
 date: 2026-03-17
+status: approved
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/033-surveillance-culture/"
 description: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes...."
-quote_top: |-
-  The monitoring saw every keystroke.
-  It did not see the talent leaving.
-quote_bottom: |-
-  Surveillance sees everything except
-  what it destroys.
-punch_line_1: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
-punch_line_2: |-
-  Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks.
+domain: organizations
 felt_hook: "The monitoring saw every keystroke. It didn't see the talent leaving."
+knot_number: 33
+kural_bridge: |-
+  Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks.
+kural_number: 550
 kural_tamil: |-
   கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்
   களைகட் டதனொடு நேர்.
 kural_translation: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
-kural_number: 550
-kural_bridge: |
-  Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks.
-prev_knot: "organizations/032-the-accountability-dodge"
-prev_knot_title: The Accountability Dodge
-next_knot: "organizations/034-gossip-economy"
-next_knot_title: Gossip Economy
-untie_story: "A school principal apologized publicly for a policy mistake. Students said it was the first time an adult modeled accountability."
-untie_question: 'What would change in your organisation if you untangled \"surveillance culture\" this week?'
-origin_nodes: ["knots:032-the-accountability-dodge", "knots/organizations/032-the-accountability-dodge", "knots/organizations/034-gossip-economy"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   The evidence: monitoring everywhere. Trust nowhere.
   
   Your tools track everything your team does.
@@ -51,6 +32,27 @@ linkedin_post: |-
   #108KNOTS #UntanglingTrust #Knot033
   
   💡 Organizations that trust instead of surveil #thrive.
+next_knot: "organizations/034-gossip-economy"
+next_knot_title: Gossip Economy
+origin_nodes: [knots:032-the-accountability-dodge, knots/organizations/032-the-accountability-dodge, knots/organizations/034-gossip-economy]
+prev_knot: "organizations/032-the-accountability-dodge"
+prev_knot_title: The Accountability Dodge
+punch_line_1: "A cruel ruler's realm will collapse under miseries unseen even by his own eyes."
+punch_line_2: |-
+  Surveillance sees everything except what it destroys: initiative, creativity, and the willingness to take risks.
+quote_bottom: |-
+  Surveillance sees everything except
+  what it destroys.
+quote_top: |-
+  You saw every keystroke.
+  Not the talent leaving.
+series: trust
+series_number: 9
+slug_name: surveillance-culture
+untie_question: 'What would change in your organisation if you untangled \"surveillance culture\" this week?'
+untie_story: "A school principal apologized publicly for a policy mistake. Students said it was the first time an adult modeled accountability."
+valence: mixed
+approved_at: "2026-04-14T10:39:00.706Z"
 ---
 
 A cruel ruler's realm will collapse under miseries unseen even by his own eyes.

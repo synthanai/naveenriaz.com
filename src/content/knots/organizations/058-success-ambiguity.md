@@ -30,7 +30,7 @@ quote_bottom: "It will consume resources forever."
 origin_nodes: ["knots:057-rhetoric-reality-gap", "sparks:success-ambiguity", "knots/organizations/057-rhetoric-reality-gap", "knots/organizations/059-ungrieved-loss", "sparks/success-ambiguity"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, the timeline was clear.
   
   Your change initiative has been "in progress" since.

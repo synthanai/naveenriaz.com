@@ -29,7 +29,7 @@ quote_bottom: "Apply your knowledge."
 origin_nodes: ["knots:041-irreversibility-blindness", "knots/organizations/041-irreversibility-blindness", "knots/organizations/043-dissent-suppression"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Why was that decision made? Nobody knows.
   
   Your past decisions have no documented reasoning.

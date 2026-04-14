@@ -30,7 +30,7 @@ quote_bottom: "Output, potential gone."
 origin_nodes: ["knots:085-skill-obsolescence", "sparks:talent-hoarding", "knots/organizations/085-skill-obsolescence", "knots/organizations/087-hiring-mismatch", "sparks/talent-hoarding"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Here's your best performer. They're trapped.
   
   Your managers keep top talent in place.

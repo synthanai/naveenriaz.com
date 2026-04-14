@@ -29,7 +29,7 @@ quote_bottom: "Adapt or crumble."
 origin_nodes: ["knots:082-handoff-failure", "knots/organizations/082-handoff-failure", "knots/organizations/084-matrix-madness"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says growth. The structure can't hold.
   
   Your organization outgrew its original design.

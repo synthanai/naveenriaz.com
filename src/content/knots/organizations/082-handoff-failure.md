@@ -28,7 +28,7 @@ quote_bottom: "Fix the baton drops."
 origin_nodes: ["knots:081-over-centralization", "knots/organizations/081-over-centralization", "knots/organizations/083-scaling-pains"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says teams communicate. Handoffs say otherwise.
   
   Your customers experience the seams between teams.

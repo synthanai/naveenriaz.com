@@ -1,33 +1,19 @@
 ---
 title: competence-doubt
-knot_number: 29
-domain: organizations
-series: trust
-series_number: 5
-slug_name: competence-doubt
 date: 2026-03-17
+status: approved
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/029-competence-doubt/"
 description: "The rarest of rare achievements is winning the trust of the great...."
-punch_line_1: "The rarest of rare achievements is winning the trust of the great."
-punch_line_2: "Competence doubt is what happens when an organisation has the great but refuses to trust them."
+domain: organizations
 felt_hook: 'The system installed the hesitation. The system calls it \"rigor.\"'
+knot_number: 29
+kural_bridge: "Competence doubt is what happens when an organisation has the great but refuses to trust them."
+kural_number: 503
 kural_tamil: |-
   அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்
   இன்மை அரிதே வெளிறு.
 kural_translation: "The rarest of rare achievements is winning and keeping the trust of the great."
-kural_number: 503
-kural_bridge: "Competence doubt is what happens when an organisation has the great but refuses to trust them."
-prev_knot: "organizations/028-feedback-phobia"
-prev_knot_title: Feedback Phobia
-next_knot: "organizations/030-loyalty-extraction"
-next_knot_title: Loyalty Extraction
-untie_story: "A CEO called a customer who had a bad experience. The customer became their biggest advocate after one call."
-untie_question: 'What would change in your organisation if you untangled \"competence doubt\" this week?'
-quote_top: "Winning great trust is an accomplishment, not a given."
-quote_bottom: "Earned trust empowers experts."
-origin_nodes: ["knots:028-feedback-phobia", "knots/organizations/028-feedback-phobia", "knots/organizations/030-loyalty-extraction"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   The evidence: your expert hesitates constantly.
   
   Your best people second-guess every decision.
@@ -45,6 +31,26 @@ linkedin_post: |-
   #108KNOTS #UntanglingTrust #Knot029
   
   💡 Teams that build competence confidence #thrive.
+next_knot: "organizations/030-loyalty-extraction"
+next_knot_title: Loyalty Extraction
+origin_nodes: [knots:028-feedback-phobia, knots/organizations/028-feedback-phobia, knots/organizations/030-loyalty-extraction]
+prev_knot: "organizations/028-feedback-phobia"
+prev_knot_title: Feedback Phobia
+punch_line_1: "The rarest of rare achievements is winning the trust of the great."
+punch_line_2: "Competence doubt is what happens when an organisation has the great but refuses to trust them."
+quote_bottom: |-
+  Earned trust 
+  empowers experts.
+quote_top: |-
+  Winning great trust 
+  is an accomplishment.
+series: trust
+series_number: 5
+slug_name: competence-doubt
+untie_question: 'What would change in your organisation if you untangled \"competence doubt\" this week?'
+untie_story: "A CEO called a customer who had a bad experience. The customer became their biggest advocate after one call."
+valence: mixed
+approved_at: "2026-04-14T10:37:06.254Z"
 ---
 
 The rarest of rare achievements is winning the trust of the great.

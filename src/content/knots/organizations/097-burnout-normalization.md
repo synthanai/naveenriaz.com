@@ -28,7 +28,7 @@ quote_bottom: "It's the culture."
 origin_nodes: ["knots:096-the-ai-readiness-gap", "knots/organizations/096-the-ai-readiness-gap", "knots/organizations/098-meaning-drought"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Exhaustion is the loudest badge here.
   
   Your wellness program launched last Monday.

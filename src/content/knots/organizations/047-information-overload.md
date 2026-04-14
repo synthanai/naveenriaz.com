@@ -30,7 +30,7 @@ quote_bottom: "Too much data kills understanding."
 origin_nodes: ["knots:046-risk-theater", "knots/organizations/046-risk-theater", "knots/organizations/048-decision-whiplash"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   More data. More reports. Worse decisions.
   
   Your team drowns in dashboards every morning.

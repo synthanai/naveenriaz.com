@@ -32,7 +32,7 @@ quote_bottom: "Build solid, then soar."
 origin_nodes: ["knots:095-diversity-without-inclusion", "sparks:the-ai-readiness-gap", "knots/organizations/095-diversity-without-inclusion", "knots/organizations/097-burnout-normalization", "sparks/the-ai-readiness-gap"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Your AI strategy is 47 pages long.
   
   Your data quality is: unknown. Honestly.

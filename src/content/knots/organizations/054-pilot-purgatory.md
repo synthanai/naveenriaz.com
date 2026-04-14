@@ -28,7 +28,7 @@ quote_bottom: "Stop growing the petri dish."
 origin_nodes: ["knots:053-initiative-overload", "knots/organizations/053-initiative-overload", "knots/organizations/055-sponsorship-evaporation"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, the pilot worked perfectly.
   
   Your proof of concept never scaled beyond it.

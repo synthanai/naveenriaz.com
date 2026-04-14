@@ -1,33 +1,19 @@
 ---
 title: gossip-economy
-knot_number: 34
-domain: organizations
-series: trust
-series_number: 10
-slug_name: gossip-economy
 date: 2026-03-17
+status: approved
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/034-gossip-economy/"
 description: "What use is intelligence if one does not feel another's pain as deeply as one's ..."
-punch_line_1: "What use is intelligence if one does not feel another's pain as deeply as one's own?"
-punch_line_2: "Gossip thrives where empathy fails. When official channels go silent, the whisper network carries what leadership refuses to say."
+domain: organizations
 felt_hook: "When leadership goes silent, the whisper network fills the void. It's not malicious. It's necessary."
+knot_number: 34
+kural_bridge: "Gossip thrives where empathy fails. When official channels go silent, the whisper network carries what leadership refuses to say."
+kural_number: 187
 kural_tamil: |-
   பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி
   நட்பாடல் தேற்றா தவர்.
 kural_translation: "What use is intelligence if one does not feel another's pain as deeply as one's own?"
-kural_number: 187
-kural_bridge: "Gossip thrives where empathy fails. When official channels go silent, the whisper network carries what leadership refuses to say."
-prev_knot: "organizations/033-surveillance-culture"
-prev_knot_title: Surveillance Culture
-next_knot: "organizations/035-the-scapegoat-pattern"
-next_knot_title: The Scapegoat Pattern
-untie_story: 'A team agreed to \"disagree in the room, align outside.\" Conflict became productive instead of toxic and hidden.'
-untie_question: 'What would change in your organisation if you untangled \"gossip economy\" this week?'
-quote_top: "Intelligence without compassion is incomplete; wisdom demands empathy."
-quote_bottom: "Feel another's pain."
-origin_nodes: ["knots:033-surveillance-culture", "knots/organizations/033-surveillance-culture", "knots/organizations/035-the-scapegoat-pattern"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   The evidence: information travels through whispers.
   
   Your organization's real news is unofficial.
@@ -45,6 +31,24 @@ linkedin_post: |-
   #108KNOTS #UntanglingTrust #Knot034
   
   💡 Teams that communicate openly #thrive.
+next_knot: "organizations/035-the-scapegoat-pattern"
+next_knot_title: The Scapegoat Pattern
+origin_nodes: [knots:033-surveillance-culture, knots/organizations/033-surveillance-culture, knots/organizations/035-the-scapegoat-pattern]
+prev_knot: "organizations/033-surveillance-culture"
+prev_knot_title: Surveillance Culture
+punch_line_1: "What use is intelligence if one does not feel another's pain as deeply as one's own?"
+punch_line_2: "Gossip thrives where empathy fails. When official channels go silent, the whisper network carries what leadership refuses to say."
+quote_bottom: |-
+  Wisdom
+  demands empathy!
+quote_top: Intelligence without compassion is incomplete
+series: trust
+series_number: 10
+slug_name: gossip-economy
+untie_question: 'What would change in your organisation if you untangled \"gossip economy\" this week?'
+untie_story: 'A team agreed to \"disagree in the room, align outside.\" Conflict became productive instead of toxic and hidden.'
+valence: mixed
+approved_at: "2026-04-14T10:39:53.018Z"
 ---
 
 What use is intelligence if one does not feel another's pain as deeply as one's own?

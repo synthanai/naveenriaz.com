@@ -31,7 +31,7 @@ quote_bottom: "Audit and cancel them."
 origin_nodes: ["knots:102-turnover-spiral", "knots/organizations/102-turnover-spiral", "knots/organizations/104-urgency-addiction"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: depleted after every interaction. Consistently.
   
   Your process drains everyone it touches.

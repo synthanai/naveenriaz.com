@@ -29,7 +29,7 @@ quote_bottom: "Incoherence kills innovation."
 origin_nodes: ["knots:043-dissent-suppression", "knots/organizations/043-dissent-suppression", "knots/organizations/045-meeting-to-decision-ratio"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three teams made the same decision differently.
   
   Your organization decided this thing three times.

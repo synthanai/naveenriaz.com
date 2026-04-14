@@ -33,7 +33,7 @@ quote_bottom: "Balance the cycle."
 origin_nodes: ["knots:092-outsourcing-identity", "knots/organizations/092-outsourcing-identity", "knots/organizations/094-onboarding-failure"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Your team shipped 47 features last quarter.
   
   They repeated three mistakes from last quarter.

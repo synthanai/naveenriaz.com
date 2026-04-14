@@ -30,7 +30,7 @@ quote_bottom: "Poor succession makes unstable leadership."
 origin_nodes: ["knots:088-knowledge-extinction", "knots/organizations/088-knowledge-extinction", "knots/organizations/090-technical-debt-avalanche"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Your next leader isn't being developed.
   
   The pipeline says "ready." Reality says empty.

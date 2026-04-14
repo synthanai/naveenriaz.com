@@ -32,7 +32,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-23T12:13:19.988Z"
 published_at: "2026-03-24T12:00:20.980Z"
-linkedin_post: |-
+linkedin_post: |
   Whose identity are you actually copying?
   
   Your brand deck looks strangely familiar.

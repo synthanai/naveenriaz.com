@@ -29,7 +29,7 @@ quote_bottom: "Incentives condition the organism."
 origin_nodes: ["knots:099-autonomy-starvation", "knots/organizations/099-autonomy-starvation", "knots/organizations/101-the-presenteeism-tax"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: crisis heroes celebrated. Prevention ignored.
   
   Your system rewards the wrong behavior.

@@ -29,7 +29,7 @@ quote_bottom: "Inertia conquers all."
 origin_nodes: ["knots:072-the-insight-graveyard", "knots/organizations/072-the-insight-graveyard", "knots/organizations/074-silo-syndrome"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says agile. The building isn't.
   
   Your org chart was redrawn last year.

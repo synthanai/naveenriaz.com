@@ -49,7 +49,7 @@ custom_linkedin: |-
 added: 2026-03-30
 approved_at: "2026-04-06T13:37:05.882Z"
 published_at: "2026-04-10T05:21:49.977Z"
-linkedin_post: |-
+linkedin_post: |
   ⚡⚡ SPARK: Implicit Session State
   
   Open a new chat. Paste your context. 

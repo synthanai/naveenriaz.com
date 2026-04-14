@@ -28,7 +28,7 @@ quote_bottom: "Reinforce the unseen columns."
 origin_nodes: ["knots:076-role-ambiguity", "knots/organizations/076-role-ambiguity", "knots/organizations/078-governance-bloat"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says equal management layers.
   
   Your middle managers are the most stressed layer.

@@ -31,7 +31,7 @@ valence: mixed
 status: published
 approved_at: "2026-04-05T09:30:52.205Z"
 published_at: "2026-04-05T09:30:55.906Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice the ceremonies.
   
   Your integrity has rituals, not roots.

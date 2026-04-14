@@ -32,7 +32,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-27T03:44:34.682Z"
 published_at: "2026-03-28T13:00:07.605Z"
-linkedin_post: |-
+linkedin_post: |
   Your history has lessons. You're ignoring them.
   
   Past failures contain your best intelligence.

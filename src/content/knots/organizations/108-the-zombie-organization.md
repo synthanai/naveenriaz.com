@@ -27,7 +27,7 @@ quote_bottom: "The body walks. The mind is gone."
 origin_nodes: ["knots:107-emotional-illiteracy", "knots/organizations/107-emotional-illiteracy"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: operating. Diagnosis: not alive. Terminal.
   
   Your organization moves but doesn't breathe.

@@ -29,7 +29,7 @@ quote_bottom: "Culture protects itself from new."
 origin_nodes: ["knots:055-sponsorship-evaporation", "knots/organizations/055-sponsorship-evaporation", "knots/organizations/057-rhetoric-reality-gap"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, you transformed something.
   
   Your team changed faster than surrounding teams.

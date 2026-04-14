@@ -29,7 +29,7 @@ quote_bottom: "Stop the spiral, save the team."
 origin_nodes: ["knots:101-the-presenteeism-tax", "knots/organizations/101-the-presenteeism-tax", "knots/organizations/103-energy-vampires"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: two left. Three more followed.
   
   Your best people leave first. Then more.

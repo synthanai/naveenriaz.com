@@ -27,7 +27,7 @@ quote_bottom: "Dig them up. Act now."
 origin_nodes: ["knots:071-knowledge-hoarding", "knots/organizations/071-knowledge-hoarding", "knots/organizations/073-structural-inertia"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the archived reports.
   
   Your best insights sit in shared drives.

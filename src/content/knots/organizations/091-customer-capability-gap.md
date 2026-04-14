@@ -29,7 +29,7 @@ quote_bottom: "Deliver less, promise less."
 origin_nodes: ["knots:090-technical-debt-avalanche", "knots/organizations/090-technical-debt-avalanche", "knots/organizations/092-outsourcing-identity"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Your website promises world-class service. Does it deliver?
   
   Your marketing moved faster than operations.

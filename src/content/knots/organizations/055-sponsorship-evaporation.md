@@ -32,7 +32,7 @@ untie_question: 'What would change in your organisation if you untangled \"spons
 origin_nodes: ["knots:054-pilot-purgatory", "knots/organizations/054-pilot-purgatory", "knots/organizations/056-organizational-antibodies"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, executives led the change.
   
   Your leaders championed it. Then moved on.

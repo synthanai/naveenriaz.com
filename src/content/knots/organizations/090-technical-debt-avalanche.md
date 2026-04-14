@@ -29,7 +29,7 @@ quote_bottom: "Address it immediately."
 origin_nodes: ["knots:089-leadership-vacuum", "knots/organizations/089-leadership-vacuum", "knots/organizations/091-customer-capability-gap"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Your system is held together by workarounds.
   
   Those workarounds have workarounds of their own.

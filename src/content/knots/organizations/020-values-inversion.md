@@ -29,7 +29,7 @@ valence: mixed
 status: published
 approved_at: "2026-04-11T11:05:45.521Z"
 published_at: "2026-04-11T12:10:00.302Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice the contradictions.
   
   Your values say "people first." Budget disagrees.

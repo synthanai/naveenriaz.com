@@ -1,46 +1,25 @@
 ---
 title: invisible-contracts
-knot_number: 26
-domain: organizations
-series: trust
-series_number: 2
-slug_name: invisible-contracts
 date: 2026-03-17
+status: approved
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/026-invisible-contracts/"
 description: "I would conceal this pain, but like spring water for those who dig, it only flow..."
-quote_top: |-
-  Organisations have contracts nobody signed,
-  rules nobody wrote,
-  and expectations nobody negotiated.
-quote_bottom: |-
-  Invisible contracts
-  are the real governance.
-punch_line_1: "I would conceal this pain, but like spring water for those who dig, it only flows more."
-punch_line_2: |-
-  Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find.
+domain: organizations
 felt_hook: "Nobody posted these on a wall. Everyone obeys them."
+knot_number: 26
+kural_bridge: |-
+  Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find.
+kural_number: 295
 kural_tamil: |-
   மனத்தொடு வாய்மை மொழியின் தவத்தொடு
   தானஞ்செய் வாரின் தலை.
 kural_translation: "I would conceal this pain, but like spring water for those who dig, it only flows more."
-kural_number: 295
-kural_bridge: |
-  Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find.
-prev_knot: "organizations/025-broken-promises-loop"
-prev_knot_title: Broken Promises Loop
-next_knot: "organizations/027-delegation-without-trust"
-next_knot_title: Delegation Without Trust
-untie_story: "A company published their financial results to all employees monthly. The transparency eliminated the rumor mill completely."
-untie_implement: "Ask your team: ''What's expected here that nobody ever agreed to?' The first answer will be safe."
-untie_question: 'What would change in your organisation if you untangled \"invisible contracts\" this week?'
-origin_nodes: ["knots:025-broken-promises-loop", "knots/organizations/025-broken-promises-loop", "knots/organizations/027-delegation-without-trust"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   The evidence: unspoken rules nobody signed.
   
   Your team follows agreements they never made.
   
-  Invisible contracts control behavior more than policies.
+  Invisible contracts control behaviour more than policies.
   
   Nobody negotiated them. Everyone obeys them.
   
@@ -53,6 +32,30 @@ linkedin_post: |-
   #108KNOTS #UntanglingTrust #Knot026
   
   💡 Teams with visible contracts #thrive.
+next_knot: "organizations/027-delegation-without-trust"
+next_knot_title: Delegation Without Trust
+origin_nodes: [knots:025-broken-promises-loop, knots/organizations/025-broken-promises-loop, knots/organizations/027-delegation-without-trust]
+prev_knot: "organizations/025-broken-promises-loop"
+prev_knot_title: Broken Promises Loop
+punch_line_1: "I would conceal this pain, but like spring water for those who dig, it only flows more."
+punch_line_2: |-
+  Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find.
+quote_bottom: |-
+  Invisible contracts
+  are the real governance.
+quote_top: |-
+  Organisations have 
+  rules nobody wrote, 
+  expectations nobody negotiated.
+series: trust
+series_number: 2
+slug_name: invisible-contracts
+untie_implement: |-
+  Ask your team: ''What's expected here that nobody ever agreed to?' The first answer will be safe.
+untie_question: 'What would change in your organisation if you untangled \"invisible contracts\" this week?'
+untie_story: "A company published their financial results to all employees monthly. The transparency eliminated the rumor mill completely."
+valence: mixed
+approved_at: "2026-04-14T10:35:16.035Z"
 ---
 
 I would conceal this pain, but like spring water for those who dig, it only flows more.

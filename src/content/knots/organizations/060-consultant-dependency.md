@@ -34,7 +34,7 @@ untie_question: 'What would change in your organisation if you untangled \"consu
 origin_nodes: ["knots:059-ungrieved-loss", "knots/organizations/059-ungrieved-loss", "knots/organizations/061-collective-blindness"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, you believed your consultants.
   
   Your transformation was designed by outsiders.

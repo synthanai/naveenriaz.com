@@ -31,7 +31,7 @@ quote_bottom: "Adapt or become extinct."
 origin_nodes: ["knots:084-matrix-madness", "knots/organizations/084-matrix-madness", "knots/organizations/086-talent-hoarding"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Here's what you could become. Can't yet.
   
   Your team's skills expired. Nobody noticed.

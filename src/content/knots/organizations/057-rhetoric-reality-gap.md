@@ -31,7 +31,7 @@ untie_question: 'What would change in your organisation if you untangled \"rheto
 origin_nodes: ["knots:056-organizational-antibodies", "knots/organizations/056-organizational-antibodies", "knots/organizations/058-success-ambiguity"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, the rhetoric was inspiring.
   
   Your leaders talk change fluently. Brilliantly.

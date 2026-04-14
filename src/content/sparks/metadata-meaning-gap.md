@@ -54,7 +54,7 @@ custom_linkedin: |-
 added: 2026-03-30
 approved_at: "2026-04-11T10:59:59.994Z"
 published_at: "2026-04-11T11:22:33.385Z"
-linkedin_post: |-
+linkedin_post: |
   ⚡⚡ SPARK: The Metadata-Meaning Gap
   
   A search engine finds documents containing "trust." 

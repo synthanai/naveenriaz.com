@@ -30,7 +30,7 @@ quote_bottom: "Presence is not power."
 origin_nodes: ["knots:094-onboarding-failure", "knots/organizations/094-onboarding-failure", "knots/organizations/096-the-ai-readiness-gap"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Your team photo looks diverse. Meetings don't sound it.
   
   Presence is not power. Being counted isn't counting.

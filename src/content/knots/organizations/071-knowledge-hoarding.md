@@ -30,7 +30,7 @@ quote_bottom: "Share to create value."
 origin_nodes: ["knots:070-forecast-addiction", "knots/organizations/070-forecast-addiction", "knots/organizations/072-the-insight-graveyard"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the information architecture.
   
   Your team hoards knowledge like currency.

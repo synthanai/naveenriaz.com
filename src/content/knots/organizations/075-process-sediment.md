@@ -30,7 +30,7 @@ untie_question: 'What would change in your organisation if you untangled \"proce
 origin_nodes: ["knots:074-silo-syndrome", "sparks:process-sediment", "knots/organizations/074-silo-syndrome", "knots/organizations/076-role-ambiguity", "sparks/process-sediment"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says efficiency. Reality says bureaucracy.
   
   Your team needs four approvals for one purchase.

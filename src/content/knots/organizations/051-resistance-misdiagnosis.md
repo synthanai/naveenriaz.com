@@ -28,7 +28,7 @@ quote_bottom: Painkillers hide problems
 origin_nodes: ["knots:050-transformation-theater", "knots/organizations/050-transformation-theater", "knots/organizations/052-momentum-decay"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, the old system worked.
   
   Your team still uses the old process.

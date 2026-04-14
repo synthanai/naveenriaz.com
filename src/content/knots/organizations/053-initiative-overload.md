@@ -33,7 +33,7 @@ untie_question: 'What would change in your organisation if you untangled \"initi
 origin_nodes: ["knots:052-momentum-decay", "knots/organizations/052-momentum-decay", "knots/organizations/054-pilot-purgatory"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, you planned one change.
   
   Now seven initiatives compete for attention.

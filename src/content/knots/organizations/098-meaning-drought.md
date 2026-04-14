@@ -27,7 +27,7 @@ quote_bottom: "Meaning is the operating system."
 origin_nodes: ["knots:097-burnout-normalization", "knots/organizations/097-burnout-normalization", "knots/organizations/099-autonomy-starvation"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: competent work. Diagnosis: zero meaning.
   
   Your team performs but can't say why.

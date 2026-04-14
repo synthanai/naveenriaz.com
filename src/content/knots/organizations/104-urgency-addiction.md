@@ -28,7 +28,7 @@ quote_bottom: "Urgency is friction."
 origin_nodes: ["knots:103-energy-vampires", "knots/organizations/103-energy-vampires", "knots/organizations/105-resource-hoarding"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Symptoms: everything urgent. Nothing important. Always.
   
   Your team runs on adrenaline, not strategy.

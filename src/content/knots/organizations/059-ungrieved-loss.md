@@ -27,7 +27,7 @@ quote_bottom: "Acknowledge grief; it's vital."
 origin_nodes: ["knots:058-success-ambiguity", "knots/organizations/058-success-ambiguity", "knots/organizations/060-consultant-dependency"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, the old way ended.
   
   Your team grieved. Leadership didn't notice.

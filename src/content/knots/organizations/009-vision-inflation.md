@@ -35,7 +35,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-30T05:07:45.104Z"
 published_at: "2026-03-31T11:22:07.139Z"
-linkedin_post: |-
+linkedin_post: |
   "We're going to change the world."
   
   Your vision statement promises revolutionary transformation.

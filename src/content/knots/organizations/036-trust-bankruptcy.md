@@ -1,33 +1,19 @@
 ---
 title: trust-bankruptcy
-knot_number: 36
-domain: organizations
-series: trust
-series_number: 12
-slug_name: trust-bankruptcy
 date: 2026-03-17
+status: approved
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/036-trust-bankruptcy/"
 description: "Even heaven and earth cannot repay an unsolicited act of kindness...."
-punch_line_1: "Even heaven and earth cannot repay an unsolicited act of kindness."
-punch_line_2: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
+domain: organizations
 felt_hook: "This is trust bankruptcy. The account reads zero."
+knot_number: 36
+kural_bridge: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
+kural_number: 112
 kural_tamil: |-
   செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி
   எச்சத்திற் கேமாப்பு உடைத்து.
 kural_translation: "Even heaven and earth cannot repay an unsolicited act of kindness."
-kural_number: 112
-kural_bridge: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
-prev_knot: "organizations/035-the-scapegoat-pattern"
-prev_knot_title: The Scapegoat Pattern
-next_knot: "organizations/037-analysis-paralysis"
-next_knot_title: Analysis Paralysis
-untie_story: "A board chair admitted they didn't understand the technology. The CTO's trust in leadership increased immediately and permanently."
-untie_question: 'What would change in your organisation if you untangled \"trust bankruptcy\" this week?'
-quote_top: "Trust can go bankrupt, draining all goodwill."
-quote_bottom: "Zero balance remains."
-origin_nodes: ["knots:035-the-scapegoat-pattern", "knots/organizations/035-the-scapegoat-pattern", "knots/organizations/037-analysis-paralysis"]
-valence: mixed
-status: pending
-linkedin_post: |-
+linkedin_post: |
   The evidence: trust account reads zero.
   
   Your organization depleted every trust reserve.
@@ -45,6 +31,24 @@ linkedin_post: |-
   #108KNOTS #UntanglingTrust #Knot036
   
   💡 Organizations that invest in trust #thrive.
+next_knot: "organizations/037-analysis-paralysis"
+next_knot_title: Analysis Paralysis
+origin_nodes: [knots:035-the-scapegoat-pattern, knots/organizations/035-the-scapegoat-pattern, knots/organizations/037-analysis-paralysis]
+prev_knot: "organizations/035-the-scapegoat-pattern"
+prev_knot_title: The Scapegoat Pattern
+punch_line_1: "Even heaven and earth cannot repay an unsolicited act of kindness."
+punch_line_2: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
+quote_bottom: "Zero balance remains!"
+quote_top: |-
+  Trust can go bankrupt, 
+  draining all goodwill.
+series: trust
+series_number: 12
+slug_name: trust-bankruptcy
+untie_question: 'What would change in your organisation if you untangled \"trust bankruptcy\" this week?'
+untie_story: "A board chair admitted they didn't understand the technology. The CTO's trust in leadership increased immediately and permanently."
+valence: mixed
+approved_at: "2026-04-14T10:40:59.333Z"
 ---
 
 Even heaven and earth cannot repay an unsolicited act of kindness.

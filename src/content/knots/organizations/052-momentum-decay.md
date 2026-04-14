@@ -27,7 +27,7 @@ quote_bottom: "Sustained energy prevents organizational gravity."
 origin_nodes: ["knots:051-resistance-misdiagnosis", "knots/organizations/051-resistance-misdiagnosis", "knots/organizations/053-initiative-overload"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   Three years ago, this started with excitement.
   
   Your initiative lost energy around month four.

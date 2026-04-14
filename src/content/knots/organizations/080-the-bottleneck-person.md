@@ -27,7 +27,7 @@ quote_bottom: "Redistribute before damage."
 origin_nodes: ["knots:079-technology-sprawl", "knots/organizations/079-technology-sprawl", "knots/organizations/081-over-centralization"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The blueprint says "distributed leadership." One person decides.
   
   Your organization stops when one person stops.

@@ -28,7 +28,7 @@ quote_bottom: Power blinds analysis
 origin_nodes: ["knots:039-consensus-trap", "knots/organizations/039-consensus-trap", "knots/organizations/041-irreversibility-blindness"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The highest-paid person's opinion won. Again.
   
   Your data lost to seniority. Predictably.

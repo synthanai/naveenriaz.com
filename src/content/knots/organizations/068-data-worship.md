@@ -32,7 +32,7 @@ untie_question: 'What would change in your organisation if you untangled \"data 
 origin_nodes: ["knots:067-expertise-trap", "sparks:data-worship", "knots/organizations/067-expertise-trap", "knots/organizations/069-cognitive-debt", "sparks/data-worship"]
 valence: mixed
 status: pending
-linkedin_post: |-
+linkedin_post: |
   The clue was in the data lake.
   
   Your analytics are sophisticated. Decisions aren't.

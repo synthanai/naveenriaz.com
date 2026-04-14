@@ -33,7 +33,7 @@ valence: mixed
 status: published
 approved_at: "2026-03-23T12:13:58.384Z"
 published_at: "2026-03-27T03:45:11.028Z"
-linkedin_post: |-
+linkedin_post: |
   When did the mission quietly change?
   
   Your original purpose made perfect strategic sense.

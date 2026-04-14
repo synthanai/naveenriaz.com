@@ -29,7 +29,7 @@ valence: mixed
 status: published
 approved_at: "2026-04-10T05:27:55.675Z"
 published_at: "2026-04-13T11:46:26.350Z"
-linkedin_post: |-
+linkedin_post: |
   A visitor would notice the quiet corridors.
   
   Your team moves carefully around each other.
