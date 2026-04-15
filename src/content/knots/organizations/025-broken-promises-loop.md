@@ -1,7 +1,7 @@
 ---
 title: broken-promises-loop
 date: 2026-03-17
-status: approved
+status: published
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/025-broken-promises-loop/"
 description: "Guard yourself from anger. Unguarded, anger will destroy you...."
 domain: organizations
@@ -54,6 +54,7 @@ untie_question: 'What would change in your organisation if you untangled \"broke
 untie_story: 'A manager said \"I was wrong about that decision\" in a team meeting. Trust scores jumped overnight measurably.'
 valence: mixed
 approved_at: "2026-04-14T10:33:34.963Z"
+published_at: "2026-04-15T08:09:44.850Z"
 ---
 
 There is a bridge in your city that looks perfectly solid.

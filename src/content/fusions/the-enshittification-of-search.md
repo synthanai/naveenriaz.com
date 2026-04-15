@@ -22,6 +22,7 @@ quote_bottom: "Your content becomes Google's."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Enshittification of Search

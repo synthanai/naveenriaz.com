@@ -22,6 +22,7 @@ quote_bottom: "Move to think."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Body as Infrastructure

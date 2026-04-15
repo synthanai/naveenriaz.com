@@ -20,6 +20,7 @@ quote_bottom: "Optimise for machine, not human."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 You are paying a tax you cannot see.

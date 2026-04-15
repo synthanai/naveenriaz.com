@@ -1,37 +1,33 @@
 ---
 title: identity-mimicry
-knot_number: 2
-domain: organizations
-series: identity
-series_number: 2
-slug_name: identity-mimicry
 date: 2026-03-17
-description: 'Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''s adopt Google''''s approach."'
-punch_line_1: "Copying someone's identity feels like strategy."
-punch_line_2: "It's actually surrender."
-felt_hook: 'Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''s adopt Google''''s approach."'
-emotion_target: |
+status: published
+approved_at: "2026-03-23T12:13:19.988Z"
+audit_audience: PASS
+audit_content: PASS
+audit_distribution: PASS
+audit_feynman: "8/10"
+audit_hallucination: PASS
+audit_moment: PASS
+audit_originality: WARN
+audit_tag: PASS
+audit_time: PASS
+audit_tone: PASS
+audit_torus: PASS
+audit_voice: "90% MATCH"
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/002-identity-mimicry/"
+description: 'Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''''''s adopt Google''''''''s approach."'
+domain: organizations
+emotion_target: |-
   Inauthenticity: the discomfort of performing someone else's identity
-never_say: ["best practices", "industry standard", "we should be more like X"]
+felt_hook: 'Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''''''s adopt Google''''''''s approach."'
+knot_number: 2
+kural_bridge: "Organisations that copy others have stopped knowing themselves."
+kural_number: 727
 kural_tamil: |-
   பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து
   அஞ்சு மவன்கற்ற நூல்.
 kural_translation: "One who knows themselves knows all; they hold their wisdom as lasting honour."
-kural_number: 727
-kural_bridge: "Organisations that copy others have stopped knowing themselves."
-prev_knot: "organizations/001-purpose-amnesia"
-prev_knot_title: Purpose Amnesia
-next_knot: "organizations/003-founders-ghost"
-next_knot_title: Founders Ghost
-untie_story: "A hospital discovered nurses had created their own purpose statement because the official one felt hollow. Leadership adopted it instead."
-untie_question: 'What would change in your organisation if you untangled \"identity mimicry\" this week?'
-quote_top: "Identity mimicry is fear wearing a strategy hat."
-quote_bottom: "See the camouflage."
-origin_nodes: ["knots:001-purpose-amnesia", "knots/organizations/001-purpose-amnesia", "knots/organizations/003-founders-ghost"]
-valence: mixed
-status: published
-approved_at: "2026-03-23T12:13:19.988Z"
-published_at: "2026-03-24T12:00:20.980Z"
 linkedin_post: |
   Whose identity are you actually copying?
   
@@ -50,6 +46,23 @@ linkedin_post: |
   #108KNOTS #UntanglingIdentity #Knot002
   
   💡 Teams that name their identity #thrive.
+never_say: [best practices, industry standard, we should be more like X]
+next_knot: "organizations/003-founders-ghost"
+next_knot_title: Founders Ghost
+origin_nodes: [knots:001-purpose-amnesia, knots/organizations/001-purpose-amnesia, knots/organizations/003-founders-ghost]
+prev_knot: "organizations/001-purpose-amnesia"
+prev_knot_title: Purpose Amnesia
+published_at: "2026-03-24T12:00:20.980Z"
+punch_line_1: "Copying someone's identity feels like strategy."
+punch_line_2: "It's actually surrender."
+quote_bottom: "See the camouflage."
+quote_top: "Identity mimicry is fear wearing a strategy hat."
+series: identity
+series_number: 2
+slug_name: identity-mimicry
+untie_question: 'What would change in your organisation if you untangled \"identity mimicry\" this week?'
+untie_story: "A hospital discovered nurses had created their own purpose statement because the official one felt hollow. Leadership adopted it instead."
+valence: mixed
 ---
 
 One who knows themselves knows all.

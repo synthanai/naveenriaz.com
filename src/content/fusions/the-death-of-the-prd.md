@@ -22,6 +22,7 @@ quote_bottom: "The translator is here."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Death of the PRD

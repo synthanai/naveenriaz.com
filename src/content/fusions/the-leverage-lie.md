@@ -22,6 +22,7 @@ quote_bottom: "Output without the drama."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Leverage Lie

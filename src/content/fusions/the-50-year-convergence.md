@@ -22,6 +22,7 @@ quote_bottom: "Simple text wins."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The 50-Year Convergence

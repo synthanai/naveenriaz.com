@@ -22,6 +22,7 @@ quote_bottom: "Measure how, not just what."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Why AI Agent Reputation Needs a Soul

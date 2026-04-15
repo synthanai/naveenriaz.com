@@ -22,6 +22,7 @@ quote_bottom: "Models learn; translators die."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Intelligence Layer Swallowed Integration

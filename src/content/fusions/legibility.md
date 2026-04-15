@@ -22,6 +22,7 @@ quote_bottom: "Organic complexity thrives."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Legibility

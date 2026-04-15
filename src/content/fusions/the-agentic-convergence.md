@@ -22,6 +22,7 @@ quote_bottom: "AI absorbs coordination."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Agentic Convergence

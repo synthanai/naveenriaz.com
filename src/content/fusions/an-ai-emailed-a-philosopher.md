@@ -22,6 +22,7 @@ quote_bottom: "Beyond standard AI script."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # An AI Emailed a Philosopher

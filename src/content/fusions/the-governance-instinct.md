@@ -22,6 +22,7 @@ quote_bottom: "Structure isn't always obvious."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Governance Instinct

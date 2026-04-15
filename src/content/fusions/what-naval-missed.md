@@ -22,6 +22,7 @@ quote_bottom: "Orchestration, not production, is key."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # What Naval Missed

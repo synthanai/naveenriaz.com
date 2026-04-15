@@ -20,6 +20,7 @@ quote_bottom: "Capability meets fear."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 Google just gave your AI agents a perfect memory. The enterprise reaction was not applause. It was alarm.

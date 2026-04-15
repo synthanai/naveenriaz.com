@@ -1,34 +1,30 @@
 ---
 title: analysis-paralysis
-knot_number: 37
-domain: organizations
-series: decisions
-series_number: 1
-slug_name: analysis-paralysis
 date: 2026-03-17
+status: pending
+audit_audience: UNDEFINED
+audit_content: UNDEFINED
+audit_distribution: UNDEFINED
+audit_feynman: PENDING
+audit_hallucination: UNDEFINED
+audit_moment: UNDEFINED
+audit_originality: UNDEFINED
+audit_tag: UNDEFINED
+audit_time: UNDEFINED
+audit_tone: UNDEFINED
+audit_torus: UNDEFINED
+audit_voice: PENDING
+custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/037-analysis-paralysis/"
 description: "Deliberate before you act. To deliberate after acting is folly...."
-punch_line_1: "Deliberate before you act. To deliberate after acting is folly."
-punch_line_2: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
+domain: organizations
 felt_hook: "It was also irrelevant by the time it finished."
+knot_number: 37
+kural_bridge: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
+kural_number: 671
 kural_tamil: |-
   சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு
   தாழ்ச்சியுள் தங்குதல் தீது.
 kural_translation: "Deliberate before you act; to deliberate after acting is folly."
-kural_number: 671
-kural_bridge: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
-prev_knot: "organizations/036-trust-bankruptcy"
-prev_knot_title: Trust Bankruptcy
-next_knot: "organizations/038-decision-laundering"
-next_knot_title: Decision Laundering
-untie_story: 'A team classified every pending decision as \"one-way door\" or \"two-way door.\" Two-thirds resolved within 48 hours.'
-untie_implement: "Ask: 'if forced to decide today with what you know, what would you choose?"
-untie_question: 'What would change in your organisation if you untangled \"analysis paralysis\" this week?'
-quote_top: |-
-  Analysis paralysis: when deliberation becomes the only action.
-quote_bottom: "Delay is organizational death."
-origin_nodes: ["knots:036-trust-bankruptcy", "knots/organizations/036-trust-bankruptcy", "knots/organizations/038-decision-laundering"]
-valence: mixed
-status: pending
 linkedin_post: |
   The decision missed its window. Again.
   
@@ -47,6 +43,46 @@ linkedin_post: |
   #108KNOTS #UntanglingDecisions #Knot037
   
   💡 Teams that decide, not analyze forever #thrive.
+next_knot: "organizations/038-decision-laundering"
+next_knot_title: Decision Laundering
+origin_nodes: [knots:036-trust-bankruptcy, knots/organizations/036-trust-bankruptcy, knots/organizations/038-decision-laundering]
+prev_knot: "organizations/036-trust-bankruptcy"
+prev_knot_title: Trust Bankruptcy
+punch_line_1: "Deliberate before you act. To deliberate after acting is folly."
+punch_line_2: "Analysis paralysis is deliberation that never becomes action. The folly is not in thinking, but in thinking as a substitute for doing."
+quote_bottom: "Delay is organizational death."
+quote_top: |-
+  Analysis paralysis: when deliberation becomes the only action.
+series: decisions
+series_number: 1
+slug_name: analysis-paralysis
+substack_article: |
+  You know the feeling. You're standing at the edge of a decision—a career pivot, a big investment, a relationship change—and you are drowning in data. More reports. Another stakeholder meeting. A dozen more deep dives.
+  
+  It feels responsible, doesn't it? Like the sheer volume of research is the only way to guarantee safety.
+  
+  But what if the quest for perfect knowledge isn't a path to clarity, but a sophisticated form of avoidance?
+  
+  The perfect, agonizing example of this is Nokia. Their engineers were right; the smartphone was coming. Their committee process was impeccable; they followed every data point, commissioned every study. Yet, by the time their analysis finished, the market had already moved on. Their rigorous process had made them irrelevant.
+  
+  This isn't just corporate failure; it's a pattern we fall into when we confuse thoroughness with progress. We treat analysis itself as the final answer.
+  
+  When a diagnosis is clear, but we keep ordering "just one more test," we are suffering from diagnostic inertia. The organizational equivalent is a beautiful, deadly illness: Analysis Paralysis.
+  
+  If you feel the impulse to "just discuss it further," stop. If you can answer the question, "What do I choose, knowing everything I know right now?"—that is the end of the analysis.
+untie_implement: |-
+  Ask: 'if forced to decide today with what you know, what would you choose?
+untie_question: 'What would change in your organisation if you untangled \"analysis paralysis\" this week?'
+untie_story: 'A team classified every pending decision as \"one-way door\" or \"two-way door.\" Two-thirds resolved within 48 hours.'
+valence: mixed
+x_post: |
+  Stop gathering data. You aren't being thorough; you're being expensive procrastinators.
+  
+  Analysis paralysis is mistaking 'rigor' for 'avoidance.' The constant need for more data doesn't feel responsible—it just feels safe.
+  
+  If you can answer this question, the analysis is done: What would you choose right now?
+  
+  #DecisionMaking #Leadership
 ---
 
 In 2004, an internal memo circulated through Nokia's Espoo headquarters. An engineering team had identified the smartphone threat. They proposed a touchscreen device. They had working prototypes.

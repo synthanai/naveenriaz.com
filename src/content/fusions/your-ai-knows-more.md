@@ -22,6 +22,7 @@ quote_bottom: "You cannot export it."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Your AI Knows More About You

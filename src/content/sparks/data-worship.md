@@ -1,23 +1,23 @@
 ---
-title: "Data Worship"
+title: Data Worship
 date: 2026-03-30
-signal: "The dashboard says green. The team says drowning. Which one do you believe?"
-source: "Intelligence"
-temperature: "🔥🔥"
-quote_top: |-
-  The dashboard says green.
-  The team says they are drowning.
-  Which do you believe?
+status: published
+added: 2026-03-30
+description: "When data replaces judgement instead of informing it."
+origin_nodes: []
 quote_bottom: |-
   Data is a lantern.
   It is never a compass.
+quote_top: |-
+  The dashboard says green.
+  The team says drowning.
+  Which do you believe?
+signal: "The dashboard says green. The team says drowning. Which one do you believe?"
+source: Intelligence
 tags: [data, living_organizations, synthetic_intelligence]
-description: "When data replaces judgement instead of informing it."
-origin_nodes: []
-valence: "mixed"
-friction: ""
-status: pending-review
-added: 2026-03-30
+temperature: "🔥🔥"
+valence: mixed
+published_at: "2026-04-15T08:07:06.105Z"
 ---
 
 "What does the data say?" has become the highest form of organisational prayer. No decision moves without a dashboard blessing.

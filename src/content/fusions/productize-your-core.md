@@ -22,6 +22,7 @@ quote_bottom: "Identity fuels specific knowledge."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Productize Your CORE

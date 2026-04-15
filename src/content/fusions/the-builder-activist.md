@@ -22,6 +22,7 @@ quote_bottom: "Builders beat gatekeepers."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Builder-Activist

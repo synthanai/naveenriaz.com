@@ -21,7 +21,7 @@ quote_bottom: "Start building frameworks."
 origin_nodes: []
 valence: "mixed"
 friction: ""
-linkedin_post: |-
+linkedin_post: |
   ⚛️ FUSION: The Fatigue Paradox
   Everyone's talking about AI fatigue. But what are we actually tired of?
   
@@ -88,6 +88,7 @@ linkedin_post: |-
   
   #aifatigue #decisionfatigue #judgementfatigue #paradox #mindbodysoul
 custom_comment: "Fusion: https://naveenriaz.com/fusions/fatigue-paradox"
+status: pending
 ---
 
 # The Three Fatigues

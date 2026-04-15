@@ -22,6 +22,7 @@ quote_bottom: "AI forgets daily."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Scanning Is Not Knowing

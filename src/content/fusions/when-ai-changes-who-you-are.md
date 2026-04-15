@@ -22,6 +22,7 @@ quote_bottom: "Redefine your work self."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # When AI Changes Who You Are

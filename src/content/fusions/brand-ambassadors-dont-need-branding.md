@@ -23,6 +23,7 @@ quote_bottom: "AI makes it frictionless."
 origin_nodes: ["sparks:every-employee-brand-2030", "sparks/every-employee-brand-2030"]
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # By 2030, Every Employee Will Have a Personal Brand

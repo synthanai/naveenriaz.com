@@ -22,6 +22,7 @@ quote_bottom: "Judgment, not tools, is key."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Tool Installer

@@ -23,6 +23,7 @@ quote_bottom: "Profound, unsettling precision."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The OT Mirror

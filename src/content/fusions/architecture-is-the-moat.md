@@ -21,6 +21,7 @@ quote_bottom: "Architecture creates compound intelligence."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Architecture Is the Moat

@@ -22,6 +22,7 @@ quote_bottom: "SPAR prevents catastrophic consequences"
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # SPAR Is Not an AI Feature

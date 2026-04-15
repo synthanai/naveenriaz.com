@@ -22,6 +22,7 @@ quote_bottom: "Evolution at high speed."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Soulless Swarm

@@ -20,6 +20,7 @@ quote_bottom: "Stop 'fixing' semantic memory. Start grounding it in an episodic 
 origin_nodes: ["theories/price-of-meaning/research.md"]
 valence: "mixed"
 friction: "High technical friction in current RAG/KG industry standards"
+status: pending
 ---
 
 Then you added the next thousand documents. Then ten thousand.

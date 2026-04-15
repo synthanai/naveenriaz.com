@@ -2,6 +2,7 @@
 title: invisible-contracts
 date: 2026-03-17
 status: approved
+approved_at: "2026-04-14T10:35:16.035Z"
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/026-invisible-contracts/"
 description: "I would conceal this pain, but like spring water for those who dig, it only flow..."
 domain: organizations
@@ -50,12 +51,31 @@ quote_top: |-
 series: trust
 series_number: 2
 slug_name: invisible-contracts
+substack_article: |
+  I keep this observation to myself, but like spring water for those who dig, the deeper I look into organizational dynamics, the more visible the hidden currents become.
+  
+  There is a fundamental, unwritten law operating within every workplace, a system far more powerful than any Employee Handbook. We are all bound by invisible contracts—obligations and expectations that nobody ever signed, negotiated, or posted on a wall.
+  
+  Think of the time Basecamp’s foundational agreement was shattered. When the founders unilaterally banned open political discussion, the invisible contract—the freedom to talk freely—was revoked. The consequence wasn't a HR warning; it was an exodus.
+  
+  These unspoken norms are the true load-bearing walls of any culture. They are built not on policy, but on precedent, on the collective memory of what happened last time someone stepped out of line.
+  
+  The explicit rules are easy to see and ignore. The *real* governance lives in the shadows. And once you recognize the force of these implied terms, you realize they are the single most potent force shaping your day-to-day reality.
+  
+  This week, we're pulling back the curtain on the contracts you never knew you were bound by.
 untie_implement: |-
   Ask your team: ''What's expected here that nobody ever agreed to?' The first answer will be safe.
 untie_question: 'What would change in your organisation if you untangled \"invisible contracts\" this week?'
 untie_story: "A company published their financial results to all employees monthly. The transparency eliminated the rumor mill completely."
 valence: mixed
-approved_at: "2026-04-14T10:35:16.035Z"
+x_post: |
+  Your employee handbook is irrelevant.
+  
+  The real governance in any organization is the "Invisible Contract"—the unspoken rules nobody wrote but everyone obeys.
+  
+  These unwritten norms hold more power than any policy. See them, and you lose the ability to self-censor.
+  
+  #WorkplaceCulture #Leadership
 ---
 
 I would conceal this pain, but like spring water for those who dig, it only flows more.

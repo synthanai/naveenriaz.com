@@ -22,6 +22,7 @@ quote_bottom: "Vibrate at your worst."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Frequency as Culture

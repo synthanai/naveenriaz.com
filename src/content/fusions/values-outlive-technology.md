@@ -22,6 +22,7 @@ quote_bottom: "Principles transcend technology."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Values That Outlive the Technology

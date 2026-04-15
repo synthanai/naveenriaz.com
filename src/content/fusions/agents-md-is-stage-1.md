@@ -22,6 +22,7 @@ quote_bottom: "Context not constraint."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # AGENTS.md Is Stage 1

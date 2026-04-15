@@ -22,6 +22,7 @@ quote_bottom: "Old model, new name."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Waterfall Trap

@@ -1,27 +1,35 @@
 ---
-title: "After Lencioni: What Emerges When Teams Stop Failing"
-display_title: "After Lencioni"
-display_subtitle: "The 5 Dysfunctions tell you what to fix. SYNTHAI tells you what emerges when you do."
+title: |-
+  After Lencioni: What Emerges When Teams Stop Failing
+display_title: After Lencioni
 date: 2026-03-23
-categories: ["organisations"]
-tags: [emergence, five-dysfunctions, living_organizations, patrick-lencioni, stars-principles]
+status: pending
+categories: [organisations]
+custom_comment: "Ready to move past diagnosis and unlock genuine team emergence? [LINK]"
 description: "Lencioni's masterpiece diagnosed the baseline of team failure. But resolving dysfunction is not the end state-it is the prerequisite for emergence."
-source_research: "frameworks/five-dysfunctions-of-a-team/research.md"
-fusion_type: "public"
-fusion_nool:
+display_subtitle: "The 5 Dysfunctions tell you what to fix. SYNTHAI tells you what emerges when you do."
+fusion_nool: |-
   nokkam: "Position SYNTHAI's STARS principles as the emergence layer that sits on top of Lencioni's foundational dysfunction hierarchy"
-  vadivam: "Conceptual bridge: from diagnostic (Lencioni) to generative (SYNTHAI)"
-  sangilai: "Reader understands that 'healthy' is not the ceiling; it is the floor where true emergence begins."
-fusion_point:
+    vadivam: "Conceptual bridge: from diagnostic (Lencioni) to generative (SYNTHAI)"
+    sangilai: "Reader understands that 'healthy' is not the ceiling; it is the floor where true emergence begins."
+fusion_point: |-
   ideas:
-    - "Lencioni's 'organizational health' is an emergent property described without the vocabulary of complexity science."
-    - "Every dysfunction is a blocked STARS principle that creates an anti-emergence."
-    - "Fixing a team is not the goal; unlocking what emerges from the fixed team is the goal."
-quote_top: "Lencioni defines health, but fails to reach the emergent potential."
-quote_bottom: "Emergence is the goal."
+      - "Lencioni's 'organizational health' is an emergent property described without the vocabulary of complexity science."
+      - "Every dysfunction is a blocked STARS principle that creates an anti-emergence."
+      - "Fixing a team is not the goal; unlocking what emerges from the fixed team is the goal."
+fusion_type: public
 origin_nodes: []
-valence: "mixed"
-friction: ""
+quote_bottom: "Emergence is the goal."
+quote_top: "Lencioni defines health, but fails to reach the emergent potential."
+source_research: "frameworks/five-dysfunctions-of-a-team/research.md"
+tags: [emergence, five-dysfunctions, living_organizations, patrick-lencioni, stars-principles]
+valence: mixed
+x_post: |
+  Stop thinking about fixing your team.
+  
+  Lencioni's model is a diagnostic, telling you what's broken. But "fixing" is just the floor. The true goal is *Emergence*: the superior, unpredictable energy field that only arises when the system is thriving.
+  
+  Don't just be healthy. Be revolutionary. 🚀 #TeamDynamics #Emergence
 ---
 
 # After Lencioni

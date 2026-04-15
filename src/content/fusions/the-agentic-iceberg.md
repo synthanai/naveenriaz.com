@@ -22,6 +22,7 @@ quote_bottom: "AI reliability is messy."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Agentic Iceberg

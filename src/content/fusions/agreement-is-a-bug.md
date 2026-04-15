@@ -20,6 +20,7 @@ quote_bottom: "Externalize disagreement, empower agents."
 origin_nodes: ["sparks:the-accidental-spar", "sparks/the-accidental-spar"]
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 A builder I have never met just published my architecture.

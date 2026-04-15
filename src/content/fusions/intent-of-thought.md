@@ -20,6 +20,7 @@ quote_bottom: "Why reason? The gap."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Intent of Thought

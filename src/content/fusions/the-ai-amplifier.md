@@ -20,6 +20,7 @@ quote_bottom: "Speed without true flow is gridlock."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The AI Amplifier

@@ -22,6 +22,7 @@ quote_bottom: "Fix the assessment."
 origin_nodes: ["sparks:the-1-dollar-notebook-fallacy", "sparks/the-1-dollar-notebook-fallacy"]
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # She Banned AI

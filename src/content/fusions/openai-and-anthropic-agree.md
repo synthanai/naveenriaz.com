@@ -22,6 +22,7 @@ quote_bottom: "Independent discovery not preference"
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # OpenAI and Anthropic Agree

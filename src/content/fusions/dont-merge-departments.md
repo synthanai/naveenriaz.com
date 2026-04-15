@@ -22,6 +22,7 @@ quote_bottom: "Prune for efficiency."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # Don't Merge Departments, Prune Them

@@ -22,6 +22,7 @@ quote_bottom: "Name your mind's gears."
 origin_nodes: []
 valence: "mixed"
 friction: ""
+status: pending
 ---
 
 # The Four Gears
