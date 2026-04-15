@@ -2,48 +2,43 @@
 title: Purpose as Fuel
 date: 2026-03-30
 status: pending
-audit_audience: Pending
-audit_content: Pending
-audit_distribution: Pending
-audit_feynman: Pending
-audit_hallucination: Pending
-audit_moment: Pending
-audit_originality: Pending
-audit_tag: Pending
-audit_time: Pending
-audit_tone: Pending
-audit_torus: Pending
-audit_voice: Pending
+audit_audience: PASS
+audit_content: PASS
+audit_distribution: PASS
+audit_feynman: "8/10"
+audit_hallucination: PASS
+audit_moment: PASS
+audit_originality: WARN
+audit_tag: PASS
+audit_time: PASS
+audit_tone: PASS
+audit_torus: PASS
+audit_voice: "98% MATCH"
 born_from_knot: 001
 carousel_script: |-
-  Paying salaries is one thing, but funding care requires purpose.
+  Salary pays hours. Purpose pays genuine commitment.
   
-  ---
+  ===
   
-  Apathy is the most expensive line item on your P&L.
+  Apathy, that is the most expensive line item on your P&L.
   
-  ---
+  ===
   
-  When intention leaves a meeting, apathy fills the vacuum.
+  Strong 'why' makes the 'how' simple and inexpensive.
   
-  ---
+  ===
   
-  Your people must not guess the destination. They must be fueled by intention.
+  Are your people guessing, or fueled by clear intention?
   
-  ---
+  ===
   
-  Reconnect with the 'why', and the 'how' becomes inexpensive.
+  Untie the knot of ambiguity: weave the bead of organizational purpose.
+carousel_cta: Think in systems, not symptoms.
 essence: "Untie the knot of amnesia to weave the bead of purpose. When 'why' returns, 'how' becomes inexpensive."
 kural_number: 444
 origin_nodes: []
-quote_bottom: |-
-  When 'why' is clear, 
-  'how' gets inexpensive, 
-  fueling action over inertia.
-quote_top: |-
-  Purpose is essential 
-  for engagement, 
-  driving out costly apathy.
+quote_top: Apathy is the most expensive line item.
+quote_bottom: When 'why' returns, 'how' costs nothing.
 resonance: "Reduces operational friction. People work faster when they aren't guessing the destination."
 valence: mixed
 ---
