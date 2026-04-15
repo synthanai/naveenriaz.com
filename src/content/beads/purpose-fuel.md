@@ -2,33 +2,37 @@
 title: Purpose as Fuel
 date: 2026-03-30
 status: pending
-audit_audience: Scanning
-audit_content: Scanning
-audit_distribution: Scanning
+audit_audience: Pending
+audit_content: Pending
+audit_distribution: Pending
 audit_feynman: Pending
-audit_hallucination: Scanning
-audit_moment: Scanning
-audit_originality: Scanning
-audit_tag: Scanning
-audit_time: Scanning
-audit_tone: Scanning
-audit_torus: Scanning
+audit_hallucination: Pending
+audit_moment: Pending
+audit_originality: Pending
+audit_tag: Pending
+audit_time: Pending
+audit_tone: Pending
+audit_torus: Pending
 audit_voice: Pending
 born_from_knot: 001
 carousel_script: |-
-  You cannot pay dedication with salaries. Apathy, however, is the most expensive line item on your P&L.
+  Paying salaries is one thing, but funding care requires purpose.
   
   ---
   
-  Intention leaving a room, apathy fills the vacuum. Your people cannot guess the destination.
+  Apathy is the most expensive line item on your P&L.
   
   ---
   
-  When 'why' becomes undeniable, the 'how' becomes inexpensive. Purpose fuels intrinsic action.
+  When intention leaves a meeting, apathy fills the vacuum.
   
   ---
   
-  Stop merely managing tasks. Start weaving a clear purpose that connects effort to intention.
+  Your people must not guess the destination. They must be fueled by intention.
+  
+  ---
+  
+  Reconnect with the 'why', and the 'how' becomes inexpensive.
 essence: "Untie the knot of amnesia to weave the bead of purpose. When 'why' returns, 'how' becomes inexpensive."
 kural_number: 444
 origin_nodes: []
