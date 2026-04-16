@@ -1,5 +1,5 @@
 ---
-title: groupthink
+title: Groupthink
 knot_number: 63
 domain: organizations
 series: intelligence

@@ -1,5 +1,5 @@
 ---
-title: onboarding-failure
+title: Onboarding Failure
 knot_number: 94
 domain: organizations
 series: capability

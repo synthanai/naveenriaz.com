@@ -1,5 +1,5 @@
 ---
-title: innovation-theater
+title: Innovation Theater
 knot_number: 65
 domain: organizations
 series: intelligence

@@ -1,5 +1,5 @@
 ---
-title: the-zombie-organisation
+title: The Zombie Organisation
 knot_number: 108
 domain: organizations
 series: energy

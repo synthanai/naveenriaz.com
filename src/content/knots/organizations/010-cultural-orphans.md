@@ -1,5 +1,5 @@
 ---
-title: cultural-orphans
+title: Cultural Orphans
 knot_number: 10
 domain: organizations
 series: identity

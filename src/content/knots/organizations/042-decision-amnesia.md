@@ -1,5 +1,5 @@
 ---
-title: decision-amnesia
+title: Decision Amnesia
 knot_number: 42
 domain: organizations
 series: decisions

@@ -1,5 +1,5 @@
 ---
-title: learning-disability
+title: Learning Disability
 knot_number: 62
 domain: organizations
 series: intelligence

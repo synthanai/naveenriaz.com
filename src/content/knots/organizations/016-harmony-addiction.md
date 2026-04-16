@@ -1,5 +1,5 @@
 ---
-title: harmony-addiction
+title: Harmony Addiction
 knot_number: 16
 domain: organizations
 series: culture

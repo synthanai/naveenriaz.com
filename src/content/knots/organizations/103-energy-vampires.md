@@ -1,5 +1,5 @@
 ---
-title: energy-vampires
+title: Energy Vampires
 knot_number: 103
 domain: organizations
 series: energy

@@ -1,5 +1,5 @@
 ---
-title: trust-bankruptcy
+title: Trust Bankruptcy
 date: 2026-03-17
 status: approved
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/036-trust-bankruptcy/"

@@ -1,5 +1,5 @@
 ---
-title: turnover-spiral
+title: Turnover Spiral
 knot_number: 102
 domain: organizations
 series: energy

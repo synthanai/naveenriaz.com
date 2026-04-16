@@ -1,5 +1,5 @@
 ---
-title: values-inversion
+title: Values Inversion
 knot_number: 20
 domain: organizations
 series: culture

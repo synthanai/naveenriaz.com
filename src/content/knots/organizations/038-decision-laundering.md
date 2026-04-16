@@ -1,5 +1,5 @@
 ---
-title: decision-laundering
+title: Decision Laundering
 knot_number: 38
 domain: organizations
 series: decisions

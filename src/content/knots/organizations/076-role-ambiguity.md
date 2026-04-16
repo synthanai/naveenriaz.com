@@ -1,5 +1,5 @@
 ---
-title: role-ambiguity
+title: Role Ambiguity
 knot_number: 76
 domain: organizations
 series: structure

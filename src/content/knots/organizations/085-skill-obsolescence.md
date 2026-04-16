@@ -1,5 +1,5 @@
 ---
-title: skill-obsolescence
+title: Skill Obsolescence
 knot_number: 85
 domain: organizations
 series: capability

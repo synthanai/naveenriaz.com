@@ -1,5 +1,5 @@
 ---
-title: vision-inflation
+title: Vision Inflation
 knot_number: 9
 domain: organizations
 series: identity

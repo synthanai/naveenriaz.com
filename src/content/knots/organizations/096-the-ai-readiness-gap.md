@@ -1,5 +1,5 @@
 ---
-title: the-ai-readiness-gap
+title: The Ai Readiness Gap
 knot_number: 96
 domain: organizations
 series: capability

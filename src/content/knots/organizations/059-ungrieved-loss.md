@@ -1,5 +1,5 @@
 ---
-title: ungrieved-loss
+title: Ungrieved Loss
 knot_number: 59
 domain: organizations
 series: change

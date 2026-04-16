@@ -1,5 +1,5 @@
 ---
-title: silo-syndrome
+title: Silo Syndrome
 knot_number: 74
 domain: organizations
 series: structure

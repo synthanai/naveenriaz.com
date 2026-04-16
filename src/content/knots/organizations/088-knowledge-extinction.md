@@ -1,5 +1,5 @@
 ---
-title: knowledge-extinction
+title: Knowledge Extinction
 knot_number: 88
 domain: organizations
 series: capability

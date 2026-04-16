@@ -1,5 +1,5 @@
 ---
-title: success-ambiguity
+title: Success Ambiguity
 knot_number: 58
 domain: organizations
 series: change

@@ -1,8 +1,10 @@
 ---
-title: invisible-contracts
+title: Invisible Contracts
 date: 2026-03-17
-status: approved
+status: published
 approved_at: "2026-04-14T10:35:16.035Z"
+audit_hallucination: FAIL
+audit_tone: FAIL
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/026-invisible-contracts/"
 description: "I would conceal this pain, but like spring water for those who dig, it only flow..."
 domain: organizations
@@ -38,6 +40,7 @@ next_knot_title: Delegation Without Trust
 origin_nodes: [knots:025-broken-promises-loop, knots/organizations/025-broken-promises-loop, knots/organizations/027-delegation-without-trust]
 prev_knot: "organizations/025-broken-promises-loop"
 prev_knot_title: Broken Promises Loop
+published_at: "2026-04-16T03:37:27.524Z"
 punch_line_1: "I would conceal this pain, but like spring water for those who dig, it only flows more."
 punch_line_2: |-
   Invisible contracts are the underground springs of organizational behavior: the more you dig, the more you find.

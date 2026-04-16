@@ -1,5 +1,5 @@
 ---
-title: process-sediment
+title: Process Sediment
 knot_number: 75
 domain: organizations
 series: structure

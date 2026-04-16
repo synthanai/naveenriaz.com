@@ -1,5 +1,5 @@
 ---
-title: integrity-theater
+title: Integrity Theater
 knot_number: 14
 domain: organizations
 series: culture

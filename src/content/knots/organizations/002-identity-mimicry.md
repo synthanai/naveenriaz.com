@@ -1,5 +1,5 @@
 ---
-title: identity-mimicry
+title: Identity Mimicry
 date: 2026-03-17
 status: published
 approved_at: "2026-03-23T12:13:19.988Z"

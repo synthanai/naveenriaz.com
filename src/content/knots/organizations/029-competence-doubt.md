@@ -1,5 +1,5 @@
 ---
-title: competence-doubt
+title: Competence Doubt
 date: 2026-03-17
 status: approved
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/029-competence-doubt/"

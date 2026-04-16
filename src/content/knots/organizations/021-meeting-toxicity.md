@@ -1,5 +1,5 @@
 ---
-title: meeting-toxicity
+title: Meeting Toxicity
 knot_number: 21
 domain: organizations
 series: culture

@@ -1,5 +1,5 @@
 ---
-title: resource-hoarding
+title: Resource Hoarding
 knot_number: 105
 domain: organizations
 series: energy

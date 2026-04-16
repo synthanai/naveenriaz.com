@@ -1,5 +1,5 @@
 ---
-title: trust-asymmetry
+title: Trust Asymmetry
 date: 2026-03-17
 status: approved
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/031-trust-asymmetry/"

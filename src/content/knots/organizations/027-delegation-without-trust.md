@@ -1,5 +1,5 @@
 ---
-title: delegation-without-trust
+title: Delegation Without Trust
 date: 2026-03-17
 status: approved
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/027-delegation-without-trust/"

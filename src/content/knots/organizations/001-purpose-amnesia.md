@@ -1,5 +1,5 @@
 ---
-title: purpose-amnesia
+title: Purpose Amnesia
 knot_number: 1
 domain: organizations
 series: identity

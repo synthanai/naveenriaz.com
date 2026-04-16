@@ -1,10 +1,4 @@
-# KNOTS: Series Announcements & Reflections
-
-> Use these as LinkedIn posts at the START and END of each 12-knot series.
-> They bridge the diagnostic content to the empowering brand promise.
-
 ---
-
 ## Series 1: Untangling Identity (Knots #1-12) 🪞
 
 ### Announcement (Post before Knot #1)
@@ -23,6 +17,7 @@ The first knot drops tomorrow: Purpose Amnesia.
 
 Follow for the untangling. 🪞
 
+status: pending
 ---
 #108KNOTS #UntanglingIdentity #Day1
 

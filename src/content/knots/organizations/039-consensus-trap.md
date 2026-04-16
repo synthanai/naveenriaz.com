@@ -1,5 +1,5 @@
 ---
-title: consensus-trap
+title: Consensus Trap
 knot_number: 39
 domain: organizations
 series: decisions

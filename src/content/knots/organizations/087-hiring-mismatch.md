@@ -1,5 +1,5 @@
 ---
-title: hiring-mismatch
+title: Hiring Mismatch
 knot_number: 87
 domain: organizations
 series: capability

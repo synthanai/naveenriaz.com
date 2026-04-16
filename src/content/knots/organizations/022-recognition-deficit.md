@@ -1,5 +1,5 @@
 ---
-title: recognition-deficit
+title: Recognition Deficit
 knot_number: 22
 domain: organizations
 series: culture

@@ -1,5 +1,5 @@
 ---
-title: technical-debt-avalanche
+title: Technical Debt Avalanche
 knot_number: 90
 domain: organizations
 series: capability

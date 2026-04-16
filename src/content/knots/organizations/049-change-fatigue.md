@@ -1,5 +1,5 @@
 ---
-title: change-fatigue
+title: Change Fatigue
 knot_number: 49
 domain: organizations
 series: change

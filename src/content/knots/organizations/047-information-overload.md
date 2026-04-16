@@ -1,5 +1,5 @@
 ---
-title: information-overload
+title: Information Overload
 knot_number: 47
 domain: organizations
 series: decisions

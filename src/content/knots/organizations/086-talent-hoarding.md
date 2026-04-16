@@ -1,5 +1,5 @@
 ---
-title: talent-hoarding
+title: Talent Hoarding
 knot_number: 86
 domain: organizations
 series: capability

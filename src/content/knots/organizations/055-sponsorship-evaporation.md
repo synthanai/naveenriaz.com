@@ -1,5 +1,5 @@
 ---
-title: sponsorship-evaporation
+title: Sponsorship Evaporation
 knot_number: 55
 domain: organizations
 series: change

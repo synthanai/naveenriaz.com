@@ -1,5 +1,5 @@
 ---
-title: resistance-misdiagnosis
+title: Resistance Misdiagnosis
 knot_number: 51
 domain: organizations
 series: change

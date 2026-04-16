@@ -1,5 +1,5 @@
 ---
-title: rhetoric-reality-gap
+title: Rhetoric Reality Gap
 knot_number: 57
 domain: organizations
 series: change

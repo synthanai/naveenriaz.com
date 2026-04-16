@@ -1,5 +1,5 @@
 ---
-title: dissent-suppression
+title: Dissent Suppression
 knot_number: 43
 domain: organizations
 series: decisions

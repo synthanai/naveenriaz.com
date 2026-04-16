@@ -1,5 +1,5 @@
 ---
-title: celebration-deficit
+title: Celebration Deficit
 knot_number: 106
 domain: organizations
 series: energy

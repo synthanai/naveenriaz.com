@@ -1,5 +1,5 @@
 ---
-title: founders-ghost
+title: Founders Ghost
 knot_number: 3
 domain: organizations
 series: identity

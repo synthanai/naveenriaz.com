@@ -1,5 +1,5 @@
 ---
-title: mission-drift
+title: Mission Drift
 knot_number: 5
 domain: organizations
 series: identity

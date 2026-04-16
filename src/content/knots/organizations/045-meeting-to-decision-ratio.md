@@ -1,5 +1,5 @@
 ---
-title: meeting-to-decision-ratio
+title: Meeting To Decision Ratio
 knot_number: 45
 domain: organizations
 series: decisions

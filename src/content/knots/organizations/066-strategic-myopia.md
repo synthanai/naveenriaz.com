@@ -1,5 +1,5 @@
 ---
-title: strategic-myopia
+title: Strategic Myopia
 knot_number: 66
 domain: organizations
 series: intelligence

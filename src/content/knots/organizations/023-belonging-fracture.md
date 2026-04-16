@@ -1,5 +1,5 @@
 ---
-title: belonging-fracture
+title: Belonging Fracture
 knot_number: 23
 domain: organizations
 series: culture

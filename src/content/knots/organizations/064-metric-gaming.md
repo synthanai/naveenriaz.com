@@ -1,5 +1,5 @@
 ---
-title: metric-gaming
+title: Metric Gaming
 knot_number: 64
 domain: organizations
 series: intelligence

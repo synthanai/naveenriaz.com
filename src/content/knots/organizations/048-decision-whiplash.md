@@ -1,5 +1,5 @@
 ---
-title: decision-whiplash
+title: Decision Whiplash
 knot_number: 48
 domain: organizations
 series: decisions

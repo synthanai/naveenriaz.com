@@ -1,5 +1,5 @@
 ---
-title: initiative-overload
+title: Initiative Overload
 knot_number: 53
 domain: organizations
 series: change

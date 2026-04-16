@@ -1,5 +1,5 @@
 ---
-title: the-scapegoat-pattern
+title: The Scapegoat Pattern
 date: 2026-03-17
 status: approved
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/035-the-scapegoat-pattern/"

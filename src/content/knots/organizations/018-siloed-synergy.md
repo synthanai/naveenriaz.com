@@ -1,5 +1,5 @@
 ---
-title: siloed-synergy
+title: Siloed Synergy
 knot_number: 18
 domain: organizations
 series: culture

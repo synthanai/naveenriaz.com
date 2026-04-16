@@ -1,5 +1,5 @@
 ---
-title: urgency-addiction
+title: Urgency Addiction
 knot_number: 104
 domain: organizations
 series: energy

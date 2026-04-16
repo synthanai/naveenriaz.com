@@ -1,5 +1,5 @@
 ---
-title: emotional-illiteracy
+title: Emotional Illiteracy
 knot_number: 107
 domain: organizations
 series: energy

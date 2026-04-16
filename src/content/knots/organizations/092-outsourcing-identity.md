@@ -1,5 +1,5 @@
 ---
-title: outsourcing-identity
+title: Outsourcing Identity
 knot_number: 92
 domain: organizations
 series: capability

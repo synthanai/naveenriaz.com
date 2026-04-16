@@ -1,5 +1,5 @@
 ---
-title: forecast-addiction
+title: Forecast Addiction
 knot_number: 70
 domain: organizations
 series: intelligence

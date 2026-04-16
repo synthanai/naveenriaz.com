@@ -1,5 +1,5 @@
 ---
-title: autonomy-starvation
+title: Autonomy Starvation
 knot_number: 99
 domain: organizations
 series: energy

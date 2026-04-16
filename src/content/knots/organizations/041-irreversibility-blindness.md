@@ -1,5 +1,5 @@
 ---
-title: irreversibility-blindness
+title: Irreversibility Blindness
 knot_number: 41
 domain: organizations
 series: decisions

@@ -1,5 +1,5 @@
 ---
-title: gossip-economy
+title: Gossip Economy
 date: 2026-03-17
 status: approved
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/034-gossip-economy/"

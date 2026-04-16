@@ -1,5 +1,5 @@
 ---
-title: surveillance-culture
+title: Surveillance Culture
 date: 2026-03-17
 status: approved
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/033-surveillance-culture/"

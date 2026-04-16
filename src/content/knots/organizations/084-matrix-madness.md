@@ -1,5 +1,5 @@
 ---
-title: matrix-madness
+title: Matrix Madness
 knot_number: 84
 domain: organizations
 series: structure

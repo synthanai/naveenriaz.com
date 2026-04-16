@@ -1,5 +1,5 @@
 ---
-title: governance-bloat
+title: Governance Bloat
 knot_number: 78
 domain: organizations
 series: structure

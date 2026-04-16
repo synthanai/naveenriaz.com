@@ -1,5 +1,5 @@
 ---
-title: structural-inertia
+title: Structural Inertia
 knot_number: 73
 domain: organizations
 series: structure

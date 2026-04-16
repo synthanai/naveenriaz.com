@@ -1,5 +1,5 @@
 ---
-title: organizational-antibodies
+title: Organizational Antibodies
 knot_number: 56
 domain: organizations
 series: change

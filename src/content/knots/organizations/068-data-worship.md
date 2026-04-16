@@ -1,5 +1,5 @@
 ---
-title: data-worship
+title: Data Worship
 knot_number: 68
 domain: organizations
 series: intelligence

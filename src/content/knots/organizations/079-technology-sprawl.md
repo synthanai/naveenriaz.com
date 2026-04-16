@@ -1,5 +1,5 @@
 ---
-title: technology-sprawl
+title: Technology Sprawl
 knot_number: 79
 domain: organizations
 series: structure

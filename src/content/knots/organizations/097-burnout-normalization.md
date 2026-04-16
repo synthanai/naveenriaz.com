@@ -1,5 +1,5 @@
 ---
-title: burnout-normalization
+title: Burnout Normalization
 knot_number: 97
 domain: organizations
 series: energy

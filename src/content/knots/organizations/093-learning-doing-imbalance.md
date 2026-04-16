@@ -1,5 +1,5 @@
 ---
-title: learning-doing-imbalance
+title: Learning Doing Imbalance
 knot_number: 93
 domain: organizations
 series: capability

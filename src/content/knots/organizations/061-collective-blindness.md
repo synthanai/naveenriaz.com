@@ -1,5 +1,5 @@
 ---
-title: collective-blindness
+title: Collective Blindness
 knot_number: 61
 domain: organizations
 series: intelligence

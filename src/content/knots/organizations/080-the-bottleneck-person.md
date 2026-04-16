@@ -1,5 +1,5 @@
 ---
-title: the-bottleneck-person
+title: The Bottleneck Person
 knot_number: 80
 domain: organizations
 series: structure

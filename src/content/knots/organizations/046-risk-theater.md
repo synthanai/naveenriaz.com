@@ -1,5 +1,5 @@
 ---
-title: risk-theater
+title: Risk Theater
 knot_number: 46
 domain: organizations
 series: decisions

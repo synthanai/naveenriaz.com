@@ -1,5 +1,5 @@
 ---
-title: performative-safety
+title: Performative Safety
 knot_number: 13
 domain: organizations
 series: culture

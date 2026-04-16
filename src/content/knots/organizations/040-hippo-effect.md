@@ -1,5 +1,5 @@
 ---
-title: hippo-effect
+title: Hippo Effect
 knot_number: 40
 domain: organizations
 series: decisions

@@ -1,5 +1,5 @@
 ---
-title: legacy-denial
+title: Legacy Denial
 knot_number: 6
 domain: organizations
 series: identity

@@ -1,5 +1,5 @@
 ---
-title: cognitive-debt
+title: Cognitive Debt
 knot_number: 69
 domain: organizations
 series: intelligence

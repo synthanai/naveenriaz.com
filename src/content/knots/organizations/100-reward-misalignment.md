@@ -1,5 +1,5 @@
 ---
-title: reward-misalignment
+title: Reward Misalignment
 knot_number: 100
 domain: organizations
 series: energy

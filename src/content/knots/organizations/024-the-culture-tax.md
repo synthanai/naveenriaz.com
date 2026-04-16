@@ -1,5 +1,5 @@
 ---
-title: the-culture-tax
+title: The Culture Tax
 date: 2026-03-17
 status: published
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/024-the-culture-tax/"

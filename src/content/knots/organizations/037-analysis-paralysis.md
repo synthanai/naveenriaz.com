@@ -1,5 +1,5 @@
 ---
-title: analysis-paralysis
+title: Analysis Paralysis
 date: 2026-03-17
 status: pending
 audit_audience: UNDEFINED

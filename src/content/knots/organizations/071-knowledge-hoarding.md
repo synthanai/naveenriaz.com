@@ -1,5 +1,5 @@
 ---
-title: knowledge-hoarding
+title: Knowledge Hoarding
 knot_number: 71
 domain: organizations
 series: intelligence

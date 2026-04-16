@@ -1,5 +1,5 @@
 ---
-title: momentum-decay
+title: Momentum Decay
 knot_number: 52
 domain: organizations
 series: change

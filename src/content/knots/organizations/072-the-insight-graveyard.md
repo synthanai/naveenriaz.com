@@ -1,5 +1,5 @@
 ---
-title: the-insight-graveyard
+title: The Insight Graveyard
 knot_number: 72
 domain: organizations
 series: intelligence

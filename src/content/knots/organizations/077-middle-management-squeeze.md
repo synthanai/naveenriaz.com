@@ -1,5 +1,5 @@
 ---
-title: middle-management-squeeze
+title: Middle Management Squeeze
 knot_number: 77
 domain: organizations
 series: structure

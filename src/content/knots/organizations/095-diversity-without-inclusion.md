@@ -1,5 +1,5 @@
 ---
-title: diversity-without-inclusion
+title: Diversity Without Inclusion
 knot_number: 95
 domain: organizations
 series: capability

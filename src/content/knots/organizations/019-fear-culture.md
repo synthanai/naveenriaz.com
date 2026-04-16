@@ -1,5 +1,5 @@
 ---
-title: fear-culture
+title: Fear Culture
 knot_number: 19
 domain: organizations
 series: culture

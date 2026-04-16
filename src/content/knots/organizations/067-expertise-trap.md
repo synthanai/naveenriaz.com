@@ -1,5 +1,5 @@
 ---
-title: expertise-trap
+title: Expertise Trap
 knot_number: 67
 domain: organizations
 series: intelligence

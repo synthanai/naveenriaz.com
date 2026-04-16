@@ -1,5 +1,5 @@
 ---
-title: decision-fragmentation
+title: Decision Fragmentation
 knot_number: 44
 domain: organizations
 series: decisions

@@ -1,5 +1,5 @@
 ---
-title: identity-fragility
+title: Identity Fragility
 knot_number: 11
 domain: organizations
 series: identity

@@ -1,5 +1,5 @@
 ---
-title: the-presenteeism-tax
+title: The Presenteeism Tax
 knot_number: 101
 domain: organizations
 series: energy

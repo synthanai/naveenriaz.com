@@ -1,5 +1,5 @@
 ---
-title: handoff-failure
+title: Handoff Failure
 knot_number: 82
 domain: organizations
 series: structure

@@ -1,5 +1,5 @@
 ---
-title: scaling-pains
+title: Scaling Pains
 knot_number: 83
 domain: organizations
 series: structure

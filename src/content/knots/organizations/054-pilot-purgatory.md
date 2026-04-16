@@ -1,5 +1,5 @@
 ---
-title: pilot-purgatory
+title: Pilot Purgatory
 knot_number: 54
 domain: organizations
 series: change

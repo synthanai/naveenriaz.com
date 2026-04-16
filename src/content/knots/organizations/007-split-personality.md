@@ -1,5 +1,5 @@
 ---
-title: split-personality
+title: Split Personality
 knot_number: 7
 domain: organizations
 series: identity

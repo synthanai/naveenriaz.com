@@ -1,5 +1,5 @@
 ---
-title: leadership-vacuum
+title: Leadership Vacuum
 knot_number: 89
 domain: organizations
 series: capability

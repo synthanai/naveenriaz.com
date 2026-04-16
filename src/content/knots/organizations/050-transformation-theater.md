@@ -1,5 +1,5 @@
 ---
-title: transformation-theater
+title: Transformation Theater
 knot_number: 50
 domain: organizations
 series: change

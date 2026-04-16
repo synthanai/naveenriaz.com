@@ -1,5 +1,5 @@
 ---
-title: broken-promises-loop
+title: Broken Promises Loop
 date: 2026-03-17
 status: published
 custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/025-broken-promises-loop/"

@@ -1,5 +1,5 @@
 ---
-title: customer-capability-gap
+title: Customer Capability Gap
 knot_number: 91
 domain: organizations
 series: capability

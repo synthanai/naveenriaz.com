@@ -1,5 +1,5 @@
 ---
-title: purpose-commodification
+title: Purpose Commodification
 knot_number: 8
 domain: organizations
 series: identity

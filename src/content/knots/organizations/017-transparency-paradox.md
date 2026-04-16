@@ -1,5 +1,5 @@
 ---
-title: transparency-paradox
+title: Transparency Paradox
 knot_number: 17
 domain: organizations
 series: culture

@@ -1,5 +1,5 @@
 ---
-title: consultant-dependency
+title: Consultant Dependency
 knot_number: 60
 domain: organizations
 series: change

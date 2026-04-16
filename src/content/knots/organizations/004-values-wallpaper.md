@@ -1,5 +1,5 @@
 ---
-title: values-wallpaper
+title: Values Wallpaper
 knot_number: 4
 domain: organizations
 series: identity

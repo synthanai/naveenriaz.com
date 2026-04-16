@@ -1,5 +1,5 @@
 ---
-title: gravitational-void
+title: Gravitational Void
 knot_number: 15
 domain: organizations
 series: culture

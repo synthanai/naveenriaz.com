@@ -1,5 +1,5 @@
 ---
-title: the-hollow-core
+title: The Hollow Core
 knot_number: 12
 domain: organizations
 series: identity

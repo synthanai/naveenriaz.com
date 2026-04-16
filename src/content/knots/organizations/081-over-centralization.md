@@ -1,5 +1,5 @@
 ---
-title: over-centralization
+title: Over Centralization
 knot_number: 81
 domain: organizations
 series: structure
