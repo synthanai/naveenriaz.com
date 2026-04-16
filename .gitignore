@@ -16,3 +16,18 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# SYNTHAI Governance (this repo is PUBLIC, governance lives in master repo)
+NOOL.md
+LOON.md
+COLLISION-STANDARD.md
+.agent/
+
+# Maintenance scripts (belong in master repo ops/)
+*.py
+*.spec.js
+test-results/
+
+# Logs and crash dumps
+*.log
+publish_crash_log.txt

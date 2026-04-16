@@ -1,28 +1,32 @@
 ---
-title: "Your AI Assistant Knows More About You Than You Do"
-display_title: "Your AI Knows More About You"
-display_subtitle: "446 developers want their AI data back. That's more stars than any AI model or agent this builder shipped."
+title: Your AI Assistant Knows More About You Than You Do
+display_title: Your AI Knows More About You
 date: 2026-03-21
-categories: ["ai-emergence", "pattern"]
-tags: [development_shift, institutional_memory, personal_sovereignty, synthetic_intelligence]
-description: "Your AI conversation history contains your problem-solving patterns, decision rationale, and coding style. You don't own it."
-source_research: "concepts/ai-data-sovereignty/research.md"
-fusion_type: "public"
-fusion_nool:
-  nokkam: "Reveal that AI conversation histories are externalized tacit knowledge that users neither own nor can extract"
-  vadivam: "Contrast: AI capability hype × Data ownership reality"
-  sangilai: "Reader audits their own AI tool data and considers extraction or portability"
-fusion_point:
-  ideas:
-    - "Tacit knowledge externalisation through AI dialogue"
-    - "Platform lock-in through conversation history"
-    - "Data sovereignty as a developer right"
-quote_top: "Your AI knows your mental models better than you do."
-quote_bottom: "You cannot export it."
-origin_nodes: []
-valence: "mixed"
-friction: ""
 status: pending
+categories: [ai-emergence, pattern]
+description: "Your AI conversation history contains your problem-solving patterns, decision rationale, and coding style. You don't own it."
+display_subtitle: "446 developers want their AI data back. That's more stars than any AI model or agent this builder shipped."
+fusion_nool: |-
+  nokkam: "Reveal that AI conversation histories are externalized tacit knowledge that users neither own nor can extract"
+    vadivam: "Contrast: AI capability hype × Data ownership reality"
+    sangilai: "Reader audits their own AI tool data and considers extraction or portability"
+fusion_point: |-
+  ideas:
+      - "Tacit knowledge externalisation through AI dialogue"
+      - "Platform lock-in through conversation history"
+      - "Data sovereignty as a developer right"
+fusion_type: public
+origin_nodes: []
+quote_bottom: |-
+  You cannot 
+  export it.
+quote_top: |-
+  Your AI knows 
+  your mental models 
+  better than you do.
+source_research: "concepts/ai-data-sovereignty/research.md"
+tags: [development_shift, institutional_memory, personal_sovereignty, synthetic_intelligence]
+valence: mixed
 ---
 
 # Your AI Knows More About You

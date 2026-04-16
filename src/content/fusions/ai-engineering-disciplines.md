@@ -9,9 +9,9 @@ description: "The evolution from prompt engineering to intent engineering, mappe
 source_research: "concepts/prompt-driven-architecture/research.md"
 fusion_type: "public"
 fusion_nool:
-  nokkam: "Reveal that the AI engineering discipline is evolving through four distinct layers, each absorbing its predecessor, and that most teams are stuck on layer one while the competitive edge lives on layer four"
-  vadivam: "Pattern: evolutionary maturity model (Prompt → Context → Harness → Intent) mapped to capability layers (Body → Mind → Soul)"
-  sangilai: "Reader identifies which layer they currently operate on, recognises the gap, and gains vocabulary to articulate what their org needs next"
+  nokkam: "Reveal that AI engineering is evolving through four distinct layers, each absorbing its predecessor, and that Intent Engineering (the frontier) requires encoding organizational identity, not just writing better specifications"
+  vadivam: "Pattern: evolutionary maturity model (Prompt → Context → Harness → Intent) mapped to capability layers (Body → Mind → Soul). Gateway to a deeper thesis on identity-driven governance."
+  sangilai: "Reader identifies which layer they currently operate on, recognises the gap, and begins to grasp that Layer 4 demands philosophical depth, not just technical precision"
 fusion_point:
   ideas:
     - "Prompt Engineering as instruction craft (the solved layer)"
@@ -265,7 +265,7 @@ That is the gap intent engineering fills.
 
 **The question**: "What should this system achieve, and why?"
 
-Intent engineering is the discipline of translating high-level business goals, desired outcomes, and constraints into structured specifications that autonomous AI agents can execute without ambiguity. It bridges the "alignment bottleneck" between what a business needs and what an autonomous agent actually optimises for.
+Intent engineering is the discipline of translating an organisation's purpose, values, and operational boundaries into structured specifications that autonomous AI agents can execute without ambiguity. It bridges the "alignment bottleneck" between what a business stands for and what an autonomous agent actually optimises for.
 
 ### Why it sits at the top
 
@@ -292,6 +292,20 @@ Hard boundaries and forbidden actions. Not suggestions, but enforcement boundari
 **5. Escalation and Halt Rules**
 
 Explicit conditions that require human intervention or stop execution entirely. "If three consecutive returns from the same customer are flagged, pause and escalate." The system knows its own authority limits.
+
+### Beyond specifications
+
+The five components above are the skeletal structure of intent. They are necessary. They are not sufficient.
+
+A deeper truth is emerging as organisations move from isolated agents to autonomous systems that make thousands of unsupervised decisions daily: an intent specification is not a requirements document. It is the encoded identity of the system. The objectives, constraints, and escalation rules are the visible scaffolding. Beneath them sits a philosophical foundation that most teams never articulate: Why does this system exist? What does this organisation value when two legitimate priorities collide? How should this agent reason about trade-offs that no specification anticipated?
+
+Consider the code review agent from the earlier example. The Layer 4 team wrote an intent specification with objectives, constraints, and escalation rules. But what happens when a brilliant engineer submits code that passes every automated test, solves the immediate problem elegantly, and subtly violates the architectural philosophy the team spent three years building? No constraint policy covers this. No escalation rule triggers. The agent must reason from the organisation's identity: "We value long-term coherence over short-term velocity. This code is brilliant. It is also corrosive. Flag it."
+
+That reasoning does not come from a specification. It comes from an organisation that has extracted its own core identity (its calling, its boundaries, its definition of coherence) and encoded that identity as the governing layer above every technical constraint.
+
+This is the true frontier of intent engineering, and it is far harder than writing structured specifications. It requires organisations to answer questions they have been avoiding for decades: What do we actually stand for? What are we unwilling to compromise, even when compromising would be faster? What does it mean for our systems to reflect who we are, not just what we want?
+
+Most teams will find the five components above sufficient for their current needs. For those building systems that will operate autonomously at scale, the deeper work, the extraction and encoding of organisational identity, is the discipline that separates governance from automation.
 
 ### The pattern you should recognise
 
@@ -424,13 +438,19 @@ Most teams operate at layer one. Some have reached layer two. Very few have buil
 
 Your current ceiling is determined by the deepest question you know how to ask. "How do I phrase this?" is layer one. "What does it need to know?" is layer two. "What system surrounds it?" is layer three. "What should it achieve, and why?" is layer four.
 
+But there is a question beneath "What should it achieve?" that most organisations have never formally answered for themselves, let alone for their AI systems: Who are we, and what will we never compromise?
+
+The five-component intent specification gets you started. The deeper work, extracting your organisation's core identity and encoding it as the governing layer of every autonomous system, is a discipline that extends far beyond a single article. It demands that leaders, architects, and teams confront questions of philosophy, observability, strategy, and execution that have no quick answers.
+
+This article is the first floor of that building. The deeper layers deserve their own exploration.
+
 Here is the question that sits above all four layers, the one that no framework or discipline can answer for you:
 
 Who in your organisation is responsible for defining the intent, and what happens when nobody does?
 
 ---
 
-*This fusion emerged from a STEAL on Subramanian Narayanan's Prompt-Driven Architecture article, cross-referenced with context engineering research (Muratcan Koylan), harness engineering industry consensus (2026), intent engineering definitions (pathmode.io, mindstudio.ai), and the OpenClaw paradigm (Peter Steinberger). The four-layer model maps to the Mind-Body-Soul framework that governs how living organisations distribute capability.*
+*This fusion emerged from a STEAL on Subramanian Narayanan's Prompt-Driven Architecture article, cross-referenced with context engineering research (Muratcan Koylan), harness engineering industry consensus (2026), intent engineering definitions (pathmode.io, mindstudio.ai), and the OpenClaw paradigm (Peter Steinberger). The four-layer model maps to the Mind-Body-Soul framework that governs how living organisations distribute capability. Future articles in this series will explore the deeper dimensions of intent engineering: identity extraction, cognitive governance, organisational resilience, and the observability of coherence.*
 
 <!--
 STATEMENT: AI engineering has evolved through four disciplines: Prompt Engineering (how to phrase instructions), Context Engineering (what information to provide), Harness Engineering (what system to build around agents), and Intent Engineering (what purpose the system serves). Each layer absorbs its predecessor. Most teams are stuck on layer one.
