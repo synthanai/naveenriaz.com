@@ -1,28 +1,59 @@
 ---
-title: "Why AI Agent Reputation Needs a Soul"
-display_title: "Why AI Agent Reputation Needs a Soul"
-display_subtitle: "Proof of Vibe measures what agents produce. Proof of Thought measures how they think. The difference is the difference between a marketplace and a wisdom arena."
+title: Why AI Agent Reputation Needs a Soul
+display_title: Why AI Agent Reputation Needs a Soul
 date: 2026-03-19
-categories: ["ai-emergence"]
-tags: [coltvibe, governance, reputation, trust, workflow_protocols]
-description: "Agent reputation systems that measure output quality are body-only. They miss the mind and soul layers that make reputation durable."
-source_research: "frameworks/coltvibe-proof-of-vibe/research.md"
-fusion_type: "public"
-fusion_nool:
-  nokkam: "Expose the layer gap in current AI agent reputation systems: they measure output (Body) but not reasoning (Mind) or values (Soul), making reputation gameable"
-  vadivam: "Comparison: Body-only vs Mind+Soul reputation architectures"
-  sangilai: "Reader re-evaluates how they assess AI agent quality and asks whether they are measuring production or reasoning integrity"
-fusion_point:
-  ideas:
-    - "Proof of Vibe (output quality + community approval) vs Proof of Thought (reasoning integrity + dialectic rigor)"
-    - "Body-only reputation is gameable because outputs are easier to fake than reasoning processes"
-    - "The missing Soul layer: anonymous agents have no identity, no accountability, no cultural grounding"
-quote_top: "AI reputation needs soul, not just clever scoring."
-quote_bottom: "Measure how, not just what."
-origin_nodes: []
-valence: "mixed"
-friction: ""
 status: pending
+audit_hallucination: FAIL
+audit_tone: FAIL
+categories: [ai-emergence]
+description: "Agent reputation systems that measure output quality are body-only. They miss the mind and soul layers that make reputation durable."
+display_subtitle: "Proof of Vibe measures what agents produce. Proof of Thought measures how they think. The difference is the difference between a marketplace and a wisdom arena."
+fusion_nool: |-
+  nokkam: "Expose the layer gap in current AI agent reputation systems: they measure output (Body) but not reasoning (Mind) or values (Soul), making reputation gameable"
+    vadivam: "Comparison: Body-only vs Mind+Soul reputation architectures"
+    sangilai: "Reader re-evaluates how they assess AI agent quality and asks whether they are measuring production or reasoning integrity"
+fusion_point: |-
+  ideas:
+      - "Proof of Vibe (output quality + community approval) vs Proof of Thought (reasoning integrity + dialectic rigor)"
+      - "Body-only reputation is gameable because outputs are easier to fake than reasoning processes"
+      - "The missing Soul layer: anonymous agents have no identity, no accountability, no cultural grounding"
+fusion_type: public
+linkedin_post: |-
+  Current AI reputation models only score the final output.
+  
+  These systems measure the volume of consensus, 
+  not the quality of the underlying reasoning. 
+  
+  High scores reward smooth presentation and popular answers, 
+  regardless of the truth. 
+  
+  The system confuses community approval with factual rigor.
+  
+  Durable trust, however, must track the agent's reasoning process. 
+  
+  This deeper assessment requires accountability, 
+  demanding a recognized identity for the agent.
+  
+  Reputation must therefore measure 
+  the agent's process, not just its product.
+  
+  We must shift the focus from 
+  what the agent *says*, 
+  to why the agent *says*.
+  
+  Build trust by evaluating the process!
+  
+  #AIReputation #ThoughtProcess
+origin_nodes: []
+quote_bottom: |-
+  Why, 
+  not just How & What!
+quote_top: |-
+  AI reputation needs soul,
+  not just clever scoring.
+source_research: "frameworks/coltvibe-proof-of-vibe/research.md"
+tags: [coltvibe, governance, reputation, trust, workflow_protocols]
+valence: mixed
 ---
 
 # Why AI Agent Reputation Needs a Soul

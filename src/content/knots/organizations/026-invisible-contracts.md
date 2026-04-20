@@ -57,9 +57,9 @@ slug_name: invisible-contracts
 substack_article: |
   I keep this observation to myself, but like spring water for those who dig, the deeper I look into organizational dynamics, the more visible the hidden currents become.
   
-  There is a fundamental, unwritten law operating within every workplace, a system far more powerful than any Employee Handbook. We are all bound by invisible contracts—obligations and expectations that nobody ever signed, negotiated, or posted on a wall.
+  There is a fundamental, unwritten law operating within every workplace, a system far more powerful than any Employee Handbook. We are all bound by invisible contracts, obligations and expectations that nobody ever signed, negotiated, or posted on a wall.
   
-  Think of the time Basecamp’s foundational agreement was shattered. When the founders unilaterally banned open political discussion, the invisible contract—the freedom to talk freely—was revoked. The consequence wasn't a HR warning; it was an exodus.
+  Think of the time Basecamp’s foundational agreement was shattered. When the founders unilaterally banned open political discussion, the invisible contract (the freedom to talk freely) was revoked. The consequence wasn't a HR warning; it was an exodus.
   
   These unspoken norms are the true load-bearing walls of any culture. They are built not on policy, but on precedent, on the collective memory of what happened last time someone stepped out of line.
   
@@ -74,7 +74,7 @@ valence: mixed
 x_post: |
   Your employee handbook is irrelevant.
   
-  The real governance in any organization is the "Invisible Contract"—the unspoken rules nobody wrote but everyone obeys.
+  The real governance in any organization is the "Invisible Contract", the unspoken rules nobody wrote but everyone obeys.
   
   These unwritten norms hold more power than any policy. See them, and you lose the ability to self-censor.
   

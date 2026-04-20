@@ -57,7 +57,7 @@ series: decisions
 series_number: 1
 slug_name: analysis-paralysis
 substack_article: |
-  You know the feeling. You're standing at the edge of a decision—a career pivot, a big investment, a relationship change—and you are drowning in data. More reports. Another stakeholder meeting. A dozen more deep dives.
+  You know the feeling. You're standing at the edge of a decision (a career pivot, a big investment, a relationship change) and you are drowning in data. More reports. Another stakeholder meeting. A dozen more deep dives.
   
   It feels responsible, doesn't it? Like the sheer volume of research is the only way to guarantee safety.
   
@@ -69,7 +69,7 @@ substack_article: |
   
   When a diagnosis is clear, but we keep ordering "just one more test," we are suffering from diagnostic inertia. The organizational equivalent is a beautiful, deadly illness: Analysis Paralysis.
   
-  If you feel the impulse to "just discuss it further," stop. If you can answer the question, "What do I choose, knowing everything I know right now?"—that is the end of the analysis.
+  If you feel the impulse to "just discuss it further," stop. If you can answer the question, "What do I choose, knowing everything I know right now?", that is the end of the analysis.
 untie_implement: |-
   Ask: 'if forced to decide today with what you know, what would you choose?
 untie_question: 'What would change in your organisation if you untangled \"analysis paralysis\" this week?'
@@ -78,7 +78,7 @@ valence: mixed
 x_post: |
   Stop gathering data. You aren't being thorough; you're being expensive procrastinators.
   
-  Analysis paralysis is mistaking 'rigor' for 'avoidance.' The constant need for more data doesn't feel responsible—it just feels safe.
+  Analysis paralysis is mistaking 'rigor' for 'avoidance.' The constant need for more data doesn't feel responsible, it just feels safe.
   
   If you can answer this question, the analysis is done: What would you choose right now?
   
