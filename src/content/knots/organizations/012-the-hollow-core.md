@@ -6,53 +6,80 @@ series: identity
 series_number: 12
 slug_name: the-hollow-core
 date: 2026-03-17
-description: |
-  At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow.
-punch_line_1: "Everything is growing."
-punch_line_2: "Nothing is alive."
-felt_hook: |
-  At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only the first of each pair, the core is hollow.
-emotion_target: |
-  Grief: the recognition that something essential was lost and nobody mourned it
-never_say: ["purpose-driven", "core values alignment", "strategic clarity"]
-kural_tamil: |-
-  உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது
-  தள்ளினுந் தள்ளாமை நீர்த்து.
-kural_translation: "In all you think, think of rising; even if you fail, the aspiration itself ennobles."
+description: 'At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is
+  only the first of each pair, the core is hollow.
+
+  '
+punch_line_1: Everything is growing.
+punch_line_2: Nothing is alive.
+felt_hook: 'At your last board meeting, what did you report on: growth, or depth? Revenue, or meaning? If the answer is only
+  the first of each pair, the core is hollow.
+
+  '
+emotion_target: 'Grief: the recognition that something essential was lost and nobody mourned it
+
+  '
+never_say:
+- purpose-driven
+- core values alignment
+- strategic clarity
+kural_tamil: 'உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது
+
+  தள்ளினுந் தள்ளாமை நீர்த்து.'
+kural_translation: In all you think, think of rising; even if you fail, the aspiration itself ennobles.
 kural_number: 596
-kural_bridge: "A hollow core is what remains when the aspiration to rise has been replaced by the aspiration to grow."
-prev_knot: "organizations/011-identity-fragility"
+kural_bridge: A hollow core is what remains when the aspiration to rise has been replaced by the aspiration to grow.
+prev_knot: organizations/011-identity-fragility
 prev_knot_title: Identity Fragility
-next_knot: "organizations/013-performative-safety"
+next_knot: organizations/013-performative-safety
 next_knot_title: Performative Safety
-untie_story: "A church congregation realised their identity was their practice, not their building. Moving locations proved it clearly."
-untie_implement: "At your next board or leadership meeting, add one agenda item: 'What did we deepen this quarter?'..."
-untie_question: 'What would change in your organisation if you untangled \"the hollow core\" this week?'
-quote_top: "Valluvar's standard isn't growth; it's elevation, not expansion."
-quote_bottom: "Meaning shrinks, numbers grow."
-origin_nodes: ["knots:011-identity-fragility", "knots/organizations/011-identity-fragility", "knots/organizations/013-performative-safety"]
+untie_story: A church congregation realised their identity was their practice, not their building. Moving locations proved
+  it clearly.
+untie_implement: 'At your next board or leadership meeting, add one agenda item: ''What did we deepen this quarter?''...'
+untie_question: What would change in your organisation if you untangled \"the hollow core\" this week?
+quote_top: Valluvar's standard isn't growth; it's elevation, not expansion.
+quote_bottom: Meaning shrinks, numbers grow.
+origin_nodes:
+- knots:011-identity-fragility
+- knots/organizations/011-identity-fragility
+- knots/organizations/013-performative-safety
 valence: mixed
 status: published
-approved_at: "2026-03-30T05:09:00.687Z"
-published_at: "2026-04-03T12:40:48.218Z"
-linkedin_post: |
-  What does your organization truly believe?
-  
+approved_at: '2026-03-30T05:09:00.687Z'
+published_at: '2026-04-03T12:40:48.218Z'
+linkedin_post: 'What does your organization truly believe?
+
+
   Not the poster. The actual practiced truth.
-  
+
+
   Everything functions. Nothing has a center.
-  
+
+
   The hollow core produces competent emptiness.
-  
+
+
   Without a core, direction is just motion.
-  
+
+
   Name one belief that costs you something.
-  
-  That void? It's at the center. 🪞
-  
+
+
+  That void? It''s at the center. 🪞
+
+
   #108KNOTS #UntanglingIdentity #Knot012
-  
-  💡 Organizations with a core that holds #thrive.
+
+
+  💡 Organizations with a core that holds #thrive.'
+canonical_id: 63
+canonical_name: Collapse of the Core
+episode: 21
+episode_title: Roots Before Scale
+mbs_layer: BODY
+season: 3
+season_title: The Interventions That Don't Work
+youtube_series: '108 Knots: Organisations'
 ---
 
 In all you think, think of rising.

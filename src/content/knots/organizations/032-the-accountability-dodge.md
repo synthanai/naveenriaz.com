@@ -2,54 +2,72 @@
 title: The Accountability Dodge
 date: 2026-03-17
 status: approved
-custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/032-the-accountability-dodge/"
-description: "Fortune abandons the leader who doubts a capable person mid-task...."
+custom_comment: '🪢 Read this knot: https://naveenriaz.com/knots/organizations/032-the-accountability-dodge/'
+description: Fortune abandons the leader who doubts a capable person mid-task....
 domain: organizations
-felt_hook: "Shared accountability is diluted accountability. Always."
+felt_hook: Shared accountability is diluted accountability. Always.
 knot_number: 32
-kural_bridge: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
+kural_bridge: When accountability is diffused, nobody doubts anyone because nobody owns anything.
 kural_number: 542
-kural_tamil: |-
-  வானோக்கி வாழும் உலகெல்லாம் மன்னவன்
-  கோல் நோக்கி வாழுங் குடி.
-kural_translation: "Fortune abandons the leader who doubts a capable person in the midst of work."
-linkedin_post: |
-  The evidence: nobody owns the failure.
-  
+kural_tamil: 'வானோக்கி வாழும் உலகெல்லாம் மன்னவன்
+
+  கோல் நோக்கி வாழுங் குடி.'
+kural_translation: Fortune abandons the leader who doubts a capable person in the midst of work.
+linkedin_post: 'The evidence: nobody owns the failure.
+
+
   Your team has collective responsibility for nothing.
-  
+
+
   "We all own it" means nobody does.
-  
+
+
   Shared accountability is diluted accountability. Always.
-  
+
+
   When everyone is responsible, nobody is.
-  
+
+
   Name one owner for one outcome today.
-  
-  That diffusion? It's accountability's disappearing act. ⚖️
-  
+
+
+  That diffusion? It''s accountability''s disappearing act. ⚖️
+
+
   #108KNOTS #UntanglingTrust #Knot032
-  
+
+
   💡 Cultures where ownership has a name #thrive.
-next_knot: "organizations/033-surveillance-culture"
+
+  '
+next_knot: organizations/033-surveillance-culture
 next_knot_title: Surveillance Culture
-origin_nodes: [knots:031-trust-asymmetry, knots/organizations/031-trust-asymmetry, knots/organizations/033-surveillance-culture]
-prev_knot: "organizations/031-trust-asymmetry"
+origin_nodes:
+- knots:031-trust-asymmetry
+- knots/organizations/031-trust-asymmetry
+- knots/organizations/033-surveillance-culture
+prev_knot: organizations/031-trust-asymmetry
 prev_knot_title: Trust Asymmetry
-punch_line_1: "Fortune abandons the leader who doubts a capable person mid-task."
-punch_line_2: "When accountability is diffused, nobody doubts anyone because nobody owns anything."
-quote_bottom: "Name one owner!"
-quote_top: |-
-  Shared accountability 
-  dilutes ownership 
-  into nothingness
+punch_line_1: Fortune abandons the leader who doubts a capable person mid-task.
+punch_line_2: When accountability is diffused, nobody doubts anyone because nobody owns anything.
+quote_bottom: Name one owner!
+quote_top: "Shared accountability \ndilutes ownership \ninto nothingness"
 series: trust
 series_number: 8
 slug_name: the-accountability-dodge
-untie_question: 'What would change in your organisation if you untangled \"the accountability dodge\" this week?'
-untie_story: "A supplier relationship was rebuilt after one honest conversation about a delivery failure. Honesty saved the contract."
+untie_question: What would change in your organisation if you untangled \"the accountability dodge\" this week?
+untie_story: A supplier relationship was rebuilt after one honest conversation about a delivery failure. Honesty saved the
+  contract.
 valence: mixed
-approved_at: "2026-04-14T10:38:17.280Z"
+approved_at: '2026-04-14T10:38:17.280Z'
+canonical_id: 76
+canonical_name: The Consequence Vacuum
+episode: 26
+episode_title: Accountability Before Optics
+mbs_layer: SOUL
+season: 3
+season_title: The Interventions That Don't Work
+youtube_series: '108 Knots: Organisations'
 ---
 
 Fortune abandons the leader who doubts a capable person mid-task.

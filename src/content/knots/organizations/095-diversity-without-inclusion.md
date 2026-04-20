@@ -6,48 +6,70 @@ series: capability
 series_number: 11
 slug_name: diversity-without-inclusion
 date: 2026-03-17
-description: "Touching brings joy to the body. Hearing words brings joy to the ear...."
-punch_line_1: "Touching brings joy to the body. Hearing words brings joy to the ear."
-punch_line_2: "Diversity without inclusion is like having children present but never hearing their words. Presence without voice is not participation."
-felt_hook: |
-  The organisation has invested in representation: diverse hiring pipelines, inclusive job descriptions, demographic targets. The portfolio of faces changed. The portfolio of ideas didn't.
-kural_tamil: |-
-  குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்
-  மத஧க்கண் மறுப்போல் உயர்ந்து.
-kural_translation: "Touching the body of your children brings joy; hearing their words brings joy to the ear."
+description: Touching brings joy to the body. Hearing words brings joy to the ear....
+punch_line_1: Touching brings joy to the body. Hearing words brings joy to the ear.
+punch_line_2: Diversity without inclusion is like having children present but never hearing their words. Presence without
+  voice is not participation.
+felt_hook: 'The organisation has invested in representation: diverse hiring pipelines, inclusive job descriptions, demographic
+  targets. The portfolio of faces changed. The portfolio of ideas didn''t.
+
+  '
+kural_tamil: 'குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்
+
+  மத஧க்கண் மறுப்போல் உயர்ந்து.'
+kural_translation: Touching the body of your children brings joy; hearing their words brings joy to the ear.
 kural_number: 957
-kural_bridge: "Diversity without inclusion is like having children present but never hearing their words. Presence without voice is not participation."
-prev_knot: "organizations/094-onboarding-failure"
+kural_bridge: Diversity without inclusion is like having children present but never hearing their words. Presence without
+  voice is not participation.
+prev_knot: organizations/094-onboarding-failure
 prev_knot_title: Onboarding Failure
-next_knot: "organizations/096-the-ai-readiness-gap"
+next_knot: organizations/096-the-ai-readiness-gap
 next_knot_title: The Ai Readiness Gap
-untie_story: 'A consulting firm created peer-teaching \"guilds\" by specialty. Knowledge that was locked in individuals became organizational capability.'
-untie_implement: "Meeting architecture includes structural mechanisms for diverse input: 'written pre-reads, round-r..."
-# DUPLICATE_KEY_REMOVED: untie_implement: "Ask each person: 'what skill would transform your work?'"
-untie_question: 'What would change in your organisation if you untangled \"diversity without inclusion\" this week?'
-quote_top: "Diverse hires muted by cultural norms are visual diversity, not audible diversity."
-quote_bottom: "Presence is not power."
-origin_nodes: ["knots:094-onboarding-failure", "knots/organizations/094-onboarding-failure", "knots/organizations/096-the-ai-readiness-gap"]
+untie_story: A consulting firm created peer-teaching \"guilds\" by specialty. Knowledge that was locked in individuals became
+  organizational capability.
+untie_implement: 'Meeting architecture includes structural mechanisms for diverse input: ''written pre-reads, round-r...'
+untie_question: What would change in your organisation if you untangled \"diversity without inclusion\" this week?
+quote_top: Diverse hires muted by cultural norms are visual diversity, not audible diversity.
+quote_bottom: Presence is not power.
+origin_nodes:
+- knots:094-onboarding-failure
+- knots/organizations/094-onboarding-failure
+- knots/organizations/096-the-ai-readiness-gap
 valence: mixed
 status: pending
-linkedin_post: |
-  Your team photo looks diverse. Meetings don't sound it.
-  
-  Presence is not power. Being counted isn't counting.
-  
+linkedin_post: 'Your team photo looks diverse. Meetings don''t sound it.
+
+
+  Presence is not power. Being counted isn''t counting.
+
+
   Different faces. Same three voices deciding.
-  
+
+
   Diversity without inclusion is expensive decoration.
-  
+
+
   You hired diversity. Did you design for it?
-  
+
+
   Measure whose ideas influence decisions. Not headcount.
-  
+
+
   That silence? Those voices matter. Unheard. 🏋️
-  
+
+
   #108KNOTS #UntanglingCapability #Knot095
-  
-  💡 Cultures where inclusion is real #thrive.
+
+
+  💡 Cultures where inclusion is real #thrive.'
+canonical_id: 48
+canonical_name: The Diversity Paradox
+episode: 16
+episode_title: Belonging Before Compliance
+mbs_layer: BODY
+season: 2
+season_title: The Moment the Org Realizes
+youtube_series: '108 Knots: Organisations'
 ---
 
 Touching brings joy to the body. Hearing words brings joy to the ear.

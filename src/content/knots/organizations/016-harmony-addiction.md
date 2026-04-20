@@ -6,48 +6,66 @@ series: culture
 series_number: 4
 slug_name: harmony-addiction
 date: 2026-03-17
-description: "To discern the true nature of anything, whatever it may seem, is wisdom...."
-punch_line_1: "To discern the true nature of anything, whatever it may seem, is wisdom."
-punch_line_2: "Harmony that suppresses conflict isn't peace. Wisdom sees through the pleasant surface."
-felt_hook: "It's actually suppression. And if you've been in enough of those meetings, you know exactly which it is by the speed of the consensus."
-kural_tamil: |-
-  அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்
-  புன்மையாற் காணப் படும்.
-kural_translation: "To discern the true nature of anything, whatever it may seem, is wisdom."
+description: To discern the true nature of anything, whatever it may seem, is wisdom....
+punch_line_1: To discern the true nature of anything, whatever it may seem, is wisdom.
+punch_line_2: Harmony that suppresses conflict isn't peace. Wisdom sees through the pleasant surface.
+felt_hook: It's actually suppression. And if you've been in enough of those meetings, you know exactly which it is by the
+  speed of the consensus.
+kural_tamil: 'அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்
+
+  புன்மையாற் காணப் படும்.'
+kural_translation: To discern the true nature of anything, whatever it may seem, is wisdom.
 kural_number: 185
-kural_bridge: "Harmony that suppresses conflict isn't peace. Wisdom sees through the pleasant surface."
-prev_knot: "organizations/015-gravitational-void"
+kural_bridge: Harmony that suppresses conflict isn't peace. Wisdom sees through the pleasant surface.
+prev_knot: organizations/015-gravitational-void
 prev_knot_title: Gravitational Void
-next_knot: "organizations/017-transparency-paradox"
+next_knot: organizations/017-transparency-paradox
 next_knot_title: Transparency Paradox
-untie_story: 'A hospital unit created a \"culture wall\" where anyone could post observations. The wall became the real dashboard.'
-untie_question: 'What would change in your organisation if you untangled \"harmony addiction\" this week?'
-quote_top: |-
-  Harmony addiction: teams suppress conflict, lose productive disagreement capacity.
-quote_bottom: "Comfort becomes the priority."
-origin_nodes: ["knots:015-gravitational-void", "knots/organizations/015-gravitational-void", "knots/organizations/017-transparency-paradox"]
+untie_story: A hospital unit created a \"culture wall\" where anyone could post observations. The wall became the real dashboard.
+untie_question: What would change in your organisation if you untangled \"harmony addiction\" this week?
+quote_top: 'Harmony addiction: teams suppress conflict, lose productive disagreement capacity.'
+quote_bottom: Comfort becomes the priority.
+origin_nodes:
+- knots:015-gravitational-void
+- knots/organizations/015-gravitational-void
+- knots/organizations/017-transparency-paradox
 valence: mixed
 status: published
-approved_at: "2026-04-05T09:31:29.855Z"
-published_at: "2026-04-07T10:27:34.210Z"
-linkedin_post: |
-  A visitor would notice: nobody disagrees.
-  
+approved_at: '2026-04-05T09:31:29.855Z'
+published_at: '2026-04-07T10:27:34.210Z'
+linkedin_post: 'A visitor would notice: nobody disagrees.
+
+
   Your team values harmony above everything.
-  
-  Harmony feels like trust. It's avoidance.
-  
+
+
+  Harmony feels like trust. It''s avoidance.
+
+
   Conflict is information. Silence is suppression.
-  
+
+
   Addicted to harmony, allergic to truth.
-  
+
+
   Next meeting: invite one honest disagreement.
-  
-  That comfort? It's costing you innovation. 🔬
-  
+
+
+  That comfort? It''s costing you innovation. 🔬
+
+
   #108KNOTS #UntanglingCulture #Knot016
-  
-  💡 Teams that choose truth over harmony #thrive.
+
+
+  💡 Teams that choose truth over harmony #thrive.'
+canonical_id: 73
+canonical_name: The Harmony Addiction
+episode: 25
+episode_title: Honesty Before Harmony
+mbs_layer: SOUL
+season: 3
+season_title: The Interventions That Don't Work
+youtube_series: '108 Knots: Organisations'
 ---
 
 To discern the true nature of anything, whatever it may seem, is wisdom.

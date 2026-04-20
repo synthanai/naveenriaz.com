@@ -6,46 +6,64 @@ series: structure
 series_number: 7
 slug_name: technology-sprawl
 date: 2026-03-17
-description: "Don't start any task until you've found the right conditions...."
-punch_line_1: "Don't start any task until you've found the right conditions."
-punch_line_2: "Technology sprawl starts every tool without finding the right conditions for any of them."
-felt_hook: "The blueprint says unified systems. Reality says ecosystem chaos."
-kural_tamil: |-
-  ஊறொரால் உற்றபின் ஒல்காமை இவ்விரண்டின்
-  ஆறென்பர் ஆய்ந்தவர் கோள்.
-kural_translation: "Don't start any task, and don't dismiss any, until you've found the right conditions."
+description: Don't start any task until you've found the right conditions....
+punch_line_1: Don't start any task until you've found the right conditions.
+punch_line_2: Technology sprawl starts every tool without finding the right conditions for any of them.
+felt_hook: The blueprint says unified systems. Reality says ecosystem chaos.
+kural_tamil: 'ஊறொரால் உற்றபின் ஒல்காமை இவ்விரண்டின்
+
+  ஆறென்பர் ஆய்ந்தவர் கோள்.'
+kural_translation: Don't start any task, and don't dismiss any, until you've found the right conditions.
 kural_number: 662
-kural_bridge: "Technology sprawl starts every tool without finding the right conditions for any of them."
-prev_knot: "organizations/078-governance-bloat"
+kural_bridge: Technology sprawl starts every tool without finding the right conditions for any of them.
+prev_knot: organizations/078-governance-bloat
 prev_knot_title: Governance Bloat
-next_knot: "organizations/080-the-bottleneck-person"
+next_knot: organizations/080-the-bottleneck-person
 next_knot_title: The Bottleneck Person
-untie_story: "A school restructured teacher teams by student cohort instead of subject. Student experience improved as teachers collaborated on the whole child."
-untie_question: 'What would change in your organisation if you untangled \"technology sprawl\" this week?'
-quote_top: |-
-  Technology sprawl: great intent, chaotic outcome.
-quote_bottom: "Consolidate or perish."
-origin_nodes: ["knots:078-governance-bloat", "knots/organizations/078-governance-bloat", "knots/organizations/080-the-bottleneck-person"]
+untie_story: A school restructured teacher teams by student cohort instead of subject. Student experience improved as teachers
+  collaborated on the whole child.
+untie_question: What would change in your organisation if you untangled \"technology sprawl\" this week?
+quote_top: 'Technology sprawl: great intent, chaotic outcome.'
+quote_bottom: Consolidate or perish.
+origin_nodes:
+- knots:078-governance-bloat
+- knots/organizations/078-governance-bloat
+- knots/organizations/080-the-bottleneck-person
 valence: mixed
 status: pending
-linkedin_post: |
-  The blueprint says "unified systems." You have seventeen.
-  
+linkedin_post: 'The blueprint says "unified systems." You have seventeen.
+
+
   Your teams use different tools for overlapping work.
-  
+
+
   Nobody chose this sprawl. It accumulated.
-  
+
+
   Technology sprawl is organizational indecision made visible.
-  
+
+
   Every tool without integration creates a wall.
-  
+
+
   Retire one redundant tool this quarter.
-  
-  That sprawl? It's your indecision. Crystallized. 📐
-  
+
+
+  That sprawl? It''s your indecision. Crystallized. 📐
+
+
   #108KNOTS #UntanglingStructure #Knot079
-  
-  💡 Teams that simplify their technology #thrive.
+
+
+  💡 Teams that simplify their technology #thrive.'
+canonical_id: 21
+canonical_name: Technology Sprawl
+episode: 7
+episode_title: Coherence Before Speed
+mbs_layer: BODY
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 Don't start any task until you've found the right conditions.

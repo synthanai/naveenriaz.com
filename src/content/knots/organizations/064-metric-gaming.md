@@ -6,48 +6,67 @@ series: intelligence
 series_number: 4
 slug_name: metric-gaming
 date: 2026-03-17
-description: "One who speaks truth from the heart surpasses those who practice austerity and c..."
-punch_line_1: "One who speaks truth from the heart surpasses those who practice austerity and charity."
-punch_line_2: |-
-  Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart.
-felt_hook: "Your organisation optimised for the metric and lost sight of the thing the metric was supposed to measure."
-kural_tamil: |-
-  தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து
-  வேட்டுவன் புள்சிமிழ்த் தற்று.
-kural_translation: "One who speaks truth from the heart surpasses even those who practice austerity and charity."
+description: One who speaks truth from the heart surpasses those who practice austerity and c...
+punch_line_1: One who speaks truth from the heart surpasses those who practice austerity and charity.
+punch_line_2: 'Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the
+  heart.'
+felt_hook: Your organisation optimised for the metric and lost sight of the thing the metric was supposed to measure.
+kural_tamil: 'தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து
+
+  வேட்டுவன் புள்சிமிழ்த் தற்று.'
+kural_translation: One who speaks truth from the heart surpasses even those who practice austerity and charity.
 kural_number: 274
-kural_bridge: |
-  Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the heart.
-prev_knot: "organizations/063-groupthink"
+kural_bridge: 'Metric gaming is the organizational form of speaking without truth: the dashboard speaks, but not from the
+  heart.
+
+  '
+prev_knot: organizations/063-groupthink
 prev_knot_title: Groupthink
-next_knot: "organizations/065-innovation-theater"
+next_knot: organizations/065-innovation-theater
 next_knot_title: Innovation Theater
-untie_story: 'A startup built a \"knowledge graph\" of who knows what. Finding expertise dropped from days to minutes.'
-untie_question: 'What would change in your organisation if you untangled \"metric gaming\" this week?'
-quote_top: |-
-  Metrics lie, dashboards green: You're optimizing the wrong thing.
-quote_bottom: "Failure by the numbers."
-origin_nodes: ["knots:063-groupthink", "knots/organizations/063-groupthink", "knots/organizations/065-innovation-theater"]
+untie_story: A startup built a \"knowledge graph\" of who knows what. Finding expertise dropped from days to minutes.
+untie_question: What would change in your organisation if you untangled \"metric gaming\" this week?
+quote_top: 'Metrics lie, dashboards green: You''re optimizing the wrong thing.'
+quote_bottom: Failure by the numbers.
+origin_nodes:
+- knots:063-groupthink
+- knots/organizations/063-groupthink
+- knots/organizations/065-innovation-theater
 valence: mixed
 status: pending
-linkedin_post: |
-  All KPIs are green. Customers leaving.
-  
+linkedin_post: 'All KPIs are green. Customers leaving.
+
+
   Your dashboard says success. Feels wrong.
-  
+
+
   People optimize what you measure. Exactly.
-  
+
+
   You measured the wrong thing. They delivered.
-  
+
+
   The game design creates the gaming.
-  
+
+
   Ask: "what are we NOT measuring?"
-  
-  That dashboard? It's fiction. Beautiful fiction. 🕵️
-  
+
+
+  That dashboard? It''s fiction. Beautiful fiction. 🕵️
+
+
   #108KNOTS #UntanglingIntelligence #Knot064
-  
-  💡 Organizations that measure what matters #thrive.
+
+
+  💡 Organizations that measure what matters #thrive.'
+canonical_id: 92
+canonical_name: The Optimization Trap
+episode: 31
+episode_title: Integration Before Optimization
+mbs_layer: MIND
+season: 4
+season_title: What Actually Heals
+youtube_series: '108 Knots: Organisations'
 ---
 
 One who speaks truth from the heart surpasses those who practice austerity and charity.

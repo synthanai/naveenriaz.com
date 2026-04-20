@@ -6,46 +6,66 @@ series: structure
 series_number: 6
 slug_name: governance-bloat
 date: 2026-03-17
-description: "Acquire wealth; no weapon is sharper...."
-punch_line_1: "Acquire wealth; no weapon is sharper."
-punch_line_2: "Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything."
-felt_hook: "The governance framework was designed to reduce risk. It succeeded so well that it eliminated all risk, including the risk of actually accomplishing anything."
-kural_tamil: |-
-  ஓர்ந்துகண் ணோடாது இறைபுரிந்து யார்மாட்டும்
-  தேர்ந்துசெய் வஃதே முறை.
-kural_translation: "Acquire wealth; there is no sharper weapon against the arrogance of enemies."
+description: Acquire wealth; no weapon is sharper....
+punch_line_1: Acquire wealth; no weapon is sharper.
+punch_line_2: Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything.
+felt_hook: The governance framework was designed to reduce risk. It succeeded so well that it eliminated all risk, including
+  the risk of actually accomplishing anything.
+kural_tamil: 'ஓர்ந்துகண் ணோடாது இறைபுரிந்து யார்மாட்டும்
+
+  தேர்ந்துசெய் வஃதே முறை.'
+kural_translation: Acquire wealth; there is no sharper weapon against the arrogance of enemies.
 kural_number: 541
-kural_bridge: "Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything."
-prev_knot: "organizations/077-middle-management-squeeze"
+kural_bridge: Governance bloat consumes the wealth of time and energy, leaving no resources sharp enough to accomplish anything.
+prev_knot: organizations/077-middle-management-squeeze
 prev_knot_title: Middle Management Squeeze
-next_knot: "organizations/079-technology-sprawl"
+next_knot: organizations/079-technology-sprawl
 next_knot_title: Technology Sprawl
-untie_story: "A nonprofit merged two overlapping committees. Meeting hours halved. Output quality improved because accountability was clearer."
-untie_implement: "Every governance body has an annual ROI review: 'decisions produced divided by hours consumed."
-untie_question: 'What would change in your organisation if you untangled \"governance bloat\" this week?'
-quote_top: "Governance bloat is organizational autoimmunity, attacking the ability to decide."
-quote_bottom: "Paralyzed by protection."
-origin_nodes: ["knots:077-middle-management-squeeze", "knots/organizations/077-middle-management-squeeze", "knots/organizations/079-technology-sprawl"]
+untie_story: A nonprofit merged two overlapping committees. Meeting hours halved. Output quality improved because accountability
+  was clearer.
+untie_implement: 'Every governance body has an annual ROI review: ''decisions produced divided by hours consumed.'
+untie_question: What would change in your organisation if you untangled \"governance bloat\" this week?
+quote_top: Governance bloat is organizational autoimmunity, attacking the ability to decide.
+quote_bottom: Paralyzed by protection.
+origin_nodes:
+- knots:077-middle-management-squeeze
+- knots/organizations/077-middle-management-squeeze
+- knots/organizations/079-technology-sprawl
 valence: mixed
 status: pending
-linkedin_post: |
-  The blueprint says "cross-functional teams." Reality says meetings.
-  
+linkedin_post: 'The blueprint says "cross-functional teams." Reality says meetings.
+
+
   Your governance requires seventeen approvals for action.
-  
+
+
   Committees discuss. Nobody decides. Weeks pass.
-  
+
+
   Governance designed for control kills velocity.
-  
+
+
   Oversight without empowerment is expensive delay.
-  
+
+
   Remove one committee from the approval chain.
-  
+
+
   What if today was different? 📐
-  
+
+
   #108KNOTS #UntanglingStructure #Knot078
-  
-  💡 Organizations with lean governance #thrive.
+
+
+  💡 Organizations with lean governance #thrive.'
+canonical_id: 18
+canonical_name: Governance Bloat
+episode: 6
+episode_title: Memory Before Method
+mbs_layer: BODY
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 Acquire wealth; no weapon is sharper.

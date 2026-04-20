@@ -6,48 +6,73 @@ series: structure
 series_number: 3
 slug_name: process-sediment
 date: 2026-03-17
-description: "Even accumulated hardships cannot destroy one who stands firm...."
-quote_top: "Each approval layer made sense when it was added."
-quote_bottom: |-
-  Together, they form a geological record
-  of organizational fear.
-punch_line_1: "Even accumulated hardships cannot destroy one who stands firm."
-punch_line_2: "Process sediment has accumulated layers of hardship on your team. But unlike Valluvar's hero, nobody chose to stand firm. They just stopped pushing back."
-felt_hook: |
-  Each approval was added for a reason: a past mistake, an audit finding, a compliance requirement. Each layer made sense when it was added. Together, they form a geological record of organizational fear.
-kural_tamil: |-
-  அச்ச முடையார்க்கு அரணில்லை ஆங்கில்லை
-  பொச்சாப் புடையார்க்கு நன்கு.
-kural_translation: "Even accumulated hardships cannot destroy one who stands firm."
+description: Even accumulated hardships cannot destroy one who stands firm....
+quote_top: Each approval layer made sense when it was added.
+quote_bottom: 'Together, they form a geological record
+
+  of organizational fear.'
+punch_line_1: Even accumulated hardships cannot destroy one who stands firm.
+punch_line_2: Process sediment has accumulated layers of hardship on your team. But unlike Valluvar's hero, nobody chose to
+  stand firm. They just stopped pushing back.
+felt_hook: 'Each approval was added for a reason: a past mistake, an audit finding, a compliance requirement. Each layer made
+  sense when it was added. Together, they form a geological record of organizational fear.
+
+  '
+kural_tamil: 'அச்ச முடையார்க்கு அரணில்லை ஆங்கில்லை
+
+  பொச்சாப் புடையார்க்கு நன்கு.'
+kural_translation: Even accumulated hardships cannot destroy one who stands firm.
 kural_number: 534
-kural_bridge: "Process sediment has accumulated layers of hardship on your team. But unlike Valluvar's hero, nobody chose to stand firm. They just stopped pushing back."
-prev_knot: "organizations/074-silo-syndrome"
+kural_bridge: Process sediment has accumulated layers of hardship on your team. But unlike Valluvar's hero, nobody chose to
+  stand firm. They just stopped pushing back.
+prev_knot: organizations/074-silo-syndrome
 prev_knot_title: Silo Syndrome
-next_knot: "organizations/076-role-ambiguity"
+next_knot: organizations/076-role-ambiguity
 next_knot_title: Role Ambiguity
-untie_story: 'A startup defined clear \"RACI\" for their top 20 processes. Three discovered they had no owner. All three were failing.'
-untie_question: 'What would change in your organisation if you untangled \"process sediment\" this week?'
-origin_nodes: ["knots:074-silo-syndrome", "sparks:process-sediment", "knots/organizations/074-silo-syndrome", "knots/organizations/076-role-ambiguity", "sparks/process-sediment"]
+untie_story: A startup defined clear \"RACI\" for their top 20 processes. Three discovered they had no owner. All three were
+  failing.
+untie_question: What would change in your organisation if you untangled \"process sediment\" this week?
+origin_nodes:
+- knots:074-silo-syndrome
+- sparks:process-sediment
+- knots/organizations/074-silo-syndrome
+- knots/organizations/076-role-ambiguity
+- sparks/process-sediment
 valence: mixed
 status: pending
-linkedin_post: |
-  The blueprint says efficiency. Reality says bureaucracy.
-  
+linkedin_post: 'The blueprint says efficiency. Reality says bureaucracy.
+
+
   Your team needs four approvals for one purchase.
-  
+
+
   Rules designed for crises govern routine decisions.
-  
+
+
   Process sediment accumulates. Nobody removes old layers.
-  
-  Every rule was once a solution. Now it's a wall.
-  
+
+
+  Every rule was once a solution. Now it''s a wall.
+
+
   Audit one process. Remove one unnecessary step.
-  
-  That slowness? It's sedimented fear. Layered. 📐
-  
+
+
+  That slowness? It''s sedimented fear. Layered. 📐
+
+
   #108KNOTS #UntanglingStructure #Knot075
-  
-  💡 Organizations that clear process sediment #thrive.
+
+
+  💡 Organizations that clear process sediment #thrive.'
+canonical_id: 9
+canonical_name: Process Sediment
+episode: 3
+episode_title: History Before Direction
+mbs_layer: BODY
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 Even accumulated hardships cannot destroy one who stands firm.

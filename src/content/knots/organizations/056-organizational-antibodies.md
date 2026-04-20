@@ -6,47 +6,67 @@ series: change
 series_number: 8
 slug_name: organizational-antibodies
 date: 2026-03-17
-description: "Harsh words and excessive punishment grind down strength like a file on metal...."
-punch_line_1: "Harsh words and excessive punishment grind down strength like a file on metal."
-punch_line_2: "Organizational antibodies don't use harsh words. They use quiet processes, budget redirections, and scheduling conflicts to file down the foreign tissue."
-felt_hook: "The change worked. The system undid it."
-kural_tamil: |-
-  கடுஞ்சொல்லன் கண்ணிலன் ஆயின் நெடுஞ்செல்வம்
-  நீடின்றி ஆங்கே கெடும்.
-kural_translation: "Harsh words and excessive punishment grind down a ruler's strength like a file on metal."
+description: Harsh words and excessive punishment grind down strength like a file on metal....
+punch_line_1: Harsh words and excessive punishment grind down strength like a file on metal.
+punch_line_2: Organizational antibodies don't use harsh words. They use quiet processes, budget redirections, and scheduling
+  conflicts to file down the foreign tissue.
+felt_hook: The change worked. The system undid it.
+kural_tamil: 'கடுஞ்சொல்லன் கண்ணிலன் ஆயின் நெடுஞ்செல்வம்
+
+  நீடின்றி ஆங்கே கெடும்.'
+kural_translation: Harsh words and excessive punishment grind down a ruler's strength like a file on metal.
 kural_number: 566
-kural_bridge: "Organizational antibodies don't use harsh words. They use quiet processes, budget redirections, and scheduling conflicts to file down the foreign tissue."
-prev_knot: "organizations/055-sponsorship-evaporation"
+kural_bridge: Organizational antibodies don't use harsh words. They use quiet processes, budget redirections, and scheduling
+  conflicts to file down the foreign tissue.
+prev_knot: organizations/055-sponsorship-evaporation
 prev_knot_title: Sponsorship Evaporation
-next_knot: "organizations/057-rhetoric-reality-gap"
+next_knot: organizations/057-rhetoric-reality-gap
 next_knot_title: Rhetoric Reality Gap
-untie_story: 'A company assigned \"change buddies\" to pair skeptics with early adopters. Peer influence outperformed training by 3x.'
-untie_implement: "If your change team succeeded and was then reorganized, ask: 'was the change discontinued because ..."
-untie_question: 'What would change in your organisation if you untangled \"organizational antibodies\" this week?'
-quote_top: |-
-  Organisations reject beneficial change: not with hostility, but systemic friction.
-quote_bottom: "Culture protects itself from new."
-origin_nodes: ["knots:055-sponsorship-evaporation", "knots/organizations/055-sponsorship-evaporation", "knots/organizations/057-rhetoric-reality-gap"]
+untie_story: A company assigned \"change buddies\" to pair skeptics with early adopters. Peer influence outperformed training
+  by 3x.
+untie_implement: 'If your change team succeeded and was then reorganized, ask: ''was the change discontinued because ...'
+untie_question: What would change in your organisation if you untangled \"organizational antibodies\" this week?
+quote_top: 'Organisations reject beneficial change: not with hostility, but systemic friction.'
+quote_bottom: Culture protects itself from new.
+origin_nodes:
+- knots:055-sponsorship-evaporation
+- knots/organizations/055-sponsorship-evaporation
+- knots/organizations/057-rhetoric-reality-gap
 valence: mixed
 status: pending
-linkedin_post: |
-  Three years ago, you transformed something.
-  
+linkedin_post: 'Three years ago, you transformed something.
+
+
   Your team changed faster than surrounding teams.
-  
+
+
   The change worked. The system rejected it.
-  
+
+
   Organizational antibodies destroy successful local innovations.
-  
+
+
   Systems protect themselves against change. Automatically.
-  
+
+
   Before changing a part, prepare the whole.
-  
-  That rejection? It's the system's immune response. ⏳
-  
+
+
+  That rejection? It''s the system''s immune response. ⏳
+
+
   #108KNOTS #UntanglingChange #Knot056
-  
-  💡 Organizations that let go of the old #thrive.
+
+
+  💡 Organizations that let go of the old #thrive.'
+canonical_id: 65
+canonical_name: The Resistance Bias
+episode: 22
+episode_title: Friction Before Force
+mbs_layer: MIND
+season: 3
+season_title: The Interventions That Don't Work
+youtube_series: '108 Knots: Organisations'
 ---
 
 Harsh words and excessive punishment grind down strength like a file on metal.

@@ -6,57 +6,82 @@ series: identity
 series_number: 7
 slug_name: split-personality
 date: 2026-03-17
-description: 'If you ask Sales and Engineering "what kind of company are we?", do they describe the same organisation?'
-quote_top: |-
-  One brand going one way in public.
+description: If you ask Sales and Engineering "what kind of company are we?", do they describe the same organisation?
+quote_top: 'One brand going one way in public.
+
   A completely different culture operating
-  behind the walls.
-quote_bottom: |-
-  The cost of a split identity
+
+  behind the walls.'
+quote_bottom: 'The cost of a split identity
+
   is not confusion.
-  It is exhaustion.
-punch_line_1: "Organisations don't fear failure."
-punch_line_2: "They fear clarity."
-felt_hook: 'If you ask Sales and Engineering "what kind of company are we?", do they describe the same organisation?'
-emotion_target: |
-  Exhaustion: the cost of context-switching between two identities every day
-never_say: ["we're both", "it depends on the team", "healthy tension (when it is actually exhaustion)"]
-kural_tamil: |-
-  வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்
-  ஐந்தும் அகத்தே நகும்.
-kural_translation: "When a deceitful mind puts on virtuous conduct, the five elements within laugh."
+
+  It is exhaustion.'
+punch_line_1: Organisations don't fear failure.
+punch_line_2: They fear clarity.
+felt_hook: If you ask Sales and Engineering "what kind of company are we?", do they describe the same organisation?
+emotion_target: 'Exhaustion: the cost of context-switching between two identities every day
+
+  '
+never_say:
+- we're both
+- it depends on the team
+- healthy tension (when it is actually exhaustion)
+kural_tamil: 'வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்
+
+  ஐந்தும் அகத்தே நகும்.'
+kural_translation: When a deceitful mind puts on virtuous conduct, the five elements within laugh.
 kural_number: 271
-kural_bridge: "When the external brand contradicts the internal culture, the whole system knows."
-prev_knot: "organizations/006-legacy-denial"
+kural_bridge: When the external brand contradicts the internal culture, the whole system knows.
+prev_knot: organizations/006-legacy-denial
 prev_knot_title: Legacy Denial
-next_knot: "organizations/008-purpose-commodification"
+next_knot: organizations/008-purpose-commodification
 next_knot_title: Purpose Commodification
-untie_story: |
-  A tech company lost three key people. Exit interviews all said the same thing: \"I forgot why I was here.\"
-untie_question: 'What would change in your organisation if you untangled \"split personality\" this week?'
-origin_nodes: ["knots:006-legacy-denial", "knots/organizations/006-legacy-denial", "knots/organizations/008-purpose-commodification"]
+untie_story: 'A tech company lost three key people. Exit interviews all said the same thing: \"I forgot why I was here.\"
+
+  '
+untie_question: What would change in your organisation if you untangled \"split personality\" this week?
+origin_nodes:
+- knots:006-legacy-denial
+- knots/organizations/006-legacy-denial
+- knots/organizations/008-purpose-commodification
 valence: mixed
 status: published
-approved_at: "2026-03-27T03:44:36.000Z"
-published_at: "2026-03-29T11:26:08.742Z"
-linkedin_post: |
-  Your company says one thing externally.
-  
+approved_at: '2026-03-27T03:44:36.000Z'
+published_at: '2026-03-29T11:26:08.742Z'
+linkedin_post: 'Your company says one thing externally.
+
+
   Internally, a different story plays out.
-  
-  Two identities feels normal. It's not.
-  
+
+
+  Two identities feels normal. It''s not.
+
+
   The split exhausts everyone. Nobody names it.
-  
-  Organizations can't serve two identities long.
-  
+
+
+  Organizations can''t serve two identities long.
+
+
   List where internal and external contradict.
-  
-  That tension? It's tearing you apart. 🪞
-  
+
+
+  That tension? It''s tearing you apart. 🪞
+
+
   #108KNOTS #UntanglingIdentity #Knot007
-  
-  💡 Organizations whole in their identity #thrive.
+
+
+  💡 Organizations whole in their identity #thrive.'
+canonical_id: 19
+canonical_name: Split Personality
+episode: 7
+episode_title: Coherence Before Speed
+mbs_layer: SOUL
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 When a deceitful mind puts on virtuous conduct, the five elements within laugh.

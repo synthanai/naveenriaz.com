@@ -6,47 +6,65 @@ series: energy
 series_number: 4
 slug_name: reward-misalignment
 date: 2026-03-17
-description: "When you perceive what is right, do it...."
-punch_line_1: "When you perceive what is right, do it."
-punch_line_2: |-
-  Reward misalignment rewards what isn't right: crisis heroes over preventers, individual stars over team builders.
-felt_hook: "Your incentive structure teaches the organisation what to replicate."
-kural_tamil: |-
-  நாடோறும் நாடுக மன்னன் வினைசெய்வான்
-  கோடாமை கோடா துலகு.
-kural_translation: "When you clearly perceive what is right, do it. Don't look for another reason."
+description: When you perceive what is right, do it....
+punch_line_1: When you perceive what is right, do it.
+punch_line_2: 'Reward misalignment rewards what isn''t right: crisis heroes over preventers, individual stars over team builders.'
+felt_hook: Your incentive structure teaches the organisation what to replicate.
+kural_tamil: 'நாடோறும் நாடுக மன்னன் வினைசெய்வான்
+
+  கோடாமை கோடா துலகு.'
+kural_translation: When you clearly perceive what is right, do it. Don't look for another reason.
 kural_number: 520
-kural_bridge: |
-  Reward misalignment rewards what isn't right: crisis heroes over preventers, individual stars over team builders.
-prev_knot: "organizations/099-autonomy-starvation"
+kural_bridge: 'Reward misalignment rewards what isn''t right: crisis heroes over preventers, individual stars over team builders.
+
+  '
+prev_knot: organizations/099-autonomy-starvation
 prev_knot_title: Autonomy Starvation
-next_knot: "organizations/101-the-presenteeism-tax"
+next_knot: organizations/101-the-presenteeism-tax
 next_knot_title: The Presenteeism Tax
-untie_story: 'A hospital unit created a \"wellness room\" for staff. Five-minute breaks in a calm space reduced errors measurably.'
-untie_question: 'What would change in your organisation if you untangled \"reward misalignment\" this week?'
-quote_top: "Your system rewards the wrong behavior, teaches what to replicate."
-quote_bottom: "Incentives condition the organism."
-origin_nodes: ["knots:099-autonomy-starvation", "knots/organizations/099-autonomy-starvation", "knots/organizations/101-the-presenteeism-tax"]
+untie_story: A hospital unit created a \"wellness room\" for staff. Five-minute breaks in a calm space reduced errors measurably.
+untie_question: What would change in your organisation if you untangled \"reward misalignment\" this week?
+quote_top: Your system rewards the wrong behavior, teaches what to replicate.
+quote_bottom: Incentives condition the organism.
+origin_nodes:
+- knots:099-autonomy-starvation
+- knots/organizations/099-autonomy-starvation
+- knots/organizations/101-the-presenteeism-tax
 valence: mixed
 status: pending
-linkedin_post: |
-  Symptoms: crisis heroes celebrated. Prevention ignored.
-  
+linkedin_post: 'Symptoms: crisis heroes celebrated. Prevention ignored.
+
+
   Your system rewards the wrong behavior.
-  
+
+
   Prevention is invisible. Firefighting gets applause.
-  
+
+
   Nobody designed this misalignment. It drifted.
-  
+
+
   Look at who got promoted last year.
-  
-  That's your actual reward system. Visible.
-  
+
+
+  That''s your actual reward system. Visible.
+
+
   That injustice? Everyone already knows. Silently. 🩺
-  
+
+
   #108KNOTS #UntanglingEnergy #Knot100
-  
-  💡 Organizations that align reward with value #thrive.
+
+
+  💡 Organizations that align reward with value #thrive.'
+canonical_id: 86
+canonical_name: The Motivation Fallacy
+episode: 29
+episode_title: Behavior Before Belief
+mbs_layer: MIND
+season: 4
+season_title: What Actually Heals
+youtube_series: '108 Knots: Organisations'
 ---
 
 When you perceive what is right, do it.

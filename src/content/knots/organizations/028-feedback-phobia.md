@@ -2,57 +2,74 @@
 title: Feedback Phobia
 date: 2026-03-17
 status: approved
-custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/028-feedback-phobia/"
-description: "One who speaks useless words that annoy many will be despised by all...."
+custom_comment: '🪢 Read this knot: https://naveenriaz.com/knots/organizations/028-feedback-phobia/'
+description: One who speaks useless words that annoy many will be despised by all....
 domain: organizations
-felt_hook: "Do you remember? Your team does."
+felt_hook: Do you remember? Your team does.
 knot_number: 28
-kural_bridge: |-
-  Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system.
+kural_bridge: 'Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system.'
 kural_number: 196
-kural_tamil: |-
-  பயனில்சொல் பாராட்டு வானை மகன்எனல்
-  மக்கட் பதடி யெனல்.
-kural_translation: "One who speaks useless words that annoy many will be despised by all."
-linkedin_post: |
-  What happened to the last truth-teller?
-  
-  Your team remembers. You probably don't.
-  
+kural_tamil: 'பயனில்சொல் பாராட்டு வானை மகன்எனல்
+
+  மக்கட் பதடி யெனல்.'
+kural_translation: One who speaks useless words that annoy many will be despised by all.
+linkedin_post: 'What happened to the last truth-teller?
+
+
+  Your team remembers. You probably don''t.
+
+
   One punishment taught everyone the rule.
-  
-  Silence isn't cowardice. It's pattern recognition.
-  
+
+
+  Silence isn''t cowardice. It''s pattern recognition.
+
+
   Collective quiet follows punished honesty. Always.
-  
+
+
   Publicly thank the next uncomfortable truth.
-  
+
+
   That fear? It has a name. ⚖️
-  
+
+
   #108KNOTS #UntanglingTrust #Knot028
-  
+
+
   💡 Cultures where feedback flows freely #thrive.
-next_knot: "organizations/029-competence-doubt"
+
+  '
+next_knot: organizations/029-competence-doubt
 next_knot_title: Competence Doubt
-origin_nodes: [knots:027-delegation-without-trust, knots/organizations/027-delegation-without-trust, knots/organizations/029-competence-doubt]
-prev_knot: "organizations/027-delegation-without-trust"
+origin_nodes:
+- knots:027-delegation-without-trust
+- knots/organizations/027-delegation-without-trust
+- knots/organizations/029-competence-doubt
+prev_knot: organizations/027-delegation-without-trust
 prev_knot_title: Delegation Without Trust
-punch_line_1: "One who speaks useless words that annoy many will be despised by all."
-punch_line_2: |-
-  Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system.
-quote_bottom: |-
-  Honesty 
-  comes with a cost
-quote_top: |-
-  Truth-tellers
-  disturb the powerful
+punch_line_1: One who speaks useless words that annoy many will be despised by all.
+punch_line_2: 'Feedback phobia flips this: the one who speaks useful truths that disturb few is punished by the system.'
+quote_bottom: "Honesty \ncomes with a cost"
+quote_top: 'Truth-tellers
+
+  disturb the powerful'
 series: trust
 series_number: 4
 slug_name: feedback-phobia
-untie_question: 'What would change in your organisation if you untangled \"feedback phobia\" this week?'
-untie_story: 'A team created a \"promises made, promises kept\" tracker. Visible accountability built invisible trust over time.'
+untie_question: What would change in your organisation if you untangled \"feedback phobia\" this week?
+untie_story: A team created a \"promises made, promises kept\" tracker. Visible accountability built invisible trust over
+  time.
 valence: mixed
-approved_at: "2026-04-14T10:36:45.825Z"
+approved_at: '2026-04-14T10:36:45.825Z'
+canonical_id: 94
+canonical_name: The Command Reflex
+episode: 32
+episode_title: Dialogue Before Direction
+mbs_layer: SOUL
+season: 4
+season_title: What Actually Heals
+youtube_series: '108 Knots: Organisations'
 ---
 
 One who speaks useless words that annoy many will be despised by all.

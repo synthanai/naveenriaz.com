@@ -6,46 +6,64 @@ series: intelligence
 series_number: 6
 slug_name: strategic-myopia
 date: 2026-03-17
-description: "One who acts without knowing the method finds ruin...."
-punch_line_1: "One who acts without knowing the method finds ruin."
-punch_line_2: "Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus."
-felt_hook: "But nobody looks at five-year trajectories when the quarterly bonus depends on the next thirteen weeks."
-kural_tamil: |-
-  ஆகாறு அளவிட்டி தாயினுங் கேடில்லை
-  போகாறு அகலாக் கடை.
-kural_translation: "One who acts without knowing the method finds ruin; one who knows the method achieves."
+description: One who acts without knowing the method finds ruin....
+punch_line_1: One who acts without knowing the method finds ruin.
+punch_line_2: Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus.
+felt_hook: But nobody looks at five-year trajectories when the quarterly bonus depends on the next thirteen weeks.
+kural_tamil: 'ஆகாறு அளவிட்டி தாயினுங் கேடில்லை
+
+  போகாறு அகலாக் கடை.'
+kural_translation: One who acts without knowing the method finds ruin; one who knows the method achieves.
 kural_number: 478
-kural_bridge: "Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus."
-prev_knot: "organizations/065-innovation-theater"
+kural_bridge: Strategic myopia acts on what's near and clear while what's far (and critical) stays out of focus.
+prev_knot: organizations/065-innovation-theater
 prev_knot_title: Innovation Theater
-next_knot: "organizations/067-expertise-trap"
+next_knot: organizations/067-expertise-trap
 next_knot_title: Expertise Trap
-untie_story: 'A nonprofit held quarterly \"what surprised us\" sessions. The surprises were always more valuable than the confirmations.'
-untie_implement: "Add one agenda item to your next planning session: 'what is true today that won't be true in three..."
-untie_question: 'What would change in your organisation if you untangled \"strategic myopia\" this week?'
-quote_top: "Short-sighted focus is leadership failure at its worst."
-quote_bottom: "Look far, lead well."
-origin_nodes: ["knots:065-innovation-theater", "knots/organizations/065-innovation-theater", "knots/organizations/067-expertise-trap"]
+untie_story: A nonprofit held quarterly \"what surprised us\" sessions. The surprises were always more valuable than the confirmations.
+untie_implement: 'Add one agenda item to your next planning session: ''what is true today that won''t be true in three...'
+untie_question: What would change in your organisation if you untangled \"strategic myopia\" this week?
+quote_top: Short-sighted focus is leadership failure at its worst.
+quote_bottom: Look far, lead well.
+origin_nodes:
+- knots:065-innovation-theater
+- knots/organizations/065-innovation-theater
+- knots/organizations/067-expertise-trap
 valence: mixed
 status: pending
-linkedin_post: |
-  The clue was in the industry report.
-  
+linkedin_post: 'The clue was in the industry report.
+
+
   Your competitor moved six months before you.
-  
-  Strategic myopia isn't about bad scanning.
-  
-  You saw the signal. Didn't act.
-  
-  The problem isn't awareness. It's response time.
-  
+
+
+  Strategic myopia isn''t about bad scanning.
+
+
+  You saw the signal. Didn''t act.
+
+
+  The problem isn''t awareness. It''s response time.
+
+
   What signal are you seeing right now?
-  
-  What's the first knot to pull? 🕵
-  
+
+
+  What''s the first knot to pull? 🕵
+
+
   #108KNOTS #UntanglingIntelligence #Knot066
-  
-  💡 Organizations with long-term vision #thrive.
+
+
+  💡 Organizations with long-term vision #thrive.'
+canonical_id: 83
+canonical_name: The Scale Illusion
+episode: 28
+episode_title: Micro Before Macro
+mbs_layer: MIND
+season: 4
+season_title: What Actually Heals
+youtube_series: '108 Knots: Organisations'
 ---
 
 One who acts without knowing the method finds ruin.

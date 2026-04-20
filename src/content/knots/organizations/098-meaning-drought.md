@@ -6,45 +6,67 @@ series: energy
 series_number: 2
 slug_name: meaning-drought
 date: 2026-03-17
-description: "One who stands free of folly creates millions...."
-punch_line_1: "One who stands free of folly creates millions."
-punch_line_2: "Meaning drought is the folly of producing competent work without knowing why. The team performs but can't say why it matters."
-felt_hook: "Meaning drought isn't about bad work. It's about good work disconnected from purpose. The team is competent and empty."
-kural_tamil: |-
-  நாண்அகத் தில்லார் இயக்கம் மரப்பாவை
-  நாணால் உயிர்மருட்டி அற்று.
-kural_translation: "One who stands free of arrogance, excess, envy, and folly creates millions in worth."
+description: One who stands free of folly creates millions....
+punch_line_1: One who stands free of folly creates millions.
+punch_line_2: Meaning drought is the folly of producing competent work without knowing why. The team performs but can't say
+  why it matters.
+felt_hook: Meaning drought isn't about bad work. It's about good work disconnected from purpose. The team is competent and
+  empty.
+kural_tamil: 'நாண்அகத் தில்லார் இயக்கம் மரப்பாவை
+
+  நாணால் உயிர்மருட்டி அற்று.'
+kural_translation: One who stands free of arrogance, excess, envy, and folly creates millions in worth.
 kural_number: 1020
-kural_bridge: "Meaning drought is the folly of producing competent work without knowing why. The team performs but can't say why it matters."
-prev_knot: "organizations/097-burnout-normalization"
+kural_bridge: Meaning drought is the folly of producing competent work without knowing why. The team performs but can't say
+  why it matters.
+prev_knot: organizations/097-burnout-normalization
 prev_knot_title: Burnout Normalization
-next_knot: "organizations/099-autonomy-starvation"
+next_knot: organizations/099-autonomy-starvation
 next_knot_title: Autonomy Starvation
-untie_story: 'A team introduced \"energy audits\" where each person mapped their daily peaks. Work was rescheduled to match. Output improved.'
-untie_question: 'What would change in your organisation if you untangled \"meaning drought\" this week?'
-quote_top: "Competent teams deliver work, but often miss the point."
-quote_bottom: "Meaning is the operating system."
-origin_nodes: ["knots:097-burnout-normalization", "knots/organizations/097-burnout-normalization", "knots/organizations/099-autonomy-starvation"]
+untie_story: A team introduced \"energy audits\" where each person mapped their daily peaks. Work was rescheduled to match.
+  Output improved.
+untie_question: What would change in your organisation if you untangled \"meaning drought\" this week?
+quote_top: Competent teams deliver work, but often miss the point.
+quote_bottom: Meaning is the operating system.
+origin_nodes:
+- knots:097-burnout-normalization
+- knots/organizations/097-burnout-normalization
+- knots/organizations/099-autonomy-starvation
 valence: mixed
 status: pending
-linkedin_post: |
-  Symptoms: competent work. Diagnosis: zero meaning.
-  
-  Your team performs but can't say why.
-  
+linkedin_post: 'Symptoms: competent work. Diagnosis: zero meaning.
+
+
+  Your team performs but can''t say why.
+
+
   The link to impact evaporated. Somewhere.
-  
-  Meaning drought isn't boring work. It's disconnected work.
-  
+
+
+  Meaning drought isn''t boring work. It''s disconnected work.
+
+
   Any task is meaningful when connected.
-  
+
+
   Show one person who their work helps.
-  
+
+
   One thread.
-  
+
+
   #108KNOTS #UntanglingEnergy #Knot098
-  
-  💡 Teams where meaning flows into daily work #thrive.
+
+
+  💡 Teams where meaning flows into daily work #thrive.'
+canonical_id: 106
+canonical_name: The Market Supremacy
+episode: 36
+episode_title: Wholeness Before Winning
+mbs_layer: SOUL
+season: 4
+season_title: What Actually Heals
+youtube_series: '108 Knots: Organisations'
 ---
 
 One who stands free of folly creates millions.

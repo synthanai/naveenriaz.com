@@ -6,46 +6,66 @@ series: structure
 series_number: 4
 slug_name: role-ambiguity
 date: 2026-03-17
-description: "When you see what is right, act on it...."
-punch_line_1: "When you see what is right, act on it."
-punch_line_2: "Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act."
-felt_hook: "When a problem appears, three people investigate separately. Or nobody does, because each assumes someone else will handle it."
-kural_tamil: |-
-  நாடோறும் நாடுக மன்னன் வினைசெய்வான்
-  கோடாமை கோடா துலகு.
-kural_translation: "When you see what is right, act on it. Don't look for another reason."
+description: When you see what is right, act on it....
+punch_line_1: When you see what is right, act on it.
+punch_line_2: Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act.
+felt_hook: When a problem appears, three people investigate separately. Or nobody does, because each assumes someone else
+  will handle it.
+kural_tamil: 'நாடோறும் நாடுக மன்னன் வினைசெய்வான்
+
+  கோடாமை கோடா துலகு.'
+kural_translation: When you see what is right, act on it. Don't look for another reason.
 kural_number: 520
-kural_bridge: "Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act."
-prev_knot: "organizations/075-process-sediment"
+kural_bridge: Role ambiguity means nobody sees clearly enough to act because nobody knows whose role it is to act.
+prev_knot: organizations/075-process-sediment
 prev_knot_title: Process Sediment
-next_knot: "organizations/077-middle-management-squeeze"
+next_knot: organizations/077-middle-management-squeeze
 next_knot_title: Middle Management Squeeze
-untie_story: "A hospital created cross-functional pods for patient care. Outcomes improved because the whole team saw the whole patient."
-untie_implement: "Every role has three documented outputs: 'what it produces, what it decides, and what it escalates."
-untie_question: 'What would change in your organisation if you untangled \"role ambiguity\" this week?'
-quote_top: "Role ambiguity cripples teams, transforming flexibility into chaos."
-quote_bottom: "Clarity unlocks productivity."
-origin_nodes: ["knots:075-process-sediment", "knots/organizations/075-process-sediment", "knots/organizations/077-middle-management-squeeze"]
+untie_story: A hospital created cross-functional pods for patient care. Outcomes improved because the whole team saw the whole
+  patient.
+untie_implement: 'Every role has three documented outputs: ''what it produces, what it decides, and what it escalates.'
+untie_question: What would change in your organisation if you untangled \"role ambiguity\" this week?
+quote_top: Role ambiguity cripples teams, transforming flexibility into chaos.
+quote_bottom: Clarity unlocks productivity.
+origin_nodes:
+- knots:075-process-sediment
+- knots/organizations/075-process-sediment
+- knots/organizations/077-middle-management-squeeze
 valence: mixed
 status: pending
-linkedin_post: |
-  The blueprint says clear roles. Nobody agrees.
-  
+linkedin_post: 'The blueprint says clear roles. Nobody agrees.
+
+
   Your team has overlapping, undefined responsibilities.
-  
+
+
   Three people own this outcome. Or none do.
-  
-  Ambiguity isn't flexibility. It's structural neglect.
-  
+
+
+  Ambiguity isn''t flexibility. It''s structural neglect.
+
+
   Unclear roles produce duplicated effort and blame.
-  
+
+
   Write one sentence: "this person decides this."
-  
-  That confusion? It's designed. By omission. 📐
-  
+
+
+  That confusion? It''s designed. By omission. 📐
+
+
   #108KNOTS #UntanglingStructure #Knot076
-  
-  💡 Teams with clear roles and purpose #thrive.
+
+
+  💡 Teams with clear roles and purpose #thrive.'
+canonical_id: 12
+canonical_name: Role Ambiguity
+episode: 4
+episode_title: Values Before Wallpaper
+mbs_layer: BODY
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 When you see what is right, act on it.

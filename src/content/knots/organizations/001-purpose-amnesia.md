@@ -6,49 +6,72 @@ series: identity
 series_number: 1
 slug_name: purpose-amnesia
 date: 2026-03-17
-description: "Can your newest hire tell a stranger what your organisation stands for, without reading a document?"
-punch_line_1: "The mission didn't die."
-punch_line_2: "It is starving while you are busy."
-felt_hook: "Can your newest hire tell a stranger what your organisation stands for, without reading a document?"
-emotion_target: |
-  Hollowness: the specific emptiness of working somewhere that can't explain why it exists
-never_say: ["realign with purpose", "revisit our mission", "purpose workshop"]
-kural_tamil: |-
-  அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை
-  மறத்தலின் ஊங்கில்லை கேடு.
-kural_translation: "No greater gain than virtue; no greater ruin than forgetting it."
+description: Can your newest hire tell a stranger what your organisation stands for, without reading a document?
+punch_line_1: The mission didn't die.
+punch_line_2: It is starving while you are busy.
+felt_hook: Can your newest hire tell a stranger what your organisation stands for, without reading a document?
+emotion_target: 'Hollowness: the specific emptiness of working somewhere that can''t explain why it exists
+
+  '
+never_say:
+- realign with purpose
+- revisit our mission
+- purpose workshop
+kural_tamil: 'அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை
+
+  மறத்தலின் ஊங்கில்லை கேடு.'
+kural_translation: No greater gain than virtue; no greater ruin than forgetting it.
 kural_number: 32
-kural_bridge: "Purpose forgotten is virtue abandoned."
-next_knot: "organizations/002-identity-mimicry"
+kural_bridge: Purpose forgotten is virtue abandoned.
+next_knot: organizations/002-identity-mimicry
 next_knot_title: Identity Mimicry
-untie_story: "A startup founder revisited their original pitch deck after three years of drift. Reading it aloud to the team brought tears. They remembered."
-untie_implement: "ask: 'Why does this team exist?' Write down the exact words."
-untie_question: 'What would change in your organisation if you untangled \"purpose amnesia\" this week?'
-quote_top: "Purpose attenuates when it's not amplified."
-quote_bottom: "Re-amplify your reason."
-origin_nodes: ["sparks:purpose-amnesia", "knots/organizations/002-identity-mimicry", "sparks/purpose-amnesia"]
+untie_story: A startup founder revisited their original pitch deck after three years of drift. Reading it aloud to the team
+  brought tears. They remembered.
+untie_implement: 'ask: ''Why does this team exist?'' Write down the exact words.'
+untie_question: What would change in your organisation if you untangled \"purpose amnesia\" this week?
+quote_top: Purpose attenuates when it's not amplified.
+quote_bottom: Re-amplify your reason.
+origin_nodes:
+- sparks:purpose-amnesia
+- knots/organizations/002-identity-mimicry
+- sparks/purpose-amnesia
 valence: mixed
 status: published
-approved_at: "2026-03-23T09:01:36.676Z"
-published_at: "2026-03-23T12:17:38.977Z"
-linkedin_post: |
-  Why did you join this company?
-  
+approved_at: '2026-03-23T09:01:36.676Z'
+published_at: '2026-03-23T12:17:38.977Z'
+linkedin_post: 'Why did you join this company?
+
+
   Ask your team that same question.
-  
+
+
   Most organizations start with clear purpose.
-  
-  The purpose didn't die. It starved.
-  
+
+
+  The purpose didn''t die. It starved.
+
+
   Purpose needs feeding, not just framing.
-  
+
+
   Ask one person today: "why here?"
-  
+
+
   That silence? It has a name.
-  
+
+
   #108KNOTS #UntanglingIdentity #Knot001 #NaveenRiaz
-  
-  💡 Organizations that remember who they are #thrive.
+
+
+  💡 Organizations that remember who they are #thrive.'
+canonical_id: 1
+canonical_name: Purpose Amnesia
+episode: 1
+episode_title: Identity Before Strategy
+mbs_layer: SOUL
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 I hired a woman last March. Brilliant. Two Masters degrees. She came from a competitor.

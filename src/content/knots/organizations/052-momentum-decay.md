@@ -6,45 +6,67 @@ series: change
 series_number: 4
 slug_name: momentum-decay
 date: 2026-03-17
-description: "Effort creates fortune. Lack of effort invites poverty...."
-punch_line_1: "Effort creates fortune. Lack of effort invites poverty."
-punch_line_2: "Momentum decay is the gap between initial effort and sustained effort. The initiative starts with fortune and drifts into poverty."
-felt_hook: "Nobody cancelled the initiative. That would require a decision. Instead, it decayed. Slowly. Silently. The way things do when nobody is watching."
-kural_tamil: |-
-  இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை
-  வாயின் அதுவொப்பது இல்.
-kural_translation: "Effort creates fortune; lack of effort invites poverty."
+description: Effort creates fortune. Lack of effort invites poverty....
+punch_line_1: Effort creates fortune. Lack of effort invites poverty.
+punch_line_2: Momentum decay is the gap between initial effort and sustained effort. The initiative starts with fortune and
+  drifts into poverty.
+felt_hook: Nobody cancelled the initiative. That would require a decision. Instead, it decayed. Slowly. Silently. The way
+  things do when nobody is watching.
+kural_tamil: 'இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை
+
+  வாயின் அதுவொப்பது இல்.'
+kural_translation: Effort creates fortune; lack of effort invites poverty.
 kural_number: 536
-kural_bridge: "Momentum decay is the gap between initial effort and sustained effort. The initiative starts with fortune and drifts into poverty."
-prev_knot: "organizations/051-resistance-misdiagnosis"
+kural_bridge: Momentum decay is the gap between initial effort and sustained effort. The initiative starts with fortune and
+  drifts into poverty.
+prev_knot: organizations/051-resistance-misdiagnosis
 prev_knot_title: Resistance Misdiagnosis
-next_knot: "organizations/053-initiative-overload"
+next_knot: organizations/053-initiative-overload
 next_knot_title: Initiative Overload
-untie_story: "A nonprofit invited skeptics into the change design team. Their objections improved the plan by identifying real barriers."
-untie_question: 'What would change in your organisation if you untangled \"momentum decay\" this week?'
-quote_top: "Decay is the silent killer of initiatives, requiring no decision."
-quote_bottom: "Sustained energy prevents organizational gravity."
-origin_nodes: ["knots:051-resistance-misdiagnosis", "knots/organizations/051-resistance-misdiagnosis", "knots/organizations/053-initiative-overload"]
+untie_story: A nonprofit invited skeptics into the change design team. Their objections improved the plan by identifying real
+  barriers.
+untie_question: What would change in your organisation if you untangled \"momentum decay\" this week?
+quote_top: Decay is the silent killer of initiatives, requiring no decision.
+quote_bottom: Sustained energy prevents organizational gravity.
+origin_nodes:
+- knots:051-resistance-misdiagnosis
+- knots/organizations/051-resistance-misdiagnosis
+- knots/organizations/053-initiative-overload
 valence: mixed
 status: pending
-linkedin_post: |
-  Three years ago, this started with excitement.
-  
+linkedin_post: 'Three years ago, this started with excitement.
+
+
   Your initiative lost energy around month four.
-  
-  Momentum decay isn't failure. It's physics.
-  
+
+
+  Momentum decay isn''t failure. It''s physics.
+
+
   Every project loses energy without deliberate renewal.
-  
+
+
   Sustained change requires sustained investment of energy.
-  
+
+
   Inject one visible win this week.
-  
-  That slowdown? It's the natural half-life. ⏳
-  
+
+
+  That slowdown? It''s the natural half-life. ⏳
+
+
   #108KNOTS #UntanglingChange #Knot052
-  
-  💡 Teams that sustain momentum honestly #thrive.
+
+
+  💡 Teams that sustain momentum honestly #thrive.'
+canonical_id: 71
+canonical_name: The Linear Timeline Fallacy
+episode: 24
+episode_title: Patience Before Progress
+mbs_layer: MIND
+season: 3
+season_title: The Interventions That Don't Work
+youtube_series: '108 Knots: Organisations'
 ---
 
 Effort creates fortune. Lack of effort invites poverty.

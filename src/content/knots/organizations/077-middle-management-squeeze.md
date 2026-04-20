@@ -6,46 +6,64 @@ series: structure
 series_number: 5
 slug_name: middle-management-squeeze
 date: 2026-03-17
-description: "The world endures because of those with good character...."
-punch_line_1: "The world endures because of those with good character."
-punch_line_2: "Middle managers are the load-bearing columns of an organisation. Squeeze them, and the structure crumbles."
-felt_hook: "Middle managers hold the organisation together while being squeezed from both directions."
-kural_tamil: |-
-  இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட
-  பெயலும் விளையுளும் தொக்கு.
-kural_translation: "The world endures because of those with good character; without them, it crumbles to dust."
+description: The world endures because of those with good character....
+punch_line_1: The world endures because of those with good character.
+punch_line_2: Middle managers are the load-bearing columns of an organisation. Squeeze them, and the structure crumbles.
+felt_hook: Middle managers hold the organisation together while being squeezed from both directions.
+kural_tamil: 'இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட
+
+  பெயலும் விளையுளும் தொக்கு.'
+kural_translation: The world endures because of those with good character; without them, it crumbles to dust.
 kural_number: 545
-kural_bridge: "Middle managers are the load-bearing columns of an organisation. Squeeze them, and the structure crumbles."
-prev_knot: "organizations/076-role-ambiguity"
+kural_bridge: Middle managers are the load-bearing columns of an organisation. Squeeze them, and the structure crumbles.
+prev_knot: organizations/076-role-ambiguity
 prev_knot_title: Role Ambiguity
-next_knot: "organizations/078-governance-bloat"
+next_knot: organizations/078-governance-bloat
 next_knot_title: Governance Bloat
-untie_story: "A factory redesigned the floor layout based on workflow, not department. Production increased 15% with same headcount."
-untie_implement: "Middle managers are periodically asked: 'what are you carrying that nobody sees?"
-untie_question: 'What would change in your organisation if you untangled \"middle management squeeze\" this week?'
-quote_top: "Middle managers carry the organisation, unseen, until they buckle."
-quote_bottom: "Reinforce the unseen columns."
-origin_nodes: ["knots:076-role-ambiguity", "knots/organizations/076-role-ambiguity", "knots/organizations/078-governance-bloat"]
+untie_story: A factory redesigned the floor layout based on workflow, not department. Production increased 15% with same headcount.
+untie_implement: 'Middle managers are periodically asked: ''what are you carrying that nobody sees?'
+untie_question: What would change in your organisation if you untangled \"middle management squeeze\" this week?
+quote_top: Middle managers carry the organisation, unseen, until they buckle.
+quote_bottom: Reinforce the unseen columns.
+origin_nodes:
+- knots:076-role-ambiguity
+- knots/organizations/076-role-ambiguity
+- knots/organizations/078-governance-bloat
 valence: mixed
 status: pending
-linkedin_post: |
-  The blueprint says equal management layers.
-  
+linkedin_post: 'The blueprint says equal management layers.
+
+
   Your middle managers are the most stressed layer.
-  
+
+
   Squeezed between strategy and execution. Always.
-  
+
+
   Neither strategist nor executor. Both. Uncomfortably.
-  
+
+
   The middle is where strategy meets reality.
-  
+
+
   Empower one manager to make one real decision.
-  
-  That squeeze? It's where organizations break. 📐
-  
+
+
+  That squeeze? It''s where organizations break. 📐
+
+
   #108KNOTS #UntanglingStructure #Knot077
-  
-  💡 Leaders who empower middle management #thrive.
+
+
+  💡 Leaders who empower middle management #thrive.'
+canonical_id: 15
+canonical_name: Middle Management Squeeze
+episode: 5
+episode_title: Purpose Before Pressure
+mbs_layer: BODY
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 The world endures because of those with good character.

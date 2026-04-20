@@ -6,47 +6,68 @@ series: decisions
 series_number: 8
 slug_name: decision-fragmentation
 date: 2026-03-17
-description: "Those who know the weight of words speak only after understanding the full assem..."
-punch_line_1: "Those who know the weight of words speak only after understanding the full assembly."
-punch_line_2: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."
-felt_hook: "Each decision was rational in isolation. Together, they created three incompatible systems, three duplicated budgets, and three teams who discovered each other at the integration meeting."
-kural_tamil: |-
-  பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்
-  வேந்தர்க்கு வேண்டும் பொழுது.
-kural_translation: "Those who know the weight of words speak only after understanding the full assembly."
+description: Those who know the weight of words speak only after understanding the full assem...
+punch_line_1: Those who know the weight of words speak only after understanding the full assembly.
+punch_line_2: Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because
+  none sees the whole.
+felt_hook: Each decision was rational in isolation. Together, they created three incompatible systems, three duplicated budgets,
+  and three teams who discovered each other at the integration meeting.
+kural_tamil: 'பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்
+
+  வேந்தர்க்கு வேண்டும் பொழுது.'
+kural_translation: Those who know the weight of words speak only after understanding the full assembly.
 kural_number: 481
-kural_bridge: "Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because none sees the whole."
-prev_knot: "organizations/043-dissent-suppression"
+kural_bridge: Decision fragmentation occurs when nobody understands the full assembly. Three teams decide separately because
+  none sees the whole.
+prev_knot: organizations/043-dissent-suppression
 prev_knot_title: Dissent Suppression
-next_knot: "organizations/045-meeting-to-decision-ratio"
+next_knot: organizations/045-meeting-to-decision-ratio
 next_knot_title: Meeting To Decision Ratio
-untie_story: 'A startup stopped consensus-seeking and moved to \"consult then decide.\" Meetings shortened. Quality stayed the same.'
-untie_implement: "Before making any cross-team decision, ask: 'who else is deciding something similar right now?"
-untie_question: 'What would change in your organisation if you untangled \"decision fragmentation\" this week?'
-quote_top: |-
-  Fragmented decisions: individually rational, collectively catastrophic.
-quote_bottom: "Incoherence kills innovation."
-origin_nodes: ["knots:043-dissent-suppression", "knots/organizations/043-dissent-suppression", "knots/organizations/045-meeting-to-decision-ratio"]
+untie_story: A startup stopped consensus-seeking and moved to \"consult then decide.\" Meetings shortened. Quality stayed
+  the same.
+untie_implement: 'Before making any cross-team decision, ask: ''who else is deciding something similar right now?'
+untie_question: What would change in your organisation if you untangled \"decision fragmentation\" this week?
+quote_top: 'Fragmented decisions: individually rational, collectively catastrophic.'
+quote_bottom: Incoherence kills innovation.
+origin_nodes:
+- knots:043-dissent-suppression
+- knots/organizations/043-dissent-suppression
+- knots/organizations/045-meeting-to-decision-ratio
 valence: mixed
 status: pending
-linkedin_post: |
-  Three teams made the same decision differently.
-  
+linkedin_post: 'Three teams made the same decision differently.
+
+
   Your organization decided this thing three times.
-  
+
+
   Nobody knew the others were deciding.
-  
+
+
   Fragmented decisions create contradictory commitments. Everywhere.
-  
+
+
   Without a decision register, chaos is inevitable.
-  
+
+
   Log every decision in one shared place.
-  
-  That duplication? It's multiplying your waste. 🔪
-  
+
+
+  That duplication? It''s multiplying your waste. 🔪
+
+
   #108KNOTS #UntanglingDecisions #Knot044
-  
-  💡 Teams with clear decision ownership #thrive.
+
+
+  💡 Teams with clear decision ownership #thrive.'
+canonical_id: 23
+canonical_name: Decision Fragmentation
+episode: 8
+episode_title: Meaning Before Market
+mbs_layer: MIND
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 Those who know the weight of words speak only after understanding the full assembly.

@@ -6,49 +6,68 @@ series: culture
 series_number: 2
 slug_name: integrity-theater
 date: 2026-03-17
-description: |
-  Virtue is never departing from four things: no envy, no greed, no wrath, no hars...
-punch_line_1: |-
-  Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech.
-punch_line_2: "Integrity isn't the ceremony. It's the daily absence of what corrodes."
-felt_hook: "And somehow, the person who reported harassment last month was quietly moved to a different floor."
-kural_tamil: |-
-  பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று
-  ஏதம் பலவுந் தரும்.
-kural_translation: "Virtue is never departing from freedom of envy, greed, wrath, and harsh speech."
+description: 'Virtue is never departing from four things: no envy, no greed, no wrath, no hars...
+
+  '
+punch_line_1: 'Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech.'
+punch_line_2: Integrity isn't the ceremony. It's the daily absence of what corrodes.
+felt_hook: And somehow, the person who reported harassment last month was quietly moved to a different floor.
+kural_tamil: 'பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று
+
+  ஏதம் பலவுந் தரும்.'
+kural_translation: Virtue is never departing from freedom of envy, greed, wrath, and harsh speech.
 kural_number: 275
-kural_bridge: "Integrity isn't the ceremony. It's the daily absence of what corrodes."
-prev_knot: "organizations/013-performative-safety"
+kural_bridge: Integrity isn't the ceremony. It's the daily absence of what corrodes.
+prev_knot: organizations/013-performative-safety
 prev_knot_title: Performative Safety
-next_knot: "organizations/015-gravitational-void"
+next_knot: organizations/015-gravitational-void
 next_knot_title: Gravitational Void
-untie_story: 'A team started each Monday with \"one thing I learned last week.\" Within months, learning became the culture norm.'
-untie_question: 'What would change in your organisation if you untangled \"integrity theater\" this week?'
-quote_top: "Integrity is living it, not a quarterly performance event."
-quote_bottom: "Performance vanishes when audience leaves."
-origin_nodes: ["knots:013-performative-safety", "knots/organizations/013-performative-safety", "knots/organizations/015-gravitational-void"]
+untie_story: A team started each Monday with \"one thing I learned last week.\" Within months, learning became the culture
+  norm.
+untie_question: What would change in your organisation if you untangled \"integrity theater\" this week?
+quote_top: Integrity is living it, not a quarterly performance event.
+quote_bottom: Performance vanishes when audience leaves.
+origin_nodes:
+- knots:013-performative-safety
+- knots/organizations/013-performative-safety
+- knots/organizations/015-gravitational-void
 valence: mixed
 status: published
-approved_at: "2026-04-05T09:30:52.205Z"
-published_at: "2026-04-05T09:30:55.906Z"
-linkedin_post: |
-  A visitor would notice the ceremonies.
-  
+approved_at: '2026-04-05T09:30:52.205Z'
+published_at: '2026-04-05T09:30:55.906Z'
+linkedin_post: 'A visitor would notice the ceremonies.
+
+
   Your integrity has rituals, not roots.
-  
+
+
   Compliance is performed, not internalized. Daily.
-  
-  Audits pass. Behavior doesn't change. Curious.
-  
+
+
+  Audits pass. Behavior doesn''t change. Curious.
+
+
   Integrity theater replaces the real thing.
-  
+
+
   Name one rule followed only when watched.
-  
+
+
   Start somewhere. 🔬
-  
+
+
   #108KNOTS #UntanglingCulture #Knot014
-  
-  💡 Teams where integrity is real #thrive.
+
+
+  💡 Teams where integrity is real #thrive.'
+canonical_id: 52
+canonical_name: Image Over Integrity
+episode: 18
+episode_title: Truth Before Reputation
+mbs_layer: SOUL
+season: 2
+season_title: The Moment the Org Realizes
+youtube_series: '108 Knots: Organisations'
 ---
 
 Virtue is never departing from four things: no envy, no greed, no wrath, no harsh speech.

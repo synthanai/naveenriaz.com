@@ -6,48 +6,69 @@ series: energy
 series_number: 9
 slug_name: resource-hoarding
 date: 2026-03-17
-description: |
-  To give and live with honor: no greater profit exists....
-punch_line_1: |-
-  To give and live with honor: no greater profit exists.
-punch_line_2: "Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits."
-felt_hook: "Meanwhile, the team across the hall is working weekends because they can't hire fast enough. The budget that could solve their problem sits unspent in another department's reserve."
-kural_tamil: |-
-  காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்
-  அன்னநீ ரார்க்கே உள.
-kural_translation: |
-  To give and live with honor: there is no greater profit in life.
+description: 'To give and live with honor: no greater profit exists....
+
+  '
+punch_line_1: 'To give and live with honor: no greater profit exists.'
+punch_line_2: Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits.
+felt_hook: Meanwhile, the team across the hall is working weekends because they can't hire fast enough. The budget that could
+  solve their problem sits unspent in another department's reserve.
+kural_tamil: 'காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்
+
+  அன்னநீ ரார்க்கே உள.'
+kural_translation: 'To give and live with honor: there is no greater profit in life.
+
+  '
 kural_number: 527
-kural_bridge: "Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits."
-prev_knot: "organizations/104-urgency-addiction"
+kural_bridge: Resource hoarding gives nothing. One team drowns while another sits on surplus, and neither profits.
+prev_knot: organizations/104-urgency-addiction
 prev_knot_title: Urgency Addiction
-next_knot: "organizations/106-celebration-deficit"
+next_knot: organizations/106-celebration-deficit
 next_knot_title: Celebration Deficit
-untie_story: 'A tech team replaced their retrospective with a monthly \"energy retrospective.\" What drained us? What charged us? Actions followed.'
-untie_question: 'What would change in your organisation if you untangled \"resource hoarding\" this week?'
-quote_top: "Resource hoarding starves your organisation's downstream ecosystem."
-quote_bottom: "Redistribute for collective vitality."
-origin_nodes: ["knots:104-urgency-addiction", "knots/organizations/104-urgency-addiction", "knots/organizations/106-celebration-deficit"]
+untie_story: A tech team replaced their retrospective with a monthly \"energy retrospective.\" What drained us? What charged
+  us? Actions followed.
+untie_question: What would change in your organisation if you untangled \"resource hoarding\" this week?
+quote_top: Resource hoarding starves your organisation's downstream ecosystem.
+quote_bottom: Redistribute for collective vitality.
+origin_nodes:
+- knots:104-urgency-addiction
+- knots/organizations/104-urgency-addiction
+- knots/organizations/106-celebration-deficit
 valence: mixed
 status: pending
-linkedin_post: |
-  Symptoms: one team drowning. One team surplus.
-  
+linkedin_post: 'Symptoms: one team drowning. One team surplus.
+
+
   Your departments hoard people and budgets.
-  
+
+
   "If I give them up: gone forever."
-  
+
+
   Nobody hoards when reallocation is temporary.
-  
+
+
   Resource hoarding is rational when giving means losing.
-  
+
+
   Make lending safe and returning guaranteed.
-  
-  That scarcity? It's designed by fear. 🩺
-  
+
+
+  That scarcity? It''s designed by fear. 🩺
+
+
   #108KNOTS #UntanglingEnergy #Knot105
-  
-  💡 Teams that share resources generously #thrive.
+
+
+  💡 Teams that share resources generously #thrive.'
+canonical_id: 101
+canonical_name: The Infinite Capacity Delusion
+episode: 34
+episode_title: Regeneration Before Growth
+mbs_layer: MIND
+season: 4
+season_title: What Actually Heals
+youtube_series: '108 Knots: Organisations'
 ---
 
 To give and live with honor: no greater profit exists.

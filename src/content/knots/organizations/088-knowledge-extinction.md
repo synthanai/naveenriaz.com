@@ -6,49 +6,70 @@ series: capability
 series_number: 4
 slug_name: knowledge-extinction
 date: 2026-03-17
-description: "Even humbled, the learned stand tall...."
-punch_line_1: "Even humbled, the learned stand tall."
-punch_line_2: |-
-  Knowledge extinction lowers the organisation permanently: what left can never be relearned because the teacher is gone.
-felt_hook: "All of it lived in one person's head. They gave two weeks notice. The knowledge gave zero."
-kural_tamil: |-
-  உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்
-  கடையரே கல்லா தவர்.
-kural_translation: "Even humbled, the learned stand tall. The unlearned remain low."
+description: Even humbled, the learned stand tall....
+punch_line_1: Even humbled, the learned stand tall.
+punch_line_2: 'Knowledge extinction lowers the organisation permanently: what left can never be relearned because the teacher
+  is gone.'
+felt_hook: All of it lived in one person's head. They gave two weeks notice. The knowledge gave zero.
+kural_tamil: 'உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்
+
+  கடையரே கல்லா தவர்.'
+kural_translation: Even humbled, the learned stand tall. The unlearned remain low.
 kural_number: 395
-kural_bridge: |
-  Knowledge extinction lowers the organisation permanently: what left can never be relearned because the teacher is gone.
-prev_knot: "organizations/087-hiring-mismatch"
+kural_bridge: 'Knowledge extinction lowers the organisation permanently: what left can never be relearned because the teacher
+  is gone.
+
+  '
+prev_knot: organizations/087-hiring-mismatch
 prev_knot_title: Hiring Mismatch
-next_knot: "organizations/089-leadership-vacuum"
+next_knot: organizations/089-leadership-vacuum
 next_knot_title: Leadership Vacuum
-untie_story: |
-  A startup created \"T-shaped\" development plans: deep in one skill, broad across two others. Versatility increased.
-untie_implement: "Ask each person: 'what skill would transform your work?'"
-untie_question: 'What would change in your organisation if you untangled \"knowledge extinction\" this week?'
-quote_top: "Resignation means knowledge extinction, irrecoverable context lost forever."
-quote_bottom: "Transfer, don't extinguish."
-origin_nodes: ["knots:087-hiring-mismatch", "knots/organizations/087-hiring-mismatch", "knots/organizations/089-leadership-vacuum"]
+untie_story: 'A startup created \"T-shaped\" development plans: deep in one skill, broad across two others. Versatility increased.
+
+  '
+untie_implement: 'Ask each person: ''what skill would transform your work?'''
+untie_question: What would change in your organisation if you untangled \"knowledge extinction\" this week?
+quote_top: Resignation means knowledge extinction, irrecoverable context lost forever.
+quote_bottom: Transfer, don't extinguish.
+origin_nodes:
+- knots:087-hiring-mismatch
+- knots/organizations/087-hiring-mismatch
+- knots/organizations/089-leadership-vacuum
 valence: mixed
 status: pending
-linkedin_post: |
-  Someone resigned. What knowledge just left?
-  
-  You can't name it. That's the problem.
-  
-  Critical knowledge isn't in your wiki.
-  
-  It walked out in someone's head.
-  
+linkedin_post: 'Someone resigned. What knowledge just left?
+
+
+  You can''t name it. That''s the problem.
+
+
+  Critical knowledge isn''t in your wiki.
+
+
+  It walked out in someone''s head.
+
+
   Tacit knowledge transfers through proximity only.
-  
+
+
   Pair your expert with their successor. Today.
-  
-  That gap? It's growing. Silently. Irreversibly. 🏋️
-  
+
+
+  That gap? It''s growing. Silently. Irreversibly. 🏋️
+
+
   #108KNOTS #UntanglingCapability #Knot088
-  
-  💡 Organizations that protect their knowledge #thrive.
+
+
+  💡 Organizations that protect their knowledge #thrive.'
+canonical_id: 105
+canonical_name: The Handover Protocol
+episode: 35
+episode_title: Legacy Before Landmark
+mbs_layer: BODY
+season: 4
+season_title: What Actually Heals
+youtube_series: '108 Knots: Organisations'
 ---
 
 Even humbled, the learned stand tall.

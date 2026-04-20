@@ -6,45 +6,64 @@ series: structure
 series_number: 8
 slug_name: the-bottleneck-person
 date: 2026-03-17
-description: "One who seeks no ease in good times builds resilience for hard times...."
-punch_line_1: "One who seeks no ease in good times builds resilience for hard times."
-punch_line_2: "The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop."
-felt_hook: "They're not hoarding power. They're drowning in it. The organisation funneled everything through one point because that point was reliable. Now that reliability is the constraint."
-kural_tamil: |-
-  கருவியும் காலமும் செய்கையும் செய்யும்
-  அருவினையும் மாண்டது அமைச்சு.
-kural_translation: "One who seeks no pleasure in prosperity gains immunity from pain in adversity."
+description: One who seeks no ease in good times builds resilience for hard times....
+punch_line_1: One who seeks no ease in good times builds resilience for hard times.
+punch_line_2: The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop.
+felt_hook: They're not hoarding power. They're drowning in it. The organisation funneled everything through one point because
+  that point was reliable. Now that reliability is the constraint.
+kural_tamil: 'கருவியும் காலமும் செய்கையும் செய்யும்
+
+  அருவினையும் மாண்டது அமைச்சு.'
+kural_translation: One who seeks no pleasure in prosperity gains immunity from pain in adversity.
 kural_number: 631
-kural_bridge: "The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop."
-prev_knot: "organizations/079-technology-sprawl"
+kural_bridge: The bottleneck person sought no delegation in prosperity. Now in adversity, everything stops when they stop.
+prev_knot: organizations/079-technology-sprawl
 prev_knot_title: Technology Sprawl
-next_knot: "organizations/081-over-centralization"
+next_knot: organizations/081-over-centralization
 next_knot_title: Over Centralization
-untie_story: "A tech company moved from project teams to product teams. Continuity replaced context-switching. Quality followed."
-untie_question: 'What would change in your organisation if you untangled \"the bottleneck person\" this week?'
-quote_top: "A bottleneck person chokes flow. Organisation starves."
-quote_bottom: "Redistribute before damage."
-origin_nodes: ["knots:079-technology-sprawl", "knots/organizations/079-technology-sprawl", "knots/organizations/081-over-centralization"]
+untie_story: A tech company moved from project teams to product teams. Continuity replaced context-switching. Quality followed.
+untie_question: What would change in your organisation if you untangled \"the bottleneck person\" this week?
+quote_top: A bottleneck person chokes flow. Organisation starves.
+quote_bottom: Redistribute before damage.
+origin_nodes:
+- knots:079-technology-sprawl
+- knots/organizations/079-technology-sprawl
+- knots/organizations/081-over-centralization
 valence: mixed
 status: pending
-linkedin_post: |
-  The blueprint says "distributed leadership." One person decides.
-  
+linkedin_post: 'The blueprint says "distributed leadership." One person decides.
+
+
   Your organization stops when one person stops.
-  
+
+
   That person is overloaded. Always. Predictably.
-  
-  The bottleneck isn't capacity. It's architecture.
-  
+
+
+  The bottleneck isn''t capacity. It''s architecture.
+
+
   Single-point dependency is a design choice.
-  
+
+
   Identify who blocks everything. Redistribute one decision.
-  
-  That dependency? It's a ticking clock. 📐
-  
+
+
+  That dependency? It''s a ticking clock. 📐
+
+
   #108KNOTS #UntanglingStructure #Knot080
-  
-  💡 Organizations that distribute knowledge #thrive.
+
+
+  💡 Organizations that distribute knowledge #thrive.'
+canonical_id: 24
+canonical_name: The Bottleneck Person
+episode: 8
+episode_title: Meaning Before Market
+mbs_layer: BODY
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 One who seeks no ease in good times builds resilience for hard times.

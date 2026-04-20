@@ -6,50 +6,77 @@ series: identity
 series_number: 4
 slug_name: values-wallpaper
 date: 2026-03-17
-description: "Can five people across different levels give the same example of a lived value? Or does the violation story come faster than the lived story?"
-punch_line_1: "The values look great on the wall."
-punch_line_2: "Nobody is looking at the wall."
-felt_hook: "Can five people across different levels give the same example of a lived value? Or does the violation story come faster than the lived story?"
-emotion_target: |
-  Disgust: the instinctive recoil at organized hypocrisy
-never_say: ["values alignment", "walk the talk", "culture workshop"]
-kural_tamil: |-
-  மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்
-  ஆகுல நீர பிற.
-kural_translation: "Spotless mind is all of virtue; the rest is empty noise."
+description: Can five people across different levels give the same example of a lived value? Or does the violation story come
+  faster than the lived story?
+punch_line_1: The values look great on the wall.
+punch_line_2: Nobody is looking at the wall.
+felt_hook: Can five people across different levels give the same example of a lived value? Or does the violation story come
+  faster than the lived story?
+emotion_target: 'Disgust: the instinctive recoil at organized hypocrisy
+
+  '
+never_say:
+- values alignment
+- walk the talk
+- culture workshop
+kural_tamil: 'மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்
+
+  ஆகுல நீர பிற.'
+kural_translation: Spotless mind is all of virtue; the rest is empty noise.
 kural_number: 34
-kural_bridge: "Framed values without lived values are noise, not virtue."
-prev_knot: "organizations/003-founders-ghost"
+kural_bridge: Framed values without lived values are noise, not virtue.
+prev_knot: organizations/003-founders-ghost
 prev_knot_title: Founders Ghost
-next_knot: "organizations/005-mission-drift"
+next_knot: organizations/005-mission-drift
 next_knot_title: Mission Drift
-untie_story: "An engineering team removed the values poster and replaced it with stories of values lived. Engagement scores jumped 23%."
-untie_question: 'What would change in your organisation if you untangled \"values wallpaper\" this week?'
-quote_top: "Virtue lives in the mind, not on the wall"
+untie_story: An engineering team removed the values poster and replaced it with stories of values lived. Engagement scores
+  jumped 23%.
+untie_question: What would change in your organisation if you untangled \"values wallpaper\" this week?
+quote_top: Virtue lives in the mind, not on the wall
 quote_bottom: The rest is empty noise
-origin_nodes: ["knots:003-founders-ghost", "sparks:values-wallpaper", "knots/organizations/003-founders-ghost", "knots/organizations/005-mission-drift", "sparks/values-wallpaper"]
+origin_nodes:
+- knots:003-founders-ghost
+- sparks:values-wallpaper
+- knots/organizations/003-founders-ghost
+- knots/organizations/005-mission-drift
+- sparks/values-wallpaper
 valence: mixed
 status: published
-approved_at: "2026-03-23T12:13:48.050Z"
-published_at: "2026-03-26T11:00:37.798Z"
-linkedin_post: |
-  Read your values wall. Now watch behavior.
-  
-  Your company's values are beautifully framed.
-  
+approved_at: '2026-03-23T12:13:48.050Z'
+published_at: '2026-03-26T11:00:37.798Z'
+linkedin_post: 'Read your values wall. Now watch behavior.
+
+
+  Your company''s values are beautifully framed.
+
+
   Nobody can name them. Nobody lives them.
-  
-  Wallpaper doesn't change the room's temperature.
-  
+
+
+  Wallpaper doesn''t change the room''s temperature.
+
+
   Displayed values without lived values: decoration.
-  
+
+
   Remove the poster. Observe what remains.
-  
-  That gap? It's wider than you think. 🪞
-  
+
+
+  That gap? It''s wider than you think. 🪞
+
+
   #108KNOTS #UntanglingIdentity #Knot004
-  
-  💡 Cultures where values are lived #thrive.
+
+
+  💡 Cultures where values are lived #thrive.'
+canonical_id: 10
+canonical_name: Values Wallpaper
+episode: 4
+episode_title: Values Before Wallpaper
+mbs_layer: SOUL
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 Spotless mind is all of virtue. The rest is empty noise.

@@ -2,11 +2,11 @@
 title: Identity Mimicry
 date: 2026-03-17
 status: published
-approved_at: "2026-03-23T12:13:19.988Z"
+approved_at: '2026-03-23T12:13:19.988Z'
 audit_audience: PASS
 audit_content: PASS
 audit_distribution: PASS
-audit_feynman: "8/10"
+audit_feynman: 8/10
 audit_hallucination: PASS
 audit_moment: PASS
 audit_originality: WARN
@@ -14,55 +14,80 @@ audit_tag: PASS
 audit_time: PASS
 audit_tone: PASS
 audit_torus: PASS
-audit_voice: "90% MATCH"
-custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/002-identity-mimicry/"
-description: 'Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''''''s adopt Google''''''''s approach."'
+audit_voice: 90% MATCH
+custom_comment: '🪢 Read this knot: https://naveenriaz.com/knots/organizations/002-identity-mimicry/'
+description: Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''s
+  adopt Google''''s approach."
 domain: organizations
-emotion_target: |-
-  Inauthenticity: the discomfort of performing someone else's identity
-felt_hook: 'Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''''''s adopt Google''''''''s approach."'
+emotion_target: 'Inauthenticity: the discomfort of performing someone else''s identity'
+felt_hook: Does your organisation describe itself by referencing other companies? "We want to be the Netflix of..." or "Let''''s
+  adopt Google''''s approach."
 knot_number: 2
-kural_bridge: "Organisations that copy others have stopped knowing themselves."
+kural_bridge: Organisations that copy others have stopped knowing themselves.
 kural_number: 727
-kural_tamil: |-
-  பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து
-  அஞ்சு மவன்கற்ற நூல்.
-kural_translation: "One who knows themselves knows all; they hold their wisdom as lasting honour."
-linkedin_post: |
-  Whose identity are you actually copying?
-  
+kural_tamil: 'பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து
+
+  அஞ்சு மவன்கற்ற நூல்.'
+kural_translation: One who knows themselves knows all; they hold their wisdom as lasting honour.
+linkedin_post: 'Whose identity are you actually copying?
+
+
   Your brand deck looks strangely familiar.
-  
-  Copying winners feels safe. It isn't.
-  
+
+
+  Copying winners feels safe. It isn''t.
+
+
   Borrowed identity erodes from the inside.
-  
+
+
   Mimicry replaces discovery. Comfort replaces truth.
-  
+
+
   Name one thing only YOU do.
-  
+
+
   Notice.
-  
+
+
   #108KNOTS #UntanglingIdentity #Knot002
-  
+
+
   💡 Teams that name their identity #thrive.
-never_say: [best practices, industry standard, we should be more like X]
-next_knot: "organizations/003-founders-ghost"
+
+  '
+never_say:
+- best practices
+- industry standard
+- we should be more like X
+next_knot: organizations/003-founders-ghost
 next_knot_title: Founders Ghost
-origin_nodes: [knots:001-purpose-amnesia, knots/organizations/001-purpose-amnesia, knots/organizations/003-founders-ghost]
-prev_knot: "organizations/001-purpose-amnesia"
+origin_nodes:
+- knots:001-purpose-amnesia
+- knots/organizations/001-purpose-amnesia
+- knots/organizations/003-founders-ghost
+prev_knot: organizations/001-purpose-amnesia
 prev_knot_title: Purpose Amnesia
-published_at: "2026-03-24T12:00:20.980Z"
-punch_line_1: "Copying someone's identity feels like strategy."
-punch_line_2: "It's actually surrender."
-quote_bottom: "See the camouflage."
-quote_top: "Identity mimicry is fear wearing a strategy hat."
+published_at: '2026-03-24T12:00:20.980Z'
+punch_line_1: Copying someone's identity feels like strategy.
+punch_line_2: It's actually surrender.
+quote_bottom: See the camouflage.
+quote_top: Identity mimicry is fear wearing a strategy hat.
 series: identity
 series_number: 2
 slug_name: identity-mimicry
-untie_question: 'What would change in your organisation if you untangled \"identity mimicry\" this week?'
-untie_story: "A hospital discovered nurses had created their own purpose statement because the official one felt hollow. Leadership adopted it instead."
+untie_question: What would change in your organisation if you untangled \"identity mimicry\" this week?
+untie_story: A hospital discovered nurses had created their own purpose statement because the official one felt hollow. Leadership
+  adopted it instead.
 valence: mixed
+canonical_id: 4
+canonical_name: Identity Mimicry
+episode: 2
+episode_title: Authenticity Before Alignment
+mbs_layer: SOUL
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 One who knows themselves knows all.

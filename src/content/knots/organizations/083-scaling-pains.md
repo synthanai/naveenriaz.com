@@ -6,47 +6,69 @@ series: structure
 series_number: 11
 slug_name: scaling-pains
 date: 2026-03-17
-description: "Avoiding harm and standing firm when it arrives...."
-punch_line_1: "Avoiding harm and standing firm when it arrives."
-punch_line_2: "Scaling pains are the harm that arrives when the organisation outgrows its original design. Standing firm means redesigning, not just enduring."
-felt_hook: "The blueprint says growth. The structure can't hold."
-kural_tamil: |-
-  கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்
-  எற்றா விழுமந் தரும்.
-kural_translation: |
-  Avoiding harm and standing firm when harm arrives: these two are the path, say the wise.
+description: Avoiding harm and standing firm when it arrives....
+punch_line_1: Avoiding harm and standing firm when it arrives.
+punch_line_2: Scaling pains are the harm that arrives when the organisation outgrows its original design. Standing firm means
+  redesigning, not just enduring.
+felt_hook: The blueprint says growth. The structure can't hold.
+kural_tamil: 'கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்
+
+  எற்றா விழுமந் தரும்.'
+kural_translation: 'Avoiding harm and standing firm when harm arrives: these two are the path, say the wise.
+
+  '
 kural_number: 663
-kural_bridge: "Scaling pains are the harm that arrives when the organisation outgrows its original design. Standing firm means redesigning, not just enduring."
-prev_knot: "organizations/082-handoff-failure"
+kural_bridge: Scaling pains are the harm that arrives when the organisation outgrows its original design. Standing firm means
+  redesigning, not just enduring.
+prev_knot: organizations/082-handoff-failure
 prev_knot_title: Handoff Failure
-next_knot: "organizations/084-matrix-madness"
+next_knot: organizations/084-matrix-madness
 next_knot_title: Matrix Madness
-untie_story: 'A company created a \"structural debt\" register like technical debt. Quarterly reviews addressed the most costly misalignments first.'
-untie_implement: "At every 50% growth milestone, one structural review is mandatory: 'communications, decision proto..."
-untie_question: 'What would change in your organisation if you untangled \"scaling pains\" this week?'
-quote_top: "Growth brings pain. Structures break when organisms expand."
-quote_bottom: "Adapt or crumble."
-origin_nodes: ["knots:082-handoff-failure", "knots/organizations/082-handoff-failure", "knots/organizations/084-matrix-madness"]
+untie_story: A company created a \"structural debt\" register like technical debt. Quarterly reviews addressed the most costly
+  misalignments first.
+untie_implement: 'At every 50% growth milestone, one structural review is mandatory: ''communications, decision proto...'
+untie_question: What would change in your organisation if you untangled \"scaling pains\" this week?
+quote_top: Growth brings pain. Structures break when organisms expand.
+quote_bottom: Adapt or crumble.
+origin_nodes:
+- knots:082-handoff-failure
+- knots/organizations/082-handoff-failure
+- knots/organizations/084-matrix-madness
 valence: mixed
 status: pending
-linkedin_post: |
-  The blueprint says growth. The structure can't hold.
-  
+linkedin_post: 'The blueprint says growth. The structure can''t hold.
+
+
   Your organization outgrew its original design.
-  
+
+
   What worked at fifty breaks at five hundred.
-  
-  Scaling pains aren't growth problems. They're design debt.
-  
+
+
+  Scaling pains aren''t growth problems. They''re design debt.
+
+
   The structure was right. For the old size.
-  
-  Redesign for where you're going, not where you've been.
-  
-  That pain? It's the old skin splitting. 📐
-  
+
+
+  Redesign for where you''re going, not where you''ve been.
+
+
+  That pain? It''s the old skin splitting. 📐
+
+
   #108KNOTS #UntanglingStructure #Knot083
-  
-  💡 Teams that redesign for scale #thrive.
+
+
+  💡 Teams that redesign for scale #thrive.'
+canonical_id: 61
+canonical_name: The Premature Harvest
+episode: 21
+episode_title: Roots Before Scale
+mbs_layer: SOUL
+season: 3
+season_title: The Interventions That Don't Work
+youtube_series: '108 Knots: Organisations'
 ---
 
 Avoiding harm and standing firm when it arrives.

@@ -6,51 +6,73 @@ series: identity
 series_number: 3
 slug_name: founders-ghost
 date: 2026-03-17
-description: 'Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?'
-punch_line_1: "The founder is gone."
-punch_line_2: "The rules are still running the meeting."
-felt_hook: 'Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?'
-emotion_target: |
-  Paralysis: the inability to lead in the present because you are serving the past
-never_say: ["the founder's vision", "stay true to our roots (when used to block change)"]
-kural_tamil: |-
-  அறனறிந்து மூத்த அறிவுடையார் கேண்மை
-  திறனறிந்து தேர்ந்து கொளல்.
-kural_translation: "The leader who possesses army, people, wealth, counsel, allies, and fortress is a lion among rulers."
+description: Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?
+punch_line_1: The founder is gone.
+punch_line_2: The rules are still running the meeting.
+felt_hook: Are decisions still justified by "what the founder would have wanted," even after they left or disengaged?
+emotion_target: 'Paralysis: the inability to lead in the present because you are serving the past
+
+  '
+never_say:
+- the founder's vision
+- stay true to our roots (when used to block change)
+kural_tamil: 'அறனறிந்து மூத்த அறிவுடையார் கேண்மை
+
+  திறனறிந்து தேர்ந்து கொளல்.'
+kural_translation: The leader who possesses army, people, wealth, counsel, allies, and fortress is a lion among rulers.
 kural_number: 441
-kural_bridge: "The founder built the fortress. The question is whether the walls still protect or imprison."
-prev_knot: "organizations/002-identity-mimicry"
+kural_bridge: The founder built the fortress. The question is whether the walls still protect or imprison.
+prev_knot: organizations/002-identity-mimicry
 prev_knot_title: Identity Mimicry
-next_knot: "organizations/004-values-wallpaper"
+next_knot: organizations/004-values-wallpaper
 next_knot_title: Values Wallpaper
-untie_story: "A CEO attended their own company's onboarding. They couldn't explain the values. That week, they rewrote them with frontline staff."
-untie_question: 'What would change in your organisation if you untangled \"founders ghost\" this week?'
-quote_top: |-
-  Founders' ghosts: governing the living from the grave.
-quote_bottom: "Haunting, not loyalty."
-origin_nodes: ["knots:002-identity-mimicry", "sparks:the-founders-ghost", "knots/organizations/002-identity-mimicry", "knots/organizations/004-values-wallpaper"]
+untie_story: A CEO attended their own company's onboarding. They couldn't explain the values. That week, they rewrote them
+  with frontline staff.
+untie_question: What would change in your organisation if you untangled \"founders ghost\" this week?
+quote_top: 'Founders'' ghosts: governing the living from the grave.'
+quote_bottom: Haunting, not loyalty.
+origin_nodes:
+- knots:002-identity-mimicry
+- sparks:the-founders-ghost
+- knots/organizations/002-identity-mimicry
+- knots/organizations/004-values-wallpaper
 valence: mixed
 status: published
-approved_at: "2026-03-23T12:13:35.809Z"
-published_at: "2026-03-25T05:28:10.887Z"
-linkedin_post: |
-  The founder left. The culture didn't.
-  
+approved_at: '2026-03-23T12:13:35.809Z'
+published_at: '2026-03-25T05:28:10.887Z'
+linkedin_post: 'The founder left. The culture didn''t.
+
+
   Your organization still follows invisible rules.
-  
+
+
   Their vision was right. For that era.
-  
+
+
   The ghost protects what no longer serves.
-  
+
+
   Past genius becomes present-day prison. Always.
-  
+
+
   Ask: "which rule is a ghost?"
-  
-  That loyalty? It's haunting you. Gently. 🪞
-  
+
+
+  That loyalty? It''s haunting you. Gently. 🪞
+
+
   #108KNOTS #UntanglingIdentity #Knot003
-  
-  💡 Leaders who honor the founder's truth #thrive.
+
+
+  💡 Leaders who honor the founder''s truth #thrive.'
+canonical_id: 7
+canonical_name: Founder's Ghost
+episode: 3
+episode_title: History Before Direction
+mbs_layer: SOUL
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 The founder built the fortress.

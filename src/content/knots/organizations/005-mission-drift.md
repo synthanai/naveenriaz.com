@@ -6,51 +6,73 @@ series: identity
 series_number: 5
 slug_name: mission-drift
 date: 2026-03-17
-description: "Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?"
-punch_line_1: "Nobody abandons the mission."
-punch_line_2: "They just stop saying no."
-felt_hook: "Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?"
-emotion_target: |
-  Disorientation: the slow realization you've become something you never intended
-never_say: ["strategic pivot", "evolving our mission", "growth requires flexibility"]
-kural_tamil: |-
-  எண்ணித் துணிக கருமம் துணிந்தபின்
-  எண்ணுவம் என்பது இழுக்கு.
-kural_translation: "Think well before acting; to deliberate after deciding is a failure."
+description: Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?
+punch_line_1: Nobody abandons the mission.
+punch_line_2: They just stop saying no.
+felt_hook: Can you trace your biggest initiative this quarter back to your mission statement in two sentences or fewer?
+emotion_target: 'Disorientation: the slow realization you''ve become something you never intended
+
+  '
+never_say:
+- strategic pivot
+- evolving our mission
+- growth requires flexibility
+kural_tamil: 'எண்ணித் துணிக கருமம் துணிந்தபின்
+
+  எண்ணுவம் என்பது இழுக்கு.'
+kural_translation: Think well before acting; to deliberate after deciding is a failure.
 kural_number: 467
-kural_bridge: "Mission drift is the failure of never re-examining the original decision."
-prev_knot: "organizations/004-values-wallpaper"
+kural_bridge: Mission drift is the failure of never re-examining the original decision.
+prev_knot: organizations/004-values-wallpaper
 prev_knot_title: Values Wallpaper
-next_knot: "organizations/006-legacy-denial"
+next_knot: organizations/006-legacy-denial
 next_knot_title: Legacy Denial
-untie_story: "A retail chain asked every store to define their purpose locally. The answers were better than any consulting deck."
-untie_question: 'What would change in your organisation if you untangled \"mission drift\" this week?'
-quote_top: |-
-  Mission drift: a hundred small compromises replace your purpose.
-quote_bottom: "Purpose fades, drift wins."
-origin_nodes: ["knots:004-values-wallpaper", "knots/organizations/004-values-wallpaper", "knots/organizations/006-legacy-denial"]
+untie_story: A retail chain asked every store to define their purpose locally. The answers were better than any consulting
+  deck.
+untie_question: What would change in your organisation if you untangled \"mission drift\" this week?
+quote_top: 'Mission drift: a hundred small compromises replace your purpose.'
+quote_bottom: Purpose fades, drift wins.
+origin_nodes:
+- knots:004-values-wallpaper
+- knots/organizations/004-values-wallpaper
+- knots/organizations/006-legacy-denial
 valence: mixed
 status: published
-approved_at: "2026-03-23T12:13:58.384Z"
-published_at: "2026-03-27T03:45:11.028Z"
-linkedin_post: |
-  When did the mission quietly change?
-  
+approved_at: '2026-03-23T12:13:58.384Z'
+published_at: '2026-03-27T03:45:11.028Z'
+linkedin_post: 'When did the mission quietly change?
+
+
   Your original purpose made perfect strategic sense.
-  
+
+
   Revenue pulled it sideways. Nobody objected.
-  
-  Drift isn't dramatic. It's imperceptible. Daily.
-  
+
+
+  Drift isn''t dramatic. It''s imperceptible. Daily.
+
+
   Mission drift happens one decision at time.
-  
-  Compare today's priorities to founding documents.
-  
+
+
+  Compare today''s priorities to founding documents.
+
+
   That distance? It happened while you watched. 🪞
-  
+
+
   #108KNOTS #UntanglingIdentity #Knot005
-  
-  💡 Organizations with a clear mission #thrive.
+
+
+  💡 Organizations with a clear mission #thrive.'
+canonical_id: 13
+canonical_name: Mission Drift
+episode: 5
+episode_title: Purpose Before Pressure
+mbs_layer: SOUL
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 Think well before acting. To deliberate after deciding is a failure.

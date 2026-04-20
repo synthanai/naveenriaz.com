@@ -6,56 +6,82 @@ series: identity
 series_number: 8
 slug_name: purpose-commodification
 date: 2026-03-17
-description: "Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which one is yours?"
-quote_top: |-
-  A purpose statement that could
+description: Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which
+  one is yours?
+quote_top: 'A purpose statement that could
+
   belong to any company on the planet,
-  belongs to none.
-quote_bottom: |-
-  When purpose is generic,
+
+  belongs to none.'
+quote_bottom: 'When purpose is generic,
+
   it protects nothing, filters nothing,
-  and inspires nothing.
-punch_line_1: "The purpose is still there."
-punch_line_2: "Someone just made it comfortable."
-felt_hook: "Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which one is yours?"
-emotion_target: |
-  Interchangeability: the feeling that your organization could be swapped and nobody would notice
-never_say: ["empower", "unlock potential", "world-class (the holy trinity of generic)"]
-kural_tamil: |-
-  சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க
-  சொல்லிற் பயனிலாச் சொல்.
-kural_translation: "Speak words that serve a purpose; never speak words that serve none."
+
+  and inspires nothing.'
+punch_line_1: The purpose is still there.
+punch_line_2: Someone just made it comfortable.
+felt_hook: Put your purpose statement next to your top 3 competitors'. Remove the company names. Can a stranger tell which
+  one is yours?
+emotion_target: 'Interchangeability: the feeling that your organization could be swapped and nobody would notice
+
+  '
+never_say:
+- empower
+- unlock potential
+- world-class (the holy trinity of generic)
+kural_tamil: 'சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க
+
+  சொல்லிற் பயனிலாச் சொல்.'
+kural_translation: Speak words that serve a purpose; never speak words that serve none.
 kural_number: 200
-kural_bridge: "When purpose is smoothed for mass appeal, the words serve nobody."
-prev_knot: "organizations/007-split-personality"
+kural_bridge: When purpose is smoothed for mass appeal, the words serve nobody.
+prev_knot: organizations/007-split-personality
 prev_knot_title: Split Personality
-next_knot: "organizations/009-vision-inflation"
+next_knot: organizations/009-vision-inflation
 next_knot_title: Vision Inflation
-untie_story: "A school principal asked students what the school stood for. Their answers rebuilt the mission statement authentically."
-untie_question: 'What would change in your organisation if you untangled \"purpose commodification\" this week?'
-origin_nodes: ["knots:007-split-personality", "knots/organizations/007-split-personality", "knots/organizations/009-vision-inflation"]
+untie_story: A school principal asked students what the school stood for. Their answers rebuilt the mission statement authentically.
+untie_question: What would change in your organisation if you untangled \"purpose commodification\" this week?
+origin_nodes:
+- knots:007-split-personality
+- knots/organizations/007-split-personality
+- knots/organizations/009-vision-inflation
 valence: mixed
 status: published
-approved_at: "2026-03-27T03:44:36.989Z"
-published_at: "2026-03-30T05:07:43.126Z"
-linkedin_post: |
-  Your purpose statement is a product.
-  
+approved_at: '2026-03-27T03:44:36.989Z'
+published_at: '2026-03-30T05:07:43.126Z'
+linkedin_post: 'Your purpose statement is a product.
+
+
   Someone packaged meaning into a tagline.
-  
+
+
   Purpose was real once. Then: marketing.
-  
+
+
   Commodified purpose feels hollow. It should.
-  
+
+
   When purpose becomes brand, soul disappears.
-  
+
+
   Strip the branding. What purpose remains?
-  
+
+
   That emptiness? It used to mean something. 🪞
-  
+
+
   #108KNOTS #UntanglingIdentity #Knot008
-  
-  💡 Teams that protect their purpose #thrive.
+
+
+  💡 Teams that protect their purpose #thrive.'
+canonical_id: 22
+canonical_name: Purpose Commodification
+episode: 8
+episode_title: Meaning Before Market
+mbs_layer: SOUL
+season: 1
+season_title: The Org Before It Knows It's Sick
+youtube_series: '108 Knots: Organisations'
 ---
 
 Speak words that serve a purpose. Never speak words that serve none.
