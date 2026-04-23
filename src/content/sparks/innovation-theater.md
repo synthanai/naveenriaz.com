@@ -1,20 +1,36 @@
 ---
-title: "Innovation Theater"
+title: Innovation Theater
 date: 2026-03-30
-signal: "The hackathon produced 30 ideas. None were funded. The innovation lab has a ping pong table and no budget."
-source: "Capability"
-temperature: "🔥🔥🔥"
-tags: [capability, innovation, living_organizations]
-description: "When innovation is a performance, not a practice."
-quote_top: "Ideation without execution: the comfortable illusion of progress."
-quote_bottom: "Innovation theater changes nothing."
-origin_nodes: []
-valence: "mixed"
-friction: ""
 status: published
 added: 2026-03-30
 approved_at: "2026-04-13T10:27:11.734Z"
+description: "When innovation is a performance, not a practice."
+linkedin_post: |-
+  Are you tired of big ideas, aren't you?
+  
+  The system loves ideas, but fears cost.
+  
+  Innovation theatre is simply empty applause.
+  
+  Ideas without budget are just slide decks.
+  
+  Real growth requires funding failure.
+  
+  Measurable tests beat perfect plans every time.
+  
+  Build one small experiment today.
+origin_nodes: []
 published_at: "2026-04-13T10:27:18.667Z"
+quote_bottom: |-
+  Innovation theater 
+  changes nothing.
+quote_top: |-
+  Ideation w/o Execution: illusion of progress
+signal: "The hackathon produced 30 ideas. None were funded. The innovation lab has a ping pong table and no budget."
+source: Capability
+tags: [capability, innovation, living_organizations]
+temperature: "🔥🔥🔥"
+valence: mixed
 ---
 
 The hackathon produced 30 ideas. Leadership applauded. None were funded. The innovation lab has a ping pong table, a slide deck, and no budget for production.

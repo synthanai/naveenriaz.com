@@ -2,7 +2,11 @@
 title: Trust Asymmetry
 date: 2026-03-17
 status: approved
-custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/031-trust-asymmetry/"
+approved_at: "2026-04-14T10:37:59.267Z"
+audit_hallucination: FAIL
+audit_tone: FAIL
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/031-trust-asymmetry/
 description: "Trusting a stranger without discernment brings endless suffering...."
 domain: organizations
 felt_hook: |-
@@ -14,7 +18,7 @@ kural_tamil: |-
   அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்
   நன்குடையான் கட்டே தெளிவு.
 kural_translation: "Trusting a stranger without discernment brings endless suffering to one's lineage."
-linkedin_post: |
+linkedin_post: |-
   The evidence: trust flows in one direction.
   
   Your leaders expect trust they don't give.
@@ -40,12 +44,11 @@ prev_knot_title: Loyalty Extraction
 punch_line_1: "Trusting a stranger without discernment brings endless suffering."
 punch_line_2: "Trust asymmetry isn't about trusting strangers. It's about demanding trust you refuse to give to people you know."
 quote_bottom: |-
-  Trusting a stranger
-  without discernment
-  brings endless suffering.
+  Trust flowing up. 
+  It never flows back down.
 quote_top: |-
-  Trust asymmetry is demanding trust
-  you refuse to give.
+  Demanding trust
+  you refuse to give?
 series: trust
 series_number: 7
 slug_name: trust-asymmetry
@@ -54,7 +57,14 @@ untie_implement: |-
 untie_question: 'What would change in your organisation if you untangled \"trust asymmetry\" this week?'
 untie_story: 'A remote team created a \"trust battery\" check-in. Each person rated their trust level with others openly.'
 valence: mixed
-approved_at: "2026-04-14T10:37:59.267Z"
+x_post: |-
+  The core problem in modern organizations isn't lack of trust; it's **Trust Asymmetry**. 🧵
+  
+  Leaders demand 100% transparency and accountability from teams, but keep the strategic 'why' (bonus formulas, pivot decisions) opaque. The result? Employees stop giving honest assessments in meetings, not out of malice, but because the reciprocity is broken. 
+  
+  Analogy: Trust is supposed to be bidirectional, like heat flowing to equilibrium. When it's a one-way valve, the pressure builds until the system ruptures. 
+  
+  The solution requires leaders to be as *discernible* as they demand their teams to be. Opacity is a signal of distrust, not superior responsibility. #LeadershipDevelopment #OrganizationalBehavior #Trust
 ---
 
 Trusting a stranger without discernment brings endless suffering.

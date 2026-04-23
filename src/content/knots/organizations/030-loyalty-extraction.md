@@ -2,7 +2,9 @@
 title: Loyalty Extraction
 date: 2026-03-17
 status: approved
-custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/030-loyalty-extraction/"
+approved_at: "2026-04-14T10:37:19.515Z"
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/030-loyalty-extraction/
 description: "The land of a ruler who does not seek and administer justice daily will perish d..."
 domain: organizations
 felt_hook: |-
@@ -14,20 +16,16 @@ kural_tamil: |-
   செய்வானை நாடி வினைநாடிக் காலத்தோடு
   எய்த உணர்ந்து செயல்.
 kural_translation: "The land of a ruler who does not seek and administer justice daily will perish daily."
-linkedin_post: |
-  The evidence: loyalty demanded, never earned.
-  
+linkedin_post: |-
   Your organization expects commitment without reciprocity.
   
   Loyalty isn't a tax. It's an exchange.
   
-  Extraction replaces exchange. People notice. Then leave.
+  When extraction replaces exchange - People notice. Then leave.
   
   Unearned loyalty produces departure, not devotion.
   
-  Ask: "what have we earned recently?"
-  
-  What's the first knot to pull?
+  Ask: "What have we earned recently?"
   
   #108KNOTS #UntanglingTrust #Knot030
   
@@ -41,10 +39,10 @@ punch_line_1: "The land of a ruler who does not seek and administer justice dail
 punch_line_2: "Loyalty demanded without justice given is extraction. And extraction leads to daily perishing."
 quote_bottom: |-
   One-sided loyalty 
-  is demand.
+  is Demand.
 quote_top: |-
-  Loyalty isn't a tax, 
-  it's a mutual investment.
+  Loyalty is a 
+  mutual investment.
 series: trust
 series_number: 6
 slug_name: loyalty-extraction
@@ -53,7 +51,16 @@ untie_implement: |-
 untie_question: 'What would change in your organisation if you untangled \"loyalty extraction\" this week?'
 untie_story: "A hospital introduced peer feedback rounds where nurses coached nurses. Quality improved because trust replaced hierarchy."
 valence: mixed
-approved_at: "2026-04-14T10:37:19.515Z"
+x_post: |-
+  ⚠️ Warning: Your organization might be engaging in 'Loyalty Extraction.'
+  
+  It demands commitment, but the exchange is one-sided. It asks for 80-hour weeks and cancelled vacations, but the reciprocal investment is only promised in 'future career capital.'
+  
+  This isn't loyalty; it's economic captivity, dressed in corporate jargon.
+  
+  Like brood parasitism, the organization provides the 'nest' (the brand, the salary) but extracts the resources (time, emotional energy) without true reciprocity.
+  
+  The true measure of commitment is the visible, daily ledger. If the organization's investment ledger is empty, the demand for loyalty is nothing but a trap. #HR #WorkplaceCulture #EmployeeRights
 ---
 
 The land of a ruler who does not seek and administer justice daily will perish daily.
