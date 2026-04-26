@@ -2,76 +2,98 @@
 title: The Scapegoat Pattern
 date: 2026-03-17
 status: approved
-custom_comment: '🪢 Read this knot: https://naveenriaz.com/knots/organizations/035-the-scapegoat-pattern/'
-description: Deliberate before you decide. To deliberate after deciding is disgrace....
+approved_at: "2026-04-14T10:40:36.141Z"
+canonical_id: 77
+canonical_name: The Blame Gravity
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/035-the-scapegoat-pattern/
+description: "Deliberate before you decide. To deliberate after deciding is disgrace...."
 domain: organizations
-felt_hook: It's not random. The scapegoat is selected for their position, not their culpability. They're visible enough to
-  absorb blame but not powerful enough to deflect it.
+episode: 26
+episode_title: Accountability Before Optics
+felt_hook: |-
+  It's not random. The scapegoat is selected for their position, not their culpability. They're visible enough to
+    absorb blame but not powerful enough to deflect it.
 knot_number: 35
-kural_bridge: 'Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.'
+kural_bridge: |-
+  Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.
 kural_number: 846
-kural_tamil: 'அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்
-
-  குற்றம் மறையா வழி.'
-kural_translation: Deliberate before you decide; to deliberate after deciding is disgrace.
-linkedin_post: 'The evidence: same person blamed every time.
-
-
-  Your organization has a designated scapegoat.
-
-
-  The pattern protects the system from learning.
-
-
-  Blame absorbs accountability. Everyone else stays clean.
-
-
-  Scapegoating prevents diagnosis. The real cause hides.
-
-
-  Ask: "who always gets blamed?" Then ask why.
-
-
-  That pattern? It''s protecting a dysfunction. ⚖️
-
-
-  #108KNOTS #UntanglingTrust #Knot035
-
-
-  💡 Cultures without scapegoats #thrive.
-
-  '
-next_knot: organizations/036-trust-bankruptcy
+kural_tamil: |-
+  அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்
+  
+    குற்றம் மறையா வழி.
+kural_translation: "Deliberate before you decide; to deliberate after deciding is disgrace."
+linkedin_post: |-
+  The evidence: same person blamed every time.
+  
+  
+    Your organization has a designated scapegoat.
+  
+  
+    The pattern protects the system from learning.
+  
+  
+    Blame absorbs accountability. Everyone else stays clean.
+  
+  
+    Scapegoating prevents diagnosis. The real cause hides.
+  
+  
+    Ask: "who always gets blamed?" Then ask why.
+  
+  
+    That pattern? It's protecting a dysfunction. ⚖️
+  
+  
+    #108KNOTS #UntanglingTrust #Knot035
+  
+  
+    💡 Cultures without scapegoats #thrive.
+  
+    
+mbs_layer: MIND
+next_knot: "organizations/036-trust-bankruptcy"
 next_knot_title: Trust Bankruptcy
-origin_nodes:
-- knots:034-gossip-economy
-- knots/organizations/034-gossip-economy
-- knots/organizations/036-trust-bankruptcy
-prev_knot: organizations/034-gossip-economy
+origin_nodes: |-
+  - knots:034-gossip-economy
+  - knots/organizations/034-gossip-economy
+  - knots/organizations/036-trust-bankruptcy
+prev_knot: "organizations/034-gossip-economy"
 prev_knot_title: Gossip Economy
-punch_line_1: Deliberate before you decide. To deliberate after deciding is disgrace.
-punch_line_2: 'Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.'
-quote_bottom: Autoimmune Disorder.
-quote_top: 'Scapegoating
-
-  attacks healthy tissue.'
+punch_line_1: "Deliberate before you decide. To deliberate after deciding is disgrace."
+punch_line_2: |-
+  Scapegoating is the ultimate post-decision disgrace: blaming after the fact instead of deliberating before.
+quote_bottom: |-
+  Autoimmune 
+  Disorder.
+quote_top: |-
+  Scapegoating
+  attacks 
+  healthy tissue.
+season: 3
+season_title: "The Interventions That Don't Work"
 series: trust
 series_number: 11
 slug_name: the-scapegoat-pattern
-untie_implement: 'Next time a project fails, ask two questions: ''''Who is being blamed?'' and ''What systemic factor ma...'
-untie_question: What would change in your organisation if you untangled \"the scapegoat pattern\" this week?
-untie_story: A company shared their strategic uncertainties with staff. People responded with solutions instead of anxiety
-  about unknowns.
+untie_implement: |-
+  Next time a project fails, ask two questions: ''''Who is being blamed?'' and ''What systemic factor ma...
+untie_question: 'What would change in your organisation if you untangled \"the scapegoat pattern\" this week?'
+untie_story: |-
+  A company shared their strategic uncertainties with staff. People responded with solutions instead of anxiety
+    about unknowns.
 valence: mixed
-approved_at: '2026-04-14T10:40:36.141Z'
-canonical_id: 77
-canonical_name: The Blame Gravity
-episode: 26
-episode_title: Accountability Before Optics
-mbs_layer: MIND
-season: 3
-season_title: The Interventions That Don't Work
-youtube_series: '108 Knots: Organisations'
+x_post: |-
+  The Scapegoat Pattern is the autoimmune disorder of organizational blame. 
+  
+  It's when a system fails, and instead of fixing the structural flaw, it attacks a visible target. The scapegoat absorbs the blame, and the real disease (the systemic dysfunction) remains untouched. 
+  
+  Credit Suisse case study: Risk managers were blamed for losses caused by senior leadership's revenue targets and relaxed risk parameters. The system needed a target to avoid self-examination.
+  
+  Real accountability examines the system: Who set the budget? Who decided not to hedge? 
+  
+  Stop blaming the tissue. Start diagnosing the pathogen.
+youtube_series: |-
+  108 Knots: Organisations
 ---
 
 Deliberate before you decide. To deliberate after deciding is disgrace.

@@ -1,18 +1,33 @@
 ---
-title: "Instincts vs Skills"
+title: Instincts vs Skills
 date: 2026-03-30
-signal: "Your instincts about code are right. Your instincts about AI configuration are wrong. The gap will cost you."
-source: "SYNTHAI"
-temperature: "🔥🔥"
-tags: [ai-governance, cognitive_architecture, skill_economy]
-description: "20 years of engineering instinct becomes liability when the medium changes."
-quote_top: "AI code: Looks familiar, but fails in unfamiliar ways."
-quote_bottom: "Old instincts are now liabilities."
-origin_nodes: []
-valence: "mixed"
-friction: ""
 status: pending-review
 added: 2026-03-30
+description: "20 years of engineering instinct becomes liability when the medium changes."
+linkedin_post: |-
+  Your deep experience might be your biggest blind spot right now.
+  
+  The old instincts, honed for human mistakes, fail against AI logic.
+  
+  AI-generated code is fluent, yet its failure patterns are completely different.
+  
+  It passes the human eye test, but often fails the systemic logic test.
+  
+  Our most seasoned engineers have the highest confidence rate when reviewing LLM outputs.
+  
+  Trust the process: validate the logic, not just the structure.
+  
+  Implement specific AI auditing checkpoints today.
+origin_nodes: []
+quote_bottom: "Old instincts are now liabilities."
+quote_top: |-
+  AI code: Looks familiar.
+  Fails in unfamiliar ways.
+signal: "Your instincts about code are right. Your instincts about AI configuration are wrong. The gap will cost you."
+source: SYNTHAI
+tags: [ai-governance, cognitive_architecture, skill_economy]
+temperature: "🔥🔥"
+valence: mixed
 ---
 
 A senior developer reviews AI-generated code. Their instinct says "this looks fine." Twenty years of pattern recognition, firing automatically. The code ships.
