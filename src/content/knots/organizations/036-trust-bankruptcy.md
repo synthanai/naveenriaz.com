@@ -2,7 +2,9 @@
 title: Trust Bankruptcy
 date: 2026-03-17
 status: approved
-custom_comment: "🪢 Read this knot: https://naveenriaz.com/knots/organizations/036-trust-bankruptcy/"
+approved_at: "2026-04-14T10:40:59.333Z"
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/036-trust-bankruptcy/
 description: "Even heaven and earth cannot repay an unsolicited act of kindness...."
 domain: organizations
 felt_hook: "This is trust bankruptcy. The account reads zero."
@@ -13,7 +15,7 @@ kural_tamil: |-
   செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி
   எச்சத்திற் கேமாப்பு உடைத்து.
 kural_translation: "Even heaven and earth cannot repay an unsolicited act of kindness."
-linkedin_post: |
+linkedin_post: |-
   The evidence: trust account reads zero.
   
   Your organization depleted every trust reserve.
@@ -38,7 +40,9 @@ prev_knot: "organizations/035-the-scapegoat-pattern"
 prev_knot_title: The Scapegoat Pattern
 punch_line_1: "Even heaven and earth cannot repay an unsolicited act of kindness."
 punch_line_2: "Trust bankruptcy is what remains when every deposit has been withdrawn and no unsolicited kindness is left to draw upon."
-quote_bottom: "Zero balance remains!"
+quote_bottom: |-
+  Every broken promise
+  was a withdrawal.
 quote_top: |-
   Trust can go bankrupt, 
   draining all goodwill.
@@ -48,7 +52,16 @@ slug_name: trust-bankruptcy
 untie_question: 'What would change in your organisation if you untangled \"trust bankruptcy\" this week?'
 untie_story: "A board chair admitted they didn't understand the technology. The CTO's trust in leadership increased immediately and permanently."
 valence: mixed
-approved_at: "2026-04-14T10:40:59.333Z"
+x_post: |-
+  Trust Bankruptcy isn't about making more deposits. It's when the account is structurally unable to accept them.
+  
+  It's the compound math of betrayal: a broken promise, a secret restructure, a retaliatory reassignment. Each withdrawal reduces the balance. Most organizations make withdrawals daily.
+  
+  When the bank blames the customer for a withdrawal the bank authorized (like Facebook/Cambridge Analytica), the trust account is bankrupt.
+  
+  Recovery programs fail because the structural damage is too deep. You need a structural reset, not a better dashboard.
+  
+  #Leadership #Trust #CorporateCulture #OrganizationalBehavior
 ---
 
 Even heaven and earth cannot repay an unsolicited act of kindness.
