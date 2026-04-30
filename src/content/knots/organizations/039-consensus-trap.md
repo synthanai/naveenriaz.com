@@ -1,76 +1,83 @@
 ---
 title: Consensus Trap
-knot_number: 39
+date: 2026-03-17
+status: pending
+canonical_id: 8
+canonical_name: Consensus Trap
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/039-consensus-trap/
+description: "Pursuing virtue steadily along the right path is the mark of lasting greatness...."
 domain: organizations
+episode: 3
+episode_title: History Before Direction
+felt_hook: "The difference between alignment and exhaustion is invisible from the outside."
+knot_number: 39
+kural_bridge: |-
+  Consensus traps virtue into formless agreement. The right path requires someone to choose it, not everyone to
+    agree on it.
+kural_number: 463
+kural_tamil: |-
+  ஆக்கம் கருதி முதலிழக்கும் செய்வினை
+  
+    ஊக்கார் அறிவுடை யார்.
+kural_translation: "Pursuing virtue steadily along the right path is the mark of those who achieve lasting greatness."
+linkedin_post: |-
+  Everyone agreed. Nobody was actually convinced.
+  
+  
+    Your team values consensus above correctness.
+  
+  
+    Consensus isn''t alignment. It''s exhaustion disguised.
+  
+  
+    The best idea lost to the loudest patience.
+  
+  
+    When everyone agrees, nobody truly decided.
+  
+  
+    Ask: "does anyone actually disagree? Honestly?"
+  
+  
+    That unanimity? It''s surrender, not agreement. 🔪
+  
+  
+    #108KNOTS #UntanglingDecisions #Knot039
+  
+  
+    💡 Leaders who seek dissent, not consensus #thrive.
+mbs_layer: MIND
+next_knot: "organizations/040-hippo-effect"
+next_knot_title: Hippo Effect
+origin_nodes: |-
+  - knots:038-decision-laundering
+  - sparks:the-consensus-trap
+  - knots/organizations/038-decision-laundering
+  - knots/organizations/040-hippo-effect
+prev_knot: "organizations/038-decision-laundering"
+prev_knot_title: Decision Laundering
+punch_line_1: "Pursuing virtue steadily along the right path is the mark of lasting greatness."
+punch_line_2: |-
+  Consensus traps virtue into formless agreement. The right path requires someone to choose it, not everyone to
+    agree on it.
+quote_bottom: "Consensus traps virtue into formless agreement."
+quote_top: |-
+  Consensus
+  felt like alignment.
+  It was exhaustion.
+season: 1
+season_title: "The Org Before It Knows It's Sick"
 series: decisions
 series_number: 3
 slug_name: consensus-trap
-date: 2026-03-17
-description: Pursuing virtue steadily along the right path is the mark of lasting greatness....
-quote_top: 'Consensus felt like alignment.
-
-  It was exhaustion.'
-quote_bottom: 'Consensus traps virtue
-
-  into formless agreement.'
-punch_line_1: Pursuing virtue steadily along the right path is the mark of lasting greatness.
-punch_line_2: Consensus traps virtue into formless agreement. The right path requires someone to choose it, not everyone to
-  agree on it.
-felt_hook: The difference between alignment and exhaustion is invisible from the outside.
-kural_tamil: 'ஆக்கம் கருதி முதலிழக்கும் செய்வினை
-
-  ஊக்கார் அறிவுடை யார்.'
-kural_translation: Pursuing virtue steadily along the right path is the mark of those who achieve lasting greatness.
-kural_number: 463
-kural_bridge: Consensus traps virtue into formless agreement. The right path requires someone to choose it, not everyone to
-  agree on it.
-prev_knot: organizations/038-decision-laundering
-prev_knot_title: Decision Laundering
-next_knot: organizations/040-hippo-effect
-next_knot_title: Hippo Effect
-untie_story: A company introduced \"decision journals\" where leaders recorded their reasoning. Retrospectives became about
-  process, not blame.
-untie_question: What would change in your organisation if you untangled \"consensus trap\" this week?
-origin_nodes:
-- knots:038-decision-laundering
-- sparks:the-consensus-trap
-- knots/organizations/038-decision-laundering
-- knots/organizations/040-hippo-effect
+untie_question: 'What would change in your organisation if you untangled \"consensus trap\" this week?'
+untie_story: |-
+  A company introduced \"decision journals\" where leaders recorded their reasoning. Retrospectives became about
+    process, not blame.
 valence: mixed
-status: pending
-linkedin_post: 'Everyone agreed. Nobody was actually convinced.
-
-
-  Your team values consensus above correctness.
-
-
-  Consensus isn''t alignment. It''s exhaustion disguised.
-
-
-  The best idea lost to the loudest patience.
-
-
-  When everyone agrees, nobody truly decided.
-
-
-  Ask: "does anyone actually disagree? Honestly?"
-
-
-  That unanimity? It''s surrender, not agreement. 🔪
-
-
-  #108KNOTS #UntanglingDecisions #Knot039
-
-
-  💡 Leaders who seek dissent, not consensus #thrive.'
-canonical_id: 8
-canonical_name: Consensus Trap
-episode: 3
-episode_title: History Before Direction
-mbs_layer: MIND
-season: 1
-season_title: The Org Before It Knows It's Sick
-youtube_series: '108 Knots: Organisations'
+youtube_series: |-
+  108 Knots: Organisations
 ---
 
 Pursuing virtue steadily along the right path is the mark of lasting greatness.

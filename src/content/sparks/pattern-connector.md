@@ -1,19 +1,34 @@
 ---
-title: "Pattern Connector"
+title: Pattern Connector
 date: 2026-03-30
-signal: "Three teams, three problems, three consultants. But it was one thread with three symptoms."
-source: "SYNTHAI"
-source_url: "https://naveenriaz.com/sparks"
-temperature: "🔥🔥"
-tags: [cognitive_architecture, patterns, synthetic_intelligence]
-description: "Anyone can see the thread. Few can see the weave."
-quote_top: "Cross-domain vision weaves patterns, not just threads, through the loom."
-quote_bottom: "See the weave, not just the thread."
-origin_nodes: []
-valence: "mixed"
-friction: ""
 status: pending-review
 added: 2026-03-30
+description: "Anyone can see the thread. Few can see the weave."
+linkedin_post: |-
+  Your system reports three separate failure points: quality, marketing, and support.
+  
+  It feels like three distinct problems, demanding three separate fixes.
+  
+  But the root cause is not in any single team’s budget or process.
+  
+  The pattern fails because the foundational connection was never modeled.
+  
+  Modern AI handles the thread, but it cannot see the total weave.
+  
+  True architecture demands pattern connection: linking disparate domains into one single flow.
+  
+  Stop optimizing silos; find the single point where your systems intersect.
+origin_nodes: []
+quote_bottom: |-
+  See the weave, 
+  not just the thread.
+quote_top: "Cross-domain vision weaves patterns!"
+signal: "Three teams, three problems, three consultants. But it was one thread with three symptoms."
+source: SYNTHAI
+source_url: "https://naveenriaz.com/sparks"
+tags: [cognitive_architecture, patterns, synthetic_intelligence]
+temperature: "🔥🔥"
+valence: mixed
 ---
 
 A factory has a quality issue. Marketing underperforms. The support queue grows. Three teams, three budgets, three consultants.

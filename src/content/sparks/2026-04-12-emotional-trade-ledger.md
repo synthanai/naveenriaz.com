@@ -1,8 +1,18 @@
 ---
-title: "The Emotional Trade Ledger"
+title: The Emotional Trade Ledger
 date: 2026-04-12
 status: pending-review
 added: 2026-04-12
+carousel_script: |-
+  Impostor syndrome makes you feel like a fraud.
+  ===
+  This feeling is actually a sign of deep transition.
+  ===
+  The doubt confirms you are moving, not failing.
+  ===
+  Embrace the uncertainty, it signals true growth.
+custom_comment: |-
+  The shift from viewing money as physical units to seeing it as an emotional trade changes everything, so I put together a detailed guide for you: [LINK]
 linkedin_post: |-
   We view money only as physical units, notes, and digital balances.
   
@@ -21,6 +31,8 @@ linkedin_post: |-
   #108KNOTS #EmotionalWealth #Knot011
   
   💡 The highest form of finance starts with emotional awareness #thrive.
+quote_bottom: "Normalize the doubt. It confirms you are no longer where you were."
+quote_top: "The familiar past feels real, but the future feels fake."
 ---
 
 # The Emotional Trade Ledger

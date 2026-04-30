@@ -1,30 +1,54 @@
 ---
-title: "AI Engineering Disciplines: Prompt → Context → Harness → Intent"
-display_title: "AI Engineering Disciplines"
-display_subtitle: "Four layers of directing AI systems. Most teams are stuck on the first. The competitive edge lives on the fourth."
+title: |-
+  AI Engineering Disciplines: Prompt → Context → Harness → Intent
+display_title: AI Engineering Disciplines
 date: 2026-04-15
-categories: ["ai-emergence"]
-tags: [prompt_engineering, context_engineering, harness_engineering, intent_engineering, agentic_systems, ai_architecture, living_organisations]
-description: "The evolution from prompt engineering to intent engineering, mapped as four ascending disciplines that determine how effectively humans direct AI systems."
-source_research: "concepts/prompt-driven-architecture/research.md"
-fusion_type: "public"
-fusion_nool:
-  nokkam: "Reveal that AI engineering is evolving through four distinct layers, each absorbing its predecessor, and that Intent Engineering (the frontier) requires encoding organizational identity, not just writing better specifications"
-  vadivam: "Pattern: evolutionary maturity model (Prompt → Context → Harness → Intent) mapped to capability layers (Body → Mind → Soul). Gateway to a deeper thesis on identity-driven governance."
-  sangilai: "Reader identifies which layer they currently operate on, recognises the gap, and begins to grasp that Layer 4 demands philosophical depth, not just technical precision"
-fusion_point:
-  ideas:
-    - "Prompt Engineering as instruction craft (the solved layer)"
-    - "Context Engineering as information architecture for attention budgets"
-    - "Harness Engineering as the scaffolding, feedback, and constraint system surrounding agents"
-    - "Intent Engineering as purpose-driven governance that lets systems self-direct toward outcomes"
-quote_top: Four layers. One question at each. Your ceiling is the question you haven't learned to ask.
-quote_bottom: The discipline that matters most is the one you can't see yet.
-origin_nodes: []
-valence: "provocative"
-friction: ""
 status: pending
-custom_comment: "Most teams think prompt engineering is the ceiling. It's the ground floor of a four-story building. [LINK]"
+categories: [ai-emergence]
+description: "The evolution from prompt engineering to intent engineering, mapped as four ascending disciplines that determine how effectively humans direct AI systems."
+display_subtitle: "Four layers of directing AI systems. Most teams are stuck on the first. The competitive edge lives on the fourth."
+fusion_nool: |-
+  nokkam: "Reveal that AI engineering is evolving through four distinct layers, each absorbing its predecessor, and that Intent Engineering (the frontier) requires encoding organizational identity, not just writing better specifications"
+    vadivam: "Pattern: evolutionary maturity model (Prompt → Context → Harness → Intent) mapped to capability layers (Body → Mind → Soul). Gateway to a deeper thesis on identity-driven governance."
+    sangilai: "Reader identifies which layer they currently operate on, recognises the gap, and begins to grasp that Layer 4 demands philosophical depth, not just technical precision"
+fusion_point: |-
+  ideas:
+      - "Prompt Engineering as instruction craft (the solved layer)"
+      - "Context Engineering as information architecture for attention budgets"
+      - "Harness Engineering as the scaffolding, feedback, and constraint system surrounding agents"
+      - "Intent Engineering as purpose-driven governance that lets systems self-direct toward outcomes"
+fusion_type: public
+linkedin_post: |-
+  Your autonomous system runs flawlessly, 
+  yet the result is fundamentally wrong.
+  
+  You mastered context window management, 
+  prompt structuring, and error recovery loops.
+  
+  But these technical achievements 
+  only govern the execution, not the destination.
+  
+  A perfectly running agent 
+  can still optimize for a metric 
+  that destroys core value.
+  
+  The true architectural challenge 
+  is defining the system's immutable identity.
+  
+  You must embed the organization's core values, 
+  its non-negotiable constraints, and its ultimate purpose.
+  
+  Do not just build the mechanism; govern the intent.
+origin_nodes: []
+quote_bottom: "Intent!"
+quote_top: |-
+  The discipline 
+  that matters most 
+  is the one 
+  you can't see yet.
+source_research: "concepts/prompt-driven-architecture/research.md"
+tags: [prompt_engineering, context_engineering, harness_engineering, intent_engineering, agentic_systems, ai_architecture, living_organisations]
+valence: provocative
 ---
 
 # AI Engineering Disciplines
@@ -57,65 +81,7 @@ Four ideas crash here:
 
 These are not four unrelated skills. They are four evolutionary layers, each one absorbing and transcending its predecessor. Each answers a deeper question about how humans direct AI systems:
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="The Four Layers of AI Engineering: an ascending staircase from Prompt Engineering at the base to Intent Engineering at the peak">
-  <defs>
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0f1a;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#1a1f2e;stop-opacity:1"/>
-    </linearGradient>
-    <linearGradient id="step1" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498DB;stop-opacity:0.9"/>
-      <stop offset="100%" style="stop-color:#2874A6;stop-opacity:0.9"/>
-    </linearGradient>
-    <linearGradient id="step2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#27AE60;stop-opacity:0.9"/>
-      <stop offset="100%" style="stop-color:#1E8449;stop-opacity:0.9"/>
-    </linearGradient>
-    <linearGradient id="step3" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#E67E22;stop-opacity:0.9"/>
-      <stop offset="100%" style="stop-color:#CA6F1E;stop-opacity:0.9"/>
-    </linearGradient>
-    <linearGradient id="step4" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#D4A843;stop-opacity:0.9"/>
-      <stop offset="100%" style="stop-color:#B8860B;stop-opacity:0.9"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="800" height="500" fill="url(#bg-grad)" rx="12"/>
-  <text x="400" y="40" text-anchor="middle" fill="#ffffff" font-family="Inter,system-ui,sans-serif" font-size="18" font-weight="700" letter-spacing="0.5">THE FOUR LAYERS OF AI ENGINEERING</text>
-  <!-- Step 1: Prompt -->
-  <rect x="60" y="370" width="170" height="90" rx="8" fill="url(#step1)" filter="url(#glow)"/>
-  <text x="145" y="400" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="13" font-weight="700">PROMPT</text>
-  <text x="145" y="418" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="11" opacity="0.9">ENGINEERING</text>
-  <text x="145" y="445" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="10" opacity="0.7">"How do I phrase this?"</text>
-  <!-- Step 2: Context -->
-  <rect x="240" y="280" width="170" height="90" rx="8" fill="url(#step2)" filter="url(#glow)"/>
-  <text x="325" y="310" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="13" font-weight="700">CONTEXT</text>
-  <text x="325" y="328" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="11" opacity="0.9">ENGINEERING</text>
-  <text x="325" y="355" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="10" opacity="0.7">"What does it need to know?"</text>
-  <!-- Step 3: Harness -->
-  <rect x="420" y="190" width="170" height="90" rx="8" fill="url(#step3)" filter="url(#glow)"/>
-  <text x="505" y="220" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="13" font-weight="700">HARNESS</text>
-  <text x="505" y="238" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="11" opacity="0.9">ENGINEERING</text>
-  <text x="505" y="265" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="10" opacity="0.7">"What system surrounds it?"</text>
-  <!-- Step 4: Intent -->
-  <rect x="600" y="100" width="170" height="90" rx="8" fill="url(#step4)" filter="url(#glow)"/>
-  <text x="685" y="130" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="13" font-weight="700">INTENT</text>
-  <text x="685" y="148" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="11" opacity="0.9">ENGINEERING</text>
-  <text x="685" y="175" text-anchor="middle" fill="#fff" font-family="Inter,sans-serif" font-size="10" opacity="0.7">"What should it achieve, and why?"</text>
-  <!-- Connecting arrows -->
-  <line x1="230" y1="395" x2="240" y2="350" stroke="#ffffff" stroke-width="2" opacity="0.4" stroke-dasharray="6,4"/>
-  <line x1="410" y1="305" x2="420" y2="260" stroke="#ffffff" stroke-width="2" opacity="0.4" stroke-dasharray="6,4"/>
-  <line x1="590" y1="215" x2="600" y2="170" stroke="#ffffff" stroke-width="2" opacity="0.4" stroke-dasharray="6,4"/>
-  <!-- Era labels -->
-  <text x="145" y="478" text-anchor="middle" fill="#3498DB" font-family="Inter,sans-serif" font-size="10" opacity="0.8">2022-2024</text>
-  <text x="325" y="388" text-anchor="middle" fill="#27AE60" font-family="Inter,sans-serif" font-size="10" opacity="0.8">2025</text>
-  <text x="505" y="298" text-anchor="middle" fill="#E67E22" font-family="Inter,sans-serif" font-size="10" opacity="0.8">2026</text>
-  <text x="685" y="208" text-anchor="middle" fill="#D4A843" font-family="Inter,sans-serif" font-size="10" opacity="0.8">2027+</text>
-</svg>
+
 
 Each layer does not replace the one below it. It absorbs it. You still need excellent prompts at layer four. But prompts become a solved problem within a much larger system of context curation, infrastructure design, and purpose specification.
 
@@ -178,44 +144,7 @@ Context engineering manages what goes into the model. It does not manage what ha
 
 Context engineering treats the model as a decision-maker that needs the right information. Harness engineering treats the model as a component inside a larger system that needs infrastructure to operate safely.
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Concentric rings showing how each engineering discipline encompasses the previous ones, with Intent at the centre">
-  <defs>
-    <linearGradient id="bg-grad2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0f1a;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#1a1f2e;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="500" fill="url(#bg-grad2)" rx="12"/>
-  <text x="400" y="38" text-anchor="middle" fill="#ffffff" font-family="Inter,system-ui,sans-serif" font-size="18" font-weight="700" letter-spacing="0.5">EACH LAYER ABSORBS ITS PREDECESSOR</text>
-  <!-- Ring 1: Prompt (outermost) -->
-  <circle cx="400" cy="270" r="200" fill="none" stroke="#3498DB" stroke-width="2.5" opacity="0.5"/>
-  <circle cx="400" cy="270" r="200" fill="#3498DB" opacity="0.06"/>
-  <text x="400" y="88" text-anchor="middle" fill="#3498DB" font-family="Inter,sans-serif" font-size="12" font-weight="600">PROMPT ENGINEERING</text>
-  <text x="400" y="103" text-anchor="middle" fill="#3498DB" font-family="Inter,sans-serif" font-size="10" opacity="0.7">Instruction craft</text>
-  <!-- Ring 2: Context -->
-  <circle cx="400" cy="270" r="150" fill="none" stroke="#27AE60" stroke-width="2.5" opacity="0.6"/>
-  <circle cx="400" cy="270" r="150" fill="#27AE60" opacity="0.08"/>
-  <text x="400" y="138" text-anchor="middle" fill="#27AE60" font-family="Inter,sans-serif" font-size="12" font-weight="600">CONTEXT ENGINEERING</text>
-  <text x="400" y="153" text-anchor="middle" fill="#27AE60" font-family="Inter,sans-serif" font-size="10" opacity="0.7">Information architecture</text>
-  <!-- Ring 3: Harness -->
-  <circle cx="400" cy="270" r="100" fill="none" stroke="#E67E22" stroke-width="2.5" opacity="0.7"/>
-  <circle cx="400" cy="270" r="100" fill="#E67E22" opacity="0.1"/>
-  <text x="400" y="188" text-anchor="middle" fill="#E67E22" font-family="Inter,sans-serif" font-size="12" font-weight="600">HARNESS ENGINEERING</text>
-  <text x="400" y="203" text-anchor="middle" fill="#E67E22" font-family="Inter,sans-serif" font-size="10" opacity="0.7">System scaffolding</text>
-  <!-- Ring 4: Intent (centre) -->
-  <circle cx="400" cy="270" r="50" fill="none" stroke="#D4A843" stroke-width="3" opacity="0.9"/>
-  <circle cx="400" cy="270" r="50" fill="#D4A843" opacity="0.15"/>
-  <text x="400" y="264" text-anchor="middle" fill="#D4A843" font-family="Inter,sans-serif" font-size="13" font-weight="700">INTENT</text>
-  <text x="400" y="282" text-anchor="middle" fill="#D4A843" font-family="Inter,sans-serif" font-size="10" opacity="0.9">Purpose</text>
-  <!-- Side annotations -->
-  <text x="635" y="145" fill="#ffffff" font-family="Inter,sans-serif" font-size="10" opacity="0.5">Instructions without context = hallucinations</text>
-  <text x="600" y="215" fill="#ffffff" font-family="Inter,sans-serif" font-size="10" opacity="0.5">Context without scaffolding = drift</text>
-  <text x="555" y="310" fill="#ffffff" font-family="Inter,sans-serif" font-size="10" opacity="0.5">Scaffolding without purpose = busywork</text>
-  <!-- Connecting lines to annotations -->
-  <line x1="555" y1="120" x2="530" y2="120" stroke="#3498DB" stroke-width="1" opacity="0.3"/>
-  <line x1="530" y1="190" x2="500" y2="200" stroke="#27AE60" stroke-width="1" opacity="0.3"/>
-  <line x1="500" y1="290" x2="470" y2="280" stroke="#E67E22" stroke-width="1" opacity="0.3"/>
-</svg>
+
 
 ---
 
@@ -313,40 +242,7 @@ If you have ever written a requirements document, a product brief, or a strategy
 
 The precision bar goes up dramatically. A human developer asks clarifying questions. An autonomous agent does exactly what you specified, including all the edge cases you forgot to specify.
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Mapping the four AI engineering disciplines to Mind-Body-Soul layers">
-  <defs>
-    <linearGradient id="bg-grad3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0f1a;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#1a1f2e;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="420" fill="url(#bg-grad3)" rx="12"/>
-  <text x="400" y="38" text-anchor="middle" fill="#ffffff" font-family="Inter,system-ui,sans-serif" font-size="18" font-weight="700" letter-spacing="0.5">THE BODY-MIND-SOUL MAPPING</text>
-  <!-- SOUL section -->
-  <rect x="60" y="60" width="680" height="90" rx="10" fill="#D4A843" opacity="0.12" stroke="#D4A843" stroke-width="1.5" stroke-opacity="0.4"/>
-  <text x="90" y="90" fill="#D4A843" font-family="Inter,sans-serif" font-size="14" font-weight="700">SOUL</text>
-  <text x="90" y="108" fill="#D4A843" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Purpose, Identity, Governance</text>
-  <text x="380" y="90" fill="#ffffff" font-family="Inter,sans-serif" font-size="12" font-weight="600">Intent Engineering</text>
-  <text x="380" y="108" fill="#ffffff" font-family="Inter,sans-serif" font-size="10" opacity="0.7">Objective • Success criteria • Constraints • Escalation rules</text>
-  <text x="380" y="138" fill="#D4A843" font-family="Inter,sans-serif" font-size="10" opacity="0.6">↳ What should the system achieve, and why?</text>
-  <!-- MIND section -->
-  <rect x="60" y="165" width="680" height="90" rx="10" fill="#2874A6" opacity="0.12" stroke="#2874A6" stroke-width="1.5" stroke-opacity="0.4"/>
-  <text x="90" y="195" fill="#2874A6" font-family="Inter,sans-serif" font-size="14" font-weight="700">MIND</text>
-  <text x="90" y="213" fill="#2874A6" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Cognition, Judgment, Architecture</text>
-  <text x="380" y="195" fill="#ffffff" font-family="Inter,sans-serif" font-size="12" font-weight="600">Harness Engineering + Context Engineering</text>
-  <text x="380" y="213" fill="#ffffff" font-family="Inter,sans-serif" font-size="10" opacity="0.7">Scaffolding • Feedback loops • Information architecture • Attention budgets</text>
-  <text x="380" y="243" fill="#2874A6" font-family="Inter,sans-serif" font-size="10" opacity="0.6">↳ What system and knowledge does the agent need?</text>
-  <!-- BODY section -->
-  <rect x="60" y="270" width="680" height="90" rx="10" fill="#27AE60" opacity="0.12" stroke="#27AE60" stroke-width="1.5" stroke-opacity="0.4"/>
-  <text x="90" y="300" fill="#27AE60" font-family="Inter,sans-serif" font-size="14" font-weight="700">BODY</text>
-  <text x="90" y="318" fill="#27AE60" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Execution, Generation, Action</text>
-  <text x="380" y="300" fill="#ffffff" font-family="Inter,sans-serif" font-size="12" font-weight="600">Prompt Engineering</text>
-  <text x="380" y="318" fill="#ffffff" font-family="Inter,sans-serif" font-size="10" opacity="0.7">Instructions • Role definitions • Output formats • Chain-of-thought</text>
-  <text x="380" y="348" fill="#27AE60" font-family="Inter,sans-serif" font-size="10" opacity="0.6">↳ How do I phrase the instruction?</text>
-  <!-- Insight bar -->
-  <rect x="60" y="380" width="680" height="30" rx="6" fill="#ffffff" opacity="0.05"/>
-  <text x="400" y="400" text-anchor="middle" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" opacity="0.7">AI absorbs Body. Humans must retain Mind and Soul. The danger is when organisations let AI take over all three.</text>
-</svg>
+
 
 ---
 
@@ -364,53 +260,7 @@ What does it look like when a team operates at each layer? Here is a concrete sc
 
 Notice what happens at each layer. The agent becomes more autonomous, more reliable, and more aligned with the team's actual goals. But each layer requires the ones below it. You cannot write a meaningful intent specification without understanding what harness the intent will be enacted through.
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" aria-label="Practice grid showing what practitioners do at each layer">
-  <defs>
-    <linearGradient id="bg-grad4" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0f1a;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#1a1f2e;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="380" fill="url(#bg-grad4)" rx="12"/>
-  <text x="400" y="35" text-anchor="middle" fill="#ffffff" font-family="Inter,system-ui,sans-serif" font-size="16" font-weight="700" letter-spacing="0.5">WHAT PRACTITIONERS DO AT EACH LAYER</text>
-  <!-- Headers -->
-  <text x="90" y="70" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" font-weight="700" opacity="0.6">LAYER</text>
-  <text x="230" y="70" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" font-weight="700" opacity="0.6">YOU BUILD</text>
-  <text x="430" y="70" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" font-weight="700" opacity="0.6">YOU VERSION-CONTROL</text>
-  <text x="650" y="70" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" font-weight="700" opacity="0.6">FAILURE MODE</text>
-  <line x1="60" y1="80" x2="740" y2="80" stroke="#ffffff" stroke-width="0.5" opacity="0.2"/>
-  <!-- Row 1 -->
-  <circle cx="75" cy="110" r="6" fill="#3498DB"/>
-  <text x="90" y="114" fill="#3498DB" font-family="Inter,sans-serif" font-size="12" font-weight="600">Prompt</text>
-  <text x="230" y="114" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" opacity="0.8">System prompts, few-shot examples</text>
-  <text x="430" y="114" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Prompt files (.md)</text>
-  <text x="650" y="114" fill="#ff6b6b" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Hallucination</text>
-  <line x1="60" y1="135" x2="740" y2="135" stroke="#ffffff" stroke-width="0.3" opacity="0.1"/>
-  <!-- Row 2 -->
-  <circle cx="75" cy="165" r="6" fill="#27AE60"/>
-  <text x="90" y="169" fill="#27AE60" font-family="Inter,sans-serif" font-size="12" font-weight="600">Context</text>
-  <text x="230" y="169" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Knowledge bases, retrieval pipelines</text>
-  <text x="430" y="169" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Context manifests, KI stores</text>
-  <text x="650" y="169" fill="#ff6b6b" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Drift (no feedback)</text>
-  <line x1="60" y1="190" x2="740" y2="190" stroke="#ffffff" stroke-width="0.3" opacity="0.1"/>
-  <!-- Row 3 -->
-  <circle cx="75" cy="220" r="6" fill="#E67E22"/>
-  <text x="90" y="224" fill="#E67E22" font-family="Inter,sans-serif" font-size="12" font-weight="600">Harness</text>
-  <text x="230" y="224" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Workflow pipelines, test harnesses</text>
-  <text x="430" y="224" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Workflow dirs, guard rail configs</text>
-  <text x="650" y="224" fill="#ff6b6b" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Misalignment</text>
-  <line x1="60" y1="245" x2="740" y2="245" stroke="#ffffff" stroke-width="0.3" opacity="0.1"/>
-  <!-- Row 4 -->
-  <circle cx="75" cy="275" r="6" fill="#D4A843"/>
-  <text x="90" y="279" fill="#D4A843" font-family="Inter,sans-serif" font-size="12" font-weight="600">Intent</text>
-  <text x="230" y="279" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Objective specs, constraint policies</text>
-  <text x="430" y="279" fill="#ffffff" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Intent manifests, success criteria</text>
-  <text x="650" y="279" fill="#ff6b6b" font-family="Inter,sans-serif" font-size="11" opacity="0.8">Wrong objective</text>
-  <line x1="60" y1="300" x2="740" y2="300" stroke="#ffffff" stroke-width="0.3" opacity="0.1"/>
-  <!-- Insight -->
-  <text x="400" y="340" text-anchor="middle" fill="#ffffff" font-family="Inter,sans-serif" font-size="12" opacity="0.5">Each layer's failure mode is solved by the layer above it.</text>
-  <text x="400" y="360" text-anchor="middle" fill="#D4A843" font-family="Inter,sans-serif" font-size="11" opacity="0.7">Intent Engineering's failure mode, optimising for the wrong objective, is solved by humans.</text>
-</svg>
+
 
 ---
 
