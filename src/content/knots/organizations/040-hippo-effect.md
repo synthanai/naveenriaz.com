@@ -1,72 +1,69 @@
 ---
 title: Hippo Effect
-knot_number: 40
+date: 2026-03-17
+status: pending
+canonical_id: 11
+canonical_name: The HiPPO Effect
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/040-hippo-effect/
+description: "A person's stature rises to match their will...."
 domain: organizations
+episode: 4
+episode_title: Values Before Wallpaper
+felt_hook: "Then the SVP offered his 'initial thinking.' After that, the data didn't matter."
+knot_number: 40
+kural_bridge: |-
+  The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the
+    room.
+kural_number: 475
+kural_tamil: |-
+  பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்
+  
+    சால மிகுத்துப் பெயின்.
+kural_translation: "As a flower rises to the water's height, so does a person's stature rise to match their will."
+linkedin_post: |-
+  The highest-paid person''s opinion won. Again.
+  
+  Your data lost to seniority. Predictably.
+  
+  Authority overrules evidence. Every meeting. Reliably.
+  
+  The room defers to title, not truth.
+  
+  Hierarchy and evidence are different authorities.
+  
+  Ask the junior person to speak first.
+  
+  That deference? It''s killing your intelligence. 🔪
+  
+  #108KNOTS #UntanglingDecisions #Knot040
+  💡 Organizations where the best idea wins #thrive.
+mbs_layer: MIND
+next_knot: "organizations/041-irreversibility-blindness"
+next_knot_title: Irreversibility Blindness
+origin_nodes: |-
+  - knots:039-consensus-trap
+  - knots/organizations/039-consensus-trap
+  - knots/organizations/041-irreversibility-blindness
+prev_knot: "organizations/039-consensus-trap"
+prev_knot_title: Consensus Trap
+punch_line_1: "A person's stature rises to match their will."
+punch_line_2: |-
+  The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the
+    room.
+quote_bottom: "Power blinds Analysis!"
+quote_top: "Authority warps Truth."
+season: 1
+season_title: "The Org Before It Knows It's Sick"
 series: decisions
 series_number: 4
 slug_name: hippo-effect
-date: 2026-03-17
-description: A person's stature rises to match their will....
-punch_line_1: A person's stature rises to match their will.
-punch_line_2: The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the
-  room.
-felt_hook: Then the SVP offered his 'initial thinking.' After that, the data didn't matter.
-kural_tamil: 'பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்
-
-  சால மிகுத்துப் பெயின்.'
-kural_translation: As a flower rises to the water's height, so does a person's stature rise to match their will.
-kural_number: 475
-kural_bridge: The HiPPO effect forces everyone's stature to shrink to the water level set by the highest-paid person in the
-  room.
-prev_knot: organizations/039-consensus-trap
-prev_knot_title: Consensus Trap
-next_knot: organizations/041-irreversibility-blindness
-next_knot_title: Irreversibility Blindness
-untie_story: 'A founder set a rule: any decision reversible within 30 days gets made in 24 hours. Velocity tripled.
-
-  '
-untie_question: What would change in your organisation if you untangled \"hippo effect\" this week?
-quote_top: Authority warps truth like gravity warps light
-quote_bottom: Power blinds analysis
-origin_nodes:
-- knots:039-consensus-trap
-- knots/organizations/039-consensus-trap
-- knots/organizations/041-irreversibility-blindness
+untie_question: 'What would change in your organisation if you untangled \"hippo effect\" this week?'
+untie_story: |-
+  A founder set a rule: any decision reversible within 30 days gets made in 24 hours. Velocity tripled.
 valence: mixed
-status: pending
-linkedin_post: 'The highest-paid person''s opinion won. Again.
-
-
-  Your data lost to seniority. Predictably.
-
-
-  Authority overrules evidence. Every meeting. Reliably.
-
-
-  The room defers to title, not truth.
-
-
-  Hierarchy and evidence are different authorities.
-
-
-  Ask the junior person to speak first.
-
-
-  That deference? It''s killing your intelligence. 🔪
-
-
-  #108KNOTS #UntanglingDecisions #Knot040
-
-
-  💡 Organizations where the best idea wins #thrive.'
-canonical_id: 11
-canonical_name: The HiPPO Effect
-episode: 4
-episode_title: Values Before Wallpaper
-mbs_layer: MIND
-season: 1
-season_title: The Org Before It Knows It's Sick
-youtube_series: '108 Knots: Organisations'
+youtube_series: |-
+  108 Knots: Organisations
 ---
 
 A person's stature rises to match their will.

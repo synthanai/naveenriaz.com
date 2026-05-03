@@ -1,72 +1,76 @@
 ---
 title: Irreversibility Blindness
-knot_number: 41
+date: 2026-03-17
+status: pending
+canonical_id: 14
+canonical_name: Irreversibility Blindness
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/041-irreversibility-blindness/
+description: "Those who foresee what is coming are never shaken by what arrives...."
 domain: organizations
+episode: 5
+episode_title: Purpose Before Pressure
+felt_hook: "Treating permanent decisions with the same casualness as reversible ones is organizational blindness."
+knot_number: 41
+kural_bridge: |-
+  Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as
+    equally reversible.
+kural_number: 467
+kural_tamil: |-
+  எண்ணித் துணிக கருமம் துணிந்தபின்
+  
+    எண்ணுவம் என்பது இழுக்கு.
+kural_translation: "Those who foresee what is coming are never shaken by what arrives."
+linkedin_post: |-
+  That decision can''t be undone. You knew?
+  
+    Your team treated all decisions the same.
+  
+    Some are reversible. Some are permanent.
+  
+    Treating permanent decisions casually is reckless.
+  
+    Irreversible decisions deserve disproportionate analysis. Always.
+  
+    Before deciding: "can we undo this?"
+  
+    That blindness? One bad call proves fatal. 🔪
+  
+    #108KNOTS #UntanglingDecisions #Knot041
+    💡 Teams that classify before they decide #thrive.
+mbs_layer: MIND
+next_knot: "organizations/042-decision-amnesia"
+next_knot_title: Decision Amnesia
+origin_nodes: |-
+  - knots:040-hippo-effect
+  - knots/organizations/040-hippo-effect
+  - knots/organizations/042-decision-amnesia
+prev_knot: "organizations/040-hippo-effect"
+prev_knot_title: Hippo Effect
+punch_line_1: "Those who foresee what is coming are never shaken by what arrives."
+punch_line_2: |-
+  Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as
+    equally reversible.
+quote_bottom: |-
+  Discern irreversible 
+  decisions wisely.
+quote_top: |-
+  Some decisions are 
+  one-way doors.
+season: 1
+season_title: "The Org Before It Knows It's Sick"
 series: decisions
 series_number: 5
 slug_name: irreversibility-blindness
-date: 2026-03-17
-description: Those who foresee what is coming are never shaken by what arrives....
-punch_line_1: Those who foresee what is coming are never shaken by what arrives.
-punch_line_2: Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as
-  equally reversible.
-felt_hook: Treating permanent decisions with the same casualness as reversible ones is organizational blindness.
-kural_tamil: 'எண்ணித் துணிக கருமம் துணிந்தபின்
-
-  எண்ணுவம் என்பது இழுக்கு.'
-kural_translation: Those who foresee what is coming are never shaken by what arrives.
-kural_number: 467
-kural_bridge: Irreversibility blindness is the failure to foresee which decisions cannot be undone, treating all choices as
-  equally reversible.
-prev_knot: organizations/040-hippo-effect
-prev_knot_title: Hippo Effect
-next_knot: organizations/042-decision-amnesia
-next_knot_title: Decision Amnesia
-untie_story: A hospital reduced committee approvals from seven to two for non-clinical decisions. Time to implementation dropped
-  by 80%.
-untie_implement: 'Before your next major decision, ask: ''can we undo this in six months if wrong?'
-untie_question: What would change in your organisation if you untangled \"irreversibility blindness\" this week?
-quote_top: Some decisions are one-way doors, with permanent consequences.
-quote_bottom: Discern irreversible decisions wisely.
-origin_nodes:
-- knots:040-hippo-effect
-- knots/organizations/040-hippo-effect
-- knots/organizations/042-decision-amnesia
+untie_implement: |-
+  Before your next major decision, ask: ''can we undo this in six months if wrong?
+untie_question: 'What would change in your organisation if you untangled \"irreversibility blindness\" this week?'
+untie_story: |-
+  A hospital reduced committee approvals from seven to two for non-clinical decisions. Time to implementation dropped
+    by 80%.
 valence: mixed
-status: pending
-linkedin_post: 'That decision can''t be undone. You knew?
-
-
-  Your team treated all decisions the same.
-
-
-  Some are reversible. Some are permanent.
-
-
-  Treating permanent decisions casually is reckless.
-
-
-  Irreversible decisions deserve disproportionate analysis. Always.
-
-
-  Before deciding: "can we undo this?"
-
-
-  That blindness? One bad call proves fatal. 🔪
-
-
-  #108KNOTS #UntanglingDecisions #Knot041
-
-
-  💡 Teams that classify before they decide #thrive.'
-canonical_id: 14
-canonical_name: Irreversibility Blindness
-episode: 5
-episode_title: Purpose Before Pressure
-mbs_layer: MIND
-season: 1
-season_title: The Org Before It Knows It's Sick
-youtube_series: '108 Knots: Organisations'
+youtube_series: |-
+  108 Knots: Organisations
 ---
 
 Those who foresee what is coming are never shaken by what arrives.
