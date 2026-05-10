@@ -1,71 +1,72 @@
 ---
 title: Decision Amnesia
-knot_number: 42
+date: 2026-03-17
+status: pending
+canonical_id: 17
+canonical_name: Decision Amnesia
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/042-decision-amnesia/
+description: "Learn thoroughly what should be learned. Having learned, live by it...."
 domain: organizations
+episode: 6
+episode_title: Memory Before Method
+felt_hook: "Now you're about to make the same decision again. Without knowing you've already made it."
+knot_number: 42
+kural_bridge: |-
+  Decision amnesia is the organizational failure to learn from its own decisions, forgetting the rationale, the
+    context, and the lesson.
+kural_number: 391
+kural_tamil: |-
+  கற்க கசடறக் கற்பவை கற்றபின்
+  
+    நிற்க அதற்குத் தக.
+kural_translation: "Learn thoroughly what should be learned; having learned, live by that learning."
+linkedin_post: |-
+  Why was that decision made? Nobody knows.
+  
+    Your past decisions have no documented reasoning.
+  
+    Context evaporated. Only the outcome remains.
+  
+    Without rationale, you can't learn from past.
+  
+    Decisions without reasons are unrepeatable accidents.
+  
+    Record WHY, not just WHAT, each time.
+  
+    What if today was different? 🔪
+  
+    #108KNOTS #UntanglingDecisions #Knot042
+    💡 Organizations that remember why they decided #thrive.
+mbs_layer: MIND
+next_knot: "organizations/043-dissent-suppression"
+next_knot_title: Dissent Suppression
+origin_nodes: |-
+  - knots:041-irreversibility-blindness
+  - knots/organizations/041-irreversibility-blindness
+  - knots/organizations/043-dissent-suppression
+prev_knot: "organizations/041-irreversibility-blindness"
+prev_knot_title: Irreversibility Blindness
+punch_line_1: "Learn thoroughly what should be learned. Having learned, live by it."
+punch_line_2: |-
+  Decision amnesia is the organizational failure to learn from its own decisions, forgetting the rationale, the
+    context, and the lesson.
+quote_bottom: "Live what you learn."
+quote_top: |-
+  Knowing without doing
+  is injustice. 
+season: 1
+season_title: "The Org Before It Knows It's Sick"
 series: decisions
 series_number: 6
 slug_name: decision-amnesia
-date: 2026-03-17
-description: Learn thoroughly what should be learned. Having learned, live by it....
-punch_line_1: Learn thoroughly what should be learned. Having learned, live by it.
-punch_line_2: Decision amnesia is the organizational failure to learn from its own decisions, forgetting the rationale, the
-  context, and the lesson.
-felt_hook: Now you're about to make the same decision again. Without knowing you've already made it.
-kural_tamil: 'கற்க கசடறக் கற்பவை கற்றபின்
-
-  நிற்க அதற்குத் தக.'
-kural_translation: Learn thoroughly what should be learned; having learned, live by that learning.
-kural_number: 391
-kural_bridge: Decision amnesia is the organizational failure to learn from its own decisions, forgetting the rationale, the
-  context, and the lesson.
-prev_knot: organizations/041-irreversibility-blindness
-prev_knot_title: Irreversibility Blindness
-next_knot: organizations/043-dissent-suppression
-next_knot_title: Dissent Suppression
-untie_story: A team assigned a \"devil's advocate\" each meeting. The dissenter role was rotated. Groupthink evaporated quickly.
-untie_implement: 'For your next significant decision, write down: ''what you decided, why, and what would need to cha...'
-untie_question: What would change in your organisation if you untangled \"decision amnesia\" this week?
-quote_top: Knowing without doing is incomplete. Live what you learn.
-quote_bottom: Apply your knowledge.
-origin_nodes:
-- knots:041-irreversibility-blindness
-- knots/organizations/041-irreversibility-blindness
-- knots/organizations/043-dissent-suppression
+untie_implement: |-
+  For your next significant decision, write down: ''what you decided, why, and what would need to cha...
+untie_question: 'What would change in your organisation if you untangled \"decision amnesia\" this week?'
+untie_story: 'A team assigned a \"devil''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''s advocate\" each meeting. The dissenter role was rotated. Groupthink evaporated quickly.'
 valence: mixed
-status: pending
-linkedin_post: 'Why was that decision made? Nobody knows.
-
-
-  Your past decisions have no documented reasoning.
-
-
-  Context evaporated. Only the outcome remains.
-
-
-  Without rationale, you can''t learn from past.
-
-
-  Decisions without reasons are unrepeatable accidents.
-
-
-  Record WHY, not just WHAT, each time.
-
-
-  What if today was different? 🔪
-
-
-  #108KNOTS #UntanglingDecisions #Knot042
-
-
-  💡 Organizations that remember why they decided #thrive.'
-canonical_id: 17
-canonical_name: Decision Amnesia
-episode: 6
-episode_title: Memory Before Method
-mbs_layer: MIND
-season: 1
-season_title: The Org Before It Knows It's Sick
-youtube_series: '108 Knots: Organisations'
+youtube_series: |-
+  108 Knots: Organisations
 ---
 
 Learn thoroughly what should be learned. Having learned, live by it.

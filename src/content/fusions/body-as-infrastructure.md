@@ -1,28 +1,45 @@
 ---
-title: "Body as Infrastructure: Why Your Physical State Is Your First Architecture Decision"
-display_title: "Body as Infrastructure"
-display_subtitle: "You optimised your context window. You tuned your prompts. You didn't notice you've been sitting for four hours."
+title: |-
+  Body as Infrastructure: Why Your Physical State Is Your First Architecture Decision
+display_title: Body as Infrastructure
 date: 2026-03-19
-categories: ["pattern"]
-tags: [cognition, infrastructure, mbs_framework, workflow_protocols]
-description: "Your physical state shapes your cognitive output. Position is not ergonomics. It is architecture. The BODY layer comes first."
-source_research: "concepts/position-rotation/research.md"
-fusion_type: "public"
-fusion_nool:
-  nokkam: "Reframe physical state from ergonomic afterthought to foundational infrastructure: the BODY layer of cognition must be addressed before MIND or SOUL can function"
-  vadivam: "Pattern: Position-Place duality as the individual-scale equivalent of Mind-Body-Soul"
-  sangilai: "Reader re-evaluates their workspace and physical practices as architecture decisions, not comfort preferences"
-fusion_point:
-  ideas:
-    - "Position → cognitive state → contribution quality → collective intelligence (bottom-up chain)"
-    - "Perceived Exertion (Body) vs Perceived Effort (Mind): the duality most knowledge workers collapse"
-    - "The Oasis Effect: novelty prevents cognitive stagnation, at individual and organisational scales"
-quote_top: "Your body isn't transport; it's your cognitive infrastructure."
-quote_bottom: "Move to think."
-origin_nodes: []
-valence: "mixed"
-friction: ""
 status: pending
+carousel_script: "You optimized your prompts for an hour; designed workflow and agent system while seated all day which may explain why later hours yielded poorer results as physical state directly modulates cognitive function indicating a need to optimise body position alongside software and workflows"
+categories: [pattern]
+custom_comment: |-
+  Nudge your brainpower by mixing up where and how you're working; change position every hour to unlock cognitive flow—your body isn't just a ride for thought, it's its fuel too.
+  
+  [LINK]
+description: "Your physical state shapes your cognitive output. Position is not ergonomics. It is architecture. The BODY layer comes first."
+display_subtitle: "You optimised your context window. You tuned your prompts. You didn't notice you've been sitting for four hours."
+fusion_nool: |-
+  nokkam: "Reframe physical state from ergonomic afterthought to foundational infrastructure: the BODY layer of cognition must be addressed before MIND or SOUL can function"
+    vadivam: "Pattern: Position-Place duality as the individual-scale equivalent of Mind-Body-Soul"
+    sangilai: "Reader re-evaluates their workspace and physical practices as architecture decisions, not comfort preferences"
+fusion_point: |-
+  ideas:
+      - "Position → cognitive state → contribution quality → collective intelligence (bottom-up chain)"
+      - "Perceived Exertion (Body) vs Perceived Effort (Mind): the duality most knowledge workers collapse"
+      - "The Oasis Effect: novelty prevents cognitive stagnation, at individual and organisational scales"
+fusion_type: public
+linkedin_post: |-
+  How does your brain produce insights when you're on an office chair all day? Movement reduces prefrontal cortex dominance and enables diffuse thinking that produces insight; prolonged sitting narrows cognitive bandwidth.
+  
+  **Save-Worthy Structural Breakdown:**
+  
+  1. Change position every 60-90 minutes
+  2. Alternate between standing, seated positions during meetings (every hour)
+  3. Rotate meeting locations weekly
+  
+  Your body is not just transportation for your brain but its power source – optimise physical state to maximise cognitive function. Your knowledge work isn't the same when you move.
+  
+  When was last time position changed? Neuroscience tells us prolonged stasis degrades alertness, movement restores bandwidth and novelty prevents habituation in both individuals and organisations.
+origin_nodes: []
+quote_bottom: "Move to think."
+quote_top: "Your body isn't transport; it's your cognitive infrastructure."
+source_research: "concepts/position-rotation/research.md"
+tags: [cognition, infrastructure, mbs_framework, workflow_protocols]
+valence: mixed
 ---
 
 # Body as Infrastructure

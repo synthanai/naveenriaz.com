@@ -1,75 +1,80 @@
 ---
 title: Dissent Suppression
-knot_number: 43
+date: 2026-03-17
+status: pending
+canonical_id: 20
+canonical_name: Dissent Suppression
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/043-dissent-suppression/
+description: "Speak words that have purpose. Never speak words without purpose...."
 domain: organizations
+episode: 7
+episode_title: Coherence Before Speed
+felt_hook: "They calculated the cost of speaking up, weighed it against the cost of staying quiet, and chose survival."
+knot_number: 43
+kural_bridge: |-
+  Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room.
+kural_number: 200
+kural_tamil: |-
+  சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க
+  
+    சொல்லிற் பயனிலாச் சொல்.
+kural_translation: "Speak words that have purpose; never speak words that serve none."
+linkedin_post: |-
+  The brightest idea was killed by silence.
+  
+  
+    Your team self-censors before speaking up.
+  
+  
+    Dissent feels dangerous. So it disappears.
+  
+  
+    Suppressed ideas resurface as "I told you so."
+  
+  
+    Innovation requires protected disagreement. Period.
+  
+  
+    Say: "what''s the unpopular view here?"
+  
+  
+    That missing voice? It had the answer. 🔪
+  
+  
+    #108KNOTS #UntanglingDecisions #Knot043
+  
+  
+    💡 Cultures where disagreement is safe #thrive.
+mbs_layer: MIND
+next_knot: "organizations/044-decision-fragmentation"
+next_knot_title: Decision Fragmentation
+origin_nodes: |-
+  - knots:042-decision-amnesia
+  - knots/organizations/042-decision-amnesia
+  - knots/organizations/044-decision-fragmentation
+prev_knot: "organizations/042-decision-amnesia"
+prev_knot_title: Decision Amnesia
+punch_line_1: "Speak words that have purpose. Never speak words without purpose."
+punch_line_2: |-
+  Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room.
+quote_bottom: "They go underground."
+quote_top: |-
+  The brightest idea was killed by silence.
+  
+    
+season: 1
+season_title: "The Org Before It Knows It's Sick"
 series: decisions
 series_number: 7
 slug_name: dissent-suppression
-date: 2026-03-17
-description: Speak words that have purpose. Never speak words without purpose....
-quote_top: 'The brightest idea was killed by silence.
-
-  Not by argument. Not by data.'
-quote_bottom: 'Suppressed ideas do not disappear.
-
-  They go underground.'
-punch_line_1: Speak words that have purpose. Never speak words without purpose.
-punch_line_2: 'Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room.'
-felt_hook: They calculated the cost of speaking up, weighed it against the cost of staying quiet, and chose survival.
-kural_tamil: 'சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க
-
-  சொல்லிற் பயனிலாச் சொல்.'
-kural_translation: Speak words that have purpose; never speak words that serve none.
-kural_number: 200
-kural_bridge: 'Dissent suppression inverts this: it silences the purposeful words and lets the purposeless ones fill the room.
-
-  '
-prev_knot: organizations/042-decision-amnesia
-prev_knot_title: Decision Amnesia
-next_knot: organizations/044-decision-fragmentation
-next_knot_title: Decision Fragmentation
-untie_story: A CEO made their decision-making criteria public. People stopped guessing what leadership valued and started
-  aligning.
-untie_question: What would change in your organisation if you untangled \"dissent suppression\" this week?
-origin_nodes:
-- knots:042-decision-amnesia
-- knots/organizations/042-decision-amnesia
-- knots/organizations/044-decision-fragmentation
+untie_question: 'What would change in your organisation if you untangled \"dissent suppression\" this week?'
+untie_story: |-
+  A CEO made their decision-making criteria public. People stopped guessing what leadership valued and started
+    aligning.
 valence: mixed
-status: pending
-linkedin_post: 'The brightest idea was killed by silence.
-
-
-  Your team self-censors before speaking up.
-
-
-  Dissent feels dangerous. So it disappears.
-
-
-  Suppressed ideas resurface as "I told you so."
-
-
-  Innovation requires protected disagreement. Period.
-
-
-  Say: "what''s the unpopular view here?"
-
-
-  That missing voice? It had the answer. 🔪
-
-
-  #108KNOTS #UntanglingDecisions #Knot043
-
-
-  💡 Cultures where disagreement is safe #thrive.'
-canonical_id: 20
-canonical_name: Dissent Suppression
-episode: 7
-episode_title: Coherence Before Speed
-mbs_layer: MIND
-season: 1
-season_title: The Org Before It Knows It's Sick
-youtube_series: '108 Knots: Organisations'
+youtube_series: |-
+  108 Knots: Organisations
 ---
 
 Speak words that have purpose. Never speak words without purpose.

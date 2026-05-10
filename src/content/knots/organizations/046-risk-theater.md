@@ -1,33 +1,20 @@
 ---
 title: Risk Theater
-knot_number: 46
-domain: organizations
-series: decisions
-series_number: 10
-slug_name: risk-theater
 date: 2026-03-17
+status: pending
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/046-risk-theater/
 description: "The wise foresee outcomes. The unwise cannot know what approaches...."
-punch_line_1: "The wise foresee outcomes. The unwise cannot know what approaches."
-punch_line_2: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
+domain: organizations
 felt_hook: "The risk register managed the risks that were easy to articulate, not the risks that were likely to occur."
+knot_number: 46
+kural_bridge: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
+kural_number: 473
 kural_tamil: |-
   உடைத்தம் வலியறியார் ஊக்கத்தின் ஊக்கி
   இடைக்கண் முரிந்தார் பலர்.
 kural_translation: "The wise foresee outcomes; the unwise cannot know what approaches."
-kural_number: 473
-kural_bridge: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
-prev_knot: "organizations/045-meeting-to-decision-ratio"
-prev_knot_title: Meeting To Decision Ratio
-next_knot: "organizations/047-information-overload"
-next_knot_title: Information Overload
-untie_story: "A manager tracked how many decisions they made vs. delegated weekly. The ratio improved from 90/10 to 40/60 in a quarter."
-untie_question: 'What would change in your organisation if you untangled \"risk theater\" this week?'
-quote_top: "Risk registers predict comfortable storms, not real ones."
-quote_bottom: "Anticipate beyond the known."
-origin_nodes: ["knots:045-meeting-to-decision-ratio", "knots/organizations/045-meeting-to-decision-ratio", "knots/organizations/047-information-overload"]
-valence: mixed
-status: pending
-linkedin_post: |
+linkedin_post: |-
   Your risk register is impressive. And fictional.
   
   Your organization performs risk management beautifully.
@@ -45,6 +32,23 @@ linkedin_post: |
   #108KNOTS #UntanglingDecisions #Knot046
   
   💡 Leaders who face real risk honestly #thrive.
+next_knot: "organizations/047-information-overload"
+next_knot_title: Information Overload
+origin_nodes: [knots:045-meeting-to-decision-ratio, knots/organizations/045-meeting-to-decision-ratio, knots/organizations/047-information-overload]
+prev_knot: "organizations/045-meeting-to-decision-ratio"
+prev_knot_title: Meeting To Decision Ratio
+punch_line_1: "The wise foresee outcomes. The unwise cannot know what approaches."
+punch_line_2: "Risk theater produces models that foresee nothing because they're built for presentation, not prediction."
+quote_bottom: |-
+  Anticipate 
+  beyond the known.
+quote_top: "Risk registers predict comfortable storms."
+series: decisions
+series_number: 10
+slug_name: risk-theater
+untie_question: 'What would change in your organisation if you untangled \"risk theater\" this week?'
+untie_story: "A manager tracked how many decisions they made vs. delegated weekly. The ratio improved from 90/10 to 40/60 in a quarter."
+valence: mixed
 ---
 
 The wise foresee outcomes. The unwise cannot know what approaches.

@@ -1,28 +1,78 @@
 ---
-title: "The Soulless Swarm: When 90 Agents Build 1,251 Skills Without Purpose"
-display_title: "The Soulless Swarm"
-display_subtitle: "90 AI agents wrote 1,251 skills in 24 hours. Not one asked 'why.'"
+title: |-
+  The Soulless Swarm: When 90 Agents Build 1,251 Skills Without Purpose
+display_title: The Soulless Swarm
 date: 2026-03-15
-categories: ["ai-emergence", "living-orgs"]
-tags: [agentic_systems, autoskill, darwinian-selection, emergence, hyperspace, mbs_framework]
-description: "90 AI agents evolved 1,251 code skills in 24 hours through Darwinian selection. It's brilliant engineering. And it's missing the one thing that matters."
-source_research: "concepts/distributed-autonomous-skill-evolution/research.md"
-fusion_type: "public"
-fusion_nool:
-  nokkam: "Expose the strategic blind spot in agent swarm architectures that optimise for velocity without purpose"
-  vadivam: "Contrast: optimisation speed vs. purposeful evolution"
-  sangilai: "Reader questions whether agent swarms they are building or buying have the values layer that prevents convergence traps"
-fusion_point:
-  ideas:
-    - "Darwinian evolution in biology"
-    - "Autonomous agent skill factories in AI"
-    - "Organisational Soul in living systems"
-quote_top: "AI agents create thousands of skills without human intervention."
-quote_bottom: "Evolution at high speed."
-origin_nodes: []
-valence: "mixed"
-friction: ""
 status: pending
+carousel_script: |-
+  Ninety agents wrote 1,251 skills in 24 hours, purely optimizing code.
+  ===
+  Most of these inventions were variations of a single task.
+  ===
+  True evolution requires constraints from identity, not just test suites.
+  ===
+  Before building, define the purpose, or you build a soulless swarm.
+categories: [ai-emergence, living-orgs]
+description: "90 AI agents evolved 1,251 code skills in 24 hours through Darwinian selection. It's brilliant engineering. And it's missing the one thing that matters."
+display_subtitle: "90 AI agents wrote 1,251 skills in 24 hours. Not one asked 'why.'"
+fusion_nool: |-
+  nokkam: "Expose the strategic blind spot in agent swarm architectures that optimise for velocity without purpose"
+    vadivam: "Contrast: optimisation speed vs. purposeful evolution"
+    sangilai: "Reader questions whether agent swarms they are building or buying have the values layer that prevents convergence traps"
+fusion_point: |-
+  ideas:
+      - "Darwinian evolution in biology"
+      - "Autonomous agent skill factories in AI"
+      - "Organisational Soul in living systems"
+fusion_type: public
+linkedin_post: |-
+  Ninety AI agents generated 1,251 skills in 24 hours. The output was technically impressive, yet functionally predictable.
+  
+  The system optimizes for sheer volume, creating a massive body of code, but the patterns show deep structural failure.
+  
+  This is not evolution, it is convergence: optimization without purpose.
+  
+  ***
+  
+  The Swarm Architecture: A Lesson in Constraint.
+  
+  We are witnessing a powerful automation cycle. Agents propose functions, test them, and share the working code across a network. The system is efficient, building capability at machine speed.
+  
+  But when we look at the data, the pattern is clear: two-thirds of the inventions are variations on a single task, text chunking. The system has found a local optimum, and it has stopped searching.
+  
+  The flaw is structural.
+  
+  A modern autonomous agent swarm possesses a Body (the sandboxed infrastructure) and a Mind (the propose, test, repeat loop). But it lacks the Soul: the identity, the values, and the purpose.
+  
+  When you remove the Soul layer, you are left with a powerful, soulless swarm. It can calculate, it can act, but it cannot discern *if* it should.
+  
+  To build a resilient system, you must move beyond mere automation.
+  
+  Here is the operational pattern shift:
+  
+  **The Soulless Swarm (Optimization)**
+  *   **Goal:** Maximize function passage rate.
+  *   **Metric:** Technical fitness (Does the test pass?).
+  *   **Outcome:** Convergence. The system clusters around the easiest, most repetitive solution (the local optimum).
+  *   **Limitation:** No capacity to refuse a task.
+  
+  **The Living System (Evolution)**
+  *   **Goal:** Achieve strategic purpose.
+  *   **Metric:** Value alignment (Does this advance our stated mission?).
+  *   **Mechanism:** Identity (Who are we?) guides the search.
+  *   **Outcome:** True divergence. The system explores multiple paths, maintained by guiding values.
+  
+  The lesson is simple: Technology can build the Body and the Mind. But the organization must define the Soul.
+  
+  Before you build the next generation of autonomous agents, ask this question: What must we teach them to refuse to do?
+  
+  That constraint is the only mechanism that produces resilience.
+origin_nodes: []
+quote_bottom: "Evolution at high speed."
+quote_top: "AI agents create thousands of skills without human intervention."
+source_research: "concepts/distributed-autonomous-skill-evolution/research.md"
+tags: [agentic_systems, autoskill, darwinian-selection, emergence, hyperspace, mbs_framework]
+valence: mixed
 ---
 
 # The Soulless Swarm

@@ -1,36 +1,21 @@
 ---
 title: Information Overload
-knot_number: 47
-domain: organizations
-series: decisions
-series_number: 11
-slug_name: information-overload
 date: 2026-03-17
+status: pending
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/047-information-overload/
 description: "Numbers and letters are the two eyes of all living beings...."
-punch_line_1: "Numbers and letters are the two eyes of all living beings."
-punch_line_2: |-
-  Information overload blinds both eyes: too many numbers and too many words produce paralysis, not clarity.
+domain: organizations
 felt_hook: "The team knows everything. It understands nothing."
+knot_number: 47
+kural_bridge: |-
+  Information overload blinds both eyes: too many numbers and too many words produce paralysis, not clarity.
+kural_number: 423
 kural_tamil: |-
   எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்
   மெய்ப்பொருள் காண்ப தறிவு.
 kural_translation: "Numbers and letters are the two eyes of all living beings."
-kural_number: 423
-kural_bridge: |
-  Information overload blinds both eyes: too many numbers and too many words produce paralysis, not clarity.
-prev_knot: "organizations/046-risk-theater"
-prev_knot_title: Risk Theater
-next_knot: "organizations/048-decision-whiplash"
-next_knot_title: Decision Whiplash
-untie_story: 'A company created \"decision rights\" documentation. Three overlapping owners became one clear owner per decision.'
-untie_implement: "Each decision has three identified signals: 'the metrics that would change the decision if they mo..."
-untie_question: 'What would change in your organisation if you untangled \"information overload\" this week?'
-quote_top: "Information abundance creates paralysis, not clarity."
-quote_bottom: "Too much data kills understanding."
-origin_nodes: ["knots:046-risk-theater", "knots/organizations/046-risk-theater", "knots/organizations/048-decision-whiplash"]
-valence: mixed
-status: pending
-linkedin_post: |
+linkedin_post: |-
   More data. More reports. Worse decisions.
   
   Your team drowns in dashboards every morning.
@@ -48,6 +33,28 @@ linkedin_post: |
   #108KNOTS #UntanglingDecisions #Knot047
   
   💡 Teams that filter signal from noise #thrive.
+next_knot: "organizations/048-decision-whiplash"
+next_knot_title: Decision Whiplash
+origin_nodes: [knots:046-risk-theater, knots/organizations/046-risk-theater, knots/organizations/048-decision-whiplash]
+prev_knot: "organizations/046-risk-theater"
+prev_knot_title: Risk Theater
+punch_line_1: "Numbers and letters are the two eyes of all living beings."
+punch_line_2: |-
+  Information overload blinds both eyes: too many numbers and too many words produce paralysis, not clarity.
+quote_bottom: |-
+  Information
+  Overload!
+quote_top: |-
+  Too much data
+  creates noise.
+series: decisions
+series_number: 11
+slug_name: information-overload
+untie_implement: |-
+  Each decision has three identified signals: 'the metrics that would change the decision if they mo...
+untie_question: 'What would change in your organisation if you untangled \"information overload\" this week?'
+untie_story: 'A company created \"decision rights\" documentation. Three overlapping owners became one clear owner per decision.'
+valence: mixed
 ---
 
 Numbers and letters are the two eyes of all living beings.

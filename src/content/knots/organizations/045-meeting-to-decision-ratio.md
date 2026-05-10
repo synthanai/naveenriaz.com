@@ -1,69 +1,71 @@
 ---
 title: Meeting To Decision Ratio
-knot_number: 45
+date: 2026-03-17
+status: pending
+canonical_id: 26
+canonical_name: Meeting-to-Decision Ratio
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/045-meeting-to-decision-ratio/
+description: "An enterprise that destroys its capital while seeking gain is the death of initi..."
 domain: organizations
+episode: 9
+episode_title: Vision Before Vanity
+felt_hook: "You left every meeting with more questions, fewer answers, and a follow-up on the calendar."
+knot_number: 45
+kural_bridge: "Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment."
+kural_number: 666
+kural_tamil: |-
+  எண்ணிய எண்ணியாங்கு எய்துவர் எண்ணியார்
+  
+    திண்ணியர் ஆகப் பெறின்.
+kural_translation: "An enterprise that destroys its capital while seeking gain is the death of initiative."
+linkedin_post: |-
+  Fourteen meetings. Zero decisions. Last month.
+  
+    Your calendar is dense. Your output isn't.
+  
+    Meetings feel productive. They''re not. Usually.
+  
+    Activity replaces output. Nobody notices the difference.
+  
+    Decisions per meeting is your real KPI.
+  
+    End every meeting with: "what did we decide?"
+  
+    That ratio? It reveals the truth. 🔪
+  
+    #108KNOTS #UntanglingDecisions #Knot045
+    💡 Organizations that decide in meetings #thrive.
+mbs_layer: MIND
+next_knot: "organizations/046-risk-theater"
+next_knot_title: Risk Theater
+origin_nodes: |-
+  - knots:044-decision-fragmentation
+  - knots/organizations/044-decision-fragmentation
+  - knots/organizations/046-risk-theater
+prev_knot: "organizations/044-decision-fragmentation"
+prev_knot_title: Decision Fragmentation
+punch_line_1: "An enterprise that destroys its capital while seeking gain is the death of initiative."
+punch_line_2: "Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment."
+quote_bottom: |-
+  Anything more than 2 
+  is mostly friction.
+quote_top: |-
+  What is your
+  meeting-to-decision 
+  ratio?
+season: 1
+season_title: "The Org Before It Knows It's Sick"
 series: decisions
 series_number: 9
 slug_name: meeting-to-decision-ratio
-date: 2026-03-17
-description: An enterprise that destroys its capital while seeking gain is the death of initi...
-punch_line_1: An enterprise that destroys its capital while seeking gain is the death of initiative.
-punch_line_2: Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment.
-felt_hook: You left every meeting with more questions, fewer answers, and a follow-up on the calendar.
-kural_tamil: 'எண்ணிய எண்ணியாங்கு எய்துவர் எண்ணியார்
-
-  திண்ணியர் ஆகப் பெறின்.'
-kural_translation: An enterprise that destroys its capital while seeking gain is the death of initiative.
-kural_number: 666
-kural_bridge: Fourteen meetings that produce zero decisions destroy the capital of attention while seeking the gain of alignment.
-prev_knot: organizations/044-decision-fragmentation
-prev_knot_title: Decision Fragmentation
-next_knot: organizations/046-risk-theater
-next_knot_title: Risk Theater
-untie_story: A school board created a \"student impact test\" for every policy decision. Three pending policies were reversed.
-untie_implement: 'Track one metric this week: ''did each meeting produce a decision?'
-untie_question: What would change in your organisation if you untangled \"meeting to decision ratio\" this week?
-quote_top: Activity consuming more than it produces is organizational death.
-quote_bottom: Exhaustion isn't output.
-origin_nodes:
-- knots:044-decision-fragmentation
-- knots/organizations/044-decision-fragmentation
-- knots/organizations/046-risk-theater
+untie_implement: |-
+  Track one metric this week: ''did each meeting produce a decision?
+untie_question: 'What would change in your organisation if you untangled \"meeting to decision ratio\" this week?'
+untie_story: 'A school board created a \"student impact test\" for every policy decision. Three pending policies were reversed.'
 valence: mixed
-status: pending
-linkedin_post: 'Fourteen meetings. Zero decisions. Last month.
-
-
-  Your calendar is dense. Your output isn''t.
-
-
-  Meetings feel productive. They''re not. Usually.
-
-
-  Activity replaces output. Nobody notices the difference.
-
-
-  Decisions per meeting is your real KPI.
-
-
-  End every meeting with: "what did we decide?"
-
-
-  That ratio? It reveals the truth. 🔪
-
-
-  #108KNOTS #UntanglingDecisions #Knot045
-
-
-  💡 Organizations that decide in meetings #thrive.'
-canonical_id: 26
-canonical_name: Meeting-to-Decision Ratio
-episode: 9
-episode_title: Vision Before Vanity
-mbs_layer: MIND
-season: 1
-season_title: The Org Before It Knows It's Sick
-youtube_series: '108 Knots: Organisations'
+youtube_series: |-
+  108 Knots: Organisations
 ---
 
 An enterprise that destroys its capital while seeking gain is the death of initiative.
