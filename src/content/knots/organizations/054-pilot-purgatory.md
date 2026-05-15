@@ -1,71 +1,82 @@
 ---
 title: Pilot Purgatory
-knot_number: 54
+date: 2026-03-17
+status: pending
+canonical_id: 57
+canonical_name: The Launch Without Landing
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/054-pilot-purgatory/
+description: "Those who plan with resolve achieve exactly what they envision...."
 domain: organizations
+episode: 19
+episode_title: Behavior Before Programme
+felt_hook: "The conditions for a pilot are never the conditions for an organisation."
+knot_number: 54
+kural_bridge: |-
+  Pilot purgatory is what happens when planning stops at the proof of concept. The resolve to scale was never
+    part of the plan.
+kural_number: 637
+kural_tamil: |-
+  செயற்கை அறிந்தக் கடைத்தும் உலகத்து
+  
+    இயற்கை அறிந்து செயல்.
+kural_translation: "Those who plan with resolve achieve exactly what they envision."
+linkedin_post: |-
+  Three years ago, the pilot worked perfectly.
+  
+    Your proof of concept never scaled beyond it.
+  
+    The gap between pilot and organization: culture.
+  
+    Scaling isn't repetition. It's system-level change.
+  
+    What works small fails large for different reasons.
+  
+    Before scaling, ask: "what conditions made this work?"
+  
+    What would change if you named it?
+  
+    #108KNOTS #UntanglingChange #Knot054
+   💡 Teams that scale what works deliberately #thrive.
+mbs_layer: BODY
+next_knot: "organizations/055-sponsorship-evaporation"
+next_knot_title: Sponsorship Evaporation
+origin_nodes: |-
+  - knots:053-initiative-overload
+  - knots/organizations/053-initiative-overload
+  - knots/organizations/055-sponsorship-evaporation
+prev_knot: "organizations/053-initiative-overload"
+prev_knot_title: Initiative Overload
+punch_line_1: "Those who plan with resolve achieve exactly what they envision."
+punch_line_2: |-
+  Pilot purgatory is what happens when planning stops at the proof of concept. The resolve to scale was never
+    part of the plan.
+quote_bottom: |-
+  Stop growing 
+  the petri dish.
+quote_top: |-
+  Scale requires 
+  ecosystem adaptation.
+season: 3
+season_title: "The Interventions That Don't Work"
 series: change
 series_number: 6
 slug_name: pilot-purgatory
-date: 2026-03-17
-description: Those who plan with resolve achieve exactly what they envision....
-punch_line_1: Those who plan with resolve achieve exactly what they envision.
-punch_line_2: Pilot purgatory is what happens when planning stops at the proof of concept. The resolve to scale was never
-  part of the plan.
-felt_hook: The conditions for a pilot are never the conditions for an organisation.
-kural_tamil: 'செயற்கை அறிந்தக் கடைத்தும் உலகத்து
-
-  இயற்கை அறிந்து செயல்.'
-kural_translation: Those who plan with resolve achieve exactly what they envision.
-kural_number: 637
-kural_bridge: Pilot purgatory is what happens when planning stops at the proof of concept. The resolve to scale was never
-  part of the plan.
-prev_knot: organizations/053-initiative-overload
-prev_knot_title: Initiative Overload
-next_knot: organizations/055-sponsorship-evaporation
-next_knot_title: Sponsorship Evaporation
-untie_story: A CEO shared their own fears about the change in a town hall. The vulnerability unlocked honesty across the organisation.
-untie_implement: 'Ask your pilot lead: ''what conditions does this need at scale that we can''t guarantee?'
-untie_question: What would change in your organisation if you untangled \"pilot purgatory\" this week?
-quote_top: Pilot success doesn't predict field survival. Scale requires ecosystem adaptation.
-quote_bottom: Stop growing the petri dish.
-origin_nodes:
-- knots:053-initiative-overload
-- knots/organizations/053-initiative-overload
-- knots/organizations/055-sponsorship-evaporation
+untie_implement: |-
+  Ask your pilot lead: ''what conditions does this need at scale that we can''t guarantee?
+untie_question: 'What would change in your organisation if you untangled \"pilot purgatory\" this week?'
+untie_story: "A CEO shared their own fears about the change in a town hall. The vulnerability unlocked honesty across the organisation."
 valence: mixed
-status: pending
-linkedin_post: 'Three years ago, the pilot worked perfectly.
-
-
-  Your proof of concept never scaled beyond it.
-
-
-  The gap between pilot and organization: culture.
-
-
-  Scaling isn''t repetition. It''s system-level change.
-
-
-  What works small fails large for different reasons.
-
-
-  Before scaling, ask: "what conditions made this work?"
-
-
-  What would change if you named it?
-
-
-  #108KNOTS #UntanglingChange #Knot054
-
-
-  💡 Teams that scale what works deliberately #thrive.'
-canonical_id: 57
-canonical_name: The Launch Without Landing
-episode: 19
-episode_title: Behavior Before Programme
-mbs_layer: BODY
-season: 3
-season_title: The Interventions That Don't Work
-youtube_series: '108 Knots: Organisations'
+x_post: |-
+  Pilot success ≠ Organizational success. 🚨
+  
+  The gap isn't process; it's culture. Scaling requires system-level change, not repetition.
+  
+  Before scaling, you must diagnose the 'conditions of success.' What made it work in the pilot? What changes if you formalize it? 🤔
+  
+  #UntanglingChange #Knot054
+youtube_series: |-
+  108 Knots: Organisations
 ---
 
 Those who plan with resolve achieve exactly what they envision.

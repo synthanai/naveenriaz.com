@@ -1,69 +1,73 @@
 ---
 title: Resistance Misdiagnosis
-knot_number: 51
+date: 2026-03-17
+status: pending
+canonical_id: 60
+canonical_name: Resistance Misdiagnosis
+custom_comment: |-
+  🪢 Read this knot: https://naveenriaz.com/knots/organizations/051-resistance-misdiagnosis/
+description: "Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisel..."
 domain: organizations
+episode: 20
+episode_title: Emergence Before Installation
+felt_hook: "The resistance isn't the problem. It's the diagnosis."
+knot_number: 51
+kural_bridge: "Change resistance is a symptom. Misdiagnosis treats the symptom (people) while ignoring the origin (system)."
+kural_number: 948
+kural_tamil: |-
+  நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்
+  
+    வாய்நாடி வாய்ப்பச் செயல்.
+kural_translation: "Diagnose the disease, trace its origin, find the right remedy, and apply it precisely."
+linkedin_post: |-
+  Three years ago, the old system worked.
+  
+  Your team still uses the old process.
+   
+  Change arrived. Adoption didn't. They're different.
+  
+  Resistance isn't stubbornness. It's unanswered questions.
+  
+  People resist what they don't understand.
+  
+  Explain the WHY before the WHAT.
+  
+  That resistance? It's a request for meaning. ⏳
+  
+  #108KNOTS #UntanglingChange #Knot051
+  Leaders who listen to resistance #thrive.
+mbs_layer: BODY
+next_knot: "organizations/052-momentum-decay"
+next_knot_title: Momentum Decay
+origin_nodes: |-
+  - knots:050-transformation-theater
+  - knots/organizations/050-transformation-theater
+  - knots/organizations/052-momentum-decay
+prev_knot: "organizations/050-transformation-theater"
+prev_knot_title: Transformation Theater
+punch_line_1: "Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely."
+punch_line_2: "Change resistance is a symptom. Misdiagnosis treats the symptom (people) while ignoring the origin (system)."
+quote_bottom: "Diagnose it."
+quote_top: "Resistance is a symptom. "
+season: 3
+season_title: "The Interventions That Don't Work"
 series: change
 series_number: 3
 slug_name: resistance-misdiagnosis
-date: 2026-03-17
-description: Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisel...
-punch_line_1: Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely.
-punch_line_2: Change resistance is a symptom. Misdiagnosis treats the symptom (people) while ignoring the origin (system).
-felt_hook: The resistance isn't the problem. It's the diagnosis.
-kural_tamil: 'நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்
-
-  வாய்நாடி வாய்ப்பச் செயல்.'
-kural_translation: Diagnose the disease, trace its origin, find the right remedy, and apply it precisely.
-kural_number: 948
-kural_bridge: Change resistance is a symptom. Misdiagnosis treats the symptom (people) while ignoring the origin (system).
-prev_knot: organizations/050-transformation-theater
-prev_knot_title: Transformation Theater
-next_knot: organizations/052-momentum-decay
-next_knot_title: Momentum Decay
-untie_story: A team created a \"change fatigue thermometer\" visible to leadership. When it hit red, they paused and recovered.
-untie_implement: 'Ask the three most resistant people: ''what would need to be true for this change to work for you?'
-untie_question: What would change in your organisation if you untangled \"resistance misdiagnosis\" this week?
-quote_top: Resistance is a symptom, not the disease. Diagnose it.
-quote_bottom: Painkillers hide problems
-origin_nodes:
-- knots:050-transformation-theater
-- knots/organizations/050-transformation-theater
-- knots/organizations/052-momentum-decay
+untie_implement: |-
+  Ask the three most resistant people: ''what would need to be true for this change to work for you?
+untie_question: 'What would change in your organisation if you untangled \"resistance misdiagnosis\" this week?'
+untie_story: 'A team created a \"change fatigue thermometer\" visible to leadership. When it hit red, they paused and recovered.'
 valence: mixed
-status: pending
-linkedin_post: 'Three years ago, the old system worked.
-
-
-  Your team still uses the old process.
-
-
-  Change arrived. Adoption didn''t. They''re different.
-
-
-  Resistance isn''t stubbornness. It''s unanswered questions.
-
-
-  People resist what they don''t understand.
-
-
-  Explain the WHY before the WHAT.
-
-
-  That resistance? It''s a request for meaning. ⏳
-
-
-  #108KNOTS #UntanglingChange #Knot051
-
-
-  💡 Leaders who listen to resistance #thrive.'
-canonical_id: 60
-canonical_name: Resistance Misdiagnosis
-episode: 20
-episode_title: Emergence Before Installation
-mbs_layer: BODY
-season: 3
-season_title: The Interventions That Don't Work
-youtube_series: '108 Knots: Organisations'
+x_post: |-
+  The old system worked. The new one arrived. Adoption stalled. 🛑
+  
+  Myth: Resistance = Stubbornness.
+  Reality: Resistance = Unanswered Questions.
+  
+  People don't resist change; they resist uncertainty. They need meaning. Always explain the WHY before the WHAT. That 'resistance' is just a request for clarity. #ChangeManagement #Leadership
+youtube_series: |-
+  108 Knots: Organisations
 ---
 
 Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely.
