@@ -1,0 +1,33 @@
+# Build output
+node_modules/
+dist/
+.astro/
+
+# Secrets (this repo is PUBLIC)
+.env
+.env.*
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# SYNTHAI Governance (this repo is PUBLIC, governance lives in master repo)
+NOOL.md
+LOON.md
+COLLISION-STANDARD.md
+.agent/
+
+# Maintenance scripts (belong in master repo ops/)
+*.py
+*.spec.js
+test-results/
+
+# Logs and crash dumps
+*.log
+publish_crash_log.txt

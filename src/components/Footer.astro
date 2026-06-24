@@ -1,0 +1,184 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer" id="site-footer">
+  <div class="footer-slogan">
+    Everything we build is <span class="tamil">Alive!</span>
+    Nurture its <span class="c-mind">Mind</span>,
+    <span class="c-body">Body</span> &amp;
+    <span class="c-soul">Soul</span>. Watch it <span class="tamil">Thrive!</span
+    >
+  </div>
+
+  <div class="footer-inner">
+    <a href="/" class="footer-brand" aria-label="Home">
+      <img
+        src="/logo.svg"
+        class="footer-logo"
+        width="24"
+        height="24"
+        alt=""
+        aria-hidden="true"
+      />
+      <span class="footer-name">Naveen Riaz</span>
+    </a>
+
+    <div class="footer-links">
+      <a
+        href="https://www.linkedin.com/in/mnaveenriaz/"
+        target="_blank"
+        rel="noopener">LinkedIn</a
+      >
+      <a href="https://github.com/synthanai" target="_blank" rel="noopener"
+        >GitHub</a
+      >
+      <a href="/about/">About</a>
+    </div>
+
+    <div class="footer-meta">
+      <span class="footer-views" id="page-views" title="Page views"></span>
+      <span class="footer-copy">&copy; {year} Naveen Riaz</span>
+    </div>
+  </div>
+</footer>
+
+<!-- GoatCounter view count -->
+<script is:inline>
+  if (window.goatcounter && window.goatcounter.visit_count) {
+    window.goatcounter.visit_count({ append: "#page-views" });
+  } else {
+    window.addEventListener("gc:ready", function () {
+      if (window.goatcounter && window.goatcounter.visit_count) {
+        window.goatcounter.visit_count({ append: "#page-views" });
+      }
+    });
+  }
+</script>
+
+<style>
+  .site-footer {
+    position: sticky;
+    bottom: 0;
+    z-index: 90;
+    background: var(--bg-primary);
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    padding: var(--space-md) var(--space-xl);
+  }
+
+  .footer-slogan {
+    max-width: var(--max-width);
+    margin: 0 auto var(--space-md);
+    text-align: center;
+    font-family: var(--font-heading);
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    letter-spacing: 0.02em;
+  }
+
+  .footer-inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-lg);
+  }
+
+  .footer-brand {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    text-decoration: none;
+  }
+
+  .footer-brand:hover {
+    text-decoration: none;
+  }
+
+  .footer-logo {
+    opacity: 0.7;
+    transition: opacity var(--transition-fast);
+  }
+
+  .footer-brand:hover .footer-logo {
+    opacity: 1;
+  }
+
+  .footer-name {
+    font-family: var(--font-heading);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    letter-spacing: -0.01em;
+  }
+
+  .footer-links {
+    display: flex;
+    gap: var(--space-lg);
+  }
+
+  .footer-links a {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    transition: color var(--transition-fast);
+  }
+
+  .footer-links a:hover {
+    color: var(--accent);
+  }
+
+  .footer-meta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+  }
+
+  .footer-views {
+    font-size: 0.65rem;
+    color: var(--text-dim);
+    font-family: var(--font-label);
+    letter-spacing: 0.05em;
+  }
+
+  .footer-views:empty {
+    display: none;
+  }
+
+  .footer-copy {
+    font-size: 0.7rem;
+    color: var(--text-dim);
+  }
+
+  /* ── Mobile ────────────────────────────────────── */
+  @media (max-width: 768px) {
+    .site-footer {
+      position: relative;
+      bottom: auto;
+      padding: var(--space-lg) var(--space-md);
+      margin-bottom: 64px; /* Space for bottom tab bar */
+    }
+
+    .footer-slogan {
+      font-size: 0.7rem;
+      line-height: 1.6;
+    }
+
+    .footer-inner {
+      flex-direction: column;
+      gap: var(--space-sm);
+      text-align: center;
+    }
+
+    .footer-links {
+      gap: var(--space-md);
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .footer-meta {
+      flex-direction: column;
+      gap: var(--space-xs);
+    }
+  }
+</style>

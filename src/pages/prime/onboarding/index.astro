@@ -1,0 +1,252 @@
+---
+import PrimeLayout from '../../../layouts/PrimeLayout.astro';
+---
+
+<PrimeLayout title="Prime Onboarding | Choose Your Path">
+  <div class="onboarding-hub">
+    <header class="hub-header">
+      <span class="hub-badge">PRIME INITIATION</span>
+      <h1 class="hub-title">Choose Your Path</h1>
+      <p class="hub-sub">Every sovereign begins with self-knowledge. Choose the depth of your excavation.</p>
+    </header>
+
+    <div class="tier-grid">
+      <!-- Spark (Free) -->
+      <a href="/prime/onboarding/mirror" class="tier-card spark">
+        <div class="tier-icon">🪞</div>
+        <div class="tier-badge">FREE</div>
+        <h2 class="tier-name">The Mirror</h2>
+        <p class="tier-time">2 minutes</p>
+        <p class="tier-desc">3 questions. 1 blind spot revealed. See your critical leak instantly.</p>
+        <ul class="tier-features">
+          <li>3 core dimensions (Body, Mind, Soul)</li>
+          <li>Instant shock analysis</li>
+          <li>Your #1 leak identified</li>
+        </ul>
+        <div class="tier-cta">Look in the Mirror</div>
+      </a>
+
+      <!-- Standard (Self-Serve) -->
+      <a href="/prime/onboarding/flame" class="tier-card standard">
+        <div class="tier-icon">🔥</div>
+        <div class="tier-badge">STANDARD</div>
+        <h2 class="tier-name">The Flame</h2>
+        <p class="tier-time">30 minutes</p>
+        <p class="tier-desc">Full 9-dimension wealth matrix. Map your trajectory across past, present, and future.</p>
+        <ul class="tier-features">
+          <li>9 wealth dimensions × 3 time periods</li>
+          <li>Narrative excavation on shock areas</li>
+          <li>Identity blueprint (MBTI, Human Design)</li>
+          <li>Immediate shock reward</li>
+        </ul>
+        <div class="tier-cta">Enter the Excavation</div>
+      </a>
+
+      <!-- Deep (Premium) -->
+      <a href="/prime/onboarding/sovereign" class="tier-card deep featured">
+        <div class="tier-icon">👑</div>
+        <div class="tier-featured-tag">RECOMMENDED</div>
+        <div class="tier-badge">PREMIUM</div>
+        <h2 class="tier-name">The Sovereign</h2>
+        <p class="tier-time">3 days (Mon / Wed / Fri)</p>
+        <p class="tier-desc">The full initiation ritual. Excavation, confrontation, somatic mapping, and declaration. Coach-reviewed.</p>
+        <ul class="tier-features">
+          <li>Everything in The Flame</li>
+          <li>Wednesday Resonance (confrontation + body scan)</li>
+          <li>Friday Reveal (Aura Map + Legacy Brief)</li>
+          <li>Personal declaration ceremony</li>
+          <li>Coach Naveen reviews your chronicle</li>
+          <li>Session 1 preparation brief</li>
+        </ul>
+        <div class="tier-cta">Begin the Initiation</div>
+      </a>
+    </div>
+  </div>
+
+  <style>
+    .onboarding-hub {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 4rem 1.5rem;
+    }
+
+    .hub-header {
+      text-align: center;
+      margin-bottom: 4rem;
+    }
+
+    .hub-badge {
+      display: inline-block;
+      font-size: 0.6rem;
+      font-weight: 900;
+      letter-spacing: 0.2em;
+      color: var(--p-gold);
+      background: rgba(212, 168, 67, 0.1);
+      padding: 6px 20px;
+      border-radius: 100px;
+      margin-bottom: 1.5rem;
+    }
+
+    .hub-title {
+      font-size: clamp(2.5rem, 7vw, 3.5rem);
+      font-weight: 950;
+      letter-spacing: -0.04em;
+      background: linear-gradient(135deg, #fff 0%, var(--p-gold) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 0.75rem;
+    }
+
+    .hub-sub {
+      color: var(--p-t3);
+      font-size: 1.1rem;
+      max-width: 500px;
+      margin: 0 auto;
+      line-height: 1.5;
+    }
+
+    .tier-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      align-items: stretch;
+    }
+
+    @media (max-width: 768px) {
+      .tier-grid { grid-template-columns: 1fr; }
+    }
+
+    .tier-card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      padding: 2.5rem 2rem;
+      background: rgba(255,255,255,0.02);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 24px;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .tier-card:hover {
+      background: rgba(255,255,255,0.04);
+      transform: translateY(-4px);
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    }
+
+    .tier-card.featured {
+      border-color: var(--p-gold);
+      background: rgba(212, 168, 67, 0.04);
+    }
+
+    .tier-card.featured:hover {
+      box-shadow: 0 20px 60px rgba(212, 168, 67, 0.15);
+    }
+
+    .tier-featured-tag {
+      position: absolute;
+      top: -12px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 0.55rem;
+      font-weight: 900;
+      letter-spacing: 0.2em;
+      color: #000;
+      background: var(--p-gold);
+      padding: 4px 16px;
+      border-radius: 100px;
+    }
+
+    .tier-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .tier-badge {
+      font-size: 0.55rem;
+      font-weight: 900;
+      letter-spacing: 0.2em;
+      color: var(--p-t3);
+      margin-bottom: 0.75rem;
+    }
+
+    .tier-name {
+      font-size: 1.6rem;
+      font-weight: 900;
+      color: #fff;
+      margin-bottom: 0.25rem;
+    }
+
+    .tier-time {
+      font-size: 0.75rem;
+      color: var(--p-gold);
+      font-weight: 700;
+      margin-bottom: 1.25rem;
+    }
+
+    .tier-desc {
+      font-size: 0.95rem;
+      color: var(--p-t2);
+      line-height: 1.5;
+      margin-bottom: 1.5rem;
+      flex: 1;
+    }
+
+    .tier-features {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 2rem 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .tier-features li {
+      font-size: 0.8rem;
+      color: var(--p-t3);
+      padding-left: 1.25rem;
+      position: relative;
+    }
+
+    .tier-features li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: var(--p-gold);
+      font-weight: 900;
+      font-size: 0.7rem;
+    }
+
+    .tier-cta {
+      width: 100%;
+      padding: 1.25rem;
+      border-radius: 16px;
+      text-align: center;
+      font-weight: 800;
+      font-size: 0.9rem;
+      transition: all 0.2s;
+    }
+
+    .spark .tier-cta {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      color: #fff;
+    }
+
+    .standard .tier-cta {
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.15);
+      color: #fff;
+    }
+
+    .deep .tier-cta {
+      background: var(--p-gold);
+      color: #000;
+    }
+
+    .tier-card:hover .tier-cta {
+      transform: scale(1.02);
+    }
+  </style>
+</PrimeLayout>

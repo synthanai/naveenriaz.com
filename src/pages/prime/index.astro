@@ -1,0 +1,308 @@
+---
+import PrimeLayout from '../../layouts/PrimeLayout.astro';
+---
+
+<PrimeLayout title="Daily Prime">
+  <header>
+    <div class="subtitle">THE METHOD GUIDE</div>
+    <h1><span class="gt">NANO</span>PRIME</h1>
+  </header>
+
+  <section class="board">
+    <div class="board-header">
+      <div class="date-row">
+        <span id="date-display">Today</span>
+        <button id="toggle-cycle">Day <span id="cycle-day">1</span></button>
+      </div>
+      <div id="rotation-hint" class="hint">Soul × Discover &bull; Mind × Decide &bull; Body × Deliver</div>
+    </div>
+
+    <form id="prime-form">
+      <!-- SOUL -->
+      <div class="row" id="row-soul">
+        <div class="label-col">
+          <div class="layer soul">SOUL</div>
+          <div class="action" id="action-soul">Purpose</div>
+        </div>
+        <div class="input-col">
+          <input type="text" id="input-soul" placeholder="..." required autocomplete="off" />
+        </div>
+      </div>
+
+      <!-- MIND -->
+      <div class="row" id="row-mind">
+        <div class="label-col">
+          <div class="layer mind">MIND</div>
+          <div class="action" id="action-mind">Judgment</div>
+        </div>
+        <div class="input-col">
+          <input type="text" id="input-mind" placeholder="..." required autocomplete="off" />
+        </div>
+      </div>
+
+      <!-- BODY -->
+      <div class="row" id="row-body">
+        <div class="label-col">
+          <div class="layer body">BODY</div>
+          <div class="action" id="action-body">Execution</div>
+        </div>
+        <div class="input-col">
+          <input type="text" id="input-body" placeholder="..." required autocomplete="off" />
+        </div>
+      </div>
+
+      <button type="submit" class="submit-btn" id="save-btn">Prime Today</button>
+    </form>
+    
+    <div id="success-msg" style="display:none; text-align:center; padding: 2rem 0;">
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--p-gold)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+      <h3 style="font-family:'Outfit';font-weight:600;font-size:1.4rem;">Primed.</h3>
+      <p style="color:var(--p-t3);font-size:0.9rem;margin-top:0.5rem">See you tomorrow for Day <span id="next-day">2</span>.</p>
+    </div>
+  </section>
+
+  <script is:inline>
+    // Rotations based on 3-day cycle
+    const CYCLES = {
+      1: {
+        soul: { name: 'Purpose', color: 'var(--p-gold)' },
+        mind: { name: 'Judgment', color: 'var(--p-blue)' },
+        body: { name: 'Execution', color: 'var(--p-green)' },
+        hint: 'Soul × Discover &bull; Mind × Decide &bull; Body × Deliver'
+      },
+      2: {
+        soul: { name: 'Conviction', color: 'var(--p-gold)' },
+        mind: { name: 'Architecture', color: 'var(--p-blue)' },
+        body: { name: 'Sense', color: 'var(--p-green)' },
+        hint: 'Soul × Decide &bull; Mind × Deliver &bull; Body × Discover'
+      },
+      3: {
+        soul: { name: 'Commitment', color: 'var(--p-gold)' },
+        mind: { name: 'Insight', color: 'var(--p-blue)' },
+        body: { name: 'Discipline', color: 'var(--p-green)' },
+        hint: 'Soul × Deliver &bull; Mind × Discover &bull; Body × Decide'
+      }
+    };
+
+    // Date formatting
+    const today = new Date();
+    const options = { weekday: 'short', month: 'short', day: 'numeric' };
+    document.getElementById('date-display').textContent = today.toLocaleDateString('en-GB', options);
+
+    // State
+    const lsKey = 'nanoprime_entries';
+    let entries = JSON.parse(localStorage.getItem(lsKey) || '[]');
+    let currentDay = 1;
+
+    // Determine current day from last entry
+    if (entries.length > 0) {
+      const last = entries[entries.length - 1];
+      const lastDate = last.dateId; 
+      const todayId = today.toISOString().split('T')[0];
+      
+      if (lastDate === todayId) {
+        // Already primed today - show success
+        showSuccess(last.cycleDay);
+      } else {
+        // It's a new day, rotate cycle
+        currentDay = last.cycleDay === 3 ? 1 : last.cycleDay + 1;
+      }
+    }
+
+    function renderDay(day) {
+      document.getElementById('cycle-day').textContent = day;
+      const data = CYCLES[day];
+      
+      document.getElementById('action-soul').textContent = data.soul.name;
+      document.getElementById('input-soul').placeholder = `${data.soul.name} ...`;
+      
+      document.getElementById('action-mind').textContent = data.mind.name;
+      document.getElementById('input-mind').placeholder = `${data.mind.name} ...`;
+      
+      document.getElementById('action-body').textContent = data.body.name;
+      document.getElementById('input-body').placeholder = `${data.body.name} ...`;
+
+      document.getElementById('rotation-hint').innerHTML = data.hint;
+    }
+
+    function showSuccess(dayCompleted) {
+      document.getElementById('prime-form').style.display = 'none';
+      document.getElementById('success-msg').style.display = 'block';
+      document.getElementById('next-day').textContent = dayCompleted === 3 ? 1 : dayCompleted + 1;
+    }
+
+    renderDay(currentDay);
+
+    // Manual toggle for dev/editing
+    document.getElementById('toggle-cycle').addEventListener('click', () => {
+      currentDay = currentDay === 3 ? 1 : currentDay + 1;
+      renderDay(currentDay);
+    });
+
+    // Save
+    document.getElementById('prime-form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      
+      const entry = {
+        id: Date.now().toString(),
+        dateId: today.toISOString().split('T')[0],
+        timestamp: new Date().toISOString(),
+        cycleDay: currentDay,
+        soul: document.getElementById('input-soul').value,
+        mind: document.getElementById('input-mind').value,
+        body: document.getElementById('input-body').value
+      };
+
+      // Replace today's entry if testing, otherwise append
+      const existingIdx = entries.findIndex(x => x.dateId === entry.dateId);
+      if (existingIdx > -1) {
+        entries[existingIdx] = entry;
+      } else {
+        entries.push(entry);
+      }
+
+      localStorage.setItem(lsKey, JSON.stringify(entries));
+      showSuccess(currentDay);
+    });
+  </script>
+</PrimeLayout>
+
+<style>
+  header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .subtitle {
+    font-size: 0.65rem;
+    color: var(--p-gold);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  h1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    color: #fff;
+  }
+
+  .gt {
+    background: linear-gradient(135deg, var(--p-gold), var(--p-blue));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .board {
+    background: var(--p-bg2);
+    border: 1px solid var(--p-bdr);
+    border-radius: 16px;
+    padding: 1.5rem;
+    border-top: 3px solid var(--p-gold);
+    box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+  }
+
+  .board-header {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--p-bdr);
+    padding-bottom: 1rem;
+  }
+
+  .date-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+
+  #toggle-cycle {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid var(--p-bdr);
+    color: var(--p-t2);
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    cursor: pointer;
+  }
+
+  .hint {
+    font-size: 0.75rem;
+    color: var(--p-t3);
+    margin-top: 0.5rem;
+  }
+
+  .row {
+    margin-bottom: 1.5rem;
+    position: relative;
+  }
+
+  .label-col {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .layer {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .layer.soul { color: var(--p-gold); }
+  .layer.mind { color: var(--p-blue); }
+  .layer.body { color: var(--p-green); }
+
+  .action {
+    font-size: 1.1rem;
+    font-weight: 600;
+    font-family: 'Outfit', sans-serif;
+    color: var(--p-t1);
+  }
+
+  .input-col input {
+    width: 100%;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--p-bdr);
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.5rem 0;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .input-col input:focus {
+    outline: none;
+    border-bottom-color: var(--p-gold);
+  }
+
+  .input-col input::placeholder {
+    color: rgba(255,255,255,0.15);
+  }
+
+  .submit-btn {
+    width: 100%;
+    background: linear-gradient(135deg, var(--p-bg), var(--p-bg2));
+    border: 1px solid var(--p-bdr);
+    color: #fff;
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 1rem;
+    cursor: pointer;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);
+    transition: all 0.2s;
+  }
+
+  .submit-btn:active {
+    transform: translateY(2px);
+  }
+</style>

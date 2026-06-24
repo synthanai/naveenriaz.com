@@ -1,0 +1,37 @@
+---
+import { getCollection, render } from 'astro:content';
+import KnotLayout from '../../layouts/KnotLayout.astro';
+
+export async function getStaticPaths() {
+  const knots = await getCollection('knots');
+  return knots.map((knot) => ({
+    params: { slug: knot.id },
+    props: { knot },
+  }));
+}
+
+const { knot } = Astro.props;
+const { Content } = await render(knot);
+const d = knot.data;
+---
+
+<KnotLayout
+  title={d.title}
+  description={d.description}
+  knotNumber={d.knot_number}
+  series={d.series}
+  seriesNumber={d.series_number}
+  punchLine1={d.punch_line_1}
+  punchLine2={d.punch_line_2}
+  feltHook={d.felt_hook}
+  kuralTamil={d.kural_tamil}
+  kuralTranslation={d.kural_translation}
+  kuralNumber={d.kural_number}
+  kuralBridge={d.kural_bridge}
+  prevKnot={d.prev_knot}
+  prevKnotTitle={d.prev_knot_title}
+  nextKnot={d.next_knot}
+  nextKnotTitle={d.next_knot_title}
+>
+  <Content />
+</KnotLayout>

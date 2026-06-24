@@ -1,0 +1,17 @@
+{
+  "name": "NANOPRIME",
+  "short_name": "PRIME",
+  "start_url": "/prime/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "portrait",
+  "description": "3 Lines. 1 Minute. 9 Alignments. The Daily Prime.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

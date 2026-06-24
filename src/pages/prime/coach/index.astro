@@ -1,0 +1,59 @@
+---
+import PrimeLayout from '../../../layouts/PrimeLayout.astro';
+import { DashboardOverview } from '../../../components/prime/onboarding/DashboardOverview';
+
+---
+
+<PrimeLayout title="Shadow Command: Prime Audit">
+  <div class="shadow-command-page">
+    
+    <header class="shadow-header">
+      <div class="auth-warning">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="var(--p-gold)">
+          <path d="M12 2L1 21h22L12 2zm0 3.99L19.53 19H4.47L12 5.99zM11 16h2v2h-2v-2zm0-6h2v4h-2v-4z" />
+        </svg>
+        <span>SOVEREIGN ACCESS ONLY // AUTH LEVEL: TRANSYMTOR</span>
+      </div>
+    </header>
+
+    <div class="dashboard-root">
+      {/* Root for the React Dashboard */}
+      <DashboardOverview client:load />
+    </div>
+
+  </div>
+
+  <style>
+    .shadow-command-page {
+      padding: 1rem 2rem;
+      background: #000;
+      min-height: 100vh;
+    }
+
+    .shadow-header {
+      margin-bottom: 2rem;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      padding-bottom: 1rem;
+    }
+
+    .auth-warning {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.7rem;
+      font-weight: 800;
+      letter-spacing: 0.2em;
+      color: var(--p-gold);
+      opacity: 0.6;
+    }
+
+    .dashboard-root {
+      margin-top: 1rem;
+    }
+
+    /* Override PrimeLayout global styles for the Shadow interface */
+    :global(body) {
+      background: #050505 !important;
+    }
+  </style>
+</PrimeLayout>
