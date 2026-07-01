@@ -7,7 +7,7 @@ status: pending
 carousel_script: "You optimized your prompts for an hour; designed workflow and agent system while seated all day which may explain why later hours yielded poorer results as physical state directly modulates cognitive function indicating a need to optimise body position alongside software and workflows"
 categories: [pattern]
 custom_comment: |-
-  Nudge your brainpower by mixing up where and how you're working; change position every hour to unlock cognitive flow—your body isn't just a ride for thought, it's its fuel too.
+  Nudge your brainpower by mixing up where and how you're working; change position every hour to unlock cognitive flow, your body isn't just a ride for thought, it's its fuel too.
   
   [LINK]
 description: "Your physical state shapes your cognitive output. Position is not ergonomics. It is architecture. The BODY layer comes first."
