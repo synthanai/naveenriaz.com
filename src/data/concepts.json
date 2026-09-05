@@ -6,9 +6,9 @@
       "dimension": "think",
       "description": "Structured Persona-Argumentation for Reasoning",
       "repo": "spar-kit",
-      "fileCount": 141,
+      "fileCount": 140,
       "firstSeen": "2026-01-14T09:37:15+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "dmg",
@@ -18,7 +18,7 @@
       "repo": "decision-moment-graph",
       "fileCount": 136,
       "firstSeen": "2026-01-26T17:21:24+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "ramp",
@@ -28,7 +28,7 @@
       "repo": "ramp-kit",
       "fileCount": 35,
       "firstSeen": "2026-01-17T08:09:33+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "steal",
@@ -38,7 +38,7 @@
       "repo": "steal-kit",
       "fileCount": 6,
       "firstSeen": "2026-02-27T19:15:55+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "vault",
@@ -48,7 +48,7 @@
       "repo": "vault-kit",
       "fileCount": 50,
       "firstSeen": "2026-01-26T12:33:57+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "kural",
@@ -56,9 +56,9 @@
       "dimension": "play",
       "description": "2000-year-old Tamil couplets grounding modern reasoning",
       "repo": "kural",
-      "fileCount": 6995,
+      "fileCount": 100,
       "firstSeen": "2026-01-19T19:57:35+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "agentic",
@@ -66,9 +66,9 @@
       "dimension": "work",
       "description": "Brain infrastructure for AI agent orchestration",
       "repo": "agentic-kit",
-      "fileCount": 77,
+      "fileCount": 21634,
       "firstSeen": "2026-01-26T17:21:24+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "resonance",
@@ -78,7 +78,7 @@
       "repo": "resonance-kit",
       "fileCount": 2053,
       "firstSeen": "2026-01-27T12:32:03+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "vow",
@@ -88,7 +88,7 @@
       "repo": "vow-engine",
       "fileCount": 10,
       "firstSeen": "2026-01-27T12:32:03+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "iot-paper",
@@ -98,7 +98,7 @@
       "repo": "intent-of-thought",
       "fileCount": 1479,
       "firstSeen": "2026-03-03T04:57:16+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "spar-arena",
@@ -106,9 +106,9 @@
       "dimension": "work",
       "description": "Interactive debate visualization platform",
       "repo": "spar-arena",
-      "fileCount": 2570,
+      "fileCount": 683,
       "firstSeen": "2026-01-21T22:36:26+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "books",
@@ -118,7 +118,7 @@
       "repo": null,
       "fileCount": 0,
       "firstSeen": null,
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     },
     {
       "id": "student",
@@ -128,7 +128,7 @@
       "repo": "student-kit",
       "fileCount": 81,
       "firstSeen": "2026-02-18T04:44:13+11:00",
-      "lastModified": "2026-04-14T00:29:55+10:00"
+      "lastModified": "2026-09-06T00:58:47+05:30"
     }
   ],
   "edges": [

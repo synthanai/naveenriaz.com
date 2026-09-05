@@ -1,17 +1,85 @@
 {
-  "generatedAt": "2026-04-13T16:18:25.195Z",
+  "generatedAt": "2026-09-05T19:38:47.388Z",
   "pulse": {
-    "repos": 35,
-    "researchFiles": 0,
-    "bookChapters": 0,
-    "booksCount": 0,
-    "papers": 0,
-    "workflows": 17,
-    "skills": 28,
-    "knowledgeItems": 20,
-    "publications": 0,
-    "totalCommits": 1654,
-    "lastActivity": "2026-04-14T00:29:55+10:00"
+    "repos": 42,
+    "researchFiles": 20805,
+    "bookChapters": 24,
+    "booksCount": 14,
+    "papers": 5,
+    "workflows": 33,
+    "skills": 33,
+    "knowledgeItems": 22,
+    "publications": 6,
+    "totalCommits": 5088,
+    "lastActivity": "2026-09-06T00:58:47+05:30"
+  },
+  "content": {
+    "moments": {
+      "sparks": {
+        "count": 59,
+        "dimension": "Think",
+        "length": "Short"
+      },
+      "fusions": {
+        "count": 45,
+        "dimension": "Think",
+        "length": "Long"
+      },
+      "claws": {
+        "count": 0,
+        "dimension": "Think",
+        "length": "Long"
+      },
+      "knots": {
+        "count": 168,
+        "dimension": "Work",
+        "length": "Short"
+      },
+      "beads": {
+        "count": 14,
+        "dimension": "Play",
+        "length": "Long"
+      },
+      "digs": {
+        "count": 0,
+        "dimension": "Work",
+        "length": "Long"
+      },
+      "wows": {
+        "count": 0,
+        "dimension": "Play",
+        "length": "Short"
+      },
+      "awes": {
+        "count": 0,
+        "dimension": "Play",
+        "length": "Long"
+      },
+      "scars": {
+        "count": 0,
+        "dimension": "Play",
+        "length": "Short"
+      },
+      "syncs": {
+        "count": 1,
+        "dimension": "Vibe",
+        "length": "Short"
+      },
+      "spars": {
+        "count": 1,
+        "dimension": "Vibe",
+        "length": "Long"
+      },
+      "voids": {
+        "count": 0,
+        "dimension": "Vibe",
+        "length": "Short"
+      }
+    },
+    "totalContent": 288,
+    "filledTypes": 6,
+    "totalTypes": 12,
+    "healthPct": 50
   },
   "ki": [
     {
@@ -54,6 +122,12 @@
       "id": "decision_moment_graph_dmg",
       "title": "Decision Moment Standard (DMS) & DMG Ecosystem (v3.2)",
       "summary": "DMS documents the normative protocol for auditable decision governance. v3.2 evolves the lifecycle from a 7-step Octagon to an 8-step Octagon, incorporating the 'RETRO' phase for continuous reflection",
+      "lastAccessed": null
+    },
+    {
+      "id": "imessage_steal_intelligence_batch_1",
+      "title": "iMessage STEAL Intelligence: Batch 1",
+      "summary": "This Knowledge Item contains the aggregated, parsed, and cleaned research compiled during the May 2026 iMessage STEAL curation pipeline. It includes 38 tracked technical, strategic, and philosophical ",
       "lastAccessed": null
     },
     {
@@ -111,9 +185,21 @@
       "lastAccessed": null
     },
     {
+      "id": "synthai_research_os",
+      "title": "SYNTHAI Research Operating System (Scholar Implementation)",
+      "summary": "This Knowledge Item codifies the SYNTHAI 'Scholar' Research System—a robust, authoring-agnostic production engine. It defines a fully-implemented Manager-Worker architecture for Antigravity, utilizing",
+      "lastAccessed": null
+    },
+    {
       "id": "synthai_unified_philosophy",
       "title": "SYNTHAI Unified Philosophy (v2.8): Cognitive Turn & Self-Awareness",
       "summary": "The master manifesto and ontological reference for the SYNTHAI ecosystem. v2.8 codifies the 'Cognitive Turn + Self-Awareness' (v9.0) evolution, integrating the 20 major additions (CODEX, NOOL, Octagon",
+      "lastAccessed": null
+    },
+    {
+      "id": "synthai_v7_master",
+      "title": "SYNTHAI v7.0 Master: Philosophy, Publication & Narrative Strategy",
+      "summary": "The definitive reference for SYNTHAI v7.0 (Synthanai). This KI codifies the decentralized 'Grand Unified Architecture' (SAS v3.0), integrating a 12-agent World Simulation (The Swarm) with a recursive ",
       "lastAccessed": null
     },
     {

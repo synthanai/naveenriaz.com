@@ -66,31 +66,44 @@ async function scanSubmodules() {
 }
 
 async function scanResearch() {
-    const researchDir = join(REPO_ROOT, '2-research');
+    const researchDir = join(REPO_ROOT, 'corpus', 'research');
     return await countFiles(researchDir, ['.md', '.json', '.yaml', '.yml']);
 }
 
 async function scanBooks() {
-    const booksDir = join(REPO_ROOT, '5-text', 'books');
+    // Check both corpus/books (source material) and factory/text/books (production)
     let chapters = 0;
     let books = 0;
-    try {
-        const bookDirs = await readdir(booksDir, { withFileTypes: true });
-        for (const book of bookDirs) {
-            if (!book.isDirectory()) continue;
-            books++;
-            const bookPath = join(booksDir, book.name);
-            const entries = await readdir(bookPath, { withFileTypes: true, recursive: true });
-            // Count ch* directories (production chapters)
-            for (const entry of entries) {
-                if (entry.isDirectory() && /^ch\d+/.test(entry.name)) chapters++;
+    const bookPaths = [
+        join(REPO_ROOT, 'factory', 'text', 'books'),
+        join(REPO_ROOT, 'corpus', 'books'),
+    ];
+    for (const booksDir of bookPaths) {
+        try {
+            const bookDirs = await readdir(booksDir, { withFileTypes: true });
+            for (const book of bookDirs) {
+                if (!book.isDirectory()) continue;
+                books++;
+                const bookPath = join(booksDir, book.name);
+                const entries = await readdir(bookPath, { withFileTypes: true, recursive: true });
+                for (const entry of entries) {
+                    if (entry.isDirectory() && /^ch\d+/.test(entry.name)) chapters++;
+                }
             }
-        }
-    } catch { /* no books dir */ }
+        } catch { /* dir doesn't exist */ }
+    }
     // Also count ebooks
-    const ebooksDir = join(REPO_ROOT, '5-text', 'ebooks');
+    const ebooksDir = join(REPO_ROOT, 'factory', 'publication', 'ebooks');
     try {
         const ebookDirs = await readdir(ebooksDir, { withFileTypes: true });
+        for (const eb of ebookDirs) {
+            if (eb.isDirectory()) books++;
+        }
+    } catch { /* no ebooks dir */ }
+    // Also count factory/text/ebooks
+    const textEbooksDir = join(REPO_ROOT, 'factory', 'text', 'ebooks');
+    try {
+        const ebookDirs = await readdir(textEbooksDir, { withFileTypes: true });
         for (const eb of ebookDirs) {
             if (eb.isDirectory()) books++;
         }
@@ -99,13 +112,21 @@ async function scanBooks() {
 }
 
 async function scanPapers() {
-    const papersDir = join(REPO_ROOT, '5-text', 'whitepapers');
+    const papersDir = join(REPO_ROOT, 'factory', 'text', 'whitepapers');
     return await countDirs(papersDir);
 }
 
 async function scanWorkflows() {
-    const workflowDir = join(REPO_ROOT, '.agent', 'workflows');
-    return await countFiles(workflowDir, ['.md']);
+    // Workflows migrated to skills: count wf-* directories in .agents/skills/
+    const skillsDir = join(REPO_ROOT, '.agents', 'skills');
+    let count = 0;
+    try {
+        const entries = await readdir(skillsDir, { withFileTypes: true });
+        for (const entry of entries) {
+            if (entry.isDirectory() && entry.name.startsWith('wf-')) count++;
+        }
+    } catch { /* dir doesn't exist */ }
+    return count;
 }
 
 async function scanSkills() {
@@ -137,7 +158,7 @@ async function scanKnowledgeItems() {
 }
 
 async function scanPublications() {
-    const pubDir = join(REPO_ROOT, '8-publication');
+    const pubDir = join(REPO_ROOT, 'factory', 'publication');
     return await countDirs(pubDir);
 }
 
@@ -244,12 +265,64 @@ async function enrichConceptNodes(existing) {
     return existing;
 }
 
+// ─── Content Moment Scanner ──────────────────────────────────
+
+const MOMENT_TYPES = [
+    { id: 'sparks', dimension: 'Think', length: 'Short' },
+    { id: 'fusions', dimension: 'Think', length: 'Long' },
+    { id: 'claws', dimension: 'Think', length: 'Long' },
+    { id: 'knots', dimension: 'Work', length: 'Short' },
+    { id: 'beads', dimension: 'Play', length: 'Long' },
+    { id: 'digs', dimension: 'Work', length: 'Long' },
+    { id: 'wows', dimension: 'Play', length: 'Short' },
+    { id: 'awes', dimension: 'Play', length: 'Long' },
+    { id: 'scars', dimension: 'Play', length: 'Short' },
+    { id: 'syncs', dimension: 'Vibe', length: 'Short' },
+    { id: 'spars', dimension: 'Vibe', length: 'Long' },
+    { id: 'voids', dimension: 'Vibe', length: 'Short' },
+];
+
+async function scanMoments() {
+    const contentDir = join(SITE_ROOT, 'src', 'content');
+    const moments = {};
+    let totalContent = 0;
+    let filledTypes = 0;
+
+    for (const moment of MOMENT_TYPES) {
+        const dir = join(contentDir, moment.id);
+        let count = 0;
+        try {
+            const entries = await readdir(dir, { withFileTypes: true, recursive: true });
+            for (const entry of entries) {
+                if (entry.isFile() && entry.name.endsWith('.md') && entry.name !== 'placeholder.md') {
+                    count++;
+                }
+            }
+        } catch { /* dir doesn't exist */ }
+        moments[moment.id] = {
+            count,
+            dimension: moment.dimension,
+            length: moment.length,
+        };
+        totalContent += count;
+        if (count > 0) filledTypes++;
+    }
+
+    return {
+        moments,
+        totalContent,
+        filledTypes,
+        totalTypes: MOMENT_TYPES.length,
+        healthPct: Math.round((filledTypes / MOMENT_TYPES.length) * 100),
+    };
+}
+
 // ─── Main ────────────────────────────────────────────────────
 
 async function main() {
     console.log('🔵 Pulse Engine Scanner starting...\n');
 
-    const [repos, research, bookData, papers, workflows, skills, ki, publications] = await Promise.all([
+    const [repos, research, bookData, papers, workflows, skills, ki, publications, contentHealth] = await Promise.all([
         scanSubmodules(),
         scanResearch(),
         scanBooks(),
@@ -257,7 +330,8 @@ async function main() {
         scanWorkflows(),
         scanSkills(),
         scanKnowledgeItems(),
-        scanPublications()
+        scanPublications(),
+        scanMoments()
     ]);
 
     const totalCommits = gitCommitCount();
@@ -278,6 +352,7 @@ async function main() {
             totalCommits,
             lastActivity
         },
+        content: contentHealth,
         ki: ki.items
     };
 
@@ -304,6 +379,11 @@ async function main() {
     console.log(`  Total Commits:   ${totalCommits}`);
     console.log(`  Last Activity:   ${lastActivity}`);
     console.log(`  Concepts:        ${concepts.nodes.length} nodes, ${concepts.edges.length} edges`);
+    console.log(`\n📝 Content Health: ${contentHealth.filledTypes}/${contentHealth.totalTypes} types active (${contentHealth.healthPct}%), ${contentHealth.totalContent} total pieces`);
+    for (const [id, data] of Object.entries(contentHealth.moments)) {
+        const status = data.count > 0 ? `${data.count}` : '⬜ empty';
+        console.log(`    ${id.padEnd(10)} [${data.dimension}/${data.length}]: ${status}`);
+    }
     console.log('\n🟢 Pulse complete.\n');
 }
 
