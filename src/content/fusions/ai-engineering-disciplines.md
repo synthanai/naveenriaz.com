@@ -7,16 +7,16 @@ status: pending
 categories: [ai-emergence]
 description: "The evolution from prompt engineering to intent engineering, mapped as four ascending disciplines that determine how effectively humans direct AI systems."
 display_subtitle: "Four layers of directing AI systems. Most teams are stuck on the first. The competitive edge lives on the fourth."
-fusion_nool: |-
+fusion_nool:
   nokkam: "Reveal that AI engineering is evolving through four distinct layers, each absorbing its predecessor, and that Intent Engineering (the frontier) requires encoding organizational identity, not just writing better specifications"
-    vadivam: "Pattern: evolutionary maturity model (Prompt → Context → Harness → Intent) mapped to capability layers (Body → Mind → Soul). Gateway to a deeper thesis on identity-driven governance."
-    sangilai: "Reader identifies which layer they currently operate on, recognises the gap, and begins to grasp that Layer 4 demands philosophical depth, not just technical precision"
-fusion_point: |-
+  vadivam: "Pattern: evolutionary maturity model (Prompt → Context → Harness → Intent) mapped to capability layers (Body → Mind → Soul). Gateway to a deeper thesis on identity-driven governance."
+  sangilai: "Reader identifies which layer they currently operate on, recognises the gap, and begins to grasp that Layer 4 demands philosophical depth, not just technical precision"
+fusion_point:
   ideas:
-      - "Prompt Engineering as instruction craft (the solved layer)"
-      - "Context Engineering as information architecture for attention budgets"
-      - "Harness Engineering as the scaffolding, feedback, and constraint system surrounding agents"
-      - "Intent Engineering as purpose-driven governance that lets systems self-direct toward outcomes"
+    - "Prompt Engineering as instruction craft (the solved layer)"
+    - "Context Engineering as information architecture for attention budgets"
+    - "Harness Engineering as the scaffolding, feedback, and constraint system surrounding agents"
+    - "Intent Engineering as purpose-driven governance that lets systems self-direct toward outcomes"
 fusion_type: public
 linkedin_post: |-
   Your autonomous system runs flawlessly, 
@@ -48,7 +48,7 @@ quote_top: |-
   you can't see yet.
 source_research: "concepts/prompt-driven-architecture/research.md"
 tags: [prompt_engineering, context_engineering, harness_engineering, intent_engineering, agentic_systems, ai_architecture, living_organisations]
-valence: provocative
+valence: "mixed"
 ---
 
 # AI Engineering Disciplines

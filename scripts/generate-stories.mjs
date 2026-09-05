@@ -24,10 +24,10 @@ import https from 'https';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = path.resolve(__dirname, '../../../');
-const POSTS_BASE = path.join(REPO_ROOT, '5-text/posts/108-knots-organisations-2026');
+const POSTS_BASE = path.join(REPO_ROOT, 'factory/text/posts/108-knots-organisations-2026');
 const STORIES_DIR = path.join(POSTS_BASE, 'stories');
 
-const API_KEY = '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';
+const API_KEY = process.env.OPENROUTER_API_KEY;
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 const MODEL = 'nvidia/nemotron-3-super-120b-a12b:free';
 

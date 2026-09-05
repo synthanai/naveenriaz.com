@@ -15,15 +15,15 @@ carousel_script: |-
 categories: [ai-emergence, living-orgs]
 description: "90 AI agents evolved 1,251 code skills in 24 hours through Darwinian selection. It's brilliant engineering. And it's missing the one thing that matters."
 display_subtitle: "90 AI agents wrote 1,251 skills in 24 hours. Not one asked 'why.'"
-fusion_nool: |-
+fusion_nool:
   nokkam: "Expose the strategic blind spot in agent swarm architectures that optimise for velocity without purpose"
-    vadivam: "Contrast: optimisation speed vs. purposeful evolution"
-    sangilai: "Reader questions whether agent swarms they are building or buying have the values layer that prevents convergence traps"
-fusion_point: |-
+  vadivam: "Contrast: optimisation speed vs. purposeful evolution"
+  sangilai: "Reader questions whether agent swarms they are building or buying have the values layer that prevents convergence traps"
+fusion_point:
   ideas:
-      - "Darwinian evolution in biology"
-      - "Autonomous agent skill factories in AI"
-      - "Organisational Soul in living systems"
+    - "Darwinian evolution in biology"
+    - "Autonomous agent skill factories in AI"
+    - "Organisational Soul in living systems"
 fusion_type: public
 linkedin_post: |-
   Ninety AI agents generated 1,251 skills in 24 hours. The output was technically impressive, yet functionally predictable.

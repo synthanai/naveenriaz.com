@@ -4,7 +4,7 @@ date: 2026-03-31
 status: published
 audit_hallucination: FAIL
 audit_tone: FAIL
-born_from_knot: 005
+born_from_knot: "005"
 carousel_cta: "Scale with Purpose!"
 carousel_script: |-
   As organizations scale rapidly, 

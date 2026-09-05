@@ -100,7 +100,7 @@ src/
 
 **Design**: SYNTHAI Parchment (dark-mode-first, ancient warmth meets digital precision)
 
-**Data**: Live ecosystem pulse directly generated from source (*Note: README metrics are approximate. Live site shows ~35 repos, 1500+ commits, and 20 KIs.*)
+**Data**: Live ecosystem pulse generated from source (42 repos, 5,088+ commits, 22 KIs, 288 content pieces across 12 moment types)
 
 ## Tamil Roots
 

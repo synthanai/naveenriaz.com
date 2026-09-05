@@ -52,10 +52,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/038-decision-laundering"
 next_knot_title: Decision Laundering
-origin_nodes: |-
-  - knots:036-trust-bankruptcy
-  - knots/organizations/036-trust-bankruptcy
-  - knots/organizations/038-decision-laundering
+origin_nodes: ["- knots:036-trust-bankruptcy", "- knots/organizations/036-trust-bankruptcy", "- knots/organizations/038-decision-laundering"]
 prev_knot: "organizations/036-trust-bankruptcy"
 prev_knot_title: Trust Bankruptcy
 punch_line_1: "Deliberate before you act. To deliberate after acting is folly."

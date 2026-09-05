@@ -12,15 +12,15 @@ custom_comment: |-
   [LINK]
 description: "Your physical state shapes your cognitive output. Position is not ergonomics. It is architecture. The BODY layer comes first."
 display_subtitle: "You optimised your context window. You tuned your prompts. You didn't notice you've been sitting for four hours."
-fusion_nool: |-
+fusion_nool:
   nokkam: "Reframe physical state from ergonomic afterthought to foundational infrastructure: the BODY layer of cognition must be addressed before MIND or SOUL can function"
-    vadivam: "Pattern: Position-Place duality as the individual-scale equivalent of Mind-Body-Soul"
-    sangilai: "Reader re-evaluates their workspace and physical practices as architecture decisions, not comfort preferences"
-fusion_point: |-
+  vadivam: "Pattern: Position-Place duality as the individual-scale equivalent of Mind-Body-Soul"
+  sangilai: "Reader re-evaluates their workspace and physical practices as architecture decisions, not comfort preferences"
+fusion_point:
   ideas:
-      - "Position → cognitive state → contribution quality → collective intelligence (bottom-up chain)"
-      - "Perceived Exertion (Body) vs Perceived Effort (Mind): the duality most knowledge workers collapse"
-      - "The Oasis Effect: novelty prevents cognitive stagnation, at individual and organisational scales"
+    - "Position → cognitive state → contribution quality → collective intelligence (bottom-up chain)"
+    - "Perceived Exertion (Body) vs Perceived Effort (Mind): the duality most knowledge workers collapse"
+    - "The Oasis Effect: novelty prevents cognitive stagnation, at individual and organisational scales"
 fusion_type: public
 linkedin_post: |-
   How does your brain produce insights when you're on an office chair all day? Movement reduces prefrontal cortex dominance and enables diffuse thinking that produces insight; prolonged sitting narrows cognitive bandwidth.

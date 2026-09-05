@@ -7,15 +7,15 @@ status: pending
 categories: [living-organisations]
 description: "Structural legibility (making systems readable by AI) is solved for code. It is unsolved for organisations. That is the next frontier."
 display_subtitle: "RadHash made software readable by AI. The same principle applied to organisations would change everything."
-fusion_nool: |-
+fusion_nool:
   nokkam: "Bridge the concept of structural legibility from software architecture to organisational design: if AI agents need readable code, they also need readable organisations"
-    vadivam: "Transfer: software legibility pattern applied to organisational structures"
-    sangilai: "Reader asks whether their organisation's structure is readable by AI and realises that making it legible is a precondition for AI-native operations"
-fusion_point: |-
+  vadivam: "Transfer: software legibility pattern applied to organisational structures"
+  sangilai: "Reader asks whether their organisation's structure is readable by AI and realises that making it legible is a precondition for AI-native operations"
+fusion_point:
   ideas:
-      - "Structural legibility: systems must be architecturally readable by AI for safe collaboration"
-      - "The cross-domain pattern: James C. Scott (political legibility), RadHash (software legibility), SYNTHAI (organisational legibility)"
-      - "Constraints as enablers: restriction produces better outcomes than freedom, in code and in organisations"
+    - "Structural legibility: systems must be architecturally readable by AI for safe collaboration"
+    - "The cross-domain pattern: James C. Scott (political legibility), RadHash (software legibility), SYNTHAI (organisational legibility)"
+    - "Constraints as enablers: restriction produces better outcomes than freedom, in code and in organisations"
 fusion_type: public
 linkedin_post: |-
   Is your organization running on undocumented logic?

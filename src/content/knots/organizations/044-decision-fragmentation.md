@@ -43,10 +43,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/045-meeting-to-decision-ratio"
 next_knot_title: Meeting To Decision Ratio
-origin_nodes: |-
-  - knots:043-dissent-suppression
-  - knots/organizations/043-dissent-suppression
-  - knots/organizations/045-meeting-to-decision-ratio
+origin_nodes: ["- knots:043-dissent-suppression", "- knots/organizations/043-dissent-suppression", "- knots/organizations/045-meeting-to-decision-ratio"]
 prev_knot: "organizations/043-dissent-suppression"
 prev_knot_title: Dissent Suppression
 punch_line_1: "Those who know the weight of words speak only after understanding the full assembly."

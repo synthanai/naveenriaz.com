@@ -2,7 +2,7 @@
 title: The Brittle Shell
 date: 2026-03-31
 status: pending
-born_from_knot: 011
+born_from_knot: "011"
 essence: "An identity that cannot survive a crisis was never an identity; it was a luxury."
 kural_number: 114
 linkedin_post: |-

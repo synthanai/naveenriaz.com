@@ -44,13 +44,13 @@ categories: [ai-emergence]
 custom_comment: "This deep dive clarifies that change fatigue is not resistance, but a signal of unfulfilled organizational commitments: [LINK]"
 description: "LLMs can reason in chains, trees, and graphs. But nobody asks WHY before picking one. That is the gap."
 display_subtitle: "You're picking the wrong thinking structure. You don't even know it."
-fusion_nool: |-
+fusion_nool:
   nokkam: "Show practitioners that topology selection in LLM reasoning is an unaddressed governance gap, not a minor configuration choice."
-    vadivam: "Pattern collision: BDI agent theory (40 years) × XoT reasoning topologies (4 years), intersecting at the missing governance layer."
-    sangilai: "Reader questions their own default topology choices and tries a 3-line IoT spec on their next reasoning task."
-fusion_point: |-
+  vadivam: "Pattern collision: BDI agent theory (40 years) × XoT reasoning topologies (4 years), intersecting at the missing governance layer."
+  sangilai: "Reader questions their own default topology choices and tries a 3-line IoT spec on their next reasoning task."
+fusion_point:
   idea_a: "BDI agent theory (intent as committed goal, Cohen & Levesque 1990)"
-    idea_b: "XoT reasoning topologies (14+ structures, Besta et al. 2025)"
+  idea_b: "XoT reasoning topologies (14+ structures, Besta et al. 2025)"
 fusion_type: public
 linkedin_post: |
   Stop building advanced AI agents without asking the most critical question.

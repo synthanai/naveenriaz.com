@@ -39,10 +39,7 @@ linkedin_post: |-
 mbs_layer: BODY
 next_knot: "organizations/052-momentum-decay"
 next_knot_title: Momentum Decay
-origin_nodes: |-
-  - knots:050-transformation-theater
-  - knots/organizations/050-transformation-theater
-  - knots/organizations/052-momentum-decay
+origin_nodes: ["- knots:050-transformation-theater", "- knots/organizations/050-transformation-theater", "- knots/organizations/052-momentum-decay"]
 prev_knot: "organizations/050-transformation-theater"
 prev_knot_title: Transformation Theater
 punch_line_1: "Diagnose the disease. Trace its origin. Find the right remedy. Apply it precisely."

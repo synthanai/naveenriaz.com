@@ -39,10 +39,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/046-risk-theater"
 next_knot_title: Risk Theater
-origin_nodes: |-
-  - knots:044-decision-fragmentation
-  - knots/organizations/044-decision-fragmentation
-  - knots/organizations/046-risk-theater
+origin_nodes: ["- knots:044-decision-fragmentation", "- knots/organizations/044-decision-fragmentation", "- knots/organizations/046-risk-theater"]
 prev_knot: "organizations/044-decision-fragmentation"
 prev_knot_title: Decision Fragmentation
 punch_line_1: "An enterprise that destroys its capital while seeking gain is the death of initiative."

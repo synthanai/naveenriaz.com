@@ -39,12 +39,7 @@ linkedin_post: |-
 mbs_layer: BODY
 next_knot: "organizations/050-transformation-theater"
 next_knot_title: Transformation Theater
-origin_nodes: |-
-  - knots:048-decision-whiplash
-  - sparks:change-fatigue
-  - knots/organizations/048-decision-whiplash
-  - knots/organizations/050-transformation-theater
-  - sparks/change-fatigue
+origin_nodes: ["- knots:048-decision-whiplash", "- sparks:change-fatigue", "- knots/organizations/048-decision-whiplash", "- knots/organizations/050-transformation-theater", "- sparks/change-fatigue"]
 prev_knot: "organizations/048-decision-whiplash"
 prev_knot_title: Decision Whiplash
 punch_line_1: "Laugh when hardship arrives. Nothing defeats adversity like defiance."

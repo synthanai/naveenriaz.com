@@ -41,10 +41,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/042-decision-amnesia"
 next_knot_title: Decision Amnesia
-origin_nodes: |-
-  - knots:040-hippo-effect
-  - knots/organizations/040-hippo-effect
-  - knots/organizations/042-decision-amnesia
+origin_nodes: ["- knots:040-hippo-effect", "- knots/organizations/040-hippo-effect", "- knots/organizations/042-decision-amnesia"]
 prev_knot: "organizations/040-hippo-effect"
 prev_knot_title: Hippo Effect
 punch_line_1: "Those who foresee what is coming are never shaken by what arrives."

@@ -51,10 +51,7 @@ linkedin_post: |-
 mbs_layer: SOUL
 next_knot: "organizations/033-surveillance-culture"
 next_knot_title: Surveillance Culture
-origin_nodes: |-
-  - knots:031-trust-asymmetry
-  - knots/organizations/031-trust-asymmetry
-  - knots/organizations/033-surveillance-culture
+origin_nodes: ["- knots:031-trust-asymmetry", "- knots/organizations/031-trust-asymmetry", "- knots/organizations/033-surveillance-culture"]
 prev_knot: "organizations/031-trust-asymmetry"
 prev_knot_title: Trust Asymmetry
 punch_line_1: "Fortune abandons the leader who doubts a capable person mid-task."

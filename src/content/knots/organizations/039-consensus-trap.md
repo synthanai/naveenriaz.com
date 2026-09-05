@@ -50,11 +50,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/040-hippo-effect"
 next_knot_title: Hippo Effect
-origin_nodes: |-
-  - knots:038-decision-laundering
-  - sparks:the-consensus-trap
-  - knots/organizations/038-decision-laundering
-  - knots/organizations/040-hippo-effect
+origin_nodes: ["- knots:038-decision-laundering", "- sparks:the-consensus-trap", "- knots/organizations/038-decision-laundering", "- knots/organizations/040-hippo-effect"]
 prev_knot: "organizations/038-decision-laundering"
 prev_knot_title: Decision Laundering
 punch_line_1: "Pursuing virtue steadily along the right path is the mark of lasting greatness."

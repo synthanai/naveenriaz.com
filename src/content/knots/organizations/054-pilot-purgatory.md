@@ -41,10 +41,7 @@ linkedin_post: |-
 mbs_layer: BODY
 next_knot: "organizations/055-sponsorship-evaporation"
 next_knot_title: Sponsorship Evaporation
-origin_nodes: |-
-  - knots:053-initiative-overload
-  - knots/organizations/053-initiative-overload
-  - knots/organizations/055-sponsorship-evaporation
+origin_nodes: ["- knots:053-initiative-overload", "- knots/organizations/053-initiative-overload", "- knots/organizations/055-sponsorship-evaporation"]
 prev_knot: "organizations/053-initiative-overload"
 prev_knot_title: Initiative Overload
 punch_line_1: "Those who plan with resolve achieve exactly what they envision."

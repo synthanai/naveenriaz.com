@@ -49,10 +49,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/044-decision-fragmentation"
 next_knot_title: Decision Fragmentation
-origin_nodes: |-
-  - knots:042-decision-amnesia
-  - knots/organizations/042-decision-amnesia
-  - knots/organizations/044-decision-fragmentation
+origin_nodes: ["- knots:042-decision-amnesia", "- knots/organizations/042-decision-amnesia", "- knots/organizations/044-decision-fragmentation"]
 prev_knot: "organizations/042-decision-amnesia"
 prev_knot_title: Decision Amnesia
 punch_line_1: "Speak words that have purpose. Never speak words without purpose."

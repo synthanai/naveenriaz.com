@@ -8,15 +8,15 @@ categories: [organisations]
 custom_comment: "Ready to move past diagnosis and unlock genuine team emergence? [LINK]"
 description: "Lencioni's masterpiece diagnosed the baseline of team failure. But resolving dysfunction is not the end state-it is the prerequisite for emergence."
 display_subtitle: "The 5 Dysfunctions tell you what to fix. SYNTHAI tells you what emerges when you do."
-fusion_nool: |-
+fusion_nool:
   nokkam: "Position SYNTHAI's STARS principles as the emergence layer that sits on top of Lencioni's foundational dysfunction hierarchy"
-    vadivam: "Conceptual bridge: from diagnostic (Lencioni) to generative (SYNTHAI)"
-    sangilai: "Reader understands that 'healthy' is not the ceiling; it is the floor where true emergence begins."
-fusion_point: |-
+  vadivam: "Conceptual bridge: from diagnostic (Lencioni) to generative (SYNTHAI)"
+  sangilai: "Reader understands that 'healthy' is not the ceiling; it is the floor where true emergence begins."
+fusion_point:
   ideas:
-      - "Lencioni's 'organizational health' is an emergent property described without the vocabulary of complexity science."
-      - "Every dysfunction is a blocked STARS principle that creates an anti-emergence."
-      - "Fixing a team is not the goal; unlocking what emerges from the fixed team is the goal."
+    - "Lencioni's 'organizational health' is an emergent property described without the vocabulary of complexity science."
+    - "Every dysfunction is a blocked STARS principle that creates an anti-emergence."
+    - "Fixing a team is not the goal; unlocking what emerges from the fixed team is the goal."
 fusion_type: public
 origin_nodes: []
 quote_bottom: "Emergence is the goal."

@@ -41,10 +41,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/041-irreversibility-blindness"
 next_knot_title: Irreversibility Blindness
-origin_nodes: |-
-  - knots:039-consensus-trap
-  - knots/organizations/039-consensus-trap
-  - knots/organizations/041-irreversibility-blindness
+origin_nodes: ["- knots:039-consensus-trap", "- knots/organizations/039-consensus-trap", "- knots/organizations/041-irreversibility-blindness"]
 prev_knot: "organizations/039-consensus-trap"
 prev_knot_title: Consensus Trap
 punch_line_1: "A person's stature rises to match their will."

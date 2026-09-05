@@ -50,12 +50,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/039-consensus-trap"
 next_knot_title: Consensus Trap
-origin_nodes: |-
-  - knots:037-analysis-paralysis
-  - sparks:decision-laundering
-  - knots/organizations/037-analysis-paralysis
-  - knots/organizations/039-consensus-trap
-  - sparks/decision-laundering
+origin_nodes: ["- knots:037-analysis-paralysis", "- sparks:decision-laundering", "- knots/organizations/037-analysis-paralysis", "- knots/organizations/039-consensus-trap", "- sparks/decision-laundering"]
 prev_knot: "organizations/037-analysis-paralysis"
 prev_knot_title: Analysis Paralysis
 punch_line_1: "All that is desired is achieved if the mind harbors no anger."

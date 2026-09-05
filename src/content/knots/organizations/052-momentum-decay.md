@@ -43,10 +43,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/053-initiative-overload"
 next_knot_title: Initiative Overload
-origin_nodes: |-
-  - knots:051-resistance-misdiagnosis
-  - knots/organizations/051-resistance-misdiagnosis
-  - knots/organizations/053-initiative-overload
+origin_nodes: ["- knots:051-resistance-misdiagnosis", "- knots/organizations/051-resistance-misdiagnosis", "- knots/organizations/053-initiative-overload"]
 prev_knot: "organizations/051-resistance-misdiagnosis"
 prev_knot_title: Resistance Misdiagnosis
 punch_line_1: "Effort creates fortune. Lack of effort invites poverty."

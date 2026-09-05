@@ -54,10 +54,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/036-trust-bankruptcy"
 next_knot_title: Trust Bankruptcy
-origin_nodes: |-
-  - knots:034-gossip-economy
-  - knots/organizations/034-gossip-economy
-  - knots/organizations/036-trust-bankruptcy
+origin_nodes: ["- knots:034-gossip-economy", "- knots/organizations/034-gossip-economy", "- knots/organizations/036-trust-bankruptcy"]
 prev_knot: "organizations/034-gossip-economy"
 prev_knot_title: Gossip Economy
 punch_line_1: "Deliberate before you decide. To deliberate after deciding is disgrace."

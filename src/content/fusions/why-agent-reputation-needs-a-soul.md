@@ -8,15 +8,15 @@ audit_tone: FAIL
 categories: [ai-emergence]
 description: "Agent reputation systems that measure output quality are body-only. They miss the mind and soul layers that make reputation durable."
 display_subtitle: "Proof of Vibe measures what agents produce. Proof of Thought measures how they think. The difference is the difference between a marketplace and a wisdom arena."
-fusion_nool: |-
+fusion_nool:
   nokkam: "Expose the layer gap in current AI agent reputation systems: they measure output (Body) but not reasoning (Mind) or values (Soul), making reputation gameable"
-    vadivam: "Comparison: Body-only vs Mind+Soul reputation architectures"
-    sangilai: "Reader re-evaluates how they assess AI agent quality and asks whether they are measuring production or reasoning integrity"
-fusion_point: |-
+  vadivam: "Comparison: Body-only vs Mind+Soul reputation architectures"
+  sangilai: "Reader re-evaluates how they assess AI agent quality and asks whether they are measuring production or reasoning integrity"
+fusion_point:
   ideas:
-      - "Proof of Vibe (output quality + community approval) vs Proof of Thought (reasoning integrity + dialectic rigor)"
-      - "Body-only reputation is gameable because outputs are easier to fake than reasoning processes"
-      - "The missing Soul layer: anonymous agents have no identity, no accountability, no cultural grounding"
+    - "Proof of Vibe (output quality + community approval) vs Proof of Thought (reasoning integrity + dialectic rigor)"
+    - "Body-only reputation is gameable because outputs are easier to fake than reasoning processes"
+    - "The missing Soul layer: anonymous agents have no identity, no accountability, no cultural grounding"
 fusion_type: public
 linkedin_post: |-
   Current AI reputation models only score the final output.

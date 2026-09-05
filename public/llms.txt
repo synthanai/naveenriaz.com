@@ -4,7 +4,7 @@
 
 ## Core Frameworks (The Mind)
 
-- **108 KNOTS**: A comprehensive strategy system for untangling organizational, financial, and identity bottlenecks. 
+- **108 KNOTS**: A comprehensive strategy system for untangling organizational, financial, and identity bottlenecks (168 knots published across 9 series).
   - [The Identity Crisis](https://naveenriaz.com/knots/001-the-identity-crisis)
   - [The Ivory Tower](https://naveenriaz.com/knots/013-the-ivory-tower)
   - [The Manual Pump](https://naveenriaz.com/knots/025-the-manual-pump)
@@ -13,13 +13,13 @@
   - [Innovation Theater](https://naveenriaz.com/knots/089-innovation-theater)
   - [The Zombie Organization](https://naveenriaz.com/knots/108-the-zombie-organization)
 
-- **SPAR (Structured Persona-Argumentation for Reasoning)**: A multi-agent dialectic protocol for high-fidelity decision-making.
+- **SPAR (Structured Persona-Argumentation for Reasoning)**: A multi-agent dialectic protocol for high-fidelity decision-making. 504 possible configurations via TESSERACT.
   - [The Accidental SPAR](https://naveenriaz.com/sparks/the-accidental-spar)
   - [The Mirror Argument](https://naveenriaz.com/sparks/the-mirror-argument)
 
 ## Strategy & Emergence (The Sparks)
 
-High-leverage insights on AI, Org Design, and Patterns:
+High-leverage insights on AI, Org Design, and Patterns (59 sparks, 45 fusions published):
 - [Every Employee personal Brand 2030](https://naveenriaz.com/sparks/every-employee-brand-2030)
 - [Your Next Buyer is an Agent](https://naveenriaz.com/sparks/your-next-buyer-is-an-agent)
 - [Monolithic Agents are Dead](https://naveenriaz.com/sparks/monolithic-agents-dead)
@@ -30,16 +30,24 @@ High-leverage insights on AI, Org Design, and Patterns:
 - [Deterministic Audits](https://naveenriaz.com/sparks/deterministic-audits)
 - [Pattern Connector](https://naveenriaz.com/sparks/pattern-connector)
 
+## The Ecosystem (42 repos, 5,088 commits, 20,805 research files)
+
+- **SYNTHAI**: Sovereign identity OS (Mind-Body-Soul philosophy, 33 cognitive skills, 22 knowledge items)
+- **ARIVAR**: Dialectic engine and cognitive profiling
+- **ARANGAM**: Learning and performance platform
+- **SANGAM**: Community and collaboration layer
+- **Agentic-Kit**: Infrastructure for AI agent orchestration
+- **Intent of Thought (IoT)**: GPS for AI Reasoning (arXiv published)
+
 ## Professional Capability (The Toolkit)
 
-- **Fractional CTO**: Strategic technology leadership for high-growth startups (Raise Tech UK, ERIC).
+- **Fractional CTO**: Strategic technology leadership for high-growth startups.
 - **Identity Transmutation Coach**: SPARED+ engine based coaching for technical leaders.
 - **Architectural Oversight**: Expert in Agentic RAG, Context Engineering, and System Design.
 
 ## Contact & Governance
 
 - **Web (Personal)**: [naveenriaz.com](https://naveenriaz.com)
-- **Web (Business)**: [synthai.biz](https://synthai.biz)
 - **LinkedIn**: [Naveen Riaz Mohamed Kani](https://www.linkedin.com/in/mnaveenriaz/)
 - **GitHub**: [synthanai](https://github.com/synthanai)
 

@@ -14,7 +14,7 @@ audit_time: PASS
 audit_tone: PASS
 audit_torus: PASS
 audit_voice: "98% MATCH"
-born_from_knot: 001
+born_from_knot: "001"
 carousel_cta: |-
   Think in systems, 
   not symptoms.

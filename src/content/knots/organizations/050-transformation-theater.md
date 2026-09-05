@@ -41,10 +41,7 @@ linkedin_post: |-
 mbs_layer: SOUL
 next_knot: "organizations/051-resistance-misdiagnosis"
 next_knot_title: Resistance Misdiagnosis
-origin_nodes: |-
-  - knots:049-change-fatigue
-  - knots/organizations/049-change-fatigue
-  - knots/organizations/051-resistance-misdiagnosis
+origin_nodes: ["- knots:049-change-fatigue", "- knots/organizations/049-change-fatigue", "- knots/organizations/051-resistance-misdiagnosis"]
 prev_knot: "organizations/049-change-fatigue"
 prev_knot_title: Change Fatigue
 punch_line_1: "One who acts without understanding the means will find themselves as lost as one who understands but never acts."

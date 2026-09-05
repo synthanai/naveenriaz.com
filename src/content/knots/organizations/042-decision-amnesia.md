@@ -41,10 +41,7 @@ linkedin_post: |-
 mbs_layer: MIND
 next_knot: "organizations/043-dissent-suppression"
 next_knot_title: Dissent Suppression
-origin_nodes: |-
-  - knots:041-irreversibility-blindness
-  - knots/organizations/041-irreversibility-blindness
-  - knots/organizations/043-dissent-suppression
+origin_nodes: ["- knots:041-irreversibility-blindness", "- knots/organizations/041-irreversibility-blindness", "- knots/organizations/043-dissent-suppression"]
 prev_knot: "organizations/041-irreversibility-blindness"
 prev_knot_title: Irreversibility Blindness
 punch_line_1: "Learn thoroughly what should be learned. Having learned, live by it."

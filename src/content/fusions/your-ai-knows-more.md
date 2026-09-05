@@ -6,15 +6,15 @@ status: pending
 categories: [ai-emergence, pattern]
 description: "Your AI conversation history contains your problem-solving patterns, decision rationale, and coding style. You don't own it."
 display_subtitle: "446 developers want their AI data back. That's more stars than any AI model or agent this builder shipped."
-fusion_nool: |-
+fusion_nool:
   nokkam: "Reveal that AI conversation histories are externalized tacit knowledge that users neither own nor can extract"
-    vadivam: "Contrast: AI capability hype × Data ownership reality"
-    sangilai: "Reader audits their own AI tool data and considers extraction or portability"
-fusion_point: |-
+  vadivam: "Contrast: AI capability hype × Data ownership reality"
+  sangilai: "Reader audits their own AI tool data and considers extraction or portability"
+fusion_point:
   ideas:
-      - "Tacit knowledge externalisation through AI dialogue"
-      - "Platform lock-in through conversation history"
-      - "Data sovereignty as a developer right"
+    - "Tacit knowledge externalisation through AI dialogue"
+    - "Platform lock-in through conversation history"
+    - "Data sovereignty as a developer right"
 fusion_type: public
 origin_nodes: []
 quote_bottom: |-

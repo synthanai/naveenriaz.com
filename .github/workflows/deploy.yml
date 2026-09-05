@@ -33,6 +33,9 @@ jobs:
       - name: Build Astro
         run: npm run build:local
 
+      - name: Validate links
+        run: node scripts/link-auditor.mjs
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
